@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:33:37.820Z
+date: 2025-11-15T02:03:31.329Z
 permalink: tags/korea
 title: korea
 ---
 
 ## korea
 
-Last updated: <time datetime="2025-11-14T01:33:37.820Z">Fri Nov 14 2025 03:33:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T02:03:31.329Z">Sat Nov 15 2025 04:03:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -95,7 +95,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/mX9_djnedhMyopP0iPniYzcQppWLLaOvG6M-03ITz-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk2/Njg1LTE2MzEzNzc5/MTUtMzU3MS5wbmc.jpeg" alt="Cover for 멈춰진시간속에" style="max-width:120px; height:auto;" />
       </td>
@@ -133,7 +133,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef93eb7fab001437a79562881b3394ca.png" alt="Cover for Hold My Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +180,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for 상속자들 (SBS 수목드라마) OST 2" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +201,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/b07rAe5zVQpjVkvirQIDKOQdOQSMK8uTevlkZQD7xCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ3/MjM0LTE1ODQ1NTM3/NTMtNDk1MC5qcGVn.jpeg" alt="Cover for Ocean like me (Original Web Drama Soundtrack, Pt. 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcee05ac80243882ecb6adeae810c174.png" alt="Cover for Ocean like me (Original Web Drama Soundtrack, Pt. 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Holland</td>
@@ -238,9 +238,27 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0385413cc5f39b834fd97b8e120c40b5.png" alt="Cover for CRY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Stellar</td>
+      <td>CRY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/ZBNM6Rfg5X8pCrsLHe0HJizwHSzeSGXbgMh4S1N_MAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjU0/My0xMTE0NDk5NjM1/LmpwZw.jpeg" alt="Cover for Marionette" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dedf53a36440cd154bbb89d2bba7488.png" alt="Cover for Marionette" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-21</td>
       <td>Stellar</td>
@@ -277,7 +295,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/y81mrChhx0frUQzJ8ded5Bnjp3sHxx9AdLVj5RRU2A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTU4/NjEtMTM5MzgwMTIw/OC04Nzc5LmpwZWc.jpeg" alt="Cover for Oh! My assistant (Original Television Soundtrack) Pt. 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06dd040abf622cda301bd58bb559b572.png" alt="Cover for Oh! My assistant (Original Television Soundtrack) Pt. 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Holland</td>
@@ -298,7 +316,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
       </td>
       <td>2006-03-10</td>
@@ -388,7 +406,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1afd92fa723be709eedf7efad30163e.png" alt="Cover for Seoul Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +551,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/hCrWacjlwjuMQr7I4HzAu3I0ili6uAgAoW3V8buUQy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODYw/ODgtMTQzNTI2MTM0/Ny0xMzExLmpwZWc.jpeg" alt="Cover for Loved you better" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2fe47bcdb4f61aab023f3644237da9.png" alt="Cover for Loved you better" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-27</td>
       <td>Holland</td>
@@ -591,7 +609,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 15</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +623,6 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       <td>Electric Shock</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
         </ul>
       </td>
       <td>
@@ -681,7 +698,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/085a8ad200114ef896b8ccc47fbe2b90.png" alt="Cover for 2MYX" style="max-width:120px; height:auto;" />
       </td>
@@ -727,7 +744,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/SAGTSWQgSEDtLX3TMXgbSV3wxYJGQqLXRQUr9yDrK9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc2/OTU0LTE1NjUzMTEz/NzYtNDc1MS5qcGVn.jpeg" alt="Cover for Fast Times At Trillmont High" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +834,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e358b13a1e40488faa626cd548becc6c.png" alt="Cover for 미스코리아" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +962,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fe6606768a143ab81d381d81abaa2e5.png" alt="Cover for Hard to love, How to love" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1057,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0c6c0663a0829a1d2279c60264fd7f3.png" alt="Cover for Modern Times - Epilogue" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1120,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/6aPujxkrckVeDxaSLY38GWhi3cOQFTlGrCN_MevpYM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEx/OTY4LTE1NjM4OTk2/NzctODMwNy5wbmc.jpeg" alt="Cover for 박지하: 자전적 소리의 기록 Park Jiha: A Record of Autobiographical Sounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1141,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5ec8522a14f1ff5bb45168321d6b7f2.png" alt="Cover for 4minute World" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1177,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d3861837a3e6515f3676e70339d5ab5.png" alt="Cover for [PETIT MACARON] DATA PACK" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1261,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/jb_qHxwSOgWumppmcJJVnYUzvRfYizj_9XZSem_CtgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/NzIyLTE1MTcyNTU1/MjktMzgwMC5qcGVn.jpeg" alt="Cover for My Type" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1323,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a5d6e2122b14a08ca438e3275c4448f.png" alt="Cover for 말을 해야 알지" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1368,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/oNHFilxcrtery1yrcifFTiO_eR8nWBSRnstOWwjrqp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM1/MDkzLTE1ODI5MTM3/OTctNjI0MS5qcGVn.jpeg" alt="Cover for BR:evolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea6382efaffe922427e05a0143556e61.png" alt="Cover for BR:evolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-30</td>
       <td>Boys Republic</td>
@@ -1391,7 +1408,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/iqGxnvT031aVsf3ZYq9fEpJx5fWetMMRNmkBCNHnOIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgw/NTY1LTE2MTAzNzg3/NDgtOTU2OS5qcGVn.jpeg" alt="Cover for 신데렐라 언니 OST" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07d808b82d334f7ecff77194693a039f.png" alt="Cover for 신데렐라 언니 OST" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-19</td>
       <td>예성</td>
@@ -1399,6 +1416,24 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korea" | relative_url }}">korea</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1893b081e4d58eb5f0854712dc537807.png" alt="Cover for [&amp;]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-27</td>
+      <td>Loona</td>
+      <td>[&amp;]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
         </ul>
       </td>
       <td>
@@ -1457,27 +1492,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6416fee7b4e60f096a4ce429649556.png" alt="Cover for Language" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-11-28</td>
-      <td>XXX</td>
-      <td>Language</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 18</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 19</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/0IQp3wvk3ndX1kFpyKr1LewefqYAUK59XFsNYa8p8gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/MTg2LTE1NjgxODAw/NTQtNzg5OS5qcGVn.jpeg" alt="Cover for 두번째 달" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1603,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ICBWnK9qOI_lhDQ3SDWs9vhk_jOQfNMgcM5nhlvXFck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU2/MzQ5LTE2MjUyNTMy/MjctNzI0Ny5qcGVn.jpeg" alt="Cover for Mist" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,7 +1646,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1653,7 +1668,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/980c6234580e2ea760b0d060e30ffacc.png" alt="Cover for Deulgukhwa" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,27 +1689,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44145f55ec044c9dccf35ceba57525af.png" alt="Cover for NO.MERCY (노머시) Part.3" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>몬스타엑스</td>
-      <td>NO.MERCY (노머시) Part.3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korea" | relative_url }}">korea</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1712,7 +1707,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1731,7 +1726,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1749,7 +1744,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1767,7 +1762,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe5aeae434b44cc4cc9fc013c7d16449.png" alt="Cover for Move" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1783,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1805,8 +1800,9 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff53b89148f8c8c92afa31d195202eed.png" alt="Cover for Beautiful Days" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Young Keun Lee</td>
@@ -1848,6 +1844,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12005e73d58e87e324e6cd7ef0b2ae37.png" alt="Cover for Boys Be Brave (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>김예준</td>
@@ -1933,6 +1930,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da452bbab4d40a49b200e1433fa72f5.png" alt="Cover for 꽃보다 남자 (KBS 미니시리즈) OST" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>꽃보다 남자 OST</td>
@@ -1953,6 +1951,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7376b487829c6a51e359aceffd3b262.png" alt="Cover for GREAT!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>모모랜드 (MOMOLAND)</td>
@@ -2036,6 +2035,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76f50517bf15937b248173f16f88758f.png" alt="Cover for YOUTH" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>방탄소년단</td>

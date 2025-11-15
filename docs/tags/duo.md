@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T09:13:17.092Z
+date: 2025-11-15T02:02:40.900Z
 permalink: tags/duo
 title: duo
 ---
 
 ## duo
 
-Last updated: <time datetime="2025-10-23T09:13:17.092Z">Thu Oct 23 2025 12:13:17 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T02:02:40.900Z">Sat Nov 15 2025 04:02:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/hH15oyX027RbaE0K-6XkNvKasraTWLJhJoLKmrquPzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU5/NDAtMTM1MjcyNTM5/Ny0zNDY5LmpwZWc.jpeg" alt="Cover for Love&#39;s Macchiato" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96939fcdcd9984dc864c45e6f5bed5ef.png" alt="Cover for Love&#39;s Macchiato" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Two Sisters</td>
@@ -49,7 +49,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/L4T0XpCAFXdqRO27y8zAFtFd3XuyqU_f1dn0aIgF1qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTQ2/NTQtMTM5Mzc3ODUw/MS05ODk2LmpwZWc.jpeg" alt="Cover for Woman as Salvation" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/UX8eDKqV-8Eo7EFGektlX4-k3X2IKudJPuIFjcO6UBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTYx/MTItMTE5MTc3MTkz/MC5qcGVn.jpeg" alt="Cover for Songs We Know" style="max-width:120px; height:auto;" />
       </td>
@@ -105,13 +105,13 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 36</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 35</li>
             <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/K2Duj6RX2loLLTOsNAFSOePE0twzG-UvWQP7iYNRVZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDgz/NzktMTQyMjk5NjQ5/NS02MDYzLmpwZWc.jpeg" alt="Cover for STORM" style="max-width:120px; height:auto;" />
       </td>
@@ -138,7 +138,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2000-07-05</td>
@@ -157,7 +157,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2000-11-22</td>
@@ -185,7 +185,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/JChaIkMQYgZA9p1BfAzotgiJ8aT6lfBWTY7G2TaBIE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEw/MTAtMTI5NjIzMzc1/Ni5qcGVn.jpeg" alt="Cover for Amarok" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bff192261c3bf34b365aa639a399b760.png" alt="Cover for Amarok" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Amarok</td>
@@ -221,8 +221,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/167d19a367c34238c21feeaacfbf45c7.png" alt="Cover for The Very Best of Daryl Hall &amp; John Oates" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-23</td>
       <td>Hall &amp; Oates</td>
@@ -238,7 +239,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cacdd503237d4acc9abf457929e92fbe.png" alt="Cover for Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -256,25 +257,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/Bl2SQQc9MuA-KqRZGH5Axf1KotSsH4X5BFtSpEW7r_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzQx/MDMtMTM2NDc2NDQ2/NS04NDMxLmpwZWc.jpeg" alt="Cover for The Very Best of Daryl Hall &#x2F; John Oates" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Hall &amp; Oates</td>
-      <td>The Very Best of Daryl Hall &#x2F; John Oates</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2002-05-14</td>
@@ -296,7 +279,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2002-11-25</td>
@@ -334,7 +317,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2005-02-23</td>
@@ -357,7 +340,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2005-05-11</td>
@@ -379,8 +362,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/260afa83ffb253f490c3b067fc088b5f.png" alt="Cover for Duos II" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-24</td>
       <td>Luciana Souza</td>
@@ -398,6 +382,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ad9d2644cc64245c2f72e16cd869c11.png" alt="Cover for Dreamland" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-08</td>
       <td>BENNIE K</td>
@@ -421,7 +406,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2005-06-15</td>
@@ -444,7 +429,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2005-06-22</td>
@@ -468,6 +453,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a7052cc9b734321c3c9bfb33ea7094d.png" alt="Cover for Plague of Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-23</td>
       <td>the everybodyfields</td>
@@ -505,7 +491,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/n1hr-a-XW2uNrdaaHYmObUlPyZIWGdsEjOePWlg9IxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg4/MDIwLTE2Mjk4OTE2/NzQtNTUyNC5qcGVn.jpeg" alt="Cover for 5センチ。" style="max-width:120px; height:auto;" />
       </td>
@@ -530,9 +516,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/JG0_ory7xohRWQEdjc0uGo4POxR8Mr1u-egGMt26ypM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA4/MzAtMTMwMDI0Mjk5/Ny5qcGVn.jpeg" alt="Cover for Ultra Foxy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b5d274cd246472eba83ecf63ced15d9.png" alt="Cover for Ultra Foxy" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-22</td>
       <td>Heartsdales</td>
@@ -556,9 +542,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/HGsoIZBreA0vfgyNBYFhjXf_JsNZmbBUsgUnCP-mfGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/NzY3LTE1NDQyMjA0/OTctMzcxMi5qcGVn.jpeg" alt="Cover for ラハイナ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8264301645e4ebcce33545d5ad35b08.png" alt="Cover for ラハイナ" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-15</td>
       <td>DEPAPEPE</td>
@@ -581,7 +567,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2006-04-26</td>
@@ -602,7 +588,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2006-07-25</td>
@@ -624,7 +610,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2006-10-04</td>
@@ -647,7 +633,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/BRfHWdAeFidatTNALGML74mLT8B47Ml9tozvH7yELUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU5/NTQ4LTE1Mzk1MjI4/NzMtMTAxMy5qcGVn.jpeg" alt="Cover for 五文字の糸" style="max-width:120px; height:auto;" />
       </td>
@@ -670,7 +656,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/BRfHWdAeFidatTNALGML74mLT8B47Ml9tozvH7yELUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU5/NTQ4LTE1Mzk1MjI4/NzMtMTAxMy5qcGVn.jpeg" alt="Cover for 五文字の糸" style="max-width:120px; height:auto;" />
       </td>
@@ -693,9 +679,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/8rcDDU8U9F0ogbPMCnSvGH4tqrdTXuL8S9mPAzc2jN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjAw/MzE1LTE2MDUxNjU5/NzQtNDM1MS5qcGVn.jpeg" alt="Cover for Joy Trip" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29300bffee59fe025a9825fbca4c100.png" alt="Cover for Joy Trip" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-08</td>
       <td>BENNIE K</td>
@@ -718,9 +704,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/-bFPqnP-3g7tTG0hU0gk8kc5oeHGyy3XcZWqpx1y7oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTA5/ODEtMTYwNzAwNDY5/Ni04MTk0LmpwZWc.jpeg" alt="Cover for 働く男" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/480385ad78b912956113738398c75bba.png" alt="Cover for 働く男" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-22</td>
       <td>PUFFY</td>
@@ -743,9 +729,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/N-wnWEJXXJJ_beD99FXydIOeCz_trUIFBKKTrUxkLdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/MzAwLTE1OTExNDQx/MjEtOTI3Mi5qcGVn.jpeg" alt="Cover for 桜唄" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f3eff1a95f89499948e12bd40b353f4.png" alt="Cover for 桜唄" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-28</td>
       <td>RYTHEM</td>
@@ -767,8 +753,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/999049bc88cd6e2d56bba1a44dcf3d46.png" alt="Cover for 1001Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-07</td>
       <td>BENNIE K</td>
@@ -790,8 +777,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f0ba6b17384745a695c8330a76e4a5.png" alt="Cover for Cocotte 2.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-26</td>
       <td>Teenage Bad Girl</td>
@@ -810,7 +798,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz EP" style="max-width:120px; height:auto;" />
       </td>
@@ -833,16 +821,17 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 12</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 14</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7611e5945a449faa7c9ceedc1d9a8d6.png" alt="Cover for 最期の川" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-24</td>
       <td>Chemistry</td>
@@ -866,7 +855,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/mpL3OwVr14KBvfJGhQ_4xlIaW0_-BntZiBcXpG_6gUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE0/ODU3LTE0OTcxMTE4/MDEtNDI5OS5qcGVn.jpeg" alt="Cover for On Concrete" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +910,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/BnZbTTHmbUfVXhsLQdMdn7L6OhHewVNqo3bl76zZDHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU3/OTc2LTE1OTcyNDY3/OTgtMjgwMy5wbmc.jpeg" alt="Cover for ZUSHI" style="max-width:120px; height:auto;" />
       </td>
@@ -944,7 +933,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2008-10-29</td>
@@ -1005,7 +994,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/_Yzm87v8kg0pdz90cJCJrxR2PhC_bJT4Jj-Pc7oQ5hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTE0/OTMtMTQyNjcwNjEw/Mi02OTQ5LmpwZWc.jpeg" alt="Cover for Prière" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,13 +1013,13 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 48</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 51</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2009-04-15</td>
@@ -1052,7 +1041,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2009-05-20</td>
@@ -1074,7 +1063,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2009-11-04</td>
@@ -1096,9 +1085,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/mDEDSmCFmjy8mpYCI_H97mUFh87REzcFB3ZuWWdZd24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQz/ODctMTI5NjQ2Njc4/Mi5qcGVn.jpeg" alt="Cover for The Last Escape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea79713c30653e6b114bbcfbb8164ab.png" alt="Cover for The Last Escape" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-24</td>
       <td>Tallinn Daggers</td>
@@ -1119,7 +1108,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/SSl0QqYjOza6wZ1aMthpV-tzvI9mKK_eo47P833BIRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzY0/MzItMTI5NjE2MzU5/Mi5qcGVn.jpeg" alt="Cover for Lagrimas Mexicanas" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,8 +1128,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98d44ae23a844ceba4eccf18d50b7791.png" alt="Cover for Our Steady Boy" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-12</td>
       <td>ゆいかおり</td>
@@ -1163,8 +1153,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9f3ca78f60d35b4bc8ed56cbf8ddf94.png" alt="Cover for Streets of Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-25</td>
       <td>3OH!3</td>
@@ -1176,7 +1167,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 77</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1234,9 +1225,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/zsio7dVBwyR_ds48zTfkMDLUTT6mXw3jYYshEEzqxHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzEw/MjktMTQwNzcxNzI3/My01MjA3LmpwZWc.jpeg" alt="Cover for The Hill Sheep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc3dd5c634c74c239928358f7154b437.png" alt="Cover for The Hill Sheep" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-27</td>
       <td>Sledding With Tigers</td>
@@ -1264,7 +1255,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/3T_YIZ5hVNIKNzWrYWE1oGe9sS-WSxbNAJXBDISj5Dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEz/ODIxLTE1NTc1MzEz/MDEtOTE2OS5qcGVn.jpeg" alt="Cover for Niños Azules" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1288,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011</td>
@@ -1313,12 +1304,12 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 34</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/QIgjoOYrU3Mqn7uATD0Hi5J-DNadYoSl7wVbZM76Gds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM3/OTEtMTMwMjIwMjE0/OC5qcGVn.jpeg" alt="Cover for En Stund" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,13 +1350,14 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 81</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a532cb134b6d4a81b9174253387f254f.png" alt="Cover for Shooting☆Smile" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-06</td>
       <td>ゆいかおり</td>
@@ -1388,7 +1380,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2011-07-07</td>
@@ -1413,13 +1405,13 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 43</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/0yea0Mxf-TK11clebpH6BN6S66Mg-0Roiv5Qwl7EYEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDA2/OTAtMTYxMTA0OTY4/MC00OTg1LmpwZWc.jpeg" alt="Cover for Wild Foxes" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,15 +1438,15 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 59</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 60</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 58</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 60</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 74</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/izonXMoo7XNtumU8F8Knu-yQ1zrz5jN_KWupMHdSRbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTk4/MTItMTM5MDQ1ODE5/My0yNzkxLmpwZWc.jpeg" alt="Cover for Eyes On You EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,15 +1471,16 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 3</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 65</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 63</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 80</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f4791e7f12f4b81a02d9fc8d9e39ea2.png" alt="Cover for Stronger Than Romeo" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-10</td>
       <td>The Brilliant Things</td>
@@ -1505,9 +1498,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/x5bdO0dW4IQuSizdMC1rqJflZd9X-FZRHxG-_AxtjCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTMz/OTYtMTQzNDkxNjAz/Ni0yMjMzLmpwZWc.jpeg" alt="Cover for Loving Creatures" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73fe2d569d77bcbc02c8d8102e0a3f65.png" alt="Cover for Loving Creatures" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Lizard Kisses</td>
@@ -1532,14 +1525,48 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 29</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 30</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 44</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2013-02-27</td>
+      <td>Aidan Baker &amp; A-Sun Amissa</td>
+      <td>Scarpe Sensée</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 39</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 41</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
       </td>
       <td>2013-07-31</td>
@@ -1560,9 +1587,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/xe-lKyD0XeYBmK-ERn7YEB97SrQ0w-D0zn3E7q09Lxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzEw/MjktMTM4MDk3NjIx/Ni03NzQxLmpwZWc.jpeg" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccfd56bac772434482cd1a41973a5dba.png" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-17</td>
       <td>Alligator Indian</td>
@@ -1590,9 +1617,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 1</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 3</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 5</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 42</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 85</li>
@@ -1600,7 +1627,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/FhffHIZgBU-X8YceOCXUoKmntc7rYMcKTNqPUsfuK2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzk3/MDczLTE2MDc0OTI5/MTYtNDg2Mi5qcGVn.jpeg" alt="Cover for プチミレディア" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,9 +1649,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/yOL5DDXZOdRLADgOLI__a2xeJuwSkT6cbSkvUroW_F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDYx/ODUtMTQ4MTc1Mjcz/OC02ODI1LmpwZWc.jpeg" alt="Cover for Twelve" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fff94caa5434ff1a4daf7da3125fe6c9.png" alt="Cover for Twelve" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Handsome and Gretyl</td>
@@ -1641,14 +1668,14 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 2</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/7fSsR2uHRbgvUAyVkIlbVxTt8RnCqvr1HdeTbgXRpso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDY4/NDAtMTQ1MDUzMzE4/Ni00MzQzLmpwZWc.jpeg" alt="Cover for Satt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a405a80ebbdcb4db0c080bea2fbc41f9.png" alt="Cover for Satt" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-04</td>
       <td>Schnipo Schranke</td>
@@ -1671,7 +1698,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/6uPh7QmLHH-bg-mFPssU18GVelOlNByRUt22RfYkCC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjA5/MzYtMTQ0OTQ5MDMw/MC01NDM1LmpwZWc.jpeg" alt="Cover for Never Seen You Get So Low" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65869a75b812320ff1b2526be964fafa.png" alt="Cover for Never Seen You Get So Low" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-04</td>
       <td>Aquilo</td>
@@ -1690,7 +1717,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/xadE0ePBBYhMim34yIGka2NTnM_0h58WFRmoNWcl1DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ0/NTgtMTQ4MzM2NDQ1/Ny01NzU4LmpwZWc.jpeg" alt="Cover for In a Haze" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e285eb32abd8c86c361f412ff729f38.png" alt="Cover for In a Haze" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Total Ape</td>
@@ -1712,7 +1739,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/cMmepMFn0-APoqvTgqx3F8mjxQigXPOM1IgNMfGwtdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ5/NjgxLTE0OTk3MDcz/MzktMjM4My5qcGVn.jpeg" alt="Cover for Negatives" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5127bbd706d70c0c9588fab0c86713d7.png" alt="Cover for Negatives" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-29</td>
       <td>The Girl and The DreamCatcher</td>
@@ -1729,7 +1756,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/wMX1GVDtMfx2laRixY-L7WYfQ9Dhu2ookvZ8eKqciJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDc4/NjAtMTQ4MTc4ODM0/Mi00NjgzLmpwZWc.jpeg" alt="Cover for UNIVERSE" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1780,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/fQvc7jx8j1ce-w9JW1hQJNoPvb2nkhIKpQdrNsNXNog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIz/Nzg5LTE1MzA4NDk2/ODItNTMwMC5qcGVn.jpeg" alt="Cover for The Only High - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,7 +1798,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a05277980e776e222a5fa45a3e2898.png" alt="Cover for On Your Side - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1819,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/jMaB60IEHAW6qz_sh3sq4jrSEpdLgwBYGfS_2bj20uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAw/NDg2LTE1MTE3Mjk1/MTQtMTc4Ny5qcGVn.jpeg" alt="Cover for Kimi Terasu Sairiumu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de47f3cef272b580d05de5af2f56152d.png" alt="Cover for Kimi Terasu Sairiumu" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-24</td>
       <td>DEADLIFT LOLITA</td>
@@ -1821,7 +1848,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/UiWnST8Sj_TNA5xDFIcf7NlfMNKQrgOx0ebtI_c3mX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk3/NjY5LTE1Nzc5MDgw/ODEtOTA4My53ZWJw.jpeg" alt="Cover for SHIORI" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1873,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/4ydfW1xpvxJAK1-CUuwKqR1_u1mH6UCBblcorhsvzl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTMz/NDUxLTE2NTAzNjA3/NTEtNTY0My5qcGVn.jpeg" alt="Cover for AWAKE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f65b1db1d8836869296d7ee42dd9c06.png" alt="Cover for AWAKE" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>JBJ95</td>
@@ -1863,14 +1890,14 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 54</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/XYaTwyxUCqjM3trOYWFJcA8gHUGyqnETpggzKQ3clzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDcx/NDI3LTE1Mjc3MDgw/NzAtNzcwNC5qcGVn.jpeg" alt="Cover for Stardust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/856a11d0d547a171824a00e1094d89d6.png" alt="Cover for Stardust" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-26</td>
       <td>State of Sound</td>
@@ -1890,7 +1917,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/0IJKslCLOnqJ-U4lLnUJxYbR2FCMUI33Ea5wCvyvd4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI1/NTY5LTE2MDE2OTQy/NTUtODE5MC5qcGVn.jpeg" alt="Cover for Pump Up JAPAN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b108074e3902351bf8ecc9ba94fe330a.png" alt="Cover for Pump Up JAPAN" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-10</td>
       <td>DEADLIFT LOLITA</td>
@@ -1937,8 +1964,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 34</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 95</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 37</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 96</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 97</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 100</li>
         </ul>
@@ -1965,7 +1992,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ctDJWtTWkvSKnEwh3fkro4ZQXsO_cTvoaxYVkbOR4ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/NTQ3LTE2Njc0MjY3/NTQtMTM5NC5wbmc.jpeg" alt="Cover for Brightest Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,12 +2007,12 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 62</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/v1sWJDY7sB0XEbIfJcwoBk96Te19Mf7lzut4XIkSZqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTEz/MzQ2LTE2MTA4MDIw/MzktNjAxOC5wbmc.jpeg" alt="Cover for Daisy 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,12 +2035,12 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 9</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 66</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/myyssPZrFa9aYpkWYwCdtNVwyiP989ws182aIElHSM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/NTQyLTE2MzczMzI5/MDQtNjc0OC5qcGVn.jpeg" alt="Cover for Não Passa Vontade" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,13 +2077,13 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 18</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 20</li>
             <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-2zWa9Yt1V0rLYrxeSP0DCNHBIBYguOq8zT6EzBkbog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk3/OTg0LTE3MzU0OTU1/NTQtNzYwMy5qcGVn.jpeg" alt="Cover for Fiatal bajnokok" style="max-width:120px; height:auto;" />
       </td>
@@ -2078,8 +2105,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c502b40fc544628d08875db51f38a4.png" alt="Cover for Blue Brown" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>PBnJ Band</td>
@@ -2113,7 +2141,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2150,7 +2178,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 28</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 27</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
@@ -2160,7 +2188,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2182,7 +2210,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -2204,7 +2232,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2227,7 +2255,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2250,7 +2278,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2273,7 +2301,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2290,8 +2318,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85f425c8812fb1ff6176364923a4efd5.png" alt="Cover for Shiny Blue" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ゆいかおり</td>
@@ -2312,8 +2341,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/484f310d1e0672c7066728e49d2b87a0.png" alt="Cover for Trapped N Blues" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ar&#39;mon &amp; Trey</td>
@@ -2330,7 +2360,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
@@ -2350,6 +2380,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a0b18f309ac258f977c61cabc7cf4c6.png" alt="Cover for COUNTDOWN - The 1st Album" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Super Junior-D&amp;E</td>

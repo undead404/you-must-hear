@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T12:14:44.264Z
+date: 2025-11-15T01:41:54.657Z
 permalink: tags/soundtrack
 title: soundtrack
 ---
 
 ## soundtrack
 
-Last updated: <time datetime="2025-11-11T12:14:44.264Z">Tue Nov 11 2025 14:14:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T01:41:54.657Z">Sat Nov 15 2025 03:41:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1972</td>
@@ -101,7 +101,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 19</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 22</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 80</li>
             <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 90</li>
         </ul>
@@ -143,7 +143,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1977</td>
@@ -233,9 +233,9 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Almost Alice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96f559212735d6dbe6cabe051b966d60.png" alt="Cover for Almost Alice" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -269,7 +269,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/62lvD0HRYLZ3G7QNF8YHNSbq48kZE9dIe4JWnZ8PJZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzg3/OTYtMTQ0NjU2MTYz/OS00NDk0LmpwZWc.jpeg" alt="Cover for The Hunger Games: Songs from District 12 and Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/IDWqe25TeWyZhU51ww9sREUv7LYtz9wW27dio2ZntX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk2/NzI1LTE3MDI2NjE1/NDEtMjEyNy5qcGVn.jpeg" alt="Cover for Trolls (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +360,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1993-12-08</td>
@@ -374,7 +374,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 1</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +479,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>1999</td>
@@ -572,7 +572,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/IGc3Sh5dLfNNd1SnBXwhlV-yHyNdQhnCBfW6l_onIl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODM1/NS0xNjA1NDY0MzI4/LTY3MjAuanBlZw.jpeg" alt="Cover for Harry Potter and The Sorcerer&#39;s Stone Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +587,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 82</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -628,33 +628,33 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/ntWmrAhh-p3AJo0Ae11D1e_dcc8RF7_OM6Wq62h-sUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUx/MDUtMTQ5NzEzMDY3/MC0yNTI2LmpwZWc.jpeg" alt="Cover for Trading Snakeoil For Wolftickets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2179f85a1b2e4e4dce3031a21353977d.png" alt="Cover for Trading Snakeoil For Wolftickets" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Gary Jules</td>
@@ -667,7 +667,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 74</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -707,7 +707,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb95203d8c59179ebb57b87f70de0cdc.png" alt="Cover for 呼吸" style="max-width:120px; height:auto;" />
       </td>
@@ -722,7 +722,6 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +787,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/8-geLnVsheApvCJBNBFytrLnKJfStvLUfLQgX-dV7QE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM5/NTItMTE5MjY5MzA3/MC5qcGVn.jpeg" alt="Cover for The Lord of the Rings - Return of the King" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +806,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2003-07-22</td>
@@ -842,9 +841,9 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/aTT8lekSKW8ITpnRso7kBjyjfxcpueHEIPjzPZiJxEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzk1/OS0xNTMxMDk1NTc4/LTQ4ODEuanBlZw.jpeg" alt="Cover for Juno - Music From The Motion Picture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c54ea939c4c4447ac55c016893e706a.png" alt="Cover for Juno - Music From The Motion Picture" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Kimya Dawson</td>
@@ -892,14 +891,14 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 51</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/2s4MqrX1l3lkDZpv5vqZbRdFrIKXyzPqWGlpexDJWTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTEw/MDQtMTM1MjIzNjQ0/My0zOTczLmpwZWc.jpeg" alt="Cover for Hannah Montana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3011949f44a8747eb9729aa28e9beff3.png" alt="Cover for Hannah Montana" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-11</td>
       <td>Hannah Montana</td>
@@ -935,6 +934,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c67c3bd633e3415abd93c05728eeb9f9.png" alt="Cover for Into the Wild" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-04</td>
       <td>Eddie Vedder</td>
@@ -950,7 +950,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/3yqrLNM0hGEkfWhnPxTERZ1by4AXfNLFeYoXOIjdRTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NzQtMTQ0NDk0NjY1/NS04MDQ5LmpwZWc.jpeg" alt="Cover for Top Gun: Maverick (Music From The Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +1011,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/U3KiN6kU1Y6UUZ6En5zUszH851p1vhOrLlk5jKxGscM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTkz/OTk0LTE1NDk3MjQ3/MzktNDIzMC5wbmc.jpeg" alt="Cover for BTS WORLD (Original Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0665f3a10efd094f969d58c59c12d6b.png" alt="Cover for BTS WORLD (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -1027,7 +1027,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/3LhjN9DUWKI7keCiP6-aIZJEb3ljFIklU-tyCqWrpIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDA0/MjQtMTYwMzQyMTk2/Ny05Nzk5LmpwZWc.jpeg" alt="Cover for SpongeBob&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1098,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/598a910ff59e4fbca6a54307e5fee8fc.png" alt="Cover for TRON: Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,6 +1132,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 17</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 81</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 100</li>
         </ul>
@@ -1154,13 +1155,13 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 52</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 51</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/603cbcd25f7d475db82a9d3474743f63.png" alt="Cover for Glee: The Music, Volume 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,7 +1194,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 72</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 74</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 83</li>
         </ul>
       </td>
@@ -1219,7 +1220,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/fG-PJi4EAFSwmjyUlRwvAPd7qlud1X4I7Q6fEnyEgm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEw/MzctMTM3MDgwODA1/MS02OTg5LmpwZWc.jpeg" alt="Cover for Top Gun - Motion Picture Soundtrack (Special Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1256,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2919497c64c744f5abfddebafe391df0.png" alt="Cover for Hotline Miami EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1290,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 61</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1345,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 32</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1387,25 +1388,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eac74f08098ce13fb2a28c0fba47698.png" alt="Cover for Black Panther: Wakanda Forever - Music From and Inspired By" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Rihanna</td>
-      <td>Black Panther: Wakanda Forever - Music From and Inspired By</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ApUebg_Pm_t5rTBYZzpWU9AzU-m_7Pk1A1XsT2LiaPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDgw/ODItMTQ1MDA4ODY4/OS02Njc0LmpwZWc.jpeg" alt="Cover for Requiem for a Tower | Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1483,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 7</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 8</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 82</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 91</li>
         </ul>
@@ -1525,6 +1508,27 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/7uVm4gHb1eFir38Eh4SDS3Hs8XKLk6czBhmAiKpmU34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgw/NTg2LTE1MDEzNTg1/NTktMTM0Ny5qcGVn.jpeg" alt="Cover for Her (Original Score)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Arcade Fire</td>
+      <td>Her (Original Score)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>65</td>
       <td>
       </td>
@@ -1544,7 +1548,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 40</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
@@ -1589,7 +1593,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/TOdccY6dy_ppgEfn7xhwDEXrINH6R8XVi8s_KAXOXdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE0/NjQxLTE1MjY1ODIx/OTQtNDM0My5qcGVn.jpeg" alt="Cover for your name." style="max-width:120px; height:auto;" />
       </td>
@@ -1607,7 +1611,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dcdab2e3f0282e827f47a9554fcd88b.png" alt="Cover for Suspiria (Music for the Luca Guadagnino Film)" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1681,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 21</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1697,11 +1701,11 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 45</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 75</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 95</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 99</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1739,10 +1743,10 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 12</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 13</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 48</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 100</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 100</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1764,8 +1768,8 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 11</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 68</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 72</li>
             <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 100</li>
         </ul>
       </td>
@@ -1773,7 +1777,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/l3qWKcYAhB5ByBcUBiGtDspBcTzc7h7ww7cSmva-kok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg3/NzIyLTE2MzkwNjcz/ODUtMTk3MS5qcGVn.jpeg" alt="Cover for The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a922abcb8bb0858c0d603e53c2ed52.png" alt="Cover for The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Olivia Rodrigo</td>
@@ -1789,6 +1793,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 72</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 95</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
@@ -1837,7 +1842,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Chicago - Music From The Miramax Motion Picture" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,7 +1864,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2023</td>
@@ -1876,7 +1881,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/V5LPiXqw1OQSVCaPWw3ogmalSD6JK8jZlKzKfN6uXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjU5/MS0xNTg2MzI0NTYx/LTQ5NjEuanBlZw.jpeg" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,21 +1906,21 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 31</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 52</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 58</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 45</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 60</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 61</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 87</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 88</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 88</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 88</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1933,7 +1938,7 @@ Soundtrack music, also known as film score or background music, refers to the mu
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>

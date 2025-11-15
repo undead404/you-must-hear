@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T17:34:50.584Z
+date: 2025-11-15T01:58:54.665Z
 permalink: tags/jewish
 title: jewish
 ---
 
 ## jewish
 
-Last updated: <time datetime="2025-10-18T17:34:50.584Z">Sat Oct 18 2025 20:34:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T01:58:54.665Z">Sat Nov 15 2025 03:58:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1977</td>
@@ -102,7 +102,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/DFj2ZK3fSgi96dEj1iROX3GAzYpZP3QbnDl-rsGudz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTcx/ODItMTYxODg4MDI2/MS01MzU1LmpwZWc.jpeg" alt="Cover for Klezmer Music" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/oAms2mvgX90u5RrGmTfTaGMpS7cSMYN2ovF8jhctvkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjA2/Mi0xNTI4NjQyMzM1/LTEwNDAuanBlZw.jpeg" alt="Cover for Kirya" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb0a979fb921433bb42e5ba9a8f16060.png" alt="Cover for Kirya" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Ofra Haza</td>
@@ -214,7 +214,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/QkP6xwJj-xe4h49pF_RJJJzirvgTt5wTGZkg01ZRJ0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/ODctMTU0NDc4MTA2/OS0xOTYyLmpwZWc.jpeg" alt="Cover for The Singing Clarinet" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +252,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Pbm-dbNULn2EH1VL1RZIEc8p6qRgHdTyh3icy5lVXj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM3/MzYtMTY0NDAwMDYx/NC05MTkyLmpwZWc.jpeg" alt="Cover for Estos Y Munchos" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +399,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/LqAsavLSDyPr59Fzo_6N3BhKqnPYTJ74vOJk96QinA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY2/NDExLTE2OTg0MjQ2/NDItMTc3OS5qcGVn.jpeg" alt="Cover for Sephardic Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -461,7 +461,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/PRLIjS5D98WzWga8D75_-ks0g4VI7b5Dv_Y1PlycsP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTcw/LTE1NDk4OTEwMjkt/NTM3NC5qcGVn.jpeg" alt="Cover for Dancing Galaxy" style="max-width:120px; height:auto;" />
       </td>
@@ -476,8 +476,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 18</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 86</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 19</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -500,7 +500,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/HrN20hlKkfp8GxeOCcz0yPPcsDdse56gYBkzTr4zSlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc3/NzEzLTE2NDM3MDc3/NjEtODg4NS5qcGVn.jpeg" alt="Cover for Life of the Worlds: Journeys in Jewish Sacred Music" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +518,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/t1rwxjTyMhqKFD5UzYD6RvmAWBXGomR8jDcooEvN5L8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODgz/ODkyLTE1NDM3OTg4/NTktODU2OC5qcGVn.jpeg" alt="Cover for Variety Stomp" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +658,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/5vM5zXlIll3hIDLuiN1uDHNQjg7KaAyq-DzQe0Kk3gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODE1/NS0xMzEwNTAxMTcw/LmpwZWc.jpeg" alt="Cover for The Klezmer King" style="max-width:120px; height:auto;" />
       </td>
@@ -681,6 +681,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/002fdd2e5cc6f59831a7ec4b77bcba81.png" alt="Cover for Alkimja" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Justyna Steczkowska</td>
@@ -699,7 +700,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/hPdCO_Rze8NeOCTQ6SDK5c31RmNnp9Jm1KmGaXR6rzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTk4/MDAtMTM4OTk3MTYz/NC03MjQyLmpwZWc.jpeg" alt="Cover for Divahn" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +719,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/3QZnXF5ExQ7CFTEWTrhxKnN6KixzgSfFBWSTk1L_tFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjgy/OC0xNjEwNTM1NjQ5/LTM4ODkuanBlZw.jpeg" alt="Cover for Trilectic" style="max-width:120px; height:auto;" />
       </td>
@@ -756,24 +757,19 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/dyhcp2BzDoM8NmDyU2_9_jX5-G8a3LQ_ut7fyhjo-po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTUx/OC0xNDk1MzcyNjgz/LTIzNDAuanBlZw.jpeg" alt="Cover for Laughter Through Tears" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1DEuQ9TYuz2Xn-GCjbo4LunbXTsORuS5p9LK4d2AMxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzIy/NzYzLTE2ODk3ODM2/MzEtNDkwOS5qcGVn.jpeg" alt="Cover for Polkas, Lullabies &amp; Wedding Songs" style="max-width:120px; height:auto;" />
       </td>
-      <td>2003-09-29</td>
-      <td>Oi Va Voi</td>
-      <td>Laughter Through Tears</td>
+      <td>2003</td>
+      <td>Chudoba</td>
+      <td>Polkas, Lullabies &amp; Wedding Songs</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 31</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 91</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -792,7 +788,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 27</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -873,7 +869,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2005</td>
@@ -923,7 +919,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 44</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 50</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +941,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/zMzbZc6CA-wC0RzpJrMN-TWSQ5f6uLruny2ZwNYpBEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTM2/NjEtMTQ1OTE3MjEx/My03NTI2LmpwZWc.jpeg" alt="Cover for Chicken" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,7 +1052,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/c_lF5W6VfFHz32-Yl0iYwEsEVXu0bW-GJ29fMeT0J74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI1/MzY4LTE2MTczOTQx/MTQtNzM4Ny5qcGVn.jpeg" alt="Cover for The Whole World Lit Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,12 +1296,12 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 35</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 69</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
@@ -1384,7 +1380,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
@@ -1392,7 +1388,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/YvOUPbw0hMpxEjB8A1jTHW6rTkxXpDIyyT19XQl88Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMy/MDctMTI5NTEwMzMz/Ny5qcGVn.jpeg" alt="Cover for Great Jewish Music: Jacob Do Bandolim" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,7 +1423,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 37</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1446,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/gJukEpErkLDWXSz-uIclj434-WILS3FRrWRbVDmVXhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjU2/NzYtMTMxNDExMDQx/MC5qcGVn.jpeg" alt="Cover for Hot Rod Hanukkah" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1533,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_R1N2cdDF-hy0T3wvAKgZNlahQSwCXtKimUBqHwC7dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY4/ODI1LTE1NTI5MTA4/NDctMzUwNy5qcGVn.jpeg" alt="Cover for Laughing Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,8 +1552,9 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c9178a204c5e9cf8b2d501f9079678.png" alt="Cover for Rise Like a Phoenix" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-18</td>
       <td>Conchita Wurst</td>
@@ -1572,7 +1569,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/6g7IOJupDlNOD9-t8Fyt9JwAuQxsh181A4eZQPI-000/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIx/OTMtMTQzMDcxODIz/Ni01Nzk1LmpwZWc.jpeg" alt="Cover for best of acapella" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,10 +1590,10 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 38</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 39</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 59</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1634,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/14bUpz2V7mvTqDVQxxOPSAtpNL4Vyi_V2eN0MptvKn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI0/Nzc5LTE1MzUwMjk5/ODEtNDU5MC5qcGVn.jpeg" alt="Cover for The Lost Songs of World War II" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1671,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/il2vqPsrUkib9z8S3TV87cJUEZT-8cMMrNeU3fIlZQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY5/MzU1LTE2MTI5MDYx/OTMtMzI4MC5qcGVn.jpeg" alt="Cover for F*CK LOVE (SAVAGE)" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1725,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Hgf7dpBGTkAM4E6CFCgzEM7zdEj-e_kKsE00-h02S08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/NDYyLTE2MDE1ODI0/MzAtNzE0NC5qcGVn.jpeg" alt="Cover for Millenial Bundist" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,8 +1834,9 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f3e8fb26add0830172014d7d04d759.png" alt="Cover for Venetia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Camera Sintetica</td>
@@ -1863,7 +1861,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 16</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 18</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 38</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 45</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 53</li>
@@ -1957,6 +1955,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f64eb138cf54c3fccda9ebea105150d.png" alt="Cover for Música Judia (Melodías y Canciones Judías)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Jewish Starlight Orchestra</td>
