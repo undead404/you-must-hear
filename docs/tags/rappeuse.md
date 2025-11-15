@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T09:45:53.252Z
+date: 2025-11-15T00:46:06.124Z
 permalink: tags/rappeuse
 title: rappeuse
 ---
 
 ## rappeuse
 
-Last updated: <time datetime="2025-11-13T09:45:53.252Z">Thu Nov 13 2025 11:45:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -350,7 +350,7 @@ Last updated: <time datetime="2025-11-13T09:45:53.252Z">Thu Nov 13 2025 11:45:53
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 6</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1740,7 @@ Last updated: <time datetime="2025-11-13T09:45:53.252Z">Thu Nov 13 2025 11:45:53
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 1</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1883,7 +1883,7 @@ Last updated: <time datetime="2025-11-13T09:45:53.252Z">Thu Nov 13 2025 11:45:53
         <ul>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 4</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 7</li>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 14</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1914,7 @@ Last updated: <time datetime="2025-11-13T09:45:53.252Z">Thu Nov 13 2025 11:45:53
         <ul>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 14</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 24</li>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 25</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2066,6 +2066,34 @@ Last updated: <time datetime="2025-11-13T09:45:53.252Z">Thu Nov 13 2025 11:45:53
       <td>2021-04-23</td>
       <td>Cœur</td>
       <td>Chrysanthème</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/cQjfkSKlJQtQK_L_VwvK6sTQMK7oxUXe9XuHLk2Za4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEx/ODA3LTE2Mzg1Mzk3/NjgtODQwOS5qcGVn.jpeg" alt="Cover for Loving V [Explicit]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11</td>
+      <td>Cœur</td>
+      <td>Loving V [Explicit]</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
@@ -2293,34 +2321,6 @@ Last updated: <time datetime="2025-11-13T09:45:53.252Z">Thu Nov 13 2025 11:45:53
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 53</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 54</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg" alt="Cover for Aout [Explicit]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024</td>
-      <td>Cœur</td>
-      <td>Aout [Explicit]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>

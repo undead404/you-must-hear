@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T00:12:53.496Z
+date: 2025-11-15T00:45:30.656Z
 permalink: tags/live-set
 title: live set
 ---
 
 ## live set
 
-Last updated: <time datetime="2025-11-08T00:12:53.496Z">Sat Nov 08 2025 02:12:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T00:45:30.656Z">Sat Nov 15 2025 02:45:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -106,7 +106,6 @@ A live set in music typically refers to a performance by a musician or group of 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Uk6o4f-5bLytRZA0pqpoiDCbI5MaL0tHHenHX-3Lj2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM3/NTMtMTE5OTA1NDA4/OC5qcGVn.jpeg" alt="Cover for live: March 20, 2002 - Minneapolis, MN" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-26</td>
       <td>Julie Doiron</td>
@@ -252,7 +251,6 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -283,7 +281,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +312,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 46</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +343,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 31</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +399,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 23</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -631,7 +629,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 21</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +690,6 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -723,7 +720,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 39</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +919,6 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1064,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1189,7 +1185,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 53</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1218,7 @@ A live set in music typically refers to a performance by a musician or group of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 10</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 25</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1274,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 42</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1305,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1340,7 +1336,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1547,8 +1543,8 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 7</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 19</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 6</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1655,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 40</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1690,6 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1751,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 18</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -2064,7 +2059,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 23</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2351,7 +2346,6 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2553,7 +2547,6 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2588,6 +2581,27 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2024-01-25</td>
+      <td>Solipsism</td>
+      <td>Live at Nice &#39;n Sleazy Glasgow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>75</td>
       <td>
       </td>
@@ -2613,24 +2627,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>DJ Niaero</td>
-      <td>Live Set</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 7</li>
         </ul>
       </td>
     </tr>
