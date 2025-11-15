@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:49:22.443Z
+date: 2025-11-15T15:08:22.001Z
 permalink: tags/dub-techno
 title: dub techno
 ---
 
 ## dub techno
 
-Last updated: <time datetime="2025-10-28T09:49:22.443Z">Tue Oct 28 2025 11:49:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T15:08:22.001Z">Sat Nov 15 2025 17:08:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1991-06</td>
@@ -66,7 +66,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/8D6ZK1_mqqBUT3eVPTkAr5cXiUhjC2zsAs_lqXJa12I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjMt/MTI1MzgxMTI5MS5q/cGVn.jpeg" alt="Cover for Phylyps Trak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/788c3e37b4284a41ca164f60aab11eed.png" alt="Cover for Phylyps Trak" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-10</td>
       <td>Basic Channel</td>
@@ -83,7 +83,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1994</td>
@@ -102,7 +102,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/vhAwKinLBb16T-_hcMNGLJpCIgaBIbUI3uGO-PQcSG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTgx/NjQtMTI5NzkwMzQ2/MC5qcGVn.jpeg" alt="Cover for Juan Atkins &amp; Moritz von Oswald Present Borderland: Angles" style="max-width:120px; height:auto;" />
       </td>
@@ -124,6 +124,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1132f140e3e41bdc1f91de27f8f295a.png" alt="Cover for Quadrant Dub" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-04</td>
       <td>Basic Channel</td>
@@ -177,7 +178,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/X-yLh5cPfU9e1HSiddAmBTk0pOZDMCcyH_Vnkaop1xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgt/MTE5MTMzMTc2Mi5q/cGVn.jpeg" alt="Cover for Starlight" style="max-width:120px; height:auto;" />
       </td>
@@ -211,14 +212,14 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/GFSc_qXq40T397ZXXyepdU05k4y07fWrThmFgbkV4KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mi0x/Njk2NzkxMzU5LTU5/OTQuanBlZw.jpeg" alt="Cover for Hong Kong" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaf3255aac8848df26b8fd4851b88b4f.png" alt="Cover for Hong Kong" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Monolake</td>
@@ -231,12 +232,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 22</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1997</td>
@@ -255,9 +256,9 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/DdY5-JaGrysAnQjqPQMny-5Rljpg-yfYx9g1Vxyq938/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzM3/MzMtMTUzNDUxMjUz/Mi05MzU5LmpwZWc.jpeg" alt="Cover for Transmission" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3075afc93eec074ffa1cfc469fd927f8.png" alt="Cover for Transmission" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Death in Vegas</td>
@@ -284,7 +285,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>1997-07-11</td>
@@ -301,35 +302,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>Carl Crack</td>
-      <td>Black Ark</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 75</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/3O8w3RvfxzCbbvfYdJu1MrS5VoYWR2dQ0H7fx3h2wHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTY4/LTE2Njg5ODI0Njct/NjkxMC5qcGVn.jpeg" alt="Cover for Black Arc" style="max-width:120px; height:auto;" />
       </td>
@@ -352,14 +325,15 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 88</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 90</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/084795e979df45b3b11021edec4ac297.png" alt="Cover for Multila" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-02-18</td>
       <td>Vladislav Delay</td>
@@ -373,13 +347,13 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       <td>
         <ul>
             <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 38</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 43</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2000-05-24</td>
@@ -396,7 +370,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2001-06</td>
@@ -414,12 +388,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/cxtBkVXAGi9m2ioT4To5j_ZZElI4bqPOq9Y0q9yEznA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQw/LTE2MjMyOTk5MzEt/NjQ1My5qcGVn.jpeg" alt="Cover for ship-scope" style="max-width:120px; height:auto;" />
       </td>
@@ -434,7 +408,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 38</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +435,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 28</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 76</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 79</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +463,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/hPQL5Uc5Wh3e69Ld6nxABWQ_oPMov_4IR5p3nMU8SXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgw/Ny0xMjE2NjY4MTkx/LmpwZWc.jpeg" alt="Cover for Kettle Point" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +481,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/hKIvPqpT2-Iu2vdSnGjGQx6HydlYRiNFx78D3mzOmH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ1/NzMtMTE5NzE1MzY1/My5qcGVn.jpeg" alt="Cover for Q1.1" style="max-width:120px; height:auto;" />
       </td>
@@ -586,6 +560,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68858948b3934a52bed0335a0658ac93.png" alt="Cover for Whistleblower" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-08</td>
       <td>Vladislav Delay</td>
@@ -602,7 +577,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2007-11-24</td>
@@ -622,6 +597,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce034fe0c5a64c6d97ae94025c214e8f.png" alt="Cover for Wikkid Times" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Beat Pharmacy</td>
@@ -677,7 +653,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2008-05</td>
@@ -709,12 +685,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 80</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2008-07-15</td>
@@ -736,7 +712,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2008-11-24</td>
@@ -755,7 +731,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Cbe73-xhttw-M8_JUKMyGlN3X2BGk0kJdKMcsCoEPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTMy/NDgtMTQwNDUwMzA5/MS01MDIzLmpwZWc.jpeg" alt="Cover for The Landing" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +750,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2009-01-21</td>
@@ -809,7 +785,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/K2mz_-RtlbF2Q2er0uL0g9nMp-EcpIeg3RnMGAtCmrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzcy/MzYtMTM0MDU3Njc4/OS04NjEyLmpwZWc.jpeg" alt="Cover for Science Fiction &#x2F; 651" style="max-width:120px; height:auto;" />
       </td>
@@ -865,7 +841,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/LflWDs4Wr3hfNeJDTbgxihUtihob0VIq1-KNnRQm00Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQx/MzUtMTI0NDUwMzgz/OC5qcGVn.jpeg" alt="Cover for Arrivals" style="max-width:120px; height:auto;" />
       </td>
@@ -886,11 +862,11 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 52</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 54</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 89</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 92</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 93</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -930,12 +906,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 77</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/pwdtlR90cktS8lun_oNPvjluCDv91MfPi-N7r-yhjYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc4/OTMtMTUwODM5NDAw/NC04MjQxLnBuZw.jpeg" alt="Cover for Painted Black" style="max-width:120px; height:auto;" />
       </td>
@@ -970,9 +946,9 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/Ic7p7oVQ7A_RmSmT3bwJhysh8ob5a6B3lPhYjJX-Tu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzI1/NDUtMTUyOTc3NDE4/OS05OTcyLmpwZWc.jpeg" alt="Cover for Wireless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ecf0167571b350d9c289f5f20c6d092.png" alt="Cover for Wireless" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-12</td>
       <td>T++</td>
@@ -986,12 +962,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 66</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2010-07</td>
@@ -1007,9 +983,9 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 59</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 69</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1010,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2010-10-14</td>
@@ -1052,7 +1028,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ZHy5SfNLl9GEgCwcBuZ2CTUBIdIufDy30cRfShk1Lys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY1/NDYtMTI4ODgxMjA5/NS5qcGVn.jpeg" alt="Cover for Nocturnal Transitions" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,12 +1048,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 59</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 71</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2010-11-22</td>
@@ -1093,7 +1069,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/XQYzvKNONOf5sk5IaZCYk6P9jskOuYV1TlBQNxNcf2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTkx/NTEtMTI5NTAyNTcy/My5qcGVn.jpeg" alt="Cover for Feed-Forward" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1090,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/8beZXqx54gbiLyFllr9Dh7gDobmFR2dhZbMGz_1Obi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjM4/MTctMTUzMTc2OTU0/NC0yNTA4LmpwZWc.jpeg" alt="Cover for Indirect Light EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1128,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2011-06-20</td>
@@ -1207,12 +1183,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 49</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/laC9Duz_wG4gRbuSsPttpeNz9YnOmv3Ws5LXg3fQtv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY0/MTYtMTM2MTM4NDQ1/Ni0zMjYyLmpwZWc.jpeg" alt="Cover for 1984" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,7 +1207,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/e2tOqljqSbVewepBvABR6iAB-H0-HbWBQ6sr5JR5Zc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDUy/MzgtMTQ2NTQyMDU2/Mi0yMjEwLmpwZWc.jpeg" alt="Cover for The Last Vehicle EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1227,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2012-07-12</td>
@@ -1271,6 +1247,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a20fb20cde0f417c8ece61d381a9c214.png" alt="Cover for Luxury Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-18</td>
       <td>Andy Stott</td>
@@ -1284,7 +1261,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 45</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1305,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2013-01-21</td>
@@ -1347,7 +1324,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/nNI0QKBvveuxz9PbS5zLa9N3ZsysoAQXJh10TicoM04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzIw/MTMtMTM2NTg0NTA0/My05MDY4LmpwZWc.jpeg" alt="Cover for Deep Sea Exploration" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1361,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/q7mcDmLPyYX36pwfC1aZGYT6oZpjSNWYVeeAiDYQ-cA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzcy/MDItMTM5OTU0NDI4/NS00NDEwLmpwZWc.jpeg" alt="Cover for Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1381,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013-08</td>
@@ -1424,7 +1401,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2013-09-16</td>
@@ -1464,7 +1441,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2014-05-26</td>
@@ -1499,7 +1476,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2014-09-09</td>
@@ -1531,7 +1508,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1551,12 +1528,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 76</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/QCHGeA8C456Buc37NNX09GTsXrbJls_LkBtBDJWAV4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDQ1/NTItMTQyMjkxODE2/Mi05MTMwLmpwZWc.jpeg" alt="Cover for Stealth" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,7 +1570,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Omj7R0TgNXzMU4Qi-3hVjy3rMbU7jUhJ4RK7PJyNjAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzQ5/OTktMTQzMDc3NDU3/Ny0xNjU4LmpwZWc.jpeg" alt="Cover for Beyond Starlit Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,34 +1646,28 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/I8-UVDY5r3nu_fy2_np3W9sLhwsFLLDt6KLKGkUajuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/ODU1LTE1Mzk0MzM4/NzEtNjM0Mi5qcGVn.jpeg" alt="Cover for Anima Mundi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2882f1fb49c2477dcf1398f51c1d5ebd.png" alt="Cover for Anima Mundi" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-03</td>
       <td>Vril</td>
       <td>Anima Mundi</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 91</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 93</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/gqIXq-S82A60rAn2Ll6sOXAxLtnfFgwqcTS8BLp0pCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAy/MDUyLTE0OTg5MzQz/OTAtOTUxMi5qcGVn.jpeg" alt="Cover for The Future" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7bebeb02d3e0c676d91cc99f9658dc7.png" alt="Cover for The Future" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-14</td>
       <td>TRP</td>
@@ -1712,12 +1683,12 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 93</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/bH2OmejU-MISQ909St33o1EDM00Le_tvtwX2IgV90Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/NzI2LTE2NjQ1MzM0/NDAtNTY0MC5qcGVn.jpeg" alt="Cover for Functional Designs" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,13 +1732,13 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 1</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 2</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/39LYqNHA5iBLOrTlD6AFf-n26nWmvlC4ALoSzeGFp14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NzY3LTE1NTYxODg1/MzUtMzIzNy5qcGVn.jpeg" alt="Cover for Simulated Thunderstorm" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1756,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/GWvXPzHdcYWAqHJc3U0dtaVG2lo_kafimJAHZ--70O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUx/ODU4LTE2NjU3ODE3/NzMtODE5OS5qcGVn.jpeg" alt="Cover for Venus Flytrap Exotica" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,6 +1785,26 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a8e88cc8f22a6ff24bffab5d1ce5f0e.png" alt="Cover for Daggarmark" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-06</td>
+      <td>Yagya</td>
+      <td>Daggarmark</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
@@ -1862,9 +1853,9 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/RcRyU8KvKDZNCVppRb57xOoK9nkoAKxNcRFOdYMrPlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgy/Mjc4LTE2MDMzNTM5/NDQtNjAxOS5qcGVn.jpeg" alt="Cover for Nikolai Reptile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3710079948f62ef1e22a822eb5c679b7.png" alt="Cover for Nikolai Reptile" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09</td>
       <td>Shadowax</td>
@@ -1886,7 +1877,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/eHuHuzqCfLiFVGvWyl05fMLb48_TiMV9uUxWE12ePFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYz/OTEwLTE2MDQ1Mjc2/NzMtNjc2NC5qcGVn.jpeg" alt="Cover for Fading" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,9 +1918,9 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/Yiw4Si7ULAOhwxNLVdjGww9P8_VXatgd9Leh_L_qefI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzMw/NTQwLTE2NDIxNTM4/MDAtOTM2MC5qcGVn.jpeg" alt="Cover for Love Of Plastic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c120eafc45a9012bb22dfd5ebee818ce.png" alt="Cover for Love Of Plastic" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-12</td>
       <td>Shinichi Atobe</td>
@@ -1973,7 +1964,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 16</li>
             <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 91</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 92</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 94</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 94</li>
         </ul>
       </td>
@@ -1981,6 +1972,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8ddd205d3a72c6a07e9cfc2b44a810.png" alt="Cover for Liumin" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DeepChord presents Echospace</td>
@@ -1994,13 +1986,13 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 63</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
