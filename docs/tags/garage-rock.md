@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:29:53.325Z
+date: 2025-11-15T03:13:22.253Z
 permalink: tags/garage-rock
 title: garage rock
 ---
 
 ## garage rock
 
-Last updated: <time datetime="2025-11-11T19:29:53.325Z">Tue Nov 11 2025 21:29:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T03:13:22.253Z">Sat Nov 15 2025 05:13:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d5683afe31f41049127c5cd4210076f.png" alt="Cover for Black Monk Time" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
       </td>
       <td>1966-08</td>
@@ -126,7 +126,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2997007d858d444092b77b0a1d2882f1.png" alt="Cover for The Stooges" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9497d37f6e064fcbcf460a441b37e95f.png" alt="Cover for Off The Bone" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/W-bZYBsPWLy3eunH-pBRYBmnWtWlmB5DUcBCaN-j0js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjYx/MTgtMTQyNzQ0MDcz/MC02MjI3LmpwZWc.jpeg" alt="Cover for …For The Whole World To See" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +226,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/OCsJSr6xfUV9R2Frhes0OjVwCSLpoMmkdzZNhqq3VhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjA0/Mi0xMzcwMDU4NzEw/LTM5MDUuanBlZw.jpeg" alt="Cover for Kick Out The Jams (live)" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 93</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -283,7 +283,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 37</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 87</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -303,7 +303,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 81</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 96</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -325,12 +325,12 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 35</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 41</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dc05df65c491b46613cd44258b93aa8.png" alt="Cover for High Visibility" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +348,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f256e56b1043cdbb99da3ac4dd69a0.png" alt="Cover for Is This It" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +362,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 31</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 42</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 97</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 98</li>
         </ul>
@@ -400,13 +400,12 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 80</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb1eae3531d2463ac6af7db581a73234.png" alt="Cover for Your New Favourite Band" style="max-width:120px; height:auto;" />
       </td>
@@ -421,12 +420,12 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       <td>
         <ul>
             <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 17</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 49</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/nxio3fYbN7hIDVhv-fUtWs3RkAXSilTEq6t2sRBKZTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTQ0/NjQ0LTE2NjY3Mjk2/MDMtNTQyMC5qcGVn.jpeg" alt="Cover for Your New Favorite Band" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +444,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4828a5a36bdd4c36cc958fc2c7f4efba.png" alt="Cover for Fell in Love With a Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +540,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5858a64c96254d719786838167410989.png" alt="Cover for Keep On Your Mean Side" style="max-width:120px; height:auto;" />
       </td>
@@ -574,9 +573,10 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 17</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 63</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 64</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -594,12 +594,29 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 82</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bbdfdb338dc4c9a924c50258ce3c1e5.png" alt="Cover for Don&#39;t Look Back Into the Sun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-18</td>
+      <td>The Libertines</td>
+      <td>Don&#39;t Look Back Into the Sun</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22765d073954a2e392c5faafb3fddb45.png" alt="Cover for Get Born" style="max-width:120px; height:auto;" />
       </td>
@@ -630,8 +647,8 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 35</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 44</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 83</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 95</li>
         </ul>
@@ -669,11 +686,30 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d948614683d447b18dcdc02a6ebf3566.png" alt="Cover for Can&#39;t Stand Me Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08-09</td>
+      <td>The Libertines</td>
+      <td>Can&#39;t Stand Me Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51faa1e364ff490ec930189bafc5b3d5.png" alt="Cover for Cuts Across the Land" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +765,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/651b3599330bb8fab0527ad426a4f86e.png" alt="Cover for Derdang Derdang" style="max-width:120px; height:auto;" />
       </td>
@@ -786,23 +822,21 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a32d175f1e44e46ce4f562c75ea6c61.png" alt="Cover for Strange House" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-05</td>
       <td>The Horrors</td>
       <td>Strange House</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 18</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 98</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -840,8 +874,8 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 53</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -861,7 +895,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 83</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +919,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85b015d166b42a9b714282e9c455398.png" alt="Cover for Frieden im Krieg" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +976,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-04-18</td>
@@ -994,7 +1028,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1006,23 +1040,6 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       <td>2009-10-05</td>
       <td>The Raveonettes</td>
       <td>In and Out of Control</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>2009-10-26</td>
-      <td>The Dead Weather</td>
-      <td>I Cut Like A Buffalo</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
@@ -1053,7 +1070,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4c595fc0324be4a83aecde73f10169.png" alt="Cover for Beat the Devil&#39;s Tattoo" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1143,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe84144e16808e200304351b5e9410de.png" alt="Cover for Brothers" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1183,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ed08c7d96a84d9a84c10230431d0170.png" alt="Cover for Crazy for You" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,9 +1198,9 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 47</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 48</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 86</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 46</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 50</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
             <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 94</li>
         </ul>
       </td>
@@ -1203,7 +1220,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 91</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1226,7 +1243,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dde3bc26f77f483bb520c6089c592ee1.png" alt="Cover for What Did You Expect from The Vaccines?" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1259,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 15</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1278,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 72</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1280,7 +1297,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 41</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1302,7 +1319,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b17cd8819d84ca7aa8567caaafe1f3b.png" alt="Cover for Will The Guns Come Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,12 +1372,13 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 1</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
       </td>
       <td>2012-02-06</td>
@@ -1375,7 +1393,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 35</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1419,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/964a2fde1a86d97a4a6143aad510aa59.png" alt="Cover for Putrifiers II" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1438,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2012-09-18</td>
@@ -1438,7 +1456,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/315573ae464fba69e711f35d28cf0dc7.png" alt="Cover for Barriers" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,12 +1530,12 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 16</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Nh-Ct0z7QAxGdSOPsEi5kmnhfmf5ZZZlSMnBv-GZCUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzE0/OTktMTM4ODA1NDMw/OS0xNjU0LmpwZWc.jpeg" alt="Cover for drenge" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,7 +1553,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67fdd5932df0fcc539eebe415f38780a.png" alt="Cover for Light Up Gold + Tally All The Things That You Broke" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1593,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/879ba5685a3d479cc7fbf27c5d8ea250.png" alt="Cover for Turn Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,13 +1630,14 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 69</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e0ac9c9f3441b7dc798abb1eb372202.png" alt="Cover for Chinese Fountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-23</td>
       <td>The Growlers</td>
@@ -1634,9 +1653,9 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 38</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 69</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 46</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 71</li>
             <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 100</li>
         </ul>
       </td>
@@ -1680,7 +1699,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/HFGgPw54Lc1mdVhvXiKOKuT4zt9w40mvb-PGckQDAEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzM5/NTUtMTQ1Mjk1MzU3/Ny05ODQ5LmpwZWc.jpeg" alt="Cover for Leave me alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,9 +1756,9 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 27</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 52</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 89</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 37</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1780,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/907c79cdd04e6d2d67a61a31531b7d99.png" alt="Cover for Swear I&#39;m Good At This" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1800,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
       </td>
       <td>2017-08-25</td>
@@ -1819,7 +1838,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/eTG5ZYqe3Q2tn27X0zwmcLusWc0zUI0ctf78OjmluGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE1/NzUyLTE1MzA2NzYz/MzItNDAyMC5qcGVn.jpeg" alt="Cover for The Nude Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,26 +1856,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef57338fbeb0a2a7f397c9df71e9fe7d.png" alt="Cover for The Sonic Crystal EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-06-01</td>
-      <td>The Symposium</td>
-      <td>The Sonic Crystal EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43cb5d328b7a27a553d360a0c5461ce5.png" alt="Cover for Help Us Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,7 +1896,7 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/eG-o7bPdzQ922XHt9j7_HtEDB6NuJ5hyFaBPpb7jTb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ5/NTY0LTE1ODYwMTI1/MzMtNDM2MC5qcGVn.jpeg" alt="Cover for The Singles - Volume 01" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,12 +1947,13 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 1</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Xx7jgBdECDrqVxUxpyibtMfXPBB3JYetI-w1DjfxJ4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUz/MDUwLTE2MjQ0OTU0/MzEtNDQ2OS5qcGVn.jpeg" alt="Cover for Death Of A Cheerleader" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,11 +1977,11 @@ Garage rock is a raw, energetic style of rock music characterized by distorted g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 1</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 4</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 27</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 3</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 5</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 32</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 65</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 87</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 89</li>
         </ul>
       </td>
     </tr>

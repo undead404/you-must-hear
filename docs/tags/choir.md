@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T08:02:47.159Z
+date: 2025-11-15T02:48:21.965Z
 permalink: tags/choir
 title: choir
 ---
 
 ## choir
 
-Last updated: <time datetime="2025-10-30T08:02:47.159Z">Thu Oct 30 2025 10:02:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T02:48:21.965Z">Sat Nov 15 2025 04:48:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/fwl7mrl-kvkUn_8hJO_t0e78StBbRS8_CXkb5u4rU4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUz/ODE3LTE2NzAwNDUx/OTctNTg0NC5qcGVn.jpeg" alt="Cover for All-Night Vigil" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/6dAHcPgokLf0mW8cBUG-Ja5Syd-zk6Aiuyr3uVn0I0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODMx/NTktMTQxMDYzMDM3/My03ODcyLmpwZWc.jpeg" alt="Cover for Tchaikovsky: Sacred Choral Music" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/WicdNsbgrChp1aSVTyYBkJmGgQ_2BNWyMBHJd8mYl-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzQy/NC0xNDY0NzE3MzY5/LTMyMDcuanBlZw.jpeg" alt="Cover for Le Mystère des Voix Bulgares" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/VFcREs8tHU7lUEjV5_MErPeQ1xBndlPTY33vQKHyprU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/MTIzLTE1NjE0OTE4/NDMtOTcxOC5qcGVn.jpeg" alt="Cover for Ein deutsches Requiem Op. 45" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/CSIdA14CsoGmhSK6Uz6AOCgnR9T9Ue_w9HMLcoZyVi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDQx/NTktMTQzODQzNTAz/Ni05Mjk2LmpwZWc.jpeg" alt="Cover for Aurora: The Complete Hildegard von Bingen, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +337,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/HuXOI5G9R5_8zUZiIHqYbdX-VDiQZBecudfA0kHwKjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM5/NC0xMTcwOTM2MTQ0/LmpwZWc.jpeg" alt="Cover for Angelis" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +355,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1995-04-15</td>
@@ -390,7 +390,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/grXUKrSSmbJehvawG5B6Cw9wknBvIOQduvdwgCYa9GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIz/MC0xMTkyNjE2NDMy/LmpwZWc.jpeg" alt="Cover for Dream On" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +408,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/slC7--4Udoi3ay44PMhOKv8DqK1-B1xQdVKLHSkuazg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg5/NDEyLTE2NzEyNzA2/OTYtMTIxNi5qcGVn.jpeg" alt="Cover for De 25 Allermooiste Sinterklaasliedjes" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/0RE6mswjxgoPFyqAT4kNmpYL13h7EyG_s7cSKvOR1JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTcx/NDU5LTE2NzY5Mjg1/MTMtODUxMC5qcGVn.jpeg" alt="Cover for Hymns of Faith II" style="max-width:120px; height:auto;" />
       </td>
@@ -466,6 +466,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bce6666b77d68303f5f655c908927f9f.png" alt="Cover for Nectar" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Kitka</td>
@@ -508,7 +509,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 17</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 20</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 79</li>
         </ul>
       </td>
@@ -534,7 +535,28 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/BtTyqhDwGmoidsdDhnnpvv8f7PTGmMeczscavWvoVYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA0/ODMtMTU3MTY4MTI4/OS04NzU2LmpwZWc.jpeg" alt="Cover for Faking Movies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Knauskoret</td>
+      <td>Faking Movies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/FPNz6IJWCX_eNcmHxwQ1ri1KYN6oEH1Xs2FrOh2P1Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQ0/ODctMTU3OTIwNzc1/Ni05NzA4LmpwZWc.jpeg" alt="Cover for Masters Of Chant 8" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +580,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/5eDPoy7wCkRgHIIhQVtCk6g-oSBrIauT-x0ERwpKlDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/MTc5LTE1OTU4Nzky/MTYtNzYyNi5qcGVn.jpeg" alt="Cover for Sing of Mary" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +598,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/h68av4kSyMciruR52zpH1jcotEGbLZe4EbZjgl-fLEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg5/OTEwLTE1NDYwMTEw/ODYtODczOC5qcGVn.jpeg" alt="Cover for Light of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +651,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2002-11-20</td>
@@ -646,7 +668,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1bac7a6c81f4274c28f2786ded43864.png" alt="Cover for On the Rocks" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +677,6 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       <td>On the Rocks</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
         </ul>
       </td>
       <td>
@@ -699,7 +720,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/6dfzswBSw7eDh_TFRUktX1KUhMtiuiAmH0V6rvB-2B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ0/MTczLTE2MTUxNzI4/MjAtOTY1Mi5qcGVn.jpeg" alt="Cover for May Angels Welcome You" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +738,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2004</td>
@@ -734,7 +755,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ncizBxa54F-1ad4YDy5ceOegeq1QgN6Zb2WyNgSWVac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEy/MDYtMTE5NjI2OTUy/Ni5qcGVn.jpeg" alt="Cover for Les Choristes" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +773,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2004-10-04</td>
@@ -769,7 +790,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/DGHRKmeWfCzVZiVsuVRJaLbyw7_tc0plpUQYzQjInx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc4/ODAyLTE1ODY0MTg4/MjktNTIyMS5qcGVn.jpeg" alt="Cover for Zero to Hero" style="max-width:120px; height:auto;" />
       </td>
@@ -785,13 +806,13 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 77</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 78</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Wmmtp5C7JcCApqD1ii-RINQfv6aw0Dp785WF5QFquok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzA3/NjktMTQ2MjM4NjIy/MC0yMzg2LmpwZWc.jpeg" alt="Cover for A New Spring" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +852,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/7B8nxsynUemdDLqMJ8SnOGQW1KaWQ3vluDmt72_2Lx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTcz/Ni0xMjU1NDI1ODIw/LmpwZWc.jpeg" alt="Cover for The Masterpieces - Decade 1" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +870,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2005-09-30</td>
@@ -866,7 +887,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>2005-10-07</td>
@@ -879,12 +900,12 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 24</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Z6N51prbrD58eUNdA6MK2vWMGbt5Gv-B1AMGZuA-C5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODI1/NjYtMTI3NDI3OTUy/NC5qcGVn.jpeg" alt="Cover for Yoda Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +924,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2006-09</td>
@@ -920,7 +941,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>2006-11-17</td>
@@ -956,7 +977,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2007-02-28</td>
@@ -974,7 +995,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/eEV6duxIFR1eu8n_Uh7hDScFm7AkxscCMgRoOF8MgIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA0/MjUtMTE5NzA5NTU1/NC5qcGVn.jpeg" alt="Cover for One-Winged Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +1013,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/s-0hptPinpsdJUdIUj9XYpHztde448KjliV54yrJw6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/NDQtMTE5NzQ2MTg2/Ny5qcGVn.jpeg" alt="Cover for Christmas Giveaway &#39;07" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1035,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Wrcyda6D9vdbXV4MIhAuUjW5RrLyTKTMEOFc5Ue6920/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc1/OTIxLTE2NTYwNTUw/MzgtNDc1MS5qcGVn.jpeg" alt="Cover for The Best of the Red Army Choir: the Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1070,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Candlelight Processional" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1107,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/RiUzGyYQWZYObhQTeD-xVrpUSiRpSK_qkKOpEeQFmfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQy/MjAtMTMxNDAzNTcw/NS5qcGVn.jpeg" alt="Cover for Hildegard von Bingen und ihre Zeit" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,7 +1134,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/KoueJZLPCZdbJCJkUVcKyRgL4FG6-hgbIS1G3A3nyjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY3/NjYyLTE1MTkwNzk0/MzctODQxNS5qcGVn.jpeg" alt="Cover for Hildegard von Bingen: Marienlieder" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1163,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/Sx2EdPgHmpY7UdWnNDnGXRSKdmx8dLoTPKJJqkuAQ-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/MTEtMTQ4OTYwMTE5/MS04NjA1LmpwZWc.jpeg" alt="Cover for Rebirth of Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af0cb5f7693bb947daf1ec4e422bf140.png" alt="Cover for Rebirth of Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Lind Erebros</td>
@@ -1163,7 +1184,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/X1Hc3UTejUQHHmpyR3ev2GrkyX-E8EOAG5OAf9r21C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTU1/MjQtMTQwNDg0MDQz/NC0zNTY1LmpwZWc.jpeg" alt="Cover for The Fighting Temptations (Music From The Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,13 +1237,13 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 49</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 48</li>
             <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2009-04-07</td>
@@ -1241,8 +1262,8 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 13</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 66</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 70</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 68</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 72</li>
             <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 75</li>
         </ul>
       </td>
@@ -1269,7 +1290,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/g9hPQXWpSjh344Yx7ZLA_6e5iEEHlAm6Drj1VnCgKmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjIx/MTctMTMwNDcxNTcz/NS5qcGVn.jpeg" alt="Cover for Light &amp; Gold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfd26464f8cf4afe86bd20965b01dab8.png" alt="Cover for Light &amp; Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Eric Whitacre</td>
@@ -1286,7 +1307,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01869b00704074d02617a9293ddc2421.png" alt="Cover for Circle" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1363,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/NIgn0fKRekrH-Ec2Fd5yNbU6bwsHOshohCbMrLcOCCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzQz/ODUtMTUxMTA2Mjg5/NS04MzQyLmpwZWc.jpeg" alt="Cover for Christmas Chants and Visions" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1382,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/PUJN2OJdR3eC6Gqz27JZCctfz5qeKs40GBtoAUcWJ30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk3/ODY3LTE0OTY2NTkx/MTktODcxNy5qcGVn.jpeg" alt="Cover for Les Choristes" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1401,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2011-09-30</td>
@@ -1415,7 +1436,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/l4DJAoJfxs4SxmSUjeOPfBNWDe7yvvNrho5MtjvEiNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDU2/NTEtMTYxNDI3NDkw/Mi0zMzkwLmpwZWc.jpeg" alt="Cover for Chaos Engines" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1459,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2012-07-27</td>
@@ -1456,7 +1477,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2012-09-14</td>
@@ -1498,7 +1519,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2012-12-02</td>
@@ -1524,7 +1545,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/kHVB8ThtFYIINhvPN4xr6toWf0dkgL4QLXBulz4aWUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjI5/OTYtMTM2ODU2MDE1/OS02NTA5LmpwZWc.jpeg" alt="Cover for Noah &amp; The Whale" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1582,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/tfg5uj_FoUl2tTP_01EPE5ri-8atas3WNHGt8lK335A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjQ3/MTctMTQwMzcxNTU0/Ni04MDk4LmpwZWc.jpeg" alt="Cover for Like Shadows in Grey Rivers" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1638,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2014-06-02</td>
@@ -1633,7 +1654,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 57</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1659,10 +1680,10 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 72</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 92</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 92</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 93</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 94</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 95</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 98</li>
         </ul>
       </td>
@@ -1690,7 +1711,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/l5-7FFA0wyvUhDWV3l5A1WpDBm3Ak1zd6olmX8mqE_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTcx/NzU3LTE1ODc2MzIy/NTUtMTcwMi5qcGVn.jpeg" alt="Cover for Воскресения день" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1730,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/yP9mIVCDVfoENfUcgs4-xALl04N95JBgGTQVx1GV-pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjcz/MTktMTY0MTcxNjUw/NC0xNzQwLmpwZWc.jpeg" alt="Cover for Magnus" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1770,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/1pkIGQrrEhpZG8W4Zc22OtSaki5Fm8_2aQAxxOt030g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQw/NDUzLTE2MzczMjc1/ODMtMzM5OC5qcGVn.jpeg" alt="Cover for Handel: Silete Venti, Gloria, Salve Regina – Vivaldi: Nulla in Mundo Pax Sincera" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,35 +1804,13 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 91</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 36</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/DkrnCR-AQLB_djqZsjcIcgbCIwfEfANxTqP8_jGhNZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTQ4/MS0xNTAxNjkzMDg2/LTgwMDYuanBlZw.jpeg" alt="Cover for Ultimate Pop Christmas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-12-08</td>
-      <td>S Club 7</td>
-      <td>Ultimate Pop Christmas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/OfrTIiJEJAwSpuZiy_B-g4oAlaVD-CdCNC5t41ycYcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU2/ODE0LTE1NzI4ODM2/MDQtNDg0Mi5qcGVn.jpeg" alt="Cover for LOHDUTUS (feat. Ringa Manner)" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,8 +1830,9 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/130ffe100c614fd9a983dc5c9293895a.png" alt="Cover for Light" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Saad Hebboul</td>
@@ -1859,7 +1859,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1890,6 +1890,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f3e8fb26add0830172014d7d04d759.png" alt="Cover for Venetia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Camera Sintetica</td>
@@ -1914,15 +1915,15 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 8</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 16</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 9</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 18</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 45</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td></td>
@@ -1941,7 +1942,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1961,7 +1962,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1979,8 +1980,9 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df0a9ffecb3d45a8ad77832db45d2145.png" alt="Cover for The Four EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Knitting Turtle</td>
@@ -2003,7 +2005,7 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2052,5 +2054,5 @@ A choir tag encompasses vocal music performed by multiple singers in harmony, ra
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [gospel]({{ "/tags/gospel" | relative_url }})
 - [christian]({{ "/tags/christian" | relative_url }})
-- [pop]({{ "/tags/pop" | relative_url }})
 - [soundtrack]({{ "/tags/soundtrack" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})

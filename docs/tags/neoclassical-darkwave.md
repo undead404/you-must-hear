@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T14:59:38.763Z
+date: 2025-11-15T02:30:22.397Z
 permalink: tags/neoclassical-darkwave
 title: neoclassical darkwave
 ---
 
 ## neoclassical darkwave
 
-Last updated: <time datetime="2025-11-11T14:59:38.763Z">Tue Nov 11 2025 16:59:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T02:30:22.397Z">Sat Nov 15 2025 04:30:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
   </thead>
   <tbody>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1987-07-27</td>
@@ -43,8 +43,8 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 63</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 89</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 67</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -65,13 +65,14 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 71</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5769715aa9a1681ea84e5876016c6a46.png" alt="Cover for Aion" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-07-02</td>
       <td>Dead Can Dance</td>
@@ -84,14 +85,14 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 26</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 61</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 35</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 65</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/2-KtL6zmFry4fAUwJQV2NWCQhgEnnUIaPZC-7xCFZUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTI5/LTEzMTk2MTIzMTEu/anBlZw.jpeg" alt="Cover for Pearl of Great Price" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +112,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1991</td>
@@ -128,7 +129,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1995</td>
@@ -150,7 +151,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/pjlf0heJxiM95OU1obNjZuv5sWOzLcnkahvJiixlkN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU2/Ny0xMzYyMTY3MjM3/LTkzNDYuanBlZw.jpeg" alt="Cover for Fata Morgana" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +172,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1996</td>
@@ -185,12 +186,12 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 7</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1996</td>
@@ -207,7 +208,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/WOrtBk9vMU-ZtpKm8m0CtYsGkK2P79xuDqdw-WNOIhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAx/MDQ5LTE2NDkzNjU0/NzQtNDk1OC5qcGVn.jpeg" alt="Cover for Enchantment of the Ring" style="max-width:120px; height:auto;" />
       </td>
@@ -227,7 +228,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/UywpZUX-Zz5mWwRm0M7dt85XxHhh7Agf6FK8CffuumE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTM0/Mi0xNDUyMTAyODk5/LTM2NjEuanBlZw.jpeg" alt="Cover for Remnants of a Deeper Purity (2014 Remastered Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -245,12 +246,12 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 8</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/vH8HFcy3mqw71hHhGgoPTCVPg8AfikB4gGsDw14Akyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTMx/MS0xNTgyNDU5ODgy/LTM5MDEuanBlZw.jpeg" alt="Cover for Mordenheim" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +270,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/o_5-Av2DiLrPJ-pWkzuxIJLk4R8DQHEyuepEOgyXKdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYz/My0xMTQzMzg4NDcx/LmpwZWc.jpeg" alt="Cover for All Beauty Is Sad" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +289,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/9FAFdyfPiZUPrIemwrQ3T5ObYRMhJhe35Augko_En3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjc4/OTMtMTY4MDQyOTU1/NS05MDYyLnBuZw.jpeg" alt="Cover for Within The Realm Of A Dying Su" style="max-width:120px; height:auto;" />
       </td>
@@ -303,8 +304,8 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 54</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 75</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 57</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -328,7 +329,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1998-10-13</td>
@@ -342,13 +343,13 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 15</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 26</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/u9te3lUdbLxydcesn0HxC8beYWdw_rLcnG2TiQtMLhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDcx/NDUtMTM1NTQ2MjQx/OS03MDkwLmpwZWc.jpeg" alt="Cover for Turning Point" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +368,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/MlqAhHQQckLwm82UwvHy_3EWnj_d_OBXD9mNQ4jQ4is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjAy/Mi0xMjk4MTY0MDE2/LmpwZWc.jpeg" alt="Cover for Dead Lovers&#39; Sarabande (Face One)" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +387,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/MlqAhHQQckLwm82UwvHy_3EWnj_d_OBXD9mNQ4jQ4is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjAy/Mi0xMjk4MTY0MDE2/LmpwZWc.jpeg" alt="Cover for Dead Lover&#39;s Sarabande (Face One)" style="max-width:120px; height:auto;" />
       </td>
@@ -404,7 +405,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1999</td>
@@ -423,7 +424,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/zz8S0uHU-yVWjNQKX9jH2vH-9FOSsuOLnl3PGGGFsJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzQz/OC0xMTgwMTgwOTcw/LmpwZWc.jpeg" alt="Cover for Sator" style="max-width:120px; height:auto;" />
       </td>
@@ -448,7 +449,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d083e7cb1d9e454dc52a97cc3801793f.png" alt="Cover for In The Garden Of Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +469,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Vrc_hUHfv9AJWKdhyA2WwtI5yIs-jD4a92BgTtoSqQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTE4/MC0xMjYyNTc0MTU5/LmpwZWc.jpeg" alt="Cover for Chaostar" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +506,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2001-06</td>
@@ -524,7 +525,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2001-11-28</td>
@@ -547,15 +548,15 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 23</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 26</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 62</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 63</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2003</td>
@@ -571,8 +572,8 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 17</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 28</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 80</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
@@ -580,7 +581,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/lvDW_bqSU7ixgD7ipXKMweaYfmAD8H7E68Er9XGMEIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ3/MS0xMzgyMjAwNDAx/LTQ1NjguanBlZw.jpeg" alt="Cover for Cantar a la Morte: Fabula Triste" style="max-width:120px; height:auto;" />
       </td>
@@ -597,13 +598,13 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 42</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a2e86d709f47b980479fd0e15d961c.png" alt="Cover for Enchant" style="max-width:120px; height:auto;" />
       </td>
@@ -618,21 +619,22 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 8</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 43</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 47</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 71</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f10a5832aebcce184e89c742ff7f541.png" alt="Cover for 廃墟と楽園" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-24</td>
       <td>志方あきこ</td>
@@ -650,16 +652,16 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 18</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 35</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 60</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 69</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1f03421172f404cc04e815fa637ca0c.png" alt="Cover for Feast Of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +676,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 17</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 20</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 25</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 40</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 62</li>
@@ -698,13 +700,13 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 7</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 10</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2004-11</td>
@@ -721,7 +723,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2005-02-12</td>
@@ -740,7 +742,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/Qev6G_kTMSzr89K8x8N38QyNxHeFDCl1YqHjoo1UhnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ4/My0xMjAwNDc5NDAx/LmpwZWc.jpeg" alt="Cover for Fairydust" style="max-width:120px; height:auto;" />
       </td>
@@ -755,17 +757,18 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 14</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 38</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 41</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 43</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 57</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df0a419239ec0247be760f6d0f7e522.png" alt="Cover for Navigatoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-20</td>
       <td>志方あきこ</td>
@@ -789,7 +792,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
         <ul>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 15</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 40</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
@@ -799,7 +802,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2006</td>
@@ -820,7 +823,27 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44182f4db2806b2f5ea24da7b3a1f0c5.png" alt="Cover for Hilvern" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-02</td>
+      <td>Artesia</td>
+      <td>Hilvern</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/eUKd0L_sXYn_DA9_-2GH2lc10Usd5Oh7NW9JnOSdZLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQx/ODQtMTE4OTMzOTQ1/My5qcGVn.jpeg" alt="Cover for Arcadia" style="max-width:120px; height:auto;" />
       </td>
@@ -836,14 +859,14 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 13</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 17</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 55</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2006-10-21</td>
@@ -862,8 +885,9 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/415f18b3061fc9d355684d303067a809.png" alt="Cover for Raka" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-25</td>
       <td>志方あきこ</td>
@@ -880,17 +904,17 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 66</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2007</td>
@@ -908,7 +932,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2007-04-13</td>
@@ -922,12 +946,12 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 13</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2007-05</td>
@@ -965,6 +989,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7354041d9659dd885b45ec157d641fc5.png" alt="Cover for The Garden of the Hesperides" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-28</td>
       <td>Hexperos</td>
@@ -1005,7 +1030,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df119de2c5c648ccb09d1d0d4e6f1834.png" alt="Cover for Idylls [Remastered Reissue]" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,12 +1047,12 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 46</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/TUKEMhmPgLkI8lVUqijf0Kcu61JanUNYgxL4v4MeC1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/NjgtMTcyNTEyMjE3/Ny0xMzU3LmpwZWc.jpeg" alt="Cover for Moments of Sleeping Sadness" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,8 +1071,9 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/301eaf82fa4b1763f56c5fc6c01a1091.png" alt="Cover for Mythical records - Odyssey of rapture vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -1067,7 +1093,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2009-02</td>
@@ -1086,7 +1112,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Osforras" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1128,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 66</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 67</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 94</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 96</li>
@@ -1110,7 +1136,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2133a9f35405499ec92a49fdd29f1c52.png" alt="Cover for Harmonia" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,14 +1159,14 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
         <ul>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 42</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 43</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 48</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 49</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2009-04-17</td>
@@ -1157,7 +1183,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-05-25</td>
@@ -1173,8 +1199,9 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f7ff58cb7cf44a5a37e773869fde719.png" alt="Cover for The Golden Thread" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-15</td>
       <td>Stellamara</td>
@@ -1210,14 +1237,14 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
         <ul>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 49</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 53</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 78</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 78</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2009-08-28</td>
@@ -1238,7 +1265,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2010-03</td>
@@ -1261,7 +1288,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2010-04</td>
@@ -1281,7 +1308,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Dv-vF9e4_WzhGftq7hycGq-tAqYhjJ_TsQ0nDbsN1OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk3/MjMtMTI4NDE0NDkx/MS5qcGVn.jpeg" alt="Cover for The Holocaust" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1329,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c484a38388c5476d8055cf74c96668ea.png" alt="Cover for The Veil Of Queen Mab" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,15 +1349,16 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 53</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 75</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36068b367c64f6287f49ca5415f38db.png" alt="Cover for 謳う丘 ～Ar&#x3D;Ciel Ar&#x3D;Dor～" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-29</td>
       <td>志方あきこ</td>
@@ -1346,16 +1374,16 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 16</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 31</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 33</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 44</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 59</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/GF3kZIQYexF5MMCgLhzlkASSRpZ41E6zeCQ0uibzFEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc0/NzUtMTU5ODcyMDc4/OS00NTQ5LmpwZWc.jpeg" alt="Cover for Beyond the woods - The acoustic songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1401,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/bFYuWidwnMGBvAy8rb8N_VY1lHamjO2MRHBadCDNnfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzIx/ODAtMTMwMzIxMDA0/MC5qcGVn.jpeg" alt="Cover for Arcane" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,14 +1428,14 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 17</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 31</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 63</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/v8oiSXyaV7j4rstwYjm5KnQjZUS8Wmc5zqc6veA2p70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzkw/MzQtMTM3NzM2MTAy/My01Njg2LmpwZWc.jpeg" alt="Cover for Have You Seen This Ghost?" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,8 +1453,9 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f38deeee1e442ffb629d2bbcd08fdbc.png" alt="Cover for 白夢の繭～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-08</td>
       <td>志方あきこ</td>
@@ -1454,8 +1483,8 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 17</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 19</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 24</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 60</li>
@@ -1464,7 +1493,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/nalfOHCfesPpAKg-CcJUoMhnUifsRciocc1U90fBIMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzIx/NzY0LTE2MDcwNDk3/NDctNTUyOS5qcGVn.jpeg" alt="Cover for Epic Lifestyle" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1531,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2012-03-14</td>
@@ -1519,7 +1548,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2012-06-30</td>
@@ -1555,13 +1584,13 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
         <ul>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 27</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 45</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 62</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 93</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 66</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2012-12-12</td>
@@ -1578,7 +1607,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,15 +1633,15 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 10</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 23</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 25</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2013-10-31</td>
@@ -1629,7 +1658,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/h1xF_JoJdmhDEMSh8q7zCjqcoDACeHCkrcZLFWkWlGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ5/ODQtMTQyODUxMDgy/Ny01NzA3LmpwZWc.jpeg" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,15 +1677,15 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 10</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 34</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 51</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Vhf2P1ZqE_pxwoY62KvnK3URb71a3Eg94qW1kjVvD24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDE4/MjQtMTQ0OTA3MTgx/MS0xNjk4LmpwZWc.jpeg" alt="Cover for Sin Eater" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,7 +1704,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/9Ue_azwkQr2HJlVSq91rEn7NBse2JM3H53eYUj2Nu2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODcy/NzctMTQ3Nzk5NDM3/My00MDI0LmpwZWc.jpeg" alt="Cover for Vagabonde" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1735,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 9</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 28</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 65</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 84</li>
@@ -1714,9 +1743,9 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/X67LBWLX6STjHZQkitaDYUJnbdVagKXk78h-T8x-LiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDUx/NzEtMTY3MzE1MzM3/Ny04NDI2LmpwZWc.jpeg" alt="Cover for Metamorphosis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d696ee83b7945a76301ff86394c9a87.png" alt="Cover for Metamorphosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-11</td>
       <td>Luc Arbogast</td>
@@ -1753,7 +1782,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 33</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 73</li>
         </ul>
       </td>
@@ -1795,7 +1824,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/lyhQ4cA6OYt4zgdCFaQyt_hyCFlKZGGzFtaZTkM9YHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM3/ODU3LTE1MjcyNjIx/NzUtOTcwOS5qcGVn.jpeg" alt="Cover for Totentanz" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,13 +1863,13 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 13</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 16</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 61</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
@@ -1871,7 +1900,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/cg-nkdOSCsRXA6wW7c_XqKDnbUFQdPw2TwtacQHGeic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE1/OTg3LTE1ODQwMjcy/NjgtMTM5Mi5qcGVn.jpeg" alt="Cover for Birthmarks" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,14 +1919,14 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 58</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/FrvEOd3v7r9gn4v8sNiXCwt4YpIsc3MALMeGTUCphcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAw/OTE3LTE2MDM0NDU5/OTAtMTg2MS5qcGVn.jpeg" alt="Cover for Nereïd" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e0da7e06ba1a2f353b4fa163e88b416.png" alt="Cover for Nereïd" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-23</td>
       <td>Rïcïnn</td>
@@ -1918,7 +1947,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/_1UVFveyO6XxzdjFdp63jkKpz0nBPqJzL-TyUxMbAno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQz/OTgzLTE2MDQxNzE0/NjktNzE5MS5qcGVn.jpeg" alt="Cover for The Book of Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1965,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/hsacmofaluqp9flPJr46GwBZ2RbH71yvFvrkBlwsEHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzAy/NDc2LTE2MTQ5NTYx/MDEtNzM4OC5qcGVn.jpeg" alt="Cover for A Call To Arms" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,17 +2004,15 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/hrowS2dkPolpYMluqAxb39IXjeMImFDt4WguyWi9f8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjg1/MzQ2LTE2MzU2MTE2/OTgtNDI0MS5qcGVn.jpeg" alt="Cover for -io" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f18f9c4a2dbcbe113d31c81643464c2.png" alt="Cover for -io" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-22</td>
       <td>Circuit des Yeux</td>
       <td>-io</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
         </ul>
       </td>
       <td>
@@ -1994,9 +2021,9 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/1jwgXIZwGi6bc83BuGTi0gTqQYNtRRP_dWPp7UiA9x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMx/MjU2LTE2NTE4Mzcy/MzYtNDA3NC5qcGVn.jpeg" alt="Cover for Concrete" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb2801542e1bf3b8d4807c2fc26b9cf.png" alt="Cover for Concrete" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-01</td>
       <td>Martha Skye Murphy</td>
@@ -2011,12 +2038,12 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/S23jxtbf6UVHO5sEBSSNT6bMGz9VfbVnEToYhiBt8Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEx/OTkwLTE2ODQzNzM4/MTctNjAyOC5qcGVn.jpeg" alt="Cover for The Crow-Cyan Lake 鸦青湖畔" style="max-width:120px; height:auto;" />
       </td>
@@ -2117,19 +2144,19 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
         <ul>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 23</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 82</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
@@ -2137,55 +2164,55 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/2nf381z2qKP4fa-bzEz0bNZJWkDetZi1IDul6aaboaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQw/NTIwLTE3MDExMTgz/NTgtNjYzNC5qcGVn.jpeg" alt="Cover for A time to love, a time to die" style="max-width:120px; height:auto;" />
       </td>
@@ -2198,13 +2225,13 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 33</li>
             <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/0AAIlNJRL1FJ7RZ9cQZY3CVWjFzhJtDDNhyAexarTe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDkx/ODIzLTE3MDE1NDgz/MDQtNzA1MC5qcGVn.jpeg" alt="Cover for Master&#39;s Murmur" style="max-width:120px; height:auto;" />
       </td>
@@ -2224,29 +2251,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/XD2jZ0x4d5l067FjkSIJnmkOexDuk8lntrzlRVuZgm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU5/MTQ2LTE3MTE4Mzg1/MzUtNDU1MS5qcGVn.jpeg" alt="Cover for Eg Er Framand" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-03-22</td>
-      <td>Sylvaine</td>
-      <td>Eg Er Framand</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/qd0YLz8HmGepEii_OayJCNYqaE-gvlsE2I9yFKeSVW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk3/NjE4LTE3MTk4NjA4/MzItNjQ1OC5qcGVn.jpeg" alt="Cover for Impossible Light" style="max-width:120px; height:auto;" />
       </td>
@@ -2269,7 +2274,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2289,8 +2294,9 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d05605087940db8c731d2f94b20b76.png" alt="Cover for LAYLANIA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -2317,7 +2323,7 @@ Neoclassical darkwave blends classical instrumentation like strings and piano wi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
