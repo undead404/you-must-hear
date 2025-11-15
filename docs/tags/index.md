@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-15T06:34:13.840Z
+date: 2025-11-15T07:09:21.989Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-15T06:34:13.840Z">Sat Nov 15 2025 08:34:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T07:09:21.989Z">Sat Nov 15 2025 09:09:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [delta blues]({{ "tags/delta-blues" | relative_url }}) | <time datetime="2025-11-15T07:09:21.989Z">Sat Nov 15 2025 09:09:21 GMT+0200 (Eastern European Standard Time)</time> |
+| [chamber folk]({{ "tags/chamber-folk" | relative_url }}) | <time datetime="2025-11-15T06:52:14.016Z">Sat Nov 15 2025 08:52:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [digicore]({{ "tags/digicore" | relative_url }}) | <time datetime="2025-11-15T06:34:13.840Z">Sat Nov 15 2025 08:34:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [chillwave]({{ "tags/chillwave" | relative_url }}) | <time datetime="2025-11-15T04:04:15.061Z">Sat Nov 15 2025 06:04:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [disco]({{ "tags/disco" | relative_url }}) | <time datetime="2025-11-15T03:27:22.618Z">Sat Nov 15 2025 05:27:22 GMT+0200 (Eastern European Standard Time)</time> |
@@ -267,7 +269,6 @@ Last updated: <time datetime="2025-11-15T06:34:13.840Z">Sat Nov 15 2025 08:34:13
 | [hardcore punk]({{ "tags/hardcore-punk" | relative_url }}) | <time datetime="2025-11-14T01:47:25.676Z">Fri Nov 14 2025 03:47:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [traditional]({{ "tags/traditional" | relative_url }}) | <time datetime="2025-11-14T01:47:19.589Z">Fri Nov 14 2025 03:47:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk rock]({{ "tags/folk-rock" | relative_url }}) | <time datetime="2025-11-14T01:46:51.245Z">Fri Nov 14 2025 03:46:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [chamber folk]({{ "tags/chamber-folk" | relative_url }}) | <time datetime="2025-11-14T01:46:46.235Z">Fri Nov 14 2025 03:46:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop soul]({{ "tags/pop-soul" | relative_url }}) | <time datetime="2025-11-14T01:45:32.404Z">Fri Nov 14 2025 03:45:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [psychedelic folk]({{ "tags/psychedelic-folk" | relative_url }}) | <time datetime="2025-11-14T01:45:24.899Z">Fri Nov 14 2025 03:45:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [singer-songwriter]({{ "tags/singer-songwriter" | relative_url }}) | <time datetime="2025-11-14T01:44:55.878Z">Fri Nov 14 2025 03:44:55 GMT+0200 (Eastern European Standard Time)</time> |
@@ -422,7 +423,6 @@ Last updated: <time datetime="2025-11-15T06:34:13.840Z">Sat Nov 15 2025 08:34:13
 | [east coast rap]({{ "tags/east-coast-rap" | relative_url }}) | <time datetime="2025-11-11T19:38:53.368Z">Tue Nov 11 2025 21:38:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [dark rock]({{ "tags/dark-rock" | relative_url }}) | <time datetime="2025-11-11T19:38:12.411Z">Tue Nov 11 2025 21:38:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [west coast hip hop]({{ "tags/west-coast-hip-hop" | relative_url }}) | <time datetime="2025-11-11T19:37:36.373Z">Tue Nov 11 2025 21:37:36 GMT+0200 (Eastern European Standard Time)</time> |
-| [delta blues]({{ "tags/delta-blues" | relative_url }}) | <time datetime="2025-11-11T19:36:50.845Z">Tue Nov 11 2025 21:36:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [space rock revival]({{ "tags/space-rock-revival" | relative_url }}) | <time datetime="2025-11-11T19:35:40.006Z">Tue Nov 11 2025 21:35:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [chill house]({{ "tags/chill-house" | relative_url }}) | <time datetime="2025-11-11T19:35:14.479Z">Tue Nov 11 2025 21:35:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [big beat]({{ "tags/big-beat" | relative_url }}) | <time datetime="2025-11-11T19:34:49.819Z">Tue Nov 11 2025 21:34:49 GMT+0200 (Eastern European Standard Time)</time> |
