@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T07:16:13.665Z
+date: 2025-11-15T12:26:21.978Z
 permalink: tags/g-funk
 title: g-funk
 ---
 
 ## g-funk
 
-Last updated: <time datetime="2025-11-10T07:16:13.665Z">Mon Nov 10 2025 09:16:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T12:26:21.978Z">Sat Nov 15 2025 14:26:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Murder Was the Case" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd90838b4cf68322da64cdaff9adfdaf.png" alt="Cover for Livin&#39; Like Hustlers" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17e1cc558dd9981795e71f544059bc83.png" alt="Cover for Quik Is The Name" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/I_gcmmAY-FaWqqOkNn1zyt2lj9ie-StfI1FXt6a1Ago/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE5/MC0xMTI2ODY4MTM0/LmpwZWc.jpeg" alt="Cover for Vocally Pimpin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -159,12 +159,12 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 45</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 91</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/CLKJyzJaEHoVGKqwTkCz9_5Mc_R2ukbjzBWlIs-VV4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTQ0/OC0xNjU1MTI5OTUy/LTEzOTAuanBlZw.jpeg" alt="Cover for It&#39;s On (Dr. Dre): 187um Killa" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +184,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1993-05-25</td>
@@ -202,7 +202,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/CRoLRSxNO5wGwopsBK-GOU_mf_Yzg7rDyhWMTA39sFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjYw/MC0xNTA5MTQ2NDU1/LTI2OTcuanBlZw.jpeg" alt="Cover for Steady Dippin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -236,7 +236,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 58</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -255,9 +255,9 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 6</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 8</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 73</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 14</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 74</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 98</li>
         </ul>
       </td>
@@ -337,7 +337,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>1994-01-01</td>
@@ -410,7 +410,6 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       <td>
         <ul>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 67</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +434,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/FnKXs5Nw480rO3Y_kurtgVddJRwA4gewAytExYJW42Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzUz/OS0xMTYwODIxNDY1/LmpwZWc.jpeg" alt="Cover for Explicit Game" style="max-width:120px; height:auto;" />
       </td>
@@ -477,8 +476,8 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 24</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 70</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 91</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 94</li>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 99</li>
@@ -486,7 +485,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/-qX_ATXbQrewutXsTR8VlE3hlAJybfyyUwDdq20vrWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTg0/NC0xNjYyNTQ3Mzg5/LTczMjEuanBlZw.jpeg" alt="Cover for Kickin&#39; Game" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +539,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 51</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 77</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -564,7 +563,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95889ae1dae000837cdc9f7282af0e14.png" alt="Cover for Do You Wanna Ride?" style="max-width:120px; height:auto;" />
       </td>
@@ -598,12 +597,12 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 61</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/018a9efc8f19f86ddf84b98dd188df3d.png" alt="Cover for Made in America" style="max-width:120px; height:auto;" />
       </td>
@@ -638,13 +637,13 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 3</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 64</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 11</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1995-08-08</td>
@@ -687,7 +686,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>1995-08-22</td>
@@ -713,26 +712,6 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d50ae7e3b8bd4842ad85cb9df269e6fd.png" alt="Cover for The RBX Files" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-09-26</td>
-      <td>RBX</td>
-      <td>The RBX Files</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -774,13 +753,13 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 57</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/U9DoI_jjtoFjQmgTLfsVoJcKoZ-vdIdLc4qhllxzNx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/OC0xNDIzODY4MTI4/LTEzNzkuanBlZw.jpeg" alt="Cover for Str8 Off The Streets Of Muthaphukkin Compton" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +778,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eea7c41eae7e431eab74460465146543.png" alt="Cover for The Villain In Black" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +796,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6d9e19369d0b2083fd625d4fce1a8a8.png" alt="Cover for W.A.W.G. (We All We Got)" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +856,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fcaed5093d68c5a2b4b123b99ab9e78.png" alt="Cover for Necessary Roughness" style="max-width:120px; height:auto;" />
       </td>
@@ -951,7 +930,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>1997-06-03</td>
@@ -972,7 +951,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec8b2e480c9ca9abe6d38f331101e34.png" alt="Cover for Retaliation, Revenge and Get Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1022,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c53ad6979e9f731de3420488b51539db.png" alt="Cover for rhythm-al-ism" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1041,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/FzHevfi69sZTg4aqIcjcF1fAuVMtSZeTowOrKdHzHzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDY3/NzktMTQzMzg3NTE5/MC02NjUzLmpwZWc.jpeg" alt="Cover for Here Comes the Triple C" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,7 +1101,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>1999-08-02</td>
@@ -1156,10 +1135,11 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 41</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 2</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 44</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 49</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 97</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1181,13 +1161,14 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 3</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 73</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 89</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/kDVYcy9dfmD_ysvtQtHJgnF5kWlBtUeBmGjobjXk8pY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDIz/NDktMTUxMTEwNDA3/OC04MzU5LmpwZWc.jpeg" alt="Cover for The Prodigal Son" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1227,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6abdbadc41a4006c068b8a4802f518f.png" alt="Cover for Tha Last Meal" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1321,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d25f84ab19dfb2b613d9f92189efe7e.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1356,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/-d_teiVdGo4mUkN5wr8NRvXtpwrZ52ICdzD4rmkPlR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUx/NC0xMjc0ODI0ODc4/LmpwZWc.jpeg" alt="Cover for Murder Was The Case" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1376,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/AFiJT2zdixTUjhf3oKhH38JZXS4OEUvwP1wxVpP7-DM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYz/NzEwLTE1NzA5OTcy/OTctOTkxNS5qcGVn.jpeg" alt="Cover for All Eyez on Me (disc 2: Book 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1475,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d2c437b5b8e49d2a40fce28beb5a897.png" alt="Cover for Nate Dogg" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1493,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/So2ZPJX43EXRHc1jGtuNxK6nqEtKwGTmyEcpYeuVXwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDU5/ODAtMTUxNzE2MjA5/Ny00MDY5LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,7 +1669,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2009</td>
@@ -1706,7 +1687,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01634a4946744c44adef33d0077899ae.png" alt="Cover for Detoxification" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1727,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/lmX9iuyCTpEuhy70bNA0CxoZNMmf7Y_yaFLfF7qfkOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njgy/MjYtMTI4NTcxNzUx/NC5qcGVn.jpeg" alt="Cover for Suite 420" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,14 +1765,14 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 61</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 62</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/QceZ9c6kp-3ADckFiB1T3Ne4Llnr32trwq5yDfohcIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTEy/NDYtMTQwMDU5NjU4/NC0zNjU0LmpwZWc.jpeg" alt="Cover for SLOWED DOWN FUNK VOL. I" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,7 +1806,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1845,11 +1826,11 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 33</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 38</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 58</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 71</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 73</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
         </ul>
       </td>
@@ -1869,6 +1850,24 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e846eff0d1054bd606659272c4915c6a.png" alt="Cover for Boogie Naipe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-09</td>
+      <td>Mano Brown</td>
+      <td>Boogie Naipe</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1947,12 +1946,12 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/3VqEjxK1_okvMZdb85-qe4tQ0k8kSdk1W6gq6uVL2qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY4/MDgwLTE2MDYyOTUz/NzgtNzIxNS5qcGVn.jpeg" alt="Cover for The Dude" style="max-width:120px; height:auto;" />
       </td>
@@ -1974,7 +1973,7 @@ G-funk is a subgenre of hip hop music that originated on the West Coast of the U
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
