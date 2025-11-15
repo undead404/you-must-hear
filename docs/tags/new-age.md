@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T04:25:15.335Z
+date: 2025-11-15T10:40:39.403Z
 permalink: tags/new-age
 title: new age
 ---
 
 ## new age
 
-Last updated: <time datetime="2025-11-14T04:25:15.335Z">Fri Nov 14 2025 06:25:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T10:40:39.403Z">Sat Nov 15 2025 12:40:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
   </thead>
   <tbody>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/264a3259e67773743a3e982b1742ba2b.png" alt="Cover for The Division Bell (2011 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -53,7 +53,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>1972</td>
@@ -67,12 +67,12 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 84</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/eako4OeSsJ7bMdZyHf6ca7jy97h0Qj3lBabPHHm_rSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc2/OTMtMTQwOTM0NjMy/NC03NDk4LmpwZWc.jpeg" alt="Cover for Mythos" style="max-width:120px; height:auto;" />
       </td>
@@ -91,7 +91,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9923b228193054110d5ea3df0e9dea9.png" alt="Cover for Ommadawn" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b3ad9f823b9ce2b880ae700c1f4677.png" alt="Cover for The Friends Of Mr Cairo" style="max-width:120px; height:auto;" />
       </td>
@@ -129,7 +129,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/S3qkL6tcIsdExYJvtEl0JMVQNB7rJlWX4fCpnomX2t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ3/Ni0xNTU4NzUyNDYx/LTE1OTkuanBlZw.jpeg" alt="Cover for Asia" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1608839da50c494e9f145301431d8e62.png" alt="Cover for Crises" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36bee3f48c36375696bc16bbeb48344.png" alt="Cover for The Dreaming (2018 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>1986</td>
@@ -202,12 +202,12 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>1986</td>
@@ -224,7 +224,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/636d4d7e29efb7966c7035a866c51a75.png" alt="Cover for Watermark" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/pvW3ynP607PZmMbCCwNo_uT7_8u4Lkd42X9dDf3G3Yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzU3/MC0xMTU1MzM1NTE5/LmpwZWc.jpeg" alt="Cover for Ancient Journeys" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/HIGoMWUUjK3H20PjFEBF6axofnZvIhTx10jKEHLB-UQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTEz/NTQtMTUxNTM4MTA4/NS04NTE5LmpwZWc.jpeg" alt="Cover for Mcmxc Ad" style="max-width:120px; height:auto;" />
       </td>
@@ -281,6 +281,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a07cd9e67d38801b0f027acc2db6e7c.png" alt="Cover for MCMXC a.D." style="max-width:120px; height:auto;" />
       </td>
       <td>1990-12-03</td>
       <td>Enigma</td>
@@ -298,7 +299,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/HIGoMWUUjK3H20PjFEBF6axofnZvIhTx10jKEHLB-UQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTEz/NTQtMTUxNTM4MTA4/NS04NTE5LmpwZWc.jpeg" alt="Cover for MCMXC A.D" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/331b49efcc554fc181a393923f1afbd0.png" alt="Cover for MCMXC A.D" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Enigma</td>
@@ -314,7 +315,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7bf3cb16552735edc4e240b2d88650c.png" alt="Cover for Shepherd Moons" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +335,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/v-ow8dHltX5lzYSL_cH-IposMEv--nDk0irvk3ovMC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTg0/MS0xNTc5MDY1MDM3/LTExNDguanBlZw.jpeg" alt="Cover for Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -353,7 +354,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36f72bdec47d4dcd9460aac1e0a61e8c.png" alt="Cover for Deep Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -372,7 +373,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/e0EnympvHLNHCko8V0Z7nUR7Epid5p0AdR-KCmIB0lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzMx/NzYtMTQzNDQ1OTgw/MS04MjM1LmpwZWc.jpeg" alt="Cover for Enigma 2 - The Cross Of Changes" style="max-width:120px; height:auto;" />
       </td>
@@ -390,25 +391,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/BInqHexXPU6x9pk-JlZKvz_IXUH14fnOYVyPxpnh4UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMw/LTE2MDgyNDA3ODct/NTc2Ny5wbmc.jpeg" alt="Cover for Cross Of Changes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993-12-06</td>
-      <td>Enigma</td>
-      <td>Cross Of Changes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/169704fbcca84b1ba474c2cf42b5420c.png" alt="Cover for The Cross of Changes" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +409,25 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/BInqHexXPU6x9pk-JlZKvz_IXUH14fnOYVyPxpnh4UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMw/LTE2MDgyNDA3ODct/NTc2Ny5wbmc.jpeg" alt="Cover for Cross Of Changes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-12-06</td>
+      <td>Enigma</td>
+      <td>Cross Of Changes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/Qwuw6eCnZ8cjZSl1cB2yFxjdZTr6hSkOIYX5imAR6Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTk1/LTEzOTc1ODE5MDIt/MzExNC5qcGVn.jpeg" alt="Cover for Songs Of Distant Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -444,7 +445,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1994-10-11</td>
@@ -462,7 +463,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bdaef4ac600cb697304369d62803d26.png" alt="Cover for The Songs of Distant Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -480,7 +481,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/We5YqVxzkZLAIQ8pCH6GWTbh7NK1l270QIlZDggOKFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTgy/OS0xMjcwNTIxMjk0/LmpwZWc.jpeg" alt="Cover for Songs From a Secret Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -500,7 +501,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1995-05-04</td>
@@ -518,7 +519,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/576e78c8375a4e17bc8fbf4fa19f2966.png" alt="Cover for Boheme" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +540,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
       </td>
       <td>1995-11-20</td>
@@ -558,7 +559,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
       </td>
       <td>1996</td>
@@ -576,7 +577,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Z7Vr33pDDfhhkgZL4YfG0RGGfxZFuF89fpN-kVsd4Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgy/OS0xNjIyNDAwODg5/LTU1ODkuanBlZw.jpeg" alt="Cover for Le Roi Est Mort Vive Le Roi" style="max-width:120px; height:auto;" />
       </td>
@@ -594,7 +595,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4d1c66ea55e474cad71a8ebe62f9294.png" alt="Cover for Le Roi Est Mort, Vive Le Roi!" style="max-width:120px; height:auto;" />
       </td>
@@ -611,7 +612,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee1de72c64a25844f8001ab99e91bca.png" alt="Cover for Ancient Nazca - Inca Mysteries" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +632,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/LRHz3MMcq32UgrJo42jwAoZSXMv-7zlWM4iudhQ9lyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTA1/OS0xMTU3NzQ4MzIx/LmpwZWc.jpeg" alt="Cover for The Book Of Secrets" style="max-width:120px; height:auto;" />
       </td>
@@ -645,14 +646,14 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 16</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 64</li>
             <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>1997-11-10</td>
@@ -671,7 +672,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1997-11-10</td>
@@ -688,7 +689,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/849a96a3f3436beeef36df34802fe967.png" alt="Cover for Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -704,12 +705,12 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 83</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d7c14e743065ef85ee21a9426e230e.png" alt="Cover for Myth" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +730,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee9d91bd8eaa429db39249ad8fd69f19.png" alt="Cover for Comparsa" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +751,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1999</td>
@@ -769,7 +770,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1999-03-02</td>
@@ -786,7 +787,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2000</td>
@@ -804,7 +805,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/iiF3KOG5eQqYg8gd6D3VlPXvMo0QHweh_a1p_mNPLX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjQw/MS0xMjQwNDg0ODE4/LmpwZWc.jpeg" alt="Cover for Global Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -823,7 +824,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/BblRLaPbh7YdP-_luyol46Lddc7u0R-0WRp697dHvFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTcz/MC0xMTg4NjEzNzgy/LmpwZWc.jpeg" alt="Cover for Era 1" style="max-width:120px; height:auto;" />
       </td>
@@ -842,7 +843,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/BblRLaPbh7YdP-_luyol46Lddc7u0R-0WRp697dHvFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTcz/MC0xMTg4NjEzNzgy/LmpwZWc.jpeg" alt="Cover for Era I 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +861,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/QBVxiqKQUSmG5AYymnyfNV_HGeNTKBRbSkU5cHTpuQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjE5/MzA4LTE2MzE2NzU3/MTctNTQ1Ni5qcGVn.jpeg" alt="Cover for Paint The Sky With Stars: The" style="max-width:120px; height:auto;" />
       </td>
@@ -878,8 +879,9 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39c41b2a01cdf334b36c9c409037c082.png" alt="Cover for The Screen Behind the Mirror" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-01-13</td>
       <td>Enigma</td>
@@ -895,7 +897,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2000-05-15</td>
@@ -932,7 +934,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/UxRax5WpNcEg7vqKIFhCehaeLgt52OSMJZxPu9to90E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA5/NTI4LTE1MzY2ODQw/MDgtODc4MC5qcGVn.jpeg" alt="Cover for Paint the Sky With Stars - The Best of Enya" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +954,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/PSc-wJnsqMyQklFfugX4zS1BInUfWgj10Z8cNGj_MxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDIw/ODAtMTQ0NDkyMzgw/MC00MjIyLmpwZWc.jpeg" alt="Cover for Aquaria - A Liquid Blue Transecape" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +972,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2001-01-01</td>
@@ -988,7 +990,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/6qFMZwfy8uDFyLeIH4RtWBM7gPDpGrMvmaoRH0aek4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTE1/MzctMTQ4NzM2OTUx/NC01ODgxLmpwZWc.jpeg" alt="Cover for Zen Breakfast" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +1009,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2001-08-14</td>
@@ -1025,7 +1027,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2001-10-02</td>
@@ -1042,25 +1044,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td>2001-10-08</td>
-      <td>Enigma</td>
-      <td>Love Sensuality Devotion: The Greatest Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 38</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/sg82ymSUO9Q18c8LHRAjwQrkvvJzQgjj0uR-gg3HOmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTEw/MTktMTMyNDIyMjc4/Ny5qcGVn.jpeg" alt="Cover for Themes From &quot;Calmi Cuori Appassionati&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,7 +1062,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2002</td>
@@ -1095,7 +1079,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2002-01-02</td>
@@ -1112,7 +1096,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f39be593670b5ae22c186163f7820848.png" alt="Cover for Beneath The Surface" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1121,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/829f4a5ca70bd3818331f627519ac974.png" alt="Cover for Aphelion" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,7 +1140,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2003-03-18</td>
@@ -1174,7 +1158,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e58521ce8564f7fa8ae65e0b2567d87.png" alt="Cover for Voyageur" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1176,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/cxBHEk3nW-wsSFVB5CtZmEsG_vBdOJDOKF25yBPk3ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjU4/MzAtMTU3Mzc1NjE0/Ny02NTE0LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1195,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19327a601eea461fb65ec98ca314d6e3.png" alt="Cover for Earthsongs" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1213,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/puEwOPZMO94dFWs8vn0BiG9MEPBkN7SdEGPHhpxEMNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjY0/NDMtMTQzMDU4NjUz/My02NzkwLmpwZWc.jpeg" alt="Cover for May It Be" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1231,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2004-05-11</td>
@@ -1266,7 +1250,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2004-09-21</td>
@@ -1286,8 +1270,9 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a00e3c4075d4427699299f718824a0ff.png" alt="Cover for Evermind" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-05</td>
       <td>Amethystium</td>
@@ -1303,7 +1288,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/cxBHEk3nW-wsSFVB5CtZmEsG_vBdOJDOKF25yBPk3ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjU4/MzAtMTU3Mzc1NjE0/Ny02NTE0LmpwZWc.jpeg" alt="Cover for Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1307,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2005-07-18</td>
@@ -1342,7 +1327,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/iafusDcwYIACbU8cjgn2CxxPz9p0Pwkqk3ftfUC0fEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY2/OTAtMTYyNjQ4MDU1/NC00OTY1LmpwZWc.jpeg" alt="Cover for Nine Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,8 +1345,9 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a622cf364fcd4b517b2d7a4a9782c3c.png" alt="Cover for The Nine Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-09</td>
       <td>Achillea</td>
@@ -1377,7 +1363,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
       </td>
       <td>2005-11-18</td>
@@ -1396,7 +1382,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/pwy7OQvJc_TfZHJS_I4CxnvrC4GrXg28GGfyvLz9wio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTMx/MTUtMTMyMTA1MTk2/OS5qcGVn.jpeg" alt="Cover for The Water Is Wide" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1400,27 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006-01-31</td>
+      <td>Blue Stone</td>
+      <td>Breathe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 6</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54c3d330455d8ee16d49f331b96e2a2d.png" alt="Cover for A Posteriori" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1438,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d491460d74dc489ebb0dd02a8509847e.png" alt="Cover for Emblem (Selected Pieces)" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1457,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2006-10-31</td>
@@ -1470,7 +1476,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2007-02-13</td>
@@ -1489,7 +1495,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/voJekx7Jwd-dBLtz6UXRf4HBbHeIQ8pJE46isKpd0Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg5/Mi0xMDgzNDgxMzI4/LmpwZw.jpeg" alt="Cover for ICO〜霧の中の旋律〜" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,7 +1514,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/sV3xZ-57JDk911i1f8cmSsgZCvQpXpFUOgm80Je1Upw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM5/OTEtMTMzMjI0NTEz/Ni5qcGVn.jpeg" alt="Cover for Isabliss" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,8 +1532,9 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2271553ec494e77603a5b87740841f12.png" alt="Cover for Seven Lives Many Faces" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-30</td>
       <td>Enigma</td>
@@ -1543,7 +1550,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2008-11-07</td>
@@ -1562,7 +1569,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/HhxHWRfH537lmUcTkEOsyJvEN8Ev1XZtp_LMP2h7vHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzMx/NjUtMTMwMDMzMDMz/MC5qcGVn.jpeg" alt="Cover for Liquid Mind IX: Lullaby" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1587,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2010-02-02</td>
@@ -1625,7 +1632,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2014-12-01</td>
@@ -1653,7 +1660,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 44</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 74</li>
@@ -1666,7 +1673,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/137c1c23e40307349d85afc4ed61ff7b.png" alt="Cover for Keyboard Fantasies" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1692,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a05726091663e1457cdba9ec4b6d07cc.png" alt="Cover for EARS" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,12 +1708,12 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 94</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ced52d83eb0a172a5b61d7a4b2ffa4a.png" alt="Cover for カミイロアワセ" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,12 +1734,12 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 64</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ozvVeKR28DoVsvf3vaHspLEEhB-6eIaqA5w3F2DrCdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUx/OTE0LTE1ODYwMjk2/MTEtNzg5MC5qcGVn.jpeg" alt="Cover for ~~~" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1753,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1777,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 85</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 94</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 98</li>
@@ -1779,7 +1786,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/7mjjGuyIsoEJN5H8CC-gWdf-WWoTEGzKnPNENIWEVcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/NzczLTE2MDU5NTM2/OTAtMTQ3OC5qcGVn.jpeg" alt="Cover for Vampire Fitness" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,18 +1810,18 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 25</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 32</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 48</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 87</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for SWORDS" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,14 +1836,14 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 58</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/qO-3lyfJNsw076-kYJbQikLKycXEez9rVTaV_uupwo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NzcwLTE2NTMwNTE0/NjgtODYyNi5qcGVn.jpeg" alt="Cover for trees etc." style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1861,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/UG4Hm2dAprhZk4i4-GVdEb-dgW1oey9T6n3Q7TdMOrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTc4/Mjg4LTE2NTg2MTI1/MDctNjIzMC5qcGVn.jpeg" alt="Cover for Längtan Får Vingar" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,12 +1877,12 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 70</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg" alt="Cover for The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,18 +1942,18 @@ New age music is a genre of music that emerged in the 1970s and is characterized
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 8</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 33</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 34</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 39</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 46</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 60</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 64</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 65</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 61</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 69</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 84</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
@@ -1971,7 +1978,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ce547b998eaaabab6523b8382cfaff.png" alt="Cover for Cansar de Dançar" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,12 +1996,12 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 83</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/hlya1me140K8dfeQ3RIPQIzqMagfsICpLWZFWsJI3kE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDQ3/ODg4LTE2NTQyMTUx/NjctNTE0Ny5qcGVn.jpeg" alt="Cover for In the Abyss: Music for Weddings" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,7 +2020,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/1YDHwssTjL9kGx4q02S1Xm5Y2r9c0FIHGPp-IOjMFHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQx/NjYxLTE3MDAyMjY5/NjAtMTEwNC5qcGVn.jpeg" alt="Cover for New Blue Sun" style="max-width:120px; height:auto;" />
       </td>

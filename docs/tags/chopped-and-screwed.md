@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T06:41:05.717Z
+date: 2025-11-15T11:11:21.946Z
 permalink: tags/chopped-and-screwed
 title: chopped and screwed
 ---
 
 ## chopped and screwed
 
-Last updated: <time datetime="2025-10-20T06:41:05.717Z">Mon Oct 20 2025 09:41:05 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T11:11:21.946Z">Sat Nov 15 2025 13:11:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
   </thead>
   <tbody>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/TcYjhOaANh7M6iHoa-UVPek8GJ_yKkR5cTZS-cVPQes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/Mjc2LTE2MDU4MzMx/MTMtODM0OS5qcGVn.jpeg" alt="Cover for Ocean of Funk" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1995-08-01</td>
@@ -65,7 +65,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1995-09-26</td>
@@ -84,9 +84,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/BDiOqVZ3oAzFfhxMu20Clyp4jh_10VyH46FjnKJnoPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/NzAyLTE1MjA4OTk0/MTItNTkzNS5qcGVn.jpeg" alt="Cover for Diary Of The Originator" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92c92a40c164d9f5c32f8086c5ad9781.png" alt="Cover for Diary Of The Originator" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>DJ Screw</td>
@@ -106,7 +106,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/n-xgGNtIS3wDdLqb7Y-Tqx-dBg8zfLkIl7X0O-akhtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM3/MTkxLTE0OTc0MTY4/MzgtNjgxOS5qcGVn.jpeg" alt="Cover for N 2 Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/14lP801fv2d-3x2QQ2szyuK4B1z6mAcqUEqAAThshgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjc5/NS0xNjI1MzMxNTQx/LTQzNDYuanBlZw.jpeg" alt="Cover for Bigtyme Vol II: All Screwed Up" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/XqWLunpmHXkvD4Khr6elVKttDqiBv01pJLqZ0DzLnkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTE0/NjAtMTQ2MjY2MzM0/Mi00MzQyLmpwZWc.jpeg" alt="Cover for 3 &#39;N The Mornin&#39; (Part One)" style="max-width:120px; height:auto;" />
       </td>
@@ -162,7 +162,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/XvLTxe-HZ2P9INfPHaY9j5QUT1HlXZKVBgHCT4xLT3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMx/MzYwLTE1NDA4ODYz/MjMtNDcyOS5qcGVn.jpeg" alt="Cover for 3 &#39;N the Mornin&#39; (Part Two)" style="max-width:120px; height:auto;" />
       </td>
@@ -180,9 +180,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/J4aSsThIoLIl-OTWOMRGtxoh279y56qGPc81g8LHe7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA1/MjY5LTE1NTM1Njkz/MjgtNTIzMC5qcGVn.jpeg" alt="Cover for All Work No Play" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85c32605325e7120f8babf541474d8b.png" alt="Cover for All Work No Play" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>DJ Screw</td>
@@ -201,7 +201,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/MDexGUkF8am_rgelNsjLo8RjVI6sB8XK0pNXScIqqng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTEz/OS0xMDg5NjYyMzQz/LmpwZw.jpeg" alt="Cover for Tha Rippla: Screwed" style="max-width:120px; height:auto;" />
       </td>
@@ -221,7 +221,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/ZVLKZdm0ngNt40Q_EWfjuGNgFPlpknhPr2pW7TZ29C0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjM4/My0xNTUzMzg5NTY5/LTk2NzYuanBlZw.jpeg" alt="Cover for The Legend (1 of 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -241,7 +241,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/b3KjqF_bmNLNhy2MFLzp5ckx9DSzbuaEU9B8y7wCqUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY1/NDk0LTE2MTE5NDQ2/MjItNDg1NC5qcGVn.jpeg" alt="Cover for JEANETTE" style="max-width:120px; height:auto;" />
       </td>
@@ -276,9 +276,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/Sd4KrXJBQLZMEJGR7Sx0LDxAmgDdrOdNA4FLQWZ4zSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzE1/ODYtMTQ3MTUwOTg5/NC04MjI3LmpwZWc.jpeg" alt="Cover for 3 &#39;n The Mornin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dcdfb043ebc458d4f5fe4d9dc12dc88.png" alt="Cover for 3 &#39;n The Mornin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-08</td>
       <td>DJ Screw</td>
@@ -295,7 +295,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
       </td>
       <td>2002</td>
@@ -315,9 +315,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/fCZ8EIii2zRZa4fux4CqtBC8BJDE5vJ3AOnAdFcrjSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzQ3/ODMtMTQyNTU2NjE0/MC03MzI2LmpwZWc.jpeg" alt="Cover for Da Unbreakables: Screwed &amp; Chopped" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1d50f93a52d4e928ce4365aea2a4ac4.png" alt="Cover for Da Unbreakables: Screwed &amp; Chopped" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Three 6 Mafia</td>
@@ -334,7 +334,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/CO9xt9U7za5svVLac_s2L38VsmtPyZ-yfHXwa8juyDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjcz/Ny0xMDk4MDU0NjQ3/LmpwZw.jpeg" alt="Cover for Diary Of The Originator (Chapt" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +354,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/XqWLunpmHXkvD4Khr6elVKttDqiBv01pJLqZ0DzLnkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTE0/NjAtMTQ2MjY2MzM0/Mi00MzQyLmpwZWc.jpeg" alt="Cover for Chapter 180 - 3 &#39;N Da Morning Part II Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -376,7 +376,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/4R7X6HCTiYO8UFWPrszf6zd2fMqPamaT6b_pGqEqhxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQx/NTAwLTE1NTA1NzEy/ODktNDkwOS5qcGVn.jpeg" alt="Cover for Diary Of The Originator (Chapter 175 Players Ball)" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +398,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Xj8Zqu3b1QWF2uqfOrn0NavTjF207rM4gW7JDEDkQSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMw/MjI4LTE1MzQ2NzE1/MjktNjk3MC5qcGVn.jpeg" alt="Cover for Birds Fly South : Screwed &amp; Chopped" style="max-width:120px; height:auto;" />
       </td>
@@ -417,14 +417,14 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 42</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/AACmLW3KzGsmyAcHSHNXwWYmwC1FS4dsAY6qqh-jBx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/NzQxLTE1OTUzMjUy/NDItMzM1NC5qcGVn.jpeg" alt="Cover for Chapter 003: Duck Sick" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7e9786e3af351d00eba62b9ca0cb645.png" alt="Cover for Chapter 003: Duck Sick" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>DJ Screw</td>
@@ -441,9 +441,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/AACmLW3KzGsmyAcHSHNXwWYmwC1FS4dsAY6qqh-jBx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/NzQxLTE1OTUzMjUy/NDItMzM1NC5qcGVn.jpeg" alt="Cover for Chapter 049: Codeine Fiend" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/533e20af229244e55e24ef29eb48f5f7.png" alt="Cover for Chapter 049: Codeine Fiend" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>DJ Screw</td>
@@ -461,9 +461,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/mVpTncW6fFxPZjHftGkrJfoUwYEQAdZmWwe1kjrKBT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk0/ODU0LTE2ODk1MzIy/MTMtNzM2OS5qcGVn.jpeg" alt="Cover for Chapter 057: Wineberry Over Gold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52f187864499b39db06cb4e52dd58ec.png" alt="Cover for Chapter 057: Wineberry Over Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>DJ Screw</td>
@@ -482,7 +482,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/AACmLW3KzGsmyAcHSHNXwWYmwC1FS4dsAY6qqh-jBx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/NzQxLTE1OTUzMjUy/NDItMzM1NC5qcGVn.jpeg" alt="Cover for Chapter 178: In The Zone" style="max-width:120px; height:auto;" />
       </td>
@@ -501,9 +501,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/AACmLW3KzGsmyAcHSHNXwWYmwC1FS4dsAY6qqh-jBx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/NzQxLTE1OTUzMjUy/NDItMzM1NC5qcGVn.jpeg" alt="Cover for Chapter 137: Blue 22" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e671efd6a558997dc4454bec408e2ed7.png" alt="Cover for Chapter 137: Blue 22" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>DJ Screw</td>
@@ -522,9 +522,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/AACmLW3KzGsmyAcHSHNXwWYmwC1FS4dsAY6qqh-jBx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/NzQxLTE1OTUzMjUy/NDItMzM1NC5qcGVn.jpeg" alt="Cover for Chapter 070: Endonesia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6afea28a7287320b26eeb208ebde69b0.png" alt="Cover for Chapter 070: Endonesia" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>DJ Screw</td>
@@ -543,7 +543,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/AACmLW3KzGsmyAcHSHNXwWYmwC1FS4dsAY6qqh-jBx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU0/NzQxLTE1OTUzMjUy/NDItMzM1NC5qcGVn.jpeg" alt="Cover for Chapter 214: Old School" style="max-width:120px; height:auto;" />
       </td>
@@ -563,9 +563,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/7aRTzzMrKblIxhgnwAcmrVihNFH9DlLf0AbCn4jIcus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTA3/NS0xNTU1NzAzNTcx/LTQ2MjkuanBlZw.jpeg" alt="Cover for Fast Money Chopped and Screwed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cad12266fc644c44a7b54ac02c4261d9.png" alt="Cover for Fast Money Chopped and Screwed" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-01</td>
       <td>Birdman</td>
@@ -582,7 +582,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Zr_PfV4sT7coUOoGKIejVVGK1fBNyTxVOBVKXMOwzN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDk0/MzMtMTM0MDM1NTkx/OS0zNDQwLmpwZWc.jpeg" alt="Cover for Z-Ro Tolerance - Featuring Daz - Slowed and Chopped Version" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +601,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/1bz0PyZMr9qZOIERd0hOxRhCF6nFMZTZkq5rlUhnRAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDc2/NTQtMTI2NzU2NjU3/NC5qcGVn.jpeg" alt="Cover for Dormant Mirrors &#x2F; Drum" style="max-width:120px; height:auto;" />
       </td>
@@ -617,12 +617,12 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 12</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/GQ-AYGFe0NIojj7bp6eYG3qRDcx1I9LQpIxp9MRoSuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjA4/NTktMTI1ODk5MzY3/MS5qcGVn.jpeg" alt="Cover for infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +650,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/oX5DRZxj6Ywd6HIfiLphmh5D-KkrSz0tCyd_gyUEy8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODcz/MjItMTQxMzQ4OTA1/OC02ODYzLmpwZWc.jpeg" alt="Cover for Jive Records Presents: UGK Chopped and Screwed" style="max-width:120px; height:auto;" />
       </td>
@@ -670,7 +670,56 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/9UCp1ddfrze7c__yuKqAxY7V7WNIQT-YmIqlp91GhfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODU2/MzMtMTIzNjg0NDY3/My5qcGVn.jpeg" alt="Cover for hearts and minds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-07</td>
+      <td>Moresebya</td>
+      <td>hearts and minds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 7</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
       </td>
       <td>2010-09-28</td>
@@ -683,32 +732,14 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 92</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/ymRlLvxOls8_PG_2ps5P7fgyVgvFoXSjCG28SlbTYuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTY2/MzktMTQ1MTU5NzMw/MC04Mzk4LmpwZWc.jpeg" alt="Cover for The Complete Myspace Collection, Vol. 4" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Lil B</td>
-      <td>The Complete Myspace Collection, Vol. 4</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 43</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b58b855c0b7e4c7b88fcbfa23e1fbfc.png" alt="Cover for Mista Thug Isolation" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Lil Ugly Mane</td>
@@ -720,14 +751,32 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 14</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 47</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 88</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 50</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/163b04d09afb000cb331153056f7380e.png" alt="Cover for The Complete Myspace Collection, Vol. 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Lil B</td>
+      <td>The Complete Myspace Collection, Vol. 4</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/x3l114cYLahHxRLkT4wg4oo9lRV965EoduIy2g-CPj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcz/Njc1LTE1OTU2NzY5/NDMtOTQwOC5qcGVn.jpeg" alt="Cover for Purpped &amp; Chopped" style="max-width:120px; height:auto;" />
       </td>
@@ -746,8 +795,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4baec8c3966f9f274fab9c449db4879a.png" alt="Cover for I&#39;M FUCKIN YOU TONIGHT" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09</td>
       <td>Heat Wave</td>
@@ -766,7 +816,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/eVLJVdh3vx4uUHBrwgYY1_BvAHPXXu29eb499ENeBTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTQx/MTAtMTQ1ODAzMzMx/My02MTU3LmpwZWc.jpeg" alt="Cover for FUKD IN THA GAME" style="max-width:120px; height:auto;" />
       </td>
@@ -786,8 +836,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b79960b47a04bdaa80a7528d8e40586.png" alt="Cover for Kings and Them" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-01</td>
       <td>Evian Christ</td>
@@ -805,28 +856,21 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 16</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 77</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 22</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b9e348135b5488aa538010ce94837e2.png" alt="Cover for ICE IN THA VEINS" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-21</td>
       <td>Contact Lens</td>
       <td>ICE IN THA VEINS</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
       <td>
@@ -835,9 +879,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/Tfl-qsRN_yQchF_AjuPJSE7OJtBP3C4jb3a8a_BNF5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTgx/NDU4LTE2NDc3OTUw/OTctODA1MC5qcGVn.jpeg" alt="Cover for CRACK CLOUD$ OVER ARTS KITCHEN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd78ddd9aa164b158461dd040acd4f6a.png" alt="Cover for CRACK CLOUD$ OVER ARTS KITCHEN" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-24</td>
       <td>Black Kray</td>
@@ -852,37 +896,31 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 29</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/eAn_I_JmjpQfCG2tjh33pq3zibiV3yoKS8clyhuvvDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM3/MTEyLTE1NzI0ODQw/NTMtNzMyNS5qcGVn.jpeg" alt="Cover for Back to the Witchhouse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0f8ca56c25efd68b38fa116a9eb9c13.png" alt="Cover for Back to the Witchhouse" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-03</td>
       <td>Black Kray</td>
       <td>Back to the Witchhouse</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/dY10k3EIXbSHoUMH1MVQ6ipAH2ISTzZKPVRYM611XHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTM3/Mzc5LTE2MjM2NzM3/MzItNzEyNS5qcGVn.jpeg" alt="Cover for YAYAYI" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25427de53bf79743f020125d05e20860.png" alt="Cover for YAYAYI" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-30</td>
       <td>YAYAYI</td>
@@ -896,12 +934,12 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/DxeO9q3Wv9ipR19pYWBvG0iBSDPgDon9P89k3ldRQLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjM5/ODgzLTE2NDUzODk5/ODgtMzUzNi5qcGVn.jpeg" alt="Cover for Chopped By Purrp" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +957,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for BASTARD Chopped And Screwed By Mike G" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +974,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Subs Bumpin (4)" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +992,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Cash Flow (2)" style="max-width:120px; height:auto;" />
       </td>
@@ -972,7 +1010,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Eyes Low (8)" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +1028,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Smoked Out (3)" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1046,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Stunt Hard (10)" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,7 +1064,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Windows Creeped (5)" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1082,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Blacked Out (11)" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1100,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Ridin High (6)" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1118,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Requests Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1136,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Houston Drippin (1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,25 +1154,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Old School 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-12-15</td>
-      <td>Da SkeeT</td>
-      <td>Old School 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Loud Pipes (9)" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1172,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Laid Back (12)" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1190,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Cruisin Slow (7)" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1208,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Bang Loud (13)" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1226,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Requests Volume 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,7 +1244,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Requests Volume 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1262,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/R6LKUPWtt9URp1m2r7q6Leo1yp9a6AtBiEzUE3r3Do4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzQ3/MzYtMTQ2MzU1MDY5/NC03NjI5LmpwZWc.jpeg" alt="Cover for Non-CD MP3s" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,7 +1281,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/zdeUIGQxEzJO56sVYo4bwU_4Seh-Qpbvz24jHMX2ue0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg" alt="Cover for Drank" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,17 +1321,17 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 83</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 85</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/awCVlhgr64SLkTmrRZq_BtwHur1VUzV3E9gtGUUt8Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYw/NjkyLTE1NDUzODE5/ODQtMzg0Mi5qcGVn.jpeg" alt="Cover for SAVAGE MODE II [CHOPPED NOT SLOPPED]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4f326f11491fec920a6c7071777a66f.png" alt="Cover for SAVAGE MODE II [CHOPPED NOT SLOPPED]" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>21 Savage</td>
@@ -1327,13 +1347,13 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 79</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/a__PZ2W0csYhIsnYAg5816qxdqA6Ahs7MSf4whUNPCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/MTc4LTE1MTkzMTIw/MjctNDQ3Ny5qcGVn.jpeg" alt="Cover for THIS IS WHAT I DO - VOLUME 11" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1371,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/EOmp1XL2jgIUi8Y0y3h1FbC_UucfiwDELj1qRU89oFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MTI0LTE1MzQzMzkw/MzMtMTE4MS5qcGVn.jpeg" alt="Cover for CRY ALONE DIE ALONE" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1391,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/te1z0110p2O38z4UeXkBEunO-LtyUmUElfmMujIKSx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU1/OTk0LTE2ODg3NTI5/NzYtNjE3My5qcGVn.jpeg" alt="Cover for Love Streak ChopNotSlop Remix" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1409,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/-HJmwLNYdZdVOxp3t8gIttWBc9nRNtD13MQ9Hd35Ufo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg3/MjE2LTE1OTA3MDMw/NDQtMTMyOS5qcGVn.jpeg" alt="Cover for Smoke Break &#x2F; Swishahouse Rmx" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1427,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/1ymXAg892H6YpDP1s-i3bC7ckPeZIbzoLFt373LKakY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzUw/MjgwLTE1OTcwOTgw/MDAtNDI5Mi5qcGVn.jpeg" alt="Cover for Make It Hot (ChopNotSlop Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,9 +1445,8 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/foXRwO9rhaPSgKE3LYLNdVGj3FcmXbub4E9cw7nnDiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU1/MTUyLTE1ODI4OTY2/NTMtNjc1My5qcGVn.jpeg" alt="Cover for seeds" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02</td>
       <td>STUCKINWAVEFORMS</td>
@@ -1451,29 +1470,26 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for Early Works Bootleg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01347d21d664fa8058f796ce078957e5.png" alt="Cover for Early Works Bootleg" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-30</td>
       <td>YABUJIN</td>
       <td>Early Works Bootleg</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 41</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/f_mz7TarXoPbZEp5OnSw7LU2DRNjjrzlTFZ8GU2BZtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDIx/MTIyLTE2NzU3NzEx/NTItNjc3NS5qcGVn.jpeg" alt="Cover for NO SAFETY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b98f6fa1a13b2ad0a84a6b4c4415b9f.png" alt="Cover for NO SAFETY" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Rabit</td>
@@ -1496,7 +1512,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/jbW8hJUEEqbHDMqzn-iDnt9bv6BYJlihJKvWoTSAhVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/Njc2LTE2Mzc5NTQ0/MjctNTQwNi5qcGVn.jpeg" alt="Cover for Pizza and Codeine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2d8a424861439b4e5eb81f47d6f4fb6.png" alt="Cover for Pizza and Codeine" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-26</td>
       <td>Chris Travis</td>
@@ -1514,15 +1530,15 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 43</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 62</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 86</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 48</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 65</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/rrZ--vto7LU74sKMkkZ-8g6UDeCW3eycoJuBAFjVVo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk3/OTEtMTM3OTE2NTY3/Ny0yNjk1LmpwZWc.jpeg" alt="Cover for VENENO" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,9 +1557,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/HZhHw7gQpA9hgJkI72XnoOS4Ej8gr0lCxZk6WCPm8bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjM3/NjkwLTE2ODU0NzQ2/MTMtMjI1OS5qcGVn.jpeg" alt="Cover for Wicca Phase Springs Eternal &#x2F; Pillars Of Ivory Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a2ccaa005b54d6f2f347dcebb83e8a.png" alt="Cover for Wicca Phase Springs Eternal &#x2F; Pillars Of Ivory Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-02</td>
       <td>Wicca Phase Springs Eternal</td>
@@ -1568,7 +1584,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/CGbS6t0xMR9FpSW7sbfp9S2pqaVWoPPkRvC6tryYmVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODA5/ODUzLTE2OTA1NzQy/NjktNDkwMC5qcGVn.jpeg" alt="Cover for Yungwebster" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1604,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1616,12 +1632,12 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 5</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1639,8 +1655,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0150e010592a69f5e5299b132b305fc5.png" alt="Cover for Footage" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Eric Dingus</td>
@@ -1659,7 +1676,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1676,7 +1693,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1694,8 +1711,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5e9cd9e110188e956358950ae37db31.png" alt="Cover for Y" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>H20$$$$$$$$$$</td>
@@ -1712,7 +1730,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -1737,7 +1755,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1762,7 +1780,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -1787,8 +1805,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eee1dc342a862f6b556fa8be7a620dc.png" alt="Cover for Is There In Truth No Beauty" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Eric Dingus</td>
@@ -1807,7 +1826,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -1832,7 +1851,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -1857,7 +1876,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -1882,8 +1901,9 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a590b20a3a3648e6a224e5d2807ce7d2.png" alt="Cover for 512" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Eric Dingus</td>
@@ -1901,7 +1921,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td></td>
@@ -1918,7 +1938,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -1935,7 +1955,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -1952,7 +1972,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td></td>
@@ -1969,7 +1989,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
@@ -2023,7 +2043,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2039,7 +2059,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2061,11 +2081,11 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
 
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
-- [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
 - [houston rap]({{ "/tags/houston-rap" | relative_url }})
+- [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
 - [trap]({{ "/tags/trap" | relative_url }})
 - [witch house]({{ "/tags/witch-house" | relative_url }})
 - [southern rap]({{ "/tags/southern-rap" | relative_url }})
 - [southern hip hop]({{ "/tags/southern-hip-hop" | relative_url }})
-- [experimental hip hop]({{ "/tags/experimental-hip-hop" | relative_url }})
 - [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
+- [experimental hip hop]({{ "/tags/experimental-hip-hop" | relative_url }})

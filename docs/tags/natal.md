@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T06:37:07.636Z
+date: 2025-11-15T11:07:21.970Z
 permalink: tags/natal
 title: natal
 ---
 
 ## natal
 
-Last updated: <time datetime="2025-10-20T06:37:07.636Z">Mon Oct 20 2025 09:37:07 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T11:07:21.970Z">Sat Nov 15 2025 13:07:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/QPrq7KSZnx_1j3J1_vYuUYHnOOwnT7JKol3EYEy6uBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzk4/OTgtMTQ2NTcyNDQz/Mi04MDEwLmpwZWc.jpeg" alt="Cover for Weihnachten Mit Johannes Heesters" style="max-width:120px; height:auto;" />
       </td>
@@ -134,7 +134,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>1974</td>
@@ -187,7 +187,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/OdEiva5AKz4SGF-TVwW_fgIaXz3SOYa0KIiTPJyymwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM0/MzYxLTE0OTIyMjI3/NTYtOTc1MC5qcGVn.jpeg" alt="Cover for Merriest Hawaiian Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/FSEPxlNv89nhc0WHpjolKRLXgh_M9nrlBrSIXbc-WnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjY5/MDYtMTYwNDE2Nzc3/NC0xODg2LmpwZWc.jpeg" alt="Cover for Novo Natal" style="max-width:120px; height:auto;" />
       </td>
@@ -281,7 +281,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/iuHgGj0Wtln9-RxUfEX2JLfYGEzKm8T_f71pPofN-7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDE3/MDEtMTM1NjcwNjAz/OC0xNzk5LmpwZWc.jpeg" alt="Cover for Meine Schönsten Advents-Und Weihnachtslieder" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/aK-l4GVgL0tHK-b2qymCicO2ypCnU7duTooRuFOdd_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg5/Mzc4LTE1Nzc3MTcx/MDEtNzAyOS5qcGVn.jpeg" alt="Cover for Joy to the World: A Celebration of International Music of the Season" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +352,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/igg7q-vT6qce7VqcgHJeys3diQ5-s6AxecMrJXkvjgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjQz/NDMtMTQzOTg4Mjg2/NC0xOTE4LmpwZWc.jpeg" alt="Cover for Celtic Christmas 2" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +388,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/0xDWTrjuyLslL_s5BQ4wl6uYVkVFF9w3uSRHkHLY58s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIw/MzExLTE1ODMyNTA2/NjUtOTQ1Ny5qcGVn.jpeg" alt="Cover for In the Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -443,29 +443,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>Discarga Violenta</td>
-      <td>Cosmopolita</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/natal" | relative_url }}">natal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/0gIZC6TefphaCvsgZkmxcpeEO14pMh7GhVmq4D8yAZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/NzE2LTE1MTg1MTk1/ODYtODgwNi5qcGVn.jpeg" alt="Cover for Klassisk Jul" style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +577,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/zvAAHKIv_Vab5_k0o3rQvBqsgahNQODJX2RG9KEsCuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTE3/OTktMTQ2OTYxNDE2/Ni04NjgxLmpwZWc.jpeg" alt="Cover for Ich Wünsch Euch Frohe Weihnacht" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +633,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/onUEokbFl52kPNy5rwjhohDrEW1KYv4KfMYUywK_yYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzAx/MTg4LTE2Njk1NzU1/MDUtMzczNS5qcGVn.jpeg" alt="Cover for On This Day Earth Shall Ring!" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +668,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/ncBI55IMEpUk5_O5g95WWgCKWaue3ibNOvZ5sH9DzRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTY1/NjItMTQyMjgxMzQ2/MS02NDQwLmpwZWc.jpeg" alt="Cover for Unsere Weihnachtslieder" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +703,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Mas! A Caribbean Christmas Party" style="max-width:120px; height:auto;" />
       </td>
@@ -743,7 +721,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/x4wechvDqzXdoiZcvOpvseL_uZOo5MrbxSzuFrwRfus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQw/NTc1LTE2Mjk1NDYw/NjgtMzQ3OS5qcGVn.jpeg" alt="Cover for The Virgin and Christ-Child, Arcadelt, Mouton, Isaa" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +738,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/zX4ZOfrcmJrJsyF-sC1y4TLzJFUEQJw5po4PhT_XMT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE3/MzI2LTE2MzUxMDcz/MzItNDU4Ni5qcGVn.jpeg" alt="Cover for Tuo armon valkokyyhky" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +792,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/2GME07emcRTwtP3VqE1o22aM5CREoxEptBZYbaJd5n8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzcy/ODQ5LTE2NzAyMTI0/NjItOTQwNi5qcGVn.jpeg" alt="Cover for Noel Renaissance" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +810,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/TeYEk7h97pvuN3VsCWZs4HmxnXFsacg0j4NKFrnSiYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTAz/MTY5LTE2NzY0NjU2/MjQtMjg1Ni5qcGVn.jpeg" alt="Cover for Christmas Across the Centuries" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +864,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg" alt="Cover for Die schönsten Weihnachtslieder" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +883,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>2003</td>
@@ -922,7 +900,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Xw7fZYtQilA_6f3_NZDkUh9LPAR-T5ITuN2GB59oep4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM3/ODI1LTE1NjIyNTY3/MzYtNTg1OS5qcGVn.jpeg" alt="Cover for Season of Wonder" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +918,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>2003</td>
@@ -957,7 +935,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2004</td>
@@ -974,7 +952,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/YAAD1aRAKFDLC8d8HbbZA2K-oxjP6CKuEdWIZ2yAufY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE5/NjU2LTE1MjI5Mzkz/MjktNjU5NS5qcGVn.jpeg" alt="Cover for Racconto" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +970,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/zO4rXXH4E4nAewR9DBjq98K5QN1AhviDCYFP4eCM74s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDY5/MzAxLTE2Mzc1MTEw/NjktNTk4NC5qcGVn.jpeg" alt="Cover for 25 Nadales (Catalan Christmas Carols)" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +988,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/ozgGOp76HisXATFi1h2nRt-bsPYhPm6NSVgGRgv4o08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc4/MjI0LTE1MTg4MjYy/NjktNTQzNC5qcGVn.jpeg" alt="Cover for Schlittenfahrt im Schnee" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1041,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006</td>
@@ -1080,7 +1058,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/BZYUeJRR-hIiPdv700wf13ga9MAU_Vh5TbGrIitxk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA2/Nzk3LTE1NDIzMTk5/NTktMTg2NC5qcGVn.jpeg" alt="Cover for A Music Box Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1094,24 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ed040c3715e4f79939ff433e7f7fe7e.png" alt="Cover for Christmas in Our Hearts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Maini Sorri</td>
+      <td>Christmas in Our Hearts</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/vrwjtznPPsuEQSj1kouwOsqWNYkLMghXwQ1ABXX6AKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIz/NzYxLTE1NTAyNTUx/NTgtMzAzOS5qcGVn.jpeg" alt="Cover for Barbarie" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,7 +1172,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/20IEzKEldhUG31-ddcJ7eqbagI5RdFCJVNp__04auJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU3/MDgzLTE1MzI0NzQ0/NzYtNzI5Ny5qcGVn.jpeg" alt="Cover for Chitãozinho &amp; Xororó em Família" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba4022362558bf19666970f5644d7172.png" alt="Cover for Chitãozinho &amp; Xororó em Família" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Chitãozinho &amp; Xororó</td>
@@ -1195,7 +1190,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/rzafetGkW2bkgpIQlzc0Z70KdIlphXEuD07k4l9pOjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM3/NTE2LTE2NDgyMTk4/NjEtMTIzNi5qcGVn.jpeg" alt="Cover for Adeste Fideles: Organ Music for Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1250,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2011-08-11</td>
@@ -1272,7 +1267,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Rz6qJXa-xk2BpdMGuGtnnLREf1bfDV1YBAbk68YasDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMx/MjI4LTE0OTIxNzQ2/OTMtMTYxMi5qcGVn.jpeg" alt="Cover for Holiday Music: Instrumental Songs for the Holiday Season Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1322,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2023</td>
@@ -1344,7 +1339,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>2023</td>
@@ -1361,7 +1356,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>2023</td>
@@ -1378,7 +1373,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>2023-09-18</td>
@@ -1415,7 +1410,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1432,7 +1427,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1449,7 +1444,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1466,7 +1461,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1483,7 +1478,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1500,7 +1495,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1517,7 +1512,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1534,7 +1529,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1554,7 +1549,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -1571,7 +1566,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1588,7 +1583,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1605,7 +1600,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1622,7 +1617,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -1639,7 +1634,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -1656,7 +1651,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
@@ -1673,7 +1668,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
@@ -1794,7 +1789,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1810,7 +1805,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>

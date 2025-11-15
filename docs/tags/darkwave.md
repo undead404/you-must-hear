@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T04:25:43.186Z
+date: 2025-11-15T10:41:22.053Z
 permalink: tags/darkwave
 title: darkwave
 ---
 
 ## darkwave
 
-Last updated: <time datetime="2025-11-14T04:25:43.186Z">Fri Nov 14 2025 06:25:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T10:41:22.053Z">Sat Nov 15 2025 12:41:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -159,8 +159,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 65</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 79</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 67</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -219,8 +219,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 42</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 63</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 65</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 82</li>
         </ul>
       </td>
@@ -294,8 +294,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 85</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 96</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 87</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -353,8 +353,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 34</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 37</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 40</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -373,7 +373,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -393,8 +393,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 81</li>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 90</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 83</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -431,7 +431,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 27</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -443,24 +443,6 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       <td>1996</td>
       <td>Lycia</td>
       <td>Cold</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/508eca739bd8f43f5bab254b3a0e8fa1.png" alt="Cover for Bread and Jam for Frances" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-09-16</td>
-      <td>Switchblade Symphony</td>
-      <td>Bread and Jam for Frances</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
@@ -486,7 +468,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -506,13 +488,13 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 56</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 61</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 57</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xlNqNFxGS3EPO3084gdLSSg4QVYTs1pMqiGg6iM_r4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTQz/Ny0xNDMwMzQ4NTI5/LTE1NDMuanBlZw.jpeg" alt="Cover for Oddities" style="max-width:120px; height:auto;" />
       </td>
@@ -544,8 +526,25 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 34</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Diva Destruction</td>
+      <td>Passion&#39;s Price</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -574,24 +573,6 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       <td>1999-04-09</td>
       <td>Deine Lakaien</td>
       <td>Kasmodiah</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ab3c0c9965845b5b9a8e64532b3ad21.png" alt="Cover for The Three Calamities" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-05-25</td>
-      <td>Switchblade Symphony</td>
-      <td>The Three Calamities</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
@@ -732,16 +713,16 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 80</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fafa3a481f4b4b0196519ec7f4cafe83.png" alt="Cover for Some Kind of Strange" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +740,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2003-10-21</td>
@@ -772,6 +753,26 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/mgOMjI_ZJ8WWvSwFAqRBoxm_gjyRak2HXpdBuuc2-Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjQ5/Ni0xMjE5MTA0NTU4/LmpwZWc.jpeg" alt="Cover for Demon Kiss" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-22</td>
+      <td>Blutengel</td>
+      <td>Demon Kiss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +846,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 67</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 69</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 98</li>
         </ul>
       </td>
@@ -886,8 +887,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 37</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 94</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 44</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 96</li>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 100</li>
         </ul>
       </td>
@@ -963,7 +964,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 69</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -982,13 +983,13 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 42</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/zDUUqIqpO8TKqekTs6naSQuwzKIS0teVY51EtzA1a7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc2/NTUtMTY0Mzk1OTA2/NC02NjQ0LmpwZWc.jpeg" alt="Cover for Nekrolog 43" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1041,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 97</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1080,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1138,7 +1139,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 80</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1236,7 +1237,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
         <ul>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 27</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 45</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 66</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 93</li>
         </ul>
       </td>
@@ -1285,7 +1286,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2013-09-23</td>
@@ -1350,7 +1351,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5454c401afae4022c0256309a28c059f.png" alt="Cover for Sub Rosa" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1421,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 12</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 97</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
@@ -1470,7 +1471,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/-ZcSaDKLg3eYQ0TB7SBssg4sfAZV5nmFudCIyMI6v90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDEz/NDgtMTQwMTY2NjQx/MC00NDQyLmpwZWc.jpeg" alt="Cover for We Of Like Minds" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,12 +1489,12 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 73</li>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 98</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2015-05-11</td>
@@ -1625,7 +1626,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8583abdb8790a5d795d1ff0576d35824.png" alt="Cover for Unsummering" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,8 +1671,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 63</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 77</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 83</li>
         </ul>
       </td>
@@ -1725,7 +1726,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 93</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
         </ul>
@@ -1828,7 +1829,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ed844d94b11e3c046ef35d487a15ead.png" alt="Cover for Nótt eftir nótt" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,8 +1889,8 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
         <ul>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 27</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 94</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1907,7 +1908,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 54</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1926,12 +1927,12 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae3116fc1ad301fea97810e8c86dec41.png" alt="Cover for The Flesh of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,7 +1990,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 64</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 81</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 95</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 96</li>
@@ -2014,7 +2015,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 9</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 14</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 80</li>
         </ul>
       </td>
@@ -2038,7 +2039,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 59</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 61</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2065,7 +2066,7 @@ Darkwave is a music genre that originated in the early 1980s. It is typically ch
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58fa2a9f6cb8b80e27398d1e46404bf0.png" alt="Cover for Ретро" style="max-width:120px; height:auto;" />
       </td>

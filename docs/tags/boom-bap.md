@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T04:28:00.692Z
+date: 2025-11-15T10:56:22.088Z
 permalink: tags/boom-bap
 title: boom bap
 ---
 
 ## boom bap
 
-Last updated: <time datetime="2025-11-14T04:28:00.692Z">Fri Nov 14 2025 06:28:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T10:56:22.088Z">Sat Nov 15 2025 12:56:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -134,11 +134,12 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 39</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 49</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 50</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 70</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 88</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 94</li>
         </ul>
@@ -159,10 +160,10 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 31</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 48</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 49</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 69</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 78</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +184,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 34</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 39</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 38</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 43</li>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 88</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 96</li>
@@ -206,9 +207,9 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 9</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 41</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 40</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 98</li>
         </ul>
@@ -251,7 +252,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/XaZz20SbIb2_S3nlgeWPoXgM9fgO7tx4k4aHohGgq2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mzk1/NDQtMTM5MzM5Mjk4/Ni0xMDQyLmpwZWc.jpeg" alt="Cover for THE &quot;DEEP&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +271,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for ElCamino 2" style="max-width:120px; height:auto;" />
       </td>
@@ -289,14 +290,14 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for Don&#39;t Eat the Fruit" style="max-width:120px; height:auto;" />
       </td>
@@ -316,7 +317,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 14</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 67</li>
         </ul>
@@ -339,13 +340,13 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       <td>
         <ul>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 71</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 85</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>1999</td>
@@ -363,7 +364,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23e46122970e480ac8a165c75b76184e.png" alt="Cover for Psy From The Psycho World" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +407,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/vaGqwIGUwZ0An84lLiqu_a3fK0x8Uu-vE4hVOgQr5LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzY5/NC0xMTAxNjc0OTE2/LmpwZw.jpeg" alt="Cover for (VV:2) Venomous Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +473,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 29</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +497,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b867f50011c3b3a5d26253df8963768.png" alt="Cover for Mental Liberation" style="max-width:120px; height:auto;" />
       </td>
@@ -517,7 +518,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>2009-06-02</td>
@@ -534,7 +535,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/4gD06c6SURrcbb_iuCZOvzSOEprm0MjNvYfQwQ-ravY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTk1/NzYtMTUzOTA0NTUz/Ni03NTU3LmpwZWc.jpeg" alt="Cover for Im Thraxx" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +621,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ac9e9bbfb2042218d4a3fcbbce0a23d.png" alt="Cover for Supply For Demand" style="max-width:120px; height:auto;" />
       </td>
@@ -659,10 +660,10 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 18</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 21</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -832,13 +833,14 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 70</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 86</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 89</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 98</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -891,12 +893,12 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/34igrF24noKsRiIzftsGq6Y0WG-UzO96JcQJ0U4iSdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA1/NzA3LTE2MDA3MDE2/MjAtNTk2My5qcGVn.jpeg" alt="Cover for Writing Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -932,8 +934,8 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -991,7 +993,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 87</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 92</li>
         </ul>
       </td>
@@ -1037,7 +1039,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c6e74efeb562b3ccc7d6afc4ea4363.png" alt="Cover for La Bomba de Ziroshima" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,13 +1092,13 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 82</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a0deda38c450b4cab17da362d93a486.png" alt="Cover for Cine Negro" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1121,24 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71a28691e3ede34259b7ada3819aa7e7.png" alt="Cover for ALL-AMERIKKKAN BADA$$" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-07</td>
+      <td>Joey Bada$$</td>
+      <td>ALL-AMERIKKKAN BADA$$</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43f88c9fdb3d3c9d35eeccb27f7484d4.png" alt="Cover for Trust The Sopranos" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1181,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/PEsiKtQ_Em2pjFYoKgJNYTyNGyHxMOXg75sNQt_JYHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA4/Mzc0LTE1NjIxMjM1/ODgtMjM0NS5qcGVn.jpeg" alt="Cover for Efectos secundarios" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,8 +1240,8 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 19</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 51</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 52</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 84</li>
@@ -1271,7 +1290,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 52</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 55</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 58</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 86</li>
@@ -1279,7 +1298,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/orKRl_jewA-2GskyKcfAnqPAKxCAsHxkVzFwfI8b1fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc3/MjY3LTE2MTQ4MDc5/ODYtMzAzMC5qcGVn.jpeg" alt="Cover for Kill Em All" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1336,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 6</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1339,10 +1358,10 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 19</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 87</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
         </ul>
       </td>
@@ -1392,7 +1411,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1416,9 +1435,9 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 92</li>
         </ul>
@@ -1466,7 +1485,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3b50fe6117bde242d096ea7a881a843.png" alt="Cover for Lost Kingz" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1519,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 54</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1519,8 +1538,8 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 53</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 96</li>
         </ul>
@@ -1554,7 +1573,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36b3dc13443db6d27e112dc35f00a11.png" alt="Cover for And, Such Is Life." style="max-width:120px; height:auto;" />
       </td>
@@ -1567,10 +1586,10 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 26</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 35</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 50</li>
         </ul>
       </td>
@@ -1590,12 +1609,12 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 55</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/k2m3UodwRfi0-HFL8iE4-XwFaEIF4zHmOAmRCW1Wizs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgw/NjQwLTE2MTQ2NDQy/NzMtMjkxNi5qcGVn.jpeg" alt="Cover for Ghostpell&#39;s Olga Kórbut" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,8 +1654,8 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 28</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 75</li>
         </ul>
       </td>
@@ -1657,7 +1676,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 9</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1702,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/3QZSbrGf8OT88N27gNmtAV-NhM_U0g_UmFbonbvN9M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDcz/NjU5LTE2MjIzODkx/ODgtNzUyOS5qcGVn.jpeg" alt="Cover for Yeyo" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,29 +1716,6 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ceea4a0d1091ec074dea6dd973480a.png" alt="Cover for Movie" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-06-11</td>
-      <td>Your Old Droog</td>
-      <td>Movie</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1738,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1765,8 +1761,8 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 59</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 72</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 73</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 97</li>
         </ul>
@@ -1791,8 +1787,8 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 70</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 78</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 79</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 89</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 98</li>
         </ul>
@@ -1842,7 +1838,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cafa032ada6c4f9814af7156861944e.png" alt="Cover for Punk Tactics" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1851,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 51</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 90</li>
         </ul>
       </td>
@@ -1879,15 +1875,15 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 28</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 27</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 52</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/_eJ7tC3itm75boPWEAZ5lcPXs_8dsLkC1As4Ok4xRTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc5/MDM2LTE2NjY5OTM0/MTItNjA5MC5qcGVn.jpeg" alt="Cover for Hayalet Islığı" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1898,6 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1925,7 +1920,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/tfkGl7C8237SsTremopuBnbyD5GJ7sl2D3foExDbdvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTk2/OTU3LTE2NzU1NzIz/MDAtODY2Mi5qcGVn.jpeg" alt="Cover for natural high" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,10 +1960,10 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 77</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 78</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 83</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 79</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1989,8 +1984,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 1</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2012,14 +2006,14 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 51</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 67</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a2be01b8f5069cbbb8312b3f867b15.png" alt="Cover for YOD Presents: The Shining" style="max-width:120px; height:auto;" />
       </td>
@@ -2060,14 +2054,14 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
         <ul>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 40</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 76</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7e140a70f48651ec6ba64b5c05a301b.png" alt="Cover for Samurai" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,7 +2074,7 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2151,21 +2145,21 @@ Boom bap is a style of hip-hop music characterized by hard-hitting drums, often 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 8</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 31</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 52</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 9</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 45</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 58</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 60</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 61</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 87</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 88</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 88</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 88</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed761cf8d955113bb775ac38613b4c8f.png" alt="Cover for Alfredo 2" style="max-width:120px; height:auto;" />
       </td>
