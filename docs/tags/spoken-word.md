@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:34:46.861Z
+date: 2025-11-15T01:04:37.791Z
 permalink: tags/spoken-word
 title: spoken word
 ---
 
 ## spoken word
 
-Last updated: <time datetime="2025-11-13T16:34:46.861Z">Thu Nov 13 2025 18:34:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T01:04:37.791Z">Sat Nov 15 2025 03:04:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c81a74b7a25e4f730f4e845d033de4d.png" alt="Cover for The Transformed Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>William Shatner</td>
@@ -105,13 +106,13 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 22</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 65</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 33</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/j8hD-RkDRa1T0NjVr8BV9u4JNFSNQIumbPaOPO8a7UM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzg3/OC0xMzk0NTE0MTIx/LTg1MzcuanBlZw.jpeg" alt="Cover for Out of the Blue (40th Anniversary Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +129,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 97</li>
         </ul>
       </td>
@@ -172,7 +173,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>1984-09-01</td>
@@ -189,7 +190,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/jXKOl7VL14kV_SoP-ML4jLTk8OhNq-gCBsDQM512Er0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/MC0xMzk2NjAyODA5/LTI2ODUuanBlZw.jpeg" alt="Cover for Hopeless Cases" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +208,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/SxVC0cOM_n_GpBoT3ewyurQLj-ZoTrZnMeE5dG3iadY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTgz/My0xNTAwNTA3NTI1/LTc5NDgucG5n.jpeg" alt="Cover for Joined Up Writing&#x2F;The Sitting Room" style="max-width:120px; height:auto;" />
       </td>
@@ -310,10 +311,10 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 39</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 49</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 69</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 50</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 70</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 73</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 94</li>
         </ul>
@@ -344,7 +345,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1998</td>
@@ -379,7 +380,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2000</td>
@@ -426,7 +427,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f58cdcd54775a1ce0f67eac1b328ec8d.png" alt="Cover for The Ultimate Collected Spoken Words 1967-1970" style="max-width:120px; height:auto;" />
       </td>
@@ -466,7 +467,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/XlOOf6IAjhVi12aJokoqjYshrLWUP7mtzqrCFk_FsMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzcx/OC0xMTcwNTE4MzUz/LmpwZWc.jpeg" alt="Cover for Accept the Gift of Sin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d1b4e2b00d14cde8495602603fd3e9c.png" alt="Cover for Accept the Gift of Sin" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Rozz Williams</td>
@@ -505,7 +506,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80df952a317749ffa266591994908d58.png" alt="Cover for Testimony - The Life And Times Of John Lennon &quot;In His Own Words&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -638,7 +639,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2006-10-24</td>
@@ -766,7 +767,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2008-05-15</td>
@@ -782,7 +783,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-07-01</td>
@@ -985,7 +986,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 42</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1057,6 +1058,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a52372ff991e48b9c86a6fa52a5b8749.png" alt="Cover for Divide And Exit" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-23</td>
       <td>Sleaford Mods</td>
@@ -1074,27 +1076,9 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/pdV5UWck1RLGcLTSJe2LlQSTohlL_FcSjCQjk7P5EWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTE2/MTgtMTQyNTg3NzQ4/MS05NDk2LmpwZWc.jpeg" alt="Cover for Room 93 (Commentary)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Halsey</td>
-      <td>Room 93 (Commentary)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/p9GcYQ-iHILg-ZTnFcytmygc3YeGPMxt72nYWSQl2cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzA5/MDItMTQzNzY3ODk1/Mi00OTA0LmpwZWc.jpeg" alt="Cover for Key Markets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f132eee42769b1c0ef57f10f50791852.png" alt="Cover for Key Markets" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-24</td>
       <td>Sleaford Mods</td>
@@ -1112,7 +1096,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5ccc2826ce7a5a46dff015f4b34960c.png" alt="Cover for The Agent Intellect" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,6 +1106,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 83 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
@@ -1148,7 +1133,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 66</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1170,7 +1155,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 33</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1179,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 56</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 58</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 87</li>
         </ul>
@@ -1236,7 +1221,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5be6cacccbdf08df672edd8f05390f5c.png" alt="Cover for Let Them Eat Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,8 +1257,8 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 32</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 96</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1290,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/F5u3_nK2vNmqte_e3k-y06kIJ-apf6sC4MR6uJuI4QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc3/OTkzLTE1MjU4ODE5/NTUtMTQxOS5qcGVn.jpeg" alt="Cover for 333" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1310,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1334,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/JoZVb2H7_3j6Ske0cP4YJft1Tg6lXOvbnYcly72qJ5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjAwLTE0OTc1NjU0/MjctNjAwNi5qcGVn.jpeg" alt="Cover for Murder of The Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1354,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/xuSVppFJcQt7l86_E-76yamanr_UbDO_YGUct2PFxPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAx/NzQ4LTE1MTE3NTU0/OTYtNzUxNi5qcGVn.jpeg" alt="Cover for Unofficial Wii Sports Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,9 +1374,9 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/eNtQFBV1MlXOWWFUmilEpPId8OjyDAKwd1rxg9Msw1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEz/MzEzLTE1MDY0Mjg2/NzQtNjQzNi5qcGVn.jpeg" alt="Cover for Relatives In Descent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92b8847eb5e8a9098568e697a41f754c.png" alt="Cover for Relatives In Descent" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-29</td>
       <td>Protomartyr</td>
@@ -1399,11 +1384,12 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 63 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 58</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 80</li>
         </ul>
       </td>
@@ -1506,9 +1492,9 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 41</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 96</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 49</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 96</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 97</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 98</li>
         </ul>
       </td>
@@ -1546,13 +1532,31 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 20</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 32</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed902a1757545cc4b4626adb0c55ae36.png" alt="Cover for The Fall of Hobo Johnson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-13</td>
+      <td>Hobo Johnson</td>
+      <td>The Fall of Hobo Johnson</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ac3ab6b53397cef1ce41520eea3a938.png" alt="Cover for Boundary Road Snacks and Drinks" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1573,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/_XdK2cMzzz0y4SItrQ06OXWvzpud02UkfqCCweZOOug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzAy/ODA0LTE1ODk0NDY1/NjUtODY1MS5qcGVn.jpeg" alt="Cover for 7-eleven" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,8 +1605,8 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
@@ -1611,7 +1615,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/7Zf3rCmobjtxPYKcgV7Uh7qxeH4bkSsj6FVwMmShpWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAw/MDYwLTE1ODY2ODIz/NDAtMzUyOC5qcGVn.jpeg" alt="Cover for Everything Evaporate" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1680,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/GXxE1mECku0cfJ2_nDHj9IOIGaWs5UXqF69bE0VDVXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/MTcwLTE2MDk3Mjc3/NjMtNDgyOC5qcGVn.jpeg" alt="Cover for Ultimate Success Today" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db26fbdb3f1f8a29cbed36e4d5ed030.png" alt="Cover for Ultimate Success Today" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07</td>
       <td>Protomartyr</td>
@@ -1693,7 +1697,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d61a1e333041df291a99b30dcb5f866.png" alt="Cover for Every Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,18 +1740,18 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 25</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 32</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 44</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 48</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 87</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 45</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/zHoAhPghCRlXYc9XeIUNTlapu-EJxt-_gQcQbEuDlTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk4/NDgyLTE2MDY4MjM2/NDktOTIyOC5qcGVn.jpeg" alt="Cover for Alexa!" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,13 +1787,13 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 45</li>
             <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 58</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/725ae1bf1cfe5c6dc088ac193c352ba5.png" alt="Cover for New Long Leg" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,16 +1825,16 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 67</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 68</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 75</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 75</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9a009aa75f5f5bd2d72ee934c313066.png" alt="Cover for L&#39;Étrange Histoire de Mr.Anderson" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,16 +1843,10 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>L&#39;Étrange Histoire de Mr.Anderson</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1891,8 +1889,8 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 43</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 45</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 68</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 78</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
@@ -1999,7 +1997,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/mAXyH6sL4JOBm8HhTFF9IANd3xgjyau83t4232Xh8Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzQ1/MTc3LTE2NzgyNzky/NDItNDM2My5qcGVn.jpeg" alt="Cover for UK GRIM" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +2018,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0751cf0771a069e5827531671a6cffa.png" alt="Cover for A Comforting Notion" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,9 +2040,9 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 38</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 39</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 48</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2103,8 +2101,8 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 4</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 24</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 13</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 25</li>
         </ul>
       </td>
     </tr>

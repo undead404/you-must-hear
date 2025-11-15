@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:33:47.880Z
+date: 2025-11-15T01:03:42.298Z
 permalink: tags/folk-metal
 title: folk metal
 ---
 
 ## folk metal
 
-Last updated: <time datetime="2025-11-13T16:33:47.880Z">Thu Nov 13 2025 18:33:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T01:03:42.298Z">Sat Nov 15 2025 03:03:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/KttiehAiDOFb5OXZ1XOviUVdhoP1gty2hWGnXQgC7f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjQ2/MS0xNjgwMzU3MDUx/LTk3NzYuanBlZw.jpeg" alt="Cover for Songs of Moors &amp; Misty Fields" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +237,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2001-07-23</td>
@@ -311,7 +311,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad7e7b0f18e49f3b36fc19f3f5e6fd4.png" alt="Cover for Folk-Lore" style="max-width:120px; height:auto;" />
       </td>
@@ -629,6 +629,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 1</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 34</li>
         </ul>
       </td>
@@ -713,7 +714,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/KK6HGemX-EfVSYhv1MOLwW0g1C9wShAAvbJ0xUj_JNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTE1/My0xMTU3NDg1MDYw/LmpwZWc.jpeg" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +753,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/wkVt4UYn5vfXWlHQZSRWh5ZdW4P-WAFlgdpwIvjxUEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDUw/Ny0xMjA5MDAwMTA5/LmpwZWc.jpeg" alt="Cover for Vredens tid" style="max-width:120px; height:auto;" />
       </td>
@@ -924,6 +925,23 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006-11-17</td>
+      <td>SuidAkrA</td>
+      <td>Caledonia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1148,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 5</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1171,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 1</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 2</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 3</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 4</li>
         </ul>
@@ -1764,7 +1782,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/12i8AwCRz-5UfnK0sSJJ1AqapzQ40OHdYfXsNpc-Bkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODYz/MDEtMTQ3MTAwMDk0/MC02MjcwLmpwZWc.jpeg" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1820,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Rpw4TNm5r66LEnumT0LMUIJbo2Nqjc8A-vYVtTt7e9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MTM0LTE1MTUwMTAy/MjQtNTU4Mi5qcGVn.jpeg" alt="Cover for Tarot" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,26 +1838,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/JEItzB9NHzvWYfK3Ujup28njp3q1iTGCr2o_6uyB_go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMz/MzQzLTE1MzM4NjA2/MzQtNDA1Mi5qcGVn.jpeg" alt="Cover for Evocation II - Pantheon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-08-18</td>
-      <td>Eluveitie</td>
-      <td>Evocation II - Pantheon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2019</td>

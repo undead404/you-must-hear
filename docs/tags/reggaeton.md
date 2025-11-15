@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T05:02:06.924Z
+date: 2025-11-15T00:59:50.415Z
 permalink: tags/reggaeton
 title: reggaeton
 ---
 
 ## reggaeton
 
-Last updated: <time datetime="2025-11-11T05:02:06.924Z">Tue Nov 11 2025 07:02:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T00:59:50.415Z">Sat Nov 15 2025 02:59:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,15 +42,15 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 18</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 37</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/00z-RCW_fy0m4ErAXM58ytH5uMbycBmpPW6LHVrrnlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDkz/Mi0xNDMzMDMyODYz/LTc2ODEuanBlZw.jpeg" alt="Cover for Medellín (with Maluma)" style="max-width:120px; height:auto;" />
       </td>
@@ -68,9 +68,9 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/MQQm2zFGJ7sYRKLTUulzNLVir7tsUQPIGStyMvMV1ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI0/LTEyMzIzMjI3NTUu/anBlZw.jpeg" alt="Cover for Oral" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9633063d4f578fcabdba9b43a3597ac1.png" alt="Cover for Oral" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-05</td>
       <td>Björk</td>
@@ -84,13 +84,13 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 85</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/KY6Fs8kFK38GGac19SsYU0DyG1heonR5SU7yT9V4dWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTgw/OTctMTQ1MzU3Nzg3/NC0xOTEzLmpwZWc.jpeg" alt="Cover for Duele El Corazon (feat. Wisin)" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>68</td>
       <td>
       </td>
       <td>2003-06-10</td>
@@ -129,7 +129,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>2003-06-17</td>
@@ -146,7 +146,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/kfn9srBh-sDm9iUeBUefLrjkJ3OQ0F77X3JDf6s9QDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA2/NzA0LTE2ODIwMjM2/NjUtNzg0NS5qcGVn.jpeg" alt="Cover for Motivando a la Yal" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/149e5e9bd7c8723c65e744500c5eeed7.png" alt="Cover for Barrio Fino" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d9ec45f15f35f8b479de39b3808486b.png" alt="Cover for Nina Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +201,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/nodFKav15W07xmwkaYVqivwEhtZFxLBlGm23dIpKm0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMw/MTA0LTE1NDQ3NDY3/NzUtODUzNC5qcGVn.jpeg" alt="Cover for Calle 13 (Explicit Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -216,12 +216,12 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 54</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/uQqpf4H9Xe3KKUmPUxFkavSs2GS-ro6fSov59V2sSi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQ0/OC0xNTQyMDEzNzE1/LTQxMDMuanBlZw.jpeg" alt="Cover for Get To Poppin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +240,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2005-11-08</td>
@@ -257,7 +257,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70560852f9344c9da28ea5c5b00e19b2.png" alt="Cover for Calle 13" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +276,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
       </td>
       <td>2005-12-13</td>
@@ -308,12 +308,12 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 56</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
       </td>
       <td>2006-05-23</td>
@@ -331,7 +331,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/p7Pq2JyR5Lu5JCXDQFBdzb3CUQOEnKSLcAw3i38pj8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDQ2/ODctMTQ4NjU3OTY4/Ni05NzY0LmpwZWc.jpeg" alt="Cover for Daddy Yankee Mundial" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +350,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a02df38f0f5dedea642ef8daae2adbb4.png" alt="Cover for Residente o Visitante" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +368,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2007-06-05</td>
@@ -385,7 +385,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/s17UIsoRVh6vA2SMccPrc2JD12PkwceKk0y59vnIDbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzM4/MTQtMTUwNjAwNzc0/NS0yNzk1LmpwZWc.jpeg" alt="Cover for El Cartel - The Big Boss" style="max-width:120px; height:auto;" />
       </td>
@@ -403,7 +403,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
       </td>
       <td>2007-06-05</td>
@@ -420,7 +420,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/YLWnt84YUhBKwDY7gbgpxrLOeHkh-QNgov46Mxvm_Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE0/ODctMTQ3MTc4ODcx/NS05NjYyLmpwZWc.jpeg" alt="Cover for El Cartel. The Big Boss" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/lR-hVlu-xjC9nat_wtVkaNSjNXo8R8C0L-QLvBRjELs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTAz/NDEtMTM5NzkyNDg1/MC0zMzMyLmpwZWc.jpeg" alt="Cover for Wisin Vs Yandel &quot;Los Extraterrestres&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +456,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d03869969f030a761c248b465a8f938e.png" alt="Cover for Talento De Barrio" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +474,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Fast Five (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -492,11 +492,12 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf32dc9b17c517b785f455bf268d080f.png" alt="Cover for iDon" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +520,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009-11-17</td>
@@ -561,7 +562,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d55899ac6f73e5bf009c604c63a6f14.png" alt="Cover for We Stitch These Wounds" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +576,8 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 48</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 7</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 61</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 75</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
@@ -669,7 +671,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7307f68d4ccc44469c0e579680369df9.png" alt="Cover for Wretched And Divine: The Story Of The Wild Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -695,7 +697,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7624a2f7c3aa4a9cbe2774de7023c2f4.png" alt="Cover for About That Life" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +726,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/FOerATE3CFeeSCGEW2v5lmsDIwYtl41L0auEQZ0N3Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzYw/OTktMTYzMzc0MDM3/Ni02NjY4LmpwZWc.jpeg" alt="Cover for Double Team" style="max-width:120px; height:auto;" />
       </td>
@@ -743,14 +745,14 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 52</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 53</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 70</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/Qu2qEbbdwLn2OodItCYjmsLIUz79pMiATVfHhMmKvog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTcw/MTgtMTM5NTQyMTUy/NS0zNjMwLmpwZWc.jpeg" alt="Cover for Chantaje" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +793,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Jvu6IQvxhMmGLQES6K3-0hFcXV1XI5ZcFFk_yt1bzI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTEy/NDE4LTE2NTAyMDMw/MzktMjU4NC5qcGVn.jpeg" alt="Cover for Danza Kuduro" style="max-width:120px; height:auto;" />
       </td>
@@ -809,7 +811,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
       </td>
       <td>2014-08-25</td>
@@ -853,23 +855,23 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 27</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 84</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 92</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 93</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 98</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 98</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 99</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 99</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d122c42e12be449e9544d89ced1cc62.png" alt="Cover for Guilty Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -907,9 +909,9 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/isPslLlrpP6iu1DR_LV-WFolGSkI61mg2uY5FbeWLQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDA0/MzYtMTQzNzI4MDg4/Ni0zMDczLmpwZWc.jpeg" alt="Cover for Dale" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82aab314514458546ab4f84ea53859e3.png" alt="Cover for Dale" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-17</td>
       <td>Pitbull</td>
@@ -924,13 +926,13 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 8</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 28</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 10</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/INmM2_omk0tie7eafrEEKuWGEBKmks2zXzHH4xKsVp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njky/NzQtMTQ0NjM0ODkw/NC0xMDM3LmpwZWc.jpeg" alt="Cover for Pretty Boy, Dirty Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +950,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Lf2uyXoyKMhBwVx_1fNkHLhLd-ryGtlWvOlifnkFSlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQy/NjY4LTE1MjUxNzU5/MTUtMTI1Ni5qcGVn.jpeg" alt="Cover for Hasta el Amanecer" style="max-width:120px; height:auto;" />
       </td>
@@ -967,7 +969,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/4G9tPuxjGULBEFeQp4Z7gUunEh_MBDdAiO4NJ8w8_Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTA3/NzctMTUwMTU2OTk2/My05MTU5LmpwZWc.jpeg" alt="Cover for Energía" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +990,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/W7Xvxv2_HGpjV23iFNyyxW2wAd3tUQZlC5HoEpgmyvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA2/NzM2LTE0OTY4MDgw/MjEtNDg4Mi5qcGVn.jpeg" alt="Cover for Motivan2" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1008,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/469b8bfe70646d02b2ccc12844930819.png" alt="Cover for Glory Days: The Platinum Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,12 +1025,12 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 5</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/CD8TUaJEUFjlCbOB_diwty3b4OArIv5zru_gzFaHMn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUz/NzM0LTE1NDg5ODcx/ODMtNjE2My5qcGVn.jpeg" alt="Cover for x" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1051,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/XW8J_T72CDBNi985-GSRU-IMRciUW5DXzG4YV4vrbRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/MDMxLTE1MTIxNTI1/NzQtNjY1MC5qcGVn.jpeg" alt="Cover for Escápate Conmigo" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1094,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e856cffbff6b0cea2d32a646448ab668.png" alt="Cover for BEBE" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1116,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2018</td>
@@ -1133,7 +1135,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/4v-UeG194zUd-Kx7Gu1djhBYRAoyCQs284kjTTEUG4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEy/MDQzLTE1MTc2NjI5/OTQtMjY4NS5qcGVn.jpeg" alt="Cover for ADROMICFMS 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1156,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f03a6731be53aff933dca3bf75059170.png" alt="Cover for Medicina" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1181,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/jKjZArsweYIJV33kmzifU_fLC3lmtU6CgWmUA0ZbUkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/Nzg2LTE1NTQ1MDk0/MTctNTU3NC5qcGVn.jpeg" alt="Cover for KiSsES" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1196,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 39</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 40</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 59</li>
         </ul>
       </td>
@@ -1220,7 +1222,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 35</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 40</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 80</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 98</li>
@@ -1229,9 +1231,9 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/WFYwzA5bPPElD5XBrLwSw1Q-tM0dDQVqS8LTFgpJ-RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcz/MTg0LTE1NjkxMDU3/MTYtNjMwMy5qcGVn.jpeg" alt="Cover for X 100PRE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e220bd192e63a48e6fddda59f3fc7662.png" alt="Cover for X 100PRE" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-24</td>
       <td>Bad Bunny</td>
@@ -1243,6 +1245,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 7</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 82</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 91</li>
         </ul>
@@ -1268,7 +1271,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/baHmlr_sdKAeOOnjgm8oIAwXwMUXP5bIPIQVWOk8bbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM3/MjM0LTE1ODYzNTEx/NTAtMjIyNi5qcGVn.jpeg" alt="Cover for 11:11" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,7 +1287,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 53</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1330,24 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/685fe30abda57ff91193f164101045e4.png" alt="Cover for YHLQMDLG" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-29</td>
+      <td>Bad Bunny</td>
+      <td>YHLQMDLG</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/n7SKeY1LnR27pz-Bjzt_Z-tgTP9aHg5NJDz5af_u1V8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY1/NjQ3LTE1ODYyMjAw/MDQtNzc3Mi5qcGVn.jpeg" alt="Cover for Mas Flow - Los Benjamins" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1365,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/2HR_WLxeMhHD69BYLDmUi-o5EjUdwi9ZxSVXe3PELNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQw/NDU1LTE1ODcyMTA2/NjAtMTY1NS5qcGVn.jpeg" alt="Cover for Por Primera Vez" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,8 +1381,43 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 43</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 44</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7301d4507874e7664581f92f6fb47d02.png" alt="Cover for LAS QUE NO IBAN A SALIR" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-10</td>
+      <td>Bad Bunny</td>
+      <td>LAS QUE NO IBAN A SALIR</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2ac0a222d699b52da57959612b1a9cc.png" alt="Cover for nadie sabe lo que va a pasar mañana" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-10</td>
+      <td>Bad Bunny</td>
+      <td>nadie sabe lo que va a pasar mañana</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1389,26 +1444,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/WKb6fLbjQ91wsnZvQcnxl3CMc3R9-xsbma2DzvWW23M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg4/MzA5LTE1OTA3Mjgy/ODktNzU4MS5qcGVn.jpeg" alt="Cover for Emmanuel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-05-29</td>
-      <td>Anuel AA</td>
-      <td>Emmanuel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Z9Obr-WrrtL3b--tGdVJ_5CDqdPe04Nk-CVMmV0-n7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAw/NjEwLTE1OTgwMzAy/MzktMTg1My5qcGVn.jpeg" alt="Cover for Papi Juancho" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,14 +1477,14 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 27</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 31</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 98</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/gKuclq6W1bzmXEAowZhhLd9e9bV4Xo5CrrwVlN58N-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzc0/NzMtMTMxOTIzMDA0/Ny5qcGVn.jpeg" alt="Cover for TINI TINI TINI" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1504,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/dJJP5ptMCg5aVteowUndMnW7VCptpMoq-N3RBOVWor4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAy/MTExLTE2MTc4OTcx/NTgtNjY5NC5qcGVn.jpeg" alt="Cover for Ropa Cara" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,9 +1522,9 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/0OxtJckHxUTrq2YDLqdmypLhgP1WZSuV_Xe0IYzgwQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjY1/NC0xMTc1NTY3ODM5/LmpwZWc.jpeg" alt="Cover for Microdosis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fd1aa71dd8489fb524d4bee3dc57a3b.png" alt="Cover for Microdosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-26</td>
       <td>Mora</td>
@@ -1505,7 +1541,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/DNw8pNWfv_0a1roAQR6em_iGSNjkA6mWpCarEHDB7I0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE3/ODk0LTE2NDIyNzkw/MjMtNzk2OS5qcGVn.jpeg" alt="Cover for Warm Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1559,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/dJJP5ptMCg5aVteowUndMnW7VCptpMoq-N3RBOVWor4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAy/MTExLTE2MTc4OTcx/NTgtNjY5NC5qcGVn.jpeg" alt="Cover for Mis Manos" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,13 +1575,13 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 29</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 30</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/2Vzwp5aTulQDv_Uk8KgJVHg8tmXZaHwMOSsnP13LYkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/MTU2LTE2MTc3OTYw/MjktMzA0OS5qcGVn.jpeg" alt="Cover for KG0516" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1640,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/5sLsNj-BLJZy7USjNv56Pdka1WfEiw1Bu57mSLorscI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg5/MzU0LTE2MzA2MDU3/OTAtOTUxMS5qcGVn.jpeg" alt="Cover for besitos, cuídate" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,30 +1653,9 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 47</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 50</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/OSZY5TatYBL26ooIicHHtRYvdcdzxGCetJIe8maR-Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDU4/MzM2LTE2Mzc0MzI2/MzktNjE0Ny5qcGVn.jpeg" alt="Cover for JOSE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-09-10</td>
-      <td>J Balvin</td>
-      <td>JOSE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1663,7 +1678,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/Y3mW9dT0jAPirGn_PYEf-_E79JmVHamNc4P2oBCnWts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjI3/OTQzLTE2NDE0ODYz/ODgtNzYzMC5qcGVn.jpeg" alt="Cover for Primer Dia de Clases" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1696,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/JuydqoVrDQrq0_RInnjTfv09w2rg9MipcN5pKRYZmDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ3/MDkzLTE2MzY3MTI2/ODEtNjI5MC5qcGVn.jpeg" alt="Cover for Te Boté (Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,7 +1714,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b00ee3904591323d0dd2078ab2836a3.png" alt="Cover for La Fuerza" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,14 +1733,14 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 32</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 33</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 50</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac936cd35ac2da8db70ffa68a8c52f2c.png" alt="Cover for LEGENDADDY" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1759,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/OYmMbh-9ZDbwEy4NovbQ-ZCQz6pth6Grejmn8BjaYYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAy/MDAzLTE2NDkzNzQ0/MTUtNzczOS5qcGVn.jpeg" alt="Cover for Versions Of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,7 +1799,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/eCVSLS5JsD0KgA4n2WGuASiWA5eJYjO4KnY3lDU5p1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM2/MzktMTY1NjcwMTEx/NC02NjI0LmpwZWc.jpeg" alt="Cover for Tú Crees En Mí?" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,14 +1816,14 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 64</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/0R9cxQcDwG5Fx_0rUJ5qBlcAl8OrwTXP4xdzpD-F4to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjY3/MDMtMTQzOTkyNjAx/MC0zNzk2LmpwZWc.jpeg" alt="Cover for Versions Of Me (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b35a08b1e046d837fa9b9ba09c485df.png" alt="Cover for Versions Of Me (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-25</td>
       <td>Anitta</td>
@@ -1823,7 +1838,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 30</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 90</li>
         </ul>
       </td>
@@ -1847,14 +1862,14 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 69</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 99</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/6LSCFX3SxXTqD0Ors30_PLOuYLZV8Ut317CCSf3Okt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg4/NzEzLTE2Nzg4MjA3/NTktNDQ5My5qcGVn.jpeg" alt="Cover for @dannocean" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1890,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a457f1e47fe17169d52d4643036bb684.png" alt="Cover for SR. SANTOS" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,9 +1912,9 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/-L0VlG_Ysu8Y35flWJhn51U9wMznFM-YcZbHWefxUts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ3/NTE3LTE2NzUyMjM3/NDEtNzIwNC5qcGVn.jpeg" alt="Cover for La Nena de Argentina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e1cf7dc2c4c2bd12ba4aa642c767c4d.png" alt="Cover for La Nena de Argentina" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-08</td>
       <td>Maria Becerra</td>
@@ -1917,7 +1932,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/J63PXPi5PWr5NtO84KjFby03iny8Vq8fVn0gAMbFai8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgw/OTg0LTE2NzcwMTA1/MjgtOTA4My5qcGVn.jpeg" alt="Cover for Cupido" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,28 +1956,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/_lCr1sDyauSN5SfIXFZo47ka8RjPWm-nX4FJRPwoQM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk0/NzUxLTE2MTg0MTU1/MTktMzIzOS5qcGVn.jpeg" alt="Cover for ADN" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-03-17</td>
-      <td>Manuel Turizo</td>
-      <td>ADN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/VhOH3iLvtlDlccs_DUMJ3Vv0gowNGyTPAA9V1dpfbEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODE2/MzQ4LTE2OTA3MzI0/NzYtMTI1MS5qcGVn.jpeg" alt="Cover for La Bebe (Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,7 +1994,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/2gitgRoXdPBuJSRE3EAIaKXPZEeb-0UbfdqfR4yjJAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDk5/NzY0LTE2OTY0NzU3/NTMtNDIxOS5qcGVn.jpeg" alt="Cover for Sorry, Estoy en Mi Darkera" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,8 +2029,8 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 1</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 93</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 100</li>
         </ul>
       </td>
@@ -2058,13 +2052,13 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 69</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 70</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95cd36fcc305f7440880261a71e5aabf.png" alt="Cover for Las Mujeres Ya No Lloran" style="max-width:120px; height:auto;" />
       </td>
@@ -2100,15 +2094,15 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 19</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 41</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 45</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 75</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/EZ5BsZBDWTo012HYNauFgBPLJNIerd40YDtPaZ77A7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMy/NjE5LTE3MDU2NTQ3/NTQtNDI5MS5qcGVn.jpeg" alt="Cover for la joia" style="max-width:120px; height:auto;" />
       </td>
@@ -2128,7 +2122,7 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0571f684e0d08d82ae8b7dd0da3e8c7c.png" alt="Cover for Instruction (feat. Demi Lovato &amp; Stefflon Don)" style="max-width:120px; height:auto;" />
       </td>
@@ -2155,8 +2149,8 @@ Reggaeton is a popular music genre that originated in Puerto Rico in the late 19
 - [techno]({{ "/tags/techno" | relative_url }})
 - [electro]({{ "/tags/electro" | relative_url }})
 - [trap]({{ "/tags/trap" | relative_url }})
-- [rap]({{ "/tags/rap" | relative_url }})
 - [latin pop]({{ "/tags/latin-pop" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [dancehall]({{ "/tags/dancehall" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [dancehall]({{ "/tags/dancehall" | relative_url }})
