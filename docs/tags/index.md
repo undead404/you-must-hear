@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-14T16:37:32.760Z
+date: 2025-11-14T17:21:15.533Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-14T16:37:32.760Z">Fri Nov 14 2025 18:37:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T17:21:15.533Z">Fri Nov 14 2025 19:21:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-11-14T17:21:15.533Z">Fri Nov 14 2025 19:21:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [8-bit]({{ "tags/8-bit" | relative_url }}) | <time datetime="2025-11-14T16:37:32.760Z">Fri Nov 14 2025 18:37:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [anthem emo]({{ "tags/anthem-emo" | relative_url }}) | <time datetime="2025-11-14T16:05:32.628Z">Fri Nov 14 2025 18:05:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [abstract hip hop]({{ "tags/abstract-hip-hop" | relative_url }}) | <time datetime="2025-11-14T15:47:55.284Z">Fri Nov 14 2025 17:47:55 GMT+0200 (Eastern European Standard Time)</time> |
@@ -457,7 +458,6 @@ Last updated: <time datetime="2025-11-14T16:37:32.760Z">Fri Nov 14 2025 18:37:32
 | [venezuela]({{ "tags/venezuela" | relative_url }}) | <time datetime="2025-11-11T03:40:35.254Z">Tue Nov 11 2025 05:40:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [hindi]({{ "tags/hindi" | relative_url }}) | <time datetime="2025-11-11T03:40:18.675Z">Tue Nov 11 2025 05:40:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [rac]({{ "tags/rac" | relative_url }}) | <time datetime="2025-11-11T03:40:14.232Z">Tue Nov 11 2025 05:40:14 GMT+0200 (Eastern European Standard Time)</time> |
-| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-11-11T03:40:09.254Z">Tue Nov 11 2025 05:40:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish]({{ "tags/polish" | relative_url }}) | <time datetime="2025-11-11T03:39:35.997Z">Tue Nov 11 2025 05:39:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [turntablism]({{ "tags/turntablism" | relative_url }}) | <time datetime="2025-11-11T03:38:46.703Z">Tue Nov 11 2025 05:38:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [hard trance]({{ "tags/hard-trance" | relative_url }}) | <time datetime="2025-11-11T03:37:08.036Z">Tue Nov 11 2025 05:37:08 GMT+0200 (Eastern European Standard Time)</time> |
