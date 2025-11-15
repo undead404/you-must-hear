@@ -1,118 +1,2003 @@
 ---
 category: genre
-date: 2025-01-05T09:02:37.302Z
+date: 2025-11-15T01:36:39.824Z
 permalink: tags/psychill
 title: psychill
 ---
 
 ## psychill
 
-Last updated: <time datetime="2025-01-05T09:02:37.302Z">Sun Jan 05 2025 11:02:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T01:36:39.824Z">Sat Nov 15 2025 03:36:39 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Psychill is a downtempo electronic genre blending psychedelic textures with chillout atmospheres, featuring dreamy synthesizers, organic sounds, and hypnotic rhythms. Emerging from Goa trance culture in the 1990s, it creates immersive sonic landscapes for relaxation and introspection. The style emphasizes ambient spaces and world music influences over dancefloor energy.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 57 |  | 1972 | Various Artists | A Magical Journey |
-| 42 |  | 1977 | Various Artists | Albedo |
-| 54 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Bliminal |
-| 55 |  | 1977 | Various Artists | 13th Moon |
-| 26 |  | 1998 | Celtic Cross | Hicksville |
-| 78 |  | 1998-01-01 | Carbon Based Lifeforms | The path |
-| 86 |  | 1998-10-06 | Zero One | Zero One |
-| 80 | ![Cover](https://i.discogs.com/wmEQYMW6NgOhKnc4_Io9_xoH4pbDqFDXz9UWeYqJKEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEx/MTUtMTM0Njg2MzI0/Ny04NDk0LmpwZWc.jpeg) | 1999-08-25 | Al Gromer Khan | Kamasutra Experience |
-| 2 |  | 2000 | Asura | Code Eternity |
-| 94 |  | 2001-06-28 | Digital Mystery Tour | Digital Mystery Tour |
-| 96 | ![Cover](https://i.discogs.com/eVLgz18syzgOPnGVVi3ZAmNZGvR_hPWWYxYdTlfq4Hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODg2/LTEyMDg5NTUwNTAu/anBlZw.jpeg) | 2002-02-11 | Stress Assassin | Within the Office of Eye and Ear |
-| 7 |  | 2002-04-24 | Entheogenic | Entheogenic |
-| 32 |  | 2002-10 | Asura | Lost Eden |
-| 14 | ![Cover](https://i.discogs.com/waTnQ3qtiav0628FxYwHbbxEdZp8ycFOeFqjlBVU84I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzc4/Ny0xMjYzMTUyNjk4/LmpwZWc.jpeg) | 2003 | Shpongle | Shpongle Remixed |
-| 62 |  | 2003-03-21 | Solar Fields | Blue Moon Station |
-| 1 |  | 2003-03-28 | Younger Brother | A Flock of Bleeps |
-| 73 |  | 2003-06-21 | Entheogenic | Spontaneous Illumination |
-| 52 |  | 2003-11 | Sounds from the Ground | Natural Selection |
-| 43 |  | 2003-12-17 | Shulman | In Search of a Meaningful Moment |
-| 28 |  | 2004 | Adham Shaikh | Fusion |
-| 75 |  | 2004-07 | Galaxy | Science Of Ecstasy |
-| 20 |  | 2004-08 | Androcell | Emotivision |
-| 19 |  | 2004-09-14 | Phutureprimitive | Sub Conscious |
-| 59 |  | 2004-09-29 | Aes Dana | Memory Shell |
-| 58 |  | 2005-03-23 | Entheogenic | Dialogue of the Speakers |
-| 3 | ![Cover](https://i.discogs.com/1dONIf_3QOrSwW_WRpkbFzPYLzye8xPAmgjEe35-EXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTEy/OC0xMTYzNDE3Mjgz/LmpwZWc.jpeg) | 2005-04-04 | Tripswitch | Circuit Breaker |
-| 11 | ![Cover](https://i.discogs.com/PmVjVyxmNFQKgpFao5Tzf_h1sz1W25hnT6tC7HPoJpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjYz/MC0xMjYzMTUxMzQ1/LmpwZWc.jpeg) | 2005-05-27 | Shpongle | Nothing Lasts...But Nothing is Lost |
-| 90 |  | 2005-09 | Digital Mystery Tour | D.M.T Express |
-| 44 |  | 2005-10-05 | Solar Fields | Leaving Home |
-| 49 | ![Cover](https://i.discogs.com/zMy40GPRKq8vA1BLjDFTI7tnZJ7reqQOPdlQglviENc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzY2/MC0xMTM2NjI0MjUy/LmpwZWc.jpeg) | 2005-12-19 | Xerxes | The Mirror Formula |
-| 97 |  | 2006 | Modus | The Colour of Love |
-| 67 | ![Cover](https://i.discogs.com/ssZ2GlZNOCPAMT4l3nYrupM78QCmPpwG_u946K2yuX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDMy/OS0xMjMzMzU3NTg1/LmpwZWc.jpeg) | 2006-02 | Androcell | Efflorescence [CD Rec 003](Chill-out &#x2F; Psy-dub &#x2F; Downtempo) |
-| 17 |  | 2006-02-20 | Shulman | Random Thoughts |
-| 56 | ![Cover](https://i.discogs.com/W_N6DMFhtHsoJBulL4oogUU57FhnzFY1Aylw1ii0U8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEz/Ni0xMTU2NDIxMTYx/LmpwZWc.jpeg) | 2006-05-03 | Chilled C&#39;Quence | Magic Sense CD |
-| 24 |  | 2006-06-05 | Entheogenic | Golden Cap |
-| 93 | ![Cover](https://i.discogs.com/B5vdgkCtLZeNkQovXIYsjcCZJRxeqLAzzg08Po9ZKxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDUy/My0xMTU2MjExNzg5/LmpwZWc.jpeg) | 2006-06-10 | Perpetual Loop | Universal Flow |
-| 51 |  | 2006-06-24 | Kuba | Inside Out |
-| 72 |  | 2006-06-26 | Zero Cult | Art Of Harmony |
-| 77 | ![Cover](https://i.discogs.com/BymNHqBT1A_Zuf9_xQsiY44YJ-zMqhX2eCwfwJN0WCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDcw/My0xNTA5ODYxMjUz/LTU2MjkuanBlZw.jpeg) | 2006-11-10 | Adham Shaikh | Collectivity |
-| 9 |  | 2006-12-02 | Carbon Based Lifeforms | World of Sleepers |
-| 15 |  | 2006-12-21 | Mystical Sun | Deeperworlds |
-| 83 |  | 2007-01 | Master Margherita | Mastura |
-| 31 |  | 2007-03-30 | Flooting Grooves | Upsyde Downe |
-| 50 | ![Cover](https://i.discogs.com/PskcDwVTTAtcioOxvfg0UJwl23P828P1e7yv3CYLB-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTMx/NC0xMjA2MjU4ODYy/LmpwZWc.jpeg) | 2007-05-11 | I Awake | Birth |
-| 60 | ![Cover](https://i.discogs.com/3QAMBXilA0G7naaUnlgf8FPBIqf_6_n0rXyInoDRRAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE0/MTAtMTE5NTc3NTIw/My5qcGVn.jpeg) | 2007-07 | Sundial Aeon | Apotheosis |
-| 22 |  | 2007-07-07 | Asura | Life² |
-| 25 | ![Cover](https://i.discogs.com/F3iMK8OJCpGgsr4KKKgHnaunFMr45OUCRk2EzGPaLL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzk2/OC0xMTg2MDAxNzI4/LmpwZWc.jpeg) | 2007-07-07 | Asura | Life 2 |
-| 30 |  | 2007-08-17 | The Peaking Goddess Collective | Organika |
-| 71 |  | 2007-09-27 | Dream Lab | Cosmotherapy |
-| 79 |  | 2007-09-28 | Tripswitch | Circuit Breaker: Rewired |
-| 37 |  | 2007-10-26 | Zero Cult | Ikebana |
-| 13 | ![Cover](https://i.discogs.com/iMFkGzEcuSy00HtSEh43g803-jGbrx1dtVsSdBJBTWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY4/ODMtMTMwOTA4MjE4/Ny5qcGVn.jpeg) | 2008-02-04 | Easily Embarrassed | Idyllic Life |
-| 8 | ![Cover](https://i.discogs.com/rLZXoT-4147n6NB8m2bSfLhicjVEH9UjayRAQO58H2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAx/ODAtMTIzMzk2MTkx/OC5qcGVn.jpeg) | 2008-02-21 | Hol Baumann | [ Human ] |
-| 21 |  | 2008-05-08 | I Awake | THE CORE |
-| 74 |  | 2008-06-06 | Kick Bong | Flower Power |
-| 23 |  | 2008-09 | Entheogenic | Flight Of The Urubus |
-| 38 | ![Cover](https://i.discogs.com/ObVwzhjQtFxWvx7w_a-lHcgPD8SMcuQc2bNdKWaEXvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc5/MzktMTMxMTk0MjQw/OS5qcGVn.jpeg) | 2008-10 | Carbon Based Lifeforms | Hydroponic Garden (2015 Remaster) |
-| 64 | ![Cover](https://i.discogs.com/Rkwtqh5CFjBmkfBwr4jWpERtFCNnCENegkMPRfhr1io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTU1/NjAtMTM2Nzk3MDM5/My0zMTU3LmpwZWc.jpeg) | 2008-12-05 | Zymosis | Elements into Data |
-| 6 |  | 2008-12-22 | Vibrasphere | Lungs of life |
-| 61 | ![Cover](https://i.discogs.com/RJnIqxZUcSNxn_InN3_jlukOWI03NADlh-EEbFyiwqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAx/MzgtMTMyNzc1MDk4/OC5qcGVn.jpeg) | 2009-01-19 | Solar Fields | [Movements] |
-| 36 | ![Cover](https://i.discogs.com/Y0BabDMdL9AEGheWMapm2Py-AraVn_kSgo1Qlo-vbjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE5/MzktMTYwMDczOTEx/My0yMTYzLmpwZWc.jpeg) | 2009-01-20 | Solar Fields | Movements |
-| 46 |  | 2009-04-29 | Circular | Substans |
-| 100 |  | 2009-05-22 | Master Margherita | Hippies with Gadgets |
-| 5 |  | 2009-06-03 | Aes Dana | Leylines |
-| 29 | ![Cover](https://i.discogs.com/f2c4SraOzKisxTX5FXEi3h--7mH6NA980tjtDuC3it0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTEx/NTQtMTI0NDg4NTkw/My5qcGVn.jpeg) | 2009-06-12 | Zero Cult | Dreams In Stereo |
-| 81 |  | 2009-10-31 | Mystical Sun | Energy Mind Consciousness |
-| 87 |  | 2009-11-02 | Shpongle | Ineffable Mysteries From Shpongleland |
-| 92 |  | 2010 | Slackbaba | Perverting Mankind |
-| 98 |  | 2010 | Scann-Tec | Facial Memories |
-| 27 |  | 2010-05-03 | Bluetech | Love Songs to the Source |
-| 48 |  | 2010-05-14 | Zero Cult | Clouds Garden |
-| 82 |  | 2010-07-26 | Zero Cult | Where Rivers have no Name |
-| 33 |  | 2010-11-16 | Jesu | Heart Ache &amp; Dethroned |
-| 16 |  | 2011-03-15 | Phutureprimitive | Kinetik |
-| 99 |  | 2011-05-06 | Koan | The Fables Of Belovodye |
-| 35 |  | 2011-07-04 | Abakus | Beyond the Fields EP |
-| 70 |  | 2011-12-02 | Zero Cult | Vacuum |
-| 69 | ![Cover](https://i.discogs.com/_ObmNlcDKqVfuX6Z-OpHWpTnzM2v6WK45LgCnkC7AsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODYw/ODMtMTM0NDM1MTU4/OC03MDU5LmpwZWc.jpeg) | 2012 | M-Seven | Astral |
-| 34 |  | 2012-04-03 | Desert Dwellers | DownTemple Dub: Remixed |
-| 84 |  | 2012-04-27 | Solar Fields | Random Friday |
-| 85 |  | 2012-05-01 | Astropilot | Solar Walk 2 |
-| 41 |  | 2012-10-22 | Zymosis | Between Two Points |
-| 18 |  | 2012-12-07 | Aes Dana | Pollen |
-| 39 |  | 2013-04-04 | Abakus | Silent Geometry |
-| 91 | ![Cover](https://i.discogs.com/5Jj8TqWAzG6vhSruQaCsUqsutqrt65qWFFuZZCuj5ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDEw/NzgtMTQxNzMwMjkw/MC04NDk1LmpwZWc.jpeg) | 2013-05-04 | Koan | When The Silence Is... |
-| 63 |  | 2013-09 | Bluetech | Dreaming Into Being |
-| 76 | ![Cover](https://i.discogs.com/XMXumWesJkGW3grNU-XxkpFVt0OSKJiKXq6KMMAPLAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc5/MDYtMTM5NzA1NDMy/Mi00MDA3LmpwZWc.jpeg) | 2014-04-08 | Astronaut Ape | Flight 420 |
-| 53 |  | 2014-07-05 | Sundial Aeon | Analysis |
-| 12 | ![Cover](https://i.discogs.com/BZRQ5GaKZOH1B-9qVz4InjMuCL_7FZthe5LjTOJ-2wM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjIz/MzctMTI3MzA1MjY2/Ni5qcGVn.jpeg) | 2015-03-10 | Carbon Based Lifeforms | Interloper (2015 Remaster) |
-| 45 | ![Cover](https://i.discogs.com/rBqEV04yEPisqE5mVI2JtmY5tkQDz7tIMikq-pug2d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzc5/MjUtMTQzNTQ3OTc2/NS03MjEyLmpwZWc.jpeg) | 2015-06-23 | Entheogenic | A Singularity Encoded |
-| 68 | ![Cover](https://i.discogs.com/xsrbIbiTQljRormbJWA-ss5cIwGGcOVpGfPw4tqqMAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjM2/NzgtMTQ0NzQ2NTE0/NS00MDUzLmpwZWc.jpeg) | 2015-11-13 | Sundial Aeon | Symbiosis |
-| 47 | ![Cover](https://i.discogs.com/XFAbuOSs7OTwRQlSjnOZ-tkfZElBGRrhYw15igpmyA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTky/MzktMTQ2NjA4MzQ0/Mi0xMTg3LmpwZWc.jpeg) | 2016-06-16 | Scann-Tec | Unyt |
-| 88 | ![Cover](https://i.discogs.com/wv3G_QxUuots2zbcoi4c9ltBks8aq8xKKqpvTpFpY1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTQt/MTE1OTgxNDIzNS5q/cGVn.jpeg) | 2016-11-11 | Autechre | remixes |
-| 65 | ![Cover](https://i.discogs.com/NO4dUE3F6Pcwk37JZqNoAZPEt2ojM1e5ZScQnFHjvFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjk0/NDktMTUwODQ3MjE5/Ny0yOTUwLmpwZWc.jpeg) | 2016-12-15 | Suduaya | Venus |
-| 66 | ![Cover](https://i.discogs.com/oPeg5x5zzfxP0g5e2GvBSAz0wBEe1K7g5RLFhipUOoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA4/Njg0LTE3MDU0MTQ0/NTMtNjgzNi5qcGVn.jpeg) | 2017-04-15 | Ajja | Spira Mirabilis |
-| 89 | ![Cover](https://i.discogs.com/nM1zQE-RwRR03p4IRYAQAj57oSRbro9iMH-pixGxcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIy/MTk4LTE1MDMwODMz/NDMtMzU1NC5qcGVn.jpeg) | 2017-08-10 | Koan | Legends: INHALE |
-| 40 | ![Cover](https://i.discogs.com/gL-6PzsUa5L00Rz4gYUNKP9X5k4AvS4L-vJe-NSBeo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM4/ODE3LTE1MDk0OTQy/NTgtOTA3NC5qcGVn.jpeg) | 2017-10-06 | Carbon Based Lifeforms | Derelicts |
-| 4 |  | 2017-10-27 | Shpongle | Nothing Lasts |
-| 95 | ![Cover](https://i.discogs.com/Gg-xHTTf_7BZ5FCphk4L-iVk93aVoZGbJTLDrA9tSW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/NTg4LTE1MjQyOTc0/NTgtNDQ3NS5qcGVn.jpeg) | 2018-04-20 | Kuba | Animalia |
-| 10 | ![Cover](https://i.discogs.com/AkfZGQ4hH6R0etZBcJfnOut8VLsKrctJ3DD2lKw2vtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzY3/NTg5LTE1ODEyMDM2/OTctNDE0Ni5qcGVn.jpeg) | 2020-01-17 | Bluetech | Elementary Particles |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>A Magical Journey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Bliminal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Bliminal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 94</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f712911430c1405da7e18b4fa49ec910.png" alt="Cover for Arcana" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Arcana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>13th Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1eeb2ad2b9c865994f7feb01b25fd48.png" alt="Cover for Albedo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Albedo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Celtic Cross</td>
+      <td>Hicksville</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6598b0c9297c2f56ab7cee6ef163b83f.png" alt="Cover for The path" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-01-01</td>
+      <td>Carbon Based Lifeforms</td>
+      <td>The path</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1998-10-06</td>
+      <td>Zero One</td>
+      <td>Zero One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 85</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/wmEQYMW6NgOhKnc4_Io9_xoH4pbDqFDXz9UWeYqJKEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEx/MTUtMTM0Njg2MzI0/Ny04NDk0LmpwZWc.jpeg" alt="Cover for Kamasutra Experience" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-08-25</td>
+      <td>Al Gromer Khan</td>
+      <td>Kamasutra Experience</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Asura</td>
+      <td>Code Eternity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2001-06-28</td>
+      <td>Digital Mystery Tour</td>
+      <td>Digital Mystery Tour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/eVLgz18syzgOPnGVVi3ZAmNZGvR_hPWWYxYdTlfq4Hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODg2/LTEyMDg5NTUwNTAu/anBlZw.jpeg" alt="Cover for Within the Office of Eye and Ear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-02-11</td>
+      <td>Stress Assassin</td>
+      <td>Within the Office of Eye and Ear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2002-04-24</td>
+      <td>Entheogenic</td>
+      <td>Entheogenic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2002-10</td>
+      <td>Asura</td>
+      <td>Lost Eden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f6640d610b53f2b88f331c204257d8.png" alt="Cover for Shpongle Remixed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Shpongle</td>
+      <td>Shpongle Remixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2003-03-21</td>
+      <td>Solar Fields</td>
+      <td>Blue Moon Station</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8de4b1d2266844778465819a406ab190.png" alt="Cover for A Flock of Bleeps" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-28</td>
+      <td>Younger Brother</td>
+      <td>A Flock of Bleeps</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e1e8dfc38c7b78c7eb26602590ef03.png" alt="Cover for Spontaneous Illumination" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-06-21</td>
+      <td>Entheogenic</td>
+      <td>Spontaneous Illumination</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 13</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 48</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 52</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2003-11</td>
+      <td>Sounds from the Ground</td>
+      <td>Natural Selection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2003-12-17</td>
+      <td>Shulman</td>
+      <td>In Search of a Meaningful Moment</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Adham Shaikh</td>
+      <td>Fusion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2004-07</td>
+      <td>Galaxy</td>
+      <td>Science Of Ecstasy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2004-08</td>
+      <td>Androcell</td>
+      <td>Emotivision</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24a415c35a5f3b12ab64d096fd7d4dbc.png" alt="Cover for Sub Conscious" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-14</td>
+      <td>Phutureprimitive</td>
+      <td>Sub Conscious</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2004-09-29</td>
+      <td>Aes Dana</td>
+      <td>Memory Shell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9547a3bd5df42dfa5015d930546fbe5.png" alt="Cover for Dialogue of the Speakers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-23</td>
+      <td>Entheogenic</td>
+      <td>Dialogue of the Speakers</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 57</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 71</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec8116a163a44ed4b19ad84493eb49ff.png" alt="Cover for Circuit Breaker" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-04</td>
+      <td>Tripswitch</td>
+      <td>Circuit Breaker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/PmVjVyxmNFQKgpFao5Tzf_h1sz1W25hnT6tC7HPoJpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjYz/MC0xMjYzMTUxMzQ1/LmpwZWc.jpeg" alt="Cover for Nothing Lasts...But Nothing is Lost" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-27</td>
+      <td>Shpongle</td>
+      <td>Nothing Lasts...But Nothing is Lost</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2005-09</td>
+      <td>Digital Mystery Tour</td>
+      <td>D.M.T Express</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2005-10-05</td>
+      <td>Solar Fields</td>
+      <td>Leaving Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/zMy40GPRKq8vA1BLjDFTI7tnZJ7reqQOPdlQglviENc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzY2/MC0xMTM2NjI0MjUy/LmpwZWc.jpeg" alt="Cover for The Mirror Formula" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-12-19</td>
+      <td>Xerxes</td>
+      <td>The Mirror Formula</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Modus</td>
+      <td>The Colour of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 41</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 76</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36d21c079c94645a710cc77240925e5.png" alt="Cover for Random Thoughts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-02-20</td>
+      <td>Shulman</td>
+      <td>Random Thoughts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/ssZ2GlZNOCPAMT4l3nYrupM78QCmPpwG_u946K2yuX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDMy/OS0xMjMzMzU3NTg1/LmpwZWc.jpeg" alt="Cover for Efflorescence [CD Rec 003](Chill-out &#x2F; Psy-dub &#x2F; Downtempo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-02</td>
+      <td>Androcell</td>
+      <td>Efflorescence [CD Rec 003](Chill-out &#x2F; Psy-dub &#x2F; Downtempo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad83276d089a17b5b09c309cd44fb3a5.png" alt="Cover for Magic Sense CD" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-03</td>
+      <td>Chilled C&#39;Quence</td>
+      <td>Magic Sense CD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2006-06-05</td>
+      <td>Entheogenic</td>
+      <td>Golden Cap</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 4</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 44</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 79</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 97</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 97</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 98</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/B5vdgkCtLZeNkQovXIYsjcCZJRxeqLAzzg08Po9ZKxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDUy/My0xMTU2MjExNzg5/LmpwZWc.jpeg" alt="Cover for Universal Flow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-10</td>
+      <td>Perpetual Loop</td>
+      <td>Universal Flow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2006-06-24</td>
+      <td>Kuba</td>
+      <td>Inside Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2006-06-26</td>
+      <td>Zero Cult</td>
+      <td>Art Of Harmony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/BymNHqBT1A_Zuf9_xQsiY44YJ-zMqhX2eCwfwJN0WCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDcw/My0xNTA5ODYxMjUz/LTU2MjkuanBlZw.jpeg" alt="Cover for Collectivity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11-10</td>
+      <td>Adham Shaikh</td>
+      <td>Collectivity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/764f8b683fe7420484f4e02166a645dc.png" alt="Cover for World of Sleepers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-02</td>
+      <td>Carbon Based Lifeforms</td>
+      <td>World of Sleepers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/495a3dba984c4a01bb18f274adc3209f.png" alt="Cover for Deeperworlds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-21</td>
+      <td>Mystical Sun</td>
+      <td>Deeperworlds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2007-01</td>
+      <td>Master Margherita</td>
+      <td>Mastura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/842e126ec9f3424ab961eaa46b9800a4.png" alt="Cover for Upsyde Downe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03-30</td>
+      <td>Flooting Grooves</td>
+      <td>Upsyde Downe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/PskcDwVTTAtcioOxvfg0UJwl23P828P1e7yv3CYLB-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTMx/NC0xMjA2MjU4ODYy/LmpwZWc.jpeg" alt="Cover for Birth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-11</td>
+      <td>I Awake</td>
+      <td>Birth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/F3iMK8OJCpGgsr4KKKgHnaunFMr45OUCRk2EzGPaLL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzk2/OC0xMTg2MDAxNzI4/LmpwZWc.jpeg" alt="Cover for Life 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07-07</td>
+      <td>Asura</td>
+      <td>Life 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e77302928c4d4b78b8aad97ed376230b.png" alt="Cover for Life²" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07-07</td>
+      <td>Asura</td>
+      <td>Life²</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/3QAMBXilA0G7naaUnlgf8FPBIqf_6_n0rXyInoDRRAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE0/MTAtMTE5NTc3NTIw/My5qcGVn.jpeg" alt="Cover for Apotheosis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07</td>
+      <td>Sundial Aeon</td>
+      <td>Apotheosis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2007-08-17</td>
+      <td>The Peaking Goddess Collective</td>
+      <td>Organika</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2007-09-27</td>
+      <td>Dream Lab</td>
+      <td>Cosmotherapy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2007-09-28</td>
+      <td>Tripswitch</td>
+      <td>Circuit Breaker: Rewired</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2007-10-26</td>
+      <td>Zero Cult</td>
+      <td>Ikebana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/iMFkGzEcuSy00HtSEh43g803-jGbrx1dtVsSdBJBTWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY4/ODMtMTMwOTA4MjE4/Ny5qcGVn.jpeg" alt="Cover for Idyllic Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-04</td>
+      <td>Easily Embarrassed</td>
+      <td>Idyllic Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 22</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/rLZXoT-4147n6NB8m2bSfLhicjVEH9UjayRAQO58H2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAx/ODAtMTIzMzk2MTkx/OC5qcGVn.jpeg" alt="Cover for [ Human ]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-21</td>
+      <td>Hol Baumann</td>
+      <td>[ Human ]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c30d450a48d8ca263bfb4e025ca7f5d.png" alt="Cover for THE CORE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-08</td>
+      <td>I Awake</td>
+      <td>THE CORE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2008-06-06</td>
+      <td>Kick Bong</td>
+      <td>Flower Power</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58fbc08cc8f408c2120508696bc208a8.png" alt="Cover for Flight Of The Urubus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09</td>
+      <td>Entheogenic</td>
+      <td>Flight Of The Urubus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 7</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 70</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/ObVwzhjQtFxWvx7w_a-lHcgPD8SMcuQc2bNdKWaEXvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc5/MzktMTMxMTk0MjQw/OS5qcGVn.jpeg" alt="Cover for Hydroponic Garden (2015 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10</td>
+      <td>Carbon Based Lifeforms</td>
+      <td>Hydroponic Garden (2015 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/Rkwtqh5CFjBmkfBwr4jWpERtFCNnCENegkMPRfhr1io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTU1/NjAtMTM2Nzk3MDM5/My0zMTU3LmpwZWc.jpeg" alt="Cover for Elements into Data" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12-05</td>
+      <td>Zymosis</td>
+      <td>Elements into Data</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2008-12-22</td>
+      <td>Vibrasphere</td>
+      <td>Lungs of life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/RJnIqxZUcSNxn_InN3_jlukOWI03NADlh-EEbFyiwqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAx/MzgtMTMyNzc1MDk4/OC5qcGVn.jpeg" alt="Cover for [Movements]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-19</td>
+      <td>Solar Fields</td>
+      <td>[Movements]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed27857d54934e73859c69cf00f615cc.png" alt="Cover for Movements" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-20</td>
+      <td>Solar Fields</td>
+      <td>Movements</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2009-04-29</td>
+      <td>Circular</td>
+      <td>Substans</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2009-05-22</td>
+      <td>Master Margherita</td>
+      <td>Hippies with Gadgets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cedac7d4aa4242ad8e5febebd7c2ce2f.png" alt="Cover for Leylines" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-03</td>
+      <td>Aes Dana</td>
+      <td>Leylines</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92c7f48541eb4eda8c279feaa4a1d503.png" alt="Cover for Dreams In Stereo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-12</td>
+      <td>Zero Cult</td>
+      <td>Dreams In Stereo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2009-10-31</td>
+      <td>Mystical Sun</td>
+      <td>Energy Mind Consciousness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08bcf5d4f39112dc8f128e8924bf48ec.png" alt="Cover for Facial Memories" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Scann-Tec</td>
+      <td>Facial Memories</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>Slackbaba</td>
+      <td>Perverting Mankind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2010-05-03</td>
+      <td>Bluetech</td>
+      <td>Love Songs to the Source</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1504117354814bad87993f006f178dfa.png" alt="Cover for Clouds Garden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-14</td>
+      <td>Zero Cult</td>
+      <td>Clouds Garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2010-07-26</td>
+      <td>Zero Cult</td>
+      <td>Where Rivers have no Name</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2010-11-16</td>
+      <td>Jesu</td>
+      <td>Heart Ache &amp; Dethroned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d857a40168e423bbfcc517cc7796add.png" alt="Cover for Kinetik" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-15</td>
+      <td>Phutureprimitive</td>
+      <td>Kinetik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2011-05-06</td>
+      <td>Koan</td>
+      <td>The Fables Of Belovodye</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2011-07-04</td>
+      <td>Abakus</td>
+      <td>Beyond the Fields EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2011-12-02</td>
+      <td>Zero Cult</td>
+      <td>Vacuum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/_ObmNlcDKqVfuX6Z-OpHWpTnzM2v6WK45LgCnkC7AsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODYw/ODMtMTM0NDM1MTU4/OC03MDU5LmpwZWc.jpeg" alt="Cover for Astral" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>M-Seven</td>
+      <td>Astral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2012-04-03</td>
+      <td>Desert Dwellers</td>
+      <td>DownTemple Dub: Remixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbfa4656d3b8ee2d268c78a87ad9aef6.png" alt="Cover for Random Friday" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-27</td>
+      <td>Solar Fields</td>
+      <td>Random Friday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2012-05-01</td>
+      <td>Astropilot</td>
+      <td>Solar Walk 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip" | relative_url }}">trip</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2012-10-22</td>
+      <td>Zymosis</td>
+      <td>Between Two Points</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95084ec3fd684f85b719baffd2c8e571.png" alt="Cover for Pollen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-12-07</td>
+      <td>Aes Dana</td>
+      <td>Pollen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2013-04-04</td>
+      <td>Abakus</td>
+      <td>Silent Geometry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/5Jj8TqWAzG6vhSruQaCsUqsutqrt65qWFFuZZCuj5ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDEw/NzgtMTQxNzMwMjkw/MC04NDk1LmpwZWc.jpeg" alt="Cover for When The Silence Is..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-04</td>
+      <td>Koan</td>
+      <td>When The Silence Is...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2013-09</td>
+      <td>Bluetech</td>
+      <td>Dreaming Into Being</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/XMXumWesJkGW3grNU-XxkpFVt0OSKJiKXq6KMMAPLAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc5/MDYtMTM5NzA1NDMy/Mi00MDA3LmpwZWc.jpeg" alt="Cover for Flight 420" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-04-08</td>
+      <td>Astronaut Ape</td>
+      <td>Flight 420</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2014-07-05</td>
+      <td>Sundial Aeon</td>
+      <td>Analysis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/BZRQ5GaKZOH1B-9qVz4InjMuCL_7FZthe5LjTOJ-2wM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjIz/MzctMTI3MzA1MjY2/Ni5qcGVn.jpeg" alt="Cover for Interloper (2015 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-10</td>
+      <td>Carbon Based Lifeforms</td>
+      <td>Interloper (2015 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/rBqEV04yEPisqE5mVI2JtmY5tkQDz7tIMikq-pug2d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzc5/MjUtMTQzNTQ3OTc2/NS03MjEyLmpwZWc.jpeg" alt="Cover for A Singularity Encoded" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-23</td>
+      <td>Entheogenic</td>
+      <td>A Singularity Encoded</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/xsrbIbiTQljRormbJWA-ss5cIwGGcOVpGfPw4tqqMAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjM2/NzgtMTQ0NzQ2NTE0/NS00MDUzLmpwZWc.jpeg" alt="Cover for Symbiosis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-11-13</td>
+      <td>Sundial Aeon</td>
+      <td>Symbiosis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39a2b65f2b831c59b3855298a1cf4e06.png" alt="Cover for Unyt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-16</td>
+      <td>Scann-Tec</td>
+      <td>Unyt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef0d2b23ff41f2e274870b94fa18f738.png" alt="Cover for remixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-11</td>
+      <td>Autechre</td>
+      <td>remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/NO4dUE3F6Pcwk37JZqNoAZPEt2ojM1e5ZScQnFHjvFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjk0/NDktMTUwODQ3MjE5/Ny0yOTUwLmpwZWc.jpeg" alt="Cover for Venus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-15</td>
+      <td>Suduaya</td>
+      <td>Venus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/oPeg5x5zzfxP0g5e2GvBSAz0wBEe1K7g5RLFhipUOoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA4/Njg0LTE3MDU0MTQ0/NTMtNjgzNi5qcGVn.jpeg" alt="Cover for Spira Mirabilis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-15</td>
+      <td>Ajja</td>
+      <td>Spira Mirabilis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/nM1zQE-RwRR03p4IRYAQAj57oSRbro9iMH-pixGxcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIy/MTk4LTE1MDMwODMz/NDMtMzU1NC5qcGVn.jpeg" alt="Cover for Legends: INHALE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-08-10</td>
+      <td>Koan</td>
+      <td>Legends: INHALE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/gL-6PzsUa5L00Rz4gYUNKP9X5k4AvS4L-vJe-NSBeo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM4/ODE3LTE1MDk0OTQy/NTgtOTA3NC5qcGVn.jpeg" alt="Cover for Derelicts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-06</td>
+      <td>Carbon Based Lifeforms</td>
+      <td>Derelicts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2017-10-27</td>
+      <td>Shpongle</td>
+      <td>Nothing Lasts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/Gg-xHTTf_7BZ5FCphk4L-iVk93aVoZGbJTLDrA9tSW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/NTg4LTE1MjQyOTc0/NTgtNDQ3NS5qcGVn.jpeg" alt="Cover for Animalia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-20</td>
+      <td>Kuba</td>
+      <td>Animalia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27afb39311d1c308b1bba24b1d97fb2f.png" alt="Cover for Elementary Particles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-01-17</td>
+      <td>Bluetech</td>
+      <td>Elementary Particles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T00:17:55.761Z
+date: 2025-11-15T01:36:21.105Z
 permalink: tags/sound-collage
 title: sound collage
 ---
 
 ## sound collage
 
-Last updated: <time datetime="2025-11-14T00:17:55.761Z">Fri Nov 14 2025 02:17:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T01:36:21.105Z">Sat Nov 15 2025 03:36:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3598492f6f33042e40209927a68086db.png" alt="Cover for foam" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>1987</td>
@@ -208,7 +208,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe6b52f7bb54ba0cb8ed12073b3425e.png" alt="Cover for Лёгкое дело холод" style="max-width:120px; height:auto;" />
       </td>
@@ -226,8 +226,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 66</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 73</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 74</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 83</li>
         </ul>
       </td>
@@ -278,10 +278,10 @@ Sound collage is an experimental music genre that assembles fragments of found s
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 39</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 49</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 69</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 50</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 70</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 73</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 88</li>
         </ul>
@@ -306,7 +306,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 52</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 51</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 72</li>
         </ul>
       </td>
@@ -361,7 +361,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c973571c6d1b0ce55351095510712149.png" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-20</td>
       <td>Doopees</td>
@@ -373,15 +373,15 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 18</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 34</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 38</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 37</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c378994800ba8ccee41b59a4602d03ac.png" alt="Cover for Dispepsi" style="max-width:120px; height:auto;" />
       </td>
@@ -444,13 +444,13 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 43</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 79</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 46</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/z0AssTKkam7atCDxYnbBaY5E7CV4rDlliTh-yZ5Pxdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjk1/MC0xMzUxOTAwNDE0/LTcyNjIuanBlZw.jpeg" alt="Cover for Легкое Дело Холод" style="max-width:120px; height:auto;" />
       </td>
@@ -468,8 +468,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 63</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 70</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 72</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 77</li>
         </ul>
       </td>
@@ -509,7 +509,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 72</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -592,7 +592,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/so0sfAgy8ihJUasOP7eScqY2GJekMjDUu3x11ZavBiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTU1/Mi0xMjY5NDA1MDQ4/LmpwZWc.jpeg" alt="Cover for Requia And Other Compositions" style="max-width:120px; height:auto;" />
       </td>
@@ -626,7 +626,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       <td>
         <ul>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 29</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 82</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +737,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 24</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 73</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 73</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 93</li>
@@ -776,7 +776,27 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e65785b5b9b443dfb154c0ff0b828991.png" alt="Cover for The Narcissist II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-19</td>
+      <td>Dean Blunt</td>
+      <td>The Narcissist II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 55</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
       </td>
       <td>2012-10-28</td>
@@ -790,13 +810,14 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 70</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 73</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 89</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 98</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +845,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/jlS1Z7B1tbZI21qxbZLhRmAD2Oq7jPuUnyPaa3AmYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/OTM2LTE2NDcyMDMz/MDQtMjc0OC5qcGVn.jpeg" alt="Cover for Study Series 04: Familiar Shapes and Noises" style="max-width:120px; height:auto;" />
       </td>
@@ -858,12 +879,12 @@ Sound collage is an experimental music genre that assembles fragments of found s
       <td>
         <ul>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 58</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/aQCFP5qtDRvfKPloAZgHlIOwkcSAw6oQ9hHAHW-1ZLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYz/OTAtMTM3NDE4NDg3/Ny05ODgxLmpwZWc.jpeg" alt="Cover for Solace" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +903,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 21</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 70</li>
         </ul>
       </td>
@@ -927,8 +948,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 28</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 42</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 92</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 98</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 98</li>
         </ul>
@@ -951,7 +972,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -970,12 +991,13 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 2</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0417a5db2e3268951a437d1b389794ec.png" alt="Cover for Black Is Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -995,9 +1017,9 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 21</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 26</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 57</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 60</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1083,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 18</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 38</li>
         </ul>
       </td>
@@ -1086,7 +1108,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 1</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 27</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1133,7 +1155,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b6a34c850d1d50bc56ede13a0284bb.png" alt="Cover for Red Burns" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,12 +1212,12 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 75</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2018</td>
@@ -1236,8 +1258,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 80</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 87</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1260,14 +1282,14 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 85</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 89</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 87</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/v3L6vzSKRGh5qIxbah3yjzHBbSYLiv3HEFRDHCHXBQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc2/NTkxLTE1MjM5MzU4/NDEtOTk3Ny5qcGVn.jpeg" alt="Cover for Elysia Crampton" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,8 +1329,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       <td>
         <ul>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 39</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 40</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1350,14 +1372,14 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 38</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 77</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 82</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/Ro1noAW268hlZgQTmv9br0tGH24EvxZAIYGPVoxDaTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYw/NDUxLTE2MTA0MDE3/NTUtMTExNy5qcGVn.jpeg" alt="Cover for Gmail and the Restraining Orders" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,13 +1394,13 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 19</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 21</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/qkOyeYPp1LD8RR7uIVg8tnUvuZzmETUoQrJAKJ-5txw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIw/NTI5LTE1NjE4NTAw/NDktNjk1OS5qcGVn.jpeg" alt="Cover for A Quiet Farwell, Twenty Sixteen to Twenty Eighteen" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1418,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab73a2ef85ff757e616cdbd991301859.png" alt="Cover for All My Heroes Are Cornballs" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1433,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 48</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 74</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 97</li>
@@ -1432,8 +1454,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
@@ -1465,12 +1487,12 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 49</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 50</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 67</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 70</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 72</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1495,7 +1517,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db9a09b2d18b3a893effe1a92f338e79.png" alt="Cover for Gum" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1539,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 26</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 31</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 71</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 72</li>
         </ul>
@@ -1545,9 +1567,9 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 60</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 62</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 92</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 95</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
         </ul>
@@ -1575,13 +1597,13 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 14</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 75</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 85</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 98</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1647,36 +1669,9 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 31</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 80</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9456797e3f95f64548b4a5eaf493fce3.png" alt="Cover for Magic Oneohtrix Point Never" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-30</td>
-      <td>Oneohtrix Point Never</td>
-      <td>Magic Oneohtrix Point Never</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 55</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1718,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/ge3i5OBKMA8IfEkc_kWK7GksPCYJYkj3uCqKaEIBrSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/MjE0LTE2MjY5MDc3/MDgtNjk1NC5qcGVn.jpeg" alt="Cover for a softer focus" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1762,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/-9sTia7iBS2t_0IoVADyAUkwkbSpYnFsSL0KPzBMScg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzI5/OTMzLTE2MzIzMzYy/NDktNDU2MC5wbmc.jpeg" alt="Cover for By the Time I Get to Phoenix" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,11 +1777,11 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 32</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 70</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 71</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 93</li>
         </ul>
       </td>
@@ -1906,8 +1901,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
         <ul>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 1</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 31</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 35</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 38</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 42</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
         </ul>
       </td>
@@ -1926,7 +1921,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 44</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 45</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 91</li>
         </ul>
       </td>
@@ -2020,12 +2015,12 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f540a2cd8288deba654a0de7ed04182b.png" alt="Cover for Revanchist" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,8 +2041,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 66</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 67</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 97</li>
         </ul>
       </td>
@@ -2075,7 +2070,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/HHB9w_vhJ7plzs9vtFK40wpvqG9sefxD-7Yl-KSMHcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE1/MTM0LTE2OTgzODA0/MTAtNTU5MC5wbmc.jpeg" alt="Cover for The Ghost~Pop Tape (Remastered + Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -2096,8 +2091,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 37</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 56</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 60</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 65</li>
         </ul>
       </td>
@@ -2123,9 +2118,9 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 29</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 28</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 38</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 74</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2147,13 +2142,13 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 50</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/NYf0GapxkWBKfruk6H0LCiQ8fDqumBLX9hWSVYbgjMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk0/NTk1LTE3MTQ5Mjky/OTMtMjIzMi5qcGVn.jpeg" alt="Cover for Broadcast and the Focus Group Investigate Witch Cults of the Radio Age" style="max-width:120px; height:auto;" />
       </td>
@@ -2237,7 +2232,7 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2263,14 +2258,14 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 6</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 32</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 53</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/535a6f2019690e8e0e5269269c5a7279.png" alt="Cover for Flood Format" style="max-width:120px; height:auto;" />
       </td>
@@ -2291,8 +2286,8 @@ Sound collage is an experimental music genre that assembles fragments of found s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 76</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 77</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 93</li>
         </ul>
       </td>

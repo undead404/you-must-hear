@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T12:04:52.115Z
+date: 2025-11-15T01:36:10.902Z
 permalink: tags/dream-folk
 title: dream folk
 ---
 
 ## dream folk
 
-Last updated: <time datetime="2025-10-18T12:04:52.115Z">Sat Oct 18 2025 15:04:52 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T01:36:10.902Z">Sat Nov 15 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/vBl5Y5mAOFOi-CMrMGcBbmVjdxzpeJSduh01N7rBF5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MzEtMTQ4MzcyOTY0/NS05MTExLmpwZWc.jpeg" alt="Cover for Parallelograms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53b4a9eefe0d0294695bad0e97f7e2b.png" alt="Cover for Parallelograms" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Linda Perhacs</td>
@@ -46,15 +46,15 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 58</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 74</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 87</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 73</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/RILbb57BJuqGGJiASXy7YooXKVDji0wdalxgkYSWVIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTAz/ODctMTQyMzA0Nzcx/MS0yODA3LmpwZWc.jpeg" alt="Cover for かなしいことなんかじゃない" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a483d699912493db5575e3b7b7bc735.png" alt="Cover for かなしいことなんかじゃない" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-25</td>
       <td>Hi-Posi</td>
@@ -70,13 +70,14 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 49</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f333e02801d3e9012524b12a7b121750.png" alt="Cover for Hantaoma" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Stille Volk</td>
@@ -100,7 +101,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1997</td>
@@ -118,9 +119,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/VynK3LjdcYd7Xi9ErOGONSMRXSssVuxFLjvI2nch9xU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIw/NTgtMTIyNjUwNTEw/MS5qcGVn.jpeg" alt="Cover for Truth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c92a0cee73d3471ba0c5f8f087ccf7ab.png" alt="Cover for Truth" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Maja Elliott</td>
@@ -147,6 +148,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/692f013f20471d2cd5c085dcf2d1cd4b.png" alt="Cover for GLUON" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-06-20</td>
       <td>Hi-Posi</td>
@@ -162,13 +164,14 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 30</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23803557c07b49939c59c6c485e5b9eb.png" alt="Cover for U" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>L&#39;Ham de Foc</td>
@@ -184,7 +187,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>1999-11-30</td>
@@ -202,7 +205,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2001-11-28</td>
@@ -225,15 +228,15 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 21</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 25</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 23</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 26</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/tUg-R2_-TjqNtrcWM8vxxhD4saQHjKCMNtrtT3Y955g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM2/NzItMTIxMzk2ODY3/NS5qcGVn.jpeg" alt="Cover for Hazel Steps Throug a Weathered Home" style="max-width:120px; height:auto;" />
       </td>
@@ -249,16 +252,17 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 46</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 58</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 62</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 70</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c348c8be1c0471ab0edfaa0c365bee7.png" alt="Cover for Hazel Steps through a Weathered Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>In Gowan Ring</td>
@@ -272,18 +276,18 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 7</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 66</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 68</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 8</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 70</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 72</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 77</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/2VLguJUeUBWEKtmHYxB9mS0qBpF3MUK9lQGHi_QUOWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTEx/Mi0xMTE3NDQ2MDI0/LmpwZw.jpeg" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7992c070a1d0f1a1f1787f34cabb947.png" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Kago</td>
@@ -307,15 +311,15 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 18</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/tIR5ZzO_H7vixxGuvv8fLajBxrBE2WUGiImmslrkgso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODc5/OS0xNDQ3MDc3Mjcy/LTIyMDcuanBlZw.jpeg" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/107efb97485c1bf3e81fdf70ca68e410.png" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Stille Volk</td>
@@ -353,17 +357,18 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 17</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 28</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 81</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a2e86d709f47b980479fd0e15d961c.png" alt="Cover for Enchant" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-26</td>
       <td>Emilie Autumn</td>
@@ -376,21 +381,22 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 8</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 42</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 47</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f10a5832aebcce184e89c742ff7f541.png" alt="Cover for 廃墟と楽園" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-24</td>
       <td>志方あきこ</td>
@@ -408,9 +414,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 20</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 21</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 35</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 60</li>
         </ul>
@@ -419,6 +425,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b8bfc6e6ee2f465b320b6e613cc7aca.png" alt="Cover for Ballads of Living and Dying" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Marissa Nadler</td>
@@ -434,9 +441,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/Fw2kngdML-UXeVxsW48P0BLKsxrsQVfJeYWDfUNMa0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDAz/Ny0xMTU0OTcxNDEw/LmpwZWc.jpeg" alt="Cover for Forlatt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/367267fe527b4e8a89231131062a4a0b.png" alt="Cover for Forlatt" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-04</td>
       <td>Vàli</td>
@@ -448,7 +455,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 86</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -473,7 +480,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/LlR-Zn7RezIG-XGxio6F-_b6gV2ZPN-PqPWyGxBcGQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzY0/NC0xMTcwOTQ4NjA4/LmpwZWc.jpeg" alt="Cover for The Saga of Mayflower May" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/395ffe70c2789bec12cfef6415752158.png" alt="Cover for The Saga of Mayflower May" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-31</td>
       <td>Marissa Nadler</td>
@@ -489,7 +496,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Qev6G_kTMSzr89K8x8N38QyNxHeFDCl1YqHjoo1UhnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ4/My0xMjAwNDc5NDAx/LmpwZWc.jpeg" alt="Cover for Fairydust" style="max-width:120px; height:auto;" />
       </td>
@@ -504,16 +511,16 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 14</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 38</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 57</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 65</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 66</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/O1Z1fgE9kNkb85Xl2q1P-bG6zC9T-QTynLw8g1j5O_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTAw/MTQtMTI5MjAwNzU4/MC5qcGVn.jpeg" alt="Cover for Gula Gula - Hear the Voices of the Foremothers" style="max-width:120px; height:auto;" />
       </td>
@@ -535,6 +542,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df0a419239ec0247be760f6d0f7e522.png" alt="Cover for Navigatoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-20</td>
       <td>志方あきこ</td>
@@ -556,11 +564,11 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 33</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 40</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 15</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
@@ -568,7 +576,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2005-12-12</td>
@@ -609,8 +617,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/415f18b3061fc9d355684d303067a809.png" alt="Cover for Raka" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-25</td>
       <td>志方あきこ</td>
@@ -627,9 +636,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 47</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 94</li>
@@ -637,7 +646,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>2007</td>
@@ -659,16 +668,15 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd0a3b0534164081126bfb83406e32da.png" alt="Cover for Songs III: Bird On The Water" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-12</td>
       <td>Marissa Nadler</td>
       <td>Songs III: Bird On The Water</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -677,8 +685,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a2d029c2f248ecb4b2c08f24a236fc.png" alt="Cover for Objet Abandonné en Mer" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-04</td>
       <td>Nicolas Bernier &amp; Simon Trottier</td>
@@ -699,9 +708,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/J5Iho_yFF5TK2iJDNP4ZpR8h5hGXjMZEKVaHxiwyTyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQ1/NjAtMTI2NTM2MTg0/OC5qcGVn.jpeg" alt="Cover for Daytrotter Session - 2&#x2F;29&#x2F;2008" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/486fede4add3404293322b45ff7faa4e.png" alt="Cover for Daytrotter Session - 2&#x2F;29&#x2F;2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-18</td>
       <td>Sleeping States</td>
@@ -735,12 +744,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 31</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/mJxPp_g4xhCmCF4B_6uannLAPqABcAuWF_26Vbag5_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/NzgtMTIwMTg3ODQ0/NS5qcGVn.jpeg" alt="Cover for The Valerie Project" style="max-width:120px; height:auto;" />
       </td>
@@ -759,8 +768,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c32cbcec79f83586f85e4c06d97faeb.png" alt="Cover for Istoria～Musa～" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-29</td>
       <td>志方あきこ</td>
@@ -780,7 +790,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 24</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 25</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 37</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 46</li>
         </ul>
@@ -817,13 +827,13 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 7</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 44</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/QpuDORlSwD3pTDeGsAbX5_1AJfJ4-NVqSeqHLWXMPro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MjI0LTE1Njk3Njgw/MjgtNDIzNS5qcGVn.jpeg" alt="Cover for Rock Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -842,7 +852,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/AXOznB9kIpTfP5ajiDWiDxWglu1ijHVVjLdT-0mtcSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzM3/NS0xMjkzMTE1NjIz/LmpwZWc.jpeg" alt="Cover for Song 3: Bird On The Water" style="max-width:120px; height:auto;" />
       </td>
@@ -861,9 +871,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/SkvJlRYowN-XHSk94XuVx6AJNLAuv55Hlas8MEBEqwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTYw/NDMtMTQ2NzIxODMz/OS0xMDQ5LmpwZWc.jpeg" alt="Cover for Pequeños Recuerdos del Alma y el Corazón" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/439ed7860c07484ab7696b8d36a0872c.png" alt="Cover for Pequeños Recuerdos del Alma y el Corazón" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-01</td>
       <td>Rodrigo Daniel</td>
@@ -885,8 +895,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ab6bebd416442f084dacedb9d2dcfb9.png" alt="Cover for Two Suns" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-12</td>
       <td>Bat for Lashes</td>
@@ -898,12 +909,11 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Osforras" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +929,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 17</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 18</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 94</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 96</li>
@@ -927,7 +937,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/ytJAWhvAU_bw13RLEoXSzYBKlpt6-lIpyOhtfVqDYck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzY5/NzItMTI0MjY0MjAz/MC5wbmc.jpeg" alt="Cover for Ammonites And Shells EP" style="max-width:120px; height:auto;" />
       </td>
@@ -948,8 +958,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b873ce3654dd44ef96f795fe26323ce4.png" alt="Cover for Cross Mountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>The Smallest Bones</td>
@@ -975,9 +986,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Q_VLcdsS1WpAWaYB5wVlhFqCA_SwihjJDd4CSEmZWhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/NDEtMTI2ODcwNDk4/My5qcGVn.jpeg" alt="Cover for Down the Way" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af66539e54a44c35875dca6623b0c792.png" alt="Cover for Down the Way" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-12</td>
       <td>Angus &amp; Julia Stone</td>
@@ -992,9 +1003,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 35</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 48</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 53</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 96</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 60</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 66</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1028,13 +1039,13 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 66</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 66</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 67</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2010-04-30</td>
@@ -1053,38 +1064,35 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 2</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 29</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e21208e4351466dbd9b7ae1f0c06d06.png" alt="Cover for Philharmonics" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-17</td>
       <td>Agnes Obel</td>
       <td>Philharmonics</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 15</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 69</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 24</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 79</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36068b367c64f6287f49ca5415f38db.png" alt="Cover for 謳う丘 ～Ar&#x3D;Ciel Ar&#x3D;Dor～" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-29</td>
       <td>志方あきこ</td>
@@ -1100,9 +1108,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 16</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 30</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 31</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 17</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 33</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 44</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 68</li>
         </ul>
@@ -1141,19 +1149,18 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 37</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 63</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 65</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 87</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 92</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 88</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/y09pQ8zrkpPn1g5zADDhqvdcx7r_AAi090INDr7P67E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODYx/MTIxLTE2ODQwNjgz/ODUtMTUyMy5qcGVn.jpeg" alt="Cover for live at WFMU August 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Kurt Vile</td>
@@ -1184,7 +1191,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/YYmBeH775GgZVXiCj_M6TOHYWmuxJ-S_FmvgeGcUTS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDk4/NDctMTQ1MDEyMDU1/NS03OTc4LmpwZWc.jpeg" alt="Cover for Tiny Island Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,9 +1225,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/JRjWoewHtsmulL9XiaemhiK0VuGxjamU8-jEnphEuUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDI4/ODctMTM2MjMwODgx/OC0zODU4LmpwZWc.jpeg" alt="Cover for Montagnes russes, mini-tsunamis EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/330fd540e7065ddb4ec07ff7e2ac80bb.png" alt="Cover for Montagnes russes, mini-tsunamis EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01</td>
       <td>Émilie Proulx</td>
@@ -1235,9 +1242,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/pQYjA_OMoPLTTcOYZF9imc99rD46iQn9vp8-EepxzrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUw/MzQ4LTE1NDEyNDk2/NzEtNTA0NS5qcGVn.jpeg" alt="Cover for Atto Terzo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61073f6f7674435e8284ad3463da8507.png" alt="Cover for Atto Terzo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-04</td>
       <td>Valentina Lupi</td>
@@ -1258,7 +1265,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/y4ICppol_xfg_-KWVK11zY-uxMEjsfjhGb-V35Eqi_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzI4/NzAtMTMwMzA3Njgw/MC5qcGVn.jpeg" alt="Cover for Sleeping In" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,14 +1291,14 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 25</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 26</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 35</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>2011-05-25</td>
@@ -1309,6 +1316,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e2ad914b5d548db86d683dca867bdea.png" alt="Cover for Marissa Nadler" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05</td>
       <td>Marissa Nadler</td>
@@ -1328,6 +1336,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f38deeee1e442ffb629d2bbcd08fdbc.png" alt="Cover for 白夢の繭～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-08</td>
       <td>志方あきこ</td>
@@ -1355,9 +1364,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 13</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 17</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 23</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 19</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 24</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 60</li>
@@ -1365,8 +1374,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a982f7abe1d4e469e4369c960a850c5.png" alt="Cover for All Will Prosper" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-15</td>
       <td>Goldmund</td>
@@ -1379,13 +1389,14 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcbd2d9b49abd03426c2bf0c1b2c168e.png" alt="Cover for うたびこ" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-25</td>
       <td>青葉市子</td>
@@ -1401,8 +1412,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7ad09cbdde4bf6cb346e46212261c0.png" alt="Cover for Sous les yeux de Sophie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-26</td>
       <td>Soan</td>
@@ -1421,7 +1433,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 37</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 38</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 42</li>
         </ul>
       </td>
@@ -1429,7 +1441,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/oPErPSfiOMyH94NnOjr7iTG-E8SvhNHt6G7PWv0CqdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDg1/MjQtMTMzNzIwMzkw/Ni04MDcxLmpwZWc.jpeg" alt="Cover for The Sister" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b13533cab454d499fef783306084d69.png" alt="Cover for The Sister" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-29</td>
       <td>Marissa Nadler</td>
@@ -1443,14 +1455,15 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 39</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b1b11afe44c4af8b23455b7166cc183.png" alt="Cover for Ambivalentidea" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-06</td>
       <td>やなぎなぎ</td>
@@ -1469,9 +1482,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/mNo6vzU7N99_Yfy0K6J2iJQGrUscSyrTeuiGwvE8Jxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTc2/ODktMTQ2MjgwNjMx/Ni01MzYyLmpwZWc.jpeg" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1a31805201063084bac7fa591593158.png" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Iduvigik</td>
@@ -1498,13 +1511,13 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 28</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 39</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,19 +1541,19 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 10</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 44</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 45</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/0PRUoaWY3vrfQb1nXYkeVwcM-P83KPdrSI7mWvs9His/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEy/NTctMTM3MDg3OTI5/NC0zMDY3LmpwZWc.jpeg" alt="Cover for About Farewell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29440b74b74b438baa6a67b448efc7c9.png" alt="Cover for About Farewell" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-25</td>
       <td>Alela Diane</td>
@@ -1558,7 +1571,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/_OTHiWpPwZHXPwNKiUnWotd3zCYfAS5ieae3qEmqyiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTg4/MDgtMTM5Nzk5MDIy/MS0xNjc0LmpwZWc.jpeg" alt="Cover for Drifters Gold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fde1cb68401e40c882bb624e5447a2d0.png" alt="Cover for Drifters Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-02</td>
       <td>White Poppy</td>
@@ -1577,8 +1590,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b8e6ff7afa8464ebb2c7fe2250d4877.png" alt="Cover for エウアル" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-03</td>
       <td>やなぎなぎ</td>
@@ -1596,8 +1610,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99dd320094bd8832720019cdf8dc8193.png" alt="Cover for Skogslandskap" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-30</td>
       <td>Vàli</td>
@@ -1613,8 +1628,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db32ff5cf6338a7a1b4cfc37c470aaf7.png" alt="Cover for Turaida" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-23</td>
       <td>志方あきこ</td>
@@ -1632,12 +1648,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 13</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/-Ame1xngfLM36p3zmsaU6pD6WM8N6qsW5WR9TCnZLsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzg4/MDAtMTQwMTMxMDA3/MS00MjQ4LmpwZWc.jpeg" alt="Cover for The Dancer" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,8 +1676,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/462d363c619b4297c21d28e4c7f95381.png" alt="Cover for 0%" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-29</td>
       <td>青葉市子</td>
@@ -1677,29 +1694,28 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf0a55979ba852ffc058a257e959719.png" alt="Cover for July" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-04</td>
       <td>Marissa Nadler</td>
       <td>July</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 34</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 37</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06093697c90d4367c3ebee78feedcccd.png" alt="Cover for The Soul of All Natural Things" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-04</td>
       <td>Linda Perhacs</td>
@@ -1713,11 +1729,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2014-03-17</td>
@@ -1736,8 +1753,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 12</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 27</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 13</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 28</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 53</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 55</li>
             <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 87</li>
@@ -1747,7 +1764,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/WsGvW2MY1RNAWdbawd3kvv7QJgHXy5i7l45S33q64X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTg2/OTItMTQwMDc4NzUy/OS00NTYyLmpwZWc.jpeg" alt="Cover for Grow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a457d8ab81347e3c7439ae4ce23639c.png" alt="Cover for Grow" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-20</td>
       <td>Bedroom</td>
@@ -1767,10 +1784,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 26</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 26</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 45</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 69</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 14</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 40</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 52</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
         </ul>
       </td>
@@ -1778,13 +1797,14 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47471424a6724510c56af49f4ce83144.png" alt="Cover for Some Heavy Ocean" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-20</td>
       <td>Emma Ruth Rundle</td>
       <td>Some Heavy Ocean</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -1793,8 +1813,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6295dc1a2f1a62c655e524870fc2f3b.png" alt="Cover for The Night Country" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-23</td>
       <td>Natural Snow Buildings</td>
@@ -1813,7 +1834,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/h1xF_JoJdmhDEMSh8q7zCjqcoDACeHCkrcZLFWkWlGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ5/ODQtMTQyODUxMDgy/Ny01NzA3LmpwZWc.jpeg" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,17 +1853,17 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 10</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 35</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 36</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 51</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/S1F60vuo8VQiReeENH4NSxzK0xCG2mmN-R1zgtEz0W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU2/OTk0LTE1Mjc0MzQ1/ODktMzczMC5qcGVn.jpeg" alt="Cover for I Found You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76a83c3cd4fd4b04cb654a67aa62926b.png" alt="Cover for I Found You" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>KOKIA</td>
@@ -1885,7 +1906,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/phURZt5IcJlNFFVYt40aihy6Cpv5AjZ41A_3Q951Rhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzEz/NjgtMTQzNTMxNzYw/My04MTExLmpwZWc.jpeg" alt="Cover for Tomorrow Will Be Beautiful" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/628249f702a152cd376fb47ba4f5a3da.png" alt="Cover for Tomorrow Will Be Beautiful" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-15</td>
       <td>Flo Morrissey</td>
@@ -1922,7 +1943,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/VN-Fy2vgFZQKsBOZ5mRtStZZT4yUMKSQU_Ulsi3xXxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQ2/MDg3LTE2MTE4NDYx/MDQtNzk3NC5qcGVn.jpeg" alt="Cover for Капитаны ждут рассвета" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,9 +1964,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/p6ssja1jXN__E3nzX8g__JuKxryvXJfTARueD1V8cYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDg3/MjctMTQ3NTYyMjMy/Mi0xNzY3LmpwZWc.jpeg" alt="Cover for Swimming In Sunlight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17715043a492cd14d54a12b73a3d1cd6.png" alt="Cover for Swimming In Sunlight" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-12</td>
       <td>Rainwater</td>
@@ -1967,9 +1988,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/DJ5wcMvcv-3dE9NoKKvtdSeATfw7sfUxDUd77g4B4Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEy/ODU3LTE1MTE5Nzc2/MjQtNjMyMC5qcGVn.jpeg" alt="Cover for Place" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94c4e1390b421c9127cf1954630db914.png" alt="Cover for Place" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-03</td>
       <td>Rainwater</td>
@@ -1991,7 +2012,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/vADRb4oJanss7disofd69sFVEXAroaUVNE2L6bD_XJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc2/MTk3LTE2NzU3OTcw/NjMtNTEwNi5qcGVn.jpeg" alt="Cover for Fire In The White Stone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/067a897a5a501e4def96b171ec863800.png" alt="Cover for Fire In The White Stone" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>Wolcensmen</td>
@@ -2012,7 +2033,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/eccGwAXixl4wjbZd9rEHEzY0R5ssT6cMNiG5M7J6puU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjE5/ODIwLTE1NzgzMTY0/MjgtOTY3Ny5qcGVn.jpeg" alt="Cover for Deep Maine" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,7 +2053,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/SWuuGsrewAbQqGfwBHOJOsi_f8llnB1AMqymzABxBxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE2/OTk5LTE2MzI5NjIz/MDgtOTM1NS5qcGVn.jpeg" alt="Cover for Sylvan Lands, Vol. II" style="max-width:120px; height:auto;" />
       </td>
@@ -2049,34 +2070,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://i.discogs.com/GS8IbcMxYvPrpdDV0V4xAz5d6jx3_1H5LKCRyG6M6A4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQ1/NjQyLTE2MTkyOTg0/NDItMjc0MC5qcGVn.jpeg" alt="Cover for Elm" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-23</td>
-      <td>NOÊTA</td>
-      <td>Elm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/hupvGE980g5YD-6Fu8uoSZN6ZEPYBPrPXZzvM4DuFgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc2/MTE3LTE2MzU2Mjkz/OTEtNDczMS5qcGVn.jpeg" alt="Cover for The Wrath of the Clouds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40bc2e7902120ba5f4f089895edcffe3.png" alt="Cover for The Wrath of the Clouds" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-04</td>
       <td>Marissa Nadler</td>
@@ -2098,16 +2094,16 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 67</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 79</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/gCPLKNEZh9pZpNcAb90o1EwmX3w8-Fs1-hg6kALdnBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc1/NTcyLTE2NzY5NzQ3/MzYtNjU3MS5qcGVn.jpeg" alt="Cover for Everything Grows" style="max-width:120px; height:auto;" />
       </td>
@@ -2125,8 +2121,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/638ecb9add7c45368a8d7ca46143ab4c.png" alt="Cover for 白夢の繭 ～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -2139,12 +2136,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 26</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -2164,7 +2161,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 20</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 30</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 39</li>
         </ul>
@@ -2188,7 +2185,29 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 64</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b9d3b83efef0801b385de5ec533771.png" alt="Cover for In Hiding" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>bryyn</td>
+      <td>In Hiding</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2210,8 +2229,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc2bfc37b6578e1557cce9f3cde250ea.png" alt="Cover for 暁" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -2229,8 +2249,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a24668936ae412054d7bc27f1b39a6e.png" alt="Cover for 青藍" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -2249,8 +2270,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/588b41f222f89d7200273bcc51254f86.png" alt="Cover for シューベルト歌曲集" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>森ゆに</td>
@@ -2273,7 +2295,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2296,6 +2318,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a5477b1f87b9b4db2648ee36613e2a2.png" alt="Cover for マホロボシヤ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>青葉市子</td>
@@ -2314,6 +2337,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b616b85c54edaeb3d7697b6d4ea529c0.png" alt="Cover for 剃刀乙女" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>青葉市子</td>
@@ -2334,7 +2358,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
