@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T22:35:23.053Z
+date: 2025-11-15T12:03:11.961Z
 permalink: tags/electroclash
 title: electroclash
 ---
 
 ## electroclash
 
-Last updated: <time datetime="2025-11-11T22:35:23.053Z">Wed Nov 12 2025 00:35:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T12:03:11.961Z">Sat Nov 15 2025 14:03:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,8 +46,8 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 28</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 73</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 97</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 99</li>
@@ -79,9 +79,9 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 14</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 15</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 62</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 64</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 75</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
@@ -115,13 +115,13 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 38</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 44</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 55</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 56</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 87</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
@@ -129,7 +129,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2000</td>
@@ -148,7 +148,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/IqjGVSgnk8UI6Y5d2dxu9rNjjvQEI-O7BvJ4xyeeQt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/NTg0LTE1NzI0Mjc0/ODgtNzU2MC5qcGVn.jpeg" alt="Cover for Apple Tree (Georgia Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -171,14 +171,14 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 14</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 66</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/lmxT8aEFZsF_7hm0i815SgDrjOaPZz9KBzspRRWWVWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAx/NTcwLTE1MzQ1Mzc5/MjItOTUyOC5qcGVn.jpeg" alt="Cover for Forgotten Love (Claptone Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -201,15 +201,16 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 26</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 69</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/7cvgTQD0WYRRsPvl8lRMuu1c5H8QpVP5ZAJm7eAZvxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQx/MTUzLTE2MzAyNTc2/NTQtMjc5NS5qcGVn.jpeg" alt="Cover for Cure For Me (Vintage Culture Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -232,9 +233,9 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 13</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 9</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 16</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 30</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 70</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 84</li>
         </ul>
@@ -265,11 +266,11 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 18</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 31</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 78</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 82</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 86</li>
@@ -295,7 +296,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 51</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -372,26 +373,26 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +416,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2001-04-23</td>
@@ -434,7 +435,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbe2159549c49b066190f6c30c20d15b.png" alt="Cover for First Album" style="max-width:120px; height:auto;" />
       </td>
@@ -448,12 +449,12 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 19</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ftOSWhCZpHvJ9SeWLqmYW6bl6p-mCjV0CuMU4DSGNDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTEx/LTExNTU4MjU4NDYu/anBlZw.jpeg" alt="Cover for The First Album" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +468,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 40</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -502,17 +503,17 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 5</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 6</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
@@ -550,17 +551,17 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 12</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 55</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 63</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
@@ -598,18 +599,18 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 24</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 79</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
@@ -642,11 +643,11 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 13</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 30</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 75</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
@@ -680,16 +681,35 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 35</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 41</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 90</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 96</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/VAdBoplAFVHAqLDutpJT1DM7YSH3clhLPovjLHCYtpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTA0/LTAwMS5qcGc.jpeg" alt="Cover for He Not In" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-01-01</td>
+      <td>Chicken Lips</td>
+      <td>He Not In</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -744,22 +764,22 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 46</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 55</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 58</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -789,7 +809,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 46</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 64</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 64</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 66</li>
@@ -799,7 +819,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2003</td>
@@ -816,7 +836,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/WIgNj_nvb05dYcHfc-tmToXcKxcd7fWSwPTGYGXZ6UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk1/Ny0xNTY5NzgzMTk3/LTU3ODEuanBlZw.jpeg" alt="Cover for A Tribute To Your Taste" style="max-width:120px; height:auto;" />
       </td>
@@ -871,7 +891,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       <td>
         <ul>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 30</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 42</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +914,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2003-11</td>
@@ -913,13 +933,13 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 79</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 80</li>
             <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2004</td>
@@ -936,7 +956,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2004</td>
@@ -954,7 +974,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004-04-28</td>
@@ -973,7 +993,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f04256410cf3a64f01e9be10cc6ea66.png" alt="Cover for Devin Dazzle &amp; the Neon Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,7 +1029,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2004-10-25</td>
@@ -1027,7 +1047,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/GR4_dqrhmiQXQH1jIoIIuJFpn9E2Rj0acam4ZRQUZHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDY2/LTEzNjcxNjQzNjkt/Mjg0Ni5qcGVn.jpeg" alt="Cover for The Creeps" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,7 +1102,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 52</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1125,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7be2bae092ff43639fa880e9bea95f44.png" alt="Cover for Nite Versions" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,12 +1142,12 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       <td>
         <ul>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 26</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 57</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84ad30999f37c5799e423a7c24c2c16c.png" alt="Cover for Cansei de Ser Sexy" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,13 +1162,13 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 12</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 14</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9681cb95df54f1ab3798c3320426308.png" alt="Cover for Sexor" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1182,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 68</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1182,12 +1202,12 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 53</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/1kaufvAgQPRXSTemyOZ08UTkC2eCWaQ-o_DN5HTRcFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTcx/MDUtMTQ3NjQ5Mjg1/Ny00MjEyLmpwZWc.jpeg" alt="Cover for Noporn" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,7 +1245,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/4lczJHWyfM1Es_pt8OdnpCIBdpnB3jiaqinpIzmEg0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQ0/MS0xMTQzMzczNTg3/LmpwZWc.jpeg" alt="Cover for Get Lucky" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1303,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae2a25e467dba53956155e522ac317c7.png" alt="Cover for We Are Glitter" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1324,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/802088b3231c436da0afcfc72734ff9b.png" alt="Cover for Spit It Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,31 +1344,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adb94db1b513b3fcdadb399daab35521.png" alt="Cover for Zero Life Night Vision" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-12</td>
-      <td>Kap Bambino</td>
-      <td>Zero Life Night Vision</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 84</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/N2MRgpBk4bTWjptHza695Hp6KPOo5libWuJ0h2Qkba0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzY1/NC0xMjg5MTQ0MzI1/LmpwZWc.jpeg" alt="Cover for It&#39;s The Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,8 +1363,9 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e687f2ed662c4146818eceb5a8aa8b78.png" alt="Cover for We Know You Know" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-10</td>
       <td>Lesbians On Ecstasy</td>
@@ -1384,7 +1381,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/V217_0kyDIEU8O2Jef9fZ-hwIMxXE-HwHIawvtEinek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgw/NDYtMTE5NDI5OTAy/Ni5qcGVn.jpeg" alt="Cover for Chasm" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1399,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/dGJYFdwZLClJXdrywqx65Sk68kZtTUxFLklkUyRl5DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg4/MjgtMTU0NDkxODky/MS0yMTM3LmpwZWc.jpeg" alt="Cover for She&#39;s A Machine!" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1417,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2008-01-18</td>
@@ -1439,7 +1436,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc79faa7c3e44e46994ea6bdb97c9bf.png" alt="Cover for Batbox" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1454,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d506e4db9d724c24abf09b609eac5726.png" alt="Cover for We&#39;re in the Music Biz" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,12 +1468,12 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 18</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80be199236f14a8b8a3b15ee379ab5d1.png" alt="Cover for Velocifero" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1491,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2009-02-24</td>
@@ -1511,7 +1508,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb69ed06fe754888946027e188d8e92b.png" alt="Cover for Command" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1526,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ffc5a959c2aee5156294a4348ab1731.png" alt="Cover for Two" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,8 +1639,9 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/096b2a8b0032d306fd023c9b12971db4.png" alt="Cover for Peoples Temple" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-30</td>
       <td>Tying Tiffany</td>
@@ -1659,7 +1657,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa8dd75a349d4066b7943a09943db663.png" alt="Cover for Never Be Content EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,12 +1674,12 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 74</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/99ML39pmTp9MADZupNpWLG1qOD_QCx8mqxYH136c6As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODcw/NDctMTQ1Mjk3NjM3/Ny03MzgyLmpwZWc.jpeg" alt="Cover for LFO For Kittin" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,7 +1699,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/XcgMOz2sItmHrnZOqxlCCsk9BsEW_mGq4VmKPRzGkBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODIy/MTMtMTMxNDg3MDY4/OS5qcGVn.jpeg" alt="Cover for You Love Her Coz She&#39;s Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1724,7 +1722,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f232aa1a9fd4ae382c26947cf5641d1.png" alt="Cover for Black White &amp; Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1744,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b355bee1a7a4e10911f1de1f6a02ce6.png" alt="Cover for Devotion" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,7 +1763,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8378f17b67ccd91d5e28285cf8d041c9.png" alt="Cover for Icky Blossoms" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,7 +1784,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9c17fa09ab9ff3a5144be11e8a5e188.png" alt="Cover for Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,13 +1803,13 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 20</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 22</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,8 +1862,8 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
         <ul>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 76</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
@@ -1876,7 +1874,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65a6514989eb23bb30e7a4c611bb710.png" alt="Cover for New Superheroes &amp; Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,15 +1898,15 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 29</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 72</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 30</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 73</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 73</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/SSUjJ6hcc-q-q768gAe2-cbLciY7i2yIljDjcjmVYCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjM4/MzUtMTQzMjg3NDI3/MC0zMzAxLnBuZw.jpeg" alt="Cover for New Superheroes &amp; Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,18 +1943,18 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 32</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 58</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 60</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 61</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 77</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1980,7 +1978,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/800ef9651157994cea29380b807b4000.png" alt="Cover for Fickt-Euch-Allee EP (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -2034,19 +2032,19 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 20</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 32</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
@@ -2054,7 +2052,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/TJ-hNaQYroPcpMEwSEOIZ47dZsuK0EZ-dpoLpsNyCYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTc5/NDMtMTQ3NjUxMjA2/Ni02OTA2LmpwZWc.jpeg" alt="Cover for Boca" style="max-width:120px; height:auto;" />
       </td>
@@ -2074,7 +2072,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3595099caf38a0c64fccd9dd1d14f95a.png" alt="Cover for Big Juicy" style="max-width:120px; height:auto;" />
       </td>
@@ -2109,9 +2107,9 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 54</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 72</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 55</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 73</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 75</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 98</li>
@@ -2149,22 +2147,22 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 49</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2190,9 +2188,9 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 27</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 56</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 94</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 58</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2227,17 +2225,17 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
@@ -2269,11 +2267,11 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 3</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 71</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 80</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
@@ -2296,33 +2294,27 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 76</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/6kpx4StIyh_ecE2BYPnk5t3vxKCUFjASMD92DhGiLs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODc4/MjAxLTE2MTU5NTEx/NTItNDAzNy5wbmc.jpeg" alt="Cover for Haunted" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94e2161c1b2f22e892d60fc7890be3c.png" alt="Cover for Haunted" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-12</td>
       <td>laura les</td>
       <td>Haunted</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 98</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 99</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 100</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 100</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 73</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2347,7 +2339,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/toXO6AjBDYRZxb0kL9tSA9cUAkOg1uyVQruc0iEtHo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjE2/Mi0xNTUyNTk4NjQ5/LTQyMjAuanBlZw.jpeg" alt="Cover for Will Save Us All" style="max-width:120px; height:auto;" />
       </td>
@@ -2388,7 +2380,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/M9DTJb-RgTX0PP89kdTLdhdttAEsRmj9TLOOIZTEPdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQ3/MjY0LTE2NjQyOTA2/MjctNjI1OC5qcGVn.jpeg" alt="Cover for Circulus Vitiosus" style="max-width:120px; height:auto;" />
       </td>
@@ -2403,7 +2395,7 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 67</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2446,8 +2438,8 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 33</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 72</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 36</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2472,9 +2464,9 @@ Electroclash is a music genre that emerged in the late 1990s and early 2000s, co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 73</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 87</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 76</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 89</li>
         </ul>
       </td>
     </tr>
