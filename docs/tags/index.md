@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-15T00:36:48.987Z
+date: 2025-11-15T00:39:12.417Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-15T00:36:48.987Z">Sat Nov 15 2025 02:36:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T00:39:12.417Z">Sat Nov 15 2025 02:39:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [k-pop]({{ "tags/k-pop" | relative_url }}) | <time datetime="2025-11-15T00:39:12.417Z">Sat Nov 15 2025 02:39:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [russian rock]({{ "tags/russian-rock" | relative_url }}) | <time datetime="2025-11-15T00:36:48.987Z">Sat Nov 15 2025 02:36:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [funk]({{ "tags/funk" | relative_url }}) | <time datetime="2025-11-15T00:36:36.265Z">Sat Nov 15 2025 02:36:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [noise rock]({{ "tags/noise-rock" | relative_url }}) | <time datetime="2025-11-15T00:36:08.534Z">Sat Nov 15 2025 02:36:08 GMT+0200 (Eastern European Standard Time)</time> |
@@ -440,7 +441,6 @@ Last updated: <time datetime="2025-11-15T00:36:48.987Z">Sat Nov 15 2025 02:36:48
 | [belgian]({{ "tags/belgian" | relative_url }}) | <time datetime="2025-11-11T04:50:58.660Z">Tue Nov 11 2025 06:50:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [uk hip hop]({{ "tags/uk-hip-hop" | relative_url }}) | <time datetime="2025-11-11T04:50:26.088Z">Tue Nov 11 2025 06:50:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [rave]({{ "tags/rave" | relative_url }}) | <time datetime="2025-11-11T04:50:18.067Z">Tue Nov 11 2025 06:50:18 GMT+0200 (Eastern European Standard Time)</time> |
-| [k-pop]({{ "tags/k-pop" | relative_url }}) | <time datetime="2025-11-11T04:49:50.737Z">Tue Nov 11 2025 06:49:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [europop]({{ "tags/europop" | relative_url }}) | <time datetime="2025-11-11T04:49:15.037Z">Tue Nov 11 2025 06:49:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [chillhop]({{ "tags/chillhop" | relative_url }}) | <time datetime="2025-11-11T04:48:57.382Z">Tue Nov 11 2025 06:48:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [french house]({{ "tags/french-house" | relative_url }}) | <time datetime="2025-11-11T04:48:25.932Z">Tue Nov 11 2025 06:48:25 GMT+0200 (Eastern European Standard Time)</time> |
