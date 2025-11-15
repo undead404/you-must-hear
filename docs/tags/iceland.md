@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T03:13:34.430Z
+date: 2025-11-15T00:33:06.883Z
 permalink: tags/iceland
 title: iceland
 ---
 
 ## iceland
 
-Last updated: <time datetime="2025-10-25T03:13:34.430Z">Sat Oct 25 2025 06:13:34 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T00:33:06.883Z">Sat Nov 15 2025 02:33:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,8 +82,9 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b08646f65f0854f8420504141d03f9b.png" alt="Cover for The Eye" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>KUKL</td>
@@ -119,6 +120,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7098faeeba40a168cea952f95204a89a.png" alt="Cover for Debut" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-07-12</td>
       <td>Björk</td>
@@ -131,14 +133,15 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 19</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 58</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 28</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 62</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/WEqtJcr8NC7IcOFFVmrE9NWUBfAcvm4Twx4ZzipJfQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTkw/NTUtMTQ0NDg1Mzc4/OS04MDUzLmpwZWc.jpeg" alt="Cover for Recurrence" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +188,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/MQQm2zFGJ7sYRKLTUulzNLVir7tsUQPIGStyMvMV1ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI0/LTEyMzIzMjI3NTUu/anBlZw.jpeg" alt="Cover for Post" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef2b4e3f6399166bee68b27f875a5cb.png" alt="Cover for Post" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-09</td>
       <td>Björk</td>
@@ -197,13 +200,13 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 67</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Hv158QkwShg8f75NrdkIoQ--o2yI38nJGeSJ9l9qhNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjUx/NzctMTM4MzU4NzQz/Mi0zMzYxLmpwZWc.jpeg" alt="Cover for Píka" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +245,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/URaROAqV0-xp34eifxHwyoiPIM52xJXWSrYKaZajix8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/MjktMTMyNjM4MzI1/OC5qcGVn.jpeg" alt="Cover for Sven-g-englar" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +260,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 42</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +280,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 78</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -322,6 +325,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06d37480e0da432cc391522eb16b52d6.png" alt="Cover for Apparat Organ Quartet" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-01</td>
       <td>Apparat Organ Quartet</td>
@@ -333,7 +337,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 31</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -352,8 +356,8 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 2</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 48</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 6</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +389,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/L7rGxLCd-zKotR8ZiyIIqbYbaANRN4PI05SKNHo9MKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc1/NTAwLTE1NTMwMjAw/MjItOTMwMi5qcGVn.jpeg" alt="Cover for Lonely Mountain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77a5e34edbe03a1b7ab90c8c8ecbf743.png" alt="Cover for Lonely Mountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10</td>
       <td>Mugison</td>
@@ -400,13 +404,14 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 26</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5494cba89a46566a84314a051db28444.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-01</td>
       <td>Björk</td>
@@ -419,12 +424,12 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 10</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/VllvVyD10x_BmiSEKWPbqJqdqzUFkoxHrVnMbBzLs_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUy/NTQtMTQwNzAxMTU4/MS02NDI4LmpwZWc.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -439,27 +444,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 32</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Bang Gang</td>
-      <td>Something Wrong</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 4</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 86</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -479,12 +464,12 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 23</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2003-09-15</td>
@@ -526,7 +511,25 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e96cc2d9b813432795d3e09c30787727.png" alt="Cover for Summer Make Good" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02</td>
+      <td>múm</td>
+      <td>Summer Make Good</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/J1BAeNCn47tGPMWMTBWRightQ0yMeeJBhrqPbAIRLZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE1/MC0xMjg2ODQ3NDY5/LmpwZWc.jpeg" alt="Cover for Sea Y" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +638,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 21</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -655,13 +658,13 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 11</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 22</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 12</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/84WnsIYQXJ-YiUX-e-2mcyuKnOvFPQWpDre-B6KSf7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjU1/MzI3LTE2Nzc1ODc0/NDgtMzM4Ny5wbmc.jpeg" alt="Cover for Dubious Intentions" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +722,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 18</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -777,13 +780,14 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 33</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f453bb69bff5d4e85d3e491d26fcbc01.png" alt="Cover for Volta" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-23</td>
       <td>Björk</td>
@@ -796,7 +800,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 26</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -820,7 +824,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 43</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 44</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 89</li>
         </ul>
       </td>
@@ -828,7 +832,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/vOD74q7jrRCAmie2-JVmU1xjR2XIXeBXxRJ21-CeblA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/MjItMTE4ODQxOTM5/Ny5qcGVn.jpeg" alt="Cover for Go Go Smear the Poison Ivy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc57f16bf4fa4a0185e33cbff3033bee.png" alt="Cover for Go Go Smear the Poison Ivy" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-22</td>
       <td>múm</td>
@@ -877,7 +881,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 100</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 100</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 100</li>
         </ul>
@@ -901,16 +905,16 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 44</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 64</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 54</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/sSPRpK44CTpc7Lfobgj9X0Jdg17NdWZYTpgeWN9uOEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDg1/MjMtMTMyOTI0NzAy/MC5qcGVn.jpeg" alt="Cover for Butterflies And Elvis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2316452607184b119e343b521edc68cd.png" alt="Cover for Butterflies And Elvis" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Yohanna</td>
@@ -928,6 +932,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/099f96beb7f143798c8546ebada70d75.png" alt="Cover for Með suð í eyrum við spilum endalaust" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-23</td>
       <td>Sigur Rós</td>
@@ -947,7 +952,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/eOBmzmBe20gN_62VtaKC4B9cXUah-6OOgdGgKe1hqE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAz/ODEtMTYzMDcxNTI3/MC0zNjk2LmpwZWc.jpeg" alt="Cover for Vespertine (EU Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/108e7f7da4b042cf8018d39ce522d061.png" alt="Cover for Vespertine (EU Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08</td>
       <td>Björk</td>
@@ -967,10 +972,10 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 30</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 35</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 74</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 32</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 36</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1039,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 60</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 61</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 95</li>
         </ul>
       </td>
@@ -1042,7 +1047,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/WecOgbdaQwD7GJA9y9DivWQTA8vfQSgn03QfefPt9Zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTI0/ODktMTM3NzUxMzM0/OC02NjY2LmpwZWc.jpeg" alt="Cover for Búum til börn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e77a2dcf53f79134499d0183a96a5ec6.png" alt="Cover for Búum til börn" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Moses Hightower</td>
@@ -1084,7 +1089,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/zfy6OJ6QZsTLCuGKBaAGdH9niNDcLJ-QMp0yFHLS66I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/MDktMTI3MjcxNTkw/Ny5qcGVn.jpeg" alt="Cover for Das Island Manøver" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef6413c806a149bc936990180ff5f7f3.png" alt="Cover for Das Island Manøver" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-16</td>
       <td>Turbostaat</td>
@@ -1128,7 +1133,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/_fkwDOBANjcCFEctUfms7I6gNyrO-wu2Ae1jHPhTrIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTc4/NDctMTUzNTMxMDA1/MS03Mzk4LnBuZw.jpeg" alt="Cover for Rhízōma" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1218,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/erhSR6dwtrQQU3ByJP7C5_wJKJt9L6zscwMJCV_IFBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDE0/ODgtMTUwOTQ4NjMz/Ny0yOTUxLmpwZWc.jpeg" alt="Cover for My Head Is an Animal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3699e505606456193e0971e6e7af6f4.png" alt="Cover for My Head Is an Animal" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-20</td>
       <td>Of Monsters and Men</td>
@@ -1225,9 +1230,9 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 49</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 85</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 86</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 55</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 87</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1247,7 +1252,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 1</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1269,7 +1274,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 29</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 30</li>
             <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 83</li>
         </ul>
       </td>
@@ -1301,7 +1306,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/WtOQPww3jbSQ0goNRUXIdZOVysJDJu5yio0pG62Cim0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODAx/NTctMTQwNDY2ODIw/My03NTgxLmpwZWc.jpeg" alt="Cover for Acid Make-Out: Music from the Motion Picture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1384b1c202b4137ba0d6e00c41f9ef5.png" alt="Cover for Acid Make-Out: Music from the Motion Picture" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Sometime</td>
@@ -1357,7 +1362,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 22</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1384,7 +1389,6 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/p2L8qaMIjoAZwSgaSu9muWFDmdWC11TxyPqZ6EzGcIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzAz/MTAtMTM4MzY4Mjgx/NC05MTQ4LmpwZWc.jpeg" alt="Cover for Well Done" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-07</td>
       <td>Vök</td>
@@ -1445,6 +1449,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44bce2e69f754f78cf9fbdb1bb0d0403.png" alt="Cover for Live From Vatnagarðar" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-10</td>
       <td>Of Monsters and Men</td>
@@ -1460,13 +1465,14 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 69</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b4e6208a2064bd9cb9a32b48b6935fc.png" alt="Cover for Mexico" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-14</td>
       <td>GusGus</td>
@@ -1482,7 +1488,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 72</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1502,7 +1508,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 6</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 7</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 57</li>
         </ul>
       </td>
@@ -1524,6 +1530,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1574,7 +1581,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
         <ul>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 19</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 61</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 66</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 67</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 97</li>
         </ul>
       </td>
@@ -1690,7 +1697,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 50</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 49</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 67</li>
         </ul>
       </td>
@@ -1756,8 +1763,8 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 79</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 86</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 84</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 88</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 95</li>
         </ul>
@@ -1821,8 +1828,8 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 28</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 71</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 81</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 73</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1894,7 +1901,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/tkg1U0aTLproyz3YstQTFNBQy1MpaRXB8AGcEKWBy7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk4/MjM0LTE2MDMzOTUz/NjUtNjc3Ny5qcGVn.jpeg" alt="Cover for Skálmöld og Sinfóníuhljómsveit Íslands (Extended)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb106e01398bbd0cd70100f5ab7a30c5.png" alt="Cover for Skálmöld og Sinfóníuhljómsveit Íslands (Extended)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-23</td>
       <td>Skálmöld</td>
@@ -1937,7 +1944,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 16</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 17</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 70</li>
         </ul>
       </td>
@@ -1986,13 +1993,13 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 37</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 38</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/r5TeTBu3dPMdGshVx7rTxzMDNfjf_I6g8ZSN-IDOoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTYy/MTA5LTE2MTc2MjI3/MDAtMzIxMi5qcGVn.jpeg" alt="Cover for Næturdögg" style="max-width:120px; height:auto;" />
       </td>
@@ -2034,8 +2041,8 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 13</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 8</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 14</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 67</li>
         </ul>
       </td>
@@ -2058,8 +2065,8 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 71</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 75</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 76</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 90</li>
         </ul>
       </td>
@@ -2080,12 +2087,12 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 20</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/GC9gLxcQjlSxUPKmELrydCs6E1x9UxJS0S4r90j7j4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk0/OTgyLTE2NTAwNjMy/MjItNDg1Ni5qcGVn.jpeg" alt="Cover for Heretic" style="max-width:120px; height:auto;" />
       </td>
@@ -2149,7 +2156,7 @@ Icelandic music blends ethereal atmospheres with stark Nordic beauty, drawing fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 45</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 46</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 46</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 90</li>
         </ul>
