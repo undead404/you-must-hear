@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:34:18.719Z
+date: 2025-11-15T04:04:15.061Z
 permalink: tags/chillwave
 title: chillwave
 ---
 
 ## chillwave
 
-Last updated: <time datetime="2025-11-11T19:34:18.719Z">Tue Nov 11 2025 21:34:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T04:04:15.061Z">Sat Nov 15 2025 06:04:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -53,9 +53,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/PzoJvUKaQOrWRzWgF-uARn8AFYFEZGOfu7vt7xy-KHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njc2/ODgtMTQ0MTk5NTEy/NC01NzkzLmpwZWc.jpeg" alt="Cover for EP3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9341c83b84a74c52ccab15dc249064a3.png" alt="Cover for EP3" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-00-00</td>
       <td>Zero 7</td>
@@ -95,7 +95,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td>2009</td>
@@ -112,7 +112,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>2009-06</td>
@@ -129,7 +129,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d1d03b951b144c5938c2ad06be505f2.png" alt="Cover for Seek Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -139,18 +139,16 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 2</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4137d4b4b14f766b87b57f82662ecda9.png" alt="Cover for Life of Leisure - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +186,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2fb8d2a017e4f00a267cb6bad7b96ca.png" alt="Cover for Psychic Chasms" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +204,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/225a5bd8aa75c4a3af50adb21ef2731b.png" alt="Cover for Shlo-Fi EP" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +282,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/y6bnOFvRkTTcsdSKtv-KouKgGpDq1xGpgsy0aKpRJJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTcw/NjQtMTI5MTU3NjIz/Ni5qcGVn.jpeg" alt="Cover for The Years E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -298,6 +296,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +319,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5e4c8dcdcbf4877a5691af70bac104f.png" alt="Cover for Four More Years" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +337,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/RSJxMnbOjdMk3Qt9ekRw4h1yA57a3gb5Hbm2PABFIZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAy/MjctMTMxNDc3MzU1/MC5qcGVn.jpeg" alt="Cover for Fame &amp; Fortune" style="max-width:120px; height:auto;" />
       </td>
@@ -373,8 +372,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 31</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 33</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -398,7 +397,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d58d5b3d813403abde383e27820cb42.png" alt="Cover for Lina" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +416,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2011</td>
@@ -434,7 +433,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2011-02-22</td>
@@ -451,7 +450,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/CUgJIGl5zwMh8K-NXtItpllPEu4PO2IIDyRHuXoBK1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODMy/ODMtMTMzMjYwNjk4/OC5qcGVn.jpeg" alt="Cover for Thought Has Wings" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +469,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td>2011-03-11</td>
@@ -484,12 +483,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 72</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d360c60183548cf9ac12c66f871b94d.png" alt="Cover for Ungirthed" style="max-width:120px; height:auto;" />
       </td>
@@ -506,13 +505,13 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 19</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 23</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d99f3815076a1e05d3896eacc6d8da2.png" alt="Cover for Channel Pressure" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +529,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47c2adc94fe74673afdb2722e8d3ee6c.png" alt="Cover for Galactic Melt" style="max-width:120px; height:auto;" />
       </td>
@@ -566,7 +565,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2011-07-08</td>
@@ -586,7 +585,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d62ffed0dcc4b5ca0ad4241995057c0.png" alt="Cover for Freaking Out" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +605,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adee74149dc946ed804fe702dfcf3334.png" alt="Cover for Era Extraña" style="max-width:120px; height:auto;" />
       </td>
@@ -619,15 +618,14 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 14</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 33</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 15</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 35</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3528601cb834aedac6691940bf76f4d.png" alt="Cover for Aurora Lies" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +663,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/151a56783b78495593e9f9424eef4171.png" alt="Cover for Flamingo" style="max-width:120px; height:auto;" />
       </td>
@@ -689,8 +687,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 27</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 80</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 96</li>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 96</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
@@ -717,7 +715,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a55d877b32684a198b1a872f411ac68b.png" alt="Cover for Vivid" style="max-width:120px; height:auto;" />
       </td>
@@ -733,12 +731,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 35</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd787b0e101441f389de9b3c798ff1d6.png" alt="Cover for Absolute Bearing" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +757,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6ba6cf33c4ec075d76b489c6efa3945.png" alt="Cover for In Decay" style="max-width:120px; height:auto;" />
       </td>
@@ -776,12 +774,31 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 39</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaa1ae5aa2334bd3948d3f2419f63bd8.png" alt="Cover for Flume" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11-09</td>
+      <td>Flume</td>
+      <td>Flume</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6efa589244994fc2919aa54f4f8a621d.png" alt="Cover for Grace&#x2F;Confusion" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +816,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69727edc128078dd9fda185b3977387d.png" alt="Cover for Systems" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +836,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cab149adaa6f4c508fbdb8c6188f1dc6.png" alt="Cover for Hit Me Up Again" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +856,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>2013-03-18</td>
@@ -873,12 +890,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 5</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b8fa938e366457bb7081feb231a7a6e.png" alt="Cover for Show Your Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -896,12 +913,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 22</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc8d7e8e9934c14cce09b9574c4e1af.png" alt="Cover for L&#39;incandescent" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +959,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f636525495f1458c7c55f238eb8e27d.png" alt="Cover for Because the Internet" style="max-width:120px; height:auto;" />
       </td>
@@ -955,8 +972,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 5</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 17</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 41</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 59</li>
         </ul>
       </td>
@@ -985,7 +1003,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a457d8ab81347e3c7439ae4ce23639c.png" alt="Cover for Grow" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,10 +1025,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 26</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 35</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 51</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 69</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 14</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 40</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 53</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
         </ul>
       </td>
@@ -1018,6 +1038,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a080887a23040e2c06a8f808ce13698.png" alt="Cover for NO REASON" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-18</td>
       <td>Giraffage</td>
@@ -1034,7 +1055,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/NKzgadv3s5UKewyOKRILYYaH8GptZYyuHyl1nIPGiDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkx/NjgtMTQ2NDAyNzA0/OS04NzI3LmpwZWc.jpeg" alt="Cover for Dream-Spark" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1073,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/A1VXWSBwDWR1_9NFiXXjEX23_oNNZK2ov4_CqQ4YI18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODg5/ODUtMTQ0NDY1MjM5/Ni0zODAzLmpwZWc.jpeg" alt="Cover for balance" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1092,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/x80UFtPRoaXRmZMBnENpAr_Ck61rq0BXtSTM6vlYl08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODQ5/MTUtMTQ2MDU3MzI5/Ni0zMTA0LmpwZWc.jpeg" alt="Cover for Play the Game" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1107,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 23</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1112,7 +1133,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/XIYFPvXwxQFDXhGTGW5x2tuqLAxTwRTSaILo3WCHEwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODAx/NzAtMTQyNjQ2MjEw/My00Mzk0LmpwZWc.jpeg" alt="Cover for Abyss" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,13 +1148,14 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 75</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 97</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 6</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 78</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/qom0cDEzeFBMIJGRr035TJwlCxshBZLWw87cLAaKePY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODU1/NjktMTQ3MDc4NzY1/OC04MDE0LmpwZWc.jpeg" alt="Cover for Live from Trona" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1173,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/824bbf1fb2048906c63fe7c522e56405.png" alt="Cover for Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1192,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/RJgFPGNJcWqPGF_M1JW9rRGREwt6EmOgnyvMH54Bk2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI0/NDk0LTE0OTkyMDQy/MDEtMzMwOC5qcGVn.jpeg" alt="Cover for ABYSS REMIXES" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,14 +1212,14 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 35</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 40</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 88</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e921b7f03f29fb3f5fcdb19a2120dfe.png" alt="Cover for Now I&#39;m Ready" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1256,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2bf410e3fe3ead65c994e53d59119b8.png" alt="Cover for Moments - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1277,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7370738c2a0a2876182a72daee1d74c3.png" alt="Cover for Out of Touch" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1314,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/i8YQ19c6BrrF_5ACs-S_vzxVF6ANuPADoi4OWs0nVBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjA5/NzYtMTQ4NTMwODc2/MC01NTE4LmpwZWc.jpeg" alt="Cover for Glass Prism" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,7 +1336,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/i8YQ19c6BrrF_5ACs-S_vzxVF6ANuPADoi4OWs0nVBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjA5/NzYtMTQ4NTMwODc2/MC01NTE4LmpwZWc.jpeg" alt="Cover for Enchanted Instrumentals and Whispers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f585668bb65419dd5247c7a95ef9985.png" alt="Cover for Enchanted Instrumentals and Whispers" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-13</td>
       <td>Windows 96</td>
@@ -1337,7 +1359,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/RyM_J5qhOfT056SL8x8CtbZjKGsMYsHtwk6DAPhxfhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mjc5/NDgtMTUyNTcyNDI1/My04MjE3LmpwZWc.jpeg" alt="Cover for I can&#39;t tell you how much it hurts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dc7fb8087336493594cb7159cb2cd74.png" alt="Cover for I can&#39;t tell you how much it hurts" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-24</td>
       <td>Moow</td>
@@ -1352,13 +1374,14 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 10</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 48</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 22</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 33</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2f43c11be5caff7b4d9b4f79c155503.png" alt="Cover for Themes For Dying Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,9 +1399,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/PF3VzRLah84AphwLyelTWUU1_PUkn0kqQTTLtkaTxCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU4/NDU4LTE0OTc4NTMy/NzktMjA5NS5qcGVn.jpeg" alt="Cover for Vega" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c2318146931ba239ac5b3a6f8ed2bad.png" alt="Cover for Vega" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-16</td>
       <td>il:lo</td>
@@ -1396,7 +1419,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6937041a8185d285b9b486f274fedf5d.png" alt="Cover for Mister Mellow" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,7 +1438,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49745a7f9d5bec8463e8c84df1144e77.png" alt="Cover for Boo Boo" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1456,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/IVtKVD4bWT3IaZt8DYjnhtWqotsIl1nyA0F1MQ6Oh4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/Mjk0LTE1NDgxMTUz/ODQtMjA5OS5qcGVn.jpeg" alt="Cover for Pantropic" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1490,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 95</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 96</li>
             <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 100</li>
         </ul>
       </td>
@@ -1510,7 +1533,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 24</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 33</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 74</li>
         </ul>
       </td>
@@ -1534,7 +1557,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f502125c100a8c8a85d9151286901578.png" alt="Cover for Looking For Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,24 +1581,6 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c296b14e61cd4583ebf4dc3cea8d849.png" alt="Cover for Slide" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-17</td>
-      <td>George Clanton</td>
-      <td>Slide</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>69</td>
       <td>
           <img src="https://i.discogs.com/OrAh9k3rFOf_fh_OIGdn0h1I8GBDdV2yTBO3-Q-nkBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/NzEzLTE1NzI0ODcz/MzAtMTMyMC5qcGVn.jpeg" alt="Cover for Space Station" style="max-width:120px; height:auto;" />
@@ -1594,7 +1599,24 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c296b14e61cd4583ebf4dc3cea8d849.png" alt="Cover for Slide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-17</td>
+      <td>George Clanton</td>
+      <td>Slide</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/vUxDn60iDqSFmk0Cg80yDABKOWJWQUeFb3BtOzmlxNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIy/ODIzLTE1NjQxNDky/MzgtMjI5NC5qcGVn.jpeg" alt="Cover for S.C 02" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,7 +1654,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Ji0WxGFDaigTh9w41aB9Cy4jmWsWgCx3m-8DELBN2UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE1/MTI1LTE1NzIwNjYx/MjktMjgxOC5qcGVn.jpeg" alt="Cover for Serotonin II" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,15 +1672,15 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 10</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 78</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 91</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 31</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 85</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 93</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbbb38e3d4e05f9eb74a115b221015d9.png" alt="Cover for Manic Pixie Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,7 +1700,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/l_cVBogdIRcx7hFJqs-OFRS3X82a2BBAAcmeTlQt3Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NzU2LTE1MzMzODcx/MDUtMTQxMC5qcGVn.jpeg" alt="Cover for America Online" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1724,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/TFY6R1mXic6l7G4Z89MN5edBwioQeJRmGYqCaR_DPvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIy/NzM0LTE1NjQxNDgw/MjEtMTczOS5qcGVn.jpeg" alt="Cover for Signal Flow" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,7 +1742,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/dnmnsk_TWLumcrz_Z-2wCE8CNklOARuWXJRHOb2hxsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM0/NzY1LTE1NzgxNzIx/ODEtMTA4Ny5qcGVn.jpeg" alt="Cover for Constant" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,13 +1779,13 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 22</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 36</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/-s_5eU_fd0UbBeH7-P84DGxiNEiDVbG4lLLELQW2rm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY4/ODg3LTE2MDQ2MTgw/MDQtNTczMS5qcGVn.jpeg" alt="Cover for sunshine girl" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,17 +1826,17 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 68</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 50</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 67</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 80</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/YteaIYLqlp73jRcbC7MqwBR17EJ02ZUwLoWftOKZSaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUx/NzI0LTE2MDQzMTY3/ODUtMjczMi5qcGVn.jpeg" alt="Cover for YOU ARE ENOUGH (Caroline Rose Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,12 +1853,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 24</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a35f0bf2f5d69a4676f974022133bf.png" alt="Cover for Hey Big Eyes (George Clanton Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,14 +1876,14 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 62</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 68</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 79</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 87</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/390fcb5795ca4f6491abca7a5548c011.png" alt="Cover for beko_13" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1923,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d0108825ae7cdc28898dbdae46aba6e.png" alt="Cover for Cleanse" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,30 +1966,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/pygIRKUhznaI3jAbZnefYD9tbsWCSPPcKjf5Ev5Gqx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MDE3LTE2OTUwMDYx/NzQtNzgwMS5wbmc.jpeg" alt="Cover for 7 estrelas | Quem arrancou o Céu?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-07-28</td>
-      <td>Luiza Lian</td>
-      <td>7 estrelas | Quem arrancou o Céu?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 22</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e78ec66203caca44d4549799a5b868ab.png" alt="Cover for Ooh Rap I Ya" style="max-width:120px; height:auto;" />
       </td>
@@ -1982,14 +1981,14 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 14</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 36</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 17</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 46</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/mChBy1BY8kP413x9IfcWZtiMRil9ZM9K1-P-fGmBsSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ2/MzIxLTE3MjQzNDQz/NTktNjkxMC5qcGVn.jpeg" alt="Cover for Imaginal Disk" style="max-width:120px; height:auto;" />
       </td>
@@ -2003,13 +2002,14 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 24</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 47</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 10</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a44f9eef72359890bfa26c0cf3122316.png" alt="Cover for 200% Electronica" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,13 +2025,13 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 56</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2049,7 +2049,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>

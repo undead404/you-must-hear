@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-15T03:17:21.980Z
+date: 2025-11-15T04:04:15.061Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T04:04:15.061Z">Sat Nov 15 2025 06:04:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [chillwave]({{ "tags/chillwave" | relative_url }}) | <time datetime="2025-11-15T04:04:15.061Z">Sat Nov 15 2025 06:04:15 GMT+0200 (Eastern European Standard Time)</time> |
+| [disco]({{ "tags/disco" | relative_url }}) | <time datetime="2025-11-15T03:27:22.618Z">Sat Nov 15 2025 05:27:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [country blues]({{ "tags/country-blues" | relative_url }}) | <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage rock]({{ "tags/garage-rock" | relative_url }}) | <time datetime="2025-11-15T03:13:22.253Z">Sat Nov 15 2025 05:13:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [disco house]({{ "tags/disco-house" | relative_url }}) | <time datetime="2025-11-15T02:58:21.996Z">Sat Nov 15 2025 04:58:21 GMT+0200 (Eastern European Standard Time)</time> |
@@ -269,7 +271,6 @@ Last updated: <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21
 | [psychedelic folk]({{ "tags/psychedelic-folk" | relative_url }}) | <time datetime="2025-11-14T01:45:24.899Z">Fri Nov 14 2025 03:45:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [singer-songwriter]({{ "tags/singer-songwriter" | relative_url }}) | <time datetime="2025-11-14T01:44:55.878Z">Fri Nov 14 2025 03:44:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop rock]({{ "tags/pop-rock" | relative_url }}) | <time datetime="2025-11-14T01:44:42.210Z">Fri Nov 14 2025 03:44:42 GMT+0200 (Eastern European Standard Time)</time> |
-| [disco]({{ "tags/disco" | relative_url }}) | <time datetime="2025-11-14T01:44:33.630Z">Fri Nov 14 2025 03:44:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [europe]({{ "tags/europe" | relative_url }}) | <time datetime="2025-11-14T01:44:00.268Z">Fri Nov 14 2025 03:44:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [european]({{ "tags/european" | relative_url }}) | <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [screamo]({{ "tags/screamo" | relative_url }}) | <time datetime="2025-11-14T01:43:12.310Z">Fri Nov 14 2025 03:43:12 GMT+0200 (Eastern European Standard Time)</time> |
@@ -424,7 +425,6 @@ Last updated: <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21
 | [space rock revival]({{ "tags/space-rock-revival" | relative_url }}) | <time datetime="2025-11-11T19:35:40.006Z">Tue Nov 11 2025 21:35:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [chill house]({{ "tags/chill-house" | relative_url }}) | <time datetime="2025-11-11T19:35:14.479Z">Tue Nov 11 2025 21:35:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [big beat]({{ "tags/big-beat" | relative_url }}) | <time datetime="2025-11-11T19:34:49.819Z">Tue Nov 11 2025 21:34:49 GMT+0200 (Eastern European Standard Time)</time> |
-| [chillwave]({{ "tags/chillwave" | relative_url }}) | <time datetime="2025-11-11T19:34:18.719Z">Tue Nov 11 2025 21:34:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [oldies]({{ "tags/oldies" | relative_url }}) | <time datetime="2025-11-11T19:34:07.692Z">Tue Nov 11 2025 21:34:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental techno]({{ "tags/experimental-techno" | relative_url }}) | <time datetime="2025-11-11T19:29:24.918Z">Tue Nov 11 2025 21:29:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial metal]({{ "tags/industrial-metal" | relative_url }}) | <time datetime="2025-11-11T19:10:18.176Z">Tue Nov 11 2025 21:10:18 GMT+0200 (Eastern European Standard Time)</time> |
