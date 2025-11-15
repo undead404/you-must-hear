@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T13:39:01.814Z
+date: 2025-11-15T00:52:03.981Z
 permalink: tags/neofolk
 title: neofolk
 ---
 
 ## neofolk
 
-Last updated: <time datetime="2025-11-13T13:39:01.814Z">Thu Nov 13 2025 15:39:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T00:52:03.981Z">Sat Nov 15 2025 02:52:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
   </thead>
   <tbody>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/qxdYipIuo-ye1Xo917BGKNbEo0ucHAWpQAHW_mwBnm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM3/MS0xMzQ3ODk3OTc1/LTEzNDkuanBlZw.jpeg" alt="Cover for Dreams Less Sweet" style="max-width:120px; height:auto;" />
       </td>
@@ -43,13 +43,14 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 19</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b03f0c284454aaa8d140a7bacc4a529.png" alt="Cover for Nada!" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Death in June</td>
@@ -67,7 +68,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/xsj0xt6sdC_buK6Gl_AszyH9rQ0SqsvQB09ua36ChOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDQx/LTEzMDAyODQyMTku/anBlZw.jpeg" alt="Cover for The World That Summer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/149c5f6c9670abbe0aebcd0ad9c64126.png" alt="Cover for The World That Summer" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Death in June</td>
@@ -102,8 +103,9 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70880cf606e9be836e71edf0fa678b37.png" alt="Cover for Earth Covers Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Current 93</td>
@@ -119,7 +121,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fc535b91e6d440fb23a6eae1a52add0.png" alt="Cover for Lex Talionis" style="max-width:120px; height:auto;" />
       </td>
@@ -154,7 +156,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/LmFY9AKXKD4nvqEFeH-qcJDCHnkFEMkHLrVtZJDtwzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM0/MC0xMjUzNDcxMzE2/LmpwZWc.jpeg" alt="Cover for Music, Martinis And Misanthropy" style="max-width:120px; height:auto;" />
       </td>
@@ -167,31 +169,12 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ded60dec2676a8aaa0c4de8bbe24d5b4.png" alt="Cover for White Light From the Mouth of Infinity" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991-05-06</td>
-      <td>Swans</td>
-      <td>White Light From the Mouth of Infinity</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 6</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c56136235bab4e15858d855a0dbffd5a.png" alt="Cover for Thunder Perfect Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -224,13 +207,13 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 54</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e172e2f05b9b4749846b7c95f93b27d1.png" alt="Cover for Of Ruine Or Some Blazing Starre" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +232,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>1994</td>
@@ -264,7 +247,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 56</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 60</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 90</li>
         </ul>
       </td>
@@ -287,7 +270,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/C7E35vyhmCfvKUKiPIhARhvUhsml94niqQZa0FIWixY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMw/Mi0xMDk5MzIwNTkx/LmpwZw.jpeg" alt="Cover for In the Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -324,7 +307,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1995-08</td>
@@ -344,7 +327,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2602468644374febcf76f87bddacdcfe.png" alt="Cover for All The Pretty Little Horses (The Inmost Light)" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +345,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f3071be2f834907e211218f32d2783d.png" alt="Cover for Kveldssanger" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +362,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/389717a8c141a26bbae086b05b8675a5.png" alt="Cover for The Winds That Sang of Midgard&#39;s Fate" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +381,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ITgLmX7nzOzuPmhu5R1zrA5qmzTnRt7eNPVBI0Upq2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjUy/LTExNzIwMDY3NDIu/anBlZw.jpeg" alt="Cover for Blót: Sacrifice in Sweden" style="max-width:120px; height:auto;" />
       </td>
@@ -416,7 +399,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1999</td>
@@ -431,13 +414,13 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 71</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 75</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/G83Lm6cNTMTaX6gHwxjxaNaLD3gpcwQrcx9b0l6E8ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg2/MTEtMTY0OTc1NzYx/Ni0yNjEwLmpwZWc.jpeg" alt="Cover for Where At Night The Wood Grouse" style="max-width:120px; height:auto;" />
       </td>
@@ -453,12 +436,12 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/989b4613ea93411098fd08833cb56d8f.png" alt="Cover for Songs For The Will" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +459,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Q4UyDZYYAtuGeb_ATlyoyuoZYGHiolqq4_LzJBkUu7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDcy/MTYtMTQ1NDEyODg5/Ni0xOTUwLmpwZWc.jpeg" alt="Cover for Nighttime Nightrhymes" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +477,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6e67a310712a250301a93b8941d7cef.png" alt="Cover for Where at Night the Wood Grouse Plays" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +493,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +517,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9a5952ba40e447d803eac334b1fae99.png" alt="Cover for Volven" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +537,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9672590b62629cd84dcf656d364dc293.png" alt="Cover for Sleep Has His House" style="max-width:120px; height:auto;" />
       </td>
@@ -573,7 +556,24 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Nest</td>
+      <td>Fabled Lore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1d5186aa71db73605eb56fed764db4d.png" alt="Cover for Zaubersprüche" style="max-width:120px; height:auto;" />
       </td>
@@ -592,7 +592,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2001-05-28</td>
@@ -604,12 +604,12 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0dfd1269a7740d3a7593343008d36d5.png" alt="Cover for Hidden Stream" style="max-width:120px; height:auto;" />
       </td>
@@ -628,7 +628,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2001-11-23</td>
@@ -642,13 +642,13 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 66</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 70</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/tUg-R2_-TjqNtrcWM8vxxhD4saQHjKCMNtrtT3Y955g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM2/NzItMTIxMzk2ODY3/NS5qcGVn.jpeg" alt="Cover for Hazel Steps Throug a Weathered Home" style="max-width:120px; height:auto;" />
       </td>
@@ -665,14 +665,14 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 56</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 58</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 62</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 70</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c348c8be1c0471ab0edfaa0c365bee7.png" alt="Cover for Hazel Steps through a Weathered Home" style="max-width:120px; height:auto;" />
       </td>
@@ -690,14 +690,14 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
         <ul>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 8</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 68</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 72</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 77</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2002</td>
@@ -714,7 +714,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd0c229d99e44037c03456f178fc8e56.png" alt="Cover for Weiland" style="max-width:120px; height:auto;" />
       </td>
@@ -730,12 +730,12 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 77</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2003</td>
@@ -774,7 +774,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9b383fe73d4675c6df56d3ac180634.png" alt="Cover for Erde" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +792,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/367267fe527b4e8a89231131062a4a0b.png" alt="Cover for Forlatt" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +811,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2004-10-29</td>
@@ -828,7 +828,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/mO81v7p3GoL8esZ0LNDCh8GsMkqfgCO6lGMNo6PeP90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjAw/Ny0xMjUzODk4NTIx/LmpwZWc.jpeg" alt="Cover for Armageddon Gigolo&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -863,13 +863,13 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 9</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 13</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 17</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2006-06-01</td>
@@ -888,7 +888,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2006-06-23</td>
@@ -906,7 +906,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2006-09-04</td>
@@ -926,7 +926,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2006-10-16</td>
@@ -939,8 +939,8 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 4</li>
             <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 5</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 8</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 15</li>
         </ul>
       </td>
@@ -963,7 +963,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2006-10</td>
@@ -983,7 +983,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/mMBCeLbo8ay-ysKkgEbonY3UPVw-mN0fcCmZIlfCKaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjMz/ODAtMTI4NTQ2ODIz/NS5qcGVn.jpeg" alt="Cover for A Retrospective..." style="max-width:120px; height:auto;" />
       </td>
@@ -1003,7 +1003,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/YHUZD2S_cGUszL810poAHbyaRXBRZ6R3wnlGFBEBngU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTA2/OC0xNjE0MDEzODUy/LTE3OTEuanBlZw.jpeg" alt="Cover for Retrospective" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1040,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/EgYRR_YgImaKlxKblO0P07GPs-9OD120-rb1L_DeyG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU4/MTUtMTE5ODQyODkw/Ny5qcGVn.jpeg" alt="Cover for All the Pretty Little Horses" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1059,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2007-02-27</td>
@@ -1073,12 +1073,12 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 61</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/042a64a50b164c86ccc66826f6944b79.png" alt="Cover for The Inmost Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1123,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2007-04</td>
@@ -1163,7 +1163,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/I36uI4hxkwjEER8q0N5IEVZxBOA7QERoMnKf65mD-6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI3/OTgtMTQzMzkwODA3/MC01NzEzLmpwZWc.jpeg" alt="Cover for Jordansfrost" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1181,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/I36uI4hxkwjEER8q0N5IEVZxBOA7QERoMnKf65mD-6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI3/OTgtMTQzMzkwODA3/MC01NzEzLmpwZWc.jpeg" alt="Cover for :Jordansfrost:" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1218,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7a8e050d7511346c8882bffa8ce3314.png" alt="Cover for The Rule Of Thirds" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,7 +1236,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2008-04-02</td>
@@ -1255,7 +1255,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/217a034e5e5c48d291320a81078fd274.png" alt="Cover for In Luft geritzt" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1273,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83ac3658744bb24c698cd92154cad40a.png" alt="Cover for Runaljod - gap var Ginnunga" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,12 +1287,11 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 94</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2009-05-15</td>
@@ -1311,7 +1310,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdc2919ec23f416ea61eb68a87e9c1f8.png" alt="Cover for Árstíðir" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1326,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 28</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1348,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2009-10-23</td>
@@ -1364,13 +1363,13 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 36</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 38</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-10</td>
@@ -1389,7 +1388,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2009-11-27</td>
@@ -1406,7 +1405,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8e2444db81517abd8d6383cceba9f55.png" alt="Cover for Ins Dunkle Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,7 +1423,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a2e6b6e22b087ae60166b4f0efe9bc8.png" alt="Cover for Rotten Roma Casino" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,7 +1441,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2010-05-14</td>
@@ -1459,7 +1458,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2010-10-04</td>
@@ -1474,13 +1473,13 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 65</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 93</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 68</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0670aa02bd4d41c7abb9f3129d62b812.png" alt="Cover for Musick and Poëtree" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,7 +1498,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2011-09-16</td>
@@ -1513,7 +1512,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 53</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1537,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8d13845298a45038a383c57f4ee4545.png" alt="Cover for The Snow Bunker Tapes" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1577,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/936ec74dd3f84699c6eacec80908fb62.png" alt="Cover for Palingenesis" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,7 +1592,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 32</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1615,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2014-09</td>
@@ -1641,7 +1640,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c709ac873923e91f58b4f57928b9fb8c.png" alt="Cover for Ofnir" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1658,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceee6d07e9b6585b4f049503ff896c20.png" alt="Cover for Snow Leopard Messiah" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,12 +1698,12 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 17</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ad5a184401dea0aa3ad4b5ff6a0c6a7.png" alt="Cover for The Hyperion Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,7 +1718,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 82</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1781,7 +1780,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/b2oPNpXdzSTCb4epnCH3ln9xjXvs-nOENEszrtasfIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk3/NzU0LTE1MjI1NjUy/NzAtMTEyMy5qcGVn.jpeg" alt="Cover for Herja" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,7 +1800,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
         <ul>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 71</li>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 93</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 94</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 97</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 98</li>
         </ul>
       </td>
@@ -1820,7 +1819,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 55</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 59</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 77</li>
         </ul>
       </td>
@@ -1865,7 +1864,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf774f5aafd919d28bc676d21792b0c6.png" alt="Cover for leaving meaning." style="max-width:120px; height:auto;" />
       </td>
@@ -1883,7 +1882,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/iEEbjYwoRnP9yO8hJMoDZUjBjYR2iL-FlUJ93OlRo4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU2/NTM2LTE1OTgwNjk5/MjEtOTU0Mi5qcGVn.jpeg" alt="Cover for The Lone Furrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1900,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/S3n8kNPahqW-vVtoRw70LxayaXJtZ7FFtdgvDmGkqWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDM0/Nzg5LTE2MTEyNTE0/NDMtMTUyOS5qcGVn.jpeg" alt="Cover for Emptiness Emptiness Emptiness" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,12 +1915,12 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -1938,7 +1937,7 @@ Neofolk blends traditional folk instrumentation with post-industrial and experim
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9302057162f648b198026a6df02d7b2e.png" alt="Cover for Drainland" style="max-width:120px; height:auto;" />
       </td>

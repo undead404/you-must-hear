@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T05:00:57.358Z
+date: 2025-11-15T00:58:59.680Z
 permalink: tags/ambient-techno
 title: ambient techno
 ---
 
 ## ambient techno
 
-Last updated: <time datetime="2025-11-11T05:00:57.358Z">Tue Nov 11 2025 07:00:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T00:58:59.680Z">Sat Nov 15 2025 02:58:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
   </thead>
   <tbody>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe6b52f7bb54ba0cb8ed12073b3425e.png" alt="Cover for Лёгкое дело холод" style="max-width:120px; height:auto;" />
       </td>
@@ -47,14 +47,14 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 66</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 73</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 74</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/yy2TTAj5fTgvNroBF37mdZ6hEcLLSV68QOzEejuebAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE1/Ni0xNTQ2OTk0MzUz/LTI2MDcuanBlZw.jpeg" alt="Cover for Bhutto" style="max-width:120px; height:auto;" />
       </td>
@@ -80,7 +80,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/jbBGviIEg9IS7gheY7_YXJqIa14GzPpEYxDO7CL6mqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTgx/MDctMTI3NjU0MDU0/NS5qcGVn.jpeg" alt="Cover for Selected Ambient Works 85–92" style="max-width:120px; height:auto;" />
       </td>
@@ -113,14 +113,14 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 65</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 100</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/bN2ZuLeO2zCkG0kYyBU8aDc16Q_ZUPPY2I9dv1ZX1R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc4/MC0xMzU2ODYxODky/LTI2NzUuanBlZw.jpeg" alt="Cover for Electro-Soma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae3a4d70b0c7ee9b02c4e3f0887a0753.png" alt="Cover for Electro-Soma" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-03-29</td>
       <td>B12</td>
@@ -137,7 +137,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1993-09</td>
@@ -155,7 +155,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da3cebefa09d95e2916b0d5dc0af5133.png" alt="Cover for Seti Project" style="max-width:120px; height:auto;" />
       </td>
@@ -178,7 +178,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td>1994-04-02</td>
@@ -197,7 +197,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d509b1a9eed899c492c9f99b5032232f.png" alt="Cover for Amber" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +214,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>1994-12</td>
@@ -233,13 +233,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 14</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 16</li>
             <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/505434fb947644dbc4c4672d82a2f204.png" alt="Cover for ...I Care Because You Do" style="max-width:120px; height:auto;" />
       </td>
@@ -253,13 +253,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 67</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 68</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f946b8fac2391acadff5b1fd49d48857.png" alt="Cover for BCD" style="max-width:120px; height:auto;" />
       </td>
@@ -273,12 +273,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 91</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2abcde71b3a4c4c9fbc6ab282eb49f6.png" alt="Cover for I Care Because You Do" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +298,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62c1051bbfa76d491944a8b6a73db0ba.png" alt="Cover for Tri Repetae" style="max-width:120px; height:auto;" />
       </td>
@@ -312,11 +312,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1996</td>
@@ -334,7 +335,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0894693b6f9129f23c1c3c84c82741e3.png" alt="Cover for Time Tourist" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +356,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3db2c40a4f112ab469ce394b6af5abaf.png" alt="Cover for Return Of Black September" style="max-width:120px; height:auto;" />
       </td>
@@ -384,7 +385,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1996-11-29</td>
@@ -401,7 +402,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f5dcf6f899faab5723aa25feb177f0.png" alt="Cover for Hi Scores" style="max-width:120px; height:auto;" />
       </td>
@@ -414,14 +415,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 41</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 46</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 89</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/GFSc_qXq40T397ZXXyepdU05k4y07fWrThmFgbkV4KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mi0x/Njk2NzkxMzU5LTU5/OTQuanBlZw.jpeg" alt="Cover for Hongkong" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +440,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/OZLyYcwO6Luo6DBVON8KpLYBTw2zFqzxbmpjYv0kFFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjA0/LTExNTg3OTMwMjYu/anBlZw.jpeg" alt="Cover for Olento" style="max-width:120px; height:auto;" />
       </td>
@@ -459,12 +458,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 90</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>1997-11</td>
@@ -484,7 +483,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e5003e22ed253ae1fbd185342a96d60.png" alt="Cover for Halica: Bliss Out v.11" style="max-width:120px; height:auto;" />
       </td>
@@ -493,8 +492,6 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       <td>Halica: Bliss Out v.11</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
         </ul>
       </td>
       <td>
@@ -503,7 +500,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1903cb0c258a42e9cd46c7a04ec8b220.png" alt="Cover for Unrest" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +520,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
       </td>
       <td>1998-03</td>
@@ -542,7 +539,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/B_AbqNtzXDhhiX7yjUTJT2JG7uUCff7o5SLCsxe4Sbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYx/OC0xMzI5Njk5NDA4/LmpwZWc.jpeg" alt="Cover for Rushes" style="max-width:120px; height:auto;" />
       </td>
@@ -561,12 +558,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/m33xeU7lUEcMeTAGfJY3LiGoiJTQB0kW0uPY3tPVTKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjI1/LTExNjQ5MjQzNDcu/anBlZw.jpeg" alt="Cover for Koenigsforst" style="max-width:120px; height:auto;" />
       </td>
@@ -608,9 +605,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/5kuy8sx1DZ3YEpgUjhqSoV1kavlcI21u9w8ceZV6RRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg3/NTItMTI0MDgzMDMy/OS5qcGVn.jpeg" alt="Cover for Warp20 (Chosen)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3273cbd6a0ce4ddf84746a416e3ee073.png" alt="Cover for Warp20 (Chosen)" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-07</td>
       <td>Boards of Canada</td>
@@ -629,12 +626,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 94</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54a773f795103312082e904f78628506.png" alt="Cover for Tendency" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +660,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/z0AssTKkam7atCDxYnbBaY5E7CV4rDlliTh-yZ5Pxdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjk1/MC0xMzUxOTAwNDE0/LTcyNjIuanBlZw.jpeg" alt="Cover for Легкое Дело Холод" style="max-width:120px; height:auto;" />
       </td>
@@ -681,14 +678,14 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 63</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 67</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 68</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/BKOg46TYj5G320bk-ZAIZfLWunoqbncSY8BsWeAHias/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDct/MTUwNTE2NDUyMS0z/NTc1LmpwZWc.jpeg" alt="Cover for Altogether" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +706,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/730c05c9605a41f29b5f34fe80b20347.png" alt="Cover for Loop-Finding-Jazz-Records" style="max-width:120px; height:auto;" />
       </td>
@@ -724,12 +721,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 78</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 90</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a6ad97384664f2ebb095782a5280d37.png" alt="Cover for Black Buildings" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +749,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/kiReNwcP-cI7kTgSBccOo8GsFbLdfqZFbTy5aG3i574/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjQz/LTEyNDczNDA3OTgu/anBlZw.jpeg" alt="Cover for In Moll" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +770,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85ba071f20886c85503f1d06f3bd1a46.png" alt="Cover for Digeridoo" style="max-width:120px; height:auto;" />
       </td>
@@ -787,13 +784,11 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 19</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/cxtBkVXAGi9m2ioT4To5j_ZZElI4bqPOq9Y0q9yEznA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQw/LTE2MjMyOTk5MzEt/NjQ1My5qcGVn.jpeg" alt="Cover for ship-scope" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +808,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0c1511b79b6a4a86d55fdd36ea9b3b5.png" alt="Cover for Geogaddi" style="max-width:120px; height:auto;" />
       </td>
@@ -826,13 +821,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 34</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 94</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/chJay8moTUSyQvvSVIaoz64vPoP-6rDetUOomStaN2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE4/LTEyMDkzMzAyNjYu/anBlZw.jpeg" alt="Cover for Jump Leads" style="max-width:120px; height:auto;" />
       </td>
@@ -856,12 +850,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2002-04-08</td>
@@ -888,7 +882,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2002-11</td>
@@ -907,7 +901,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2003</td>
@@ -923,7 +917,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
       </td>
       <td>2003-03-11</td>
@@ -942,7 +936,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/6RekagQdZDIv5QqBwpzz4wuLe3uCnSd4_iUDG489Pk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYx/ODItMTE4ODY3NDQ1/NS5qcGVn.jpeg" alt="Cover for Due in Color" style="max-width:120px; height:auto;" />
       </td>
@@ -961,9 +955,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/Ki517wcHygzYWIa0PZcvTYL3Yn02SuyQx6-pnC9Gv2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/MjkyLTE2MjM4ODA0/NzktNTY4Ni5qcGVn.jpeg" alt="Cover for Cereal Code" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9ed8c5e8dcb638ae6e6a11539a0367c.png" alt="Cover for Cereal Code" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-19</td>
       <td>DISASTERTRON</td>
@@ -985,7 +979,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/wCSObYwuL1kjQ2dL9AfJ8NL37MK15fmsnYSG_rAvZiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTM3/My0xMzk0NjU1OTgx/LTIyNTYuanBlZw.jpeg" alt="Cover for Alaska Melting" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +998,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/6yvVJFdNWFALlKQOuYv1gKBCFEh1iEmA4da7f1X5N_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIx/NzAtMTI0MjgxMTM4/Mi5qcGVn.jpeg" alt="Cover for Hongkong Remastered" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,8 +1018,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58fbc08cc8f408c2120508696bc208a8.png" alt="Cover for Flight Of The Urubus" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09</td>
       <td>Entheogenic</td>
@@ -1039,11 +1034,11 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 2</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
             <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 23</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 27</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 26</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 70</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
         </ul>
@@ -1068,7 +1063,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/LflWDs4Wr3hfNeJDTbgxihUtihob0VIq1-KNnRQm00Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQx/MzUtMTI0NDUwMzgz/OC5qcGVn.jpeg" alt="Cover for Arrivals" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1093,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-07-27</td>
@@ -1117,7 +1112,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/kTIMKNBhK5NoA-77s1dSfRTIN4w_tzRTGDZSMFOa60E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMy/NTYtMTU3ODc1MzM4/Ny00MDkxLmpwZWc.jpeg" alt="Cover for Ecstasy &amp; Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1131,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/YAW80fQ5f-AhDGg96lcZsCoI8UnyQAp9M6LDGpZB1co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY3/MDQtMTMwMDk5MjIz/Ny5qcGVn.jpeg" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,13 +1150,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 81</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 82</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-07</td>
@@ -1184,7 +1179,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2010-10-22</td>
@@ -1204,7 +1199,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e2c08505d55150d573876654ab3fffc.png" alt="Cover for Magda" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1214,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1240,13 +1235,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 5</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 70</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 13</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/BACcJ3AWbevjAz7EssrK7hIEIZ1CkroCdx5zUDz8ldE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzMy/MTAtMTQzNzQ4MjIx/MC04MTc3LmpwZWc.jpeg" alt="Cover for The Messenger" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,9 +1259,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/CiNh-Fgl69n-Sv4Hy3zjrVSlXJmLxU9_3ERyjWxR6HY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc2/MzktMTMyOTk5NjMz/MS5qcGVn.jpeg" alt="Cover for Parastrophics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a2a8f3d116840248807b5ff43462224.png" alt="Cover for Parastrophics" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-24</td>
       <td>Mouse on Mars</td>
@@ -1286,13 +1281,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/GE3KgLxgQtQYTcgMUnneKJWHJ38yVSHmPq0m0hn07Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQy/MTUtMTM1NDAzNjMw/Ny0xNzY5LmpwZWc.jpeg" alt="Cover for Voices From The Lake" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1305,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/B_QfGKwLiaEQ5qBw6wthu3Ve5yQ1teY-vev75688YhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQw/NTUtMTM0MDk2OTY0/My01Nzc4LmpwZWc.jpeg" alt="Cover for Biophilia Remix Series II" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,12 +1325,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 51</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2012-05-15</td>
@@ -1353,7 +1348,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2012-06-11</td>
@@ -1370,13 +1365,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 65</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 66</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a20fb20cde0f417c8ece61d381a9c214.png" alt="Cover for Luxury Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1392,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/RwTCAAehDa0RirLX5m7OLR5mrV1wcDHGwx16C9yySxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjk5/NDgtMTM2MDI2MzM3/MS0xNjY3LmpwZWc.jpeg" alt="Cover for Struck EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,12 +1407,30 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 1</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/-e5YCBF4h_Zx-fpIjwvb8rTfBJUu_QJDbGFRPHO9_3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTQx/MjctMTQ1OTE3NjQ5/MC03MTA0LmpwZWc.jpeg" alt="Cover for Misantropen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-07</td>
+      <td>Varg</td>
+      <td>Misantropen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/JEPiY0NYLjxPMCy5OIfvM3PbbUVavVn_olzPdgqfOVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODIx/NzgtMTM3NTM1MDMw/NC0zNjQ1LmpwZWc.jpeg" alt="Cover for River Red Gum" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1451,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cc027ad35e31d6928624918707f3b84.png" alt="Cover for Ibb &amp; Obb (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1472,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/703f200a284a4b4bb3402e72c440e403.png" alt="Cover for Born in Tokyo" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,7 +1491,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f23e882e58fc041aecf93872081bda.png" alt="Cover for Deathvox" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,12 +1531,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 83</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/W78_r7e4jTSLANyOUJGUc73bW_PlzztQeRlZFevnKW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjQ4/NjItMTQxNzY5MTk4/Ny02NDM5LmpwZWc.jpeg" alt="Cover for Fading Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,7 +1556,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/2_cai7kAINPqTjs8PIXqXEdlJ673s3YsBNEtVoM7Fjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTE3/ODMtMTQzMzUyNjQx/NS02NTE1LmpwZWc.jpeg" alt="Cover for Much Less Normal" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1576,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/mJBV1t4qlLXKLGPl_OB3ezgkKKo-J9Qv9M1LMjo3svc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTg1/MjktMTY3NzYyMzA3/OS00NTc4LmpwZWc.jpeg" alt="Cover for Live At MAXXI" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,9 +1596,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/VRtRI77wsFj00vJbZD363KxMzbqhdOR0VX5E6r9qCiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDU0/MjItMTQzMjQzOTMz/NC04MDQ1LmpwZWc.jpeg" alt="Cover for For" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71c33b4549c6f0860352c79952509860.png" alt="Cover for For" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05</td>
       <td>Applescal</td>
@@ -1607,7 +1620,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/6P_UjOge799EjvNu3b9y_aj6auCf75AOE5DxVgMSEgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTQ3/NzMtMTQzNjE4MTYx/NS02NzYxLmpwZWc.jpeg" alt="Cover for June" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1640,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f71de1d7c2ddfb2dff35f281b5098f5.png" alt="Cover for In Situ" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1665,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/c72OG_lf7NIah5EGcYfqjxfCibz5O6PD51LmhGY80GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njgw/MjAtMTQ0NDIwMjA1/Ny04MTkxLmpwZWc.jpeg" alt="Cover for A Shell of Speed" style="max-width:120px; height:auto;" />
       </td>
@@ -1689,36 +1702,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 4</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 20</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 21</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/979d4f3aef0d99e15bc6544e01e81497.png" alt="Cover for Kelly Lee Owens" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-03-24</td>
-      <td>Kelly Lee Owens</td>
-      <td>Kelly Lee Owens</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d737f20f08a23edb604522461210406.png" alt="Cover for Abysma" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,12 +1726,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 80</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/G0jDEQwfEGWex9SWy3gM2iqrol64gostQC1tzZKhQsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU2/NjU2LTE0OTI2MDc0/NzgtNjU0MS5qcGVn.jpeg" alt="Cover for Narkopop" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,9 +1751,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/5-Z8IfhCbWyOWMiaJTT5eGmwbh36GDA7TPG9bbc2F_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk4/MTA5LTE1MDcwMjQ4/OTktOTkzMi5qcGVn.jpeg" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b950fd174a2290ee06969c1e34f45da.png" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>IAMX</td>
@@ -1785,7 +1775,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 11</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 13</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
             <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 88</li>
@@ -1795,7 +1785,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/bH2OmejU-MISQ909St33o1EDM00Le_tvtwX2IgV90Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/NzI2LTE2NjQ1MzM0/NDAtNTY0MC5qcGVn.jpeg" alt="Cover for Functional Designs" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1810,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/YMyXzKwsgOtHaFKjb61BhyDX_IY8wWVAQfJ3FVSwW6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkx/NTM2LTE1MjQyMzA5/MjUtODYzNC5qcGVn.jpeg" alt="Cover for Projector" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1828,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/BMEavbD1aZLm03FnPLVHcqPscXBBUqCAgW9e7-tJk3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/ODQ3LTE1NTI4Njg5/NzYtMTc0MS5qcGVn.jpeg" alt="Cover for Concussion" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1847,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/pQXXX3Rcu-MLuYn-ZfLGgt968q0nPWVvz2yCS-uMz4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcz/MjExLTE1NTY3NTU5/MTMtODE4NC5qcGVn.jpeg" alt="Cover for Feld &#x2F; Anthracite" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1865,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Y_PXXotEYr_VQOynuhgUtvJfNBUt8of8jIx7UhG5IX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDcy/NjQtMTQ5NzY5Nzg2/MC0xNTM5LmpwZWc.jpeg" alt="Cover for Outer Edges Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1883,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/bzfeva1gW-HWqwIJ2xhqdgQoUYtaLdW4ajG0SmRh8Vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/Mjc1LTE1ODk4OTI5/NDktMjk0Mi5qcGVn.jpeg" alt="Cover for Dream Residue" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,9 +1905,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/j22Bx4vF6z6INRH_D58N0ruJ-OBqLEWhnoB5Xdbs-9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ0/NDU2LTE1OTg2OTEx/MDctOTg4MC5qcGVn.jpeg" alt="Cover for Inner Song" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f01cab908cda8b1513224021a9c59cec.png" alt="Cover for Inner Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-28</td>
       <td>Kelly Lee Owens</td>
@@ -1930,13 +1920,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 17</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a2cc9ae52d15182e29f69a72be587f.png" alt="Cover for Cast" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,7 +1948,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/m33xeU7lUEcMeTAGfJY3LiGoiJTQB0kW0uPY3tPVTKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjI1/LTExNjQ5MjQzNDcu/anBlZw.jpeg" alt="Cover for Konigsforst" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,7 +1968,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be90b51be14bd34fd119f5d76c57139.png" alt="Cover for Halica: Bliss Out, Vol. 11 (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,7 +1985,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/16-i9_b7Vggy-nV2IlyXD36lgYCpSYfs66e9-RLAUA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM2/ODU2LTE2NDgyMDEy/NzYtNDQ3My5qcGVn.jpeg" alt="Cover for Remember Rainbow Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,7 +2006,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/y_5A3sqGixdhuvoUBq6bZ8EczCrh1Ji4XqIczaSwRYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEw/NzQzLTE2NTU1MTgz/MDItODQ0Ny5qcGVn.jpeg" alt="Cover for i believe the world would be a better place without you" style="max-width:120px; height:auto;" />
       </td>
@@ -2069,7 +2059,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/tj2GhEvWeH1cZd6bHkPLX-oX_l_OQSd9gAXwkGaTasU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzEy/ODMzLTE2ODExMzM0/NDUtMzg2Mi5qcGVn.jpeg" alt="Cover for The Final Nail In The Coffin" style="max-width:120px; height:auto;" />
       </td>
@@ -2089,7 +2079,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/jtyxpug9qSYHS8V0NsytgFwOTdSwWgQC5awRofzAuc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjMz/MzE5LTE2ODU0NDM0/MDctNDM1MS5qcGVn.jpeg" alt="Cover for A Part of You in Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -2109,7 +2099,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2130,14 +2120,14 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 28</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 29</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 32</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 53</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d94a7304527baab80ca568303281c65e.png" alt="Cover for Tango N&#39;Vectif" style="max-width:120px; height:auto;" />
       </td>
@@ -2156,12 +2146,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8ddd205d3a72c6a07e9cfc2b44a810.png" alt="Cover for Liumin" style="max-width:120px; height:auto;" />
       </td>
