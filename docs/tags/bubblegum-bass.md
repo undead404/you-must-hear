@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:51:35.389Z
+date: 2025-11-14T21:00:02.245Z
 permalink: tags/bubblegum-bass
 title: bubblegum bass
 ---
 
 ## bubblegum bass
 
-Last updated: <time datetime="2025-11-11T03:51:35.389Z">Tue Nov 11 2025 05:51:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T21:00:02.245Z">Fri Nov 14 2025 23:00:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a65728272e8a3d45f7c5dbb6fbaeded.png" alt="Cover for Sophie" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbde398fc2b55a26cfca92959734bbd2.png" alt="Cover for L.O.V.E." style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a10429419ecb08d1dd7d65164682a77.png" alt="Cover for Elle" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ZMNXnLNJVzhW2EHjhetGmmIoLNqRzNn0TGu9kez4Uag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTkw/Mi0xMTYwMTI4MjEz/LmpwZWc.jpeg" alt="Cover for Ponyboy" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/ZMNXnLNJVzhW2EHjhetGmmIoLNqRzNn0TGu9kez4Uag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTkw/Mi0xMTYwMTI4MjEz/LmpwZWc.jpeg" alt="Cover for Faceshopping" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0df5af05bb8ff1872c0f2ad016d1ed28.png" alt="Cover for Msmsmsm" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd9b25b73e6236b763fad636fcb01502.png" alt="Cover for Superstar" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fed7aac103ad2ed2c9a6f88e9fa1d4b.png" alt="Cover for Lemonade" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +232,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d402131798b1d07c32baa6e589397c00.png" alt="Cover for Just Like We Never Said Goodbye" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/l1VY_ZFM-RFKVi8qksEByTCEvEpgjY1ARTR5QwtbB-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjQ5/NDktMTM5NDE4NjYw/Ny02MTgyLmpwZWc.jpeg" alt="Cover for Bipp &#x2F; Elle - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -275,7 +275,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ZMNXnLNJVzhW2EHjhetGmmIoLNqRzNn0TGu9kez4Uag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTkw/Mi0xMTYwMTI4MjEz/LmpwZWc.jpeg" alt="Cover for Product" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +294,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/KVDMWYwfbywmWzuIQZ8OQAV92SZz0VYx1ljl-eanOAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk3/OTUtMTY5NDk3NDc3/OS04MTEyLmpwZWc.jpeg" alt="Cover for It&#39;s Okay To Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -337,13 +337,13 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 13</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 15</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 62</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 89</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 91</li>
         </ul>
       </td>
@@ -373,21 +373,21 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 4</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 43</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 38</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 44</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 56</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 87</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/IqjGVSgnk8UI6Y5d2dxu9rNjjvQEI-O7BvJ4xyeeQt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/NTg0LTE1NzI0Mjc0/ODgtNzU2MC5qcGVn.jpeg" alt="Cover for Apple Tree (Georgia Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -411,13 +411,13 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 29</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 35</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 66</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/lmxT8aEFZsF_7hm0i815SgDrjOaPZz9KBzspRRWWVWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAx/NTcwLTE1MzQ1Mzc5/MjItOTUyOC5qcGVn.jpeg" alt="Cover for Forgotten Love (Claptone Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -440,15 +440,16 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 6</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 32</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 43</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 69</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/7cvgTQD0WYRRsPvl8lRMuu1c5H8QpVP5ZAJm7eAZvxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQx/MTUzLTE2MzAyNTc2/NTQtMjc5NS5qcGVn.jpeg" alt="Cover for Cure For Me (Vintage Culture Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -471,10 +472,10 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 8</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 31</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 9</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 13</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 44</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 70</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 84</li>
         </ul>
       </td>
@@ -504,15 +505,15 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 8</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 18</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 31</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 82</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 86</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 93</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 95</li>
         </ul>
       </td>
@@ -554,24 +555,24 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 4</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 15</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 96</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
@@ -608,17 +609,18 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 17</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 6</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 70</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
         </ul>
@@ -655,18 +657,18 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 14</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 12</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 55</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
         </ul>
@@ -703,19 +705,20 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 11</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 79</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -746,15 +749,15 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 9</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 15</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 13</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 26</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 30</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 92</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 94</li>
         </ul>
       </td>
@@ -784,15 +787,15 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 5</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 28</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 35</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 35</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 41</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 90</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 95</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 96</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 97</li>
         </ul>
       </td>
@@ -829,22 +832,22 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 2</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 38</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 53</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 55</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -873,12 +876,12 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 46</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 64</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 64</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 79</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 83</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 86</li>
         </ul>
       </td>
@@ -940,7 +943,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a43f8fc4ab6ac2d06bf2af610c55e8.png" alt="Cover for Amygdala - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -960,16 +963,16 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 20</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 25</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 32</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 25</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 34</li>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 75</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>2013-06-17</td>
@@ -986,7 +989,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/_dHR7m6TweAdO-zwEXKNpaSfS5dHoMbOEQTcEgOq8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjI1/NTktMTQxMDA5ODIz/OC01MjU3LmpwZWc.jpeg" alt="Cover for Be Your USA" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,26 +1008,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1da55693cc6e1340d1d403b4a8c55680.png" alt="Cover for Intro Bonito" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-09-30</td>
-      <td>Kero Kero Bonito</td>
-      <td>Intro Bonito</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-10-30</td>
@@ -1041,7 +1025,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21cda156fc674328c3a367b08949f08b.png" alt="Cover for Lemonade &#x2F; Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1043,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6dd1a6d14ae697297656e80cab7a80d.png" alt="Cover for Lemonade &#x2F; Hard - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,13 +1077,13 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 74</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51e2ec1d1b914c2acca66a79b11b16b1.png" alt="Cover for Every Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,9 +1101,9 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/UqArQwPxtF6aGDsKIq7dr_v-pxDfzRpNzjAH08oJ4nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc4/Njg1LTE0OTYyOTM3/NjMtODk1MC5qcGVn.jpeg" alt="Cover for Broken Flowers - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2ea08e105d21377a645309c3e4718f3.png" alt="Cover for Broken Flowers - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Danny L Harle</td>
@@ -1152,24 +1136,24 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 40</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 57</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 59</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 32</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 60</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 77</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db4976f282156495c3eaa3818d587d7d.png" alt="Cover for Chinese Nü Yr" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,15 +1174,15 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 22</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 35</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 24</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 93</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3adad5c7fe4194f8ee4d9fb9f0e4707e.png" alt="Cover for Hi" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,27 +1230,27 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 7</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 18</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 20</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 32</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78cb63b6e87d9d3a998bdfedcb1e002d.png" alt="Cover for Good Luck (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,13 +1268,13 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 36</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 47</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 39</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/obOxMUlfeUFrC-ZXFwhAS3tsZTjKVZVwytOvHmeEHEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQ4/MTU2LTE2NTU4MjM1/NzEtOTM2OS5qcGVn.jpeg" alt="Cover for Vroom Vroom" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,14 +1318,14 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 22</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 23</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dab19fdb85288ae3dffc481d904eaaf.png" alt="Cover for Superstar" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1346,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a623a8522b352082f51711621409ebd6.png" alt="Cover for AYESHA.FM" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,13 +1369,13 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
         <ul>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 75</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 77</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 86</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 87</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd48cc162f573be97b1619e826adb1e.png" alt="Cover for Fade Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,6 +1385,27 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dd8f66b6418dc5b980de5c38f511ff3.png" alt="Cover for Call Him a Doctor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-25</td>
+      <td>GFOTY</td>
+      <td>Call Him a Doctor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
@@ -1424,7 +1429,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 3</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 15</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 92</li>
         </ul>
@@ -1465,6 +1470,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1493,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1450983bca415e6773bac056d5b5a709.png" alt="Cover for 1UL" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,7 +1513,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/E-wcVdKiCc80lFYquH--x8BU4i-HYSVkKWSFsz16tSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY5/MjI0LTE0OTYxMjQ2/OTAtMjIwNC5qcGVn.jpeg" alt="Cover for 1UL EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,16 +1550,16 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 53</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 54</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 69</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 72</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 75</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 97</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5cf2d1bb1f9545c9e822eb5771ecdcd.png" alt="Cover for GFOTYBUCKS" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,8 +1590,8 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 66</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 77</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 75</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 83</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 92</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
@@ -1596,7 +1602,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
     <tr>
       <td>94</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/320d3b71754ef43812828bea5e1af996.png" alt="Cover for Oil of Every Pearl&#39;s Un-Insides" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b482e95ee228abbaaccd0d5a31b81ad2.png" alt="Cover for Oil of Every Pearl&#39;s Un-Insides" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-15</td>
       <td>Sophie</td>
@@ -1608,13 +1614,14 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/RDctyKJS_CAeaKIBrwuM0p_hVfSPfzaBYcsSrSPSpgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/MDgxLTE1MzA2MjU5/ODMtNjkxOS5qcGVn.jpeg" alt="Cover for Blinks" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1637,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1665,27 +1672,27 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 1</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 41</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 56</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 49</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/qZjtgQi_bTnO8XayBxCe7W1PHqrWy6GNsTXYZtbZqkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODIx/NDA4LTE1NDI1OTY3/MDItMjA2Mi5qcGVn.jpeg" alt="Cover for I&#39;m High" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,7 +1712,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/jUevhJlJfpV4x9wYSVhP5BuOcVY2wAz8DLqir1Lgniw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODIx/NDE0LTE1NDI1OTc3/MTctMjc1OC5qcGVn.jpeg" alt="Cover for Platform Shoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1752,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/BbymO49b-S7-KYooS0gVVsKNR9I1vr2N8n9k756vnVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEz/NDE3LTE1NDQzOTAx/NDItMzEwMy5qcGVn.jpeg" alt="Cover for Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,27 +1768,6 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d34b1fbd29910723fcff54760d7074f.png" alt="Cover for Bonito Generation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-12-14</td>
-      <td>Kero Kero Bonito</td>
-      <td>Bonito Generation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1791,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 49</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 98</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1829,8 +1815,8 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 91</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 94</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 100</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 100</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 100</li>
@@ -1838,7 +1824,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/2X9cRzTDLLrCsKSLc5ioNdkuFCYwYuLjJc18tMmMpX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA0/MTcyLTE1NzY2ODU5/ODctNTI0My5qcGVn.jpeg" alt="Cover for OIL OF EVERY PEARL&#39;S UN-INSIDES NON-STOP REMIX ALBUM" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,7 +1838,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 19</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1873,12 +1859,12 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 76</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/K1gSMlh4EGIQD_Whu92ydoEGjqOPkbZ0wCvAiWXUQPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTcw/OTUyLTE2NDQ5NTM3/NDMtODM2MC5qcGVn.jpeg" alt="Cover for Mine (Umru Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,25 +1914,25 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 16</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c389d1c3d64e5a4365ea4e16270af6b.png" alt="Cover for If You Think I&#39;m a Bitch, You Should Meet Gfoty" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,12 +1945,12 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 51</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/_0NyqIRdQE3jDcTiYxm8nYqijHuZrcabKY07z5vGEPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDI4/MDQxLTE2MjI5MTQ4/MjMtNzEyMC5qcGVn.jpeg" alt="Cover for Mine (Petticoat Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1999,8 +1985,8 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       <td>
         <ul>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 5</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 23</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 54</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 52</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 59</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 81</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
@@ -2008,7 +1994,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13f84de20c3ca42dfaed7579653235a3.png" alt="Cover for Flamboyant" style="max-width:120px; height:auto;" />
       </td>
@@ -2043,10 +2029,10 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 16</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 24</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 26</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 43</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 75</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2072,7 +2058,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/b2UTlo4mR3GZ1KoDB7kANEsj5FMGTiPyuAKpM2Rw0rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc3/NjM5LTE1NjkzMTY4/NTctODMwOC5qcGVn.jpeg" alt="Cover for Princess Catgirl" style="max-width:120px; height:auto;" />
       </td>
@@ -2090,13 +2076,13 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 17</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 55</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 22</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/573d37e3c50df7085e379b048ba846c1.png" alt="Cover for Dog Food" style="max-width:120px; height:auto;" />
       </td>
@@ -2157,21 +2143,21 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 13</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 24</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 24</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 71</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 80</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c673083164dcc3e5531dff854980bd55.png" alt="Cover for XYZ" style="max-width:120px; height:auto;" />
       </td>
@@ -2192,10 +2178,10 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 30</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 31</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 33</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 72</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 88</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2217,9 +2203,10 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 55</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 2</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 66</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 76</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
         </ul>
@@ -2242,7 +2229,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 41</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2268,7 +2255,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9a94017aa901beab81b1f515f11a59f.png" alt="Cover for Bonito Recycling" style="max-width:120px; height:auto;" />
       </td>
@@ -2288,7 +2275,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92a5920b70cdb202a78236f158fc11d0.png" alt="Cover for 7G" style="max-width:120px; height:auto;" />
       </td>
@@ -2303,7 +2290,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 19</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 23</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 89</li>
         </ul>
       </td>
@@ -2326,10 +2313,10 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 33</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 67</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 71</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 85</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 95</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2350,12 +2337,12 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 59</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 63</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe8c5ae69462abc69b068bd1acc21728.png" alt="Cover for Pillowland" style="max-width:120px; height:auto;" />
       </td>
@@ -2375,14 +2362,14 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 48</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 74</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/7mjjGuyIsoEJN5H8CC-gWdf-WWoTEGzKnPNENIWEVcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/NzczLTE2MDU5NTM2/OTAtMTQ3OC5qcGVn.jpeg" alt="Cover for Vampire Fitness" style="max-width:120px; height:auto;" />
       </td>
@@ -2405,11 +2392,11 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 21</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 28</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 44</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 86</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 87</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 25</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 32</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 45</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 98</li>
@@ -2417,7 +2404,36 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/R4vn5vCRim1RL0Djp2N_sbkLgfRJdEYn6XkqHm91IcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE1/MzQ0LTE2NTg5MzY3/MTYtNjI2OS5qcGVn.jpeg" alt="Cover for SCREAMER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-07-27</td>
+      <td>Babii</td>
+      <td>SCREAMER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 46</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 56</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 57</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 80</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/hu_uYlmLC1KdMkFu_mjtmxAYxDQLMKdMW4te9ItR3-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTY1/ODMwLTE2NzE5ODYw/OTktNzMwMi5qcGVn.jpeg" alt="Cover for Cry Sugar" style="max-width:120px; height:auto;" />
       </td>
@@ -2436,7 +2452,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/o7tKq63C_cQVoVcFM-AWNMHm93w38ve-bNqc8uFIAsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYx/OTY5LTE2NjUyNTYy/MTUtOTQ1Ny5qcGVn.jpeg" alt="Cover for SUCKERPUNCH" style="max-width:120px; height:auto;" />
       </td>
@@ -2453,12 +2469,12 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 13</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/2cBg1oo2oazjcHD6qdYCdgvD1sBnMfkhXerN4Pc0ULg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NDA5LTE2NjgxNzIy/MzQtOTQxMy5qcGVn.jpeg" alt="Cover for Clearing" style="max-width:120px; height:auto;" />
       </td>
@@ -2482,8 +2498,8 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 40</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 8</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 44</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 67</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 91</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
@@ -2491,7 +2507,7 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/735a8e44ea903618b26f50ace717d732.png" alt="Cover for Perfect Picture" style="max-width:120px; height:auto;" />
       </td>
@@ -2524,9 +2540,9 @@ Bubblegum bass is a subgenre of electronic dance music that emerged in the early
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 29</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 63</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 64</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 65</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
         </ul>
       </td>

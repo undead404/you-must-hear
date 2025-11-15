@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T20:54:36.366Z
+date: 2025-11-14T21:18:05.649Z
 permalink: tags/lo-fi-indie
 title: lo-fi indie
 ---
 
 ## lo-fi indie
 
-Last updated: <time datetime="2025-11-12T20:54:36.366Z">Wed Nov 12 2025 22:54:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T21:18:05.649Z">Fri Nov 14 2025 23:18:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/CtUhEYVl-lsvhdHtmwmaXrMN8K7kYeAZBXVLdYRpUV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjMy/ODQtMTQyNjExMDAw/My05NTQzLmpwZWc.jpeg" alt="Cover for 33" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06681db7081448e4c85775630b109006.png" alt="Cover for 33" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Tears</td>
@@ -49,7 +49,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c1691c686f449ea80105ddf9b829e1.png" alt="Cover for Hello Cruel World" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5eb777866353fc484d7b53b8c168e3d.png" alt="Cover for Beauty" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/tTccj8KDME9dquC44PKFyZTC87mo-qqanGFoI3Wrlzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjUy/Mi0xMTExODU2NDAy/LmpwZw.jpeg" alt="Cover for Peter EP" style="max-width:120px; height:auto;" />
       </td>
@@ -166,13 +166,13 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 45</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 83</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 49</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/230c21134a0a09f43b019e406bcf05a3.png" alt="Cover for Eugene" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +259,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd1d0b1ddfef4a80ca4dac7138be4d99.png" alt="Cover for God Don&#39;t Make No Junk" style="max-width:120px; height:auto;" />
       </td>
@@ -293,9 +293,9 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 5</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 75</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -354,8 +354,9 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 21</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 23</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +416,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/309e5e5c6ec0765fc5034454cb6d69be.png" alt="Cover for Stratosphere" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +430,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 63</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 65</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 89</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 93</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
@@ -437,8 +438,9 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31fcb62c7f2b9ae7319dac62f6fb86f3.png" alt="Cover for Devolver" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-18</td>
       <td>The Prefab Messiahs</td>
@@ -457,7 +459,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eebbf8f1cc0c4925bb36ce426f4f7f61.png" alt="Cover for Swords, Then Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +476,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/w8TxvfUF2RYcjXHYwHRQefMUWS1XgnSBqp_AKFDKbig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTU1/NjItMTQ5NTg1NzM5/Mi02MDU2LmpwZWc.jpeg" alt="Cover for 1st Imaginary Symphony for Nomad" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +492,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 43</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 46</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 59</li>
         </ul>
       </td>
@@ -513,7 +515,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/29Xyqx8If6kvJ9GNg-uwW0sbLRzcKrklzwaj8njkOio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzU5/NjQtMTI5NDU2OTQx/MC5qcGVn.jpeg" alt="Cover for Horse &amp; Elephant Eatery (No Elephants Allowed)" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +590,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 21</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 87</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -619,7 +621,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2cb7d188380c2217ba4e73a693164c4.png" alt="Cover for I Killed My Best Friend" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +643,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d13ec471a864cac6574c505e3e9ebb47.png" alt="Cover for Yip Jump Music" style="max-width:120px; height:auto;" />
       </td>
@@ -673,14 +675,12 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 20</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 30</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 93</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/0JOHOCQgmzQM-rKaisKFwSqIqiX6DxF5FWZsoAF9vTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc1/MjUtMTQ4MDQ0ODQ1/Ni0zOTAwLmpwZWc.jpeg" alt="Cover for Hellgrammite" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +700,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/0JOHOCQgmzQM-rKaisKFwSqIqiX6DxF5FWZsoAF9vTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc1/MjUtMTQ4MDQ0ODQ1/Ni0zOTAwLmpwZWc.jpeg" alt="Cover for Sea of Islands" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +719,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/_eaqaVzPk4pAXVxRZyWWFmxIBsV8gPqMmWqy4glugfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQz/MTU0LTE2MDcxNzkz/OTItNDg0MS5qcGVn.jpeg" alt="Cover for Dear People of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +741,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
       </td>
       <td>2009-03-10</td>
@@ -779,7 +779,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b182f0aa19f98dd2120f2ce61426b50.png" alt="Cover for &quot;Okay.&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +817,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/2NGLi3LYI5ChvmLB_6LVDBccV91B6VWxnRRzidBp2Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTU1/NDYtMTQ3OTE1MTgw/MS0xNDk2LmpwZWc.jpeg" alt="Cover for Princess of the Pines" style="max-width:120px; height:auto;" />
       </td>
@@ -835,7 +835,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/2NGLi3LYI5ChvmLB_6LVDBccV91B6VWxnRRzidBp2Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTU1/NDYtMTQ3OTE1MTgw/MS0xNDk2LmpwZWc.jpeg" alt="Cover for A Child&#39;s Introduction to Money and the Instruments of the Media" style="max-width:120px; height:auto;" />
       </td>
@@ -855,9 +855,9 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/po9Hhqt3XFHeoQSS5u0MWbIjjifOF4uGFmfmCDsKB7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njk3/MDUtMTI5NTgxNjEw/MC5qcGVn.jpeg" alt="Cover for Franz Kafka &#x2F; Prefab Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51dca01d2e648f40b353fa187a86358c.png" alt="Cover for Franz Kafka &#x2F; Prefab Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-18</td>
       <td>The Prefab Messiahs</td>
@@ -896,7 +896,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5716bdf1f4144e54a098e3911ff4e65f.png" alt="Cover for Everything Is (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -917,8 +917,9 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d77f99c9b5f139aecd01e218ee6aebd.png" alt="Cover for waste yrself" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-21</td>
       <td>Teen Suicide</td>
@@ -934,7 +935,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7ee0c61fba7a5a80b86d76cde7e135f.png" alt="Cover for I Look Like Shit" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +953,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>2013-04-29</td>
@@ -988,7 +989,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb66e2629bbab924f842d8428e389aad.png" alt="Cover for WINNER" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1007,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22b0e9b250ae50b46645ea292786b647.png" alt="Cover for BUDS" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1024,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/383bba04e79f422c8c2507af658c9948.png" alt="Cover for Nervous Young Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,9 +1041,9 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/44XUOZWbnVT8NyqJiAh0LCSMj1-knlrZNezWe6R3wj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODc2/MTYtMTQ0NDYxMzkw/MS00MTg5LmpwZWc.jpeg" alt="Cover for Jubliant Pyramid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce78245c58294879c876c1b3a58b2862.png" alt="Cover for Jubliant Pyramid" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-16</td>
       <td>Braxton The Porcupine</td>
@@ -1061,7 +1062,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e091115b93c17b72228aecaedb3710b.png" alt="Cover for Professional Results: 1999 - 2014" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,7 +1119,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1145,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/soF4VMxus8dsEX20JYIk49Q7E09M63bWXvcsttBqdQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODMz/OTQtMTQ0NDUzNTQ3/Ni05MzQ3LmpwZWc.jpeg" alt="Cover for Crystal Lenses" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1171,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/tHYvQzZy9ZNDtKhEyuchQbesFnNNdwDC9jZgomrQlIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mzkw/MzItMTQ0Nzc3ODY1/MC0xNDQ1LmpwZWc.jpeg" alt="Cover for Act Of Tenderness" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1192,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/tu9RqGyL04rMOoE7D2ClKVeNN0uZjbBGCv9UDW9F09Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzk4/MzktMTQ1MDc4Nzk5/Ny05ODM0LnBuZw.jpeg" alt="Cover for Dandelion Hands is Dead!! Vol 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/483e650edebf449e0e2807a4fa594b3b.png" alt="Cover for Dandelion Hands is Dead!! Vol 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-30</td>
       <td>dandelion hands</td>
@@ -1207,6 +1208,25 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       <td>
         <ul>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6936a58e4cd783175a8b754a147f4288.png" alt="Cover for dc snuff film &#x2F; waste yrself" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-11</td>
+      <td>Teen Suicide</td>
+      <td>dc snuff film &#x2F; waste yrself</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 33</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1249,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/lT-wUNFhlr5lCATA69LcBxwx7sVdpr41NqrAzBwlQsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTQ4/MjItMTQ2MzkzNDUw/Ny05MjE4LmpwZWc.jpeg" alt="Cover for Teens Of Denial (Demos)" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1272,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/lT-wUNFhlr5lCATA69LcBxwx7sVdpr41NqrAzBwlQsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTQ4/MjItMTQ2MzkzNDUw/Ny05MjE4LmpwZWc.jpeg" alt="Cover for Teens Of Denial" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,8 +1286,8 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 34</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 35</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 74</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 87</li>
         </ul>
@@ -1309,14 +1329,14 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 98</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 100</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 100</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 100</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/YMF8OpcsDnor3Xn8woxYrU_0vxI5xyLt3ELcdAf6SdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc2/MTc2LTE1MTUyMDIz/NTEtMTczOC5qcGVn.jpeg" alt="Cover for Star Shopping - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1374,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/819d0c59eba40d67dbeff5c2516530b2.png" alt="Cover for Get Nice!" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1413,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/BJolq2p4nIPYipve69UYaW9DbeBEIjL03p4R_WU_2zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ5/Mzc3LTE1MjkyOTQ4/OTEtOTg1MC5qcGVn.jpeg" alt="Cover for Hummingbird" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,12 +1432,12 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 39</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/UZg-k36ByEW6Z6fkddG2uQS0Gd5LLIjPgag0QHaCvMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/MzA0LTE1MTY0NTQ5/OTctNDY2Mi5qcGVn.jpeg" alt="Cover for This Is It" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1474,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbc63c29e3a73f0323a2f3cb3f15c54f.png" alt="Cover for Bird Kill Worm" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1495,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c46ee305a1a4f2ba43ff65c28b68483.png" alt="Cover for Seven New Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1533,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 81</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1533,12 +1553,12 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 46</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12557659a44a1e0cee5fe30498e44364.png" alt="Cover for Twin Fantasy (Mirror to Mirror)" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1571,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 31</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1574,34 +1594,30 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/Eemd6QdEPOGZzIWGwKaKHCGnwC_tkueZmq8R-7hODfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc4/NzA3LTE1NjMxNDUz/NTUtMTU5Ny5qcGVn.jpeg" alt="Cover for Come In" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04320832727734600b1bdd210630b484.png" alt="Cover for Come In" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-29</td>
       <td>Weatherday</td>
       <td>Come In</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 49</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 62</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 88</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 90</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 97</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 6</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 29</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 39</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/Xd4s1L5KKWA3Hrm0q0dK6i-4dagbMGpWHRikFeGIvMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE3/NTg5LTE1NjgxNzE2/MTAtNTE0MC5qcGVn.jpeg" alt="Cover for Dorkcore: The Compact Disc" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc69dd5889ecb952e9bf43e3e757298.png" alt="Cover for Dorkcore: The Compact Disc" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-06</td>
       <td>Kevin and the Bikes</td>
@@ -1629,7 +1645,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/0uYp_osbywpwHQoalYAvwuxbFdAhMzY8h5YJMapOuqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE3/NjM2LTE2MjE1OTEx/NTctMzg4MC5qcGVn.jpeg" alt="Cover for Sorry I Never Apologized" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1667,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20935c36e65abe3cd9e89c2b07942c2a.png" alt="Cover for When the Fun Stops" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1689,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81bf8528048d1b7e00fcff8ae0871775.png" alt="Cover for People Don&#39;t Think" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1711,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/UmTXiRJF4KGX439esCBJsj3ZUFljXqYzOqUW3imquqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/NjcyLTE2NTE4NzY4/MjQtMTA5OS5qcGVn.jpeg" alt="Cover for Compilation" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1731,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/t36jLN9llNDFo7JzsXMAXjhXdEdCPg4OWs5xCWbT_aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTAx/NTA5LTE2ODI2MTI0/MTktNzg2NS5qcGVn.jpeg" alt="Cover for Why Do Parties Have To Be So Loud? - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1777,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f092d27fd89f140a0ca84aaa6b00dc4c.png" alt="Cover for Girl With Fish" style="max-width:120px; height:auto;" />
       </td>
@@ -1776,13 +1792,13 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 59</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 82</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 63</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/NTML9BSEhW88R73B6KhJj1HbOn_oMRdnDhGW-Y3Qjm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM2/NzkxLTE2NDUxNDA0/MDItMTU3NC5qcGVn.jpeg" alt="Cover for We&#39;re Starting to Get Along" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,7 +1817,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b790df9e7012d2c84d668c5247e26b0.png" alt="Cover for i&#39;ll be okay" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1840,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a767520b900bc107910dcebcfb09b41.png" alt="Cover for Demo without the D" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1861,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1870,33 +1886,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dwyer&#39;s Kaiser Rolls and Brandmill Muffins</td>
-      <td>Steak and eggs are good</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1917,7 +1907,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1934,7 +1924,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1951,7 +1941,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f6c08d98cb6e605e38ad53c746b2a7c.png" alt="Cover for In Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,7 +1961,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7888d47c9523c569447492c7b69c00a.png" alt="Cover for blind love or something" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,7 +1984,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2012,7 +2002,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2033,7 +2023,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdaf290f50248c151bea1102e844d0ba.png" alt="Cover for Don&#39;t You Think You&#39;re Dying?" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2043,7 @@ Lo-fi indie music is a genre of indie rock music that incorporates lo-fi product
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d2d6763b8ffcab2153525d651586345.png" alt="Cover for Coming to Soon, Pt. 2" style="max-width:120px; height:auto;" />
       </td>

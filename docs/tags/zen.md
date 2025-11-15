@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T20:49:31.209Z
+date: 2025-11-14T21:18:01.248Z
 permalink: tags/zen
 title: zen
 ---
 
 ## zen
 
-Last updated: <time datetime="2025-11-12T20:49:31.209Z">Wed Nov 12 2025 22:49:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T21:18:01.248Z">Fri Nov 14 2025 23:18:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -508,7 +508,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -991,25 +991,6 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>2012-06-22</td>
-      <td>Jon Brooks</td>
-      <td>Seventh Heaven - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>99</td>
       <td>
           <img src="https://i.discogs.com/MFuKAhG2ChBTPENbXRjCcFIxlIWAzFCW3CG9YDMAEL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTkw/MDUtMTM3MTMzOTU2/MC03MzM5LmpwZWc.jpeg" alt="Cover for 音は光る (The Sound Is Shining)" style="max-width:120px; height:auto;" />
@@ -1126,7 +1107,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1145,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg" alt="Cover for Zen Dub - The Journey EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,28 +1448,6 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       <td>
       </td>
       <td></td>
-      <td>The Xen Arcade</td>
-      <td>Al-Kimia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
       <td>5 minute dharma</td>
       <td>5 Minute Dharma Podcast</td>
       <td>
@@ -1503,7 +1462,31 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tu_tu</td>
+      <td>First</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1519,6 +1502,28 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Xen Arcade</td>
+      <td>Al-Kimia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
@@ -1985,6 +1990,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/573d82994eab19d558afdef0dfada8ed.png" alt="Cover for Climbing the Tower of Babel" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Global Chilling</td>
