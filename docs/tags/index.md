@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-15T01:10:42.328Z
+date: 2025-11-15T01:15:58.215Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-15T01:10:42.328Z">Sat Nov 15 2025 03:10:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T01:15:58.215Z">Sat Nov 15 2025 03:15:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [cloud rap]({{ "tags/cloud-rap" | relative_url }}) | <time datetime="2025-11-15T01:15:58.215Z">Sat Nov 15 2025 03:15:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [chillout]({{ "tags/chillout" | relative_url }}) | <time datetime="2025-11-15T01:10:42.328Z">Sat Nov 15 2025 03:10:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [no wave]({{ "tags/no-wave" | relative_url }}) | <time datetime="2025-11-15T01:08:33.565Z">Sat Nov 15 2025 03:08:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [k-rock]({{ "tags/k-rock" | relative_url }}) | <time datetime="2025-11-15T01:08:09.066Z">Sat Nov 15 2025 03:08:09 GMT+0200 (Eastern European Standard Time)</time> |
@@ -550,7 +551,6 @@ Last updated: <time datetime="2025-11-15T01:10:42.328Z">Sat Nov 15 2025 03:10:42
 | [ccm]({{ "tags/ccm" | relative_url }}) | <time datetime="2025-11-08T14:31:14.131Z">Sat Nov 08 2025 16:31:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [portland]({{ "tags/portland" | relative_url }}) | <time datetime="2025-11-08T14:30:10.436Z">Sat Nov 08 2025 16:30:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [woman]({{ "tags/woman" | relative_url }}) | <time datetime="2025-11-08T14:29:28.225Z">Sat Nov 08 2025 16:29:28 GMT+0200 (Eastern European Standard Time)</time> |
-| [cloud rap]({{ "tags/cloud-rap" | relative_url }}) | <time datetime="2025-11-08T14:27:56.999Z">Sat Nov 08 2025 16:27:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [german hip hop]({{ "tags/german-hip-hop" | relative_url }}) | <time datetime="2025-11-08T14:27:42.320Z">Sat Nov 08 2025 16:27:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [country]({{ "tags/country" | relative_url }}) | <time datetime="2025-11-08T10:46:52.627Z">Sat Nov 08 2025 12:46:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [belgium]({{ "tags/belgium" | relative_url }}) | <time datetime="2025-11-08T09:37:05.375Z">Sat Nov 08 2025 11:37:05 GMT+0200 (Eastern European Standard Time)</time> |
