@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-15T04:04:15.061Z
+date: 2025-11-15T06:34:13.840Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-15T04:04:15.061Z">Sat Nov 15 2025 06:04:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T06:34:13.840Z">Sat Nov 15 2025 08:34:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [digicore]({{ "tags/digicore" | relative_url }}) | <time datetime="2025-11-15T06:34:13.840Z">Sat Nov 15 2025 08:34:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [chillwave]({{ "tags/chillwave" | relative_url }}) | <time datetime="2025-11-15T04:04:15.061Z">Sat Nov 15 2025 06:04:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [disco]({{ "tags/disco" | relative_url }}) | <time datetime="2025-11-15T03:27:22.618Z">Sat Nov 15 2025 05:27:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [country blues]({{ "tags/country-blues" | relative_url }}) | <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21 GMT+0200 (Eastern European Standard Time)</time> |
@@ -858,7 +859,6 @@ Last updated: <time datetime="2025-11-15T04:04:15.061Z">Sat Nov 15 2025 06:04:15
 | [microtonal]({{ "tags/microtonal" | relative_url }}) | <time datetime="2025-10-28T06:41:45.068Z">Tue Oct 28 2025 08:41:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [spanish rock]({{ "tags/spanish-rock" | relative_url }}) | <time datetime="2025-10-28T06:40:29.560Z">Tue Oct 28 2025 08:40:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [ukulele]({{ "tags/ukulele" | relative_url }}) | <time datetime="2025-10-28T06:40:24.327Z">Tue Oct 28 2025 08:40:24 GMT+0200 (Eastern European Standard Time)</time> |
-| [digicore]({{ "tags/digicore" | relative_url }}) | <time datetime="2025-10-28T06:40:08.934Z">Tue Oct 28 2025 08:40:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [ballet]({{ "tags/ballet" | relative_url }}) | <time datetime="2025-10-28T06:38:09.967Z">Tue Oct 28 2025 08:38:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [noisecore]({{ "tags/noisecore" | relative_url }}) | <time datetime="2025-10-28T06:37:46.133Z">Tue Oct 28 2025 08:37:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [outlaw country]({{ "tags/outlaw-country" | relative_url }}) | <time datetime="2025-10-28T06:37:22.374Z">Tue Oct 28 2025 08:37:22 GMT+0200 (Eastern European Standard Time)</time> |
