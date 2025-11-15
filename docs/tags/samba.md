@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T18:47:46.829Z
+date: 2025-11-14T23:29:01.951Z
 permalink: tags/samba
 title: samba
 ---
 
 ## samba
 
-Last updated: <time datetime="2025-11-07T18:47:46.829Z">Fri Nov 07 2025 20:47:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T23:29:01.951Z">Sat Nov 15 2025 01:29:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,7 +79,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 18</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 31</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -195,6 +195,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b47929a57fc4a51fd2e4b2569af7899f.png" alt="Cover for Construção" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Chico Buarque</td>
@@ -206,7 +207,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 29</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 35</li>
             <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 98</li>
         </ul>
       </td>
@@ -229,7 +230,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/bzVNfYgpHCUEGttJu8DuTk2XmC00zl6AxRsN8fwn4uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTE4/NC0xMzUwOTU3OTgw/LTcyMDkuanBlZw.jpeg" alt="Cover for Acabou Chorare" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +285,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 8</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +308,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/LYdylgV8nJoLrgsUiTRFM7smuPFqw9MpXuzSg-Sh0O0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTA3/OTAtMTU1NTU2NjI4/Ny0yMTMwLmpwZWc.jpeg" alt="Cover for Cantar" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +323,26 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 72</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Clara Nunes</td>
+      <td>Claridade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -345,42 +365,24 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td>1975</td>
-      <td>Clara Nunes</td>
-      <td>Claridade</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-      </td>
-      <td>1975</td>
-      <td>Adoniran Barbosa</td>
-      <td>Adoniran Barbosa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>97</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Adoniran Barbosa</td>
+      <td>Adoniran Barbosa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/fiEqTgNJ_ny-gZ6SZb_4G_O5-v_sdx3cTxchuLyTkqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgw/NjktMTU5NDcyMzc0/My0zODAyLmpwZWc.jpeg" alt="Cover for Cartola (1976)" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +471,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/t-SysxfFLxth_qTOf3nYJr-p9kSC1LXKTfecwkblHAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzM5/MzAtMTQ0NzczODg4/NS01NDA3LmpwZWc.jpeg" alt="Cover for Mas Que Nada" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +487,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 81</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 82</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 87</li>
         </ul>
       </td>
@@ -525,9 +527,9 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 66</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 66</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 75</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 67</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 68</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +609,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 24</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -670,8 +672,8 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 6</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 59</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 8</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 60</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 81</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 82</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 82</li>
@@ -698,6 +700,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 5</li>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 42</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 60</li>
         </ul>
@@ -772,7 +775,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>1993</td>
@@ -787,8 +790,8 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 71</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 82</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 72</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -828,24 +831,6 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>Caetano Veloso</td>
-      <td>Livro</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -922,8 +907,8 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 45</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 70</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 49</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -964,14 +949,14 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 10</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/Caf_ci7UEH4xzb1_UHUFLt24fsWy9VGJ3iP0U36dgJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzMy/My0xMzQ4MjM0NDky/LTI1MzguanBlZw.jpeg" alt="Cover for La Bomba" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdda92d260862093b7c5873e5ad8d76f.png" alt="Cover for La Bomba" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>King Africa</td>
@@ -987,7 +972,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 30</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 32</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 81</li>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 88</li>
         </ul>
@@ -1013,6 +998,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59e2896bbc35833155e91fcb619123e.png" alt="Cover for Deixa A Vida Me Levar" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Zeca Pagodinho</td>
@@ -1034,12 +1020,12 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 67</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 68</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 86</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 87</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 88</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 90</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 91</li>
         </ul>
       </td>
@@ -1062,7 +1048,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2002-10-23</td>
@@ -1098,7 +1084,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 14</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1122,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 5</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1142,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 3</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1184,10 +1170,10 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 46</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 64</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 64</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 69</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 48</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 65</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 67</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 71</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 81</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 96</li>
         </ul>
@@ -1214,6 +1200,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ef6cccf59243ada65fc7063dd4dd4a.png" alt="Cover for CéU" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Céu</td>
@@ -1226,13 +1213,13 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 20</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 84</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 22</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
       </td>
       <td>2005</td>
@@ -1248,8 +1235,8 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 66</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 70</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 68</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 71</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 94</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 100</li>
         </ul>
@@ -1311,7 +1298,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/fiEqTgNJ_ny-gZ6SZb_4G_O5-v_sdx3cTxchuLyTkqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgw/NjktMTU5NDcyMzc0/My0zODAyLmpwZWc.jpeg" alt="Cover for Cartola (1974)" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,17 +1334,17 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 1</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 33</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 35</li>
             <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 81</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/kzK5xBpRuHZGm21bli3L0x6NNLvp4ewivZP5GtPXvbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQ5/ODItMTM5MjA1NTIw/My03ODAyLmpwZWc.jpeg" alt="Cover for A Voz e o Violão" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e05d5362764d9aa99236d39498d42c40.png" alt="Cover for A Voz e o Violão" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Djavan</td>
@@ -1371,7 +1358,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 91</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1414,9 +1401,9 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 67</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 67</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 78</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 68</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 69</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1428,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/dYM3rzsDWmKSBZhwE5Kw-86AeEW7WuYa6dVh-jZlmfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQz/MDgtMTY2OTEzNzgw/My00MTgxLmpwZWc.jpeg" alt="Cover for América Brasil O Disco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cccd5dbbbeca5469fecb2c169ecf433d.png" alt="Cover for América Brasil O Disco" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Seu Jorge</td>
@@ -1458,14 +1445,14 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 58</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 58</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 73</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 59</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/2EDmFjcESH6IvlFaikja51mH3xirFpErFOrHBd9OnRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzA1/NDQtMTMyNjA1MjEx/Ny5qcGVn.jpeg" alt="Cover for Mart&#39;nália em Berlim ao vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,6 +1497,23 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e90e72dca0340ffbe2f640d39ce2c0d7.png" alt="Cover for Noites de Gala, Samba Na Rua" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Mônica Salmaso</td>
+      <td>Noites de Gala, Samba Na Rua</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1576,9 +1580,9 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 57</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 57</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 72</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 58</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 59</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1655,7 +1659,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 57</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1715,8 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 5</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 1</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1760,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/0u8MV94WGSvT2Bn4CUFnydcXlECNe2699MTxWqMvPb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ0/MzYyLTE1MDAzMjY3/NjYtNzc1MS5qcGVn.jpeg" alt="Cover for Espiral de Ilusão" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36f03cb6103bb2b5e6380331ec73e0d7.png" alt="Cover for Espiral de Ilusão" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Criolo</td>
@@ -1786,14 +1791,14 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 31</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/qRILYUPF8fo96DiKhep12sPyB-LKU-2IJ51BIvbki2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/MTI0LTE1MjcyMjgy/NjktNTI4MS5qcGVn.jpeg" alt="Cover for Brasileiro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a692fff66331904966e9117c1cb564f.png" alt="Cover for Brasileiro" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>Silva</td>
@@ -1806,12 +1811,12 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 44</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2019</td>
@@ -1847,9 +1852,9 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/HafpSXZ3EV7ynVOJetx1PF9gu6645b2L0L03SnWFkfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM0/NDAxLTE1NzY1MjI3/MzgtMTY2Ni5qcGVn.jpeg" alt="Cover for AmarElo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/168ecd11e61bb01921676de97505a38a.png" alt="Cover for AmarElo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Emicida</td>
@@ -1882,7 +1887,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 8</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1903,7 +1908,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 89</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 90</li>
             <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 94</li>
         </ul>
       </td>
@@ -1929,7 +1934,7 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5ae50527d72e30289f3876c4282414d.png" alt="Cover for De Primeira" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,16 +1943,16 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       <td>De Primeira</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/6sEnV9uPiTlnvCOOuAWy8Swy7p_rrLISJ6fDmi3XmFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg1/NDE0LTE2MzEyOTY1/MDAtNTIxOC5qcGVn.jpeg" alt="Cover for Indigo Borboleta Anil" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,8 +1968,8 @@ Samba is a lively Brazilian music genre characterized by syncopated rhythms, per
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 19</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 89</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 90</li>
         </ul>
       </td>
     </tr>

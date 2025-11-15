@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:16:21.919Z
+date: 2025-11-14T23:24:25.827Z
 permalink: tags/crunk
 title: crunk
 ---
 
 ## crunk
 
-Last updated: <time datetime="2025-11-11T04:16:21.919Z">Tue Nov 11 2025 06:16:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T23:24:25.827Z">Sat Nov 15 2025 01:24:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7add580f8ec0fecd0982a6e64c7dcf12.png" alt="Cover for So Dramatic" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/feb8887d0add823924d182fae8f6f7d7.png" alt="Cover for SHOCK" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ARZ7D95_Ixa9qhFG3fv1zlmUJEbawW8UbC-m-3_rxvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODcy/Ni0xNjM5MjM1MTU1/LTU5OTIucG5n.jpeg" alt="Cover for Crept and We Came (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1997-03-25</td>
@@ -161,7 +161,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>1998-09-30</td>
@@ -239,7 +239,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/TBj3dL4hp8spEFjVzTILCDRz7vUSggKAWN0Kpo-Qm9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDQw/OTEtMTQ0OTg1MTg3/My01NDg0LmpwZWc.jpeg" alt="Cover for Frequency L.S.D." style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +311,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       <td>
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 13</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 26</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 27</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 53</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
         </ul>
@@ -331,7 +331,8 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 67</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -355,14 +356,14 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 25</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 53</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 75</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/gDRw7q6PLHOaQM2xR_k7ipHA9sn5-_GUWE11OxVatI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM3/NzAtMTI5MjcyNDc1/OC5qcGVn.jpeg" alt="Cover for Wispy, No Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +376,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 1</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 2</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 44</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 48</li>
         </ul>
@@ -425,7 +426,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/EM9k7XCMNjy1NWMQLzeE5EZ3UuL-ESC-49jbGwTcJM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY5/My0xNDg0MTYwNDYw/LTI1NzkuanBlZw.jpeg" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +535,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       <td>
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 57</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 87</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -608,12 +609,12 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 81</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7265ed3b04c28f7091f69beedb85a4c9.png" alt="Cover for Chicken &amp; Beer" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +657,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2003</td>
@@ -675,7 +676,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/KMv6lzqARjDlBzPv2PW9EBWKVG9n6j2JCvSZ8HN05H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTU4/MTUtMTY2MjIzMjc4/MS0zMjQ2LmpwZWc.jpeg" alt="Cover for Alley...Return of the Ying Yang Twins" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +711,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2003-11-25</td>
@@ -727,7 +728,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/557bb128326beeab143cb9fe5c6d792d.png" alt="Cover for Goodies" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +797,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 60</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +820,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/eUIsQfqfBXgHZ5JFZoB-Qvl1AXmNMjwVivGtbYeeuCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk2/NDcwLTE1NDAyMjkx/MzItNjMxOC5qcGVn.jpeg" alt="Cover for Don&#39;t Trip" style="max-width:120px; height:auto;" />
       </td>
@@ -891,7 +892,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ELFvElDrlIXghBi9OPEYieAHWanb0INl3RpM_7bvoMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTkx/OS0xMTYzMjEwNzIz/LmpwZWc.jpeg" alt="Cover for Never Scared" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +948,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/qW37fraTQW2KwGmOqew0BpNQ2w2sVj1vrYBZ43Lmbyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYy/NzUtMTQzNDIzMDI1/NC01MTYwLmpwZWc.jpeg" alt="Cover for Da Muzicianz" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +984,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/EXYPf3SQtOdCMru3D1ZC82ly_QmwQHVS2ksMHgSr4Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTYx/MjItMTQ3OTE1Nzkx/My02ODM0LmpwZWc.jpeg" alt="Cover for Bred 2 Die Born 2 Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1025,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2006-10-25</td>
@@ -1101,7 +1102,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2006-10-31</td>
@@ -1301,7 +1302,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaca3dd76d565a07560d88dcd4659d22.png" alt="Cover for What Cha Starin&#39; At? Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1318,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 15</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 28</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 70</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1340,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -1409,14 +1410,14 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 8</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 9</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 28</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Vnv0PTr9_QzhQu3exejrh9U2HiLwRbQ0wRKoVyRgv9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgw/Mjk1LTE1MTcwODAy/NzItNTk2OS5qcGVn.jpeg" alt="Cover for Jungle de béton" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,8 +1441,9 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bad5104edd1826fa0f6f67786130a070.png" alt="Cover for Walkin&#39; Bank Roll" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-30</td>
       <td>Project Pat</td>
@@ -1459,12 +1461,12 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       <td>
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 33</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2007-12-04</td>
@@ -1522,7 +1524,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b6655727e100eec8a32a701e619ff52.png" alt="Cover for Dance Or Die" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,7 +1545,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/TNE6xy72W6UFc82Qpus_Juxlyq23-50h8WIIFD3dryE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA2/MjYtMTIyOTIyMjY0/MS5qcGVn.jpeg" alt="Cover for ATL RMX" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,7 +1611,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2008-11-08</td>
@@ -1630,7 +1632,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/AR5t8h4HvVTO5aPkcu9GoniYBgoUs7xkH5FjgV0REaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDAw/OTQtMTU5NTEwMzg4/Ny04NzQ3LmpwZWc.jpeg" alt="Cover for Til The Wheels Fall off" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,7 +1662,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009</td>
@@ -1724,7 +1726,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2009-02-24</td>
@@ -1767,7 +1769,25 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2009-05-05</td>
+      <td>DJ Paul</td>
+      <td>Scale-A-Ton (Skeleton)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/gKWckXwsiGQm0UaxUEnWJYmKpt8Na3C2JuQD--Kkf84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA3/NzUtMTI0MTYxOTE4/Ny5qcGVn.jpeg" alt="Cover for Fantasy Ride (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,26 +1867,9 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/n6m7OLEXmj2_lZ7dsjB6XuwWZyiQQz23tJLgd1AOzkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY1/NTYtMTI4Nzc2MTky/OS5qcGVn.jpeg" alt="Cover for Art School Girls" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Ninjasonik</td>
-      <td>Art School Girls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e663a40f47ec4b75cba4f4cca88b1b60.png" alt="Cover for Trunk Muzik 0-60" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Yelawolf</td>
@@ -1917,7 +1920,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 12</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1958,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 47</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1974,6 +1977,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2025,7 +2029,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/2R3B2vNse29Gduh6HoMXntf5wNsFU2eUMPywowP9bMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjU0/MDYtMTQxNzQ0ODAz/My0yNjg4LmpwZWc.jpeg" alt="Cover for Low (feat. T-Pain)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcc8b3ca97704485a41906c3cf1ca096.png" alt="Cover for Low (feat. T-Pain)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>Flo Rida</td>
@@ -2039,7 +2043,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 93</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2081,7 +2085,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2012-02-14</td>
@@ -2177,7 +2181,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/6jPcwpkuZHyds2qsr-RcKORKZBQB1WBSWRg0_6cVD-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjUy/NTUtMTM0NzM3NTc1/MS0zNjA2LmpwZWc.jpeg" alt="Cover for Live At Roadburn" style="max-width:120px; height:auto;" />
       </td>
@@ -2260,6 +2264,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d069456a702443792141eb67b0fe39a.png" alt="Cover for Prayer for the Unborn" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-14</td>
       <td>Chelsea Wolfe</td>
@@ -2414,17 +2419,17 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 19</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 21</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 48</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 64</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
@@ -2518,7 +2523,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/IHtWLTRzxH59dRIGmWm2oTRjD9D1kSnsUT3mk2Mfoug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzE3/MzgtMTM5MDc1MTEx/NS00NDEyLmpwZWc.jpeg" alt="Cover for Podejrzany o rap Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -2553,7 +2558,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 49</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -2575,7 +2580,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 50</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 56</li>
             <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 82</li>
         </ul>
@@ -2619,17 +2624,17 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 9</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 41</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 94</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
@@ -2637,7 +2642,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2672,7 +2677,7 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
         <ul>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 63</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 66</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 70</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 71</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 81</li>
         </ul>
       </td>
@@ -2716,8 +2721,8 @@ Crunk is a high-energy subgenre of Southern hip-hop that emerged in the early 20
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 29</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 29</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 30</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 31</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 39</li>
         </ul>
       </td>
