@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:28:54.047Z
+date: 2025-11-14T23:39:19.846Z
 permalink: tags/east-coast
 title: east coast
 ---
 
 ## east coast
 
-Last updated: <time datetime="2025-11-11T04:28:54.047Z">Tue Nov 11 2025 06:28:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T23:39:19.846Z">Sat Nov 15 2025 01:39:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1989</td>
@@ -43,13 +43,13 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 35</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 34</li>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11745dbd27314a5db92f961718c8071b.png" alt="Cover for Magnum Opus" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2086a18940614e158839be0a49071ad1.png" alt="Cover for Juvenile Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3abe3c04ea80b0aedf0a4abe6a331270.png" alt="Cover for Hard To Earn" style="max-width:120px; height:auto;" />
       </td>
@@ -103,12 +103,11 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dce63c224a643b78b39caeb27aadf8b.png" alt="Cover for Illmatic" style="max-width:120px; height:auto;" />
       </td>
@@ -122,10 +121,10 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 32</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 34</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 69</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 79</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -145,13 +144,13 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 2</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d63b0b7229e549c8b4e8cbb3f718c2a2.png" alt="Cover for Only Built 4 Cuban Linx 2" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +168,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c94a7906ae24506b6176c4e926a953a.png" alt="Cover for Only Built 4 Cuban Linx ..." style="max-width:120px; height:auto;" />
       </td>
@@ -204,15 +203,15 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 34</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 39</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 44</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 38</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 43</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 76</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f31f2812b854b228bf9f03f4c0cbf28.png" alt="Cover for It Was Written" style="max-width:120px; height:auto;" />
       </td>
@@ -227,14 +226,14 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 4</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 6</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1996-10-01</td>
@@ -248,12 +247,12 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 25</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d510d42273143b88becce587200068dd.png" alt="Cover for Hell on Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +303,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 10</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -330,7 +329,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6666a74f06ccc2cc8a8753e3aa13496b.png" alt="Cover for Nastradamus" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +347,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11b30c3cbd8f5b4611c683e3504de461.png" alt="Cover for Lets Get Free" style="max-width:120px; height:auto;" />
       </td>
@@ -362,12 +361,12 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 20</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/LrqETtyzEwKF0OFMqgo4mtZK4I3pAsh8A64F7_DGZsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjIx/My0xNjIyNjI1NjI5/LTY1MDcuanBlZw.jpeg" alt="Cover for Willenium" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +389,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/015e0b348d887d955c83a9b51c82a204.png" alt="Cover for The Essential" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +409,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2000</td>
@@ -441,7 +440,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 23</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -495,7 +494,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/GB99PV2Ylv5OIsovwbASoWG8Z2UwPzoN6XGi11ojxSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTg5/NC0xNTAxMzc1NjUy/LTEwMzUuanBlZw.jpeg" alt="Cover for The Blueprint" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +509,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 41</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +532,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c27f64a3b00e4276a9fc62a225605772.png" alt="Cover for Disposable Arts" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +550,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a8b542903b34aabca8262bb4c6f2004.png" alt="Cover for Stillmatic" style="max-width:120px; height:auto;" />
       </td>
@@ -566,8 +565,8 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 10</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 24</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 8</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -586,12 +585,11 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/LAjpu4WXwdlUAR-oySVFMqAI1vX1KvVoZnNCkot0eXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAx/Njc4LTE2MzA2OTE1/ODgtNDQwNy5qcGVn.jpeg" alt="Cover for When The Last Time (Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -609,7 +607,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2002-05-14</td>
@@ -665,7 +663,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6272b29f00cc4bd4cbe31f15e4e4d4fb.png" alt="Cover for God&#39;s Son" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +697,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 50</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -723,7 +721,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2003</td>
@@ -836,7 +834,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8a1281fcb8b8cd57283f60b494b8e19.png" alt="Cover for Amerikaz Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -854,7 +852,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/AlwjWEnxjdum9fdD0bWl_4N5PZgqs6yxknm_-03f5d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDM5/OTktMTQ0NDQ5ODg4/NC02MDE0LmpwZWc.jpeg" alt="Cover for Matt Mays + El Torpedo" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +927,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f13200a2b108482dbddfc2bcd736fce.png" alt="Cover for The Hunger For More" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +945,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/p8UTP2iemDzcX0yR7hopyVoj2MGrfrljXpCnI_mcoGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTk1/OS0xNTI2MTQ5MTg5/LTM3MjUuanBlZw.jpeg" alt="Cover for Americaz Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +982,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c6fdbab2c205dad619ce549cb1177db.png" alt="Cover for Thoughts of a Predicate Felon" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1021,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/R461J_i0lQH0mPcIUaALWqrMvwWRxXxXI8qx4U37sLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjQw/MS0xMjcwODA4MjAx/LmpwZWc.jpeg" alt="Cover for Rewind &lt;&lt; Deja Screw" style="max-width:120px; height:auto;" />
       </td>
@@ -1039,7 +1037,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 5</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1054,6 +1052,23 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db7f15c4ae0c666fefb314e465b66b30.png" alt="Cover for Rotten Apple" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-06</td>
+      <td>Lloyd Banks</td>
+      <td>Rotten Apple</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1081,7 +1096,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c495a2cc9f539e1b5a0fe2fe23fa5d5.png" alt="Cover for Hell Hath No Fury" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1112,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 11</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 16</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1120,7 +1135,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/uKi5Af1v0tVzgtRXd8Lp-wf77uFFVogiukZpnfW42Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI0/MzYxLTE1MDY2MTMz/NDMtODIxMy5qcGVn.jpeg" alt="Cover for Everyday Process: The Process Of Illumination &amp; Elimination" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1153,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2007-06-12</td>
@@ -1198,7 +1213,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e38c086829b04808c8650655b942514e.png" alt="Cover for 8 Diagrams" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1272,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2008-01-22</td>
@@ -1276,7 +1291,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bcfefe89557414187b70aff747c7d2d.png" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,12 +1327,12 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 49</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2009-01</td>
@@ -1353,7 +1368,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/aHtBR__XV7VsWh99L9wDuBTeb_p2T-PTqns6kWhxW4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ4/MDUtMTM3OTExMzQ4/My04MjczLmpwZWc.jpeg" alt="Cover for BullPen Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,7 +1405,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 55</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1414,7 +1429,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/JJUlm4OBqTrDWO9sSGYHYs0CIl_Y75GgTG127XpLN6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgy/MzE3LTE0OTYzNTk0/NjgtNjYyMC5qcGVn.jpeg" alt="Cover for Reasonable Doubt" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1450,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/_JgGjrnUtboSmGZzAqP5UebNjk2ksLRniNPLcZ0_jec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc4/MjY2LTE1NzEzMjc2/NDctMzU0OS5qcGVn.jpeg" alt="Cover for Aka The Rugged Child" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,12 +1506,12 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 22</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/9Z9H7p0cJFhFcamTe7bGUTwaxUkZoAnJvyItc1wY0B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTc4/MzMtMTM2MzgwNzI0/NC01NDQ1LmpwZWc.jpeg" alt="Cover for The Surface We Divide" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,32 +1532,13 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 38</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 42</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 43</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/_Z5WUVmIP1BmhMPrvEaichZCYayxc4Kyx8i_HhV7szA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI5/NDEyLTE0OTAzOTQ3/OTUtMTc2NC5qcGVn.jpeg" alt="Cover for The Supremacy EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-11-19</td>
-      <td>Supreme General</td>
-      <td>The Supremacy EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9076083eeefa4388be3cde16d4ed3482.png" alt="Cover for East Coast Avengers present DC the MIDI Alien : Avengers Airwaves" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,7 +1561,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45264b16212142e6c2ceff7e5041d9dd.png" alt="Cover for Blaq Poet Society" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1584,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49534b8985be4933c989e764856963dc.png" alt="Cover for From There To Here... Presented by Mick Boogie &amp; The Press Play Show.Com" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1612,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/G1P-sCihQW8-WqDONPBeq1UsH28KpgpCT6sRrDB8jQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njcx/MjMtMTM1MDgyNTEw/MC03OTk0LmpwZWc.jpeg" alt="Cover for Red Potion" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1631,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Pm275wGkHRD26G-EwPrpOrPzQxeh_9E3WmMOiVIHJmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTUx/NzQtMTQ0NzI5NDM0/NS0xMDA0LmpwZWc.jpeg" alt="Cover for Dipset Da Riches Niggas In Harlem" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,7 +1690,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/92huzkbHJ36a7jcsNuENTtzV5zRjpIEcsrQmDCGmW9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM2/NjE3LTE1MzMyMzM4/NDktOTU2OC5wbmc.jpeg" alt="Cover for Live Hardcore Worldwide(BDP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1708,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/426594df5f7041f6c141f6b7728210cc.png" alt="Cover for Reflection Eternal" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,7 +1728,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/M2hKEbfz_nfeZncBB9VctCCw80tRP64WGQERO1kKY48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI1/MzA3LTE1NjgzMTEz/MTUtMjEwNC5qcGVn.jpeg" alt="Cover for EAST COAST" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/386c539327e273d51a03390eff7d8817.png" alt="Cover for EAST COAST" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-05</td>
       <td>Ceremony</td>
@@ -1791,27 +1787,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Brickyard Pro</td>
-      <td>I SEE HATERS</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 30</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1844,7 +1820,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1864,7 +1840,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1942,7 +1918,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1988949458452dade5de1e7dcf35b195.png" alt="Cover for ENi80XLu1P EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +1997,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2033,7 +2009,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 5</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 4</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 48</li>
             <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 62</li>
@@ -2041,7 +2017,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12b62483863834ddc48314f42dcdd5c3.png" alt="Cover for La Nuit Se Lève" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2046,7 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2137,12 +2113,29 @@ East Coast hip-hop emerged from New York City in the 1970s, characterized by com
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
       <td>J. Ferb</td>
       <td>Chase the Dreams, Not the Competition</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/917a193559b5e826e0347e2b1d4ff6ea.png" alt="Cover for Before I Self-Destruct" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>50 Cent</td>
+      <td>Before I Self-Destruct</td>
       <td>
         <ul>
         </ul>

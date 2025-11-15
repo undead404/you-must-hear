@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T01:59:50.967Z
+date: 2025-11-14T23:37:42.460Z
 permalink: tags/gothic-metal
 title: gothic metal
 ---
 
 ## gothic metal
 
-Last updated: <time datetime="2025-11-01T01:59:50.967Z">Sat Nov 01 2025 03:59:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-14T23:37:42.460Z">Sat Nov 15 2025 01:37:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1993</td>
@@ -60,7 +60,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 36</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -153,7 +153,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 34</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -174,8 +174,8 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 19</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 26</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 46</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 100</li>
         </ul>
@@ -214,7 +214,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 55</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -287,12 +287,12 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 15</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1997-04-01</td>
@@ -331,6 +331,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0308fa66b1448e1c8023c8cc6751fae.png" alt="Cover for One Second" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-07-13</td>
       <td>Paradise Lost</td>
@@ -343,8 +344,8 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 26</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 37</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +381,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 5</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +402,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 67</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -426,7 +427,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/4XN02wt5YliznHyQgsxqV6N6TdiBGHM68gdzUme38q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU3/NS0xNDk5MjUwNTk1/LTg1MTkuanBlZw.jpeg" alt="Cover for Aégis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbdb6bc04ec046e6ada4a3b41feaf022.png" alt="Cover for Aégis" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-11</td>
       <td>Theatre of Tragedy</td>
@@ -438,7 +439,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 22</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 52</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 61</li>
         </ul>
@@ -465,6 +466,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/366cb824386b45e18bbce8ec23827a6a.png" alt="Cover for In a Reverie" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-16</td>
       <td>Lacuna Coil</td>
@@ -495,7 +497,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 9</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 42</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 52</li>
         </ul>
@@ -613,25 +615,6 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
         <ul>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 95</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/184fb59b18664121c11939b81c25d865.png" alt="Cover for Believe in Nothing" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Paradise Lost</td>
-      <td>Believe in Nothing</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -781,9 +764,8 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/j8K0YkrR811ed-pe7b-_SOulZn69rVZVGXj3xPUJYc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDI2/OC0xMzU0NDY5ODE5/LTk3NzYuanBlZw.jpeg" alt="Cover for Judas Christ" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-13</td>
       <td>Tiamat</td>
@@ -835,7 +817,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2002-07-22</td>
@@ -849,14 +831,14 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/TV47bklAfOMYANGs9--e9ydWjYZk5fK7zlANkx6hPhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDQ5/NS0xMjAyNDA0NzU3/LmpwZWc.jpeg" alt="Cover for Comalies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a128241d975b41fa9c5040aa9daf0753.png" alt="Cover for Comalies" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-18</td>
       <td>Lacuna Coil</td>
@@ -891,6 +873,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc0c7e35e1e2d0e239f9c81a24a71299.png" alt="Cover for Running Up That Hill" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Within Temptation</td>
@@ -906,12 +889,12 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
         <ul>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 53</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 53</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 78</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/3ijXohPd_KFukDdpZVXq5agCtduq9NPGDVmCr2VCAFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzQ5/Ny0xMTQ0OTU2OTQ2/LmpwZWc.jpeg" alt="Cover for Escapexstacy" style="max-width:120px; height:auto;" />
       </td>
@@ -925,7 +908,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 14</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -985,7 +968,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2003-10-20</td>
@@ -1058,7 +1041,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-03-25</td>
@@ -1091,13 +1074,13 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 42</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 44</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/vNuMJXOGozNTEFU43YCMXvn9ueSGPKd3EwzRZgZQIbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODc2/Ni0xMjkxMDM2MzQ4/LmpwZWc.jpeg" alt="Cover for Once" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,6 +1101,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea5bd9d3a5d02f17cb0f0fb16cea314f.png" alt="Cover for Lovelorn" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-17</td>
       <td>Leaves&#39; Eyes</td>
@@ -1130,7 +1114,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 77</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 78</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 92</li>
         </ul>
       </td>
@@ -1152,13 +1136,13 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 18</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2004-10-04</td>
@@ -1249,7 +1233,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/HdTBGJEIBmoR18t_nhjFIgztRCQ5ehwvoT-VZArjQhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjU2/OS0xMzc1NDk4OTM1/LTc2MTEuanBlZw.jpeg" alt="Cover for Vinland Saga" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,7 +1248,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 34</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 36</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 51</li>
         </ul>
       </td>
@@ -1284,13 +1268,13 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 59</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f850d2d30bb446c7b243d52843367e20.png" alt="Cover for Songs for the Sinners" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1292,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2005-09-05</td>
@@ -1327,6 +1311,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f84a990ae3486ab379f2a0d3eab19f.png" alt="Cover for My Twin" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-13</td>
       <td>Katatonia</td>
@@ -1339,7 +1324,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 42</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 88</li>
         </ul>
       </td>
@@ -1364,7 +1349,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/RdxlAN5zGO5f4MejAkUjvSI0nojpgBtPboh5R-TZieU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTQw/Mi0xMTQ0Njg2NDI3/LmpwZWc.jpeg" alt="Cover for Karmacode" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c2844d0d33347bd8f4cb0643c3d2041.png" alt="Cover for Karmacode" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-31</td>
       <td>Lacuna Coil</td>
@@ -1380,7 +1365,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2006-04-21</td>
@@ -1411,8 +1396,8 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 7</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 32</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 14</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1417,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 60</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 71</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1439,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a15c4f3ac52e8d53d14a1ae917c88a7b.png" alt="Cover for The Open Door" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,8 +1454,25 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 55</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006-11-10</td>
+      <td>Mortal Love</td>
+      <td>Forever Will Be Gone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1499,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/el9hA9fX3v1L3XzKfowr0pm73E2v3nMXrW6g0Blo5tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzQx/Ni0xMjQ1MDk5MDYz/LmpwZWc.jpeg" alt="Cover for Illumination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff54fbb1fec04357a3f002876278ff58.png" alt="Cover for Illumination" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-19</td>
       <td>Tristania</td>
@@ -1526,7 +1528,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 15</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1680,6 +1682,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1702,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 24</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1718,7 +1721,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 4</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1741,15 +1744,15 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 6</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 33</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 79</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 86</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-04-18</td>
@@ -1768,7 +1771,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2012-06-01</td>
@@ -1783,13 +1786,13 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 8</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 11</li>
             <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2014-03-28</td>
@@ -1888,51 +1891,51 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 7</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 36</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 47</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 38</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 57</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 64</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 64</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 66</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 85</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 91</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
@@ -2024,68 +2027,69 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 26</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 36</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 20</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 27</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 28</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 44</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 78</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 81</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06ce36733e5345e26b8a5f4e7501ef7e.png" alt="Cover for Obsidian" style="max-width:120px; height:auto;" />
       </td>
@@ -2100,7 +2104,7 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 14</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -2183,67 +2187,67 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 4</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 4</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 17</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 45</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 56</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 64</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 71</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 88</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/1NQBEK-trPKby3L_DUj_Qb_CTMHtD2OlAY82dH3mWZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzM3/OTE4LTE3MDc0MTQx/MzQtMjA5MS5qcGVn.jpeg" alt="Cover for Atrium" style="max-width:120px; height:auto;" />
       </td>
@@ -2340,25 +2344,24 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 16</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 39</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 40</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 53</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 59</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 82</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
@@ -2366,46 +2369,47 @@ Gothic metal is a subgenre of heavy metal music that incorporates elements of go
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
