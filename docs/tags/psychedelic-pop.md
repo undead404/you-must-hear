@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:38:09.368Z
+date: 2025-11-15T01:07:46.598Z
 permalink: tags/psychedelic-pop
 title: psychedelic pop
 ---
 
 ## psychedelic pop
 
-Last updated: <time datetime="2025-11-13T16:38:09.368Z">Thu Nov 13 2025 18:38:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T01:07:46.598Z">Sat Nov 15 2025 03:07:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,14 +43,14 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 50</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 85</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/45s3kHunRtp8qOIesLytiUOOx-zXP2rgdbYFKIu1j9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjg4/OTctMTY4NDMzOTM5/Ny03ODk4LmpwZWc.jpeg" alt="Cover for Good Vibrations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30c2e252415f45e9c584879a1c47a562.png" alt="Cover for Good Vibrations" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-10-10</td>
       <td>The Beach Boys</td>
@@ -68,9 +68,9 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 17</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 18</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 41</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 79</li>
             <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 87</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 90</li>
         </ul>
@@ -94,13 +94,13 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 80</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 82</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c4cc274b001481ca7441a0d7561a983.png" alt="Cover for Smiley Smile" style="max-width:120px; height:auto;" />
       </td>
@@ -116,12 +116,12 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 36</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 55</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1d5c567052442288451e47c647f2d56.png" alt="Cover for Magical Mystery Tour" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +153,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 57</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 58</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 60</li>
         </ul>
       </td>
@@ -174,10 +174,10 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 17</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 44</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 73</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 87</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 24</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 52</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 76</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 88</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 92</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 99</li>
         </ul>
@@ -197,8 +197,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -222,8 +221,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 36</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 84</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 86</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 91</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 97</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 100</li>
@@ -253,7 +252,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3249323a979d7a5293be8282f510f994.png" alt="Cover for Skylarking" style="max-width:120px; height:auto;" />
       </td>
@@ -267,13 +266,13 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 62</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 84</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 63</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0edbd695dd46f9b647a6e39682392bb.png" alt="Cover for Oranges &amp; Lemons" style="max-width:120px; height:auto;" />
       </td>
@@ -291,8 +290,9 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6da8895ed650fe57cc92270624f2a1c.png" alt="Cover for Smiley Smile (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-08-30</td>
       <td>The Beach Boys</td>
@@ -304,7 +304,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -322,8 +322,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 38</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 60</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -347,7 +347,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/_hSbsZbIi0GtuWeTkUnYaPckAUipMbH3LIyn46dCiws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODA2/NC0xMTUxMzkzMTQ2/LmpwZWc.jpeg" alt="Cover for Black Foliage: Animation Music" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +366,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11ae681af9308bf426c8b5dc98ce7426.png" alt="Cover for The Soft Bulletin" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d95557510da9abc62d11a29755c6a5f.png" alt="Cover for Echo&#39;s Answer" style="max-width:120px; height:auto;" />
       </td>
@@ -417,13 +417,14 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 7</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 46</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/02lOe6T6NzmX-UPochjbWrKnVlGc9TVhVMyhbrv6TEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODI1/LTEyMzUzMzE3NDEu/anBlZw.jpeg" alt="Cover for Yoshimi Battles The Pink Robots" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +440,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 52</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 61</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 72</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -463,7 +464,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e590e8f326426606396f68f2d31eaf02.png" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
       </td>
@@ -480,19 +481,19 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 43</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 54</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 55</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 60</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 63</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 90</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2005-10-14</td>
@@ -505,9 +506,10 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 9</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 41</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 83</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 86</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 90</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 100</li>
         </ul>
       </td>
@@ -528,8 +530,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 75</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 86</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 76</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -550,8 +552,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 30</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 31</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 61</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 72</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -574,15 +576,15 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
         <ul>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 5</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 9</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 16</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 32</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 34</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 89</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd741c19823548b8b28496619d8c2915.png" alt="Cover for Fruit" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +620,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 37</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 87</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -640,7 +642,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 38</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 88</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -659,7 +661,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -678,8 +680,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 58</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 52</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -700,7 +702,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -725,7 +727,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/GTbxFdUtldP004NGyDsgBv6L5Z6ex9Osbi6jmkYm1TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTUz/MDMtMTQ5MTY1NTE3/NC0zNzU4LmpwZWc.jpeg" alt="Cover for The SMiLE Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -741,14 +743,14 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 32</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 61</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 64</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73998c672ce40728a27e0b176e1e5b1.png" alt="Cover for Tomboy" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +764,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 17</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 19</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 25</li>
         </ul>
       </td>
@@ -791,7 +793,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9ed65c5b337129f6b50ca5894d7319.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
       </td>
@@ -807,12 +809,12 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 8</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 13</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 21</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 26</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 27</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 50</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 59</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
@@ -839,7 +841,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c84a008a4a8f2cf122896438b8460db.png" alt="Cover for Django Django" style="max-width:120px; height:auto;" />
       </td>
@@ -879,15 +881,15 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 32</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 33</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 59</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 95</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26809cc478504c61a3e78bec91464941.png" alt="Cover for Take the Kids Off Broadway" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +929,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2012-08-20</td>
@@ -957,13 +959,13 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 60</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 68</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 59</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd4ea33ee02465cc66904460ee8e91d.png" alt="Cover for 2" style="max-width:120px; height:auto;" />
       </td>
@@ -979,8 +981,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 29</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 63</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 64</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 89</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 95</li>
         </ul>
       </td>
@@ -1025,7 +1027,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2013-06-10</td>
@@ -1042,7 +1044,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b130c60adfa4ecdce82f0f9dbad9341.png" alt="Cover for a year in your garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,13 +1063,13 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 32</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 44</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 49</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2014-03-07</td>
@@ -1100,39 +1102,16 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 1</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 2</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 20</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 33</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 68</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td>2014-05-19</td>
-      <td>Todd Rundgren</td>
-      <td>A Wizard &#x2F; A True Star</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 18</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 53</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6051263a36ad604cbe0542205aa701ce.png" alt="Cover for ZABA" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,12 +1125,12 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 24</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 32</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 52</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 58</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 60</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 87</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1191,12 +1170,12 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 74</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7501c6d7f1054dd3cdeb4a489527d481.png" alt="Cover for Panda Bear Meets the Grim Reaper" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,13 +1189,13 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 30</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09440a2a85f04088c0172a4f0d99f2ff.png" alt="Cover for The Great Pretenders" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1289,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1362,7 +1341,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/025897b1a3ca8f3f4289cecf6d5d9853.png" alt="Cover for Painting With" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,8 +1357,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 1</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 61</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1380,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 16</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1422,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 38</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 84</li>
         </ul>
       </td>
@@ -1462,8 +1441,8 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 63</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 64</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 90</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 96</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 100</li>
         </ul>
@@ -1504,12 +1483,12 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 11</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae6923c167ace3e916ce6de402d546ef.png" alt="Cover for Miley Cyrus &amp; Her Dead Petz" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,9 +1522,9 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 6</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 63</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 67</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 7</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 66</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 72</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 94</li>
         </ul>
       </td>
@@ -1565,7 +1544,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1568,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 69</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 92</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 98</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 99</li>
@@ -1613,9 +1592,9 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 66</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 69</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 74</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 98</li>
         </ul>
       </td>
@@ -1665,9 +1644,9 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 99</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 100</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 100</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 100</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1686,9 +1665,9 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 3</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 11</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 61</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 71</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 74</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 85</li>
         </ul>
       </td>
@@ -1751,14 +1730,14 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 61</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 71</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 68</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 78</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2019-09-20</td>
@@ -1796,7 +1775,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c84efa4965da3dc4c1a40c40afe389.png" alt="Cover for Oncle Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1813,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 71</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 81</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 86</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 94</li>
@@ -1866,7 +1845,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f497dafe4798c0af740c080c5577c8c.png" alt="Cover for Where Does The Devil Hide" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1884,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 28</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1925,7 +1904,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 85</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1946,7 +1925,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 55</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 72</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 75</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
         </ul>
       </td>
@@ -1991,7 +1970,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 41</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2011,13 +1990,13 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 36</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/jTygJoNsxxhvp-ucdBZhrsbtKDg5fTdssMLh1npRCvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI0/Mzk0LTE2NDM1NDU1/NDYtNDU3NS5qcGVn.jpeg" alt="Cover for Pompeii" style="max-width:120px; height:auto;" />
       </td>
@@ -2051,13 +2030,13 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 76</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/242e5e9da2779f9802644a6d85a58815.png" alt="Cover for Let’s Start Here." style="max-width:120px; height:auto;" />
       </td>
@@ -2071,7 +2050,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 70</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 71</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 89</li>
         </ul>
       </td>
@@ -2095,7 +2074,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4290cfea362d4fcb8115c747e87882ff.png" alt="Cover for Summer Plumage" style="max-width:120px; height:auto;" />
       </td>
@@ -2117,7 +2096,7 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b705ae06953ab57080b289a6414a1702.png" alt="Cover for Sundress - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2154,8 +2133,29 @@ Psychedelic pop is a genre of music that emerged in the mid-1960s as an offshoot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 28</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 39</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe19435c7a112e20722ca2245f2f1524.png" alt="Cover for Pale Blue" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Mosss</td>
+      <td>Pale Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
