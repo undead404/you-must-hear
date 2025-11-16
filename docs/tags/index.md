@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-16T11:59:56.480Z
+date: 2025-11-16T12:41:59.614Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-16T11:59:56.480Z">Sun Nov 16 2025 13:59:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T12:41:59.614Z">Sun Nov 16 2025 14:41:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [france]({{ "tags/france" | relative_url }}) | <time datetime="2025-11-16T12:41:59.614Z">Sun Nov 16 2025 14:41:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [album rock]({{ "tags/album-rock" | relative_url }}) | <time datetime="2025-11-16T11:59:56.480Z">Sun Nov 16 2025 13:59:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [vaporwave]({{ "tags/vaporwave" | relative_url }}) | <time datetime="2025-11-16T11:59:39.186Z">Sun Nov 16 2025 13:59:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-punk]({{ "tags/post-punk" | relative_url }}) | <time datetime="2025-11-16T11:58:44.360Z">Sun Nov 16 2025 13:58:44 GMT+0200 (Eastern European Standard Time)</time> |
@@ -196,7 +197,6 @@ Last updated: <time datetime="2025-11-16T11:59:56.480Z">Sun Nov 16 2025 13:59:56
 | [russian rock]({{ "tags/russian-rock" | relative_url }}) | <time datetime="2025-11-15T00:36:48.987Z">Sat Nov 15 2025 02:36:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [funk]({{ "tags/funk" | relative_url }}) | <time datetime="2025-11-15T00:36:36.265Z">Sat Nov 15 2025 02:36:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [noise rock]({{ "tags/noise-rock" | relative_url }}) | <time datetime="2025-11-15T00:36:08.534Z">Sat Nov 15 2025 02:36:08 GMT+0200 (Eastern European Standard Time)</time> |
-| [france]({{ "tags/france" | relative_url }}) | <time datetime="2025-11-15T00:35:49.554Z">Sat Nov 15 2025 02:35:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [musique concrete]({{ "tags/musique-concrete" | relative_url }}) | <time datetime="2025-11-15T00:33:52.469Z">Sat Nov 15 2025 02:33:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [goth rock]({{ "tags/goth-rock" | relative_url }}) | <time datetime="2025-11-15T00:33:11.429Z">Sat Nov 15 2025 02:33:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [iceland]({{ "tags/iceland" | relative_url }}) | <time datetime="2025-11-15T00:33:06.883Z">Sat Nov 15 2025 02:33:06 GMT+0200 (Eastern European Standard Time)</time> |

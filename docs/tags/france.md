@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T00:35:49.554Z
+date: 2025-11-16T12:41:59.614Z
 permalink: tags/france
 title: france
 ---
 
 ## france
 
-Last updated: <time datetime="2025-11-15T00:35:49.554Z">Sat Nov 15 2025 02:35:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T12:41:59.614Z">Sun Nov 16 2025 14:41:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/gEbj0viE_2dGH__IhefzrDr1pYhXj-DtXwsQg4pUyHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDcy/MTQtMTQ0NDM3MTA2/NC03MDc2LmpwZWc.jpeg" alt="Cover for Cannabis OST" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d8a1446572d7b85a1a881866d7d17f.png" alt="Cover for Répression" style="max-width:120px; height:auto;" />
       </td>
@@ -91,7 +91,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>1984</td>
@@ -131,7 +131,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a62b593dc8df8a17766eb34d810c7238.png" alt="Cover for Vénus" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +152,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/M5ShdaYBYAyvxUTZ8Ms2uDsG_s2dIR1v2QSFTAceIxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzA1/MC0xMjMxMzY2ODcw/LmpwZWc.jpeg" alt="Cover for Don&#39;t Say E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03015be2ad25c563628b3ea8ed97602e.png" alt="Cover for Gang" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 65</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 67</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 96</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 99</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 99</li>
@@ -218,7 +218,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/UQLlPjqFCPXJWb8FfTIolno-fhIZtbzgzgHB5vBTFyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTcx/NjUtMTQyMTA1MjU3/NS05ODc5LmpwZWc.jpeg" alt="Cover for One Life : four remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c1f43588c91e43c012215c55543d8e.png" alt="Cover for 70 Suns In The Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -283,12 +283,12 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 12</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/IqpTOBaPMeoDFkLDbNH-f7ypOcvzI4vffA6fF3SqFms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQ3/NC0xMTM2NTg4NTU3/LmpwZWc.jpeg" alt="Cover for Tout savoir" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +319,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>1994</td>
@@ -341,7 +341,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/hAqR_XW_mbHdn_eBuKwkMJy6tJXsfz-WUIJCoQt_yz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDM1/NjYtMTQwODU1MjIw/MC0xNjQ2LmpwZWc.jpeg" alt="Cover for Démons (La frustration) [feat. Laylow]" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +362,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/hHiAlMvS-nO8sV4GLHt1ahHs7h8AS_JOoZ2fRIOAxmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTkt/MTIzMDE2MDA0OC5q/cGVn.jpeg" alt="Cover for Best Of Roulé" style="max-width:120px; height:auto;" />
       </td>
@@ -389,7 +389,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
       </td>
       <td>1995-04-13</td>
@@ -408,7 +408,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>1995-05</td>
@@ -427,7 +427,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8063098b1944471a95ef3d68b61317f.png" alt="Cover for Allure" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +450,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>1999</td>
@@ -468,7 +468,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
       </td>
       <td>1999-03-01</td>
@@ -488,7 +488,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/616b8835d39743a1adc65ce37ad521a9.png" alt="Cover for Production" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +506,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
       </td>
       <td>2001</td>
@@ -530,7 +530,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2001-03-19</td>
@@ -547,7 +547,36 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/SPO5c0o5huhavDQIPGPbLlNJ-CssrBcdub_EZxKrTdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTgw/MDEtMTM4OTc2MzM4/NC0xNjgxLmpwZWc.jpeg" alt="Cover for Tilting On Windmills" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Malibu</td>
+      <td>Tilting On Windmills</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 56</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
       </td>
       <td>2002-09-24</td>
@@ -591,7 +620,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2002-11-18</td>
@@ -608,7 +637,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/_so7-ycymPB-ZqIvvSdnmY0qzkBIt09cqG-K1HiTAGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg1/MjYtMTIzMzI2MjQw/Mi5qcGVn.jpeg" alt="Cover for Notre Epoque" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +660,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04ebcb43abe345c9aa6f5b934e5e3c90.png" alt="Cover for Mes Courants Electriques" style="max-width:120px; height:auto;" />
       </td>
@@ -647,14 +676,14 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 12</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 16</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 18</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b61acc7b1699fbf6ccbd3188c867f2e.png" alt="Cover for L&#39;amour Parfait" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +703,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f2bb588ca52d81f0a1f0c9e1bc57209.png" alt="Cover for 300 Lesions" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +722,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>2004-03-01</td>
@@ -721,7 +750,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e10df2d53c444d43a89fd209f5a5fb2e.png" alt="Cover for La Tête en Arrière" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +790,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2004-09</td>
@@ -782,7 +811,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/hRi6VW7XujvHltiYr6yVLnF9f09ydXYImKYZ_hgEQwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjQz/NTMtMTQ3NTc2ODU1/NC03NjkyLmpwZWc.jpeg" alt="Cover for La Chance..." style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +835,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2005-10-24</td>
@@ -827,7 +856,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/wJ6ebsbB4VdrU_yIL1vWtarSiiJvEdC_gN8h5DlX_K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM3/MDktMTYwNjg1Mjk0/NS01NzAyLmpwZWc.jpeg" alt="Cover for Voyage" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +878,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
       </td>
       <td>2006-03-27</td>
@@ -869,7 +898,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b297f5aa4dbf441a842b605f7cfa23d1.png" alt="Cover for Hapless" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +930,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7e3323bcbbc484090cac9ecdbb68c13.png" alt="Cover for Le klub des 7" style="max-width:120px; height:auto;" />
       </td>
@@ -926,7 +955,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21dc8246fbe3771abdabcf927d2b606d.png" alt="Cover for L&#39;Idéologie Des Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +983,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0090c6f5d154214939404ae5a9efeef.png" alt="Cover for Chapel Hill" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,13 +1042,13 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 38</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 41</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Z0CqEnQy6bAYFt3zTXOkVqoiEuzFyUyGazdASrqfsbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTMw/MTQtMTQ5NDI3MjY0/MC01Mjk5LmpwZWc.jpeg" alt="Cover for Divine Idylle" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,8 +1062,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 73</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 73</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 75</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 76</li>
         </ul>
       </td>
@@ -1054,29 +1083,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5de0c384104a47cb8590506c5e5732e9.png" alt="Cover for Manual for successful rioting" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-01-01</td>
-      <td>Birdy Nam Nam</td>
-      <td>Manual for successful rioting</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 8</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1102,7 +1109,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>2009-04-06</td>
@@ -1120,7 +1127,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e369101f6c04b439194f6880e29621f.png" alt="Cover for Music For A While" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1147,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6de6e5019e354159ab843727ba85e958.png" alt="Cover for Dunya" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,7 +1174,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>2010-03-01</td>
@@ -1186,7 +1193,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
       </td>
       <td>2010-03-21</td>
@@ -1207,7 +1214,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b23de3cad394dabaa5c4302ea6742aa.png" alt="Cover for Cardioid" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,7 +1238,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6011fa864f1a4cac822508c63479021c.png" alt="Cover for Franky Knight" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1278,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>2012-10-09</td>
@@ -1293,7 +1300,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2013-10-28</td>
@@ -1323,7 +1330,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/_OjjUq6w0B1UJW8J_8W_0gZaJM1DA81iUk9skoF_jss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzI2/MzUtMTQxNjY4MjM3/My04MTExLmpwZWc.jpeg" alt="Cover for Burning Peacocks - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1348,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/bD0arcKNY0NU-H3CKga_eafGbzWY0XHalLlX_4lGqzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTkx/NDAtMTQ1MTkzODE5/OC00MzE4LmpwZWc.jpeg" alt="Cover for Big Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1366,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52e1d5905f1de87ce017f029662f28f.png" alt="Cover for L&#39;autre moi" style="max-width:120px; height:auto;" />
       </td>
@@ -1386,7 +1393,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d30d3f17c5087458e5415cd6aab255a.png" alt="Cover for Corpo Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1421,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38efc69f747f0c1c32c4a372c42b9ae3.png" alt="Cover for Radio Girl - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1448,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ec328eb624140663fc137655f5d5493.png" alt="Cover for Sos (Chapitre 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,7 +1496,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/mTcbEyd_-1x047nj7a0QFpxEFlXL2Y6aMgzZm084vBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk1/NjctMTQ3OTIyMjc5/MC0yMzY2LmpwZWc.jpeg" alt="Cover for Love Réaction" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,7 +1535,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/bC2BkbaMEA4MLNbtcKfM4vAD_vJERxOerVcctWMCD2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE1/NjMxLTE0OTM1NDQ2/NzktMTc4Ny5qcGVn.jpeg" alt="Cover for Du pouvoir" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1564,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df608c1611886a28f076f852fb0c54f3.png" alt="Cover for Ma peau aime" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1595,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7789157a89c3e69b7628dfc603b5e7.png" alt="Cover for Je suis une Île" style="max-width:120px; height:auto;" />
       </td>
@@ -1615,7 +1622,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc66f9a5788424f3f7f7045ca95ae3c2.png" alt="Cover for Soeur Nature - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,6 +1656,36 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/D3P1vdZdz8PIRw4SFj7WXRaYbjutwCCArd3qOv-N7lE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjEx/NTgzLTE1Mzg1NzYx/MDUtNTQ0NS5qcGVn.jpeg" alt="Cover for La flemme" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-02</td>
+      <td>Nell Widmer</td>
+      <td>La flemme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 18</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/609527569906a88e038decf5b665af3d.png" alt="Cover for But You Will" style="max-width:120px; height:auto;" />
@@ -1677,7 +1714,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Fl9kmMjP5lo_QoFhI2yjZpSL6WDlb0GL_j4DBvayGpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/NjI5LTE1ODQ3ODc1/NjItNjYxNi5qcGVn.jpeg" alt="Cover for Boucle" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,25 +1736,6 @@ French pop blends chanson traditions with contemporary electronic and indie infl
         <ul>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 21</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc7fca4993068ab01d80fd02877e4e35.png" alt="Cover for Vikings Chant" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-02-01</td>
-      <td>Skáld</td>
-      <td>Vikings Chant</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1747,7 +1765,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6947ad4926b10dafc675d247ddd9e091.png" alt="Cover for Les étoiles vagabondes" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1816,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/935856874d5dc7c61eb6818b49405aac.png" alt="Cover for Il suffit d&#39;y croire (Version deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,7 +1851,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/260c15a95d04e2daf52925120bac0501.png" alt="Cover for Endless Legend (Original Video Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1896,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 64</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
@@ -1889,7 +1907,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/29PNxElHIQ8YLt7grE898Sfm1bajIBSHJO0ATI7vW7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU1/MDM3LTE2NzgyMjky/NjItMjc2NC5qcGVn.jpeg" alt="Cover for Ummon" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1926,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d301f5af9b64c9dc1633194c23bcc1c0.png" alt="Cover for Aimée" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1949,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6bc70e79c783c140dfa43e950c619a4.png" alt="Cover for Orages" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,7 +1976,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/775b2cec625bc1063f637c115e20fc3a.png" alt="Cover for Sexy Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +2038,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 6</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 89</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 93</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
@@ -2031,7 +2049,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Pe2oAbFEYZyiVJH92Utv_jZBUHxbWmQ84NEgI6gzvaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ0/MzY2LTE2MTk4Nzg5/NzEtNTYzNC5qcGVn.jpeg" alt="Cover for SEMPRE &#x2F; JAMAIS" style="max-width:120px; height:auto;" />
       </td>
@@ -2062,7 +2080,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5462517d56f40f61955f6aa9fc93de8.png" alt="Cover for L&#39;amour hélas" style="max-width:120px; height:auto;" />
       </td>
@@ -2103,7 +2121,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 25</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 69</li>
@@ -2112,7 +2130,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56212e459f24e7dadefa29e1e20f86ec.png" alt="Cover for Dimanche" style="max-width:120px; height:auto;" />
       </td>
@@ -2138,7 +2156,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/lomdH7ynGGx0PUcgLTz6MA1yLGxVIrZbiJrUg3zdIjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEz/OTAwLTE1MDY0Mzg4/OTUtODc2Ny5qcGVn.jpeg" alt="Cover for Popcorn Salé" style="max-width:120px; height:auto;" />
       </td>
@@ -2170,7 +2188,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/1BWONT7TwxxxcgVPmaBInPgKgZF2PDPPID8ffJEqJhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQx/MzU3LTE2NDk2NzQw/NzItNjQzOC5qcGVn.jpeg" alt="Cover for bedroom walls" style="max-width:120px; height:auto;" />
       </td>
@@ -2188,13 +2206,13 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 11</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 13</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecdaa2bca45042c3df750e67236df3ea.png" alt="Cover for Pyrale" style="max-width:120px; height:auto;" />
       </td>
@@ -2214,7 +2232,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 41</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 50</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 62</li>
         </ul>
       </td>
@@ -2258,7 +2276,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a6838be010df9b5f92e31e38db20e3.png" alt="Cover for Et alors ?" style="max-width:120px; height:auto;" />
       </td>
@@ -2343,7 +2361,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 79</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
@@ -2354,7 +2372,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a3d75d44c5464b7e61370137d647941.png" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
       </td>
@@ -2386,7 +2404,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for Fantaisie" style="max-width:120px; height:auto;" />
       </td>
