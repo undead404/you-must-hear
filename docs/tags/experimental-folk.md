@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T11:38:52.664Z
+date: 2025-11-15T21:10:21.946Z
 permalink: tags/experimental-folk
 title: experimental folk
 ---
 
 ## experimental folk
 
-Last updated: <time datetime="2025-11-12T11:38:52.664Z">Wed Nov 12 2025 13:38:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T21:10:21.946Z">Sat Nov 15 2025 23:10:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/_HUDCKOafb8aqsl5QMOSZhQbYSf9yP_x7TgI5PgEodg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ5/NzgxLTE1MTI3MzQ4/MjgtNDU2Mi5qcGVn.jpeg" alt="Cover for Light Years" style="max-width:120px; height:auto;" />
       </td>
@@ -75,7 +75,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       <td>
         <ul>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 9</li>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 55</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -156,8 +156,8 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 34</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 51</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 35</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 48</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
             <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 72</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 75</li>
@@ -223,7 +223,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7992c070a1d0f1a1f1787f34cabb947.png" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
       </td>
@@ -248,14 +248,14 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 2</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 2</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/1r4nqCKReudnfbvV6vL-LLlkjnFfVjf1ixjdolLBVj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg0/MS0xMTgyNzA3MTU1/LmpwZWc.jpeg" alt="Cover for Shadow Fracture" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +278,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/OnZ4R-h2GXREbjINsfIcvrQSMAuFNOBjd1dpCnRKHB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDEw/MjMtMTQ1ODkzMTM0/NC00NzMzLnBuZw.jpeg" alt="Cover for Tourists, come to Israel, it&#39;s a nice country" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +295,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62e58de7b0eb57c52399098b53721a74.png" alt="Cover for Parasitism" style="max-width:120px; height:auto;" />
       </td>
@@ -332,12 +332,12 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 83</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 94</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/EzBmCdaPcCEdAJdcI3acv8RN0Kqx1q_xQ-wfbUTPCEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzk0/NjEtMTI2NjE1NDc5/My5qcGVn.jpeg" alt="Cover for The Caution Curves" style="max-width:120px; height:auto;" />
       </td>
@@ -369,14 +369,14 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 46</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 49</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 70</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 88</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/MvFOxfNqNNs2ExNatjbGi1QJydSyiVqKEfOip1x8Fgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQz/OTUtMTMzMDMxODgz/NS5qcGVn.jpeg" alt="Cover for FoxFire And Aconite" style="max-width:120px; height:auto;" />
       </td>
@@ -452,14 +452,14 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 5</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
@@ -524,6 +524,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -546,13 +547,13 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 17</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 20</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2007</td>
@@ -573,7 +574,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2007-08-18</td>
@@ -615,7 +616,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 23</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +656,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/02mczJFBp9-IktLEQ2k0N18dGo04RmEg7YpSWzm929k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzg3/ODYtMTY5OTY0MzQy/OS01MzA5LmpwZWc.jpeg" alt="Cover for Tiger Sauce" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +800,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 1</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 45</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 65</li>
         </ul>
@@ -832,8 +833,8 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 22</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 66</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
@@ -842,7 +843,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/ToNDJYB10tX9A0_iyxhqDDBC6WiztqQw97sAiIVVKvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQx/MzItMTMyNDMwNzU1/MC5qcGVn.jpeg" alt="Cover for Clochette" style="max-width:120px; height:auto;" />
       </td>
@@ -869,7 +870,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 14</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 13</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 73</li>
         </ul>
       </td>
@@ -922,7 +923,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 2</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 50</li>
         </ul>
       </td>
@@ -949,7 +950,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/KJgT8HFuf-xlSQQOG_ym_ulhdtMjYUjbV1EC_FAXZZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjA1/NTItMTM3NDY1Mzk3/Ni02MDc2LmpwZWc.jpeg" alt="Cover for Paint Your Golden Face" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,9 +1027,9 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 4</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 3</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 30</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
@@ -1074,7 +1075,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/zOX-Wur6islf3OLCnwG4Idd_9xHTv1C1NAF40fbGImU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/ODgtMTI3NzE5Nzky/MC5qcGVn.jpeg" alt="Cover for a evasão das fadas" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1098,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/H3l_KKxbSMtOZrJ6UyGd-8YIlPHjw73eVbKfv8qjGq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTU5/MDItMTQyNzIxNjEx/NS0yMDI1LnBuZw.jpeg" alt="Cover for [LBN005]The dreams trilogy" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1180,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 40</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 46</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 68</li>
         </ul>
       </td>
@@ -1210,7 +1211,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 3</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 47</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 52</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 95</li>
@@ -1218,7 +1219,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/FegqeBEDGOw3DF-vofG2Y72tYhX-pLwa9wvW63AHwE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg1/MDctMTMwMzM1MDc0/My5qcGVn.jpeg" alt="Cover for Book of Burrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1274,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 35</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 38</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 87</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
@@ -1283,7 +1284,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/JVlI1M03Rs795S5mQ1QXBoeQXE7w9fKf88t_5BArJq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM2/ODItMTI5NTU2NjI3/MC5qcGVn.jpeg" alt="Cover for Blackwood EP [wh157]" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1306,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/yibIl6q3VttcKMcI5mzACxyQZDW5TJGz9lBS90lUmlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQy/NjMxLTE1NzI2MTE2/MjItNDQ1Ni5qcGVn.jpeg" alt="Cover for [LBN007] - Happy song is a happy song" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,12 +1328,12 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 32</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/NX1EUo3mJ0NsVV-0GA4kw0hR8X7EV9WZrABxVnTC-G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcy/NTAzLTE1NzczODMy/MTktNDYzOC5qcGVn.jpeg" alt="Cover for Seven Years of Gulliver" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1365,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/XphrbkheMG1CfFKoGsz9NgOHxLTMK56nJ27KAcIv75Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTU0/MzEtMTM3MzIyMDgx/My0xNzM1LmpwZWc.jpeg" alt="Cover for Second Spring" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1395,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/jNyQDfCfHCr4czp4nhfgOTkX2pGyh88c2NNHN7cQjOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTU3/OTItMTM1NTA3ODg0/Ni0xOTcwLmpwZWc.jpeg" alt="Cover for Hypatia" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1437,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 36</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 39</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 95</li>
         </ul>
       </td>
@@ -1468,14 +1469,14 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 25</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 26</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 35</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 43</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/HvbBBaL60yXytfokfoqwuM9L2UL1wXSDgsKWCzQRRfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcy/NTcwLTE1NzczODQx/ODEtOTg0MC5qcGVn.jpeg" alt="Cover for A Cup of Coffee for Your Fears" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,9 +1505,9 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/HvbBBaL60yXytfokfoqwuM9L2UL1wXSDgsKWCzQRRfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcy/NTcwLTE1NzczODQx/ODEtOTg0MC5qcGVn.jpeg" alt="Cover for A Cup of Coffee for Your Fears EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25587ad8564746519d70a169f65d2e8d.png" alt="Cover for A Cup of Coffee for Your Fears EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-01</td>
       <td>The Vévé Seashore</td>
@@ -1539,7 +1540,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3f07eb59fa94775933c00a1abef7771.png" alt="Cover for Sparkling days, sparkling nights E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1558,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/sSoocqwacNWcEoo4PfnNphjCvGQpa6iUWGx5FcK_70M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Njgw/MzItMTQwNzY1NDk5/Mi02NTA1LmpwZWc.jpeg" alt="Cover for Spokiu" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1617,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2012-03-04</td>
@@ -1642,7 +1643,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2012-04</td>
@@ -1667,7 +1668,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/TUILjsz2V2ZaKS1SBt02blVqtR-VZe2lcKU18MBlSV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDc1/NDAtMTQ4NTA5ODYw/Ny00MjA5LmpwZWc.jpeg" alt="Cover for Sister" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,13 +1687,13 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 23</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 21</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1a31805201063084bac7fa591593158.png" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1719,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 17</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 19</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 28</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 39</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 50</li>
@@ -1754,7 +1755,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/507cac80754d4932b477806ff0656b0f.png" alt="Cover for Utterly Heartbreaking" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,9 +1805,10 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 1</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 39</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1846,7 +1848,24 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d7bbc8b79a74324b69eeebee5bfd595.png" alt="Cover for You Won (or, We Have All Lost)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-11</td>
+      <td>Blood Cousin</td>
+      <td>You Won (or, We Have All Lost)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/sWZY54sz7FdT6RDNVQyeW8HrgcO6I3c4-vEW2AX8CSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTIw/NzItMTM4NDgxMjA2/NC0yMjcwLmpwZWc.jpeg" alt="Cover for Styx" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,7 +1923,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/pBuWmUrMfNDrnewqoGLq0Xkm_KHZmklbmZA3__h3n4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzQ2/NTAtMTQ4MTIxODYz/NS0yMzg0LmpwZWc.jpeg" alt="Cover for The New Mystikal Troubadours" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,7 +1943,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 11</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1949,31 +1968,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73eaddcecc804b48cb7ec03f57709ed7.png" alt="Cover for Ferian" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-07-07</td>
-      <td>Bishop and Atheist</td>
-      <td>Ferian</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f20f7cd2ace435ec3158349ff683a09.png" alt="Cover for Two Leaves Left" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,7 +1993,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d51523fd868641ff9bf962e2bf0bec80.png" alt="Cover for New Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +2016,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/l8boaw6nbfOoIP-k_PPwZNzBN9n9Jy2eggN0gzNTqpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTk4/NTQtMTQxMTU1NzA1/Mi02OTY5LmpwZWc.jpeg" alt="Cover for Fiesta, Que Viva La" style="max-width:120px; height:auto;" />
       </td>
@@ -2097,7 +2092,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7b6c03f28253318ec546ada48f744b1.png" alt="Cover for Mouth Mirroring Ear" style="max-width:120px; height:auto;" />
       </td>
@@ -2119,7 +2114,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/9rtbrDyZ-abpCeRql3oLsgZoN7mFGg1tfJ_egX_hvb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE2/MDMyLTE1MjQ2Nzgx/NDUtNTk2NC5qcGVn.jpeg" alt="Cover for Your heartbeat is the only percussion I need" style="max-width:120px; height:auto;" />
       </td>
@@ -2142,7 +2137,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43e77c062ca073019ce14b47fafa7839.png" alt="Cover for For Rain Count Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -2162,7 +2157,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/qpLC99oWqiQLtHFeekMlSCLLCqX29foUR9XjbgTdbaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/OTI0LTE1Mzc2MDcz/NTUtODY4My5qcGVn.jpeg" alt="Cover for Sleeping Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -2210,7 +2205,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a526e279e6c4b1d634d6df59403e6126.png" alt="Cover for With Hat" style="max-width:120px; height:auto;" />
       </td>
@@ -2236,9 +2231,9 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/PWBbJlRh9-n4QxmOevuXKGh10q4CnbQPTu2UvYHpmvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg3/NzI2LTE2MzgzNTcw/ODQtMzgxMC5qcGVn.jpeg" alt="Cover for ᚨᚱᚲᚺᚨᛁᚲ ᛋᚺᚨᛗᚨᚾ ᛗᚨᚷᛁᚲ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/706aa4192880684d54a6f4b014c5d7ed.png" alt="Cover for ᚨᚱᚲᚺᚨᛁᚲ ᛋᚺᚨᛗᚨᚾ ᛗᚨᚷᛁᚲ" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-16</td>
       <td>käärmekristus</td>
@@ -2292,8 +2287,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 58</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 99</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2341,7 +2335,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -2365,7 +2359,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d944c4432d0429ea97d6227afd7eb34.png" alt="Cover for i [heart] stuff" style="max-width:120px; height:auto;" />
       </td>
@@ -2390,7 +2384,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/638ecb9add7c45368a8d7ca46143ab4c.png" alt="Cover for 白夢の繭 ～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
@@ -2404,13 +2398,13 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 16</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 26</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 18</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2429,7 +2423,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2446,7 +2440,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2472,7 +2466,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2495,7 +2489,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2846ead7c83b47938b44e5529bd60104.png" alt="Cover for Friday After Friday" style="max-width:120px; height:auto;" />
       </td>
@@ -2515,7 +2509,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2535,7 +2529,7 @@ Experimental folk pushes traditional acoustic storytelling into unconventional t
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fb8cc3f255d13e07a4bc747a063605a.png" alt="Cover for Functionality" style="max-width:120px; height:auto;" />
       </td>

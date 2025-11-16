@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T11:04:57.110Z
+date: 2025-11-15T20:33:22.891Z
 permalink: tags/ska
 title: ska
 ---
 
 ## ska
 
-Last updated: <time datetime="2025-11-12T11:04:57.110Z">Wed Nov 12 2025 13:04:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T20:33:22.891Z">Sat Nov 15 2025 22:33:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/sz2U4tlnKeg032HOI5elhK8rIbRhrfjfgeyq3NqBH_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTIx/MDgtMTYxNjk0Njkz/NS04MTE3LmpwZWc.jpeg" alt="Cover for Israelites" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/USZZXK0YMLC5B0yjjPLfEnnOIr4lu51z0pYdzrdHw_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDUw/NTktMTQyMTY4MDY3/NC0zODQ2LmpwZWc.jpeg" alt="Cover for The Harder They Come (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -73,9 +73,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/BVuRGPv69x0f5U9ljR2mGw1j5PPg1jORDPoKQu6vd2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQz/MTItMTIwMTE4MTM0/Mi5qcGVn.jpeg" alt="Cover for London Calling (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbb142239a9edf3469b7d55d0e63043b.png" alt="Cover for London Calling (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>The Clash</td>
@@ -88,12 +88,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 89</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 90</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c416fdfa9b5dfe10887f09c701de3dd7.png" alt="Cover for Specials" style="max-width:120px; height:auto;" />
       </td>
@@ -111,8 +111,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9c314d5033efd72c076adfdd9980825.png" alt="Cover for The Specials" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-10-19</td>
       <td>The Specials</td>
@@ -128,26 +129,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/I6DgMqTueKvmbTAoewGLiejyxGcL56Qz3WcmH_g3ZlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjI3/OC0xMzAwMDk4MTgz/LmpwZWc.jpeg" alt="Cover for The Specials (2002 Remaster)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1980</td>
-      <td>The Specials</td>
-      <td>The Specials (2002 Remaster)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/601db83a0b2190f459437fd4f83ae380.png" alt="Cover for Absolutely" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +147,26 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd5329f9a177fd8dd04ead08e29f80b0.png" alt="Cover for The Specials (2002 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>The Specials</td>
+      <td>The Specials (2002 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6110c14656759f6d2a9ae4c20bc96e9.png" alt="Cover for I Just Can&#39;t Stop It" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +184,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5566c35cd60474c81f5a0be5b5678dd.png" alt="Cover for 7" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +202,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>1982</td>
@@ -220,7 +221,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90e2de18c5a64caecc3d29afc1ac8e80.png" alt="Cover for The Rise &amp; Fall" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +239,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
       </td>
       <td>1982-04-23</td>
@@ -255,7 +256,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>1983</td>
@@ -272,46 +273,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/698f6f6e7bddbca607a051d5bea778d8.png" alt="Cover for O Passo Do Lui" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Os Paralamas Do Sucesso</td>
-      <td>O Passo Do Lui</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 61</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 62</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 91</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 98</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 98</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 98</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37541a8afbe9935d0e92da0147a42180.png" alt="Cover for One Step Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +293,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/j0lKqacRA8451_G6tQGzzmM2dJAfg6j4ABuB1kYHXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTY4/ODAtMTQ5NzY1MDky/Ny0zNDQ5LmpwZWc.jpeg" alt="Cover for El Ritmo Mundial" style="max-width:120px; height:auto;" />
       </td>
@@ -353,7 +315,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4249ace025a94a66b07d85f9a49e51f6.png" alt="Cover for Big Bang" style="max-width:120px; height:auto;" />
       </td>
@@ -371,32 +333,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 12</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>1989-03-15</td>
-      <td>Operation Ivy</td>
-      <td>Energy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 90</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>1991</td>
@@ -416,7 +358,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/pmXRIZs2_4KyR5jdqks2WbYUexn9O6kctKOIkwzcezw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NjM3LTE1NDY5Nzkz/NzMtNzM1MS5qcGVn.jpeg" alt="Cover for El Circo" style="max-width:120px; height:auto;" />
       </td>
@@ -435,14 +377,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 16</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 50</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 17</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 52</li>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>1991</td>
@@ -461,7 +403,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/637fcd5d0bef4afca1bc56c4f79d8e33.png" alt="Cover for The Singles Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +421,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/132bdaffa8d5bc0dcbd588ed26c6891a.png" alt="Cover for King Of Bongo" style="max-width:120px; height:auto;" />
       </td>
@@ -518,9 +460,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Z2o3hL-MtmkTDJxi93YLnEq3DrHMGXvc1s0k6NMJ-Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDAx/NTgtMTQ2OTAyOTM1/OS0zNjc1LmpwZWc.jpeg" alt="Cover for 40 Oz To Freedom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8a8217ee69c40b4bf35f621fff9c694.png" alt="Cover for 40 Oz To Freedom" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Sublime</td>
@@ -537,7 +479,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b753a81d680ed282c8ec2fa87a31fc0d.png" alt="Cover for Divine Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +497,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/i9BTkHivcTgrsZip2cCKP_66I5kQdNlxm9IDQFZf6po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/MzItMTY3NTUxOTcx/My0zMjYwLmpwZWc.jpeg" alt="Cover for SKA-P" style="max-width:120px; height:auto;" />
       </td>
@@ -587,13 +529,13 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 66</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 68</li>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c60ca1d7e31b61169f4fd3c68b0b80bc.png" alt="Cover for The Beacon Street Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -608,13 +550,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 45</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa67e346b164f08cfeb0f5313b564a8.png" alt="Cover for ...And Out Come the Wolves" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-08-21</td>
       <td>Rancid</td>
@@ -627,7 +570,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 57</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 70</li>
             <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 100</li>
         </ul>
       </td>
@@ -648,13 +591,13 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 67</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 74</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>1996</td>
@@ -668,12 +611,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 55</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
       </td>
       <td>1996-06-11</td>
@@ -695,7 +638,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca4172637c984cf5cc3ea77c49bf26ea.png" alt="Cover for Turn the Radio Off" style="max-width:120px; height:auto;" />
       </td>
@@ -709,13 +652,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 83</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3afb1101bb6c0aadd83e7ac4c75725e.png" alt="Cover for Losing Streak" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11-12</td>
       <td>Less Than Jake</td>
@@ -728,12 +672,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 89</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997</td>
@@ -767,12 +711,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 18</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 86</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/p482GZg3m8ImCtj2iMJwny4KAwF9navzUv_E690-0YY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTMy/Mi0xMjUwMTA1Mjgx/LmpwZWc.jpeg" alt="Cover for Second Hand Smoke" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +735,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4667944bb41cd25d1d124ef30474d38e.png" alt="Cover for Let&#39;s Face It" style="max-width:120px; height:auto;" />
       </td>
@@ -806,12 +750,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 19</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 70</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d01bf1bd44fdf867b5c0bc8bcfbaea12.png" alt="Cover for Fush Yu Mang" style="max-width:120px; height:auto;" />
       </td>
@@ -830,7 +774,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b13fe70673df4046852b3cb19e269920.png" alt="Cover for Fabulosos Calavera" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +792,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da9a0ea64d25d86136d035a15993ad51.png" alt="Cover for It Means Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -865,8 +809,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6fda02f29fa4188bcb92d2149134259.png" alt="Cover for Hang-Ups" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-09</td>
       <td>Goldfinger</td>
@@ -878,13 +823,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 96</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19652d744b7e484cace70cd071d8a0d9.png" alt="Cover for Keasbey Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-03-23</td>
       <td>Catch 22</td>
@@ -897,12 +843,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 80</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
       </td>
       <td>1998-07-17</td>
@@ -916,32 +862,49 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 47</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da7a1a48cba43ac8e81bf1b1026080a.png" alt="Cover for Hello Rockview" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-09</td>
       <td>Less Than Jake</td>
       <td>Hello Rockview</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 98</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad56c2c42a84df8cd7fd90181c39599.png" alt="Cover for Los Hermanos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Los Hermanos</td>
+      <td>Los Hermanos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
       </td>
       <td>1999-05</td>
@@ -959,7 +922,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/663fa17443c247afc79538878e7a27f2.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +943,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2000</td>
@@ -997,13 +960,13 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 50</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 95</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 96</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92ac2081c50601a048a6cc4bc1975b29.png" alt="Cover for Return of Saturn" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +985,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2000-05-01</td>
@@ -1039,8 +1002,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9458f4f2494b4873c81cba7626d1d135.png" alt="Cover for The Holiday Has Been Cancelled" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-06-06</td>
       <td>Mad Caddies</td>
@@ -1056,8 +1020,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee7b0ad3fee382de11aafb09252fe0e.png" alt="Cover for Planeta Eskoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-09</td>
       <td>Ska-P</td>
@@ -1070,12 +1035,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 75</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fb451b8262f4e37ac17c39d9e639414.png" alt="Cover for Pomarańcza" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,7 +1060,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/tosfQdRHFdL4ZbnBVIwuD_rK72PBJGwStNPD0KwEEqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTI3/MjUtMTMyMDcwNjI2/Mi5qcGVn.jpeg" alt="Cover for Pomarancza" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1081,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f37b419f5b906bfb968dd25f8fc1612d.png" alt="Cover for Rock The Plank" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,12 +1096,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 54</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5717a531d69633597ace8e80e265effc.png" alt="Cover for Rock Steady" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,8 +1120,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18df77fd4bdfdc625acb2ab6655888f2.png" alt="Cover for A Call To Arms" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-12-21</td>
       <td>Bandits of the Acoustic Revolution</td>
@@ -1172,9 +1138,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/Ax8szcn58RN7uLE68wEoxa-tTRagQVM5eU5FKvuuDZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/MjAtMTIxMDk2NTYz/MS5qcGVn.jpeg" alt="Cover for Que Corra La Voz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/285b36b49f1106626efb9b5d7b95cf95.png" alt="Cover for Que Corra La Voz" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Ska-P</td>
@@ -1187,12 +1153,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 65</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2002-02</td>
@@ -1209,7 +1175,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>2002-03-26</td>
@@ -1226,7 +1192,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
       </td>
       <td>2003-03-11</td>
@@ -1240,12 +1206,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 84</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>2003-03-18</td>
@@ -1265,7 +1231,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2003-05-20</td>
@@ -1282,8 +1248,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31b15823dc240fb9e76e0571bb280c63.png" alt="Cover for Rump Shaker" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-28</td>
       <td>Suburban Legends</td>
@@ -1299,7 +1266,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td>2003-10-27</td>
@@ -1316,7 +1283,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
       </td>
       <td>2003-10-28</td>
@@ -1329,13 +1296,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 5</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ade5cf059437467f8ef3d2c6f102381a.png" alt="Cover for Incontrolable" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-30</td>
       <td>Ska-P</td>
@@ -1351,7 +1319,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2003-10</td>
@@ -1368,9 +1336,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/i5nyyRoefJfQJa98ij2UFT1UboK2VHtlFTrQV54LrK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYw/NzktMTMwMTMwMjg3/Ny5qcGVn.jpeg" alt="Cover for Prowincja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd5ad02b587e43f9c36231dca684f302.png" alt="Cover for Prowincja" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Akurat</td>
@@ -1388,7 +1356,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/irHnvCV2KL_z41XWEhEYKTz8GmOGHgq-s_HJ7tY58ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjE1/My0xNDgzOTE0NjYw/LTI2ODguanBlZw.jpeg" alt="Cover for Friend Or Foe" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,8 +1374,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5fc56fdd5b5a1e6132641304fdb6981.png" alt="Cover for Hollywood Potato Chip" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-29</td>
       <td>The Vandals</td>
@@ -1421,13 +1390,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 84</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2767b910b88f267f921f56035500563.png" alt="Cover for How It Goes" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-19</td>
       <td>Big D And The Kids Table</td>
@@ -1443,8 +1413,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/044d087af55f41dcc1e632657b5b5274.png" alt="Cover for The Best Of Goldfinger" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-19</td>
       <td>Goldfinger</td>
@@ -1460,8 +1431,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dc33f81e89c49818426667ceb560abe.png" alt="Cover for Charge!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-07</td>
       <td>The Aquabats</td>
@@ -1477,7 +1449,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/Dusb3jLFkQePzJo6tVdsXXhOzIe2RQK7owsjO5MTXys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzU5/Ny0xNjUyMTU3NjAz/LTQ1ODYuanBlZw.jpeg" alt="Cover for Two Shoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,12 +1465,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 60</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
       </td>
       <td>2005-10-09</td>
@@ -1514,13 +1486,13 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 64</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 65</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -1534,13 +1506,13 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 60</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 61</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8934527cddc4823c8656a5d8ac67f6f.png" alt="Cover for Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1530,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
       </td>
       <td>2006</td>
@@ -1582,7 +1554,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Kg6IyueR7ddnXMz4S-Xljt-02fnaSlgC5hhxXF0Zh0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM0/NDktMTU4OTY0ODkw/Ny0xNDY5LmpwZWc.jpeg" alt="Cover for Fantasmagorie." style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1572,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c04573ef4fe34ce63eea37d078eb7a2f.png" alt="Cover for Fantasmagorie" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1591,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
       </td>
       <td>2006-08-08</td>
@@ -1636,7 +1608,24 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>The Aggrolites</td>
+      <td>Aggrolites</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecdaa983cb16f620586f11a909e2f9f3.png" alt="Cover for The Expendables" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1643,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d26b91dd4bf34ec09ee3060d19ed6f2b.png" alt="Cover for Keep It Going" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,12 +1657,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 10</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/hWC9c_zxWoy_w9n1CnHHaHTHffPq6WWrwwHUZORR6qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU5/OTktMTY1MDE3OTcy/Ni01MTg5LmpwZWc.jpeg" alt="Cover for A Poets Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1681,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/3HyxzxvQL6ZXFeKZcZj-Wj0AjTv0jhiMPWZmNAbm5jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjMz/MDctMTU1MDI4NTUx/MC04NjA4LmpwZWc.jpeg" alt="Cover for Courage To Grow" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1699,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/9fb6LJCJKfF-Uf8dJRQiaVA22ecB9gq-AnkXNmKDr4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjgy/MjAtMTMyNDYzNTQ3/MC5qcGVn.jpeg" alt="Cover for And The Battle Begun" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1717,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/9fb6LJCJKfF-Uf8dJRQiaVA22ecB9gq-AnkXNmKDr4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjgy/MjAtMTMyNDYzNTQ3/MC5qcGVn.jpeg" alt="Cover for And the Battle Begun" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1735,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
       </td>
       <td>2007-11-13</td>
@@ -1759,12 +1748,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 76</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
       </td>
       <td>2007-12-08</td>
@@ -1783,7 +1772,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
       </td>
       <td>2008-03-31</td>
@@ -1800,7 +1789,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
       </td>
       <td>2009-05-08</td>
@@ -1815,12 +1804,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 31</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>2009-12-08</td>
@@ -1835,12 +1824,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 85</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/YV3Xz4cR2z1M42u0hCqcQ2c-M9j8QYfVei45ZMVFsgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQx/ODkwLTE1NzI2MDU4/NDAtNDQ3NS5qcGVn.jpeg" alt="Cover for Веселые картинки" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,7 +1848,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
       </td>
       <td>2013-05-17</td>
@@ -1876,7 +1865,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c590d0e195c2e6a610d6dba7bb65d0b7.png" alt="Cover for Bubblebath" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,7 +1887,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/QD9GtbS7Wew_4hoFlX2YelIgBWujwsIVsObfUdLU0fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzgx/MjMtMTQ2NjUxMzMw/Mi01MzM0LmpwZWc.jpeg" alt="Cover for Say It Out Loud" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,7 +1905,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc466d603031b919d4c88682210071e.png" alt="Cover for SKA DREAM" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,12 +1920,12 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 12</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddc763a5463eccd7afa96aaad1f33df3.png" alt="Cover for Somewhere in the Between" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1939,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 93</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 95</li>
         </ul>
       </td>
     </tr>

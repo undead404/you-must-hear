@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:44:23.285Z
+date: 2025-11-15T20:47:21.950Z
 permalink: tags/rumba
 title: rumba
 ---
 
 ## rumba
 
-Last updated: <time datetime="2025-10-22T00:44:23.285Z">Wed Oct 22 2025 03:44:23 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T20:47:21.950Z">Sat Nov 15 2025 22:47:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -53,7 +53,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ecrumZ4C5lJdVSrxmS2dkLJXghxeMm42saHVFJSexk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzgy/MTEtMTU2Mjg5OTE5/My04OTI4LmpwZWc.jpeg" alt="Cover for Rumbas &amp; Congas: Gold Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -93,13 +93,13 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 52</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 51</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/yXBQ0CdCxKsh7xEu4KiXW_S-l_8n2_tvMqpI1SW6v20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzM5/NTktMTI5ODU5OTMz/OS5qcGVn.jpeg" alt="Cover for Cante Gitano" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +163,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/_91Xl1YJ_rpbNZHjbJc-mCSpxU42-hFL6eb07nBqk_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc2/MjE3LTE2NjIwMDQx/OTctMjEzNC5qcGVn.jpeg" alt="Cover for Salsa Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/oS6TljNA1VvtuSNFHZSOuHNkvzul8gWAhJv3msOxCAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc5/ODEtMTE5NTA5MTcx/OC5qcGVn.jpeg" alt="Cover for Ákos Stefi" style="max-width:120px; height:auto;" />
       </td>
@@ -256,6 +256,24 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/954ea9ef0bfc1e522744f14d9a3aae91.png" alt="Cover for Selvagem?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Os Paralamas Do Sucesso</td>
+      <td>Selvagem?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
         </ul>
       </td>
       <td>
@@ -300,28 +318,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>Ross Mitchell</td>
-      <td>Sweet Beat</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ecrumZ4C5lJdVSrxmS2dkLJXghxeMm42saHVFJSexk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzgy/MTEtMTU2Mjg5OTE5/My04OTI4LmpwZWc.jpeg" alt="Cover for Lecuona Cuban Boys, Vol. 5 (1932-1940)" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +357,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/wMVqI54wwCWv6WQ3MVNdJCmGG4wcedUoGUva5czQsGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMy/OTcxLTE1Mjk1ODA3/NTktNTIzNC5wbmc.jpeg" alt="Cover for Club de Latinos" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +421,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/rXzk2W6XzarAXfWD1IpST6MfWjGQuYigSxQjr1y83n4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEw/OTQ4LTE1MDgxODYx/NzQtNjc4Ny5qcGVn.jpeg" alt="Cover for Congo Yambumba" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +501,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/JpHS3MHEMbumLhNZUWViWl85ootK06Cbi5RWUqplXxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODc4/NS0xMTU2ODQ3NzEy/LmpwZWc.jpeg" alt="Cover for Alegría Y Cosabuena" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +598,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/nWwRmPyxWLUfI1QoAXiCO-gbLvi5hgKaa16i2tCKlz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTY3/ODctMTM4NTc0Nzky/NS02MjExLmpwZWc.jpeg" alt="Cover for Mediterranean Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -639,7 +636,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/4WrZ7pTRTqPKq3rgOBW-NbD7gGqdRp5zbC_2AQCpFtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIw/NzQtMTI1NDY0NTQy/Ny5qcGVn.jpeg" alt="Cover for El Deseo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a17b051f1ba0cb8daab54fb8ccb35af.png" alt="Cover for El Deseo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>thomas lorenzo</td>
@@ -834,6 +831,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53542c382cc5b4fe6dd38126d0159a4f.png" alt="Cover for Juego De Almas" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>thomas lorenzo</td>
@@ -916,7 +914,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/K1alHOXLHOW39d92lZ6Xg4oCbZIqjPH8OEJxENAdfqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI5/MS0xMjg2NzEzNjY2/LmpwZWc.jpeg" alt="Cover for Rosario" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02bec1e412f141bbc185c98c51e9e398.png" alt="Cover for Rosario" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Rosario</td>
@@ -1113,7 +1111,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/G7Q4UOv4aojZRMyXbD7i17nvBcel3g8pxmLsVfY9BCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/MjktMTE4ODExMzk3/My5qcGVn.jpeg" alt="Cover for Sojourner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14d1913113b64497b9ad6dea89494c06.png" alt="Cover for Sojourner" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-07</td>
       <td>Magnolia Electric Co.</td>
@@ -1164,7 +1162,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 37</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1237,9 +1235,9 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/p_CZRgDd3X_9b-EPvDJVZBAfysn9J7vDQ40k6QCqQ5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjYw/ODktMTM3NDgzNzQx/OC04MTk4LmpwZWc.jpeg" alt="Cover for In The Mood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45b4062ab2e9d47875aeaa13510f9eee.png" alt="Cover for In The Mood" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>EMASHIE</td>
@@ -1261,7 +1259,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/5PyYh5721nW6NOIgJtSHD8Gwe-_BXQBa4Avj0nXg48c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE4/MDkwLTE3MDgwODM3/MDEtNzcwMy5qcGVn.jpeg" alt="Cover for Volvio la Rumba" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1303,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/BQbb8DSWoGh2M1IsyEF13nJlP-psP_jDov76Bt49b8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEw/MTAtMTMxNTI4NzYz/MS5wbmc.jpeg" alt="Cover for Espíritu Invisible" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/828bbf0e87f049c9992db404e9bfa710.png" alt="Cover for Espíritu Invisible" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>María y José</td>
@@ -1325,6 +1323,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f56347b36e534685b70d4dce53e1d9f7.png" alt="Cover for Spanish Breeze" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-25</td>
       <td>thomas lorenzo</td>
@@ -1386,7 +1385,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 27</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1434,7 +1433,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ZXkXs1FM4AaEw4JcVYT2riiwqP06C3X-AC_W9FciRqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ5/MjE1LTE1ODczMTIy/NzYtNDAzNC5qcGVn.jpeg" alt="Cover for Desprendimiento De Rutina" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1454,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/K7xUwF0FyUXmlKB3B_Qu0puEEK_ggstpXl6hx2Mbb80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODUw/ODctMTU4ODExNjE3/MC00NzA2LmpwZWc.jpeg" alt="Cover for Con Sabor a Rumba (Vol. 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1517,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/t_eeKPScF0IgDxBjO0dEy3z0kTLMjv0KuDiTw37SdBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njk0/NzgtMTYwNDY3MDQx/OC04MDM1LmpwZWc.jpeg" alt="Cover for No Magic No Bullet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75b6f7e49c39e30544583bddb49db1e9.png" alt="Cover for No Magic No Bullet" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Veeblefetzer</td>
@@ -1538,7 +1537,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/DyPxuvSf5augsqS2AQJLWlNeYiB74kxX5zb8XjD59Wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/ODE1LTE2NzQ5MTk2/MzItMzQ4OS5qcGVn.jpeg" alt="Cover for Authenticité 1960&#x2F;62" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1555,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/EKke8omPtwqKRTrnhJ3fqAjEQlMzl2D-Cs3qyd-WnoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkx/NjgtMTQ0Mjc0NDQ4/OS03MTkxLmpwZWc.jpeg" alt="Cover for The burguers HITS" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,7 +1612,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/m_UUcehD--yP6rWo36EMZc1J6g8sZAjXh2ScBkALDXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM0/MDY3LTE2MjE2OTg1/MzMtNDk1Mi5qcGVn.jpeg" alt="Cover for Rumba De La Isla" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1649,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1670,8 +1669,9 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aca7908cee9a446eb403f94713cd9f76.png" alt="Cover for Artistas De la Big Street" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jhon El Smoking</td>
@@ -1690,13 +1690,14 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 17</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a92ea67455a9e12b91871802bc2208a.png" alt="Cover for Japan Goes Latin" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Tokyo All-Star Orchestra</td>
@@ -1832,8 +1833,8 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 20</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 28</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 21</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 27</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
@@ -1844,6 +1845,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1945b8f99c29cdba999ee33182d3f642.png" alt="Cover for Quédate Conmigo" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Chyno Miranda</td>
@@ -1876,14 +1878,15 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 11</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 12</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/224f17ed157649fe83735b9b1edf7a85.png" alt="Cover for Practice Makes Perfect" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ladislaus</td>
@@ -1910,7 +1913,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1928,8 +1931,9 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12ca0eef604f454d8646ea99a1eadd4c.png" alt="Cover for Love - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Next November</td>
@@ -1949,8 +1953,9 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dd4f7fda1c85a0d7904ea9da4fa9794.png" alt="Cover for Yotoco" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Yotoco</td>
@@ -1971,7 +1976,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1990,6 +1995,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f23e1bc67fc41e59f3fabc257c98c4f.png" alt="Cover for El Dia Que Llueve Hay Farra (Rain) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Next November</td>
@@ -2034,6 +2040,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0af0fe5fcc46a9a4a956a1138f2ebb0.png" alt="Cover for The Stranger Dancer - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Next November</td>
@@ -2074,6 +2081,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93cd14a389f34cbfa0e0519d26bed006.png" alt="Cover for The Sounds of the Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Next November</td>

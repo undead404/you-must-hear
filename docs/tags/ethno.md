@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T05:23:19.306Z
+date: 2025-11-15T20:31:22.739Z
 permalink: tags/ethno
 title: ethno
 ---
 
 ## ethno
 
-Last updated: <time datetime="2025-10-21T05:23:19.306Z">Tue Oct 21 2025 08:23:19 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T20:31:22.739Z">Sat Nov 15 2025 22:31:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>1969</td>
@@ -49,7 +49,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1972</td>
@@ -69,9 +69,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Indian Music of Mexico" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5360543910cbbe80bcf23c26aa5ed34.png" alt="Cover for Indian Music of Mexico" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Various Artists</td>
@@ -92,7 +92,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/O1LDgjxHr_-A8LKBQw-Eas0UAyQ0_1OYrUrNEFmVbBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTM5/My0xMzM5NzM3Nzgx/LTE0NzEuanBlZw.jpeg" alt="Cover for Disco Funk Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>1986</td>
@@ -177,12 +177,12 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 64</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/76Md6WQjhxLY6rngVLtL2wiEGxfT5CEDowRuq4NcKqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA1/MTg3LTE1MTM4MzE4/MDYtOTgzNi5wbmc.jpeg" alt="Cover for Passing On The Tradition [Live]" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Nordic Roots 3" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1991</td>
@@ -242,25 +242,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/4d2RlzA8L0aSgX2zhdhOTJFgqzFJPXtxSv1EqZx2W5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDQ1/MDgtMTMyOTA3OTA5/My5qcGVn.jpeg" alt="Cover for Frifot" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Frifot</td>
-      <td>Frifot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>1994</td>
@@ -279,7 +261,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/1C0Bw35_TtsJP-1hb7lK6J6ysNSS1K2f3RPQk-KAkbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTM0/Ny0xNTkwMTA5OTk5/LTgzODEuanBlZw.jpeg" alt="Cover for The Orphan&#39;s Lament" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +278,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
       </td>
       <td>1995</td>
@@ -315,26 +297,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/hVk1nFZIIZE4mXIb_JEudbB6msiEdFHPWX8s7hSHxpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDk4/NTgtMTU4MjQwNjA4/OS04MTgxLmpwZWc.jpeg" alt="Cover for Felefeber (Norwegian Fiddle Fantasia)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Annbjørg Lien</td>
-      <td>Felefeber (Norwegian Fiddle Fantasia)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/dDc4rpQ1MHRjKRHs6Yaa5BH2A-rYZTKoNzdXEI43uBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjk5/OC0xMTQ1NDczMzYw/LmpwZWc.jpeg" alt="Cover for Dreamcatcher" style="max-width:120px; height:auto;" />
       </td>
@@ -356,9 +319,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/4AkJXQucPnuLrcXo58MSrNiFh0xszrkBM9Kpf_LrKkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mjcx/LTEyMDUwMTI4MzEu/anBlZw.jpeg" alt="Cover for Purple Passage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b90c239239742f7945900d95fff936b.png" alt="Cover for Purple Passage" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Uman</td>
@@ -386,7 +349,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/9Ns2O_ILd83qX6YMQCQD8w_h4TYF5ofacKp8GdTL5Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg1/OTQtMTI3NDAzNDM5/OS5qcGVn.jpeg" alt="Cover for Treta majka" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +370,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/nRFOhBxoShyOPSWRomFyHncsucwWMGTvkHCXnRw6VrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDYw/NTEtMTQ4MTQ3Mjg5/MS0zMDc4LmpwZWc.jpeg" alt="Cover for ID - International" style="max-width:120px; height:auto;" />
       </td>
@@ -427,9 +390,28 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/diauvrel2je2ukzGl00AaQl8ub7k2KAMFFpYHQ_uadc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjMz/MDQtMTM2ODQ3MDk2/MS02ODA0LmpwZWc.jpeg" alt="Cover for Volga" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fc36773dcf743c084c0bf7abe9d570c.png" alt="Cover for Vihma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-07-23</td>
+      <td>Värttinä</td>
+      <td>Vihma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/060217afd3adc77e1c0dba4e1a9731b9.png" alt="Cover for Volga" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Волга</td>
@@ -460,12 +442,12 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 23</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2000</td>
@@ -483,7 +465,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/muZIvAmf3l4XdGPbHDvLncQuxP6i-Tnu6Ezg0J7jR1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM5/OTgtMTIzNTIwODQ5/NS5qcGVn.jpeg" alt="Cover for Archimed" style="max-width:120px; height:auto;" />
       </td>
@@ -506,8 +488,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b55e59e96a4ddfbaf93408926438db.png" alt="Cover for Pacifique" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-27</td>
       <td>Deep Forest</td>
@@ -550,8 +533,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/291034933943f4acbbf1034e28c35d80.png" alt="Cover for People&#39;s Spring" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Warsaw Village Band</td>
@@ -559,24 +543,6 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td>2001-01-01</td>
-      <td>Nitin Sawhney</td>
-      <td>Prophesy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
@@ -603,15 +569,15 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 8</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 9</li>
             <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/zV8GECLk7YCyNgyBG8Gp900tY0xuTXrhuq2euzUiInw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTUw/LTE1MjEwMTAyNTMt/MjM2Ni5qcGVn.jpeg" alt="Cover for Praying To Different Gods" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09afe8e0e2177fb12fdb16fc3f07e778.png" alt="Cover for Praying To Different Gods" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-01</td>
       <td>Ikarus</td>
@@ -638,7 +604,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/SZoPs9yxfIvENZh5kMpEEHfQs798S3Bc7fwFKvEPfCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjMx/NDYtMTQ2MTAwOTc5/MS0yMzMzLmpwZWc.jpeg" alt="Cover for Концерт в театре Колесо" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +649,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2003-06-10</td>
@@ -703,23 +669,19 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/dyhcp2BzDoM8NmDyU2_9_jX5-G8a3LQ_ut7fyhjo-po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTUx/OC0xNDk1MzcyNjgz/LTIzNDAuanBlZw.jpeg" alt="Cover for Laughter Through Tears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8de84ff3524e2c14fdd6b2e45196457.png" alt="Cover for Laughter Through Tears" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-29</td>
       <td>Oi Va Voi</td>
       <td>Laughter Through Tears</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 24</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 31</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 91</li>
         </ul>
       </td>
@@ -746,9 +708,8 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/vQYA-e_dfQ-dsx7PXy2ahg5MTBQw3rsLpFOpy5OD14Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY4/OTU4LTE1MzU5MDA2/NTAtNDQ3My5qcGVn.jpeg" alt="Cover for In the Name of the Mother the Daughter and the Holy Will" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Sanctity</td>
@@ -776,7 +737,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/vMspJ9PNKO4boQ_g6GvdcH_6TLxG2mx_Iab_JGt5kls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc0/NDkyLTE1ODYzNTY3/MjQtNzcxNy5qcGVn.jpeg" alt="Cover for PROSHCHA (прошча) 2004" style="max-width:120px; height:auto;" />
       </td>
@@ -795,7 +756,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/R1GbQf-L6nxAAFCAbB1xcTjVTcyxp0-MoKDIOsnEKfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYw/NDQtMTQ3ODUwNTA4/Ni03OTkwLmpwZWc.jpeg" alt="Cover for Močia" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +794,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2004-10-29</td>
@@ -876,7 +837,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/bEjXRHE13k1TjAwAFOKWy26DEwnyNDvoBGDns1KKFSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDYz/MjEtMTM3NzM1OTk4/Mi0zMjI4LmpwZWc.jpeg" alt="Cover for Pulse" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +855,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Km4oH1lHfQenptVc8XiB9rdIIBOovd9pqLMJ-o_f6PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQz/MTY5LTE2MDI0MjM5/MzMtNTA4MC5wbmc.jpeg" alt="Cover for Circle Of Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -925,7 +886,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/k1W_I7akCKs0mWmhvWN7NUevYAhSluxYUHPLojgSDLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDA3/OC0xMTU0OTgyNjc2/LmpwZWc.jpeg" alt="Cover for From Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +931,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2006</td>
@@ -989,21 +950,21 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       <td>
         <ul>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 5</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 42</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 76</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/FCGebGUmZJNZr8EQCs6LJwiFmNYzoAb8VgoBXwPYRE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDk4/NjEtMTY4NDc1OTQy/OC03OTMzLmpwZWc.jpeg" alt="Cover for Nattevåk" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1036,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/PnvhOyX7ZXx8_8dt_Rw30O9loOmVABTP5fBhKnzMWh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzAw/MTktMTM1MjkwNTIw/MC02NjY5LmpwZWc.jpeg" alt="Cover for Katan" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,7 +1057,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2007</td>
@@ -1114,8 +1075,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5767a28bafaa4b19cb81b8da76622124.png" alt="Cover for Deus et Diabolus" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-26</td>
       <td>Al Andaluz Project</td>
@@ -1132,9 +1094,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/TUIRXg2Ir6_DDyyk396OxWtRzb-lXUKxbVX9Dm0zgbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njcw/OTYtMTQ2MjE4MDg1/MS0xNDA3LmpwZWc.jpeg" alt="Cover for Bozilak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/834f431eeba3145b3e936fed7f853b7e.png" alt="Cover for Bozilak" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Toše Proeski</td>
@@ -1154,7 +1116,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/nzTfxzbi3bCGn51P_TzcnZWfopeWvoQpxl25l9xGpYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/MDc4LTE1ODQ4NzIy/MDEtMzg4Ni5qcGVn.jpeg" alt="Cover for New Morning" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,7 +1134,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/x2J7qMl4yy4HyfOREvEfY_FHV-GGGgd_BCeqy3Ndsdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMx/MzUtMTQzNzc3MTA3/OS03ODE0LmpwZWc.jpeg" alt="Cover for Sevdah Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,8 +1152,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>NEIZAN</td>
@@ -1245,7 +1208,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 1</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
@@ -1256,9 +1219,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/RgyhnlNkEAVxFqMOtYWjgxW5VqKUfB1hnCP4tfBJjJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM0/OTItMTI5NzI2MjEz/Ny5qcGVn.jpeg" alt="Cover for Infinity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ac0391abacc327722f9821cc29530fe.png" alt="Cover for Infinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09</td>
       <td>Kapela ze wsi Warszawa</td>
@@ -1276,7 +1239,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/AU2532b2RU3i2QBwDjyb-eL_jNki3L6tDaZFKjdUJK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIy/NzYtMTM5NTY2MTY0/Ni05NDQ4LmpwZWc.jpeg" alt="Cover for Čudni svati" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1257,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/7PpMxAPhFxG6-7OeR8uq52KBu8aT0n4N4jketfS_xhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjMw/MTUtMTI1MjcwMjI5/NS5qcGVn.jpeg" alt="Cover for Kosmopterix" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1279,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/mTDQnK7u0WJ_5NGySrGVuu-rjp5GnkXEXH37nFYXkpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEy/NDEtMTQyMzI2MTcy/My0yMzYyLmpwZWc.jpeg" alt="Cover for Heartbeat of My Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,13 +1299,14 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
         <ul>
             <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 46</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 52</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 80</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf89527e69164a4fb592df38d3a69642.png" alt="Cover for Saula Riduolėla" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Atalyja</td>
@@ -1363,6 +1327,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13f1925618644cdbaddee1ab8f0c0ace.png" alt="Cover for Second Dive" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Mystica</td>
@@ -1388,7 +1353,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/i4MZpFqsyX9Ogq9ivfzpQIiGjnkS9Fuv8TzsgBlAOqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/NTQtMTI4NDE2ODc2/NC5qcGVn.jpeg" alt="Cover for SPIRITS GATHERING EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1396,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/ATSEDNkW_ocm53FuHQ85z0icBqG-G4U6P1fSoABtZ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk0/MDMtMTM3MTg2MzY5/Mi0xNTM3LmpwZWc.jpeg" alt="Cover for У Кривой Дороги" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,9 +1419,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/ntz-IT9F8Zrj6oScoTAzEAP-0FN43mj9ePmYst89-zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ3/MjItMTQ3MjU3NDA1/OC04OTYwLmpwZWc.jpeg" alt="Cover for Serce - Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f98d9ded91fe441b8cc737cb56c21fd5.png" alt="Cover for Serce - Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Janusz Prusinowski Trio</td>
@@ -1474,7 +1439,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/bslDljjZ33lAvv4Vge40HstcSfTrjQ0CzHqHWI2GIVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ2/OTQ3LTE1MjE2Nzc1/MDctNzIwNC5qcGVn.jpeg" alt="Cover for Notes At Liberty" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,9 +1479,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/oLkl7QIcWByJeMZ_-jdyB12ezVfiBTOwixhQoMxKtJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA0/NzQ2LTE1Nzk5OTA0/NTgtNzk2Mi5tcG8.jpeg" alt="Cover for De Migratione" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52ecb5fb295c0e850d85043b2e83e92b.png" alt="Cover for De Migratione" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Khaossia</td>
@@ -1533,7 +1498,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Mq-qGg2hVJG5mDm-68w_jk_qJy5LzzorZ2U9oGfFAqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/Njc1LTE1NDE4ODM4/MDYtNDA4My5qcGVn.jpeg" alt="Cover for No comments" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1521,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/5c5bJdPq8tlatv0qOgYmTCAlUlLUn2WsIqYY-duFar0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTQw/MjEtMTM4MDQ1OTU0/Ny0zOTk3LmpwZWc.jpeg" alt="Cover for As I Cross The Seas Of My Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,9 +1541,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/_9EvjnLOJD21h_8398Fa27avLsdwtFIYZAENokMBo_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY0/NjYtMTQwMDI2NjIy/Ny00MDcwLmpwZWc.jpeg" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe59cd8fe4bde0508fa852cf893bd23c.png" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-14</td>
       <td>Dzivia</td>
@@ -1605,9 +1570,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/CDkVECTcL3Q_JTRo8cAr56Ysv8Bp3SOpckM6kpHoHpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY3/OTM0LTE1OTkyNTk0/MTUtMzA5Ni5qcGVn.jpeg" alt="Cover for Music from the Mountains of Bhutan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/553cd2b0dbe3c4ad16d54cf399ed6dd7.png" alt="Cover for Music from the Mountains of Bhutan" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-19</td>
       <td>Sonam Dorji</td>
@@ -1628,7 +1593,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/tl8PSNmlqSFKNlG4QatPiH4Bbd6onMDrHo2Whiq8CVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQw/NTgtMTQyMTY1Njg4/OC04NDIxLmpwZWc.jpeg" alt="Cover for Hea mees (single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1624,6 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/y1NehT94evaSqK_OEw03bXkvvvEHxR2URmFouq-E5RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODQ3/NDQtMTQ1ODYyNTc4/NS03MDI2LmpwZWc.jpeg" alt="Cover for Daliborovo Granje" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Daliborovo Granje</td>
@@ -1679,7 +1643,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/6MsN7RlE7iS8ix19kJl-w5jjcAt00yQnjkEaakqgFaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODMx/NjYtMTU2NDQ0ODU4/NC03ODk1LmpwZWc.jpeg" alt="Cover for Makedonsko Devojče" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,9 +1665,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/ku12xDaPcTPx7wynpsXfpw3QZBa_Ov3S2MVCRjEqK5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTAy/MTMtMTQ2NDY0MDA3/NC05MjI3LmpwZWc.jpeg" alt="Cover for Светлая Встреча" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d885f550d17e68008702d12dafc3735.png" alt="Cover for Светлая Встреча" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Folkbeat</td>
@@ -1723,7 +1687,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/kyYeYjYMxu-kLdcO38sC7m8f9b27_JkhsO4FVSLwMw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI4/NzA0LTE0OTU0MDU5/MTYtMzA0MS5qcGVn.jpeg" alt="Cover for Крадущийся" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1705,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/UaHFIOEWO6nKaB4rd3yrQpCKTk6x9n366uEh-Crspfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk1/MTI4LTE1ODUyNTEx/ODItNjc2MS5qcGVn.jpeg" alt="Cover for Та русь" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,13 +1771,13 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 29</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 28</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/mOHKAI-PUwL_2SEC1agqtYKls8w4eOCjp12BZjG32d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc2/OTU0LTE2MjI1ODAy/NjktMjI0Ny5qcGVn.jpeg" alt="Cover for Slavic Heroic Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,9 +1800,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/0NwD8TnmVhicqm1mmg33teWKWNe0KIfilMtH0bLezUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgw/MzA5LTE2NzExOTEz/MzUtODA5OS5qcGVn.jpeg" alt="Cover for Dialogo (live)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0c34032420a7fa959c2945ff8c59a9b.png" alt="Cover for Dialogo (live)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>Luca Congedo</td>
@@ -1855,9 +1819,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd42c50564de73033618ed2b3471731.png" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1882,9 +1846,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Music of Indonesia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ac250b8825bd121964f7ee3beb1e9ef.png" alt="Cover for Music of Indonesia" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1907,8 +1871,32 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd32828225910acbccab294fa144130.png" alt="Cover for Mbuti Pygmies of the Ituri Rainforest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Mbuti Pygmies of the Ituri Rainforest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43bb435ef31a194e20b2b8ecc3163712.png" alt="Cover for Tuva: Voices from the Center of Asia" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1927,8 +1915,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b31db85b612844830d49b747d3d2e1c5.png" alt="Cover for Instrumental Music of the Kalahari San" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1950,8 +1939,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3f30c500c4d756ccb23159b32e0b72c.png" alt="Cover for Wolof Music of Senegal and the Gambia" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1973,9 +1963,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/ZcM1FSV-U_OOe5Z6m_BxtcaE6LLxU4yirIscmCeGqcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/MzExLTE1OTYxMjMy/MTEtNDk4MC5qcGVn.jpeg" alt="Cover for Ezgije" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49c0241e4f0f4ce2a4f81c7ae17e2972.png" alt="Cover for Ezgije" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-15</td>
       <td>Mile Kolarov</td>
@@ -1996,7 +1986,48 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jecks</td>
+      <td>The Acid Side of Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2013,7 +2044,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2061,7 +2092,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2108,15 +2139,16 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 8</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 25</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 26</li>
             <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 26</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25bcecbefa06b561e11a4a62c5cc9bc6.png" alt="Cover for Songs and Dances of Vietnam" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vietnamese National Song and Dance Ensemble</td>
@@ -2133,6 +2165,27 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       <td>
         <ul>
             <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vedan Kolod</td>
+      <td>Plemena (Tribes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2181,7 +2234,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2200,7 +2253,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2220,7 +2273,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2244,7 +2297,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2262,7 +2315,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2282,7 +2335,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -2299,8 +2352,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00899e4b373fe89b342b4753fdf60f11.png" alt="Cover for Cameroon: Baka Pygmy Music" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Baka Pygmies</td>
@@ -2321,8 +2375,9 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eaa8f9976eb4de2bdb34a2cc8435642.png" alt="Cover for Aka Pygmy Music" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Aka Pygmies</td>
@@ -2335,26 +2390,6 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vedan Kolod</td>
-      <td>Plemena (Tribes)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
       <td>
@@ -2381,7 +2416,7 @@ Ethno encompasses music that draws from traditional folk and indigenous musical 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
