@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-15T18:08:19.754Z
+date: 2025-11-15T19:36:22.212Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-15T18:08:19.754Z">Sat Nov 15 2025 20:08:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T19:36:22.212Z">Sat Nov 15 2025 21:36:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [piano]({{ "tags/piano" | relative_url }}) | <time datetime="2025-11-15T19:36:22.212Z">Sat Nov 15 2025 21:36:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic blues]({{ "tags/acoustic-blues" | relative_url }}) | <time datetime="2025-11-15T18:08:19.754Z">Sat Nov 15 2025 20:08:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [duet]({{ "tags/duet" | relative_url }}) | <time datetime="2025-11-15T17:05:22.148Z">Sat Nov 15 2025 19:05:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu jazz]({{ "tags/nu-jazz" | relative_url }}) | <time datetime="2025-11-15T16:45:21.990Z">Sat Nov 15 2025 18:45:21 GMT+0200 (Eastern European Standard Time)</time> |
@@ -401,7 +402,6 @@ Last updated: <time datetime="2025-11-15T18:08:19.754Z">Sat Nov 15 2025 20:08:19
 | [experimental folk]({{ "tags/experimental-folk" | relative_url }}) | <time datetime="2025-11-12T11:38:52.664Z">Wed Nov 12 2025 13:38:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [pagan]({{ "tags/pagan" | relative_url }}) | <time datetime="2025-11-12T11:36:11.771Z">Wed Nov 12 2025 13:36:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska]({{ "tags/ska" | relative_url }}) | <time datetime="2025-11-12T11:04:57.110Z">Wed Nov 12 2025 13:04:57 GMT+0200 (Eastern European Standard Time)</time> |
-| [piano]({{ "tags/piano" | relative_url }}) | <time datetime="2025-11-12T08:47:07.271Z">Wed Nov 12 2025 10:47:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [crust]({{ "tags/crust" | relative_url }}) | <time datetime="2025-11-12T08:06:47.333Z">Wed Nov 12 2025 10:06:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [manchester]({{ "tags/manchester" | relative_url }}) | <time datetime="2025-11-12T06:56:35.993Z">Wed Nov 12 2025 08:56:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [freak folk]({{ "tags/freak-folk" | relative_url }}) | <time datetime="2025-11-12T06:11:12.208Z">Wed Nov 12 2025 08:11:12 GMT+0200 (Eastern European Standard Time)</time> |

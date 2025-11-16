@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T08:47:07.271Z
+date: 2025-11-15T19:36:22.212Z
 permalink: tags/piano
 title: piano
 ---
 
 ## piano
 
-Last updated: <time datetime="2025-11-12T08:47:07.271Z">Wed Nov 12 2025 10:47:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T19:36:22.212Z">Sat Nov 15 2025 21:36:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Iyde4dIUsgmeEfKOfEiOA-MPnZ29RYdMozwvIRyOf1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA4/OTgyLTE2Nzc1MDM4/MTctNTYyNS5qcGVn.jpeg" alt="Cover for SIBELIUS: Piano Music, Vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -42,14 +42,14 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 45</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/DNLBiI_jNNV3b6fglOc2NOpb-kYWtra7u6q5qN6W7ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE2/MDktMTMxNjM4MDUx/Ny5qcGVn.jpeg" alt="Cover for Undercurrent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cf92bca55642b2e95d07d845e0cfb1e.png" alt="Cover for Undercurrent" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Bill Evans</td>
@@ -61,13 +61,13 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 71</li>
             <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1973-01-26</td>
@@ -86,7 +86,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1975-11-30</td>
@@ -99,13 +99,13 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
             <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1986-10</td>
@@ -132,7 +132,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/7GUcmpclrW7cyi_5LeTquJIPXAJo4p6LCdFxnhnvNN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU5/MTY0LTE2NDM1NzM3/OTYtNDE2Mi5qcGVn.jpeg" alt="Cover for Mozart: Piano Sonatas" style="max-width:120px; height:auto;" />
       </td>
@@ -147,12 +147,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 20</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1988-07-14</td>
@@ -170,7 +170,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/_Z_SX61Yb4-7nyArfmCcD_Dt4XOyQTBqVPnEFwkFqJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA5/Ni0xNDQyNDAzMTAx/LTYxNTQuanBlZw.jpeg" alt="Cover for Glass: Solo Piano" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +192,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/_PVZkqTtlQCFPYQ_gD0gRk9xxIA9ufvbnjfMBYtbH2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzAz/OS0xMTk0MDE3OTY5/LmpwZWc.jpeg" alt="Cover for Solo Piano" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +214,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Ab-ywIdkOaujmU_dFFCd_fgU2kvPLPLm14Qq3lL1ZHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM1/OTktMTMwMTk5MDgx/Mi5qcGVn.jpeg" alt="Cover for Piano Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +232,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1f4f2dc61e0a0a4e7d1a7659abb1dfe.png" alt="Cover for Little Earthquakes" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1993-12-08</td>
@@ -264,12 +264,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 9</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/709ad09a4c4551e6e3d9ec3ff58dc94b.png" alt="Cover for Under the Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -287,27 +287,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ae93cc9642a4b02cb842b8a04fafc4e.png" alt="Cover for Ben Folds Five" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-07-25</td>
-      <td>Ben Folds Five</td>
-      <td>Ben Folds Five</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/jKNV3Ar4Uzz4tNDaAB_uj4OGnglxpkBD6UJPe7K3pS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg5/MzUwLTE2MjkxODk2/ODgtNzk0MC5qcGVn.jpeg" alt="Cover for Chopin: Complete Nocturnes" style="max-width:120px; height:auto;" />
       </td>
@@ -322,12 +302,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 43</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef91d23a7a68a60a00ce2498edd0ead6.png" alt="Cover for Boys for Pele" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +342,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 83</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -381,12 +361,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 70</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5b93df7d5b0575efe7f42f36c4b0f00.png" alt="Cover for From the Choirgirl Hotel" style="max-width:120px; height:auto;" />
       </td>
@@ -405,7 +385,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1999</td>
@@ -423,7 +403,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>1999-10-28</td>
@@ -440,7 +420,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/3kaE6WliQ_rqAnCtTVn63wCTUTOQJ-3ur7XI3CkTNh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODYx/MS0xMzM3NDQ1NDQx/LTM4MDAuanBlZw.jpeg" alt="Cover for Antony &amp; The Johnsons" style="max-width:120px; height:auto;" />
       </td>
@@ -455,12 +435,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 80</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/aJD-6nIVH-Ja1U6tKWKQvnmR9ZFCQVOJNXWdJnSsacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTgy/OS0xNTk4MzQwODE2/LTg0MTEuanBlZw.jpeg" alt="Cover for The Pearl" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +468,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 18</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 75</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
@@ -497,7 +477,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38bfa711ccb24609bf829ef9a67c3e23.png" alt="Cover for Antony and the Johnsons" style="max-width:120px; height:auto;" />
       </td>
@@ -512,12 +492,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 88</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2001</td>
@@ -534,7 +514,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/kJHFVdR5Zulnn6bamSpsfInjVB8vhshFZWiXwzE6_-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTcx/MDAtMTM4NDk1OTMz/Mi03NDE1LnBuZw.jpeg" alt="Cover for First Love (Yiruma Piano Collection)" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +532,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b1b6ed1882907450e02758613a273d4.png" alt="Cover for 11:11" style="max-width:120px; height:auto;" />
       </td>
@@ -573,7 +553,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/IRys16nCeQ8GehqT67DGNT9W5MDX5fZEps_4CMvZ8aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzE5/MS0xNDkwMzQ2OTUw/LTc5NzMuanBlZw.jpeg" alt="Cover for 11:11 eleven eleven" style="max-width:120px; height:auto;" />
       </td>
@@ -605,12 +585,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 66</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f542042cdec5d62de02469383e3b5513.png" alt="Cover for Strange Little Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +628,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f56e265bf76c87de68f9f53bdc1462c8.png" alt="Cover for Scarlet&#39;s Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +647,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2004</td>
@@ -684,7 +664,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a37a7f5de6e82ef69bbff5954f3b691.png" alt="Cover for Harmonium" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +684,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34935e556f444ec0a068f4392e5c3e1e.png" alt="Cover for The Battle For Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +729,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2004-05-04</td>
@@ -767,7 +747,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2004-09-06</td>
@@ -792,7 +772,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2004-09-13</td>
@@ -819,7 +799,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Ik3ps8AMBUg8KWsmvPWXNLnu6s391BX6HMIB-yppen8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIx/MjYtMTYyMTY5ODMw/OS02MTQ4LmpwZWc.jpeg" alt="Cover for The Piano O.S.T." style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +819,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2005-02-21</td>
@@ -862,7 +842,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13fb05424e1e48358bb212c924a2c7bd.png" alt="Cover for Extraordinary Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +856,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 71</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -897,12 +877,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 81</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/r8SGTDE9vtmtNLEOQCuW74bg9jZXufykXmz3X43MqIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjQ1/OS0xMTc3MjQyOTE0/LmpwZWc.jpeg" alt="Cover for Piano Solos Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +930,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/r8SGTDE9vtmtNLEOQCuW74bg9jZXufykXmz3X43MqIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjQ1/OS0xMTc3MjQyOTE0/LmpwZWc.jpeg" alt="Cover for Piano Solos Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +959,31 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/rdbWFbU7NCycRzCmFXIygBEsR7RMgjjtnXVJsS4HCDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzU0/MS0xMTU2NzEzOTI5/LmpwZWc.jpeg" alt="Cover for Songs From Before" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-16</td>
+      <td>Max Richter</td>
+      <td>Songs From Before</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 70</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
       </td>
       <td>2006-10-20</td>
@@ -995,7 +999,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/rUQy6mFGDhz9449yZM37iPkbVUxL6nAFamsXMVO1654/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk4/NzcyLTE1NTM0NTA5/ODktMzA1MC5qcGVn.jpeg" alt="Cover for Max Richter: Songs from Before" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1040,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 9</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 53</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 54</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 79</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 88</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 93</li>
@@ -1060,7 +1064,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 8</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 63</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 64</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 81</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 91</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 94</li>
@@ -1068,7 +1072,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2007</td>
@@ -1085,7 +1089,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/p_qr07N9zzS5VFix4CmuK58n-EF7ADG98-iBFTYVodM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzE2/MjMtMTI4MDE1MjU1/NS5qcGVn.jpeg" alt="Cover for Goodbye Philadelphia EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1109,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9547608156ea40c495a65bd7d79f35b8.png" alt="Cover for Music For Tourists" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1124,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 51</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1147,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db8d47aa01bf4f37881cd74821d317d5.png" alt="Cover for Heroes &amp; Thieves" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1191,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/MQC4lHFu6X7AXJgKsm2_7t5HtyJrN2A6QdqU8f8G3nM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODcz/NDgtMTMxNTEyNzcy/Mi5wbmc.jpeg" alt="Cover for Viaggi in aeromobile" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1209,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2007-11</td>
@@ -1224,7 +1228,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/0JCztAwJxSXSzEnwoPztE6h0L6i0HqOvYM_L90677xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQz/ODkwLTE2MjUxNjM0/MTItMzc1Ni5qcGVn.jpeg" alt="Cover for Chopin: Nocturnes" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1247,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2008</td>
@@ -1260,8 +1264,9 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb86a8810d642c8ad12d865994a1318f.png" alt="Cover for Rivers Arms" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-12</td>
       <td>Balmorhea</td>
@@ -1276,12 +1281,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 46</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2008-05-19</td>
@@ -1306,7 +1311,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2008-06-02</td>
@@ -1334,7 +1339,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2008-07-28</td>
@@ -1378,7 +1383,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 50</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1431,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02d1ab5baf9e26d2349f098b4b89b62e.png" alt="Cover for Far" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,14 +1444,14 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 67</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 69</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 70</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2009-06-12</td>
@@ -1501,7 +1506,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ba14ed743422fd1d2436c4077fd584.png" alt="Cover for Eleven Eleven" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1524,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49e2a76fe5ed404a999c1b054178f102.png" alt="Cover for Home for Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1544,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2010-05-07</td>
@@ -1580,7 +1585,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/jLRPgqngS_F1QEze5yD7lLDpVNPaLs2ywHf4TR6XC8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/MTE1LTE1ODY1NjMy/MzYtMjMyNi5qcGVn.jpeg" alt="Cover for Liszt: Dreams of Love; Consolations; Sonnets of Petrarca; Rigoletto Paraphrase" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,12 +1600,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 30</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jWqb7TuEo7iPvMzfHVJydji-_CIxY8wAaTLxUbWxqVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDk5/OTItMTQ3NTM4MzY4/Mi05ODE0LmpwZWc.jpeg" alt="Cover for Islands - Essential Einaudi" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,14 +1622,14 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 4</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 33</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 6</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 34</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2011-09-08</td>
@@ -1699,7 +1704,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/PClDlrbQA6VhUzN_2uW-I6PwpW6ll1v-knKQS1H0GyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY0/MjEtMTM0OTgwMjc0/Ny02NTEzLmpwZWc.jpeg" alt="Cover for Screws" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1734,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2012-10-02</td>
@@ -1746,7 +1751,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Jj7Q_Y7HqjNG9KgY4-bGaOPBlfpYo3dpJRRF6_FWlxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY4/OTItMTM0OTgxMTQ2/OC0zOTI3LmpwZWc.jpeg" alt="Cover for The Chopin Project" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1787,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2013-02-22</td>
@@ -1819,7 +1824,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 18</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1882,7 +1887,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/vVwyONejYG7Qh_OuUcmsrp61csa5VTQZR_qAN8Polm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTIy/MjktMTQ0NTk3NTk5/NS0yMjQ3LmpwZWc.jpeg" alt="Cover for Solipsism" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,7 +1908,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/UwffJO6ckOkteYf4q2PJ2PsHDy7Lf5Lk7Sp6OgxHLPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTIx/MjYtMTYyNDI1NTQy/OS03MTYyLmpwZWc.jpeg" alt="Cover for The Leftovers (Music from the HBO® Series) Season 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,7 +1962,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 88</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 95</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 100</li>
@@ -1965,9 +1970,9 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/W60GYkJqUGStip726AxOQllQ07vqE39evvM6xlComl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ3/MDg5LTE1MTY0OTAx/NTYtMzk5My5qcGVn.jpeg" alt="Cover for Unreleased (EP)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52cbd36d2cd74193bbbb75bd6d177592.png" alt="Cover for Unreleased (EP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-20</td>
       <td>Maddi Jane</td>
@@ -1984,7 +1989,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/tAWd-CmRA_04lWxiZLk8py60M7PMF9uXJEZvtNPJp_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk4/MTcwLTE2MTk0NjQz/NjEtMzEzMi5qcGVn.jpeg" alt="Cover for Prehension" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,15 +2005,15 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 26</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 28</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/sv37L2Sy8A0EPBOmui001ylqAKdAo7JBuoo-oKASqb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/MTY2LTE1MTY0NTI1/MjAtNzg0OS5qcGVn.jpeg" alt="Cover for Don&#39;t Kill My Vibe (Acoustic Versions)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cc079d934119b17dee759b63ad82149.png" alt="Cover for Don&#39;t Kill My Vibe (Acoustic Versions)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-21</td>
       <td>Sigrid</td>
@@ -2025,7 +2030,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/SVl1LLsA6h4P6PUW40wLDzl8uV_5vQLGFphLAw3YYAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEz/MTc3LTE1NDQzODcy/NDItNjYyOC5qcGVn.jpeg" alt="Cover for If Beale Street Could Talk (Original Motion Picture Score)" style="max-width:120px; height:auto;" />
       </td>
@@ -2043,7 +2048,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/4MK-54-WZ9HmKeJnnkye1fbCRiUPfyJxtxM_b_lgIIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/NzU4LTE1ODYxMDA5/MzYtODg2NC5qcGVn.jpeg" alt="Cover for Piano Book (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -2063,7 +2068,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc22be662cfefed00d423afc69e6c3da.png" alt="Cover for The Drug In Me Is Reimagined" style="max-width:120px; height:auto;" />
       </td>
@@ -2085,7 +2090,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/EhT-EAjyWUnAKkNQwmKTWSMilZlT-PBJR0GheTeJXO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAz/ODI0LTE1ODUzODgz/MTQtNDI0OS5qcGVn.jpeg" alt="Cover for Empty" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,13 +2106,13 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 19</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 21</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/BVCB2FhrAY8-06y0wzr1J9qvs9wO9p9bqGQffW_83rE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQ0/Mjc4LTE2MTE4Mzc5/MDAtMTI3NC5qcGVn.jpeg" alt="Cover for Godspeed" style="max-width:120px; height:auto;" />
       </td>
@@ -2125,7 +2130,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/jdsVkABjrCJZ0Kpfx1z9Xc088zySzCxggaRi_ZmwsAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDM2/MjAyLTE2MTY4NjUz/MjQtNjg0Mi5qcGVn.jpeg" alt="Cover for A Plane Over Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -2148,7 +2153,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/H42Ptb2jlyGS_IK46n3jq9qftI4JfzQQ1E1Xh1KYZco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTIz/NzAtMTY3MTQ3Njg2/NS05NDcwLmpwZWc.jpeg" alt="Cover for Trance Frendz" style="max-width:120px; height:auto;" />
       </td>
@@ -2165,14 +2170,14 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 74</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 76</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 90</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -2184,7 +2189,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 69</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 70</li>
         </ul>
       </td>
     </tr>
