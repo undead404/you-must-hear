@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T02:03:23.884Z
+date: 2025-11-15T16:38:21.950Z
 permalink: tags/harmonica
 title: harmonica
 ---
 
 ## harmonica
 
-Last updated: <time datetime="2025-11-12T02:03:23.884Z">Wed Nov 12 2025 04:03:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T16:38:21.950Z">Sat Nov 15 2025 18:38:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/lXW89CNHI3WJbIoPj1hFnAe39ij15b08wsNwZYtT2k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODI5/OTktMTM4NjYwMzM1/MC04MjgxLmpwZWc.jpeg" alt="Cover for Stray Dog Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/sdJq6WGAcenOnMUf6Bhbw9Rg1xycOpvXHXLCNlEywfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzY4/MzYtMTM2MDQ2MjA4/Mi05MTk4LmpwZWc.jpeg" alt="Cover for So Fine" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/0J3B7OukDh_xgOjQ8cE3RiWYv04F5O4Cl1pxHaZvWxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTY4/NDEtMTQzMDM4MDMx/NS02NDQ3LmpwZWc.jpeg" alt="Cover for Sonny Is King" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b11203499d5e43c984b64afa8ac61918.png" alt="Cover for Sonny Is King" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Sonny Terry</td>
@@ -206,7 +206,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ki9D6_kbLBg1pdb-DAAawZ3EPd7QPBc1UH7rtqNZjas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODY2/MDYtMTM4NDM3NjIy/MS02OTA2LmpwZWc.jpeg" alt="Cover for Images" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d329451196064e24510650b54172fdd7.png" alt="Cover for The Turning Point" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +278,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Z_B7HzqCQ4RBqVJfWSbHMv1BC6Ub7_t7AGdi1fBtZEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUz/MTUtMTYxNDM1NDYy/My02MDc4LmpwZWc.jpeg" alt="Cover for Bluebird Blues - When The Sun Goes Down Series" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +321,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9c8d96b66644d8ba2fc132a0285f67.png" alt="Cover for Classic Country: Charlie McCoy" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +394,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>1979</td>
@@ -433,7 +433,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/FKxGXkT7lfK53wpHxdwfPkcYhh32-4-POaHSVxdO9Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUy/NjEyLTE1OTE3Njc4/ODgtMjYzMS5qcGVn.jpeg" alt="Cover for Will The Circle Be Unbroken, Volume III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39082fdead99bcdfe984fb15722fee52.png" alt="Cover for Will The Circle Be Unbroken, Volume III" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Nitty Gritty Dirt Band</td>
@@ -580,7 +580,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1990</td>
@@ -596,7 +596,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1990-06-12</td>
@@ -606,6 +606,22 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Sonny Terry</td>
+      <td>The Folkways Years, 1944-1963</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -698,7 +714,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1993-10-01</td>
@@ -743,7 +759,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/s0lrLV54nK2OnUsbKrag9l-5Jd4aGnxwwbYa2mYKkVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ4/MTItMTQyNjE3NzQx/OS0xMTYzLmpwZWc.jpeg" alt="Cover for New Irish Harmonica" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +777,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ChYLgIeYw3NmxUO5AliixN3rYiX5kkXmybXKUJXyFyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTQ5/MDAtMTQ2ODkxOTQy/MS0yMjY3LmpwZWc.jpeg" alt="Cover for I Ain&#39;t Beggin&#39; Nobody" style="max-width:120px; height:auto;" />
       </td>
@@ -910,7 +926,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1997-06-17</td>
@@ -952,7 +968,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/uKQAw3WqVPbi8444chW3TFXlDcp1bKI2uzEEvGRgQNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzI2/MDUtMTQwMTE2NTQ3/MS01MDA3LmpwZWc.jpeg" alt="Cover for State Of The Blues Harp" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +986,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/pM7Yq3lij0igBzkDEQEuxUgRmME5_dto7reCnJJ0wAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/MDE5LTE1OTI2NDE5/NTAtNjc1MC5qcGVn.jpeg" alt="Cover for bastille blues" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +1010,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/6f4t_k9WombJzPFDjEuZD67AnmQ2Zojb2D-otNeXnps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQw/NzMtMTQ0NjY2Njc5/NC0zOTkxLmpwZWc.jpeg" alt="Cover for Mark Hummel&#39;s Blues Harmonica Blowouts" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1065,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 9</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1126,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/yPWxXl92t3OzmBKjqQLZnEJ267rmcos88l9lBHMCWtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzA2/MzctMTUwMDM4NTg1/MS03NjI5LnBuZw.jpeg" alt="Cover for Blowin&#39; The Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1182,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/mEL5ag6f8fzKXMHM-o25Jc8J9UqBjiAPORLUnVXBKGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg4/MTMtMTM4NjA5NDg3/Mi04NTc1LmpwZWc.jpeg" alt="Cover for The Blues Makers, Natural Blues II" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,7 +1237,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       <td>
         <ul>
             <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 17</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 79</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1392,8 +1408,8 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
         <ul>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
@@ -1406,7 +1422,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/fknNoPa1dm4rs4aqMXouiGWOQK6sNTqOSmzJL2uuFsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzU3/MTItMTQ5MDI3NjY4/Mi01NDMyLmpwZWc.jpeg" alt="Cover for Blood on the Road" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1465,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/BRIWfcmbsumJ_TfyzqcA9bfvjiQ4n1PEcwhJnilRkJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAy/MzAwLTE1MzY1Mzk2/MTYtMTE4NC5qcGVn.jpeg" alt="Cover for An Introduction To Sonny Terry &amp; Brownie McGhee" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1529,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/_zWLtTfKWSpTq1uSSQ642E5xnz05PdWN4CGIE3WKMzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcw/NzYtMTIwNzU5MTA2/Ny5naWY.jpeg" alt="Cover for Pop Off" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,13 +1627,13 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 42</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 55</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 43</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2008-08-29</td>
@@ -1803,7 +1819,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-08-13</td>
@@ -1844,7 +1860,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/M_GWpQ2PhyqAJUshRYn9gFRwa7F_ZTosSY6eoqgncYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MjU0LTE1NTMzMjY2/MTgtOTkxOC5qcGVn.jpeg" alt="Cover for Billy Boy Sings Sonny Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,7 +1879,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cca9c879c294bd7a323a245cdf378be.png" alt="Cover for Pound of Dirt" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,26 +1893,6 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98cb5049bebb4703c7e52f95442cd693.png" alt="Cover for Avidan In A Box" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-03-11</td>
-      <td>Asaf Avidan</td>
-      <td>Avidan In A Box</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a></li>
         </ul>
       </td>
       <td>
@@ -1929,7 +1925,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2023</td>
@@ -1965,7 +1961,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2076f973175f4c647b783ad04bb3f835.png" alt="Cover for Calm Ya Farm" style="max-width:120px; height:auto;" />
       </td>
@@ -2003,7 +1999,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2096,7 +2092,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 26</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2172,7 +2168,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
-- [blues rock]({{ "/tags/blues-rock" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})
+- [blues rock]({{ "/tags/blues-rock" | relative_url }})
 - [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})

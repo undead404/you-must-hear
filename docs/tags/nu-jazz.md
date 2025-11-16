@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T07:53:41.575Z
+date: 2025-11-15T16:45:21.990Z
 permalink: tags/nu-jazz
 title: nu jazz
 ---
 
 ## nu jazz
 
-Last updated: <time datetime="2025-11-14T07:53:41.575Z">Fri Nov 14 2025 09:53:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T16:45:21.990Z">Sat Nov 15 2025 18:45:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3160f99e0a96452ead8575094300344d.png" alt="Cover for Shapes 07:01" style="max-width:120px; height:auto;" />
       </td>
@@ -69,6 +69,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60ce0b5dc4404214896d70c89fdea46e.png" alt="Cover for Displacing The Priest" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-10-07</td>
       <td>Nitin Sawhney</td>
@@ -147,7 +148,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1997-08-11</td>
@@ -166,7 +167,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>1997-10</td>
@@ -203,7 +204,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1998</td>
@@ -250,7 +251,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/IhO4_Gi8zUu4o10v7wXloqxu0VBw7JQGYIloni6w5b8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTUw/Ny0xMTY2ODc3ODc1/LmpwZWc.jpeg" alt="Cover for Blue Break Beats" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +271,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1db4fd95a5cf4157ad043a7f86ae776b.png" alt="Cover for No Time Like The Future" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +346,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2000-10</td>
@@ -389,7 +390,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/OnDdjLdTrCZwzcd_lxnD3mP5FsdN0dcZ3U6028B-Ab0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDc0/LTE2MjUyOTgxMTIt/MTA5Mi5qcGVn.jpeg" alt="Cover for A Living Room Hush" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +426,24 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9d2fc9f809949c5a6a510e75aad5f2e.png" alt="Cover for A Livingroom Hush" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05-21</td>
+      <td>Jaga Jazzist</td>
+      <td>A Livingroom Hush</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
       </td>
       <td>2001-05-29</td>
@@ -444,8 +462,9 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4458fa31b4defdf13ce1817f0ee6b76.png" alt="Cover for Future 2 Future" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-18</td>
       <td>Herbie Hancock</td>
@@ -463,6 +482,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2503a35bf72df4b017d25752f9e62aac.png" alt="Cover for Light Extracts" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-31</td>
       <td>Eivind Aarset</td>
@@ -497,14 +517,14 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 35</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 38</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 59</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/chJay8moTUSyQvvSVIaoz64vPoP-6rDetUOomStaN2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE4/LTEyMDkzMzAyNjYu/anBlZw.jpeg" alt="Cover for Jump Leads" style="max-width:120px; height:auto;" />
       </td>
@@ -528,12 +548,12 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2da3ed697788ef61867a691e8b3da957.png" alt="Cover for Every Day" style="max-width:120px; height:auto;" />
       </td>
@@ -548,8 +568,8 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -573,7 +593,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13916ae9d3e94f1b98aca01e0ae2f7f5.png" alt="Cover for The Stix" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +602,6 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       <td>The Stix</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -631,7 +650,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/SKqf609lQsJvRKhtKQrw4cA0TxGlOz0Axru-n1ElhwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjU1/MC0xMjIxNjgzMDU0/LmpwZWc.jpeg" alt="Cover for Lazy Sunday Afternoon" style="max-width:120px; height:auto;" />
       </td>
@@ -647,12 +666,13 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 14</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2002-11-05</td>
@@ -705,7 +725,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2003</td>
@@ -725,7 +745,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>2003</td>
@@ -744,7 +764,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/FjFR6LgETMOmVAYlTHREaLyRQghnGEYUC6DW5pKoH8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgx/Ni0xMzc3MDI0MDE1/LTUwODAuanBlZw.jpeg" alt="Cover for Stix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea52488aa16b4f038e9704433ddec02d.png" alt="Cover for Stix" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05</td>
       <td>Jaga Jazzist</td>
@@ -775,12 +795,12 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 92</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/d7_hWEpeG1WbxVQvHpK9nSrTwlftFK_Z-jA3Ml91Upg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg4/NC0xNjE2MjkzMzA2/LTEyMDYuanBlZw.jpeg" alt="Cover for Three Street Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +824,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>2004</td>
@@ -823,7 +843,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98e3756f60980e68917573a4fbfc1d97.png" alt="Cover for Likes..." style="max-width:120px; height:auto;" />
       </td>
@@ -865,7 +885,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/ehrjO4kzLLnqxitAD0KGCfQHbQ-grNOrEhDb5NkvPS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzYx/NS0xNjEyMTYzMjcx/LTkzNjMubXBv.jpeg" alt="Cover for Electric Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +923,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2004-09-06</td>
@@ -957,12 +977,12 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 23</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>2005</td>
@@ -998,8 +1018,9 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00145fbfa5f14b2a9e2b1a8cf646b1fb.png" alt="Cover for Konfusion" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08</td>
       <td>Skalpel</td>
@@ -1016,7 +1037,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2005-11-18</td>
@@ -1035,7 +1056,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/SJQ-HqEBiWDTLExpaAk8zRnKfQVt_aXoExuvErkYkjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjQy/MS0xMTQ5NTI0NDIz/LmpwZWc.jpeg" alt="Cover for The Soul &amp; The Jazz of ..." style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1096,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>2006-03-28</td>
@@ -1094,14 +1115,14 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 78</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 79</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 86</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/vuVQXVtKpJ-NfjVwn16sRyl3G4DQ5PCyqjINY0VpOo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDY2/NC0xMTUzMjgxOTUz/LmpwZWc.jpeg" alt="Cover for IV07 FOR REAL EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1162,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/xRKkMkXQIJG3bLGAIV64KNHDrdfhI-N46vfYFGyM3Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTYy/NC0xMjA1MDMyMTY5/LmpwZWc.jpeg" alt="Cover for Under The Munka Moon Selection" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,13 +1197,13 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 54</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/uFt7wqahtud4gDWc7mLJYMXLm4WlqXiHLrD2gEBs4j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjcx/NTItMTQwNjUzNTYz/Mi02NDE2LmpwZWc.jpeg" alt="Cover for Play With The Changes" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,26 +1260,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/534cea2870f648ef9df6076fcd152e3b.png" alt="Cover for Turntable Soul Music" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-07-16</td>
-      <td>Belleruche</td>
-      <td>Turntable Soul Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/9ROClz8C46VUxXulyabmjUMNFvUHjEJOEpZf6h5OnO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM0/NzMtMTIyMDA5NTE2/OC5qcGVn.jpeg" alt="Cover for Bossa for a Coup" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1307,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 54</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1331,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/a3YGK2oHlUWIABNFeTexkGzpihN3oWvkLApfUf4ZaBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEx/MDMtMTIwMzgxNTQ2/Mi5qcGVn.jpeg" alt="Cover for mice to meet you!" style="max-width:120px; height:auto;" />
       </td>
@@ -1353,7 +1355,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfc5fcbb347540f080332ed07897c1ab.png" alt="Cover for Sex &#39;n&#39; Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1374,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2007-12</td>
@@ -1390,7 +1392,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/6XwfWylh7B3JtEbSZmDJrGgWK7SlVuBLe9UHlBCPuN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQ5/MDQtMTE5NjYwMzM5/OC5qcGVn.jpeg" alt="Cover for Sex &#39;N&#39; Jazz - Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1428,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 17</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 19</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 86</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 99</li>
         </ul>
@@ -1435,6 +1437,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afd54bec6b564d2acd05d68db7bd160f.png" alt="Cover for Libella Swing" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-08</td>
       <td>Parov Stelar</td>
@@ -1450,7 +1453,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/gr7GqMP6EklfbxZOy5tetOYxEG2vWKetkEmiXljhXZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMz/MjEtMTI1NzE4NjQ5/MS5qcGVn.jpeg" alt="Cover for Film Ing" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1473,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2009-02-06</td>
@@ -1487,7 +1490,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>2009-07-08</td>
@@ -1523,7 +1526,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/IVVmTdQ7pbabBwF3gGdWgPThNEX0wMn4IRtXa2ozxpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQy/NTctMTI1MzQ1NDUy/My5qcGVn.jpeg" alt="Cover for Coco, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1599,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/uFt7wqahtud4gDWc7mLJYMXLm4WlqXiHLrD2gEBs4j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjcx/NTItMTQwNjUzNTYz/Mi02NDE2LmpwZWc.jpeg" alt="Cover for Two Pages (disc 1: Page One)" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1672,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2014-03-25</td>
@@ -1705,7 +1708,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2014-10-10</td>
@@ -1722,7 +1725,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/754dbe205e0472ce78361ccf45ff38d7.png" alt="Cover for Mars Is A Very Bad Place For Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,12 +1744,12 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 65</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Ik5ZwjYNNa2JAzZSWaPVhu3aXwMtw4EEORr4ZkFPvl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTA4/MjQtMTMwNjg2NDA1/NS5qcGVn.jpeg" alt="Cover for Kisskiss EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,9 +1767,9 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/ZjUfgS7joAncGF6pDK9VsSqkuERd6o0yXpbX3xrFOwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzg4/NDUtMTY0MzA2NjQx/NC00NTU1LmpwZWc.jpeg" alt="Cover for Mutations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/286aee7190f44b71a671c15a2ceba9f5.png" alt="Cover for Mutations" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09</td>
       <td>The Kilimanjaro Darkjazz Ensemble</td>
@@ -1782,7 +1785,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11eea3fbe333e6d12959424a685a80ef.png" alt="Cover for Remixes, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1803,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/I5P6QrMM6D923GaHDo2Eq1srOML2qZlSGxCfZmQWQyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg4/NzQwLTE1MzAwODM0/MjUtNzQ3OC5qcGVn.jpeg" alt="Cover for Tres" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1849,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/r1RaMNzqvfDbquYT76_rQv5BEmQx-Xsgk5AdHE4mu9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/NDk1LTE1NzA5Mzg4/MTEtMjYxNS5qcGVn.jpeg" alt="Cover for Remixes 98-2000" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,7 +1890,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43d924f093ac1bc79823908aedf8dca1.png" alt="Cover for To Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1926,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/0rai7NZZUdlsGyHre-w8No14RIua9asHQA8BDKFNPuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzE5/NDkxLTE2Njk3MzI5/MTQtNzgzNy5qcGVn.jpeg" alt="Cover for Anyhow" style="max-width:120px; height:auto;" />
       </td>
@@ -1962,7 +1965,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/pMf988hiF06xmCJdY86CSPDcsco2UhvYOzpZ-zCoAws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzU1/OTc2LTE2ODE0NjU1/MzgtMjA1MS5qcGVn.jpeg" alt="Cover for Everything Is Going to Be OK" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,7 +2001,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 15</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 16</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 77</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 83</li>
         </ul>
@@ -2025,14 +2028,14 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 22</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 50</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 60</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 23</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 53</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23787176c7ea8815788639c302ca9093.png" alt="Cover for Amateur Girlfriends Go Proskirt Agents" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2073,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e05ada10d37fbed3df6763c2e4d14572.png" alt="Cover for Love Heart Cheat Code" style="max-width:120px; height:auto;" />
       </td>

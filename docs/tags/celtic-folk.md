@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:03:36.341Z
+date: 2025-11-15T16:43:21.956Z
 permalink: tags/celtic-folk
 title: celtic folk
 ---
 
 ## celtic folk
 
-Last updated: <time datetime="2025-10-21T01:03:36.341Z">Tue Oct 21 2025 04:03:36 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-15T16:43:21.956Z">Sat Nov 15 2025 18:43:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/SlaSvDqFmZrBccMB29pTMZu7Er1zciU2S2_rGqMxpfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjEz/NjQtMTQ4NzUzNDAy/NS02NjYzLmpwZWc.jpeg" alt="Cover for Spirit of the Irish" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84c6934674c41228c2c52c80c32e9f3.png" alt="Cover for Spirit of the Irish" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>The Dubliners</td>
@@ -46,14 +46,14 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 46</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 71</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 47</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 72</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/MwAblJGPHFrDbnVKbIN1ch-_fCrgZflkgqobAg_WnmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg3/NDItMTY2NzczMjQ0/NS00MTE4LmpwZWc.jpeg" alt="Cover for Renaissance Of The Celtic Harp" style="max-width:120px; height:auto;" />
       </td>
@@ -68,12 +68,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 90</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Sumer Is Icumen In: The Pagan Sound Of British And Irish Folk 1966-75" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 46</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -115,7 +115,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/YZzI2toXazL8zuqBCEh0qeykjMB_WJzndgxtbaUjYm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ4/NzEtMTI3MDM5NjM4/NS5qcGVn.jpeg" alt="Cover for Rummadoú (Générations)" style="max-width:120px; height:auto;" />
       </td>
@@ -135,7 +135,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>1977</td>
@@ -152,7 +152,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/sLbzxOXcGrSKIHG44YaTLmEjM2OPjG_BxgKllHYsnww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzA2/MzUtMTI4OTIxODc2/MC5qcGVn.jpeg" alt="Cover for Ossian" style="max-width:120px; height:auto;" />
       </td>
@@ -173,9 +173,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/NGibqKRIbcw8bxqoB3mQqSb7YocY8o2HalCcI7ObMVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/MjI3LTE1ODkwNTgy/ODUtNDMwMi5qcGVn.jpeg" alt="Cover for Celtic Harp Airs And Dance Tunes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f9969d4f4d94259b3fb5c1b3ea5334d.png" alt="Cover for Celtic Harp Airs And Dance Tunes" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Robin Williamson</td>
@@ -191,7 +191,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 3</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -215,27 +215,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/3nyBP2P2fB8JkVlsdxNUZkFGZ-YtFHF9LuAyc41_gq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzgw/NTgtMTQxMjA3NDk2/NC0xOTI0LmpwZWc.jpeg" alt="Cover for Zama Zama ... Try Your Luck ..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Battlefield Band</td>
-      <td>Zama Zama ... Try Your Luck ...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>1986</td>
@@ -253,7 +233,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/-2Gd3iBzPcKQk1vXdsQQFHsPI8OnmHuTf-6RnK4jLbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzY5/MzYtMTQxOTE5MTI3/Mi05OTk5LmpwZWc.jpeg" alt="Cover for wayfaring strangers: ladies from the canyon" style="max-width:120px; height:auto;" />
       </td>
@@ -270,12 +250,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 27</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/80lG544jwuDS-8FwpIahgcIwTLVdIX0-sBqrZdza1Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzM0/NjItMTQ4OTE4ODg0/OS02MjgzLmpwZWc.jpeg" alt="Cover for Celtic Harp, Vol. IV: O&#39;Carolan&#39;s Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +291,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>1992</td>
@@ -376,8 +356,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b84cfcee32e4520aadc2eb21102d296.png" alt="Cover for Hills Of Erin" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Karen Ashbrook</td>
@@ -397,8 +378,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc2e1b9aaae24759ad62635bb4e4de43.png" alt="Cover for Le Meilleur De Tri Yann" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Tri Yann</td>
@@ -416,7 +398,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/HnuZZ_BteZ2etqiEbOkGGtS9N3ItEHo9qOvrMM4f3E8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjAx/NTEtMTM5NjU1NTM4/OC05Nzc2LmpwZWc.jpeg" alt="Cover for Live at Selwyn Hall, Box" style="max-width:120px; height:auto;" />
       </td>
@@ -433,8 +415,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f333e02801d3e9012524b12a7b121750.png" alt="Cover for Hantaoma" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Stille Volk</td>
@@ -450,8 +433,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 29</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 48</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 65</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 50</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 81</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 90</li>
         </ul>
@@ -460,6 +443,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d53b1d4fa5c958de79c0ec0ae1bb3b3.png" alt="Cover for On And On" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-01</td>
       <td>Fiddler&#39;s Green</td>
@@ -476,9 +460,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/GjuJYB_qo0P6Rvi8vKEK9XRSkWH_zZZC4vLlYXilzWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgy/NTgxLTE2MzQ1MDY2/MzctNzYwNi5qcGVn.jpeg" alt="Cover for Master Serie Vol1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40d4a04db57bcdc38f071f8a299475c0.png" alt="Cover for Master Serie Vol1" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Tri Yann</td>
@@ -515,9 +499,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/wFzkWKVEu7HI2atkvLU0q2scT3OPaAH7Pfc-fRtKPXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ1/NDkzLTE2MDk2MDQw/MDEtMzk5MS5qcGVn.jpeg" alt="Cover for Touche Pas À la Blanche Hermine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15ec2d56592282879c34e46f9feccd57.png" alt="Cover for Touche Pas À la Blanche Hermine" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09</td>
       <td>Gilles Servat</td>
@@ -563,9 +547,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/FPM34L2gETIb_uVaisC703q7F1rkncmdArIfhJHW-FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYz/NC0xNTg4MjYxMTE4/LTEzODQuanBlZw.jpeg" alt="Cover for Cantus Paganus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ef779c6af0e706e8687fab96a6739f4.png" alt="Cover for Cantus Paganus" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03</td>
       <td>Corona Borealis</td>
@@ -587,9 +571,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/ddpUIdj211Zhn__0D_WeXy9GtUpDoUQR8jzUkbo50ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzU0/NjEtMTQyNjM3Nzk4/NC0yNTAzLmpwZWc.jpeg" alt="Cover for Da Farder Ben Da Welcomer" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Fiddlers&#39; Bid</td>
@@ -612,7 +595,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/Wtt-oTAJvbFTGRMbIh-i5AyI3MWsCRrMYgqBQkl84gY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE3/MTktMTMyMjg1MzU2/My5qcGVn.jpeg" alt="Cover for Skyedance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a954fa78578647519446e3bb0702537c.png" alt="Cover for Skyedance" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Alasdair Fraser &amp; Paul Machlis</td>
@@ -628,14 +611,14 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 11</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/H4eNvdro4N07LGwTLwcmwAkqwlJ2ZhNuk-6w4mdigqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDQ1/MTctMTQwODMwNjgw/Mi02MDEzLmpwZWc.jpeg" alt="Cover for Le Pelegrin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c06bf666c924305a00b90e8a13679bc.png" alt="Cover for Le Pelegrin" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Tri Yann</td>
@@ -676,12 +659,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 3</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>2002</td>
@@ -717,12 +700,13 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 4</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/PDCfCB5lTgj1hqEyM6Cjnj8-wBlpQcJZZcexaki5Tuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTI4/NjktMTU5MTcyNTc1/My03MTUxLmpwZWc.jpeg" alt="Cover for Dilapidated Beauty" style="max-width:120px; height:auto;" />
       </td>
@@ -761,9 +745,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/u9isGtqZdVkYXDZwJ2-e76o15sju24c4mCVxtEd5eIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQw/MjA2LTE1Njc0NjQw/NDgtMzQwNS5qcGVn.jpeg" alt="Cover for Fairy Dance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a240490fdcab4d4abc184ee22947fac8.png" alt="Cover for Fairy Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-12</td>
       <td>KOKIA</td>
@@ -773,6 +757,23 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca407a88f984a7bca187b42fc1c76d9.png" alt="Cover for Hai un paraiso" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Luar na Lubre</td>
+      <td>Hai un paraiso</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -798,12 +799,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 57</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
       </td>
       <td>2004-09-04</td>
@@ -816,12 +817,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 29</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2005</td>
@@ -863,7 +864,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 67</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 90</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 91</li>
             <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
@@ -871,7 +872,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2005</td>
@@ -913,7 +914,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2005</td>
@@ -955,7 +956,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/Bt3oaFDj3-OwbOv8gfNaRGRXJqW6ZMgqJsnfe1fStvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQ3/MDQtMTM3OTYwNDY2/MS01OTY3LmpwZWc.jpeg" alt="Cover for Celtic Passion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b83d7be86b042c89b08a10fd24ae6fe.png" alt="Cover for Celtic Passion" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-15</td>
       <td>Greg Joy</td>
@@ -972,7 +973,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2006</td>
@@ -1045,13 +1046,13 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
@@ -1063,7 +1064,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/dxr-3ot-zxrwBBJBI_mGxqaaiM604A3XaoucEhdZrDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTU1/NDMtMTQxNjI2ODQz/My05NTM5LmpwZWc.jpeg" alt="Cover for Whenever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79f4fb6355cb2384c5a9e74ffed9561.png" alt="Cover for Whenever" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-12</td>
       <td>David Munnelly&#x2F;Helen Flaherty&#x2F;Philip Masure</td>
@@ -1107,7 +1108,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 46</li>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 72</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 71</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 78</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 92</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 95</li>
@@ -1115,7 +1116,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>2007</td>
@@ -1154,9 +1155,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/pJDIf4ANqP2FF_mq0A6hQCT1CMZwmqNGoXHXjOd5G8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzk5/ODUtMTM1NjY0MTI1/Ny00NDg5LmpwZWc.jpeg" alt="Cover for Rome: Music from the HBO Series" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a39b85c05fbf4245859f6153604681c9.png" alt="Cover for Rome: Music from the HBO Series" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-20</td>
       <td>Jeff Beal</td>
@@ -1177,9 +1178,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/S_jqI4TXli8lxxI2gEwQEV9RBapB_BsAwagNgfQ3M0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjkx/MjQtMTMzMDE4ODEx/MS5qcGVn.jpeg" alt="Cover for Cuilidh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd667ee5cf1941a53d1d0f0e77df35c7.png" alt="Cover for Cuilidh" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-26</td>
       <td>Julie Fowlis</td>
@@ -1193,13 +1194,13 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 8</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 72</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 7</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/2SKRN7aJOwVbwzd1G6Ejb_OTvR3OOUuq5Jj5m6guz6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjA2/NC0xMTc0NzUwODMw/LmpwZWc.jpeg" alt="Cover for Into The Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,9 +1224,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/ei81BaJYO7MucO6hbbg_mT-DQ40dP5VcRY23JUsLebE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzUw/MDctMTQyNTA2Nzc0/MC0yOTk4LmpwZWc.jpeg" alt="Cover for Abysses" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5bd840eba88437c8e75dd936915f3b6.png" alt="Cover for Abysses" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-15</td>
       <td>Tri Yann</td>
@@ -1243,8 +1244,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c32cbcec79f83586f85e4c06d97faeb.png" alt="Cover for Istoria～Musa～" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-29</td>
       <td>志方あきこ</td>
@@ -1264,14 +1266,14 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 24</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 42</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 46</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 25</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/t3_YcWYYW9eToTAEsgtL6o_tFR6wShVTtJDn6SaRNyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/NDc5LTE1MTE5MDcy/MjItMzI2NS5qcGVn.jpeg" alt="Cover for Dual" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1291,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/t3_YcWYYW9eToTAEsgtL6o_tFR6wShVTtJDn6SaRNyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/NDc5LTE1MTE5MDcy/MjItMzI2NS5qcGVn.jpeg" alt="Cover for Dual" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1308,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
       </td>
       <td>2008-09-02</td>
@@ -1328,7 +1330,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/WVCpQVHlMewwP1PDR_WZDkSQUBFpvHacl3u3m1wTChI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NTMyLTE0OTc3MTI5/MzAtODA5OS5qcGVn.jpeg" alt="Cover for Fairy Dance ～KOKIA meets Ireland～" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ea44df853b944fabd6466cacb8fa21d.png" alt="Cover for Fairy Dance ～KOKIA meets Ireland～" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-24</td>
       <td>KOKIA</td>
@@ -1346,7 +1348,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2009</td>
@@ -1368,9 +1370,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/U7hw7y65bSHARX9WdyTgJVkd9aMS4ZUWWx7TvQtAFYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI3/ODgtMTI2OTA0MjE0/Mi5qcGVn.jpeg" alt="Cover for Omnos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f0687216f744ce7a651dde30cd44bb2.png" alt="Cover for Omnos" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Eluveitie</td>
@@ -1390,7 +1392,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>2009</td>
@@ -1409,21 +1411,19 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44ff41d57a8039c85405913ad099e37e.png" alt="Cover for Evocation I - The Arcane Dominion" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-10</td>
       <td>Eluveitie</td>
       <td>Evocation I - The Arcane Dominion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1455,9 +1455,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/QOKrudS-ZFMBOmtSjKxjTv86t3XglVIp-SH-wQ7F3hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc5/NDQtMTQ1OTI1MjM5/MC02MzE0LmpwZWc.jpeg" alt="Cover for Der Tod War Da" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a84e649e7b442a66735fdb6aac7259d.png" alt="Cover for Der Tod War Da" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-10</td>
       <td>Heiter Bis Folkig</td>
@@ -1477,6 +1477,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c40c683295d4b76bb892d0fe8f07449.png" alt="Cover for Uam" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-26</td>
       <td>Julie Fowlis</td>
@@ -1497,6 +1498,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43143cf4553a458888237837c8c3414e.png" alt="Cover for Tales from the Crow Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-31</td>
       <td>Damh the Bard</td>
@@ -1513,7 +1515,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2010-05-19</td>
@@ -1569,16 +1571,16 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 30</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
       </td>
       <td>2010-11-22</td>
@@ -1620,12 +1622,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
         <ul>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 5</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 56</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 77</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/4mwYeO0vrac22VSYQXwao4VDk-ci4LyDShsKkyWd9Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE2/NTEtMTMwNzQwODAy/Ny5qcGVn.jpeg" alt="Cover for Deus Ignotus" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,12 +1646,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 50</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-08-18</td>
@@ -1713,8 +1715,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adc0cc00add41594bf5f5db7655c20a4.png" alt="Cover for Bardensuppe" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-06</td>
       <td>Heiter Bis Folkig</td>
@@ -1736,7 +1739,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/TgdSSTdEQtZUBnfR_Orkym0sQOXau22Qzdf0Awz4kog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDgz/NzUtMTM3OTIxNTE4/OS05MjIwLmpwZWc.jpeg" alt="Cover for It&#39;s Alive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/415d54773cf6cdda09479b773297bbd8.png" alt="Cover for It&#39;s Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-20</td>
       <td>Elephant Revival</td>
@@ -1755,9 +1758,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/gDgTjBW82wU7e2HYWw6ucEQzujQB5TTMwQT6dirg2Pg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDMz/NzYtMTQ1NDk1MzAw/Ny04Nzg2LmpwZWc.jpeg" alt="Cover for Room Enough For All" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bed99ec307eb4a34a44cae84767659dc.png" alt="Cover for Room Enough For All" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Battlefield Band</td>
@@ -1776,7 +1779,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,20 +1802,20 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 23</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 25</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 44</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 46</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/xtwJ1_ApPQIjhrixQ4ymijcNDAV1rz0MwOeSbsbGGxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQw/NTctMTM3ODk5NjYx/NC0zODI1LmpwZWc.jpeg" alt="Cover for These Changing Skies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a11d60771409ebdd17e282195a54cfbf.png" alt="Cover for These Changing Skies" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-03</td>
       <td>Elephant Revival</td>
@@ -1832,9 +1835,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/Qy68-X947laQDYSvc9N10qP_5jefM4t43Jp4GDmA4SM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTA2/NDktMTQwNzE3NjE1/OS00Nzg2LmpwZWc.jpeg" alt="Cover for The Cure for Anything" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/814dbeede68dd87916d5700e7c4ad50c.png" alt="Cover for The Cure for Anything" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Harmony Glen</td>
@@ -1856,7 +1859,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/naDLJcqlHSh624GfdbfZyzPUbWoP1hGfWv7azn6_9zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/OC0xMDg1ODU0MDM4/LmpwZw.jpeg" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68c11974e24c4fbca6f762c3c4e17764.png" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-03</td>
       <td>Current 93</td>
@@ -1877,15 +1880,15 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 9</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 36</li>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 67</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 68</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2014-05-10</td>
@@ -1907,7 +1910,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/RNUCB0EegvYpDpKOXi3tl3X-s49I-jF7Q8kIgPZm28Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc2/MzQzLTE1MjIxODI3/OTUtNjM4OS5qcGVn.jpeg" alt="Cover for NIGHT PARADE" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1939,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/J-q4guR3KTyc9QUyUb5kmRRkq2778t1tpJ3mHALIRQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc2/MjU0LTE1MjIxODIw/MDctMjgyMi5qcGVn.jpeg" alt="Cover for LIV" style="max-width:120px; height:auto;" />
       </td>
@@ -1968,7 +1971,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/HTXxl_2cQiuuJoWG8NQsthW9rZiW2zVKa6vcrmKjOZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDcz/MjItMTMzODEzMzE0/My05ODkwLmpwZWc.jpeg" alt="Cover for South European Folk Compendium" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,14 +1993,14 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 36</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/MFQqXJzC5DfxUXSQehrjQbZ7DBS8t56_UYCee2gz_DY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTU1/NjEtMTQyMDU4MjI4/Ny02OTgwLmpwZWc.jpeg" alt="Cover for The Humble Beginnings of a Rovin&#39; Soul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38ab43b14cb74d43cd4d4ac31cc0225a.png" alt="Cover for The Humble Beginnings of a Rovin&#39; Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-09</td>
       <td>6&#39;10</td>
@@ -2018,7 +2021,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/8hAVgIC760rNupd4RWcGHuKIgCB1r_OXifTJS_QTEdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUy/NDE0LTE1Nzg5NDUw/NzAtMTIzNy5qcGVn.jpeg" alt="Cover for Mountain Rose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e59fd516fb851c1a088e3adf0fc2abd5.png" alt="Cover for Mountain Rose" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>The Gothard Sisters</td>
@@ -2038,7 +2041,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/dMDWIMuOX0B0uLFLax9Yxbr6m4ReHP1S4RVFdNmBSJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA0/ODIxLTE1MzQ2MTE1/OTItNjQwNS5qcGVn.jpeg" alt="Cover for Braveheart OST" style="max-width:120px; height:auto;" />
       </td>
@@ -2075,7 +2078,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/kV0qXFQ90ilHOMbPq3u1aeXqUHKX1Avw5WjaIv26ivU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI4/MTAtMTQ3MzQzOTAx/My02MTU4LmpwZWc.jpeg" alt="Cover for Khymeia" style="max-width:120px; height:auto;" />
       </td>
@@ -2095,7 +2098,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/V77zw-1ZTBlHEBiWfJq_UyWhGs8TIuv4BI-mUH5eAdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ2/MzQtMTQ4Njc0ODg1/Mi05NDk4LmpwZWc.jpeg" alt="Cover for Order of the Stag" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec589874220af7497695675ca5f130f.png" alt="Cover for Order of the Stag" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-05</td>
       <td>Clann An Drumma</td>
@@ -2118,7 +2121,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/6Ovl9w8DIcgp3FfioIeWFSvLofl8td4mxu_0lzM3RTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM3/NzMtMTI4NjU0ODYw/NS5qcGVn.jpeg" alt="Cover for Sine Missione II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/085e4fa23dd6496cb0747d2c15633aee.png" alt="Cover for Sine Missione II" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Omnia</td>
@@ -2138,8 +2141,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 51</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2161,7 +2164,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 70</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2184,7 +2187,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/kOc7D3c6iSQEFzt5IN7j_0AxYoGgcIZ_Qg7gnhZNo08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMw/OTM1LTE2NDY3Mjgz/MTEtNjg3My5wbmc.jpeg" alt="Cover for Aislinn" style="max-width:120px; height:auto;" />
       </td>
@@ -2209,8 +2212,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/839cd661bc4268970eaa451fe3fe6371.png" alt="Cover for Celtic Colours Live, Vol. 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-14</td>
       <td>Various Artists</td>
@@ -2225,7 +2229,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2245,15 +2249,16 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 38</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 39</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 20</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8e95d26464991184e3d2268b3577a92.png" alt="Cover for Songs of Separation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Songs Of Separation</td>

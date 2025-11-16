@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T18:25:44.100Z
+date: 2025-11-15T17:05:22.148Z
 permalink: tags/duet
 title: duet
 ---
 
 ## duet
 
-Last updated: <time datetime="2025-11-10T18:25:44.100Z">Mon Nov 10 2025 20:25:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T17:05:22.148Z">Sat Nov 15 2025 19:05:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/KTAaJWY6Si2kGn-adiT5u-O-2vzHWPCdr6rIqwHX26w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjUz/ODEtMTM2MDE0NDM3/Ny0xNTMxLmpwZWc.jpeg" alt="Cover for Joan Baez 75th Birthday Celebration" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e733d96cc1101e00a22bcf9c36003e.png" alt="Cover for Joan Baez 75th Birthday Celebration" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Joan Baez</td>
@@ -148,7 +148,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/M0QTHdZ9rvvKqEPStCtTerW7OQ3OsZkvf2GcDo2D0kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk0/MDM5LTE2MDE1NTM5/MTEtOTQyOS5qcGVn.jpeg" alt="Cover for 20th Century Masters - The Millennium Collection: The Best of Conway Twitty &amp; Loretta L" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +259,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/hS8nUdGr9Z1l1HMBKHeX4OclOxZCwCXt9iMTZpUy1nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjEw/MTQtMTQyMjAzNDM4/Ni04NDE4LmpwZWc.jpeg" alt="Cover for The Best of Steve &amp; Eydie" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +279,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/T7ehIcl8GIf9Mon7RODPUCsThIEyDoWS8M25aiDy1CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY5/NTAtMTQ3MjA2ODkx/NC01NDMwLmpwZWc.jpeg" alt="Cover for My Heart Will Go On [Single]" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +352,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 89</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
         </ul>
       </td>
@@ -370,26 +370,6 @@ A duet features two vocalists or instrumentalists performing together, creating 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/QDQO1NvHmDmLmfFfMJJUFA8ClQ2CFmYcQuQR7t9NdEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE0/NzQ4LTE1ODk2MTQy/NjEtMzc1NS5wbmc.jpeg" alt="Cover for Eternal Truth" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-06-05</td>
-      <td>Takada Band</td>
-      <td>Eternal Truth</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -456,7 +436,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 71</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +476,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/O3BqJgRhcHWpUbp5WfrqBDxiYINBAQIZ6Pds0F4vRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/MDUxLTE2NjQzODg5/NTEtMTEwNS5qcGVn.jpeg" alt="Cover for Small Things" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +495,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/maPEUuXS5ELfBbWtn-kQA8hgNkeAOzuQ_hUknwBaX3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE0/MzctMTMwMzU0OTY1/Mi5qcGVn.jpeg" alt="Cover for Easy Does It" style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +579,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4857526e6eb6169d6ee54090399db663.png" alt="Cover for Call to Love" style="max-width:120px; height:auto;" />
       </td>
@@ -635,9 +615,8 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/PnC4QJZsycWPRTifDXjn7v7oBebW4HD0ic0VJoQ_8bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzIy/ODAtMTM0NjE2MDQ2/Ny0xMTQxLmpwZWc.jpeg" alt="Cover for Live: Duets" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Mike Marshall &amp; Chris Thile</td>
@@ -733,7 +712,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 14</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -779,9 +758,9 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/rCi23NKTfKlFqbdZqcmMxrecspbgDtPKEZ2NO5tumqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODk0/MTgtMTQ0MjUyNjE4/OC00NjQyLmpwZWc.jpeg" alt="Cover for Slipping Away (Crier La Vie)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1746e42f2d7948edafe45378f3b25d8c.png" alt="Cover for Slipping Away (Crier La Vie)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Moby &amp; Mylène Farmer</td>
@@ -867,7 +846,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/MkQLVVWzJf7HfZZkiyWCneqgMtyUyjORLn8BYATOluA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc1/NzY2LTE1Mjk4MjE2/MDctNDcwMC5qcGVn.jpeg" alt="Cover for Timeless" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +947,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/OpAsJ0resNG1hiRF2dhA4Bw56Im9YieMmCeyFpQvtjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/MzQ4LTE2MDc2MjAw/MTktOTA5Ny5qcGVn.jpeg" alt="Cover for Maria Bethânia &amp; Omara Portuondo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c6f2aed9817d482ef8cae6536547801.png" alt="Cover for Maria Bethânia &amp; Omara Portuondo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-06</td>
       <td>Maria Bethânia &amp; Omara Portuondo</td>
@@ -991,7 +970,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/kxzZ9IOu3if-esAfxqp0LOjs1REaGEiC5QgEZcrcK3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI5/MDEtMTIyNDMzMzUz/OS5qcGVn.jpeg" alt="Cover for 연애온도" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a6a8743575b8719e86bc2c766070f13.png" alt="Cover for 연애온도" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-01</td>
       <td>Kasper</td>
@@ -1049,7 +1028,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 76</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 89</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
@@ -1059,7 +1038,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009</td>
@@ -1078,7 +1057,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/vLZ9gqZdTW9pLAd6_yhNpZ6cUbdMoeO-oi5WwDKJpuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDUy/MzAtMTQ0Mjg2MjU2/OC03MjAyLmpwZWc.jpeg" alt="Cover for It Walks Like Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,6 +1100,24 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/140ce6d5f62d8058bd1ec47eeabcd3e9.png" alt="Cover for Caesar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-31</td>
+      <td>I Blame Coco</td>
+      <td>Caesar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>39</td>
       <td>
       </td>
@@ -1144,7 +1141,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/CMQqu0vfxS4bG9lpN9s-hJCt9Q8Fyp_PdQfC2WzEW1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU2/MDYtMTMxNDU1MTIy/OC5qcGVn.jpeg" alt="Cover for Gold Fury" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,7 +1284,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd9acf1b3a41473128331e00c9fd5d4d.png" alt="Cover for Chemistry" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1362,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 14</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 15</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 39</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
@@ -1432,7 +1429,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/58gL7hOHkf_YF0gCwWAXkXxp-WNDf-dhFlwoLrpjYr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODMy/OTA3LTE1ODI0Njc5/MDctNzE5MC5qcGVn.jpeg" alt="Cover for Perfect Duet - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1448,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/B6WeOUWNgPGL7h0utiwcjwEAGrD3g5RXqwLhf2VYAcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMx/NTM0LTE1NTQwNjgw/NzYtMTcxMC5qcGVn.jpeg" alt="Cover for Who Do You Love - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1594,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 26</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1624,7 +1621,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Let’s Kiss and Make Up (Slow &amp; Fast)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57fbf1da4cae346109ae26f7c124176c.png" alt="Cover for Let’s Kiss and Make Up (Slow &amp; Fast)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1714,7 +1711,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1731,7 +1728,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1752,7 +1749,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1772,8 +1769,9 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53fb3e011b3841ff951bd0d08a7bce2a.png" alt="Cover for Amigas 2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fernanda Brum e Eyshila</td>
@@ -1799,7 +1797,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aeeb363305eccdda0e99c4c5aad5e57.png" alt="Cover for Sei Lá - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1815,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1837,7 +1835,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2114,6 +2112,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57e589c60ad835951451a1a48dbce408.png" alt="Cover for Dessert" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Choi Gogi</td>
