@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T23:35:02.236Z
+date: 2025-11-16T11:01:58.497Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-11-14T23:35:02.236Z">Sat Nov 15 2025 01:35:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T11:01:58.497Z">Sun Nov 16 2025 13:01:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -349,23 +349,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>Bellini, V.: Sonnambula (La) [Opera]</td>
       <td>
         <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>1971</td>
-      <td>Birgit Nilsson</td>
-      <td>Puccini:Turandot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
       <td>
@@ -881,6 +864,23 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Orchestra &amp; Coro del Teatro La Fenice di Venezia</td>
+      <td>Leoncavallo: La Boheme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>17</td>
       <td>
           <img src="https://i.discogs.com/Lo74nCambUOMBRE4HrsNqTkJTkU0wQswADDsF0HU2eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE0/ODczLTE2Mzg1NTM1/MjMtNDM4Mi5qcGVn.jpeg" alt="Cover for Puccini: Le Villi" style="max-width:120px; height:auto;" />
@@ -974,7 +974,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>
       </td>
       <td>1994</td>
@@ -1000,26 +1000,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td>1995</td>
-      <td>John Eliot Gardiner &amp; The English Baroque Soloists</td>
-      <td>Monteverdi: L&#39;incoronazione di Poppea</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
       <td>
@@ -1074,6 +1054,22 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Orchestra Internazionale d&#39;Italia, Coro da Camera di Bratislava, Giuliano Carella</td>
+      <td>Verdi: Ernani</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1500,7 +1496,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2018</td>
@@ -1586,23 +1582,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra e Coro del Teatro Regio di Torino</td>
-      <td>Verdi: I Due Foscari</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1732,12 +1711,28 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
       <td>Young Ok Shin, Gregory Kunde, Aurio Tomicich, Haijing Fu, Armando Caforio, Sonia Nigoghossian, Walter Coppola, Emily Manhart, Orchestra del Teatro Massimo Bellini Di Catania, Coro del Teatro Massimo Bellini Di Catania, Marcello Seminara, Andrea Licata</td>
       <td>Bellini: Bianca &amp; Fernando</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ferdinando Fontana</td>
+      <td>Puccini, G.: Villi (Le) [Opera]</td>
       <td>
         <ul>
         </ul>
