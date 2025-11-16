@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:01:02.672Z
+date: 2025-11-16T01:23:21.138Z
 permalink: tags/sacred
 title: sacred
 ---
 
 ## sacred
 
-Last updated: <time datetime="2025-10-28T16:01:02.672Z">Tue Oct 28 2025 18:01:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T01:23:21.138Z">Sun Nov 16 2025 03:23:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -154,7 +154,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 13</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -202,6 +202,23 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/HRYfLn79kvqBlQFc_kkMyzHs5QD-qj4KBbKX7zKWLPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcz/NzQxLTE1Nzc0MDk0/MzktODE4NC5qcGVn.jpeg" alt="Cover for Bach : Passion selon St-Jean, BWV 245" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Johann Sebastian Bach</td>
+      <td>Bach : Passion selon St-Jean, BWV 245</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -351,7 +368,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/a1puPvIZWHUXI7R-SLGiXYIFhuN8qsvQQj7X_HFase8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE4/MzYtMTU1NjMxNTgy/NC04ODUzLmpwZWc.jpeg" alt="Cover for It&#39;ll All Be Over" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df16c226e20343f9c340819a09e2617d.png" alt="Cover for It&#39;ll All Be Over" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Supreme Jubilees</td>
@@ -365,7 +382,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 62</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -498,7 +515,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/29UOTV2V_qiKjBtZ8kw2OV5Q_RIYmd1H0HdwejGbvVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ0/NjktMTYxNzUwNDQy/NS01NTUxLmpwZWc.jpeg" alt="Cover for Sufi Music of Turkey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09cfe8ac74a906833e2cefea7019001.png" alt="Cover for Sufi Music of Turkey" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Kudsi &amp; Süleyman Erguner</td>
@@ -538,13 +555,13 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 11</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 12</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/jSeR6wrujZYUm9WJ2NKmALACHwJZV7pbSo6QKh4SK6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMw/MDI3LTE1ODg0NDc0/OTYtMTI5MS5qcGVn.jpeg" alt="Cover for Choral Works" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +675,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 44</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 45</li>
             <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 85</li>
         </ul>
       </td>
@@ -833,7 +850,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 34</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 58</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 75</li>
@@ -891,7 +908,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 43</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1236,7 +1253,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Wade in the Water: African American Sacred Music Traditions Vol. I-IV" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e443ffc4b4ad83f3ee4405696364e977.png" alt="Cover for Wade in the Water: African American Sacred Music Traditions Vol. I-IV" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Various Artists</td>
@@ -1260,7 +1277,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Wade in the Water, Vol. 1: African-American Spirituals: The Concert Tradition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1083997cf991d3b449d4c9dd95e5f1b3.png" alt="Cover for Wade in the Water, Vol. 1: African-American Spirituals: The Concert Tradition" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Various Artists</td>
@@ -1294,7 +1311,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for Wade in the Water, Vol. 2: African-American Congregational Singing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/930622a8f5184f40cf94ad6dc0ebc086.png" alt="Cover for Wade in the Water, Vol. 2: African-American Congregational Singing" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Various Artists</td>
@@ -1625,7 +1642,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/QnNZZ3l4xr2WKxbQG2JtBLyj5h-TN-JyN8xI6eBWCc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYz/MTAwLTE2MDQ1MTY0/MDQtODQxNS5qcGVn.jpeg" alt="Cover for Maradona (kesä ´86)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/280ef634f15d4e92ceb2d62d8d2e1680.png" alt="Cover for Maradona (kesä ´86)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-20</td>
       <td>Teflon Brothers</td>
@@ -1642,8 +1659,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 34</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 37</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1668,7 +1685,6 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/aandWtSee6hfRQ-_H0tCc1JgACsjV5pghkIF3Jkvpwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/MDI1LTE1OTQ5MTIy/NDAtNTkxOS5qcGVn.jpeg" alt="Cover for Сокровенные песни о любви на древних языках" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Sandal</td>
@@ -1690,7 +1706,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/EaCSmOdLc2y5zMrCY8_qaIPcnpU-wm1VW_SstC7HpT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE5/Mjc3LTE3MzM3NTU5/MzktNTk3Ni5qcGVn.jpeg" alt="Cover for Abayudaya: Music from the Jewish People of Uganda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f9d1c0a2cc4606685af7717aa2d5752.png" alt="Cover for Abayudaya: Music from the Jewish People of Uganda" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-03</td>
       <td>Various Artists</td>
@@ -1760,7 +1776,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/24nwSwBg1Bisn91FrCeMwI3mdgHZeIZFDavHYuuicOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTMw/NTU1LTE2NTgyMTUw/MDctMjI2OC5qcGVn.jpeg" alt="Cover for Tamoj" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9d864112433dd3774c47ea2f7d8cb68.png" alt="Cover for Tamoj" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-04</td>
       <td>Bastarda &amp; Sutari</td>
@@ -1780,9 +1796,9 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Vodun-Rada Rite for Erzulie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1caa98443f8509acbc848d8f6e34eb75.png" alt="Cover for Vodun-Rada Rite for Erzulie" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1816,7 +1832,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 46</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1874,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 21</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 22</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 76</li>
         </ul>
       </td>
@@ -1878,12 +1894,12 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 36</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1900,25 +1916,9 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Christmazz</td>
-      <td>Christmazz 2011</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15cb10c5996e7d9d6b793951d8482c69.png" alt="Cover for Sacred Tides" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mel Dobra</td>

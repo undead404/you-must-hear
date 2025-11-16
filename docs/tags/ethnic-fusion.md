@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:36:39.085Z
+date: 2025-11-16T00:43:21.958Z
 permalink: tags/ethnic-fusion
 title: ethnic fusion
 ---
 
 ## ethnic fusion
 
-Last updated: <time datetime="2025-10-28T15:36:39.085Z">Tue Oct 28 2025 17:36:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T00:43:21.958Z">Sun Nov 16 2025 02:43:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/1v0_LdppVTEcGm7BLqM3-c3waC24hFhEQQAAEQcdHmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDUz/MzYtMTMzMzEwODUz/NS5qcGVn.jpeg" alt="Cover for La terra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a95bacf7b90d42c99307b443f4619836.png" alt="Cover for La terra" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Aktuala</td>
@@ -47,7 +47,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 49</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 67</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 88</li>
         </ul>
@@ -173,7 +173,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdff5de456c9f75d895d48f9b9b9b681.png" alt="Cover for In This Life" style="max-width:120px; height:auto;" />
       </td>
@@ -289,6 +289,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/417a90fc9cfe7398b559ecf19285823f.png" alt="Cover for Spiritchaser" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-03</td>
       <td>Dead Can Dance</td>
@@ -301,14 +302,14 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 39</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/5lTqhQr7tbzkovLklDTwzGEeJCAQmKKkrEKe_yDTlck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDY2/NzEtMTMzODAyOTgw/NC0yNDM1LmpwZWc.jpeg" alt="Cover for Stasi" style="max-width:120px; height:auto;" />
       </td>
@@ -327,8 +328,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3338b47dfb5e48e28fba0f2a7856805c.png" alt="Cover for Karma" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-22</td>
       <td>Delerium</td>
@@ -344,7 +346,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/UGdThrY8bxGiMW1O5D3g25ouc-QCTcx0fykRaUyYJMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/NTE4LTE1OTUxMDI3/NzktMjgzNi5qcGVn.jpeg" alt="Cover for Tribal Instinct" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +389,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1999</td>
@@ -404,9 +406,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/_zYVFqhngN5bhgpoWk-VqmS6CVYINkNklGLYvrloz7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMz/Mi0xNTY4MzA2NDU4/LTMxMjIuanBlZw.jpeg" alt="Cover for Karma (Disk 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0517c76bc724a5e918f25751fde9c44.png" alt="Cover for Karma (Disk 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Delerium</td>
@@ -426,6 +428,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e38dd49b94324f3aacad49306c3ff999.png" alt="Cover for Unbearable Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Walela</td>
@@ -469,7 +472,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/4XwL4TEq5zq2Snndy8mW_Yil7qrarCD4M4D4Spa_2kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/MjYtMTQyODQ3NTg1/Mi01NzkzLmpwZWc.jpeg" alt="Cover for Sevda" style="max-width:120px; height:auto;" />
       </td>
@@ -534,6 +537,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f81209b56a0465ab884f13d253461cb.png" alt="Cover for Poem" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-21</td>
       <td>Delerium</td>
@@ -600,7 +604,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/VBgHM_097qhcbhRRSlJ175QORaFyzjws4373nEc-igU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/MTczLTE2MDAxNzc5/ODgtODA4NC5qcGVn.jpeg" alt="Cover for Worldbeat Brazil" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +648,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/C9GHAEfTa05b9UZSVD1MgLNVR_MttRP_ElSjXVbNQ04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE0/MzIxLTE2NzU3MDY1/NTgtMjY1Ny5qcGVn.jpeg" alt="Cover for 99 - 06" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +723,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/mh1J5EHVb6TkbTD9bcYBI-6DExF8sA8ScoMOEGC0rnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTMw/MDAtMTQ3ODQyNTQ4/NS02NDA4LmpwZWc.jpeg" alt="Cover for Tuuterin tyttäret | The Girls from Tuuteri" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c380f50316021d45665a4d31f09f0b49.png" alt="Cover for Tuuterin tyttäret | The Girls from Tuuteri" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Värttinä</td>
@@ -833,7 +837,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/ZGKeIJBWQagtVcwMzltXFFi_9ZYku4wJEs2K6KdJJEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDcx/Mi0xNDYyMDcyMTE5/LTk2MTEuanBlZw.jpeg" alt="Cover for Fusion Monster" style="max-width:120px; height:auto;" />
       </td>
@@ -874,7 +878,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2004-09-21</td>
@@ -887,7 +891,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 18</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 22</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 27</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 43</li>
         </ul>
@@ -921,7 +925,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg" alt="Cover for Liquid Meditations (Ambient Reworks)" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1022,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/weu44_Eru_WXCok9H77YLLpanJiH2ZMgisox_52sEtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODEy/My0xMjYwNzE2NjY5/LmpwZWc.jpeg" alt="Cover for Mu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1218518b569785260630603bd773c970.png" alt="Cover for Mu" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-12</td>
       <td>Jah Wobble</td>
@@ -1097,7 +1101,32 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/HdqorCJDV9dJ5SaDkky3LBE5lnhJlbvS1_UfYjl_CDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcy/NjIxLTE2NjExMTAw/MTMtMTMwNi5qcGVn.jpeg" alt="Cover for Cafe del Mar Classic III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Café Del Mar</td>
+      <td>Cafe del Mar Classic III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/HdqorCJDV9dJ5SaDkky3LBE5lnhJlbvS1_UfYjl_CDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcy/NjIxLTE2NjExMTAw/MTMtMTMwNi5qcGVn.jpeg" alt="Cover for Café del Mar Classic III" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1171,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 35</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 36</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 72</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 80</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 85</li>
@@ -1153,7 +1182,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2007-02-13</td>
@@ -1167,7 +1196,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 1</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1283,9 +1312,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/Ev1qB8Zudke00RCW10FkFEVhefyrPqBP3CRf1v2hC5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYw/MTEtMTIxMTQ5Mzc3/Ni5qcGVn.jpeg" alt="Cover for Afro Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-10</td>
       <td>Magda Piskorczyk</td>
@@ -1381,7 +1409,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/q7nux_1dzzO_dWtxKuEOi946gw46RoXdlgiItUgLeg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODU2/NTItMTQyNDYwNTc1/OS03NzAxLmpwZWc.jpeg" alt="Cover for Tango Perso" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f016e783f4014dfecd8c8ed87001b4cf.png" alt="Cover for Tango Perso" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-22</td>
       <td>Shahab Tolouie</td>
@@ -1429,7 +1457,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/TulKzJk53zEjvgPBLJi0YiIjPwJZjk74wEAqM23-4vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI5/ODktMTI2Njg3Mzk5/OS5qcGVn.jpeg" alt="Cover for Deep Flow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95555b98dfedd6282c55332fd533624.png" alt="Cover for Deep Flow" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-11</td>
       <td>Mirage of Deep</td>
@@ -1464,6 +1492,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aedf1902df34e3b9aced7ef070950b0.png" alt="Cover for Time&#39;s Wheel" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-22</td>
       <td>Edelis</td>
@@ -1492,7 +1521,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/mM7tmwBab7fwmAM61oYTQ4wFELCfWMRfUf499kXqXJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQw/NDQtMTQ0MDU0NzEx/Mi05OTY2LmpwZWc.jpeg" alt="Cover for Talking Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/511fe0dc1c49423cb017bc288c4cfc9f.png" alt="Cover for Talking Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-13</td>
       <td>Mirage of Deep</td>
@@ -1602,7 +1631,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for The Airbus A380 Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,7 +1653,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/SBLzxoIzRZMnBPc26OQ32fEQ_MYFT6vsajXNW2gwtfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Njk5/NjAtMTQyNDI3NDAw/Ni0zMDM4LmpwZWc.jpeg" alt="Cover for Free Diving" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41560fcaf2644594857c522d03bafafb.png" alt="Cover for Free Diving" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-10</td>
       <td>Ethereal Pilgrim</td>
@@ -1772,7 +1801,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/YW9TwE_olgQ7spXqLRJpjbQqxJiZ5k_Zk2zC9gGI3Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk4/OTktMTM3NjUxMjk4/OS04NzEyLmpwZWc.jpeg" alt="Cover for Karma (Full Length Release)" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1824,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2013-05-28</td>
@@ -1816,7 +1845,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/SEyiTEdCXJ82-FfaYBexVNL1NAr8ISSEQNHxNnX7Vmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTUy/MTQtMTQwNTY1MDY3/OS0xMzM3LmpwZWc.jpeg" alt="Cover for Zen Voices Meditation Chants" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1914,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2014-04-22</td>
@@ -1912,7 +1941,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/UEYrrt8rbOQ1GMmyUK9SEpWTDazT_7oDM7GpJYnd-PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTE1/MTEtMTYzODIyMTgx/OC0xNTUwLmpwZWc.jpeg" alt="Cover for Exalted" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,7 +1961,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Fv218Yt6EM3jP-ClXJ3DDrgz2PEHfM5hEBwvevyYUyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI2/NDEzLTE1NjYzMzk0/ODAtNzc3Mi5qcGVn.jpeg" alt="Cover for Pandora" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,9 +1980,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/j1lORQtOPRzPPbmRczyyjRGqPmSfzjO9lYVtfftC6_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODY0/MjctMTQ4NDc1Nzcz/Mi03ODk1LmpwZWc.jpeg" alt="Cover for Feel Better" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/654739d2555e4c52ccde995cc5c76b77.png" alt="Cover for Feel Better" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-16</td>
       <td>Taste of Dream</td>
@@ -1974,7 +2003,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2017-03-03</td>
@@ -2023,7 +2052,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Ed9D9EdkxD9PeMWZ4F1ouo-w6Kxjwa0xbfON1zDhuPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkx/NTQ1LTE1MDYwMzky/OTQtNTQ2Ny5qcGVn.jpeg" alt="Cover for BUBUKA" style="max-width:120px; height:auto;" />
       </td>
@@ -2058,13 +2087,13 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 16</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 61</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
@@ -2077,7 +2106,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/L58d6s5GG76wa-TcJAxhdq0Qm9JH3orfiV8m0FzTMsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDEw/MjU2LTE2NzU2ODEy/MjEtMjE1NC5qcGVn.jpeg" alt="Cover for So Lost in Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2113,7 +2142,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/k8VPkCif8Tw9XqZvC-E7UttSavkdQeSki0XblZ56jGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgy/NTk5LTE1NDQ1Mzk3/MjEtODE2NS5qcGVn.jpeg" alt="Cover for Creuza de mä" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/425eece6ae309a2bd11fe4981e7ebcd1.png" alt="Cover for Creuza de mä" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Fabrizio De André</td>
@@ -2129,7 +2158,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/KpX9kkRpQ2HvxNKbtmrfN6xx6PG7BggK3DXcZTt_a3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTE1/MTkwLTE3MDE3Njcw/MzQtOTU5My5wbmc.jpeg" alt="Cover for Hedningarna" style="max-width:120px; height:auto;" />
       </td>
@@ -2152,36 +2181,12 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 20</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/NRnE8hc9QVgmKEWgzLox-18QkRvecRj5Itk-v_kfWEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDYz/ODk1LTE3MDUwNTQz/ODEtNDMzNS5qcGVn.jpeg" alt="Cover for Galdr" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-02</td>
-      <td>Mudbard</td>
-      <td>Galdr</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/HQX82oMNYc8ROwpQU69UXm7zOjAbCsLl7Chl7RPYtxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTUy/OTkzLTE3MTA5NDc2/NDMtNDE4NS5qcGVn.jpeg" alt="Cover for Nezaan" style="max-width:120px; height:auto;" />
       </td>
@@ -2201,7 +2206,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2272,8 +2277,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       <td>
         <ul>
             <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 8</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 18</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 25</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 20</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 26</li>
             <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 26</li>
         </ul>
       </td>
@@ -2325,7 +2330,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2349,8 +2354,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd6ae4a0b60d4bb190edc008df775bdc.png" alt="Cover for Viajeros" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Rei Teytum</td>
@@ -2376,7 +2382,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2399,7 +2405,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2418,7 +2424,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2435,7 +2441,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2475,7 +2481,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2501,7 +2507,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
 - [ethereal new age]({{ "/tags/ethereal-new-age" | relative_url }})
 - [new age electronic]({{ "/tags/new-age-electronic" | relative_url }})
 - [chill new age]({{ "/tags/chill-new-age" | relative_url }})
-- [world]({{ "/tags/world" | relative_url }})
 - [new age instrumental]({{ "/tags/new-age-instrumental" | relative_url }})
 - [new age fusion]({{ "/tags/new-age-fusion" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
 - [new age electronica]({{ "/tags/new-age-electronica" | relative_url }})

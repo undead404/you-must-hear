@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:58:44.662Z
+date: 2025-11-16T00:44:22.028Z
 permalink: tags/yoga
 title: yoga
 ---
 
 ## yoga
 
-Last updated: <time datetime="2025-10-22T03:58:44.662Z">Wed Oct 22 2025 06:58:44 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-16T00:44:22.028Z">Sun Nov 16 2025 02:44:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/pgeiC_cso5LT8rXMbuwBZs7ckSOglY8nOvewvvOZIY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTM4/NS0xMTEwMzUxNzIy/LmpwZw.jpeg" alt="Cover for Yoga One" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/JU_4wEWi5H7v4f6KwU2r9Xk2rvuuI8gtNYBVf15E2o8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODg5/LTExODY1NjU0NzMu/anBlZw.jpeg" alt="Cover for The Ambient Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c037c2e3fc17570f422d4f96e039227a.png" alt="Cover for The Ambient Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-10-05</td>
       <td>Art of Noise</td>
@@ -103,7 +103,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/WiTfWA-Uk8tajqaNFViMUfzOemqSh65BhGf8n6ySIvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MjM1LTE1MTI5Nzg1/NzItNzYxOC5qcGVn.jpeg" alt="Cover for Music For Yoga" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/WwLPtLpRKS7Puyrx3WZjf6sdRdbbB7Z-uSHg1EUMcmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ3/NjQ5LTE1OTE2Nzk5/MjMtNTkzMy5qcGVn.jpeg" alt="Cover for Tai Chi - Songs for the Body and Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ttOSL9mqylyfPA3ErVmgRjV6rw97xz81lnhMfbsjNSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzMz/MzYtMTQyOTgyODAx/MC0xOTcyLmpwZWc.jpeg" alt="Cover for Adagio: Music for Tai Chi" style="max-width:120px; height:auto;" />
       </td>
@@ -220,7 +220,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/XHt3rsD6GnAWr7OUd8MyXPp8KiJIdwkNGkIJ4jYCbhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMy/NzA2LTE2MDgzMzE2/MzUtODIzMC5qcGVn.jpeg" alt="Cover for Yoga" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/BrTLp1xVIXAahBxSVjEcZ0eFT0UELORZWgULOeRxdig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njgx/MjMtMTM1MDg0Njgy/NC01NDMyLmpwZWc.jpeg" alt="Cover for Celestial Yoga" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2000-12-19</td>
@@ -274,7 +274,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Cw4Gt4vZy3q62cNEmAmyEw9nIYaDyD7qy0RqYUecPJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDk2/NjctMTI5NzcxMzQz/NS5qcGVn.jpeg" alt="Cover for Sat-Sang" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +294,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/3vwfpfOyp0rTIrqME1R8ydRGjhfUL496MCaFAiiskss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcx/NjYzLTE1MTMxNTQw/MzUtMTU4MS5qcGVn.jpeg" alt="Cover for Spiritual Vitamins 10 - Power Yoga" style="max-width:120px; height:auto;" />
       </td>
@@ -313,7 +313,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/aKUgB1ZUvlE1W0SfW1uNwtoTQc-PQkmF_3xrxwdswSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/ODUxLTE0OTk4OTE0/NzctNzY3Mi5qcGVn.jpeg" alt="Cover for Spiritual Vitamins 9 - Ayurveda" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/2cS4LKHEpGTYCjj2mIc_6TW_brQV9NmoONuZgndIBp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzQz/NzgtMTU5NTIwNTM0/Ni0xMzc4LmpwZWc.jpeg" alt="Cover for Drala" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +352,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/dzOVr9xeOsjmlmCnpjdH8x68UbpX1bi2OheZKZUQg8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzIy/NDktMTQ2MDM4NTU3/Ni01MjAxLmpwZWc.jpeg" alt="Cover for Feng Shui - The Eight Fold Path" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +485,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/ibJvkLSS8W4aiw4lw9Uu8kMNzDt-EaGq8GnjhZXLjOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzA0/ODEtMTMxODk0NTkx/Mi5qcGVn.jpeg" alt="Cover for Yoga Tranquility" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +504,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/CcctnJZcDAkCLEo3FA-bsRJzPgCKc2lmWDCwFMS4gMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDk5/ODgtMTU0MzYzNzUz/Ni0xNTIwLnBuZw.jpeg" alt="Cover for Ultimate OM" style="max-width:120px; height:auto;" />
       </td>
@@ -639,6 +639,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62b7fa004ff640b3beec7ae4b78f6838.png" alt="Cover for The Love Window" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Shantala</td>
@@ -675,7 +676,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/dAAGTlDy8XikDOof0QOLBO6Vp25aivN2X2HsJ7AYJyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcy/NTU5LTE2Mzc5MDA2/OTgtNzcxMy5qcGVn.jpeg" alt="Cover for Tai Chi - Yoga - Qi Gong" style="max-width:120px; height:auto;" />
       </td>
@@ -691,12 +692,12 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 2</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/pdJb8RPXgNRbob9AULI2Ln11tLv8ofT7QHMFKsvyEGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU3/MzEtMTQzNzI5NzEw/MS0xMzkwLmpwZWc.jpeg" alt="Cover for One" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +740,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/JIBDlwblExnh5ZUxyX2fB-WjT1ERpSWQ8WzSk4Ycj6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI4/NjQxLTE1ODA0NDAx/MTctNDAwMS5qcGVn.jpeg" alt="Cover for Tai Chi Chuan" style="max-width:120px; height:auto;" />
       </td>
@@ -758,7 +759,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/0Kj2vs4cHqkjl-iY4L8vVjjn1CBweQbQw4IJ6ZGatME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk5/MDA1LTE1NTkyNjgy/MjEtMTE2Ni5qcGVn.jpeg" alt="Cover for Adagio: Music for Yoga" style="max-width:120px; height:auto;" />
       </td>
@@ -798,8 +799,9 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f98b3836b8b84929903021dd2662e720.png" alt="Cover for Worlds Within" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-27</td>
       <td>Govinda</td>
@@ -811,11 +813,12 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/wosVo-UipwseFluuEylhXV7c-apYnJCwhh3yXfs8lYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTUt/MTYxOTYyNDEzMC05/NTkwLmpwZWc.jpeg" alt="Cover for Yoga Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -837,7 +840,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/veZf-Rx0et7HX6_twrvxlIT0apl0ajQH0Oxix8-1Quk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODkw/NjktMTM2MzU2ODM0/My0yNjg2LmpwZWc.jpeg" alt="Cover for Dakshina" style="max-width:120px; height:auto;" />
       </td>
@@ -874,7 +877,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/TAnnxf_uizNHB-TNEKStVlf60V3gP2okZz7dXefmrtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEw/MzAyLTE2MTkxMDUx/MDAtNzI1OS5qcGVn.jpeg" alt="Cover for True Crystals" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +898,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/TAnnxf_uizNHB-TNEKStVlf60V3gP2okZz7dXefmrtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEw/MzAyLTE2MTkxMDUx/MDAtNzI1OS5qcGVn.jpeg" alt="Cover for True Yoga" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +916,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/TAnnxf_uizNHB-TNEKStVlf60V3gP2okZz7dXefmrtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEw/MzAyLTE2MTkxMDUx/MDAtNzI1OS5qcGVn.jpeg" alt="Cover for True Chakras" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +955,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/DU_lUNgRcTEXRirh6sIv7Pnz7j2D7AsAlYfIZzXt_7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/NTI5LTE1MjU4NTgz/NDMtMjkxNy5qcGVn.jpeg" alt="Cover for Mantra Shakti II" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +996,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/_KfzX_Pq0JfdjjjkrUPlNIjIoYw8ZT-BBKI3M-AWjE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDQ2/NzItMTQwMTQ3MDI5/OC0zMjU3LmpwZWc.jpeg" alt="Cover for Radio Yoga" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1017,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Rzu1n7fV8XCGfAmjKMR-oVwfIv1EVXGqpuIYIeu1128/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzU4/NjgtMTU0Njc5MTA4/OS0xNzAzLmpwZWc.jpeg" alt="Cover for Yoga,Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1068,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 83</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 84</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 98</li>
         </ul>
       </td>
@@ -1112,7 +1115,25 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/LSBgro4nWc1IFr96SSCRXOpbbWUHzrgQWxNdG0YZq-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg4/NzQyLTE1NDAwODU3/MDItNzY0NS5qcGVn.jpeg" alt="Cover for Water World - Volume 1 - Oceans" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Andrey Cechelero</td>
+      <td>Water World - Volume 1 - Oceans</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/-i1Tehm8-WuWcnuJWt2RL6ysG9MnLbvIgQlV6t8ivfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc4/NzUtMTIwNDMwNDkx/OS5qcGVn.jpeg" alt="Cover for Yoga Moods" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1151,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/PSfWhzq1hKoLy_bQDjdx0jLwjUQSnwZFSt9XymS012M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODAy/NzAtMTI0OTc1MTIy/Ni5qcGVn.jpeg" alt="Cover for Yoga: Music For Mind, Body &amp; Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1168,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2009</td>
@@ -1164,7 +1185,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/lHehEMv5QnEgt57YPclQKKYWq6MR-P69R3zS9t_PGwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUx/OTk2LTE1MDM2Njk3/OTUtNTk1OC5qcGVn.jpeg" alt="Cover for Land of the Buddhas" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1275,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ZzaqH9dSrx1kKBNApGxe8llh85buOsvoJfSLxLVkua8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDc1/MzAwLTE2NDAzOTA0/OTYtODk5OS5qcGVn.jpeg" alt="Cover for Doorway to a Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,12 +1297,30 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 1</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/AvXqWSGcqtyL1QdQdX7-7MMHU-nU43DlLe3a0N90iIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkw/NDIxLTE1NTUxODUz/MjYtNjAzNi5qcGVn.jpeg" alt="Cover for Yoga To Twilight And New Moon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Yoga Pop Ups</td>
+      <td>Yoga To Twilight And New Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/AvXqWSGcqtyL1QdQdX7-7MMHU-nU43DlLe3a0N90iIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkw/NDIxLTE1NTUxODUz/MjYtNjAzNi5qcGVn.jpeg" alt="Cover for Yoga To Radiohead" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1338,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Qcw-zl7brxfNhjdzgajMgDlBHfmifD2PH5upj9Y9qR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY4/MzA2LTE0OTgwNTQ4/MTYtODQ3Ny5qcGVn.jpeg" alt="Cover for Gaia&#39;s Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,7 +1376,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2011-01-18</td>
@@ -1354,7 +1393,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/gMkDBH70JxMpDM3XoU1n5FzIP0FEJeE-KbWCdtef9ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkz/NzEtMTMzMTIxMDkw/Ny5qcGVn.jpeg" alt="Cover for Not Alone In Kyoto" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1421,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/gzH0fZCco__aMNG7JlFT9dMDsUAv131wXEUVeMewE78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk1/ODQ3LTE1NDk3NDQx/NTItMjU3My5qcGVn.jpeg" alt="Cover for Calm Piano Music for Meditation, Relax, Yoga, Zen, Sleep, Study, Massage, Baby and Positive Thinking." style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1478,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/iD0LAa-pJzRz2rNGQkMBPyG3R6c8Nsko9vQPq_EVkyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUx/MDc2LTE1OTg5NjIy/NjAtNDcxMC5qcGVn.jpeg" alt="Cover for White Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1541,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/lxsA3isYammm2sJ1vjvPghUpQ4CaHIN113jfYFilYAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM3/OTAzLTE2NzQzMTIx/MjktMzM1Ni5wbmc.jpeg" alt="Cover for Solo Piano II" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1564,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/lxsA3isYammm2sJ1vjvPghUpQ4CaHIN113jfYFilYAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM3/OTAzLTE2NzQzMTIx/MjktMzM1Ni5wbmc.jpeg" alt="Cover for Solo Piano III" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,53 +1587,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/lxsA3isYammm2sJ1vjvPghUpQ4CaHIN113jfYFilYAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM3/OTAzLTE2NzQzMTIx/MjktMzM1Ni5wbmc.jpeg" alt="Cover for Solo Piano" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Raphaël Novarina</td>
-      <td>Solo Piano</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/lxsA3isYammm2sJ1vjvPghUpQ4CaHIN113jfYFilYAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM3/OTAzLTE2NzQzMTIx/MjktMzM1Ni5wbmc.jpeg" alt="Cover for Solo Piano IV" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Raphaël Novarina</td>
-      <td>Solo Piano IV</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/8PxHA28C9z_KD0vqY1YnMMxvnUp7TyKwVy7A7e4D458/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUz/MDI1LTE2MzI1ODQy/MjctNjU4Ni5qcGVn.jpeg" alt="Cover for Dance for the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1605,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2023</td>
@@ -1649,7 +1642,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1668,7 +1661,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1707,7 +1700,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1725,7 +1718,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1746,7 +1739,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1765,7 +1758,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1784,7 +1777,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1803,7 +1796,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1822,7 +1815,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1841,7 +1834,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -1858,7 +1851,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -1875,7 +1868,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -1892,7 +1885,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -1961,7 +1954,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
