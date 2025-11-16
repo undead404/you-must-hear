@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-15T22:02:22.991Z
+date: 2025-11-15T23:16:22.039Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-15T22:02:22.991Z">Sun Nov 16 2025 00:02:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-15T23:16:22.039Z">Sun Nov 16 2025 01:16:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [medieval folk]({{ "tags/medieval-folk" | relative_url }}) | <time datetime="2025-11-15T23:16:22.039Z">Sun Nov 16 2025 01:16:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage punk]({{ "tags/garage-punk" | relative_url }}) | <time datetime="2025-11-15T22:02:22.991Z">Sun Nov 16 2025 00:02:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental folk]({{ "tags/experimental-folk" | relative_url }}) | <time datetime="2025-11-15T21:10:21.946Z">Sat Nov 15 2025 23:10:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [rumba]({{ "tags/rumba" | relative_url }}) | <time datetime="2025-11-15T20:47:21.950Z">Sat Nov 15 2025 22:47:21 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1207,7 +1208,6 @@ Last updated: <time datetime="2025-11-15T22:02:22.991Z">Sun Nov 16 2025 00:02:22
 | [new age electronica]({{ "tags/new-age-electronica" | relative_url }}) | <time datetime="2025-10-22T02:12:02.103Z">Wed Oct 22 2025 05:12:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [synthesizer]({{ "tags/synthesizer" | relative_url }}) | <time datetime="2025-10-22T02:11:54.463Z">Wed Oct 22 2025 05:11:54 GMT+0300 (Eastern European Summer Time)</time> |
 | [hard house]({{ "tags/hard-house" | relative_url }}) | <time datetime="2025-10-22T02:10:53.880Z">Wed Oct 22 2025 05:10:53 GMT+0300 (Eastern European Summer Time)</time> |
-| [medieval folk]({{ "tags/medieval-folk" | relative_url }}) | <time datetime="2025-10-22T02:10:14.736Z">Wed Oct 22 2025 05:10:14 GMT+0300 (Eastern European Summer Time)</time> |
 | [ragtime]({{ "tags/ragtime" | relative_url }}) | <time datetime="2025-10-22T02:10:03.497Z">Wed Oct 22 2025 05:10:03 GMT+0300 (Eastern European Summer Time)</time> |
 | [sitar]({{ "tags/sitar" | relative_url }}) | <time datetime="2025-10-22T02:09:22.328Z">Wed Oct 22 2025 05:09:22 GMT+0300 (Eastern European Summer Time)</time> |
 | [bosta]({{ "tags/bosta" | relative_url }}) | <time datetime="2025-10-22T02:07:53.485Z">Wed Oct 22 2025 05:07:53 GMT+0300 (Eastern European Summer Time)</time> |
