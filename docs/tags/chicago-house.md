@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T22:25:50.860Z
+date: 2025-11-16T06:51:50.742Z
 permalink: tags/chicago-house
 title: chicago house
 ---
 
 ## chicago house
 
-Last updated: <time datetime="2025-11-14T22:25:50.860Z">Sat Nov 15 2025 00:25:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T06:51:50.742Z">Sun Nov 16 2025 08:51:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Chicago Trax" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for The History Of House Sound Of Chicago - Part 1" style="max-width:120px; height:auto;" />
       </td>
@@ -65,9 +65,9 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/7Uw6XU2902Qiyy7bkUBFN25Q9GFn81m7x6CuOuf1Xwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njc2/OTQtMTQyODMzMzM2/My03NjcxLmpwZWc.jpeg" alt="Cover for The History Of The House Sound Of Chicago - Vol.06" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78ee31a0cb7dc290eb507656b62ade9c.png" alt="Cover for The History Of The House Sound Of Chicago - Vol.06" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Sweet D</td>
@@ -84,7 +84,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/IvlyNKlrpyD6jv_dfj1qupm6hU4otC-jqTkwVyK3A_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDcw/NDYtMTQzMDUwNzYz/OS01MDA5LmpwZWc.jpeg" alt="Cover for House Masters: Frankie Knuckles" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/di9fhlPnZCPfbVtGdsUnitOX3tDrFTEMLZSEMLPw9TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODg3/LTExODM5OTgwMzQu/anBlZw.jpeg" alt="Cover for You&#39;ve Been Messin Around" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/6vNWKDfRjtrUgX9zMRxdW7H8ZE5uUSEOZXCDV8RN2qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTYt/MTIxODE1Mjc5Ni5q/cGVn.jpeg" alt="Cover for Free Yourself" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08871858d4dd447a8d70169d8350630c.png" alt="Cover for Free Yourself" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Virgo</td>
@@ -133,6 +133,24 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a90a61732b0134b1f2948ccf720c9fe.png" alt="Cover for Acid Tracks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Phuture</td>
+      <td>Acid Tracks</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
@@ -180,7 +198,25 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/269e846d6f344da0b7780dd20066c9b8.png" alt="Cover for Jack to the Sound" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Fast Eddie</td>
+      <td>Jack to the Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/JkU8CjiUxKlD1bi65K3Shp-2YVW6SWraW_DLhBVV9m4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzMt/MTMzNTM2Njk0MS5q/cGVn.jpeg" alt="Cover for From The Mind Of Lil Louis" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +234,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ab21e29664907caefe898e8c11596a0.png" alt="Cover for straight jackin" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +255,25 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f59d0198aa08490ba47b776d87b9b3c9.png" alt="Cover for Foundation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Ten City</td>
+      <td>Foundation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/SoNWQoQnJUqpYQqEmIycV9Lprcgx9zLrn8zI240q6_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDky/NDktMTY1NzkyMTcx/OC0yMzM3LmpwZWc.jpeg" alt="Cover for From the Mind of Lil&#39; Louis" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +293,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
       </td>
       <td>1989</td>
@@ -261,7 +315,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04ce70a6c9a2435f86b22659be62482d.png" alt="Cover for State of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -382,7 +436,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3e1d6c5da1f4df8b0550fc244167b00.png" alt="Cover for What You Make Me Feel" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +476,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/I2z4PEDLvCi9WIXm-Bx1LKVUjBTEkQLPMyC5JI7jKS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjI4/LTEzMDk3NTA2MDIu/anBlZw.jpeg" alt="Cover for Live at Deep in the Flowers, Dallas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cbe63da0927dc53c08359efbe11ff8e.png" alt="Cover for Live at Deep in the Flowers, Dallas" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Gemini</td>
@@ -439,7 +493,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/tcTzHi45Zh_aSnZOUwJlyLMrut7Dj-7t3w9agt_8SWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIx/OS0xMjAxMjc2NTY2/LmpwZWc.jpeg" alt="Cover for DBG Project" style="max-width:120px; height:auto;" />
       </td>
@@ -459,6 +513,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13e5a01b5dc04448844e9d553a146e9e.png" alt="Cover for Atmosfear" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Glenn Underground</td>
@@ -474,7 +529,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/ENDrBJXr0ymP0j4VwIMqamFHWdQOlB3FwRd-WE9nUmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njk3/NC0xNDY3ODMwNzMw/LTU1MDQuanBlZw.jpeg" alt="Cover for Simple Scenes (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +561,25 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b85dc8da4225aba29a9410f74a5d07d.png" alt="Cover for Can You Feel It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Larry Heard</td>
+      <td>Can You Feel It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/LVqSTEbBnLJ28b2dT2TBzsPB8ZhqstTQogG_qIZgTWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk3/LTExNjgxMTk2MDAu/anBlZw.jpeg" alt="Cover for Marshall Jefferson - Move Your Body" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +598,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/IqqZ-Eguj0LdXCtQCb3KY2hbLvAHDEUF5up9IKovB4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzIt/MTQzMTc4OTgyOC05/MzI5LmpwZWc.jpeg" alt="Cover for Teleport" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +678,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/fH5CyePqMfh0ECPUEmgxz6kTL58eHyOO0VzdD0fIMlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjQ4/LTE0ODU4MjAwNzct/MzM4Mi5qcGVn.jpeg" alt="Cover for Squaredancing in a Round House" style="max-width:120px; height:auto;" />
       </td>
@@ -624,9 +697,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/fH5CyePqMfh0ECPUEmgxz6kTL58eHyOO0VzdD0fIMlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjQ4/LTE0ODU4MjAwNzct/MzM4Mi5qcGVn.jpeg" alt="Cover for Squaredancing In A Round House" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09</td>
       <td>Derrick Carter</td>
@@ -643,27 +715,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Best of House 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Various Artists</td>
-      <td>Best of House 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa448b1d6be7470e83e7d6562fe7d5f3.png" alt="Cover for You Can&#39;t Hide" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +739,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/g6bcoO40360MXGVUMFLWhjRpzN2d1_Nt5L1u7hH25WY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/MC0xMzA2NjU1MTYz/LmpwZWc.jpeg" alt="Cover for Gotta Have the Pokey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8538e30dbc24c96a411a84cd4ea5851.png" alt="Cover for Gotta Have the Pokey" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Raheem Hershel</td>
@@ -704,7 +756,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +773,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>27</td>
       <td>
       </td>
       <td>2003</td>
@@ -737,7 +789,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 11" style="max-width:120px; height:auto;" />
       </td>
@@ -754,7 +806,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +823,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>34</td>
       <td>
       </td>
       <td>2003</td>
@@ -787,7 +839,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 5" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +856,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 12" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +873,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 3" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +890,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 4" style="max-width:120px; height:auto;" />
       </td>
@@ -855,7 +907,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 14" style="max-width:120px; height:auto;" />
       </td>
@@ -909,7 +961,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/nyxzopCVKa06jZ54oiIBPn3ElehwDrK4Bx6s-cy-1K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzE1/Ni0xMTI5NTE4NDM5/LmpwZWc.jpeg" alt="Cover for I&#39;m Hot for You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29127119e2b79a9c81c0d5594319d654.png" alt="Cover for I&#39;m Hot for You" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Lil&#39; Louis</td>
@@ -952,7 +1004,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
         <ul>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 16</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 66</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 70</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 69</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 79</li>
         </ul>
       </td>
@@ -980,7 +1032,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42488b4a4d70420092cb4724fdeaeebf.png" alt="Cover for Amazing" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1111,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/NPDzdFfOPyFML1eh75ktVjBaczyNuYVDCOUHrCPjreY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njkw/MjctMTM0ODM5NTk1/Ny00NjMwLmpwZWc.jpeg" alt="Cover for Junior Rafael Presents Darkroom Traxx II" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,9 +1149,9 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/xz_KrKtU8kvMqSk-Jv3Q200FLEMa9Nmh7d-OltAkISk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY5/MDEtMTI1NjI1MDc2/NS5qcGVn.jpeg" alt="Cover for An Emotional Moment With The Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4990799779f9e7f1bb30c6c474e65178.png" alt="Cover for An Emotional Moment With The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-14</td>
       <td>Contra Communem Opinionem</td>
@@ -1138,7 +1190,26 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1cc2d2b7a84c70b699698d5c0ea15c.png" alt="Cover for Emerald Fantasy Tracks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-29</td>
+      <td>Lone</td>
+      <td>Emerald Fantasy Tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 13" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1226,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 7" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,7 +1243,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The History of the House Sound of Chicago, Volume 15" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1298,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/eQnS6QIzx6w11__jxEIVhhjHGWbMEJu2TmVNkrDFxeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTMx/MzUtMTM2MjU5MTY2/NC03MTk4LmpwZWc.jpeg" alt="Cover for Early Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1317,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>52</td>
       <td>
       </td>
       <td>2013-09-30</td>
@@ -1303,7 +1374,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/_hMplAFspAIkBQSMiMVHRGxxu7o4xkDFFe_A8jfJzgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTM1/NjUtMTQwNTE4MzQ5/Ny05NzcyLmpwZWc.jpeg" alt="Cover for Astral Traveling" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,7 +1392,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/S4YSB9Z4FzOZ-N_Y3Yo0mDSj04q04BakOFyEKossLBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzI4/Njk1LTE2NTMzMjE1/NzMtNjkyOS5qcGVn.jpeg" alt="Cover for Higher Love Feat Mustafa Akbar" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1433,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg" alt="Cover for Got 2 Be There - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,9 +1456,9 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg" alt="Cover for Just Like That (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ea2a52283f3e5c154f2da5607fdbc07.png" alt="Cover for Just Like That (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-06</td>
       <td>Midnight City</td>
@@ -1404,7 +1475,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 29</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 28</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 52</li>
         </ul>
       </td>
@@ -1428,7 +1499,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 49</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 48</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 50</li>
         </ul>
       </td>
@@ -1436,7 +1507,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg" alt="Cover for Just Like That" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45b6e94f06342550d5dc1d294656f647.png" alt="Cover for Just Like That" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-06</td>
       <td>Midnight City</td>
@@ -1453,15 +1524,15 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 68</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 67</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/L9TH6v7k5FYSdnDHUyp6Lfzg41BkF9zjduowMXUyIXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI5/NjUyLTE1NTIxOTEx/MzEtMTUxOS5wbmc.jpeg" alt="Cover for Cross Section" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc54dd46d7dcd81fb444cf790ed33933.png" alt="Cover for Cross Section" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-28</td>
       <td>Kez YM</td>
@@ -1497,7 +1568,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/eOVv-irOe6HiA-oKCVf08MJEkUcOF9aXivkyAUtorTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ4/ODM4LTE1ODg2NjYz/MTctNjEwNy5qcGVn.jpeg" alt="Cover for Peaks EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,7 +1587,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/kbG46pl8UbOfAiHLsXJJm58RW8Zyk5QsKiBtdmEIwOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk2/NDYzLTE1ODUyNjk2/NTYtMzQxNC5qcGVn.jpeg" alt="Cover for Carrie&#39;s Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1610,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Qshec94UUtGbaZVDpKcESTiWOB1X5nJny1OemdGIm8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/MzI1LTE1OTAzNDA4/MTMtMjQ2Ny5qcGVn.jpeg" alt="Cover for Get It Up - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1633,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Qshec94UUtGbaZVDpKcESTiWOB1X5nJny1OemdGIm8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/MzI1LTE1OTAzNDA4/MTMtMjQ2Ny5qcGVn.jpeg" alt="Cover for Get It Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,13 +1651,13 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 25</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 24</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/N8iRMHQyajYAJjlddu64G4j3W_6qEt2p-GQ24tdtkd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY3/MjczLTE1OTIwMDUw/NDItNTY0MS5qcGVn.jpeg" alt="Cover for It&#39;s Gonna Be, What I Feel" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,13 +1670,13 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 8</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 7</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/sqdsnqbWflAWPEu2bBnI5GZdfqd-c0sfjOjcilAv2GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM2/ODU0LTE1OTY4NDI4/NjYtMjQ2My5qcGVn.jpeg" alt="Cover for Don&#39;t You Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,29 +1699,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/sqdsnqbWflAWPEu2bBnI5GZdfqd-c0sfjOjcilAv2GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM2/ODU0LTE1OTY4NDI4/NjYtMjQ2My5qcGVn.jpeg" alt="Cover for Don&#39;t You Know - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-08-07</td>
-      <td>Midnight City</td>
-      <td>Don&#39;t You Know - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/UHaqkfo6Xol0sxxsby2spDwGPr102i7_T4xuw4zV7JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA5/MTkyLTE2MDM1NzA1/NzItNDg2NC5qcGVn.jpeg" alt="Cover for Here to stay" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,29 +1722,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/UHaqkfo6Xol0sxxsby2spDwGPr102i7_T4xuw4zV7JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA5/MTkyLTE2MDM1NzA1/NzItNDg2NC5qcGVn.jpeg" alt="Cover for Here to stay - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-23</td>
-      <td>Midnight City</td>
-      <td>Here to stay - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/zYcVv4O5EymDHUwRqDXYHDoGwBfQD7lJSS9aCRWbMXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIw/OTA5LTE1NjQwOTk2/MzktNzY4MS5qcGVn.jpeg" alt="Cover for The Guestlist" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,7 +1740,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 27</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 26</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 39</li>
         </ul>
       </td>
@@ -1741,7 +1768,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/oOb4fxFmP1FlGJt4N4S34bWApn0iKNeyCuhQcZvOjRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA4/MDA4LTE2NTk3MDA5/OTAtMzgzNS5qcGVn.jpeg" alt="Cover for Good Feelings EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,7 +1786,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 22</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 21</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 31</li>
         </ul>
       </td>
@@ -1767,6 +1794,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78ed7860327ed22121904e18e92325d3.png" alt="Cover for Phuture And Other Classics From DJ Pierre" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1785,7 +1813,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/8ZK-a1TAf0Rccs1ESe9t2SMGwxQD_EzT4lcJ90u6zC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEy/Nzc3LTE2ODI3MDM1/NTMtMzUyNi5qcGVn.jpeg" alt="Cover for Just Like That (feat. Raphaella) - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1837,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/8ZK-a1TAf0Rccs1ESe9t2SMGwxQD_EzT4lcJ90u6zC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEy/Nzc3LTE2ODI3MDM1/NTMtMzUyNi5qcGVn.jpeg" alt="Cover for A Love That You Can Keep" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,35 +1855,13 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 34</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/8ZK-a1TAf0Rccs1ESe9t2SMGwxQD_EzT4lcJ90u6zC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEy/Nzc3LTE2ODI3MDM1/NTMtMzUyNi5qcGVn.jpeg" alt="Cover for A Love That You Can Keep - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-04-28</td>
-      <td>Midnight City</td>
-      <td>A Love That You Can Keep - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1877,7 +1883,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1894,7 +1900,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1931,7 +1937,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1961,26 +1967,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>DJ 5ive</td>
-      <td>5ive&#39;s April Showers 2008 deux</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2010,7 +1997,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>

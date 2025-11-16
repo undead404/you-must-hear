@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:09:12.332Z
+date: 2025-11-16T06:54:22.532Z
 permalink: tags/christian-rap
 title: christian rap
 ---
 
 ## christian rap
 
-Last updated: <time datetime="2025-10-28T16:09:12.332Z">Tue Oct 28 2025 18:09:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T06:54:22.532Z">Sun Nov 16 2025 08:54:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Hz9xQXe5XNyIoAwQnrSfgptmtMh94z6MpnuRATkSRbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzky/MDU1LTE1NjEyMjQ3/MzgtMjAyMi5qcGVn.jpeg" alt="Cover for Training Camp Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -47,9 +47,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/rL4C-tMy9bZ3Kv1pVEwe6nOozeamCma7RI596AdW5sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/MzAtMTY1OTI5MjA5/Ni0yNDk2LmpwZWc.jpeg" alt="Cover for Rrrock It Right" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22bf0547d9b0032b241b45ba14a611ff.png" alt="Cover for Rrrock It Right" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Michael Peace</td>
@@ -67,9 +67,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/3ZybvSFBFweZPw8rPnrVwDd9Z3nJMS6ALHDC2t2rDdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY0/NjEtMTMxNTQzMzg0/Ny5qcGVn.jpeg" alt="Cover for Rappin&#39; Bold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58a2dfa2aa109ff4d658e460925e693f.png" alt="Cover for Rappin&#39; Bold" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Michael Peace</td>
@@ -87,7 +87,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/U7ZIdMYwh-Vrt2P1dt-ST9Tv4LG5gota7VpDKiF7Kkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQz/OC0xMjUyMTgxNTA0/LmpwZWc.jpeg" alt="Cover for The Neglected Truth" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/rnI_q2zpg0o27F-s7Re9MrKxKsn-0D1f09Cr-tdepv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTky/MTU5LTE1NDk2ODU0/MTAtODkwNS5qcGVn.jpeg" alt="Cover for Death Before Denial" style="max-width:120px; height:auto;" />
       </td>
@@ -123,9 +123,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Rl3sZjv0Duj553Q-uwIfNmhaIYNWlm-AN_C6Tdppq9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjY2/NC0xMTU1ODQxNzY0/LmpwZWc.jpeg" alt="Cover for Cristonita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77dce445b0cb7f267e71108a0867c23.png" alt="Cover for Cristonita" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-03-22</td>
       <td>Sugar</td>
@@ -144,9 +144,8 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/RdzsUF44Em78wo_OvNlJ9j5UG7Vap4aMbZipiy1KniY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE4/NDUwLTE1MTIwOTQ0/MDItNzM1NS5qcGVn.jpeg" alt="Cover for Manna Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Sebastian Moon</td>
@@ -163,7 +162,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/AglZ904ewm8cL9bN-cJM_ex-oYDolg8U0bIa8xOCBic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzEz/NTItMTU4Njc3ODE5/OC00MjkzLmpwZWc.jpeg" alt="Cover for Called to Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -181,9 +180,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/lviCjbNqKGduDUl4h8LUgdOiiqJ6DFkplu3CUR6Z4-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODUx/NzgtMTM4MTQxOTg4/OC03MTQ4LmpwZWc.jpeg" alt="Cover for DO IT LIKE A DUHAWK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d88ceadfcb0438db6e444aa3541e4e1.png" alt="Cover for DO IT LIKE A DUHAWK" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>MC Dewey</td>
@@ -202,7 +201,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2001</td>
@@ -221,27 +220,24 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a84293f965946eca1b1522549d28c0c.png" alt="Cover for The Art Of Translation" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-27</td>
       <td>Grits</td>
       <td>The Art Of Translation</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Svhg5eWnWF25-rfwh58LfYpl40NqSHbJjvtjRw5H3XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDYy/MzUtMTM2NTEwMDYy/OC01MzYyLmpwZWc.jpeg" alt="Cover for Burnt Out" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +257,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/u1q1C-7hdHi94SHJeJXGIKkmicVhlx-fJ7FfKOYXv2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ0/MDctMTYxNTk3MzAy/NS04MDA1LmpwZWc.jpeg" alt="Cover for Live Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25bd19a0774782a69cc6341549cecbc0.png" alt="Cover for Live Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>116</td>
@@ -299,7 +295,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/_H88da7t-hWBTsVa0Sa-Fs2KgQ6UjZpuZC-hnP0Q1Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDk1/MjctMTQ4NzUzOTg4/My00MzI0LmpwZWc.jpeg" alt="Cover for Sincerely Yours EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd56cd1f6fb4aa9805e140f8192f841.png" alt="Cover for Sincerely Yours EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Jin</td>
@@ -335,7 +331,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/nsmW_ko-Rtsz43ZZFhBdKFY1LjL03wavQv0sDEBEYJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY2/MzctMTE5NzYxNzIy/Ny5qcGVn.jpeg" alt="Cover for In Like Flynn" style="max-width:120px; height:auto;" />
       </td>
@@ -353,8 +349,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f5b1be41beb4d44d16b60e5622af9b7.png" alt="Cover for Welcome to Diverse City" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-23</td>
       <td>TobyMac</td>
@@ -366,7 +363,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 30</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -409,6 +406,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a810d51ea97046fcaaa047603dedbe60.png" alt="Cover for Epiphany" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-19</td>
       <td>Manafest</td>
@@ -427,6 +425,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee7e35c22d2b436ab35e9129e452a048.png" alt="Cover for The Find" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-13</td>
       <td>Ohmega Watts</td>
@@ -442,14 +441,14 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 28</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/bnR4NMfJOlRhQcM9Tdo_vmoyASmf2lt6kac5ZBxBfOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/OTAtMTQ4MDY5Mzgy/NC00Nzc5LmpwZWc.jpeg" alt="Cover for Black Guy Meets White Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae01621e3cc340c9b65b5c2af418f51a.png" alt="Cover for Black Guy Meets White Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>K-Drama &amp; MC Till</td>
@@ -468,7 +467,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/OBjBNqEdfrf9aYYhm0jlTa-8DKXIH2dG_DPljT9853M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ2/NzMyLTE2MTA4MzY3/NDMtNTM5Ny5qcGVn.jpeg" alt="Cover for G&#39;D Up" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +520,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2006-07-10</td>
@@ -574,7 +573,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cc27769787b41a2b588614332499fbf.png" alt="Cover for Glory" style="max-width:120px; height:auto;" />
       </td>
@@ -594,7 +593,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/bPqsuhhhWPACf0yCDkDM1tHt537uZZ7awZJ9XWNinHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/ODkzLTE2NTQ4NzU0/MjItODg5Ny5qcGVn.jpeg" alt="Cover for Group 1 Crew" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4be76b4613b4e9aa1fd1cd0a0479931.png" alt="Cover for Group 1 Crew" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-21</td>
       <td>Group 1 Crew</td>
@@ -610,7 +609,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/wh6vQcHVG4ha1QUEf2OrpfVPMXTmddsvqrfi2Fk9bmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjQ4/Mi0xMTcwMzkxNjUx/LmpwZWc.jpeg" alt="Cover for Red Opus .45 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -628,7 +627,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Puhu5tvCRCG7Ljzseer1hJzltAuUn1l16GBYDepOVec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI3/NzYtMTIyOTQwMTgx/NC5qcGVn.jpeg" alt="Cover for 2 Die Is Gain" style="max-width:120px; height:auto;" />
       </td>
@@ -666,7 +665,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/x0oG0_gqx7VbzY7eUs2RBdR5PFrcbB1DzUhY5WVDQPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjMx/NjEtMTMwNTMxNzk0/Ny5qcGVn.jpeg" alt="Cover for For His Glory" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +683,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ZCgamzD4p42FvieDBvulwq1-c8kYThIy6XEqyDgUMO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY3/Mjg1LTE1ODg5MzU1/NDUtNjk3OC5qcGVn.jpeg" alt="Cover for I AM LEGEND" style="max-width:120px; height:auto;" />
       </td>
@@ -702,7 +701,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/f-R9qvKcEul1qenaGIRWtGuIxNq9SwFjK2eYbKRTx4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/NTIyLTE1Mjk1OTky/ODAtODk3OS5wbmc.jpeg" alt="Cover for Guest Room" style="max-width:120px; height:auto;" />
       </td>
@@ -720,7 +719,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/UuXXYvWDgA1gP5YFuQzIsVrU0ZntUSkoYV6w5r3Llls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjk5/NzQtMTM4OTE5ODgx/OS04ODA2LmpwZWc.jpeg" alt="Cover for Good Friday Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -757,7 +756,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/p1X-w7TD0nEhuJaHJIJQsCMNuMzlScYU1RzlIwMeknM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjcz/MzUtMTMyMTMzODM0/Mi5qcGVn.jpeg" alt="Cover for Chase" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +792,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Uj_TX0w3WNwX28zIcIMMTAEPndhRPeH5RzyetKg_gZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg1/NzM3LTE1OTk1ODUz/ODEtMzkxOS5qcGVn.jpeg" alt="Cover for Rosario Dawson" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +810,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2010-09-15</td>
@@ -828,7 +827,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/i81Zv0YcMp1FpcBEUY4kycn0yswxsHx8yTYvwbYHtn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzcz/NDAtMTQzMzE3MzUz/Ny04NTk4LmpwZWc.jpeg" alt="Cover for Captured" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +845,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/shHduacCjStwykKJ1xCxVOt1h92GhaYXIbWJFqD4kLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzky/MDgyLTE2NDI1MzUw/MDAtODQ1NS5qcGVn.jpeg" alt="Cover for Nine From &#39;09" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +880,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/UYfKcF0mxRsQkDfV69SGTASI_qlypsGd2_d9lrQ7EO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY3/MDE2LTE1ODg5MzE1/MDEtNDg4Mi5qcGVn.jpeg" alt="Cover for Make It Happen" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +953,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/ytK7GamcfkK4q-tQCWVAKGgOSN_8klm_m8vkn_Z3YXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg5/ODQ4LTE1NDAxMTE2/NDktODk3NC5qcGVn.jpeg" alt="Cover for Godspeed" style="max-width:120px; height:auto;" />
       </td>
@@ -972,7 +971,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2011-12-22</td>
@@ -989,7 +988,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/luyNYVQIY-spnznq44XqgwOQeeIhjWMV-1VPNiZWeao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/MTUzLTE2OTI3NTU0/MTAtNDA4OC5qcGVn.jpeg" alt="Cover for Born Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,9 +1025,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/c9SFtfoIVlSBhW1l1eqQNEVlSImSAKJQYxGvtygWETM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDc4/OTQtMTM0MTE4MDY5/OS02MjIzLmpwZWc.jpeg" alt="Cover for Satellite Kite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18808b7c035d49bf99ed8215cf61cd04.png" alt="Cover for Satellite Kite" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-19</td>
       <td>Beautiful Eulogy</td>
@@ -1049,9 +1048,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/rIDptfcz-oczzpS5_xisav9S_heWykSePO7tDoHKkhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODI3/MTItMTM0Nzg1ODkw/NC0yOTQ1LmpwZWc.jpeg" alt="Cover for Cristonita Recharged" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4140f0b6237ef67af218b89b1da7e87.png" alt="Cover for Cristonita Recharged" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-17</td>
       <td>Sugar</td>
@@ -1070,7 +1069,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2012-08-30</td>
@@ -1087,7 +1086,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/r59lLPGIHLQASIdAp6szvidmKdXxlOsZCpnTtFHlQrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzY3/OTEtMTM4NTQ4NzI2/MS0yNzUxLmpwZWc.jpeg" alt="Cover for Set On Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1104,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2013-09-03</td>
@@ -1129,6 +1128,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/660064db1f3d3f54a854e63af1c80c92.png" alt="Cover for Minorville" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-10</td>
       <td>Derek Minor</td>
@@ -1145,7 +1145,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/tvRVCwXKEiF9YvotKotYEV7LkLkXNn2LQI5teYfXvu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc1/NjAxLTE1OTA1MTc2/ODctMjY0MS5qcGVn.jpeg" alt="Cover for Middle Clash" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,9 +1163,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/DpMKi7mCQ7G1K-RMXKra1bh_ilj369oXd-frUsU0rC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEy/NDgwLTE1NzgxNjk2/MzgtNDU3Ny5qcGVn.jpeg" alt="Cover for Can I Be Honest?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a144f203944aeb71c9f776bd5f86b01.png" alt="Cover for Can I Be Honest?" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-18</td>
       <td>Stephen the Levite</td>
@@ -1187,9 +1187,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/XCjxtV1zVOf_nsW0uSKsXy7AEdo7f5FmR5Mkt6OIND8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjYz/ODktMTQyNzQ0OTM3/OS02OTYwLmpwZWc.jpeg" alt="Cover for EFEKT MOTYLA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbf30446c2ae449c86abaefb4bea255a.png" alt="Cover for EFEKT MOTYLA" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-27</td>
       <td>eks</td>
@@ -1208,7 +1208,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/0f4b64ThSAJQicLsPbI1-1oe1fnw6bN3a_IM4AAclbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjQy/NTktMTQ2ODI2NDA2/OS04NzU3LmpwZWc.jpeg" alt="Cover for Say No More" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1226,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/SIk6ypIaFOCfXctmn4HFE1s14v-4HcaZbjyKD6eQQiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTQ0/MDQtMTQ3MDE1OTEz/Ny02MTY3LmpwZWc.jpeg" alt="Cover for A New Chapter" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1244,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/60rkrp20WMh_vX1I8s9bYnbfAqnsRbh6T1RH_JpyFhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk4/NTYtMTQ4MDc4NTg3/My05MDMxLmpwZWc.jpeg" alt="Cover for Praise" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1262,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/QGMpg7HIRUcOPc6icAscWaCz4TBqEIspknsKnI49NKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk3/MDEtMTQ4MDc4MzY4/OS02NzI4LmpwZWc.jpeg" alt="Cover for I Got Angels (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,7 +1280,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/l7X-bZcX1ts_6hMFmfXhs_4NnDghh5ut4WX9oDmXGks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDU5/NjUtMTQ4MDAwMjM2/My03ODg1LnBuZw.jpeg" alt="Cover for What You Almost Missed: The Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1300,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/lv9mjRngT8hECc3y2Us851Udg4vNFqggBr-VqqTYhzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk1/OTM3LTE1NTE1Nzg2/OTAtOTkwOS5qcGVn.jpeg" alt="Cover for Canopy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af85dc63baddc826df7c7bfcc301e7c7.png" alt="Cover for Canopy" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-03</td>
       <td>nobigdyl.</td>
@@ -1317,9 +1317,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/meWxDhVWwtTwMdCKC9jg8TtII2jfCKOxZ7_S9Lf7ZlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTQxLTE1MjMwMzg5/MTAtNzk3NS5qcGVn.jpeg" alt="Cover for Can&#39;t Forget" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/649100ca9028648efb1999cacf7a5c79.png" alt="Cover for Can&#39;t Forget" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-03</td>
       <td>Aaron Robinson</td>
@@ -1336,7 +1336,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/JlSJPD1qtllVPSKk9PO-gBeyYCHvc49-1wNyeHexPHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/NTEyLTE2MTI4MDQ2/NDEtODI1Ni5qcGVn.jpeg" alt="Cover for Iris" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,9 +1354,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/GysHOm8sIYS6gnslrHU1acUmNzmTrLoS1MJXlLUF3Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc4/NDA4LTE1NjkzMzA2/NDYtNjM1MC5wbmc.jpeg" alt="Cover for Goodbye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d848eba343905c076139682f2f90593.png" alt="Cover for Goodbye" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-11</td>
       <td>FlipFlop The Clown</td>
@@ -1389,14 +1389,14 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 58</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 66</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 100</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/H-zrCazw3_OPCfMllwJiRKDzF-QhjxBDgPGyyYbLIK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg4/MjUwLTE2NDMxNDE3/NTQtMjY0Ny5qcGVn.jpeg" alt="Cover for Illect Recordings: Mind the Rap volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1414,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/H-zrCazw3_OPCfMllwJiRKDzF-QhjxBDgPGyyYbLIK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg4/MjUwLTE2NDMxNDE3/NTQtMjY0Ny5qcGVn.jpeg" alt="Cover for Illect Recordings: Mind the Rap volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1432,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/iWQjDjDh9xnwbv6YwSXgYvE-BrBCebs0g3aWOe7FJGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTIz/NDgwLTE2NDczNzQ3/OTktMzM3Ny5qcGVn.jpeg" alt="Cover for The Young Future" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,16 +1464,34 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 45</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 71</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 95</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 52</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 72</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/k7JpdS4s7XAxS5SJNb7ZBoAp8NMOUmT1cyWmd4LPgCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQ5/NTU2LTE2NjQzMDMz/MzUtMjcyOC5qcGVn.jpeg" alt="Cover for Attack on Titan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-12-02</td>
+      <td>Yung Titan</td>
+      <td>Attack on Titan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/V1rSdhd9PK7B0xxMNe2i0X_flltmi2oAhSYXV-EFPos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ5/NTU5LTE2NDc1NjM0/MzItMjAxNS5wbmc.jpeg" alt="Cover for Crest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ba80626474b2b067fba1c8ab2849556.png" alt="Cover for Crest" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-17</td>
       <td>Bladee &amp; Ecco2K</td>
@@ -1527,7 +1545,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1544,7 +1562,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1561,7 +1579,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1579,7 +1597,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1596,7 +1614,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1615,7 +1633,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1633,8 +1651,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65e5fff41f0f09d239a0daff96b7f74.png" alt="Cover for Free Barabbas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Aha Gazelle</td>
@@ -1652,7 +1671,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1669,7 +1688,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1686,8 +1705,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/750cc30ab6487da35f31ae6ca8066cf7.png" alt="Cover for Blameless (Single + Bonus Track)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Strategical</td>
@@ -1706,7 +1726,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -1723,7 +1743,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -1741,7 +1761,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -1758,8 +1778,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15dafe8b7a4d4e13ac09cb739af9f2b2.png" alt="Cover for Terabithia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hyper Fenton</td>
@@ -1777,8 +1798,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c11e3b7484344741a06149abc3bb22d1.png" alt="Cover for Warrior~n~ God&#39;s Army (Mixtape)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SilentAngel</td>
@@ -1794,8 +1816,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/567ad4a7441041d4bc97500ffa433eae.png" alt="Cover for God&#39;s Servant (Mixtape)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SilentAngel</td>
@@ -1811,8 +1834,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8181710efb034cf8a2adfd3480ba32ee.png" alt="Cover for The Blast Off EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Freakshift Dialect</td>
@@ -1821,26 +1845,6 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Strategical</td>
-      <td>Thirst of the Mighty</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
