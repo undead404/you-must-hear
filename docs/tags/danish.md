@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:28:34.382Z
+date: 2025-11-16T11:57:47.674Z
 permalink: tags/danish
 title: danish
 ---
 
 ## danish
 
-Last updated: <time datetime="2025-11-11T04:28:34.382Z">Tue Nov 11 2025 06:28:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T11:57:47.674Z">Sun Nov 16 2025 13:57:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>1967</td>
@@ -46,7 +46,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1977</td>
@@ -64,7 +64,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1977</td>
@@ -82,7 +82,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
       </td>
       <td>1977-11-11</td>
@@ -100,7 +100,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/rjs0Asj8ElwJQ3UoC3S9WIU9Dp2MIea0lFuW50RyWcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODgy/ODUtMTQ3MDg0NDgw/Ni01MzUxLmpwZWc.jpeg" alt="Cover for Formskifter" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +118,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/MCsfLUIeRZpcRS8nbJPZpWqsXknvFnhD_rK18mErIwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDYy/ODU3LTE2MTM1ODg3/OTktNzcxMC5qcGVn.jpeg" alt="Cover for I Never Wanted To Meet You" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47602d512b718446ea48c417040af39f.png" alt="Cover for Keep Smiling" style="max-width:120px; height:auto;" />
       </td>
@@ -154,7 +154,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>1986</td>
@@ -171,7 +171,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td>1990</td>
@@ -194,7 +194,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
       </td>
       <td>1994</td>
@@ -219,7 +219,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/uhMLnc4bXNG698NYNMlk2hhCdoqtHotaqhN5lduT7PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE5/MjYtMTI5NDU5Mzcw/MS5qcGVn.jpeg" alt="Cover for Swell" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07e56113fdaf4925b76b70f7cc9cd5ec.png" alt="Cover for The Graveyard" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +256,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/CPkSvtGa2H9uP19jdYBlZZr1NCi3puABHCxrZOgSnAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjcx/LTEyNzI5OTA0MjMu/anBlZw.jpeg" alt="Cover for Mer Strøm" style="max-width:120px; height:auto;" />
       </td>
@@ -276,8 +276,9 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6894cb4ebfab4a4aca0c089972c1e859.png" alt="Cover for A Triumph for Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04</td>
       <td>Mew</td>
@@ -293,7 +294,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>1997-09</td>
@@ -312,7 +313,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1999</td>
@@ -335,7 +336,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/367b8691c190abc648ee66c08c336092.png" alt="Cover for Søndagsbarn" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +359,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/602703b752164fcb80f6cab745da4948.png" alt="Cover for The Good Life" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +378,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/mL5zzuJZq7P8u930ZV2Ugmz1hWXe_JLn0pn3ngmiObU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUz/OTctMTI5Mjc5MzM1/Ny5qcGVn.jpeg" alt="Cover for Beerserk" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +442,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>2001-04-03</td>
@@ -460,9 +461,9 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/SrhnQ-ky_E4kIkg468cXw7lO7Jhppi6LOhatsHT70Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTIz/MC0xNTc5OTA0NzUw/LTkxMTguanBlZw.jpeg" alt="Cover for Whip It On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ea680d43d87cc0b8009d6b23bb32bea.png" alt="Cover for Whip It On" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-27</td>
       <td>The Raveonettes</td>
@@ -479,7 +480,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/FH7dECPlaRSrMkcplRiBrY35MJRMZLlxI2IQr4zY-dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEx/MzEtMTM0ODQxNzc3/MC05MjQxLmpwZWc.jpeg" alt="Cover for Am I Wry? No" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +499,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/hvhNuR5y5GbXRREyWxYsi7-RUie5K8NyN5cW4hgTBlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTQy/NDUtMTM4OTQ5Njc4/Ni05OTk2LmpwZWc.jpeg" alt="Cover for Once Upon a Time in the North" style="max-width:120px; height:auto;" />
       </td>
@@ -535,7 +536,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dc5c005099efca6f78ce5429c6ca13d.png" alt="Cover for Prototype" style="max-width:120px; height:auto;" />
       </td>
@@ -557,7 +558,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e83c4e0fb6ff97299ba43ee30adc1c5.png" alt="Cover for Was A Time - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +581,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
       </td>
       <td>2004-01</td>
@@ -598,7 +599,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/JHWdD85PB18Mrp08TDZOmi8kAlhiaqHXaHijZOtPEmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTYz/MTEtMTMyNTQ0OTkz/Ny5qcGVn.jpeg" alt="Cover for Force the Pace" style="max-width:120px; height:auto;" />
       </td>
@@ -617,9 +618,9 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/-LAEnsGM8srkOipXCzNj465UvP_lK2XiZd8IImV-plo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTgx/OS0xNDQ0ODQ3Njkw/LTczMTAuanBlZw.jpeg" alt="Cover for USADSB" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4964ada7f824483ea1460700310e8c8b.png" alt="Cover for USADSB" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-30</td>
       <td>Nephew</td>
@@ -638,7 +639,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>2004-10-04</td>
@@ -657,7 +658,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2005</td>
@@ -674,7 +675,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/985d70a68b3d4eb6ce0f0d3c1064cb96.png" alt="Cover for USA DSB" style="max-width:120px; height:auto;" />
       </td>
@@ -691,7 +692,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/E7-Kdy1P6D3ejqrtlCBvJL5m75q8hsR-boUlMoBp2fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTU3/Ny0xMTExMjUwODA5/LmpwZw.jpeg" alt="Cover for Tip Top Dynamo" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +712,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/fl1XTNV6LHO18I28rNezM3VBLGYjtm7OQ_y2bbi78fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTky/NC0xNjU5MjExMDkw/LTI2MDIuanBlZw.jpeg" alt="Cover for Pretty in Black" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +730,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2005-05-18</td>
@@ -746,7 +747,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2474fa960145428b94bbfa3807dd3f57.png" alt="Cover for Skeleton" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +766,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3594636636a587bb3614420675be5d42.png" alt="Cover for Godspeed Into the Mainstream" style="max-width:120px; height:auto;" />
       </td>
@@ -803,7 +804,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
       </td>
       <td>2005-09-12</td>
@@ -820,7 +821,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
       </td>
       <td>2005-09-14</td>
@@ -837,7 +838,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
       </td>
       <td>2005-10-03</td>
@@ -854,7 +855,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/cjqfBcnaCh_aaaAimMQAbKbXGxbuCHVRLY3ZH_qjW20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA4/ODAtMTUyMDU0NzIx/MS0xODk0LmpwZWc.jpeg" alt="Cover for Natsværmer" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +877,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/nm2OeCHPn9eR7ju-PzSr3li4e9dKWgEqJrM3xTiRy50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAz/ODQtMTE4ODk5MzI2/MS5qcGVn.jpeg" alt="Cover for Udtales [&#39;kæj)" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +895,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/kFXVQTLXSTZR7YPDl4HLVCttPaKediX3aCcKolUwwo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE4/MDgtMTY1MDkxMjI1/NS05MTMzLmpwZWc.jpeg" alt="Cover for Death Pop Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +913,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc0ab360bd94494ac34edb87dca0d0d.png" alt="Cover for There&#39;s A Beat In All Machines" style="max-width:120px; height:auto;" />
       </td>
@@ -931,7 +932,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>2006-03-27</td>
@@ -950,7 +951,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007</td>
@@ -976,8 +977,9 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9727b479e696f5bf65e0b80f3118caef.png" alt="Cover for Action Painting" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-19</td>
       <td>Speaker Bite Me</td>
@@ -995,7 +997,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaf77baa4aa54f44828fd8a42bbd8bb0.png" alt="Cover for Ramt I Natten" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1015,26 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21dab106720d44f3bf3995a7fe4d7fb2.png" alt="Cover for Grateful" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-08</td>
+      <td>Carpark North</td>
+      <td>Grateful</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 67</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
       </td>
       <td>2008-09-08</td>
@@ -1034,28 +1055,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2008-09-08</td>
-      <td>Carpark North</td>
-      <td>Grateful</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 92</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2008-10-27</td>
@@ -1073,7 +1073,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/64CWOqU2Sr0Xda7bFfaBvhtb9mCOEMfbiYDBPSpBJ8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODU3/ODYtMTM3OTQ2MjY1/My0yOTY4LmpwZWc.jpeg" alt="Cover for Lacerated" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1092,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86be195209cc4f0ab16640b1d39b5f59.png" alt="Cover for De største" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1112,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2008-12-18</td>
@@ -1132,7 +1132,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/6Mg8SbIlRkc2ncMtL-yEUgqExR8_NObRVedNs3Szfdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc4/MjAtMTYwMzY0MTY0/OS03NzQ4LmpwZWc.jpeg" alt="Cover for To The Nines" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1151,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/2wrw9yNzf1cKWqbbvcI-cNOLgosK1lIDQ5QvLIgHkp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI3/NTAtMTY3MDIyNjYz/Mi00NTkwLmpwZWc.jpeg" alt="Cover for Meet Your Maker" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1171,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5dfb043132f4445ad65793481c72b9e.png" alt="Cover for DanmarkDenmark" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1192,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d44bd7bdbff43f9bb24a687c1a6f46d.png" alt="Cover for Danmark Denmark" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1214,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>2009-08-26</td>
@@ -1233,7 +1233,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c55b1376240345db81833782da1e8e6f.png" alt="Cover for Velkommen til Medina" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1251,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bd366acb42c488c9b7caa4e7fa83fa4.png" alt="Cover for Trenches" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,12 +1268,36 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 1</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 1</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2010-02-01</td>
+      <td>Thorbjørn Risager</td>
+      <td>Track Record</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be6f90f6bd214d869bb61cdb9ef549ac.png" alt="Cover for Trespassers" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1315,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48986f80c5dee42f8aa2b09076c5884f.png" alt="Cover for The Black Cat Neighbourhood" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1333,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/h9NN2aL6WYdurFl4obySr0v5Eykyhw9mrBBHhtMY9zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMz/NTQtMTUxNjIzMjM2/OC00NDEyLmpwZWc.jpeg" alt="Cover for Reworked&#x2F;Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1354,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ZTh52Qi-CG6ed1KAgxIqkIHnQQgEyYbGIsMeZlviF3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDkw/NDQtMTQ1NTgwMDQ5/MC0xOTY2LmpwZWc.jpeg" alt="Cover for Rigtige mænd" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1392,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be02a0384aeb081074eebd32ed8c8a55.png" alt="Cover for Piramida" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1411,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f8dcb94b4fd4f16831202e2b9b43029.png" alt="Cover for Mind the Gap" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1431,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9bf64ea0a954520bc56b42142dd5d61.png" alt="Cover for Somewhere Else" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1450,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4643ca57d9d341f381cad74c135edbd3.png" alt="Cover for Outlaw Gentlemen &amp; Shady Ladies (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,7 +1467,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/478435042b57471abb6d844a74855fcc.png" alt="Cover for Infinity Pool" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,13 +1485,13 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
       </td>
       <td>2013-09-16</td>
@@ -1489,7 +1513,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Noxm1xpare09LDKpLtiUHG6F1jZjtcsfkjbSmeRi-58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjM2/NjYtMTM4MDc0MjU2/NC05MDMwLmpwZWc.jpeg" alt="Cover for Den Første Gang" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1536,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/tMu2mzvajn9Zndm5xYO_62jgkUo3C3JXcJ3Y_07xwiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjQ2/ODQtMTQ3MzQ2Njk3/OS0zNjcyLmpwZWc.jpeg" alt="Cover for I Røntgen" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1582,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/ZoQo9LyuesnZH5bi30jyTR-6_k1_iwk1e9gZ674WDbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTQx/NTQtMTQwNDU0MTI0/Ni0xMjQ2LmpwZWc.jpeg" alt="Cover for XI" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,8 +1606,9 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb3078e3499f4803c87abbd3413dff3a.png" alt="Cover for Whispers" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-25</td>
       <td>Tina Dico</td>
@@ -1600,7 +1625,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/kIsW4_g8n3k111SgGaSLUwPvWugvmM3mNzVH0VTQft4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDk0/NjgtMTQyMDkwMDQ4/OS00MzI0LmpwZWc.jpeg" alt="Cover for Lost In The Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -1618,7 +1643,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61f00bf95772290767d8a9303187ef50.png" alt="Cover for 6 liter" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1686,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/ogQR-csmEMzpRExSq1scTBwpL1f2wJx5xUsQQWocUgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzc0/NDUtMTQzMzE3NTEz/Mi02OTg1LmpwZWc.jpeg" alt="Cover for Eufori" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1709,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/WO0tC2tZqMFD2lmbWtAteklf8fOlcd4zfxIwXblrV0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzcy/NDMtMTQ0MjI2NDE1/OC05OTg4LmpwZWc.jpeg" alt="Cover for Sandstorm" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1732,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/bAm6N-l1t5Bc6lbeL34o10cq8WodtP82iWFlCwmKMgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUy/NDg3LTE1MDM2Nzcz/OTctMTAwMC5qcGVn.jpeg" alt="Cover for Mamacita" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1754,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f2cc352082d13742517534ca6d329ed.png" alt="Cover for Mew with Copenhagen Philharmonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,15 +1787,15 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 3</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 19</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/U9DkEb61CSksxltG0JZJwPpx5bmpAAFDgddOtN1IuKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/MjYxLTE0OTEwNDU1/NjYtMjIyNy5wbmc.jpeg" alt="Cover for Vi Er Ikke Kønne Nok Til At Danse" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1823,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/wDDDnPIo5NHP2NaBfxUGKwy6FjtNz80MYApL4UmHnoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc2/MDE2LTE2NTIxNzY2/NDQtNzc2Ni5qcGVn.jpeg" alt="Cover for TOKIO 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,9 +1848,9 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/qG8d62G2VrQ2845HXEGFXTWeHqCMTe-hTVcNufiPwew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA0/ODExLTE1MTc1MjAx/OTctMzA1NS5qcGVn.jpeg" alt="Cover for Rocky Top Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fecee1db626625bf2f25cd99294f971f.png" alt="Cover for Rocky Top Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-21</td>
       <td>Fine</td>
@@ -1844,33 +1869,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/b2oPNpXdzSTCb4epnCH3ln9xjXvs-nOENEszrtasfIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk3/NzU0LTE1MjI1NjUy/NzAtMTEyMy5qcGVn.jpeg" alt="Cover for Herja" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-04-01</td>
-      <td>Danheim</td>
-      <td>Herja</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 71</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 79</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 94</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/IiGDEx9zDfi1lNoz9PqyiYbnsDIZe0IljUKCbumj4xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAw/MDczLTE1MzQ1MTQy/NjEtMjY3Mi5qcGVn.jpeg" alt="Cover for Danse Macabre" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1888,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/qe_n9qBeOyt8aogFWcL2uraGU7ydEAbBvEqG0WusTX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMy/MjYwLTE1MzUxODMy/MDktMzI1OS5qcGVn.jpeg" alt="Cover for August Eighteen" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1908,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80a8fedef09c6a8a9982a31bd206cd95.png" alt="Cover for Shameboy" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,7 +1928,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/7nS0SI5Rv8alZLYuDewUiUmD5Xa38lNqbb3DLfO2S24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg3/NDgwLTE1NTE0MzI2/NzUtODQwNC5qcGVn.jpeg" alt="Cover for Benjamin Og Albert" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1950,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/906df8b56f56ba28628c76565dbcc1ef.png" alt="Cover for Okay" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,7 +1969,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ea669192f61254dfc946e43964662c3.png" alt="Cover for Unsolvable" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +1992,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -2016,7 +2015,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8fc7b6c965a4ec4850c78f07dacca18.png" alt="Cover for Benjamin og Albert" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,7 +2037,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2064,8 +2063,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
 - [dansk]({{ "/tags/dansk" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [folk]({{ "/tags/folk" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
