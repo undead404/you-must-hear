@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:01:32.463Z
+date: 2025-11-16T06:55:00.888Z
 permalink: tags/uk-garage
 title: uk garage
 ---
 
 ## uk garage
 
-Last updated: <time datetime="2025-11-11T04:01:32.463Z">Tue Nov 11 2025 06:01:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T06:55:00.888Z">Sun Nov 16 2025 08:55:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Hold it Down" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/l1VY_ZFM-RFKVi8qksEByTCEvEpgjY1ARTR5QwtbB-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjQ5/NDktMTM5NDE4NjYw/Ny02MTgyLmpwZWc.jpeg" alt="Cover for Bipp &#x2F; Elle - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ff7e7f52d04e6a5b627177d46d048a.png" alt="Cover for Bipp &#x2F; Elle - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Sophie</td>
@@ -67,13 +67,13 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 47</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 49</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/T9pFdQtqVN6XDWgFPKuJz11grvzywOO2RrhZbD5Wc3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTAx/NjYtMTQwNTMyMjQ3/OS03MTYxLmpwZWc.jpeg" alt="Cover for Dedication To The Cause" style="max-width:120px; height:auto;" />
       </td>
@@ -94,7 +94,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/pF74ROpJTI8-tqP_DGzl-eIYi2r73gUVkXFO4dKSjmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzk1/MTctMTQ3Nzg2Nzc4/OC01Nzk5LmpwZWc.jpeg" alt="Cover for You &amp; Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e8b604e13de4b8ca06607e8116c47bc.png" alt="Cover for You &amp; Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Disclosure</td>
@@ -110,9 +110,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 6</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 21</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 71</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 95</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 99</li>
         </ul>
       </td>
@@ -139,7 +139,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/D_BL1-jM8VZkyI3LhdEZNipweB6Q80bL7kJuUpgN-tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OS0x/NTI2NjgzNjkxLTgz/MzguanBlZw.jpeg" alt="Cover for Messy Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dde16d7e94ec18ea1b9576b25bc4cdb6.png" alt="Cover for Messy Room" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Deep</td>
@@ -161,6 +161,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 4</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 94</li>
         </ul>
       </td>
@@ -185,26 +186,6 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/R9B-B7Hk8jZN_NVg7LRvb0E2OXhZAF9lTS2DwtbfhEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/My0xNDY0MjYwNDU2/LTgyODcuanBlZw.jpeg" alt="Cover for It&#39;s All About The Stragglers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-11-20</td>
-      <td>Artful Dodger</td>
-      <td>It&#39;s All About The Stragglers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ec108587524b32bb0bfa59c6015488.png" alt="Cover for Original Pirate Material" style="max-width:120px; height:auto;" />
@@ -219,14 +200,14 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/hchixc0-tmPpOu3dsxWNEbNvZLkdsKhiw3yOu58geX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjMyLTE1MTkwMjI0/NTEtODMwMS5qcGVn.jpeg" alt="Cover for Luke Vibert Presents UK Garave Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b22b60253e0c634b45a232936a9c1fff.png" alt="Cover for Luke Vibert Presents UK Garave Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-20</td>
       <td>Luke Vibert</td>
@@ -243,12 +224,12 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 62</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2002-06-04</td>
@@ -281,16 +262,16 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 68</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 82</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 69</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 83</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Night Slugs Allstars Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c0f11938e8c93ad7ae6e851f70ad07a.png" alt="Cover for Night Slugs Allstars Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Various Artists</td>
@@ -329,7 +310,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/cCTJMr_lWS-lTS8SrAd6bXCvSLtsv6dbwOnznW-CWOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTQy/Ny0xMTEzMjU0Mzgx/LmpwZw.jpeg" alt="Cover for Grim Dub Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -363,7 +344,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 31</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -383,7 +364,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 13</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -403,7 +384,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 63</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +422,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 75</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -485,8 +466,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/944676ba526f4f1b854e1bad91027de2.png" alt="Cover for Skanky Skanky" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-25</td>
       <td>Toddla T</td>
@@ -505,7 +487,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2009-11</td>
@@ -523,7 +505,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 83</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 82</li>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 90</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 95</li>
         </ul>
@@ -551,7 +533,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/cr2um6jNcubi45IIMNo3wCqHVtcib6pOnUKbe_fGfsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODI1/ODItMTI5MDUxMjk2/NC5qcGVn.jpeg" alt="Cover for The Always EP" style="max-width:120px; height:auto;" />
       </td>
@@ -570,9 +552,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/UI4Qffk0tVElkj641QjAVtofjK5NIjCkypNNPsDVa8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk3/NzQtMTI3NTMzNjcw/MC5qcGVn.jpeg" alt="Cover for Night Skanker EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3446ae09ae547209106f0ed8b0dd380.png" alt="Cover for Night Skanker EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-31</td>
       <td>Lil Silva</td>
@@ -589,9 +571,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/MClExnhKhXWx9gi4833pXrYtqOaR0NpHRS7svqv5hvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTAz/MzctMTI3MjMzMTk4/NS5qcGVn.jpeg" alt="Cover for Bodies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7ac6a601dc4360b871cfbff99be55b.png" alt="Cover for Bodies" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-19</td>
       <td>Hackman</td>
@@ -609,7 +591,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/n7EIxTK22vj6WVl1xvKvs99CpXBoPaL3Bcb_BZJqnTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg0/MjctMTMwMzQ1NTAw/MC5qcGVn.jpeg" alt="Cover for &#39;Distance&#39; EP" style="max-width:120px; height:auto;" />
       </td>
@@ -630,6 +612,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4d0d3cd9a90f0ebd1b57163ebaf67d.png" alt="Cover for Katy On A Mission" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-22</td>
       <td>Katy B</td>
@@ -643,13 +626,13 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 89</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 51</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/DPNpBPPR9uhXcveUe_j9ThFBhPZcmZxG0xXNMumLZKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTQ2/NTMtMTM2MzcyMjEw/My0zODUxLmpwZWc.jpeg" alt="Cover for Murda Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -685,13 +668,14 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 20</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6216239d3b3a4300878686b75c88c86c.png" alt="Cover for You Always Start It &#x2F; Ordinary Things" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-31</td>
       <td>xxxy</td>
@@ -708,9 +692,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/zlqUOet1345InS1CiT3QUgy30dYzhZC1QRdDjZm8ujQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjUw/ODItMTMwNDYyNzMx/Ny5qcGVn.jpeg" alt="Cover for Puzzles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d06f08ad9fa4787beb14e5c95ca4017.png" alt="Cover for Puzzles" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-29</td>
       <td>Pixelord</td>
@@ -730,8 +714,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5e4fbf093743c5be6e72602474f687.png" alt="Cover for SBTRKT" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-27</td>
       <td>SBTRKT</td>
@@ -744,15 +729,15 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 9</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 69</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 87</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 96</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 92</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2011-09-09</td>
@@ -772,7 +757,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/-2v99ugV_7WPnChfum2EW-lJRijz86O_yFUMWZdMxLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTM1/MzAtMTMxODIxNTM3/My5qcGVn.jpeg" alt="Cover for Neon Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fc2186a3ed945e190ee4ec565a50fbd.png" alt="Cover for Neon Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>L-Vis 1990</td>
@@ -787,15 +772,15 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 6</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 76</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/3A2aJTK_1FIKRKWmH5rqdo1IItrRPD7ufELA7vrnxWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA0/OTAtMTMxODUxOTg0/NS5qcGVn.jpeg" alt="Cover for Somebody Said EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f803c20ab5644297c29d25e76a650ac0.png" alt="Cover for Somebody Said EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10</td>
       <td>Jack Dixon</td>
@@ -815,7 +800,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/hPzUZfCS8B0bshsFYkGuAkHg1wXB5GU14co6HWfUZ0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTEw/NzYtMTQwNTg4Njk0/NS0xNTc1LmpwZWc.jpeg" alt="Cover for Pencil Pimp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74c8bb03143d4119b7053f483293cf03.png" alt="Cover for Pencil Pimp" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-07</td>
       <td>Sepalcure</td>
@@ -833,7 +818,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b97b8889fe46c39a6cebc4b4a2aafa.png" alt="Cover for Tramp" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +833,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 41</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 62</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 77</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 78</li>
         </ul>
@@ -874,7 +859,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3b807450ac91bd1090265a4c131c475.png" alt="Cover for 1991 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -905,14 +890,14 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 12</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/ytZ-nZQJSDz6XvD5bygwsRPUSNZPOYHs1wHyuI2PhlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDk3/OTItMTM5NzkxODA0/My0yMjY3LmpwZWc.jpeg" alt="Cover for Tenderly&#x2F;Flow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7303b92f7c7938aaa10927f2dbd93395.png" alt="Cover for Tenderly&#x2F;Flow" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02</td>
       <td>Disclosure</td>
@@ -926,7 +911,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 46</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 60</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 100</li>
         </ul>
       </td>
@@ -972,7 +957,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/Nyjb8NbimDiSuV9ZAyNhd0vqCkjRnrB-t2oA2Vl97bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjE2/MDEtMTMzMTMwMTA5/MC5qcGVn.jpeg" alt="Cover for Yo Vogue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6487f4ca5b7d45c9bbe2112b0687d7a1.png" alt="Cover for Yo Vogue" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03</td>
       <td>French Fries</td>
@@ -1011,9 +996,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/Vuu53s8qkCOV-pnmqYk8-Jezo6h9gwiMDCm3x_0guRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTM4/NDctMTQwMTcyMjUz/Ny0zMTI5LmpwZWc.jpeg" alt="Cover for infra12002" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c95821aeff91404fb74c1a18b544abfc.png" alt="Cover for infra12002" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-01</td>
       <td>xxxy</td>
@@ -1032,8 +1017,27 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87cfedaa3678427db90fa4bd235b4c2f.png" alt="Cover for The Face EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-04</td>
+      <td>Disclosure</td>
+      <td>The Face EP</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf62d545d6b84470b7133896b6fa5997.png" alt="Cover for Stay Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-05</td>
       <td>Kastle</td>
@@ -1090,7 +1094,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2012-07-13</td>
@@ -1107,7 +1111,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/itiOr8foCzS0h0ZjDrH_-jF69Wg5zPqaYpy6q9koTkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTky/NjQtMTM1MTg3NDU3/Mi0yODMzLmpwZWc.jpeg" alt="Cover for CID RIM (Micro Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1144,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 93</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1165,7 +1169,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76944d8481bc43f1bb2f87e0bde5cb2c.png" alt="Cover for Mistakes &amp; Regrets" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,12 +1203,12 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 76</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ab979a5983f4513b7a8b7a9131735dd.png" alt="Cover for Truant &#x2F; Rough Sleeper" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,16 +1223,16 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 19</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 37</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 51</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ZhOM_DOOVumCyS4tbpnizDxG86-Y89spYcO9r5mrZac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDEy/MTgtMTM5NjAzNTk0/OS0yMzMzLmpwZWc.jpeg" alt="Cover for White Noise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f832a9929a6c4987aa44a75ecaf71b52.png" alt="Cover for White Noise" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Disclosure</td>
@@ -1265,7 +1269,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/njFmjEfEr0sCXZJ2ubcuEpoget1w-YarS6ojZ373un8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTQy/OTMtMTM2OTY3ODE4/NC0zMzA5LmpwZWc.jpeg" alt="Cover for Settle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6c11048f1da4335b72d712c23f8c3f6.png" alt="Cover for Settle" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-03</td>
       <td>Disclosure</td>
@@ -1278,8 +1282,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 31</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 39</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 61</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 64</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 68</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 71</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 74</li>
@@ -1301,7 +1305,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 32</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1326,6 +1330,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa82f0d350c64d8bbe0e3bd61f949da1.png" alt="Cover for Brand New Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-07</td>
       <td>Chase &amp; Status</td>
@@ -1341,7 +1346,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 11</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 14</li>
             <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 91</li>
         </ul>
       </td>
@@ -1368,7 +1373,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/stXudlW7op4Jwo_zFaVAm1Ooom7o-lxOHz0f5qOX5zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDU0/MjUtMTM5ODgyNDkz/OC05MjMwLmpwZWc.jpeg" alt="Cover for Patterns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/291215d79ce5c87b19f2cf80c51e819a.png" alt="Cover for Patterns" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-20</td>
       <td>Tourist</td>
@@ -1446,7 +1451,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e49ea6cea3d9418ab3368af6052097.png" alt="Cover for In Colour" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,19 +1466,19 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 2</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 48</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 55</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 58</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 86</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/72qtKptB40rU77DiYBSEP6jdMxVcrth8kdMK1pnw32w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTY3/MTktMTQ0NzA2NDk3/MS00NzAzLmpwZWc.jpeg" alt="Cover for Settle (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09dde1ec14bc23e463f8db287b7966cc.png" alt="Cover for Settle (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-06</td>
       <td>Disclosure</td>
@@ -1514,7 +1519,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/805b8315983742167049c92cd75ad3f1.png" alt="Cover for Fjaak" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1536,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 46</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1553,11 +1558,12 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 4</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 85</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 92</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1579,16 +1585,16 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 56</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 49</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 63</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/6qsd1ppm7KtR0vUQpS4AQCeqEwqp7EGGkIWxKjSWV8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODc2/NTEtMTQxNTY0MDY3/NC0zMjE0LmpwZWc.jpeg" alt="Cover for Night Slugs Allstars Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0f2b030a84c469a97404f286c564675.png" alt="Cover for Night Slugs Allstars Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-10</td>
       <td>Jacques Greene</td>
@@ -1606,9 +1612,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/La8WG4bAw2VsD64yY9v_VZ9410fFx-iWaaCwFGZ9SM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/Mjc2LTE1NjU1MjA5/NDktODA5MS5qcGVn.jpeg" alt="Cover for The Wise And The Wicked" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d64949dfe2e10b1bdf6608f1192156f.png" alt="Cover for The Wise And The Wicked" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-31</td>
       <td>Jauz</td>
@@ -1628,7 +1634,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 35</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 34</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 72</li>
         </ul>
       </td>
@@ -1660,7 +1666,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/vgnS_6p8yxu_rkuz1lgOm_P-hERKMKI7UjIFcegryFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc4/NzMyLTE2MzkxNTE3/MTctNjE0Ni5qcGVn.jpeg" alt="Cover for City Limits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adf7b7168f3cf8d96267b3f2374a33a1.png" alt="Cover for City Limits" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-27</td>
       <td>Pinty</td>
@@ -1698,6 +1704,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 3</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 54</li>
         </ul>
       </td>
@@ -1722,7 +1729,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 58</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1752,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
         <ul>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 90</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 96</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 97</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 99</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 100</li>
         </ul>
@@ -1802,7 +1809,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/nqPshWy4QZxJT0ereOzLlR3hPFCpudk2WQOK182Qx4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg3/Njg2LTE2NjIxMDcw/MTctODY1NS5qcGVn.jpeg" alt="Cover for Space Mulan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a31b5e7ac9650083be2238836a041d1b.png" alt="Cover for Space Mulan" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-14</td>
       <td>BÉBE YANA</td>
@@ -1838,17 +1845,18 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 54</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 57</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 48</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 58</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 80</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/TIXRUokLHaRfvEHXdKL294-7K8GYdG7j-yNLXxu88SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE1/NzAxLTE2NzU3MTQ1/OTEtMjU3OS5qcGVn.jpeg" alt="Cover for Est. 2003" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c5eb9f9c74dce095404b454bd9c5b5.png" alt="Cover for Est. 2003" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>DJ Q</td>
@@ -1870,7 +1878,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8efbfdc3ffd98d732a93e75aa5a53852.png" alt="Cover for Desire, I Want to Turn Into You" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,9 +1891,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 16</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 44</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1908,8 +1915,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 57</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 77</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 60</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 82</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 90</li>
         </ul>
       </td>
@@ -1939,10 +1946,10 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 65</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 78</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 17</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 72</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2004,7 +2011,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 14</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 17</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 96</li>
         </ul>
       </td>
@@ -2024,7 +2031,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2048,8 +2055,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 87</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 90</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 100</li>
         </ul>
       </td>
@@ -2057,7 +2064,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/NCIj2hEbX3V4qqk5v7JNgOq9Z_c-nYutn1sylrNKTVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzQyLTE3MjY0OTAz/MzItOTAzNi5qcGVn.jpeg" alt="Cover for SMOKE IT TO THE BUTT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b5d3e4638e01303fa443c3a93b5b364.png" alt="Cover for SMOKE IT TO THE BUTT" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-04</td>
       <td>Cynthoni</td>
@@ -2081,7 +2088,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e85b2fb9f704eb79996ae157b3eae6d.png" alt="Cover for It&#39;s All About The Stragglers" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,7 +2108,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>

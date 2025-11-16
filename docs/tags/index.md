@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-16T06:54:22.532Z
+date: 2025-11-16T06:55:00.888Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-16T06:54:22.532Z">Sun Nov 16 2025 08:54:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T06:55:00.888Z">Sun Nov 16 2025 08:55:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [uk garage]({{ "tags/uk-garage" | relative_url }}) | <time datetime="2025-11-16T06:55:00.888Z">Sun Nov 16 2025 08:55:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian rap]({{ "tags/christian-rap" | relative_url }}) | <time datetime="2025-11-16T06:54:22.532Z">Sun Nov 16 2025 08:54:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage house]({{ "tags/garage-house" | relative_url }}) | <time datetime="2025-11-16T06:53:19.696Z">Sun Nov 16 2025 08:53:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [chicago house]({{ "tags/chicago-house" | relative_url }}) | <time datetime="2025-11-16T06:51:50.742Z">Sun Nov 16 2025 08:51:50 GMT+0200 (Eastern European Standard Time)</time> |
@@ -513,7 +514,6 @@ Last updated: <time datetime="2025-11-16T06:54:22.532Z">Sun Nov 16 2025 08:54:22
 | [french]({{ "tags/french" | relative_url }}) | <time datetime="2025-11-11T04:05:40.669Z">Tue Nov 11 2025 06:05:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [glitch hop]({{ "tags/glitch-hop" | relative_url }}) | <time datetime="2025-11-11T04:05:28.919Z">Tue Nov 11 2025 06:05:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial noise]({{ "tags/industrial-noise" | relative_url }}) | <time datetime="2025-11-11T04:01:58.238Z">Tue Nov 11 2025 06:01:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [uk garage]({{ "tags/uk-garage" | relative_url }}) | <time datetime="2025-11-11T04:01:32.463Z">Tue Nov 11 2025 06:01:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-11-11T03:59:14.582Z">Tue Nov 11 2025 05:59:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [new generation freestyle]({{ "tags/new-generation-freestyle" | relative_url }}) | <time datetime="2025-11-11T03:57:47.223Z">Tue Nov 11 2025 05:57:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [dark industrial]({{ "tags/dark-industrial" | relative_url }}) | <time datetime="2025-11-11T03:55:44.540Z">Tue Nov 11 2025 05:55:44 GMT+0200 (Eastern European Standard Time)</time> |
