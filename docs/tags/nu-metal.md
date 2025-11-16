@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T07:20:51.565Z
+date: 2025-11-16T08:10:32.519Z
 permalink: tags/nu-metal
 title: nu metal
 ---
 
 ## nu metal
 
-Last updated: <time datetime="2025-11-05T07:20:51.565Z">Wed Nov 05 2025 09:20:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T08:10:32.519Z">Sun Nov 16 2025 10:10:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 62</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 65</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
             <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 68</li>
         </ul>
@@ -64,7 +64,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 17</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 20</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 66</li>
         </ul>
       </td>
@@ -104,14 +104,15 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 75</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/629695e46cdc8d35815254ef402ced66.png" alt="Cover for Get Some" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Snot</td>
@@ -125,8 +126,8 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 51</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 96</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 57</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +150,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/O0W40Bd83VKNmYWqMWw9h7jBlMZlEQZtwZANb7F7O1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY2/My0xNDU2NzA2Mjgz/LTYzNjYucG5n.jpeg" alt="Cover for Three Dollar Bill, Yall$" style="max-width:120px; height:auto;" />
       </td>
@@ -162,7 +163,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 55</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +189,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/DBE92BvhxE6515ocFnI3_G8Ey9cuZqGcnZh45yR_VD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTgz/MzIyLTE2Mjk4NDQ3/MDAtNzU5MC5qcGVn.jpeg" alt="Cover for The Path of Totality (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +204,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 47</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +303,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 18</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 82</li>
         </ul>
       </td>
@@ -342,7 +343,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -360,7 +361,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -379,7 +380,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 2</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 76</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -398,14 +399,14 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 17</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 35</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 43</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 49</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdc94bf7cdea4ee2ced4dd2cdb452394.png" alt="Cover for Gift" style="max-width:120px; height:auto;" />
       </td>
@@ -459,7 +460,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       <td>
         <ul>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -482,7 +483,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/TuvsNW_iEFOc6hDGJWnjjfNS6x7Wh_jns5NGUwVXlPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTAz/MS0xNjU3OTYxOTU2/LTk1NDcuanBlZw.jpeg" alt="Cover for The Height of Callousness" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +524,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0a575358f36373ed7a8469fc74a8e25.png" alt="Cover for Every Six Seconds" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +556,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -575,7 +576,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 11</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 12</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 95</li>
         </ul>
@@ -634,13 +635,13 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 79</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 80</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2001-09-21</td>
@@ -658,7 +659,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2001-10-30</td>
@@ -675,7 +676,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f05794858e0b45e9a3e49a2e27c43c98.png" alt="Cover for Life" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +689,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -712,7 +713,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b769ed598111429f8761a8261dbed84e.png" alt="Cover for LoveHateTragedy" style="max-width:120px; height:auto;" />
       </td>
@@ -742,12 +743,12 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f40b2ee47043877d6013a89d576a588.png" alt="Cover for Sevas Tra" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +763,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 35</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 37</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 74</li>
         </ul>
       </td>
@@ -822,7 +823,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 25</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 65</li>
         </ul>
       </td>
@@ -862,9 +863,9 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 19</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 48</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 30</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 50</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -904,12 +905,12 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 15</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 82</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/CxAV_Hq2B8f1zXiCMGMGm-qUoGuePLWld3Xw_XlkQTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAy/Ny0xMTU3ODgzMTc5/LmpwZWc.jpeg" alt="Cover for Self-Destructive Pattern" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,13 +1039,15 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 8</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c3ea9913db61788bf85aa45a344ba25.png" alt="Cover for Recoil" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1083,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 8</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1098,7 +1101,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1136,12 +1139,12 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 88</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d3a7d0be5b3e56d5cc791107b79487.png" alt="Cover for The Bear" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,26 +1181,6 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2571aee95c0b43b397371fdf1908d4bd.png" alt="Cover for Testify" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-01-24</td>
-      <td>P.O.D.</td>
-      <td>Testify</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 83 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>37</td>
       <td>
           <img src="https://i.discogs.com/-wdhyh73FoMJvMNkFnZBjk2sYzpbKpszjYrbaR--CAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzkx/MzgtMTQwNjYyODAz/OS0yNTk4LmpwZWc.jpeg" alt="Cover for BU-IKIKAESU" style="max-width:120px; height:auto;" />
@@ -1216,7 +1199,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf8dfe05e91db91ed38a6c4b6b29e95d.png" alt="Cover for From Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,12 +1215,12 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 34</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 39</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2007-04-02</td>
@@ -1269,13 +1252,13 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 74</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 78</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ByefGIefkJ4aRyiwo9q3FIR1vat5SODpB2sxRbyy0KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/MTctMTE5MDA0OTI1/MS5qcGVn.jpeg" alt="Cover for Bleed It Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,12 +1291,12 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008</td>
@@ -1400,8 +1383,8 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 5</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 79</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 6</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 81</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 91</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 97</li>
         </ul>
@@ -1425,7 +1408,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 71</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 86</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1449,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2009-03-10</td>
@@ -1483,7 +1466,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-11-13</td>
@@ -1505,20 +1488,20 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 43</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 44</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 51</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 86</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 99</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
         </ul>
       </td>
@@ -1578,13 +1561,13 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 76</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 82</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 81</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/6YdsvSUyT9ifzwa0StAmkWR1MBIpYqQLMC0uxDNF5ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzA5/OTktMTMxMDc1NzI0/MC5qcGVn.jpeg" alt="Cover for POST HUMAN: Nex Gen" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,10 +1582,10 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 15</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 23</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 47</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 66</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 96</li>
         </ul>
       </td>
@@ -1630,6 +1613,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/625989984c10821f9db808829c847f90.png" alt="Cover for The Paradigm Shift" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-04</td>
       <td>Korn</td>
@@ -1679,7 +1663,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 49</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 52</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 87</li>
         </ul>
       </td>
@@ -1718,15 +1702,15 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 66</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 76</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8b1e265381fbf53671724b86922f4d9.png" alt="Cover for Look At Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1735,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/cwbwdCFmJrOEEhE_0utY3lt7ozjp9E95CBjC1mG9Qys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/NTE5LTE1NTgwODk4/ODMtNzYxOS5qcGVn.jpeg" alt="Cover for Nightmare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c60ed98aff5a45fd9e7c928ee948d9ac.png" alt="Cover for Nightmare" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Halsey</td>
@@ -1764,12 +1748,12 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 48</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/17bQdnUY6yWLx6VE3wXFDYL5nBpedXhyOJcMO7Q7-Ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTkz/NDg0LTE2NTEwMzMx/NDMtMzc0NS5wbmc.jpeg" alt="Cover for Finding God Before God Finds Me (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1772,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,67 +1851,67 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 11</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 16</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 20</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 28</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 44</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 51</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 79</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1968,6 +1952,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 2</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 54</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 83</li>
         </ul>
@@ -1990,16 +1975,35 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 83</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 88</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/eO7Of6nPeOQqJNe4_i8gfEoHSGUozthL69kOL8urXy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/OTkwLTE1OTgwODc1/MDAtODg2Mi5wbmc.jpeg" alt="Cover for I Disagree (More)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-14</td>
+      <td>Poppy</td>
+      <td>I Disagree (More)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/w__hz4N7lLkgqswHFtl2pLv0b7sSJNAZroBUreKqgB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDM4/NDA0LTE2MzMxMTU5/ODQtNDMyNS5qcGVn.jpeg" alt="Cover for Manic" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,7 +2039,7 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/58sIKX2H0eZ8YLUpbP5ZXJA0dwalLuuG0C0mJLhd4PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg5/NTU4LTE2NTIyNzMz/ODAtNzYxNS5qcGVn.jpeg" alt="Cover for Bimbocore" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,12 +2054,12 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5617f54a0ff0b5eee78a2ab364a0663f.png" alt="Cover for The End, So Far" style="max-width:120px; height:auto;" />
       </td>
@@ -2156,16 +2160,16 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 42</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 52</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 83</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
@@ -2175,29 +2179,29 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
@@ -2205,7 +2209,8 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
@@ -2215,15 +2220,14 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/DBXFTIrEIyke0-ST8Yv8MdUjvReJnVON5ZKTYJPRPLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTYw/MzIxLTE2ODMxMDU5/NTMtMzg4Mi5qcGVn.jpeg" alt="Cover for Spit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/746e5334fd06624ad03fa025c5cf371b.png" alt="Cover for Spit" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-03</td>
       <td>Poppy</td>
@@ -2240,9 +2244,10 @@ Nu metal emerged in the late 1990s as a fusion of heavy metal with hip-hop, grun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 56</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 57</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 79</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 81</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 97</li>
         </ul>
       </td>

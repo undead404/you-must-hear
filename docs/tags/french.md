@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:05:40.669Z
+date: 2025-11-16T08:12:21.145Z
 permalink: tags/french
 title: french
 ---
 
 ## french
 
-Last updated: <time datetime="2025-11-11T04:05:40.669Z">Tue Nov 11 2025 06:05:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T08:12:21.145Z">Sun Nov 16 2025 10:12:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ French music refers to the music created or produced in France or by French-spea
   </thead>
   <tbody>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a739f15a37b3f26ceb440fc3a6bfb0e.png" alt="Cover for La vie en rose" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
       </td>
       <td>1968-11</td>
@@ -66,7 +66,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
       </td>
       <td>1971</td>
@@ -83,7 +83,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-uxy2Bvi-9_Qqr6oN286CqPn9woq5r5LFC0UUIp_LPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTAy/MzQtMTQzMTYwOTU0/Ni0xNzgwLmpwZWc.jpeg" alt="Cover for Tous les garcons et les filles" style="max-width:120px; height:auto;" />
       </td>
@@ -102,9 +102,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/HiDGPMpH3dMbH0cH4_MupiBAxqT6jHCB7cin91KjyCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE5/NC0xNjc0NDY2NzI0/LTY0NDMuanBlZw.jpeg" alt="Cover for Ca Plane Pour Moi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b6fcbd61f261d159a40d6a5e5cbd975.png" alt="Cover for Ca Plane Pour Moi" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Plastic Bertrand</td>
@@ -120,7 +120,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a42fb43019427fc27b67d5fe3a4020.png" alt="Cover for M &amp; J" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9895279b89e644c3b15925114a4e800f.png" alt="Cover for The Very Best Of Edith Piaf" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/Lvq7EOXx9Vyb1gn0G0pOsVyucktJVSptOE4lM0_QZ-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODgz/NTktMTU3Mzc2MzUx/NC01NjEyLmpwZWc.jpeg" alt="Cover for Bim Bam toi" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Mw6zjdZJiJ5eq-TL3VTGCb0_IDJ25G7U1QlJSwCU41U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDQy/MzgtMTQ5MDEwMjA3/OS0zNDk5LmpwZWc.jpeg" alt="Cover for Vogue Years" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +204,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/tZYchnmOaFtVLSy0A0L1kWMlBEyIrY7iRjKjkWVrV2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTIw/OTAtMTQ5NzA3OTY1/My0yMTQxLmpwZWc.jpeg" alt="Cover for Eternelle" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de3dd5305848d8776a70c81bab6f591c.png" alt="Cover for Ainsi soit je..." style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/rTD_Vk_cMhaV_pO8te_cHG31uvPrbwjVFETKyDRhP7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjQ5/OS0xNDYwOTg0MzAw/LTUyOTQuanBlZw.jpeg" alt="Cover for Les Champs-Èlysées" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/869e7d38150312e7c807475d3f5c4f14.png" alt="Cover for Qui Seme le Vent Recolte le Tempo" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +279,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3000898e4c868c7eb458b314dbfa8765.png" alt="Cover for Vanessa Paradis" style="max-width:120px; height:auto;" />
       </td>
@@ -297,7 +297,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/649fe5d410f944dab783ebcf7f241cdb.png" alt="Cover for Chick Habit" style="max-width:120px; height:auto;" />
       </td>
@@ -316,7 +316,25 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da18a8332320ad7e8a0ed7f2e53905e.png" alt="Cover for Anamorphosée" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-11-01</td>
+      <td>Mylène Farmer</td>
+      <td>Anamorphosée</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/Sc5XHdYEFS1aLCG-BRBTxJHcf317B02VNY_VX1i-XLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDIy/OS0xNTUyMzI0NjU4/LTY0OTIuanBlZw.jpeg" alt="Cover for L&#39;Histoire De Melody Nelson" style="max-width:120px; height:auto;" />
       </td>
@@ -330,12 +348,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_hiB_FWvCPyHGAPgxhCtDAp6sUax2NMzdTGpl3otN20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDAx/NjItMTYwMjA1OTk4/My0zOTU4LmpwZWc.jpeg" alt="Cover for Ma Jeunesse Fout L&#39;camp" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +372,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/887509ef741e4749904edf0e826d4ed0.png" alt="Cover for 666.667 Club" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +391,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd330235b9ecf77531534135e44a9108.png" alt="Cover for Louise Attaque" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +412,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
       </td>
       <td>1997-04</td>
@@ -415,7 +433,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>18</td>
       <td>
       </td>
       <td>1997-11-11</td>
@@ -430,13 +448,13 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 59</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 60</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/466f8fd2eaf94f5a92d44c63ffc8b33a.png" alt="Cover for Moon Safari" style="max-width:120px; height:auto;" />
       </td>
@@ -451,14 +469,14 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 71</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 88</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 97</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 73</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 89</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
       </td>
       <td>1998-02-20</td>
@@ -475,7 +493,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbfb440c34ac957ca56d7275247e1af.png" alt="Cover for La Ouache" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +515,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71075210ad904cb6ae8bd390edfa9046.png" alt="Cover for Innamoramento" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +534,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b11db9bcf498def96fbff8c1a53c85e2.png" alt="Cover for La biographie de Luka Philipsen" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +552,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/385c33a14ef3e7c527bad10e69f02fd7.png" alt="Cover for Tourist" style="max-width:120px; height:auto;" />
       </td>
@@ -571,32 +589,13 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 7</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2a1a7ad61b743df88654c2cfdf0730c.png" alt="Cover for One More Time" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-11-13</td>
-      <td>Daft Punk</td>
-      <td>One More Time</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>66</td>
       <td>
       </td>
       <td>2001-04-09</td>
@@ -614,7 +613,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/qZ4tS72D6uscU5IUkNDECHFIb6xDTp3vzLqXiidBYY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMy/NS0xMTY5MDM1MjA5/LmpwZWc.jpeg" alt="Cover for des Visages des Figures" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +635,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td>2001-10-01</td>
@@ -653,9 +652,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 15</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 85</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 71</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -681,7 +680,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04ebcb43abe345c9aa6f5b934e5e3c90.png" alt="Cover for Mes Courants Electriques" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +703,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Y5BOP3qvY5NN9lqZUPu-F3FVoWdE80mZ0UuPcK4VDDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQx/MTktMTM0ODY5OTg1/NS04MDE5LmpwZWc.jpeg" alt="Cover for Originales - 20 Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -723,8 +722,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4568348cd6e74525880e6399a6454854.png" alt="Cover for Julie Delpy" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-19</td>
       <td>Julie Delpy</td>
@@ -740,8 +740,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59e1af22a1c5f4572a29a508e7b29dc0.png" alt="Cover for Grain De Sable" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-02</td>
       <td>Tryo</td>
@@ -760,9 +761,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/eAJRvp2WwRiGcsktb21IPUXzf18PlgKXuy_16Urd-lA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDI1/NC0xMTExODc4MDg3/LmpwZw.jpeg" alt="Cover for Not Going Anywhere" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17f6feec939232bf7b210a3a2caa1683.png" alt="Cover for Not Going Anywhere" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-25</td>
       <td>Keren Ann</td>
@@ -778,7 +779,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/b6_CpCzAkZSXx68nIrlD6uFHXJj-GuMYimZhh8KYkSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQz/NTktMTMzMzg3MjEw/OC5qcGVn.jpeg" alt="Cover for Best Of B.B" style="max-width:120px; height:auto;" />
       </td>
@@ -797,7 +798,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/b6_CpCzAkZSXx68nIrlD6uFHXJj-GuMYimZhh8KYkSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQz/NTktMTMzMzg3MjEw/OC5qcGVn.jpeg" alt="Cover for Best of B.B." style="max-width:120px; height:auto;" />
       </td>
@@ -811,12 +812,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 57</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/q5uILv4kcEME1aWnPy2sHBIP482JsbLXQshZ4rpOZAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzg1/Mi0xNDYyMTc3MTc1/LTY1MzQucG5n.jpeg" alt="Cover for Le fabuleux destin d&#39;Amélie Poulain (Bande originale du film)" style="max-width:120px; height:auto;" />
       </td>
@@ -836,7 +837,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/2UTyggREI43XhDqG2fe3YtH5GK7cjo483NsWou2dk-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/MTItMTUxMzI5NTYw/My00NjE1LmpwZWc.jpeg" alt="Cover for La Biographie De Luka Philipse" style="max-width:120px; height:auto;" />
       </td>
@@ -854,7 +855,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8bf53cc69f94b00b8e48e3d3df74981.png" alt="Cover for Politics" style="max-width:120px; height:auto;" />
       </td>
@@ -873,7 +874,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e69d924058bcc05c093249270b6ed766.png" alt="Cover for Alphabetical" style="max-width:120px; height:auto;" />
       </td>
@@ -910,9 +911,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/Ks_IOcbDArZ8GEpbdgWBmQOgbIx-VQIv-teTsqEoVSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/ODgtMTY2NjcxNDYx/My0xMzMyLmpwZWc.jpeg" alt="Cover for Obstacles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f462517d31751346d628be2cb56209a.png" alt="Cover for Obstacles" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Syd Matters</td>
@@ -928,11 +929,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe5d371920b64b2fee14e75d49a49af.png" alt="Cover for Pauline Croze" style="max-width:120px; height:auto;" />
       </td>
@@ -946,13 +948,13 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 96</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 96</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0751a098b5c41ca93e77c14bcab642c.png" alt="Cover for Le Fil" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +972,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6850f7ee4204e89930656b7cfa4c95d.png" alt="Cover for Bye Bye Beauté" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +991,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6509f913a6e373f32b62b613c284d235.png" alt="Cover for Someday We Will Foresee Obstacles" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,7 +1011,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
       </td>
       <td>2005-05-23</td>
@@ -1023,12 +1025,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 60</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9893bfe2e3d4abeb55458489a688a10.png" alt="Cover for La Femme Chocolat" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1051,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/clWX0MOuH7GohhyINmJZdsacONi95UMkCMRycFx1wKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDg2/OS0xMjgyNDA3MzYy/LmpwZWc.jpeg" alt="Cover for Bande a&#39;Part" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,12 +1065,31 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 11</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60eb66defd60bc0b87d8704cd5282c94.png" alt="Cover for Rose" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Rose</td>
+      <td>Rose</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f52becc61f520a23bfb91c452de06131.png" alt="Cover for Végétal" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1108,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6cb333277cfcb5ac5996a487bde2fca.png" alt="Cover for It&#39;s Never Been Like That" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1144,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
       </td>
       <td>2006-07-04</td>
@@ -1142,7 +1163,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba31e0096a1e3e985a5d0b3b9f4c1b46.png" alt="Cover for 5:55" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1183,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/grIxcnalwTYbbT8INQv_j_9fxL0T5dF451mfj3kKBBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDA0/OS0xNTEzMzUzNjc5/LTgxNjYuanBlZw.jpeg" alt="Cover for 5.55" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1202,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/7XVvYB_3oKqGABTu_T86nAFURlMnTSeRtAKmQCV7nxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc3/NjYtMTIwNDI5Nzg2/Mi5qcGVn.jpeg" alt="Cover for The Flower Book" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1224,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64e0560320b2471b8de12233c7ae0bdf.png" alt="Cover for Pocket Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,12 +1238,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 56</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8fd0626f4e5649307fc7a0a93b2dd6d.png" alt="Cover for All Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,26 +1265,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td>2007-03-04</td>
-      <td>Kavinsky</td>
-      <td>1986</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/beca69ef786e59389d65dee98a5bf786.png" alt="Cover for Pop Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1283,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/badeaf5c3b384f69944486245a47a535.png" alt="Cover for 09&#x2F;14 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,13 +1298,13 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 75</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 76</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/Z0CqEnQy6bAYFt3zTXOkVqoiEuzFyUyGazdASrqfsbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTMw/MTQtMTQ5NDI3MjY0/MC01Mjk5LmpwZWc.jpeg" alt="Cover for Divine Idylle" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1325,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e010d3c3b25541ba9da5d56927b81084.png" alt="Cover for Marre marre marre" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1343,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06f8d71909a46d3b35edb49784e887fe.png" alt="Cover for Sexuality" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1362,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>9</td>
       <td>
       </td>
       <td>2008-03-24</td>
@@ -1379,8 +1381,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d58016b65aab4beb8a01170c74121d6f.png" alt="Cover for Next of Kin EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-31</td>
       <td>Surkin</td>
@@ -1396,7 +1399,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7dac540c5a424d96a0acc90f8e655d.png" alt="Cover for Music Hole" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1419,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/909a35dc84f74b879634f543fa2a7d90.png" alt="Cover for Pop-up" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,13 +1434,14 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 52</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46852ccc462e4689a7e7b9202a0c9ad1.png" alt="Cover for Tree Of Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-13</td>
       <td>Yodelice</td>
@@ -1454,7 +1458,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b06defa449863fea6a78434c268dff47.png" alt="Cover for Wolfgang Amadeus Phoenix" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,12 +1472,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 94</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93bc1b377a22b37235cda0a2d79aa898.png" alt="Cover for You Need Pony Pony Run Run" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1496,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7eff75873814689be591e9bbfac47c2.png" alt="Cover for Coeur De Pirate" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1515,24 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2010-03-29</td>
+      <td>Sexion d&#39;Assaut</td>
+      <td>L&#39;École Des Points Vitaux</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
       </td>
       <td>2010-10-20</td>
@@ -1528,7 +1549,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41e2026c21a8877589db3d7c5ed1850c.png" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1567,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ab389dee5504aafa774620d0ae66a8d.png" alt="Cover for Safari Disco Club" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,38 +1582,31 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2945d3d0595b4000828a51c28a06f0af.png" alt="Cover for Finale" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11ae48e9c9bb4e8f8c39e3c6a071539d.png" alt="Cover for Lescop" style="max-width:120px; height:auto;" />
       </td>
-      <td>2012-07-16</td>
-      <td>Madeon</td>
-      <td>Finale</td>
+      <td>2011-11</td>
+      <td>Lescop</td>
+      <td>Lescop</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 99</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/YEg83RVAe93HN1qeN9HdKFeZjZBSgnNmlKRqAKgSB98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTI0/MTItMTQxNzE0Mjk1/My0yNDQ3LmpwZWc.jpeg" alt="Cover for Sylvie Vartan" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1642,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/947f342a8b86454ebd9a07c18f361f04.png" alt="Cover for Recto Verso" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1661,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>2013-08-16</td>
@@ -1664,7 +1678,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 7</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 21</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 96</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 96</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 96</li>
@@ -1690,14 +1705,14 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Kc7RZE-u_aXuLa3DgjPxYTDY1JLLfK3n-lRb6qR-j_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQw/OTAtMTQ1NDYzMzk2/NC00NzEzLmpwZWc.jpeg" alt="Cover for Still Waters" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1730,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16ef5f058b55756fe75a5f6e9ab649ec.png" alt="Cover for Dans La Légende" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,25 +1750,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bd650a321ec7c01003bd0dffcabfb3d.png" alt="Cover for Globe, Vol. 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-07-28</td>
-      <td>The Toxic Avenger</td>
-      <td>Globe, Vol. 3</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3db0458c0d5f754e35059ac26ba3004.png" alt="Cover for Vérité" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,12 +1769,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 56</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/USM7b9HVbzUihFsnOez5jLBp3e1GGrxR82XpaJkWop4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjI4/MjgtMTQyNjU4MTEy/OC0xMjYyLmpwZWc.jpeg" alt="Cover for L&#39; Autre..." style="max-width:120px; height:auto;" />
       </td>
@@ -1796,7 +1793,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/pctS0Fcn4Wk1y2RW5zzvm8mnMW2sJlZqtYUkvzu_YvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE1/NDk3LTE1Mzg2NTY0/OTQtOTE4NS5wbmc.jpeg" alt="Cover for Brol" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1811,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe203b2345441fc5a941a78c17d6883e.png" alt="Cover for NOVO SONIC SYSTEM" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1831,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/3f9r_mRR-88PXaJ_BVdthGRXiH5-qA0V3yE0FwxnJgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcz/ODcyLTE1NzMyNDM3/MTEtNTg0Ni5qcGVn.jpeg" alt="Cover for Brol La Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,18 +1852,18 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 71</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/azsCB6xgjmtW0IHXFEqYgEa_7Iou44c1jloIhogJe-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAw/ODIxLTE2MTI2OTk0/MDQtNzUwOC5qcGVn.jpeg" alt="Cover for Tristesse" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1883,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/FCi8e-foA90WwElzs80XLH0NdLbqz7V3qDuo95sfrC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMx/MTE4LTE2NTkwNzAx/NzAtMjQyMi5qcGVn.jpeg" alt="Cover for Spider" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,20 +1908,21 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 28</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 6</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 89</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 100</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/hk54XLCNBX-U-1sm0DNTR6-ekDD1SWXJqTyqDEgAylo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEx/NTE0LTE2Mzc2OTc0/MTAtOTM3MS5qcGVn.jpeg" alt="Cover for Bruxelles je t&#39;aime" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,8 +1941,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 61</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 69</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 91</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 92</li>
@@ -1952,7 +1950,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af8f35be1a4fd0ec15d29c96b9e6f5b8.png" alt="Cover for Tête brûlée" style="max-width:120px; height:auto;" />
       </td>
@@ -1981,7 +1979,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2448062b593bc7b9a589b5691b885c9d.png" alt="Cover for L&#39;autre" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,7 +1998,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/T9abllztjHuyhne7M-X4V49TpUCGNGpR91xuJpJtG5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODUx/NTg2LTE2OTk1NzA2/NjQtOTcwNi5qcGVn.jpeg" alt="Cover for Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,18 +2019,18 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 98</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 100</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/372b0e860b2615a78d2a127dc408d3ca.png" alt="Cover for Emma Peters (Remixed)" style="max-width:120px; height:auto;" />
       </td>
