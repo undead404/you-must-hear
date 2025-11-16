@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T08:12:34.765Z
+date: 2025-11-16T13:05:21.001Z
 permalink: tags/rap-rock
 title: rap rock
 ---
 
 ## rap rock
 
-Last updated: <time datetime="2025-11-08T08:12:34.765Z">Sat Nov 08 2025 10:12:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T13:05:21.001Z">Sun Nov 16 2025 15:05:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/wuIJHRvr7hk9eiBTyEx7kWMTSgqG36Yr3dXmf8dV2XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ5/MDY3LTE1MzM0NTM0/MzktMTI0MS5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a15d923e5c116485f207754c54dd0c8a.png" alt="Cover for King of Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -84,12 +84,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 27</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45857ace33c7f28cfc61550eab2d7774.png" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
       </td>
@@ -122,14 +122,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 38</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 41</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 50</li>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 71</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/BJLTpe3_I3gCtUIFjZX1uhlgQT-o34V3oCflOZo2seI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA0/Ny0xMzUzNzM3MDM2/LTY4OTkuanBlZw.jpeg" alt="Cover for Violent Demise: The Last Days" style="max-width:120px; height:auto;" />
       </td>
@@ -186,13 +186,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 1</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 77</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40edfd12df41dd19fa33f91528c0540.png" alt="Cover for Detonautas Roque Clube" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Detonautas Roque Clube</td>
@@ -212,12 +213,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 54</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68982cce93b18ba13f8b230e6630ee05.png" alt="Cover for The Wraith: Shangri-La" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +260,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa20eca0c0dc7ce5398741b9d3eb62a0.png" alt="Cover for Lines In My Face" style="max-width:120px; height:auto;" />
       </td>
@@ -297,12 +298,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2005-06-21</td>
@@ -319,7 +320,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/BY9IyIWAIVgM8Q44dnuFnzGUOQuUgsjyXsCvHJZjVDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTU2/OTItMTQ3NzQ2NTEz/MC01NTk0LmpwZWc.jpeg" alt="Cover for Platypus" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +341,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2005-12-21</td>
@@ -380,7 +381,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2007</td>
@@ -396,7 +397,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 24</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +417,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 12</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 13</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 34</li>
         </ul>
       </td>
@@ -439,7 +440,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90c2e06b066c214dd63346752e10f8b8.png" alt="Cover for Safe" style="max-width:120px; height:auto;" />
       </td>
@@ -456,12 +457,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abf26dc7ce7aa299bee51d59b9ba0c09.png" alt="Cover for Chef Aid: The South Park Album (Extreme Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -491,9 +492,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 34</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 39</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 75</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -515,8 +516,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a82627bf3fbf6a8cbe0f564761fa014.png" alt="Cover for By the Throat" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-21</td>
       <td>Eyedea &amp; Abilities</td>
@@ -533,7 +535,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009-10-16</td>
@@ -564,12 +566,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 67</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0195ba18c7fb5ea34adbbabe4b7aa3a5.png" alt="Cover for Lace Up (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -590,11 +592,11 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 9</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 35</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 41</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 77</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 91</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 93</li>
         </ul>
       </td>
@@ -619,7 +621,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2010-06-15</td>
@@ -638,9 +640,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/CFNMjVyC153m7MD9d_qCSflx5MBmGl2xcAWYmetD2qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDE1/NTktMTM5NzY5Mjk5/OS0yMzg1LmpwZWc.jpeg" alt="Cover for Ready, Fire, Aim!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5406909e3eb3434dc34db5b8ada9cf06.png" alt="Cover for Ready, Fire, Aim!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-28</td>
       <td>T. Mills</td>
@@ -670,12 +672,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 16</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95e853d1ffbcd25ec1dff861e30e892.png" alt="Cover for Swan Songs (Collector’s Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -693,13 +695,13 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 34</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 35</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ad1f1ef95912de856e2bab57dc99c03.png" alt="Cover for Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +721,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b84c587f8a9e2a1faa55922076a12ab.png" alt="Cover for Hello World" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +741,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab97706d20fe4b10cb32bfb8b136f795.png" alt="Cover for Jenny Death" style="max-width:120px; height:auto;" />
       </td>
@@ -756,14 +758,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 32</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 35</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4d26d42bb6ad2e672300361d437a18.png" alt="Cover for American Tragedy (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -776,12 +778,11 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53de7eee55b70dfd5ebaee64d7d7b13d.png" alt="Cover for Half Naked &amp; Almost Famous - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -803,15 +804,15 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 72</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 73</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 89</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/-y69cBEYW0CcOnpiXMrZMeX34IehEUSBj5W_Km27qik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQw/ODAtMTQyODQ3Nzkx/Ni0yOTYzLmpwZWc.jpeg" alt="Cover for MAINSTREAM SELLOUT" style="max-width:120px; height:auto;" />
       </td>
@@ -825,12 +826,13 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 14</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 25</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17e8fa226caa46cda71309406d76b7d9.png" alt="Cover for Any Port in a Storm (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +852,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f26161d329b7c30fe65d1e2abbb240c.png" alt="Cover for Lace Up" style="max-width:120px; height:auto;" />
       </td>
@@ -871,15 +873,15 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 65</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 78</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 87</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dda2ee492c00966c166665454e10c2d.png" alt="Cover for Living Things" style="max-width:120px; height:auto;" />
       </td>
@@ -893,14 +895,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 50</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 54</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 55</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 62</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41e98499472113c9adfaeb8c69a9a830.png" alt="Cover for Fighting Myself" style="max-width:120px; height:auto;" />
       </td>
@@ -935,16 +937,16 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 15</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 71</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 79</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 33</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 81</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb98a73a854b1783d9fecd2751f85540.png" alt="Cover for Notes From The Underground" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +987,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8975d1b1a9b1a8043971c004b505ae4a.png" alt="Cover for Nunca Tem Fim (Standard)" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,29 +1004,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 3</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d86f630de47c4976c95a3b2c14f08171.png" alt="Cover for Stereolithic" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-03-11</td>
-      <td>311</td>
-      <td>Stereolithic</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 6</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1032,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b55d8bfc91794862c804181452df3032.png" alt="Cover for Русский подорожник" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,14 +1051,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 61</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 61</li>
             <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2014-11-28</td>
@@ -1095,7 +1076,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/hP4KZx6d-2273VMPgth_jZDsgX3XpFcgTzWcnkwJ3kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzQy/OTEtMTQ1NTYxNzE4/NS0yOTM0LmpwZWc.jpeg" alt="Cover for Blurryface" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,8 +1090,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 4</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 89</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 19</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 91</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 96</li>
         </ul>
       </td>
@@ -1155,7 +1136,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc800a3babc1f09e0182cead6da8c651.png" alt="Cover for General Admission (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,16 +1158,16 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 14</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 23</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 90</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 29</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 86</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 90</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf2a0d05966862d0d69491a8967bef49.png" alt="Cover for General Admission" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,17 +1189,17 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 77</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 80</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 88</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/cHKGGFI3NWoI4ZMh11IbEYRmPKbroDK06d-HYRM8mOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzUz/MzY1LTE2MzUzNjMw/MDItNDQ3OC5qcGVn.jpeg" alt="Cover for Heartbroken and Homicidal" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1221,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/68q-xb3MIOkYihykn5L6nsFDRpP_F3-XI_Rdwe9pf3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njc3/MzEtMTQ4NzYzNjY3/Mi0yMjU2LmpwZWc.jpeg" alt="Cover for Nova Twins EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,14 +1260,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 79</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 88</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 80</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edee5deac5e878a5521735fa2acdf49d.png" alt="Cover for An Invitation to an Alternate Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,12 +1309,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f58f2dbc7aeefb6d4f7191971d3aeae2.png" alt="Cover for All The Way Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1356,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/qXTlxMz1X68vc2xHJZYoOEY6HFu_APgiB9Buavi8e9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/MjI0LTE1MzYzMjE4/MTAtODE4My5qcGVn.jpeg" alt="Cover for Prisoner 709" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,13 +1373,13 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 41</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/fI4ezBjcVIjSuM4Apt272BB496_odC9E_OXFEiaTYpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/NTU2LTE1Mzg5NjQ5/NjctODI5OC5qcGVn.jpeg" alt="Cover for trench" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,16 +1397,16 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 1</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 38</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 59</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 94</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 68</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ab27a795b7deb100e55de3255742d1e.png" alt="Cover for The Atlas Underground" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,14 +1448,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 77</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 78</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 66</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 79</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bbd569d6bb93ba0f9cc48e80d9ad189.png" alt="Cover for The Tryforce" style="max-width:120px; height:auto;" />
       </td>
@@ -1495,13 +1476,13 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 62</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9027740c31f365c0f432dfba17e5052d.png" alt="Cover for Junior" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,8 +1527,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 35</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 51</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 12</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 54</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 57</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 99</li>
@@ -1556,7 +1538,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for General Admission" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,15 +1560,15 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 17</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 27</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 76</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 84</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for Lace Up (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,17 +1591,36 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 10</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 68</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 69</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 88</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/z3ZsKp5vx_-qChSatlAKPfMIbSiKgz98o2haY_3DVtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQy/NTY4LTE2MTg2OTE4/OTMtNDY5MS5qcGVn.jpeg" alt="Cover for DAMNED IF I DO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-10</td>
+      <td>Titus</td>
+      <td>DAMNED IF I DO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8139e521e9a8a150af00417ec561b83d.png" alt="Cover for zero_one" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,9 +1629,6 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       <td>zero_one</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
       <td>
@@ -1639,7 +1637,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd374b985a13be971caf32a2a5f174f.png" alt="Cover for Dog Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,8 +1652,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 28</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 30</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 42</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 88</li>
         </ul>
@@ -1687,7 +1685,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57d674e17adce387fe87ae2a3c7d1921.png" alt="Cover for Yum Yum Bedlam" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,12 +1701,11 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/HFZ79yjihH4LF_kljcJouO5gYkHzYPuyMoR3R-oQbj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODI4LTE2NTkzNTYw/ODUtMTAyNy5qcGVn.jpeg" alt="Cover for mainstream sellout - life in pink deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,7 +1731,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/HFZ79yjihH4LF_kljcJouO5gYkHzYPuyMoR3R-oQbj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODI4LTE2NTkzNTYw/ODUtMTAyNy5qcGVn.jpeg" alt="Cover for Mainstream Sellout (life in pink deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,8 +1779,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 49</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 49</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 82</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 86</li>
         </ul>
@@ -1818,8 +1815,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 91</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 92</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 99</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 100</li>
@@ -1827,7 +1824,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for more than life (feat. glaive)" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1848,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Half Naked &amp; Almost Famous - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1870,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 77</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 78</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 91</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 92</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 94</li>
@@ -1881,9 +1878,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/7tbi4OWsmfGXhBRnYA5dfZYW6xhOQU-KVki43FUqz9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzU3/MjIyLTE2OTUzNTU2/MTEtNDEzMS5qcGVn.jpeg" alt="Cover for Desde El Fin Del Mundo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99cbeb24e301551a1d454fbdfcacff7a.png" alt="Cover for Desde El Fin Del Mundo" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-22</td>
       <td>Duki</td>
@@ -1899,12 +1896,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 16</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f54f13821a581e53fd26f85f5a349e10.png" alt="Cover for This Is How The World Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1937,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 14</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 16</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 45</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 48</li>
         </ul>
@@ -1949,7 +1946,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/aVHZbpeuv7Hnly79Lnds4uSh1k_JHSOnCHUJa-3Le0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjI1/MTUzLTE2NzczNTI3/OTAtMTA4NS5qcGVn.jpeg" alt="Cover for Skin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e414ed96b999d423849cc9811f0a5d9.png" alt="Cover for Skin" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-01</td>
       <td>Colby Brock</td>
@@ -1987,12 +1984,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/pBkkydCBLIPTubgNiqZYIXQ9EGOwmk9kAc7SQ5nzYTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MjIzLTE2NTkzNDQ4/NDgtODMyNC5qcGVn.jpeg" alt="Cover for mainstream sellout" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,12 +2012,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 8</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15d675c044f9ef596722f7c0dc007b07.png" alt="Cover for mainstream sellout (life in pink deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,7 +2043,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for General Admission (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -2068,7 +2065,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 26</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 73</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 82</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 86</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 87</li>
@@ -2076,7 +2073,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/KG_vq_sxqVX-5Li5XcKazl2-QGAwEr8LOH7Ze869qYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MDMxLTE2NTkzNDM5/MjYtMzE3MC5qcGVn.jpeg" alt="Cover for Hotel Diablo: FLOOR 13 EDITION" style="max-width:120px; height:auto;" />
       </td>
@@ -2104,7 +2101,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 81</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 93</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 93</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 96</li>
@@ -2112,7 +2109,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/KG_vq_sxqVX-5Li5XcKazl2-QGAwEr8LOH7Ze869qYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MDMxLTE2NTkzNDM5/MjYtMzE3MC5qcGVn.jpeg" alt="Cover for Tickets To My Downfall (SOLD OUT Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -2155,7 +2152,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 11</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 13</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 38</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 86</li>
         </ul>
@@ -2179,13 +2176,13 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 46</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 45</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/EoZvphn7k6-YeD7dK1qvgVq3m675adhpZ7iGM8kM8AE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY4/Njk5LTE2MTUwNTU3/MzctNzIyMC5qcGVn.jpeg" alt="Cover for Hollywood Whore" style="max-width:120px; height:auto;" />
       </td>
@@ -2205,9 +2202,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/aJ6MmJI9UpHlA5egtzpcTZsnLRz8TwwMwOn42o81AUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU0/NDQyLTE2OTk2MDU4/ODItMzE3My5wbmc.jpeg" alt="Cover for i was mature for my age, but i was still a child" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1ce11ad16335dd50e7ccaa4f4955f37.png" alt="Cover for i was mature for my age, but i was still a child" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-27</td>
       <td>grouptherapy.</td>
@@ -2236,13 +2233,13 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 14</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 33</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/pgefuZ-1WcnS9HHybU1IynLnMLoO1bINut_zuZZndY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODIy/NTM0LTE2OTA2OTA4/NDktMjk4Ni5qcGVn.jpeg" alt="Cover for MID AIR" style="max-width:120px; height:auto;" />
       </td>
@@ -2275,15 +2272,15 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c5d646d49982c5193400df017e2ef06.png" alt="Cover for Imunidade Musical" style="max-width:120px; height:auto;" />
       </td>
@@ -2303,7 +2300,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb66f7ad6e065c818f4185266ba34bc5.png" alt="Cover for LOVE &amp; FIGHT" style="max-width:120px; height:auto;" />
       </td>

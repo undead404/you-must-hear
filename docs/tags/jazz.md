@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:05:59.274Z
+date: 2025-11-16T13:57:53.959Z
 permalink: tags/jazz
 title: jazz
 ---
 
 ## jazz
 
-Last updated: <time datetime="2025-11-15T01:05:59.274Z">Sat Nov 15 2025 03:05:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T13:57:53.959Z">Sun Nov 16 2025 15:57:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b4e39c5930fcda4d1b3f782afc506ef.png" alt="Cover for Julie Is Her Name" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +234,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>1959-03</td>
@@ -273,7 +273,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/NW_TK8P26XPQCAzfSbfJbZcKV6Pv52gztu4c1LQTWCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODk3/My0xNTM3Njg0MTAz/LTk0NjguanBlZw.jpeg" alt="Cover for The Shape of Jazz to Come" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +292,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/vxXDsxZ3OYiRKucFkcLzenGKZ4LwZ-B7G6qu3nVyaNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQz/NTMtMTI1MjEzODI1/NC5qcGVn.jpeg" alt="Cover for Sketches Of Spain" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +329,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
       </td>
       <td>1960-10-01</td>
@@ -347,7 +347,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>1961-08</td>
@@ -366,7 +366,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/2jfvwQOffP14O_1JnFK0PKjGBDAFPLUDLf-bN9Nx_G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTM3/NTQxLTE2NTM5Mjc1/OTEtODg3OC5qcGVn.jpeg" alt="Cover for Monk&#39;s Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -404,7 +404,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>1964</td>
@@ -442,7 +442,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1965</td>
@@ -521,7 +521,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1965-12-04</td>
@@ -538,7 +538,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/fb-05MgzTRVTIw2LCW-uMSo79wJ7zboqN-D2wMrE01Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEw/NDk0LTE1NDIzOTU4/OTctMjk0MC5qcGVn.jpeg" alt="Cover for John Coltrane And Johnny Hartman" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +581,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
       </td>
       <td>1968</td>
@@ -597,7 +597,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1969-07-30</td>
@@ -650,13 +650,13 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 61</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 62</li>
             <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1971</td>
@@ -676,7 +676,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1972-07-01</td>
@@ -716,7 +716,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
       </td>
       <td>1975-11-30</td>
@@ -729,13 +729,13 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 9</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 10</li>
             <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1977</td>
@@ -756,7 +756,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
       </td>
       <td>1979-05-25</td>
@@ -797,6 +797,24 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 68</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 86</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f35dc9633f2eec6f9bc9648eb1632abe.png" alt="Cover for The Awakening" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Ahmad Jamal Trio</td>
+      <td>The Awakening</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -862,7 +880,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/8WbRWs_EN-N6SIcmx4z5HG0geY7sHRfMI_6ffOH9eAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDc3/MDItMTY3OTAwOTc5/OC04NzA2LmpwZWc.jpeg" alt="Cover for Incredible Jazz Guitar" style="max-width:120px; height:auto;" />
       </td>
@@ -923,7 +941,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2000-02-25</td>
@@ -937,7 +955,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 24</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 96</li>
         </ul>
       </td>
@@ -945,6 +963,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2268f7ca4d064172b07179884716ef07.png" alt="Cover for Bossa Per Due" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10</td>
       <td>Nicola Conte</td>
@@ -958,7 +977,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 50</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 52</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 94</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 95</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 100</li>
@@ -1001,8 +1020,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 35</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 38</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 45</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 52</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 97</li>
         </ul>
       </td>
@@ -1026,27 +1045,6 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2da3ed697788ef61867a691e8b3da957.png" alt="Cover for Every Day" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-04-27</td>
-      <td>The Cinematic Orchestra</td>
-      <td>Every Day</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 34</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>65</td>
       <td>
       </td>
@@ -1065,26 +1063,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8268e84c69140a8a36c1c18140401b2.png" alt="Cover for Man With a Movie Camera" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-05-31</td>
-      <td>The Cinematic Orchestra</td>
-      <td>Man With a Movie Camera</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/635a14fd905512ce35a516a77b669b5f.png" alt="Cover for Twentysomething" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1082,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5d8b5ea0b1b4542b4e0249e94d81387.png" alt="Cover for Frank" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,7 +1118,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f4a3d4bbac40a8a49520f21d50b036.png" alt="Cover for Feels Like Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,7 +1157,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Gl-AbJdQI1QHkne_h3DioPlja1aI1FNi24DJTkspg9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTkw/Ni0xMTI2OTExMjYw/LmpwZWc.jpeg" alt="Cover for Ptah The El Daoud" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1213,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/EkjAS6oCbTmRr3DNPoDgVMF3sWozvTepRwRWcv4Lgto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTMy/NjUtMTY2MTUzNzcy/OS0xMDEwLmpwZWc.jpeg" alt="Cover for Getz&#x2F;Gilberto" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1252,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
       </td>
       <td>2006-09-12</td>
@@ -1325,7 +1304,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 20</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 21</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 74</li>
         </ul>
       </td>
@@ -1372,28 +1351,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70f62a49998b436a911eaa297b6da21a.png" alt="Cover for Ma Fleur" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-05-07</td>
-      <td>The Cinematic Orchestra</td>
-      <td>Ma Fleur</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 98</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/onnxcyrvTboO7005GAIO1mSOrMYXq8g6AE0nONjTRxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTQ5/NC0xNTkwMTQ2Mzcz/LTEzOTkuanBlZw.jpeg" alt="Cover for Somethin&#39; Else (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1370,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/672f7875b7774fc7a7e3ae79a4741c2f.png" alt="Cover for Crazy Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1388,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ae3a0a1906a402785e98b9fca560db5.png" alt="Cover for The Pursuit" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1464,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a7c35189b83874e303a8ec6813c64d6.png" alt="Cover for Spiritual State" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,11 +1481,47 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 40</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 42</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 48</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 61</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 72</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/kRIzkGEyhwIgZr9xnisMov9s21aotb4oejK3MO2G9Ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTYy/MzktMTM3NjQwNzM2/My04Njk4LmpwZWc.jpeg" alt="Cover for Harlequin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Lady Gaga</td>
+      <td>Harlequin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2014-03-14</td>
+      <td>Tom Misch</td>
+      <td>What Kinda Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1545,7 +1539,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 2</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 4</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 56</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 92</li>
         </ul>
@@ -1595,7 +1589,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2017-01-17</td>
@@ -1624,7 +1618,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f58bf164610d9efc5318a8f446ca6e83.png" alt="Cover for Back to Black (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,7 +1637,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/bdRiZBlhOp-N_gLlZBLR28kzl4zdeJTbalAjc7r5JIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU2/ODk1LTE1NjY5OTU0/NTgtODY4NS5qcGVn.jpeg" alt="Cover for &#x2F;&#x2F;&#x2F; (You, Clouds, Rain)" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1733,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/gb9f0MplTVNo434trU4hOdmsSK44ddXY0yTHw8EJIUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI4/ODk4LTE2MDcxNzM1/NzgtODcwNS5qcGVn.jpeg" alt="Cover for COWBOY BEBOP (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1796,7 +1790,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/6sEnV9uPiTlnvCOOuAWy8Swy7p_rrLISJ6fDmi3XmFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg1/NDE0LTE2MzEyOTY1/MDAtNTIxOC5qcGVn.jpeg" alt="Cover for Indigo Borboleta Anil" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1849,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1aeb9016ab5a7661e5b0bc0ba58e8b0.png" alt="Cover for Solitude" style="max-width:120px; height:auto;" />
       </td>
@@ -1919,7 +1913,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/509467bc60a0b0c5b4d219a74388408f.png" alt="Cover for Dinner Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,7 +1977,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49e810ccd75a5f72fd2d0c3b9c4c2637.png" alt="Cover for empathogen" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,7 +1995,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9188c719025e129388339b20258a9b3.png" alt="Cover for Ella Wishes You a Swinging Christmas (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>

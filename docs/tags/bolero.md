@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:02:45.699Z
+date: 2025-11-16T12:58:54.431Z
 permalink: tags/bolero
 title: bolero
 ---
 
 ## bolero
 
-Last updated: <time datetime="2025-11-15T01:02:45.699Z">Sat Nov 15 2025 03:02:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T12:58:54.431Z">Sun Nov 16 2025 14:58:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,6 +29,24 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
   </thead>
   <tbody>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/lAYP7Ky8X4DRtq-NZoBYp3VOTHZLGKTbp724Ob6-0Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg1/OTUtMTQ1MjY2NzQ5/My0zODQxLmpwZWc.jpeg" alt="Cover for Leyendas Solamente Los Mejores" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1949</td>
+      <td>Trio Los Panchos</td>
+      <td>Leyendas Solamente Los Mejores</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>71</td>
       <td>
           <img src="https://i.discogs.com/NWs5NJlM6bkMlRfSEb3vJENHFDUJOwe-HAholW5pzq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODg3/MDItMTQ0NDAyNDA1/Mi03NTQ2LmpwZWc.jpeg" alt="Cover for Serie Inmortales - Daniel Santos Y Sus Amigos" style="max-width:120px; height:auto;" />
@@ -48,7 +66,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/mc8Sc3KY7Noaq6eyU01SLGQ1uaKE4JssLIipGvjKh3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg1/NTcyLTE0OTg0MTY3/MTktNTEwNS5qcGVn.jpeg" alt="Cover for Canciones de Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +89,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/eZREe4xYiZc9adqE3waQaa3QvsdDX47HIJjdLZ_e91Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjc1/MDgtMTYzMTU2OTIz/MC0zMjg0LmpwZWc.jpeg" alt="Cover for Exitos Originales" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +107,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/7Le33Wbf6zxZE9kA0LjcmB62DBxz_0s5mcF4v1-h0is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQy/NTQtMTYxNTIzNzA1/Ny03MTExLmpwZWc.jpeg" alt="Cover for Love Is A Season" style="max-width:120px; height:auto;" />
       </td>
@@ -134,7 +152,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/cwgkLDUwCxQo2kSCFJb-mLf8afk_5ty1kDDvRaYCkII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzUw/ODMtMTQ2NDM1NTQ3/Ni03ODg4LmpwZWc.jpeg" alt="Cover for Boleros De Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +170,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/6JnMKvW5J1AJXlacah4-veAfaZ2sSqlgKPmyGJEdnCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/NzA5LTE1ODU4ODU4/OTQtMTE1Ni5qcGVn.jpeg" alt="Cover for ORO 20 Grandes Canciones Vol. I + II" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +188,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/eIBO6bO2y9I2FtTb9CuAxBEhrddw7wZzUp0vM0DGXP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA1/MDItMTQzMjU3OTAw/Mi03MTQyLmpwZWc.jpeg" alt="Cover for Grandes Éxitos de Agustín Lara" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +206,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1971</td>
@@ -229,7 +247,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/gH1nWWh9Z8DC1mlqQ98anC7oJ8rmeQqY3k6P8b5Rh28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDM4/ODQtMTUxNTA5MjA0/Mi05MDc4LmpwZWc.jpeg" alt="Cover for En Bellas Artes 50 Aniversario" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +266,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/zUzQc5chD_Pvxw7quO-8vIQPd6BlgG4O_E6L0xER4Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjU3/OTktMTM5MDYwMjQ0/OC0yNzg3LmpwZWc.jpeg" alt="Cover for Dos Imagenes" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +341,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/C8ZigQHAfXDd6kpcoG1j72UKj-NlEmhoErl2CECNi0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg2/MzgtMTUwODU0ODA4/OS03ODY4LmpwZWc.jpeg" alt="Cover for Alive And Kicking" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +379,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Zamaan Ya Sukkar - Exotic Love Songs and Instrumentals from the Egyptian 60&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +397,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/ElPytkeD4otBXmhaY5CMqrXwY4Qj1qNysEjHAhz2w8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzU4/NDgwLTE2MTUyNjQ2/NjktNDExNC5qcGVn.jpeg" alt="Cover for Lo Mejor de lo Mejor" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +415,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1982</td>
@@ -415,7 +433,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/OzqtJ84Gk6CiaNsAvdfYcayKgSjPKhG2qr62SskZcmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjk4/OS0xNDI2MDUzODA4/LTkzNTAuanBlZw.jpeg" alt="Cover for Wasmasjien" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +451,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/VxtEkRdISCA5g-Brho0dFM5VxKOm6t4czBn-ruqoWdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc4/ODMwLTE2MDY5NjE3/NTMtOTEzNy5qcGVn.jpeg" alt="Cover for Mexican Boleros" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +487,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ScyZ2dAT2F64G2BoGQ5arb3TM9So2YuztTgaMZPKrxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY2/NzYtMTQ2MzM5Nzgx/My0xMDkwLmpwZWc.jpeg" alt="Cover for Lo Mejor De Antonio Machin" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +507,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/MKSLfNCg9LC5iR28WydWr3zITM11lagDLV6zsCH976s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkw/NzIxLTE1Njc2NjY1/MzUtNzE0MC5qcGVn.jpeg" alt="Cover for Canta Javier" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +543,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/D9UGobIpumYL66RXR5YQyVlN8Ci8zrlvdXMRQbW4JTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MzgzLTE1ODcxMzk3/NDEtMzE4OS5qcGVn.jpeg" alt="Cover for Grandes Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -563,7 +581,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Erh4H5vjQ172jRtILVOPVFLi8MeV-8aQhDSUgBGnKEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODk1/MDgtMTQ1NDkzODM2/NS01MDM0LmpwZWc.jpeg" alt="Cover for Todo Panchos" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +598,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg" alt="Cover for Sólo Piens En Ti" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +651,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/l_dTpsrAsfg8RqYLRlnnzQjvjkR--MJfoGkdfy_F6yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA1/MDc4LTE1Nzk5OTY3/MzYtMTk2Mi5qcGVn.jpeg" alt="Cover for Las Estrellas De La Hora Azul" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +672,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/WtsnIYvYBUHm_3A392wygA0bkPGVRnCcnMUOscDqoXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE5/NDQxLTE2NDUzNTE4/NTgtNTYxNS5qcGVn.jpeg" alt="Cover for Eternamente...La Historia" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +781,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/xRGaFdI2yzSd6fL1ZUi3r_nuZaVF_u7ZXXRHGGk8dyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAz/NzE2LTE1NTczMzU5/MzgtNTA0OS5qcGVn.jpeg" alt="Cover for 20 Grandes Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +801,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1993</td>
@@ -803,7 +821,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg" alt="Cover for Felipe Pirela Interpreta A Rafael Hernández" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +839,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg" alt="Cover for Interpreta A Armando Manzanero" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +857,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Pv4xG2Rxw5ZGeEynFnL4I3bAL54SPbhoqXLwzq4ZmWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY0/ODUtMTQ3Mzg1Nzc1/Ny0xNjk0LmpwZWc.jpeg" alt="Cover for Sadel Canta a Los Panchos" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +896,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/pM6gYYQwZCMRmZ9QL3DsTYpXwk2UyYKeM8xv-QiJv6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkx/MzQ5LTE1MzIyODA3/MDctODk5OS5qcGVn.jpeg" alt="Cover for Mi Secreto De Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +924,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/q8GNJG_f7s_SfZkLuOBbSaDwWLFIOCiGG1eNjwMmPiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk5/ODUwLTE0OTg3MTY2/MzItNTgwNy5qcGVn.jpeg" alt="Cover for Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -924,30 +942,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35de26bea8de551cb12cc85e824709a5.png" alt="Cover for El Tiempo Es Oro" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-03-25</td>
-      <td>Paulina Rubio</td>
-      <td>El Tiempo Es Oro</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 58</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/D1WI22zFUkjBbnjCDjj3fLAyNe_Q-rSfFNgJ9E6wzaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE0/OTE0LTE2MjQyOTM1/MjUtNDY0NS5qcGVn.jpeg" alt="Cover for Brillantes - Trio Los Panchos" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +961,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/jzxDWoJfzNubv837NolxWoi-pVnkR5OW9auPV56VSVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI5/NjUwLTE2Mjg3MjQ4/NzItMjMxOC5qcGVn.jpeg" alt="Cover for Canciones De Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1015,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/2rP7Y9I_7u1Zcx3Sj9wfpn8gnqSBlo0oA4AhzYBajLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY5/NTYtMTQzODcyNjQx/Ny01MTQyLmpwZWc.jpeg" alt="Cover for 30 Exitos" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1129,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for El Barbaro Del Ritmo" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,7 +1194,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d814952f1021cb07ff053d7fe8b15957.png" alt="Cover for Siempre" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1234,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/vcrFoZz76B0Is21JzRgqR1cnXPdnGeqaeVBXGqngMgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDY1/MDEtMTU3Njk3MTMz/Mi01MzU1LmpwZWc.jpeg" alt="Cover for Mis Boleros Favoritos" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1272,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/3VJcHwWe_WGBcWkUR7N_Jx6DDlW_8tfg7yhe9eZs3yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ4/MjEyLTE1ODcwNzk3/NTAtNTM4OS5qcGVn.jpeg" alt="Cover for El Sueño del Maestro" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1292,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/opGI96JLpZKlJkgDih8DZs29Q886aWke6Xt6-vPrxdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU2/ODQ3LTE1NjI2ODI4/NzgtMzI2Ny5wbmc.jpeg" alt="Cover for Cancionero Del Amor Puerto Riqueño" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1330,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/FC7fKz_FqhBACqKiqdSeuKfWFe9Jtle6VRXdcT3PqrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY0/NzItMTQzODcxODE1/OS0yNTE1LmpwZWc.jpeg" alt="Cover for Parece Que Fue Ayer" style="max-width:120px; height:auto;" />
       </td>
@@ -1353,7 +1348,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2006</td>
@@ -1387,7 +1382,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/x1SXroHi7FoKQrYL0573Y7r7jevfcxgXJTy-fDGCrjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg4/MzgtMTY3ODU0Mzgx/MC00NDY4LmpwZWc.jpeg" alt="Cover for Amico mio" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1420,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/EmeEWv47cUQUzyFfIIsrVhkXSPbvsh1gmZC4bMnhVGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/NDA0LTE1MTg3Mzkw/ODctNTA4NC5qcGVn.jpeg" alt="Cover for The Originals - Lucho Gatica In Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1459,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/QEutnl5hcFx7uBHxI2IDMaT-PinfTXhixUinOSK16GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY2/OS0xNjAwMjk5Njk5/LTY0MjkuanBlZw.jpeg" alt="Cover for Ni Rosas, Ni Juguetes (feat. Jenni Rivera) [Versión Banda] - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,7 +1477,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2009</td>
@@ -1532,7 +1527,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1612c85856d029915822f5dd8e5a9d50.png" alt="Cover for Gran City Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1546,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/6eSC4meZCv8dtkN2Aa-K80TTAiF-betCQoOdobNvQCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjI0/NjItMTQxOTkxNTcw/MS0zMjIyLmpwZWc.jpeg" alt="Cover for Gran City Pop (International Regular Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1572,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/t1pyIyoORB2JY3BtMZOmXS-sg-w-J74B4Ax7dHjJY4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/NTEtMTMxNTI4MTU3/MS5naWY.jpeg" alt="Cover for Ritmo de Amor | Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,6 +1699,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 1</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 31</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 100</li>
@@ -1711,7 +1707,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/iC4h9C3vrC7Kp662m2I5TuuukOGFNxbIBRztdXcUueY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU0/ODUwLTE3MTA5NTk5/ODUtMTA1OS5wbmc.jpeg" alt="Cover for Boleros Inolvidables" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1725,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8bfe41c08d32dccfdee589a364824e2.png" alt="Cover for ¡Ay!" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1764,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/vnCERyhVCAV08MgNIucqUjw28yIrcO9mt8Hz5OPWlRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzM4/NjUyLTE3MjYzNzYz/NTUtNTM0OS5qcGVn.jpeg" alt="Cover for Torna Noches De Salón" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,7 +1782,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1804,7 +1800,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1822,7 +1818,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1839,7 +1835,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1856,7 +1852,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1875,7 +1871,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -1893,7 +1889,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1910,7 +1906,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -1928,7 +1924,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -1946,7 +1942,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
