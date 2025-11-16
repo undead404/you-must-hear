@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:13:38.997Z
+date: 2025-11-16T08:18:05.359Z
 permalink: tags/hard-techno
 title: hard techno
 ---
 
 ## hard techno
 
-Last updated: <time datetime="2025-10-22T09:13:38.997Z">Wed Oct 22 2025 12:13:38 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-16T08:18:05.359Z">Sun Nov 16 2025 10:18:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for The Gomboc Stone" style="max-width:120px; height:auto;" />
       </td>
@@ -47,12 +47,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 57</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/YDbAZLUw9bYF49OyefODenSmY9TKHtYw-7KVpDFMzbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIw/MDI2LTE2NTQ3OTc4/MTgtNDA4NC5qcGVn.jpeg" alt="Cover for Unity152" style="max-width:120px; height:auto;" />
       </td>
@@ -72,7 +72,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1977</td>
@@ -91,7 +91,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1977</td>
@@ -110,7 +110,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ADOhnsChU7pjVUJxEONEPNzof5W1_Iych1gqMCADsF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzg3/NTEtMTQxNzc4Nzg5/MS05MDM4LmpwZWc.jpeg" alt="Cover for Everything Will Be Better" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ImLi-ZlwMfFwoxe5HZoqDMpi5mde85DtdAWm3N4jddo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njgt/MTM5OTMyOTQwOS05/MTczLmpwZWc.jpeg" alt="Cover for Dandu Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +152,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/P87YmeWBGCIAHJumOja_E9mJEwk558sT2P_bKv0MapU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTEz/LTEyMjE1NzMyODgu/anBlZw.jpeg" alt="Cover for Dynamo" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ZnKJ_JqcaPePD0sO8QCZaCNx-6eHVDOapn2Jb6chL_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE5/Ni0xNTI3OTc3NzA5/LTI2MTcuanBlZw.jpeg" alt="Cover for In My Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2003-06-10</td>
@@ -214,7 +214,25 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2004-12-01</td>
+      <td>Julian Liberator</td>
+      <td>True Defective</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/p5uuZPWvBBplPVq1V5ON1ot0nGSno2XjF0_PAelhfwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTM1/My0xMTU0MzUxNjc3/LmpwZWc.jpeg" alt="Cover for FIRST ASSAULT E.P" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +260,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/2_cMmrRZCwm-lEaKGYqVkqYXFEI5NtZUSsOrXyy89eI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/MjUtMTIyMjM4MDAw/OC5qcGVn.jpeg" alt="Cover for Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +280,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/gtATIen0C5LWVt-9Nkk8HYl0PVQ1kFo3-rhCvqvoNDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg3/NTAtMTMxNDUzOTUx/NC5qcGVn.jpeg" alt="Cover for The Waldhaus Doctrine EP" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +345,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2009-09-28</td>
@@ -343,7 +361,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 2</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 3</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 58</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 80</li>
         </ul>
@@ -364,14 +382,14 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/42hkAuwnW5v3f9cPG6LgGNgPP_2Maq1tvdV8oZlor6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzgw/MzQwLTE3MjY4MzAx/OTMtMjkyOC5qcGVn.jpeg" alt="Cover for Blue Jeans (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecb596212c4c4c9c9d7ff54c92885e30.png" alt="Cover for Blue Jeans (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Lana Del Rey</td>
@@ -405,12 +423,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 45</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/H6GBToaa1uwp2_vTIJ_sWsOpfV0DLK5Ymue7ZZtoBF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzM0/MDMtMTQ2MTY5NzQ4/NC0yNDkxLmpwZWc.jpeg" alt="Cover for LOVE WILL TEAR US APART" style="max-width:120px; height:auto;" />
       </td>
@@ -431,7 +449,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/G0qetzPFvyAY_LP-k5k0AP4vKIuf75VKQaooXna8JDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQy/MDg2LTE2NDI5NjAx/MjAtNTA0Ny5qcGVn.jpeg" alt="Cover for BRV003" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +468,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/bFCKaEBpKjJkUlfm9xZrD2JgNcMvHbSmSU38O5EhsTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Njcz/MjgtMTM2ODYwMjYw/Mi0yNDYyLmpwZWc.jpeg" alt="Cover for Elements" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +487,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/wDqbKIWaOKhcNW87AesqPK6N0_VO6k4PRt-F9YWLqn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTUw/NjYtMTQ1NTAzOTg2/NC00NTAxLmpwZWc.jpeg" alt="Cover for Dirt" style="max-width:120px; height:auto;" />
       </td>
@@ -488,14 +506,14 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/BJc7-64XW1LuKcPXra6D_oxhj-PqKIkDB7Gn9oBuoeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgz/NzUtMTQ2NjI1NzE5/OC0yODAzLmpwZWc.jpeg" alt="Cover for IN THE REDS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40659525463f1fc05239ed8c73846259.png" alt="Cover for IN THE REDS" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-30</td>
       <td>Cirez D</td>
@@ -530,7 +548,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 39</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -595,6 +613,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 85</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 99</li>
         </ul>
@@ -618,7 +637,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 30</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 84</li>
         </ul>
       </td>
@@ -640,13 +659,13 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 28</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/yvhs8QigNllQDOBQBknPKYKxCaDbEaN2QIWN6ll2FbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/OTUxLTE1NTY4MjM5/NjAtNDYyMC5qcGVn.jpeg" alt="Cover for Value" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +745,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/mfm4Y7seKeRj33dgYyF-i9SmltN9BlIC967SK4uPvrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ0/NTYyLTE2NDIyNDI2/OTgtNzM0Ni5qcGVn.jpeg" alt="Cover for 200% Bibi" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +783,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 24</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 25</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 82</li>
         </ul>
       </td>
@@ -815,9 +834,9 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/EX5o8d6P6jTXnU3_L_qo5So1DwPFsdzCZ4PUpLtYHs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU0/MTE5LTE1ODA5MzM3/NDktODEzNS5qcGVn.jpeg" alt="Cover for The Hedonist EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5f0229b0d12f64222ac8127a7376e77.png" alt="Cover for The Hedonist EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-28</td>
       <td>Flug</td>
@@ -855,7 +874,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
         <ul>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 82</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 84</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +903,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/1Vbj0k5WFAxVSYvEK1AGfcD4ANwVchhDYUaQpBWIJPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk3/Njk3LTE1ODE3OTM4/NzctNDgxMy5qcGVn.jpeg" alt="Cover for Need For Lead" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +920,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 56</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -922,12 +941,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 43</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/fdSTv0IZmmLKmA58Ka1t-3y1FyDiOmXNlQksRK-eAI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU3/ODExLTE1NzI4OTYw/MTktNDE1OC5qcGVn.jpeg" alt="Cover for Delirium - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +966,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/PeQ1Tlu-K4V3oBB4LktTlO87-Ae47DZ312kZMN6F9nM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQy/NTE1LTE2MTQ2MTA1/NTctNDgwMS5qcGVn.jpeg" alt="Cover for Race Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -985,12 +1004,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 12</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/x4Xt3V4O3vDWyh7dLEA2MGGMglfsnE3PH_bVgGOAB7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTEy/MDE0LTE2MTA1NTc1/ODEtNTg1OS5qcGVn.jpeg" alt="Cover for Sacred Oath" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +1030,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2020-07-28</td>
@@ -1046,7 +1065,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 40</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 42</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 83</li>
         </ul>
       </td>
@@ -1071,12 +1090,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 87</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 96</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/eUry57PxwMRT_5DwJ5m1x1KbIs6vMrETq6FxNiLUda0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ0/NjgxLTE1OTY5OTM5/MjktNjY0NS5qcGVn.jpeg" alt="Cover for Ukiyo" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,12 +1131,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 67</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 97</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Ozirkeayl-l5z_wQBAQWYlHxae6vjh2BddAld3VsPEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTcx/Mjc0LTE2MDg1NTky/NTAtMjE0OC5qcGVn.jpeg" alt="Cover for Realities &amp; Fictions" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1155,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 3</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1183,7 +1202,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Q5dX0GxSoaFEJgHJoN5PtQBlldQST5dSshN4f77kk-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTcz/MDY0LTE2NDQ5NjQ4/NzktNDIzOS5qcGVn.jpeg" alt="Cover for Speed Tracks vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1223,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/dT1nChA1afizQ5ObzAU9wdUE87L7hKh60-UO0tfgCBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc0/NTg3LTE2MjI3NTg1/MTItNzQ5Mi5qcGVn.jpeg" alt="Cover for We Trip And Roll (Remixed)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14531bcfbbf81871618646a25edc564e.png" alt="Cover for We Trip And Roll (Remixed)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-04</td>
       <td>Lucinee</td>
@@ -1222,7 +1241,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/SNed2CFJuyHb-8gE4tIE_9IxJkg4E4GAV4YLVmwaBZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU4/MzMwLTE2MjQ1Mzcx/NTEtMjI0Mi5qcGVn.jpeg" alt="Cover for Burn Rate" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,12 +1257,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 88</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/doiW8lylNdPg4eC_TRMlCcnHLxL8MnyoetAEb3vR_DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg0/OTg1LTE2MjcxMjcx/OTUtOTc1Ni5qcGVn.jpeg" alt="Cover for Eternal Paradox" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1281,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/X4BQOAzisEtrD3t3fsFhP0uxwJsFaH9pouIB-_wChzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc2/Nzc1LTE2NzY5ODM5/MjMtMjYzMC5qcGVn.jpeg" alt="Cover for The Lord Of Terror EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,7 +1299,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2021-07-30</td>
@@ -1321,7 +1340,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/YX4ezPwjYK8gNuvr2GH76WfpWv1m010aiCA7-bwB3MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/ODQ4LTE2NDQ3NDk3/NTAtODM1NS5qcGVn.jpeg" alt="Cover for Undoing Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,8 +1375,8 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 16</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 17</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1400,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Htgq-g3IY1SwBGPLV35tE-4lcWPjA__cprnimfkiIhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTY4/MzE0LTE2NDM2NDQ3/NTEtOTM1MC5qcGVn.jpeg" alt="Cover for No Room for Doubt" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,12 +1438,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 47</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_RT9g-TgUwhpAHkPGx6k8F8H9WFWg-4JRpAp0_DK8O8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDMw/MDU3LTE2NDAwNzQ4/MTAtMjgxMC5qcGVn.jpeg" alt="Cover for Straight Sight EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,13 +1479,13 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 9</li>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Di3naP7fffSSFdbgbsmHLYTWX_llIO6sxKoPnXiVOe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg5/OTY4LTE2NjMxNTk5/OTQtMjc2Ni5qcGVn.jpeg" alt="Cover for Every Dog Has His Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1524,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/E47VX9HwYL1kQOqcYbCnEXXmJ60iiwsGtSJyH9bGtyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/Mzk0LTE3MjU4MjI0/MTktNTEzMC5qcGVn.jpeg" alt="Cover for HS09" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1541,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 61</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1543,12 +1562,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 7</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/CDAzmY15BUyGunMCmKnucUVWC-JAHJbGPezPqdDpYpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzM5/NzMwLTE3MzIxMjc1/MjgtNjcxNi5qcGVn.jpeg" alt="Cover for Уральский Сквирт" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,12 +1622,12 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 55</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 57</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/bRpMUXBWsULA22pj4ieZ5FhFZX4t8Igo62yIttZpDpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY5/NjcwLTE2NjMwODQ2/OTUtMTgzMC5qcGVn.jpeg" alt="Cover for Apocalyptic Decadence" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1646,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/JdIWHog8f5DgkhBXF8R5RgUlEV-UhMNXDoFpWY8xQVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY4/MzM5LTE2NzY5MTE3/NzMtMjAxMS5qcGVn.jpeg" alt="Cover for Talisman Of Aranoch" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,7 +1702,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 52</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1706,7 +1725,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 56</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1730,37 +1749,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg" alt="Cover for 777" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-12-31</td>
-      <td>maniken05</td>
-      <td>777</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 37</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/3b_FJwVnviX0wb26KZhtiNog6Yex-kBMxK7tKXvpOUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc3/NDMwLTE2NzU0Mjk5/ODAtMzg5Ni5qcGVn.jpeg" alt="Cover for Tape dans la tête" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,7 +1764,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 8</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1797,7 +1786,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 20</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 79</li>
         </ul>
       </td>
@@ -1827,7 +1816,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/fUYaoAgzxOFDr4qzxDgiHR2w2ZFi4sJ4kR2xti-GFJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYx/NDAxLTE2NjM1NzQ5/ODEtNzY1OC5qcGVn.jpeg" alt="Cover for XO" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1862,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/pxTaiRKvsXWUkXNsvgCBlEyBWDywBt4lUyXoD5pQfLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc0/NDE1LTE2ODkzNTM5/NjItNDU1Ny5qcGVn.jpeg" alt="Cover for You Are My Guide" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1878,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 25</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1940,7 +1929,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/oOr6mJ9FjfybU8cL9LBoQveZxkA3CP6J6Otnro744Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM1/ODY4LTE3MjkyNTMz/NzMtNjU4Mi5qcGVn.jpeg" alt="Cover for Beat Your Brain" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,7 +1946,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 64</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 66</li>
             <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 91</li>
         </ul>
       </td>
@@ -1984,7 +1973,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
         <ul>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 84</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 86</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 95</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2048,7 +2037,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 68</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2096,7 +2085,7 @@ Hard techno is an aggressive, high-energy evolution of techno characterized by p
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/epjGwvWoxMbYUQPGEAZgw0GM7oEnZ3sfDyTBnSXoR9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MjM0LTE3Mjg3MDIz/NTUtOTYzNi5qcGVn.jpeg" alt="Cover for Hype Boy" style="max-width:120px; height:auto;" />
       </td>

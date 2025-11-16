@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T23:23:50.142Z
+date: 2025-11-16T08:17:25.276Z
 permalink: tags/memphis-rap
 title: memphis rap
 ---
 
 ## memphis rap
 
-Last updated: <time datetime="2025-11-14T23:23:50.142Z">Sat Nov 15 2025 01:23:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T08:17:25.276Z">Sun Nov 16 2025 10:17:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1993</td>
@@ -46,7 +46,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ac03f4187a5677cb2f9015faa42472.png" alt="Cover for Every Dog Has Its Day" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +73,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df965bcd47c12b3dd5141ab95a9bdd5b.png" alt="Cover for The Devil&#39;s Playground" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e0f9db1f0172bad462e28fefba13fe4.png" alt="Cover for Ashes II Ashes, Dust II Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e924b9c388ba00fab0ff0b944ab71f9f.png" alt="Cover for Ashes 2 Ashes, Dust 2 Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/vFFn6_UejEo89jW3C8X7aNFQ055TzOF8MeSW8kQGqYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc1/NC0xNjY3ODIxNTU3/LTIyMTMuanBlZw.jpeg" alt="Cover for On Top Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +149,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/71RTjmrzbGK9AMCxPNuWGpsEbeCVYzPT-31aDMM0Hc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDE1/Ny0xNDY4MzYwNjY1/LTIzNTUucG5n.jpeg" alt="Cover for Live By Yo Rep(Bone Dis)" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1995</td>
@@ -190,7 +190,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1995</td>
@@ -207,7 +207,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/4bYae5BByeaurcrf28fRlOhLM72b8GfH1d_e6A1hlWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjk3/NTYtMTQyMzQyOTk3/MC00NTEzLmpwZWc.jpeg" alt="Cover for The Havoc" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +226,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>1995</td>
@@ -299,7 +299,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>1996</td>
@@ -316,7 +316,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/7T4Hb0ru7RdsgeMECLyjesoohpotrLNL1UaF-0HmsrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDkz/OC0xMzQwMTcwNzk5/LTUzMTQuanBlZw.jpeg" alt="Cover for King Of Da Playaz Ball" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>1996-11-05</td>
@@ -351,7 +351,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/IOpggRSZRuSUfP4-F4LDat5Dfv-nJgLETdjJU8cSnmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYy/MC0xMzYyNzIyNzY3/LTM1ODMuanBlZw.jpeg" alt="Cover for Homicidal Lifestyle" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +374,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6122e39fb9974cc6b60feb885d1ef534.png" alt="Cover for The End" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +392,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52bee21a16dd63ef928d6561f9805386.png" alt="Cover for No More Glory" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +451,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>1999-10-26</td>
@@ -469,7 +469,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5af0bf74332f98da7aab4b006b5c24f4.png" alt="Cover for When the Smoke Clears: Sixty 6, Sixty 1" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +514,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>2002</td>
@@ -557,7 +557,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td>2005-01-01</td>
@@ -576,9 +576,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/uMxb6iSn5knpV_HmqG1YqdwTb83hSKUPyDq5xYWv0EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYx/NzMtMTIxNDI0MDk4/NS5qcGVn.jpeg" alt="Cover for Underground Vol. I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7da37c4aba4c74451cd8f069fcf2da.png" alt="Cover for Underground Vol. I" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-15</td>
       <td>Three 6 Mafia</td>
@@ -598,7 +598,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/g-lxI0MBgDew4S7Ep9cYU4YzhfJZGf0I0JuydqR6N7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODc3/Ni0xNTEzMzIxMjUz/LTMyMDUuanBlZw.jpeg" alt="Cover for Underground Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +620,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/5WGKamWJEubVJb2Eqxr-kfgC8ofJC_G7k95vu-Lz_IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/MjQtMTY2Mzk5NzM4/MS0yNjY5LmpwZWc.jpeg" alt="Cover for The Return: Part 1" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +641,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaca3dd76d565a07560d88dcd4659d22.png" alt="Cover for What Cha Starin&#39; At? Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -656,13 +656,13 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 15</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 25</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 26</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bad5104edd1826fa0f6f67786130a070.png" alt="Cover for Walkin&#39; Bank Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -682,12 +682,12 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 29</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/6wID1QLRNHKLithr3IkzSWpunA-Md5FZDJSLWdQWt1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzg3/ODQtMTM5MzUzNjE0/OS01NzI1LnBuZw.jpeg" alt="Cover for It&#39;s Whateva" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +707,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/4HKD5glFmHAMm_SmZAu5LtkOng3hF07IzzYzSKoGV24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzEx/NzUtMTI4OTA3NTE5/Mi5qcGVn.jpeg" alt="Cover for Runnin-N-Gunnin" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +726,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2009-06-16</td>
@@ -743,7 +743,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d23c072d5ad4ab2b01713b54b3825a5.png" alt="Cover for The Takeova" style="max-width:120px; height:auto;" />
       </td>
@@ -781,14 +781,14 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 14</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 50</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 89</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/a-3nQU2HANVKZ5D9UTlZ3WcBffqioXxfEpKLR-a-l-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODYz/NjEtMTMwNTcwNjgy/My5qcGVn.jpeg" alt="Cover for UG-Solo" style="max-width:120px; height:auto;" />
       </td>
@@ -806,23 +806,20 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/rfU4Gt_xbcoL5lihey7aRxeIAc6JD3TOEyv8C2EMm6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTE5/MTEtMTQ2NzM1ODM0/OC00MDQyLmpwZWc.jpeg" alt="Cover for Mysterious Phonk: The Chronicles of Spaceghostpurrp (Bonus Track Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e1a0a7aced542df9d4b9d0fb8cbe49b.png" alt="Cover for Mysterious Phonk: The Chronicles of Spaceghostpurrp (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-27</td>
       <td>SpaceGhostPurrp</td>
       <td>Mysterious Phonk: The Chronicles of Spaceghostpurrp (Bonus Track Version)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
         </ul>
       </td>
       <td>
@@ -846,18 +843,18 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 86</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/5DOTn6zfKMfTn30Fkkma5-wlb22zmTv2WG5_0RLMHpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODIy/NTc1LTE1NDI2Mjkx/ODUtMzk1Ni5qcGVn.jpeg" alt="Cover for Black Rain Entertainment Presents: Tha Crucifixtion" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +891,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/KOU9N2zGYgDbpdUsNlf7JR5BBKYJUyO0JNO0CfI5o-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTky/OTAwLTE2MzcwMDUy/MjUtOTg0Ny5qcGVn.jpeg" alt="Cover for Evil Wayz" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +909,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0015ce10f464b1e7376394c45b4b727.png" alt="Cover for Nostalgic 64" style="max-width:120px; height:auto;" />
       </td>
@@ -930,25 +927,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>2013-10-31</td>
-      <td>Raider Klan</td>
-      <td>Tales from the Underground</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Hc-cqQ5XK7a3mPGlfq6s6FnKkQ6m8mFjg_08wOqe_-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjMx/MDktMTQwMTk4MDIy/Mi0yMzc0LmpwZWc.jpeg" alt="Cover for 6ix Commandments" style="max-width:120px; height:auto;" />
       </td>
@@ -968,9 +947,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/4ttPkP3rUDqAZuW0w1bSuZfRlz-MqGk92hWwKryB8Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTEw/MzQtMTQ1MzM3MDky/OS04NTA0LmpwZWc.jpeg" alt="Cover for Oblivion Access" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c24ded825ba87f7e7225585fc511e9.png" alt="Cover for Oblivion Access" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Lil Ugly Mane</td>
@@ -983,8 +962,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 61</li>
         </ul>
       </td>
@@ -1009,7 +988,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 21</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 92</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
@@ -1017,7 +996,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1887000be72894b198af89dc5bac48.png" alt="Cover for THIRD SIDE OF TAPE" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1009,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 73</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 75</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 86</li>
         </ul>
       </td>
@@ -1054,7 +1033,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/mMQdMEQKyo1wgSjs7tIlVip4tyQjnvFns6YQXIfnsWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk2/MjgtMTQzMzAwMTc5/My01NDQxLmpwZWc.jpeg" alt="Cover for Rvidxxr Klvn Presents : 2.7.5. Greatest Hits Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1055,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73f67a005100a19d058a49bc72439b9c.png" alt="Cover for TRICK DICE" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,9 +1094,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 3</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 56</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 60</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 71</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 85</li>
         </ul>
@@ -1149,7 +1128,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/5nWUWpJ5EBnjEFb4uiT_Rt4sTWC-2y5bRcVu3hByR0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/NjM1LTE1MzQxNDE5/MDAtNjIxNi5qcGVn.jpeg" alt="Cover for Land Of GothGhanistan" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1165,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
         <ul>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 37</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 41</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 60</li>
         </ul>
       </td>
@@ -1209,12 +1188,13 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 83</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 10</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b57b83aebe7af662b6d0d8b177d26dd2.png" alt="Cover for 901 Fm" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1214,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/pEIEYCxw_ApCUcn7rVfJcis6kKyvhoPRcbQb4p834Do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/MzEzLTE1MjMzNDA4/MDQtNTEwNS5qcGVn.jpeg" alt="Cover for Underground Vol. 16: For da Summa" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1265,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c8cfcb568d05ae7775f2a372474861c.png" alt="Cover for KILL YOURSELF PART XII: The Dark Glacier Saga" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1278,6 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 83</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 85</li>
         </ul>
       </td>
@@ -1389,7 +1368,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c9f790b284b9e6e74119a9ad1e89e68.png" alt="Cover for FINAL BOSS" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,9 +1377,6 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>FINAL BOSS</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
@@ -1409,7 +1385,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e004a4f8559f2b98fa2ae4138f2e384.png" alt="Cover for Blue Light Cemetary 1995" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1404,26 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a047e1b66cf8a6dcdad485f167717b5.png" alt="Cover for Dungeon Rap: The Introduction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-01</td>
+      <td>DJ Armok</td>
+      <td>Dungeon Rap: The Introduction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/207505a7514d8d1cf77944b81ee4c3ab.png" alt="Cover for Skinny but Dangerous" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1442,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/SpMCOSU15Gl8MEyUn-f6gRh663zNb4LM4KIp26KSKMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUz/MjIzLTE2NjYwMTc1/NzQtMTY0My5qcGVn.jpeg" alt="Cover for SAVAGE MODE II [CHOPPED NOT SLOPPED]" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1464,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/782bb58dfdab04e99bc765f92730790e.png" alt="Cover for FREE THE BEAST" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,15 +1521,15 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 15</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 47</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 17</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 54</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c01103e718dcb13f231abfd000067c4e.png" alt="Cover for THE FATAL STING" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,7 +1581,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/KqvMJBxwgFDlOzmf5a9Z2cEKYrGMHeOuffr1lfo21Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQz/NDAxLTE2NDYxMTQ5/NTgtNjkwNS5qcGVn.jpeg" alt="Cover for CHAIN OF COMMAND" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1607,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/B1eufsJyF8RnzSjH3CG3K-CkrK19JmmjgJBELMmkc3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg4/MTkwLTE2NTE2NzI0/NzAtMjE5Ni5qcGVn.jpeg" alt="Cover for BLVCKLVND RVDIX 66.6" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11b2a756af0a28984270758dd88dd8d5.png" alt="Cover for BLVCKLVND RVDIX 66.6" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-01</td>
       <td>SpaceGhostPurrp</td>
@@ -1629,7 +1624,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5320fc05f2783387f94ce82a0918c52d.png" alt="Cover for Phonkageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,12 +1638,12 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>
         <ul>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 2</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 7</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/IVWBvRsM3cJHLtKWLWEgSRQJT-okdFkTXXC2Csr2Sgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQ2/ODYzLTE2NTU4MTQ2/MzItNDkwMS5wbmc.jpeg" alt="Cover for Wifi Klan Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1662,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/EF6C1wEv0kkyFBSiuGjKZGn4Ngraylfd_BnMZw8d9Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc5/NDMzLTE2Njg1NzU2/MDgtNTU5Ny5qcGVn.jpeg" alt="Cover for Flexican Mayor" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,7 +1683,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b2a53b5057d96216217e90aed350794.png" alt="Cover for SLEEPER &#x2F; SICKO" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1705,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/n3KtRIz-ZPDucGLGTmxiaH6MSL39EwsSjS61RbX2Vc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTYy/NTc3LTE2OTE5Mzg3/NjItMzQ3Ni5qcGVn.jpeg" alt="Cover for PHONKER" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1723,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/dPxe6mpKvdALR3ji7CQ80Jzn8JFCroKEMMUdTJt-BYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjA5/NTQtMTM1NTk2ODg2/NS0zMzY2LmpwZWc.jpeg" alt="Cover for Uneven Compromise - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,13 +1796,13 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 56</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1827,7 +1822,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/902c815119c47d30706c19d7f84992fa.png" alt="Cover for BLVCKLVND Rvdix 66.6 (Remastered 2023)" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1846,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/756325bc6d8529bf8ec6a758e12bd378.png" alt="Cover for Grey Sheep II" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1859,6 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 7</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 26</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 54</li>
         </ul>
@@ -1885,9 +1879,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 23</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 24</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 44</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1956,7 +1950,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/068b12d3fe1bef53097c9d7c2b37c62c.png" alt="Cover for pos 1 aggressive" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,7 +1969,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1994,7 +1988,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2015,7 +2009,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2033,7 +2027,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2073,7 +2067,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45959151ead1a9431e6a67097261ff36.png" alt="Cover for Please Don&#39;t Wake Me, I Am Exhausted" style="max-width:120px; height:auto;" />
       </td>
