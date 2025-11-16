@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T13:43:05.833Z
+date: 2025-11-16T08:58:33.375Z
 permalink: tags/european-jazz
 title: european jazz
 ---
 
 ## european jazz
 
-Last updated: <time datetime="2025-10-22T13:43:05.833Z">Wed Oct 22 2025 16:43:05 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-16T08:58:33.375Z">Sun Nov 16 2025 10:58:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 50</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -145,7 +145,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/X1fV-U99VZ8ijxNrpc0ow6Ojj43oY5Fzbhz6A8vCmhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/ODItMTM2NjY2NjEz/Mi02OTU5LmpwZWc.jpeg" alt="Cover for Secret Laughs" style="max-width:120px; height:auto;" />
       </td>
@@ -333,7 +333,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Rey0XUmvzgvGkn2bW2czlAHlcEwJfkH3HBPF81R16VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTE3/MTctMTY4MzExMzc2/Ni05MjkwLmpwZWc.jpeg" alt="Cover for Clarinet Calligraphy" style="max-width:120px; height:auto;" />
       </td>
@@ -410,6 +410,24 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecae7a39ad1e4bb4baef2068c367984e.png" alt="Cover for Frifot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Frifot</td>
+      <td>Frifot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>90</td>
       <td>
       </td>
@@ -445,7 +463,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/HRpyDS8cfzJJuuRyTinMrbkVFs3c9Mia1cNA2u8EU68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjIx/MDAtMTQ2MDEyOTUz/NC02MjI4LmpwZWc.jpeg" alt="Cover for Nahend" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +576,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/JWQJ3EkjesRqS4qWWNLtsqW0qH7emVih_1yBuwj49Uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTYz/NzMtMTY5MDcxMzk3/MC01Njk4LmpwZWc.jpeg" alt="Cover for Ostinato (Piano solo)" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +598,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/OakzT7ovql3nNB1eFWM3Py8R_ItR6ygeiC6MKSWBv0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODM3/NjUtMTY2ODcxODA3/Ny0xNjgwLmpwZWc.jpeg" alt="Cover for An Italian Affair" style="max-width:120px; height:auto;" />
       </td>
@@ -650,25 +668,6 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/FrIIxXe5y9LM0e_gey_u1C4eRq4D26xQZg3qSnMbzXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDIz/NjE3LTE2MTExODI3/MjAtNDQ5NC5qcGVn.jpeg" alt="Cover for Song Of India" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Wolfgang Fuhr</td>
-      <td>Song Of India</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a></li>
         </ul>
       </td>
       <td>
@@ -772,7 +771,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/GunsmF_B_GWabW3D7uKn8JvUhke7wHH8Vt3ppDYBXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA1/MDE1LTE2NDk0MDky/MTktODY3Mi5qcGVn.jpeg" alt="Cover for All John" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1102,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/J1ifEwu552LTNeSHrpFfXBuf8LfUepLCDUAiMJg9cE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/MjkyLTE2MzU2ODE3/MjYtMjU3NC5qcGVn.jpeg" alt="Cover for Porta del Vento" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1241,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/cvzGSvClxbsAevLDazQDM5CtEV7LZdktxf2eh1mky88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzgy/OTgtMTQ3NjMwMDQz/NC02NDg1LmpwZWc.jpeg" alt="Cover for L&#39;enfer, en trois mouvements" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,9 +1441,9 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 7</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 37</li>
             <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 47</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 88</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1471,10 +1470,10 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 35</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 38</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 34</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 37</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1500,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/J1Ggg3yM05NFnsP4wClAvXScIfz4Y8tZs7QIEUWrZLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTgx/MDU0LTE2MDg2MDcw/NjQtOTA3MS5qcGVn.jpeg" alt="Cover for Blindfold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/438527157c84416d9fb501daf8d89e27.png" alt="Cover for Blindfold" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12</td>
       <td>Kvalda</td>
@@ -1641,7 +1640,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1669,7 +1668,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1689,7 +1688,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1707,7 +1706,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1725,7 +1724,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>

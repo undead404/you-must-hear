@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T13:04:22.620Z
+date: 2025-11-16T08:24:41.129Z
 permalink: tags/mother
 title: mother
 ---
 
 ## mother
 
-Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
   </thead>
   <tbody>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/VF-SIusOeEj4VeX00wQJjRJa8mtyRZ1UGECSSky7EWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzM1/NDUtMTQ2NTU3NDk4/NC0yMjk2LmpwZWc.jpeg" alt="Cover for I Don’t Search I Find (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/523MHUKgDEXhUPmmx9VXk76CAmeXSkDuo6JOstsMIug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTc1/OTQtMTMzMzgxODk4/MS5qcGVn.jpeg" alt="Cover for Lucky Star (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/z2PpDoEeP16Z1Mzvmklwp3iJG81hHp0bRCYIDyWIMDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA5/NTgtMTYwMDc3MjI2/NS04NzQwLmpwZWc.jpeg" alt="Cover for Material Girl (2024 Remaster) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -88,9 +88,9 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/KJ89lUD46Gc5QxuGVMyHiddsLRE3XiC70cup4UzhE1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/NzgtMTI5NzYyMzcx/MC5qcGVn.jpeg" alt="Cover for Material Girl (2024 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68ff9924c5f15930f1ccf303defba622.png" alt="Cover for Material Girl (2024 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-03-10</td>
       <td>Madonna</td>
@@ -128,7 +128,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/lzZkyerqTbirtHXyKnB35CZpqfdhnw8wvammKUhVUWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg2/NTUtMTUxODM0MTgz/MS01NDEwLmpwZWc.jpeg" alt="Cover for Love Don&#39;t Live Here Anymore (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +168,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/tqQTnnlQTrExDQmKMmfr4iXwEtg0EUlEQgKZlOtLNdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjE2/NzgtMTUyNDM5ODg5/MS0xOTY5LmpwZWc.jpeg" alt="Cover for What It Feels Like For A Girl (Remixes) - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/S_5rpx-uWFfL80zW3-czCSzurXNZx4uzuN2GsE9uCag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE3/MC0xNTg2NzcyMzM5/LTQwMzMuanBlZw.jpeg" alt="Cover for Evita (Music from the Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +225,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/DtbrdE7zio4hA6YssQUjVCPxwYavcu7_wh3J54LpUmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY5/NDctMTI0NjgwMjMy/MS5qcGVn.jpeg" alt="Cover for Express Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -243,8 +243,9 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/106fbc0b83ea3aea2fa9fc6898d3e31c.png" alt="Cover for Cherish" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-09-04</td>
       <td>Madonna</td>
@@ -261,7 +262,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1990-01-30</td>
@@ -274,6 +275,26 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44dbcb0108005c6391cc464c7ff14b76.png" alt="Cover for Vogue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-03-20</td>
+      <td>Madonna</td>
+      <td>Vogue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -318,7 +339,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/4Pq-GnyyLv_gKbv3ZBTQIDgHOcLKxrV01porQwFQO7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzYw/MTA2LTE2MDk2Njky/ODktNzgxNS5qcGVn.jpeg" alt="Cover for I Rise (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +359,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/bkE4XZ_uQCrUBcfDM5NjmRdq2Rc7CJBHyNOOOCqPDck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc3/OC0xNjE2NzU0MDU1/LTQ5MTcuanBlZw.jpeg" alt="Cover for Hollywood (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +399,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/JdszE7-ml6nJ7ha3gA8FR_5arXMYG1DurCLeo8etbG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjc0/OTktMTM3NjA3MzA2/OC00Nzk4LmpwZWc.jpeg" alt="Cover for Hung Up on Tokischa" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +417,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/_ysI7jGzVOR7xPh6Com3H93w0tvoRdw0Q4NkHRjqFRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAw/MzgtMTQxMDc5MjMy/NC00NjQ3LmpwZWc.jpeg" alt="Cover for Madonna (reissue)" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +457,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg" alt="Cover for The Power Of Good-Bye (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b24729931b8cd0b7cf3edf8abdab408.png" alt="Cover for The Power Of Good-Bye (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Madonna</td>
@@ -454,7 +475,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg" alt="Cover for Justify My Love (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +495,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/7EZmAr5HwN5AwA0jc6z48qjRhaycwIBbbiMExNrF-Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYw/OTYzLTE1MDQ0ODgz/ODktMTU2MS5qcGVn.jpeg" alt="Cover for Burning Up &#x2F; Physical Attraction" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +515,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/YKJG_xByoJ7BMhE44bytSVhR--UqtWQdN3Z-7NaLpho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTg1/NTktMTQzNDEyNjg5/OC02MzU5LmpwZWc.jpeg" alt="Cover for Give Me All Your Luvin&#39; (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2400a60c00fc43a3bd39800a21e6e158.png" alt="Cover for Give Me All Your Luvin&#39; (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Madonna</td>
@@ -515,7 +536,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/6D0iGkCPIn0wHxKCFB143eHlKLxEKbr-fjrTbAkOt1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjY4/NTQtMTQyNjE4OTIw/MS03MTQ0LmpwZWc.jpeg" alt="Cover for Celebration (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +554,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/s_Ca5vg9RHP4BVkFHYWUmdeputmBCjOPSO9E__2f9k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzAz/NzktMTI0NTYwNDg2/MC5qcGVn.jpeg" alt="Cover for You Can Dance (Single Edits)" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +572,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2000-09</td>
@@ -590,7 +611,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/fZOd5aO8yc4b-ejSWHhd08-vLEXUXowWXW4fNcx3iDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDA4/MzEtMTQ0OTkzNDg3/MS02NDE1LmpwZWc.jpeg" alt="Cover for Celebration (feat. Akon)" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +684,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/VF-SIusOeEj4VeX00wQJjRJa8mtyRZ1UGECSSky7EWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzM1/NDUtMTQ2NTU3NDk4/NC0yMjk2LmpwZWc.jpeg" alt="Cover for Bitch i&#39;m Madonna (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +702,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/iZ98EEIz6qlBpxBBgSyEX8CIgC_82kO9l7OgxyfNbwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc3/MzMyLTE1NDU3Mzc5/NTgtNzYwMS5qcGVn.jpeg" alt="Cover for Rebel Heart Tour (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -699,9 +720,9 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/c72FvYP5aaOMn3vCL7-vsMwA0mrJ9bRSjScFfDLKaiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU0/ODY1LTE1NDUyNTQy/ODItNTczOC5qcGVn.jpeg" alt="Cover for MATERIAL GWORRLLLLLLLL!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f9de1384d3617753e6c37a7e1c8fa51.png" alt="Cover for MATERIAL GWORRLLLLLLLL!" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Madonna</td>
@@ -717,7 +738,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/IXNy_0aLJlvY2wb-NLLrw0LPg3kuK6GeiREMjs4G_Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYy/MTI0LTE1NjA1NjU5/MzQtMTcxOC5qcGVn.jpeg" alt="Cover for Back That Up To The Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -735,7 +756,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2001-11-09</td>
@@ -751,7 +772,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2003</td>
@@ -768,7 +789,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2003</td>
@@ -804,7 +825,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/7RPN2VcZRiJRJeWx6M5-IOFIr2GmWk44fVkaa_aRGr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NTMzLTE1MTk0NTEy/NTMtNDM5OS5qcGVn.jpeg" alt="Cover for Deeper And Deeper (David&#39;s Radio Edit) [2022 Remaster]" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +843,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2005-11-11</td>
@@ -840,7 +861,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/aAUpj3gUmR4qoM-lZNy68t7vHjggioiwAe6iBJW1wLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgw/NzAtMTUyODgzNDk5/OS03NjEwLmpwZWc.jpeg" alt="Cover for Evita: The Complete Motion Picture Music Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +881,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007-01</td>
@@ -877,7 +898,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2007-05-16</td>
@@ -897,7 +918,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
       </td>
       <td>2007-07-05</td>
@@ -915,7 +936,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/nagX8aJiO3CLSpr15WKMo7z8DI3Tmywngbpz-XM8K2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcx/MzQtMTM3NTgzNzc1/My00NzI5LmpwZWc.jpeg" alt="Cover for Treehouse &amp; Mother Tongue (Robjn Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +960,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/mTK1YAZh9J5YXHZ9m8dOmq5mM2p90dhM54Dqqlnxid0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI2/NjU3LTE2MTA2NDU4/MjEtOTA2MS5qcGVn.jpeg" alt="Cover for Gaga Daily" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,7 +1038,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg" alt="Cover for American Life (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1058,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/SHI6RmU7GvQd5HHGUhBxA9uhC9_vTD9I54hM494s4RU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTIz/MjAtMTQ5MDY2NzI1/MC0zMTA5LmpwZWc.jpeg" alt="Cover for Finally Enough Love: 50 Number Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1097,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/AOenbdA5fIJh_dDrwT4V5A_Q1qJcemiMq9hkNPmuBk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIz/MzE1LTE2NDY2Nzcz/NDQtNzc3Ny5qcGVn.jpeg" alt="Cover for Back That Up To The Beat - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,7 +1115,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/YKJG_xByoJ7BMhE44bytSVhR--UqtWQdN3Z-7NaLpho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTg1/NTktMTQzNDEyNjg5/OC02MzU5LmpwZWc.jpeg" alt="Cover for Ray of Light (Single Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1133,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/EcdQR_0NZdKbHZK-xHg5YmWtAerUg5GhjiEcZVKKt0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTM0/MjAtMTQxOTk5OTg2/Mi00NTA3LmpwZWc.jpeg" alt="Cover for Like A Prayer (30th Anniversary)" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1191,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
       </td>
       <td>2011-09-20</td>
@@ -1188,7 +1209,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2012-03-26</td>
@@ -1205,7 +1226,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/PEq5O9UxV7_BAsquXi12Hl-kUYlIVgMw1VVahII6_V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTg4/NzgtMTUwNzM1MzUz/OS00MTMzLmpwZWc.jpeg" alt="Cover for Sorry (DJ Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,7 +1336,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/P09J0Jcuk7NU6mS1R0ZUZrJiKRa_NwRjlNiyX4Y4mDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzU3/OTAtMTQyNTU4MzI3/NS03NTMzLmpwZWc.jpeg" alt="Cover for Rebel Heart (Super Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1354,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/qTXeAxeIhuwg8tJbUSpcUsSY0GeJTiv3okULyvrESG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjY1/MzgtMTQ4NzYxOTgx/NC0zMDkwLmpwZWc.jpeg" alt="Cover for True Blue (35th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1373,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/Q-sWL9UL-dy-HFGT97baOsTGSBS54lcK5B13h6dlJdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDMy/MTctMTQyMzc5NzU0/MS0yODk5LmpwZWc.jpeg" alt="Cover for Nothing Really Matters (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,8 +1393,9 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65177924170eb62344e723a7b9d41f4e.png" alt="Cover for THE ALCHEMIST" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-02</td>
       <td>Qveen Herby</td>
@@ -1392,7 +1414,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
       </td>
       <td>2019</td>
@@ -1430,7 +1452,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/X_Xt9oFhwMuRU2BAfdB2aeWoR0cAuUmXF0jtIO8M5pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEy/ODM5LTE2OTI0MDYx/NzMtOTE4My5qcGVn.jpeg" alt="Cover for Unreleased" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff636d7f14671d190b26143dd62ebf52.png" alt="Cover for Unreleased" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-18</td>
       <td>Addison Rae</td>
@@ -1461,7 +1483,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 67</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1484,7 +1506,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2022-03-03</td>
@@ -1537,7 +1559,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2022-05-19</td>
@@ -1592,7 +1614,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/F1UeSclhK0yDusvYf0J8GjevkrnIDgAtekF_L9-ozFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA1/NDc5LTE2ODc2MjU3/OTQtMzIzNC5qcGVn.jpeg" alt="Cover for MATERIAL GWORRLLLLLLLL! - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a08e7532b6055b6b1c5b6e43e9ac40b.png" alt="Cover for MATERIAL GWORRLLLLLLLL! - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-05</td>
       <td>Madonna &amp; Saucy Santana</td>
@@ -1628,7 +1650,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/cORKMk_wIO9MnR87t93xYEKnBKJLFFMthnjIxbtdbQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE1/NTE0LTE2NzQ4NDA0/ODYtNTE2NC5qcGVn.jpeg" alt="Cover for BREAK MY SOUL (THE QUEENS REMIX) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,23 +1660,6 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mother" | relative_url }}">mother</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2022-09-16</td>
-      <td>Madonna &amp; Tokischa</td>
-      <td>Hung Up on Tokischa</td>
-      <td>
-        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mother" | relative_url }}">mother</a></li>
         </ul>
       </td>
@@ -1699,7 +1704,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
       </td>
       <td>2023-06-09</td>
@@ -1716,41 +1721,28 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg" alt="Cover for AR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6ae145428bde533606e5cf89912c0fd.png" alt="Cover for AR" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-18</td>
       <td>Addison Rae</td>
       <td>AR</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mother" | relative_url }}">mother</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 19</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 56</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 95</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 95</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
       </td>
       <td>2023-09-23</td>
@@ -1767,9 +1759,9 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/VDQoC2FWmIv2PPOn4CjCxraU8Nzy4YY4BQW3spOfMQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk2/OTc1LTE1NzM2ODM0/OTEtODA2OC5qcGVn.jpeg" alt="Cover for HEADSPLIT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e3851640419792a95a2b729a7f860b.png" alt="Cover for HEADSPLIT" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-08</td>
       <td>Maggie Lindemann</td>
@@ -1791,18 +1783,18 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 9</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 34</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 69</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/RlpJ2xQ66QOyfOhi_RQ6fPYa3Eh2B7B3zuVz8eXhKCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDMz/NTcxLTE3MTM0NTUy/NTItODkzOS5qcGVn.jpeg" alt="Cover for Radical Optimism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f2035c855ce3e5c53f2f908a5dc9d5c.png" alt="Cover for Radical Optimism" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Dua Lipa</td>
@@ -1814,22 +1806,21 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 30</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 67</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 40</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a561e44d8ef4fd967325007a7cfe360.png" alt="Cover for My Everything - Tenth Anniversary Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-22</td>
       <td>Ariana Grande</td>
       <td>My Everything - Tenth Anniversary Edition</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mother" | relative_url }}">mother</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1838,7 +1829,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1858,7 +1849,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1876,7 +1867,7 @@ Last updated: <time datetime="2025-10-22T13:04:22.620Z">Wed Oct 22 2025 16:04:22
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
