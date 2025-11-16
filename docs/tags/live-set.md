@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T00:45:30.656Z
+date: 2025-11-16T12:46:55.104Z
 permalink: tags/live-set
 title: live set
 ---
 
 ## live set
 
-Last updated: <time datetime="2025-11-15T00:45:30.656Z">Sat Nov 15 2025 02:45:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T12:46:55.104Z">Sun Nov 16 2025 14:46:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -2261,7 +2261,7 @@ A live set in music typically refers to a performance by a musician or group of 
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/megMgNna9Uv-dbN2uCT5fVzJzyaFFHlq7mHgh9EeE7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI2/OTgtMTE5NzI1MDE4/Mi5qcGVn.jpeg" alt="Cover for Mixotic 113 - Christoph Schindling - Weekender" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cc0494d94c1e2025d4377663bf5a1f2.png" alt="Cover for Mixotic 113 - Christoph Schindling - Weekender" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-09</td>
       <td>Christoph Schindling</td>
@@ -2636,15 +2636,11 @@ A live set in music typically refers to a performance by a musician or group of 
       <td>
       </td>
       <td></td>
-      <td>DJ Chris K:ay</td>
-      <td>Infinity Mixes</td>
+      <td>DJ Niaero</td>
+      <td>Live Set</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
         </ul>
       </td>
       <td>
@@ -2655,6 +2651,7 @@ A live set in music typically refers to a performance by a musician or group of 
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dcadb2e9ad64b1b9ca8fe9faa7ce245.png" alt="Cover for Ashok&#39;s Birthday Set" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>MORΛBITO</td>

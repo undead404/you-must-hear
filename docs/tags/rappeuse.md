@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T00:46:06.124Z
+date: 2025-11-16T12:47:31.167Z
 permalink: tags/rappeuse
 title: rappeuse
 ---
 
 ## rappeuse
 
-Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T12:47:31.167Z">Sun Nov 16 2025 14:47:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -135,13 +135,13 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a3b5fa06efe99d3c360762ad96389a.png" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4ae4d63877f0c7983477127495a0c.png" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
-      <td>Seule (Nouvelle École) - Single</td>
+      <td>Tous à Table - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -164,11 +164,11 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
     <tr>
       <td>8</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4ae4d63877f0c7983477127495a0c.png" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a3b5fa06efe99d3c360762ad96389a.png" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
-      <td>Tous à Table - Single</td>
+      <td>Seule (Nouvelle École) - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -355,7 +355,7 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/723e7ca5b31e4cd5430f6c7ab655c144.png" alt="Cover for JSPR - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +682,7 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4210e267650461ca5df4554a65e8f3b.png" alt="Cover for Garçon manqué, fille manquante - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1419,7 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a639dc99e6f17a9af7f97dacb2cbf1c7.png" alt="Cover for Leçon - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,11 +1448,11 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
     <tr>
       <td>12</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fcd50b7807a2c96aa2c2544ccb1bc7.png" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e04b78d62c226f150ac720d51d03dc9.png" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>Mission - Single</td>
+      <td>96 - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1475,11 +1475,11 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
     <tr>
       <td>13</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e04b78d62c226f150ac720d51d03dc9.png" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fcd50b7807a2c96aa2c2544ccb1bc7.png" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>96 - Single</td>
+      <td>Mission - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1919,7 +1919,7 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55641f3279ff5ac32a059f9b85b2ed98.png" alt="Cover for Verrouillé - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1947,7 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad92c8f699f032447324d113eb7d53ab.png" alt="Cover for Bébéfleur - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2066,34 +2066,6 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
       <td>2021-04-23</td>
       <td>Cœur</td>
       <td>Chrysanthème</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/cQjfkSKlJQtQK_L_VwvK6sTQMK7oxUXe9XuHLk2Za4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEx/ODA3LTE2Mzg1Mzk3/NjgtODQwOS5qcGVn.jpeg" alt="Cover for Loving V [Explicit]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-11</td>
-      <td>Cœur</td>
-      <td>Loving V [Explicit]</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
@@ -2555,6 +2527,23 @@ Last updated: <time datetime="2025-11-15T00:46:06.124Z">Sat Nov 15 2025 02:46:06
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 13</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 58</li>
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ly Styll</td>
+      <td>Jeanne d&#39;Arc</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
