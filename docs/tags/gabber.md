@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T08:21:51.068Z
+date: 2025-11-17T13:09:39.309Z
 permalink: tags/gabber
 title: gabber
 ---
 
 ## gabber
 
-Last updated: <time datetime="2025-11-03T08:21:51.068Z">Mon Nov 03 2025 10:21:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T13:09:39.309Z">Mon Nov 17 2025 15:09:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1977</td>
@@ -66,7 +66,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Masters Of Hardcore - Magnum Opus (Chapter XLII)" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for レイヴ★スペクター" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/SlkZrTdVz5TQMpb5uYOFH6oej8EEvrw2QmcD_LNGO0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDIw/LTEzMzAyNjc1NjMu/anBlZw.jpeg" alt="Cover for Dreamgirl" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +152,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Zgm4OlAHbEBHx2Ny5-HrqLOXpUaxYjr2woJL5OyfvqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTEz/LTE1MzkxMjY1NTUt/Mjc0MC5qcGVn.jpeg" alt="Cover for The World Of The LSD-User" style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +174,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1994</td>
@@ -215,7 +215,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/B6IkamkdLZflUlsCSD5L8Ye-RCTErMHb5zQr5_mAPzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTAw/LTEzMDYxNjQ4Nzku/anBlZw.jpeg" alt="Cover for Funky Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +233,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/7vSaqjtK7q4aSbyzyv1r_a0gna3lqyXlW_jWNgJli9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA0/LTE1Njg5MzY3MjMt/NzAyNC5qcGVn.jpeg" alt="Cover for Doomz Day Celebration" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +388,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/TDdJDEmYIQYbSHkXdBwYzrfrvsWOLquhChGPoSRYD-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODE0/LTE0ODkyMjM3MjAt/Mzk0Mi5qcGVn.jpeg" alt="Cover for We&#39;ll Tear Your Soul Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +425,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 55</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 46</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 96</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 99</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 99</li>
@@ -433,8 +433,9 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2515261a777a4efd8c426929f9e1dbf0.png" alt="Cover for Sick &amp; Twisted" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Rotterdam Terror Corps</td>
@@ -492,6 +493,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2618c7d1cb48ae9bc1538395b1839d.png" alt="Cover for Holland, 1945" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Neutral Milk Hotel</td>
@@ -511,6 +513,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c006a385e574f9f85caf9725c5e0f8e.png" alt="Cover for Neurophonie" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Micropoint</td>
@@ -571,7 +574,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2002</td>
@@ -610,7 +613,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003-08-17</td>
@@ -644,7 +647,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/98MQkdja3PTq97_IZRS4hyBmvY_bcRGk67fcSDfGSL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzgy/Mi0xMTk2MTA2ODU2/LmpwZWc.jpeg" alt="Cover for Prednison Attack VIP" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +688,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 27</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -731,7 +734,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2008-04-01</td>
@@ -751,6 +754,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afc05eee00594deca3694af61188f85a.png" alt="Cover for Oozing Bass Spasms" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-30</td>
       <td>Otto von Schirach</td>
@@ -768,12 +772,12 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 87</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/gtATIen0C5LWVt-9Nkk8HYl0PVQ1kFo3-rhCvqvoNDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg3/NTAtMTMxNDUzOTUx/NC5qcGVn.jpeg" alt="Cover for The Waldhaus Doctrine EP" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +795,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 45</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 46</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 70</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 86</li>
             <li> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a> # 100</li>
@@ -799,7 +803,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2009</td>
@@ -841,7 +845,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ptEX5cFcf8X7-x1OGgMs1Wuvh69ezajFOz7Zqjx6XLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzI3/MjgtMTM3ODA5MDUz/Mi01NjI3LmpwZWc.jpeg" alt="Cover for HeartBEATS" style="max-width:120px; height:auto;" />
       </td>
@@ -909,7 +913,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2009-08-28</td>
@@ -929,7 +933,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009-09-28</td>
@@ -945,7 +949,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 35</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 36</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 58</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 80</li>
         </ul>
@@ -954,6 +958,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/064551fea5c44580b9a009fc41343793.png" alt="Cover for Magic Triangle" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-23</td>
       <td>Otto von Schirach</td>
@@ -1001,7 +1006,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2009-12-15</td>
@@ -1110,18 +1115,18 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 1</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
             <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
@@ -1132,13 +1137,13 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
         </ul>
@@ -1162,12 +1167,12 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 39</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2010-09-11</td>
@@ -1261,13 +1266,14 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -1363,10 +1369,10 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 27</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 37</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 28</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 33</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
@@ -1375,8 +1381,8 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 73</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
@@ -1387,7 +1393,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/lq-zvPTdVyzsjtCZPWNe8ARM6JLQVBczehged6hdHPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODA4/MDUtMTM2MTgxMzAx/OS0yMTI5LmpwZWc.jpeg" alt="Cover for BREAKING THE RULES" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1412,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/wRD_0g-h13_L_kf-5fEWjKxiEmgaKta3znDDYlNbuBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzEy/NDktMTM2MDMxMzg0/NS01NjM0LmpwZWc.jpeg" alt="Cover for Evil&#39;s Greatest Activities" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1432,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,14 +1446,14 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 37</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 41</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
         </ul>
@@ -1472,7 +1478,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Z6Vxtplw2NNvZTKVXUNmAiGecKdmQ86M-9J-0LM-ECw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzg1/ODQtMTQ0NTcwNzYy/NC0zODc3LnBuZw.jpeg" alt="Cover for The One Man Army" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1517,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 20</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 23</li>
             <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 77</li>
         </ul>
       </td>
@@ -1534,16 +1540,16 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/jTrCYBrpa2Ot_v7wiuU1SCmvmtFRXX2aBqNV0NXzpRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDk3LTE0OTU1MDIy/ODAtMTE2OC5qcGVn.jpeg" alt="Cover for Steroids (Crouching Tiger Hidden Gabber Megamix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78cabb923424ccd85364be46bfadc820.png" alt="Cover for Steroids (Crouching Tiger Hidden Gabber Megamix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-22</td>
       <td>Death Grips</td>
@@ -1574,7 +1580,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 86</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 90</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 91</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 100</li>
         </ul>
       </td>
@@ -1595,12 +1601,12 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 35</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/KA2kFtalmNYvqBMUczst9m_-D_7X-4pxGySRwtRPCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE3/MDk1LTE2NzQxNDMy/NzQtMjc2OS5qcGVn.jpeg" alt="Cover for Cyberia lyr3" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,14 +1623,14 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 74</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 76</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 78</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Ek3OZFp9oNU7pecsgN35eE46UxdaV4UYcgzZsmPNv38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/MjY3LTE1NDI5MjMy/NDgtNDk1MS5qcGVn.jpeg" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,9 +1675,9 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/QikA06V_setpgykGfeOWAEkndjm5zxUGfS2BZ8oD7Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDEz/NzgtMTI1NzgxMDk2/Mi5qcGVn.jpeg" alt="Cover for Export" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cef59c4916f63b2ce04643bafb8709d3.png" alt="Cover for Export" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-28</td>
       <td>Rap</td>
@@ -1731,9 +1737,9 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/OeESIw1craTFsIyMX9I-r6BK0I307dj7ktQOCRSXzZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/MjIzLTE1NzA5Mjk2/NDEtODE1MS5qcGVn.jpeg" alt="Cover for No Brakes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca56b0223c3f7e84b58ef2669f422de.png" alt="Cover for No Brakes" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-12</td>
       <td>Estasia</td>
@@ -1776,7 +1782,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/y_7lNHA5qFG_1ujvtfXPjKJwLNIgmzET5ANMfUsZoCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTkw/NzQ4LTE2Mzk1MjAx/NTgtOTkxOC5qcGVn.jpeg" alt="Cover for 1992" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,6 +1800,28 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
         <ul>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 67</li>
             <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/yMgl4cUhor3ZXrrMtTR6DEEQNSUSCAuvpYH9V81tkfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzcw/MDQ5LTE2NTY4NTY5/OTctMjQxNS5qcGVn.jpeg" alt="Cover for BLUSH" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-17</td>
+      <td>eargasm god</td>
+      <td>BLUSH</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1887,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/pzo3ndxFREqsrZvbSrxIZcMuuzDIQIwQR5SU4UCXUAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY2/OTc2LTE2NjkxNDc2/MDctNzcwNy5qcGVn.jpeg" alt="Cover for Liebe in Zeiten der Kola" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,12 +1902,12 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 38</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/pzo3ndxFREqsrZvbSrxIZcMuuzDIQIwQR5SU4UCXUAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY2/OTc2LTE2NjkxNDc2/MDctNzcwNy5qcGVn.jpeg" alt="Cover for Liebe in Zeiten der Kola - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,7 +1928,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/w5AzC6URL1obCVBof2oPP2VNpR33NENLardtsjrPoKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQx/NjY1LTE2MDc3Nzcx/MDctNjU5OC5qcGVn.jpeg" alt="Cover for Mes Larmes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3ef0f78a8cba01baad8a7cb8edb98af.png" alt="Cover for Mes Larmes" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-06</td>
       <td>Evil Grimace</td>
@@ -1917,9 +1945,9 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/uRXDT7s5sCjBCwzAUC4a0ANvAnWtPSOl56kiXe0mbxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTYz/MzA1LTE2MTA4Mzc5/NTItNDI4OS5qcGVn.jpeg" alt="Cover for The Land Of God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/996bf8a5082e4c049892c9b43f845120.png" alt="Cover for The Land Of God" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-15</td>
       <td>Coakira</td>
@@ -1967,10 +1995,10 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 32</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 41</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 35</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 46</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 68</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 71</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 72</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 90</li>
         </ul>
       </td>
@@ -1997,7 +2025,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/i1o4QLPXRdipvANagJ_R9CPe2DogZid3oZThQqVR9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NjgyLTE2MzIyMjQx/MTctMzM0Ny5qcGVn.jpeg" alt="Cover for AS HARD AS YOU CAN" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,9 +2044,9 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 71</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 91</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2043,7 +2071,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2022-04-14</td>
@@ -2077,7 +2105,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/DjWES1h01Jbh92sXyGO4yY1NvhK1rj7a_JVP1Gs9zHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA0/MDYwLTE2Nzc4ODM4/NDUtNzU5Ny5qcGVn.jpeg" alt="Cover for Eros Massacre" style="max-width:120px; height:auto;" />
       </td>
@@ -2092,14 +2120,14 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 74</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Yy-cvZ9gf81eK0XOdkZHddNBzeL-DfvgJitjw2BcGOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/ODIyLTE2NjQ0Nzk2/MjctMTU3My5qcGVn.jpeg" alt="Cover for Fossora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8d29ca04e25fc4203534c55c75376fc.png" alt="Cover for Fossora" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-30</td>
       <td>Björk</td>
@@ -2107,44 +2135,12 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 1</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg" alt="Cover for 777" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-12-31</td>
-      <td>maniken05</td>
-      <td>777</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 47</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 92</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2193,7 +2189,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/3b_FJwVnviX0wb26KZhtiNog6Yex-kBMxK7tKXvpOUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc3/NDMwLTE2NzU0Mjk5/ODAtMzg5Ni5qcGVn.jpeg" alt="Cover for Tape dans la tête" style="max-width:120px; height:auto;" />
       </td>
@@ -2208,7 +2204,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 36</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2233,7 +2229,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Hh-aXdQQJZeHVc4eLfc9g7rqFmFWAD5UbPXBjEBCBzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzY2/MTE0LTE2ODY1OTc3/MTctNDMxNy5qcGVn.jpeg" alt="Cover for Nexus Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -2270,8 +2266,8 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 11</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 34</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 13</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 36</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 56</li>
         </ul>
       </td>
@@ -2279,7 +2275,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/D-8aySeQGkW_6qXMxmUzWkLtsXl3rUYFtyLihYM7BsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjI3/ODM1LTE3MTUyMjA1/OTItMzQ1Mi5qcGVn.jpeg" alt="Cover for An Introduction To Cynthoni" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eab0e5468846f9577f125c7e833c1481.png" alt="Cover for An Introduction To Cynthoni" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-04</td>
       <td>Cynthoni</td>
@@ -2299,14 +2295,14 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 42</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 49</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 43</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 52</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2024-11-01</td>
@@ -2330,7 +2326,7 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2342,13 +2338,14 @@ Gabber is an aggressive electronic music genre originating from Rotterdam in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 2</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 26</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 27</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 33</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 37</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
         </ul>

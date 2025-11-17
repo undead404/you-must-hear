@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T05:55:17.536Z
+date: 2025-11-17T13:11:28.289Z
 permalink: tags/sasscore
 title: sasscore
 ---
 
 ## sasscore
 
-Last updated: <time datetime="2025-11-14T05:55:17.536Z">Fri Nov 14 2025 07:55:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T13:11:28.289Z">Mon Nov 17 2025 15:11:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -89,7 +89,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b39be7dad057fb565f40c7e2125bf08.png" alt="Cover for Girl on the Run" style="max-width:120px; height:auto;" />
       </td>
@@ -133,7 +133,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2001</td>
@@ -154,7 +154,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/Mu6KM6IlrlyM-koM32oJgDUDkJA50NOfotMsq7YusjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQ4/MTktMTQzMjYzMDMy/NS01NzcyLmpwZWc.jpeg" alt="Cover for Crimes (Bonus Track Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6b8224de95028a3cfe7ee7d3bc69840.png" alt="Cover for Crimes (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>The Blood Brothers</td>
@@ -169,26 +169,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Ed Gein</td>
-      <td>It&#39;s A Shame That A Family Can Be Torn Apart By Something As Simple As A Pack Of Wild Dogs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -209,7 +190,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 33</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 54</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 57</li>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 96</li>
         </ul>
       </td>
@@ -217,6 +198,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9f86ba4130245dec5f9111e3792ebe3.png" alt="Cover for We Are The Lazer Viking" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-12</td>
       <td>An Albatross</td>
@@ -234,7 +216,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 46</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 48</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 87</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 98</li>
@@ -279,6 +261,24 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3691aff1eabb2cbe1e9477fff8cc56d3.png" alt="Cover for Crimes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-01</td>
+      <td>The Blood Brothers</td>
+      <td>Crimes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>68</td>
       <td>
       </td>
@@ -294,7 +294,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 86</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -339,7 +339,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 28</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 30</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 68</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 87</li>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 89</li>
@@ -453,6 +453,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb7086019684ff9aaf4c401a7e18049.png" alt="Cover for The Flamingo Trigger" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-15</td>
       <td>Foxy Shazam</td>
@@ -495,6 +496,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ac81ea9b5b49a2eaa517f17943a804.png" alt="Cover for For Screening Purposes Only" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-29</td>
       <td>Test Icicles</td>
@@ -579,7 +581,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec37b589561043be02544f62c2b928b7.png" alt="Cover for Emergency At The Everyday" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +605,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/n4uuelepuoGa7yU4Ohg_DyRHYkdSAPkb0onaWxxBuSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTkw/NS0xNDYxNDQ5MDcw/LTM2OTcucG5n.jpeg" alt="Cover for Young Machetes (Bonus Track Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fb46fa7a0f0217b9bf312506cbdcdc1.png" alt="Cover for Young Machetes (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10</td>
       <td>The Blood Brothers</td>
@@ -618,7 +620,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 63</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +686,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2008-07-01</td>
@@ -801,7 +803,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 76</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 79</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 99</li>
         </ul>
       </td>
@@ -825,7 +827,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/b5luVXXHKLe3QBczMlqkOge403xcxz1vEQ4I1E1fra8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE3/NzMwLTE2OTc1Mjky/NTEtODgyOS5qcGVn.jpeg" alt="Cover for Loves It" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1052,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/XlXTf1L0D0XSfmwoe-15q6uQGb32J2g9Re3ovcalBrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE3/NjY0LTE2OTc1Mjkw/NjEtODY4Mi5qcGVn.jpeg" alt="Cover for Pretty Wild" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,15 +1153,15 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 21</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 23</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 87</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 93</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/2dQjd1cDcWewKcfZVn8BwwWW-Ap6wM5rZm6i2mthwqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE3/Mzk3LTE2OTc1MjY3/ODUtNDU5NS5qcGVn.jpeg" alt="Cover for Deepthroat" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,7 +1201,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/pvtCOq79x_eBxYM6j8cRRpApZ4HJKC7LsHcpl86-61A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTY3/MjM4LTE1MDc2ODg5/NTUtNzczOC5qcGVn.jpeg" alt="Cover for NGSUNC (Full Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1221,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/pvtCOq79x_eBxYM6j8cRRpApZ4HJKC7LsHcpl86-61A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTY3/MjM4LTE1MDc2ODg5/NTUtNzczOC5qcGVn.jpeg" alt="Cover for Hit Em&#39; (The Recipe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1261,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/w9LS4wsohNltBYZr19cMVHvgT9s3JLoMiNZqEmrONYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE5/NzEyLTE1MTAyMTQ1/MjAtMzA0Ni5qcGVn.jpeg" alt="Cover for Crack Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,9 +1521,9 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 9</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 14</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 20</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 22</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 88</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 95</li>
         </ul>
@@ -1608,7 +1610,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/VReD4Hqs5ksFb54WaSOoet6SVYPP3IbOc1JozPAm4s4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg0/NjQwLTE2OTcyMzQ5/NzYtNDA3OC5qcGVn.jpeg" alt="Cover for Can I Get a Bump" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1775,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/VEixhiSIeXORRYMU5HRFNxxk3fqAzk0rOVbxSdY3qf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzA1/NjkyLTE2MDkzNTI1/MzgtMzA1Ni5qcGVn.jpeg" alt="Cover for Synthetic" style="max-width:120px; height:auto;" />
       </td>
@@ -2078,7 +2080,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ba189063d926e5c53790ffd85b97b6a.png" alt="Cover for &quot;!&quot;" style="max-width:120px; height:auto;" />
       </td>

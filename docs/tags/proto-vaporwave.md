@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T00:57:17.276Z
+date: 2025-11-17T13:12:23.937Z
 permalink: tags/proto-vaporwave
 title: proto-vaporwave
 ---
 
 ## proto-vaporwave
 
-Last updated: <time datetime="2025-10-21T00:57:17.276Z">Tue Oct 21 2025 03:57:17 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-17T13:12:23.937Z">Mon Nov 17 2025 15:12:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 39</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 40</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 90</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 92</li>
         </ul>
@@ -79,7 +79,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 42</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 43</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 92</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
         </ul>
@@ -160,7 +160,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/9sTaOIblIu3tuXs3w-HB6J4ChAJevIswXOc_9D9K7q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODM2/MjQtMTU1NzI3NzY2/My03ODAyLmpwZWc.jpeg" alt="Cover for Past, Present &amp; Future" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2349f9d5f3f3e11c33f3592aa79fa46f.png" alt="Cover for Past, Present &amp; Future" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>The Rah Band</td>
@@ -171,13 +171,13 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 81</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 86</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/_i2-rRtoiENlHzx5OnBGzshsFoJqufi5bMEccAIljnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc5/NTktMTYwNjkyNjIy/Ny02Mjg4LmpwZWc.jpeg" alt="Cover for The Letter (Digitally Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -215,6 +215,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9dc6b6baca139222e0e536024d0699d.png" alt="Cover for Voyage (A Journey Into Discoid Funk)" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Brian Bennett</td>
@@ -364,8 +365,8 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 24</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 54</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 25</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +386,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 12</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 92</li>
         </ul>
       </td>
@@ -393,6 +394,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f433119aa625465c97be5bbc03d92346.png" alt="Cover for Africa" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Toto</td>
@@ -410,7 +412,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 53</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 54</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 77</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 78</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 78</li>
@@ -421,7 +423,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/Yf7N_RpAx0bb9e3ELaK5eFippWTAHFfS5VSwbmwmql4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzg2/ODYtMTQyNzIxODA2/My03NTc4LmpwZWc.jpeg" alt="Cover for New Mexico" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17892ba3e074700a50e28085df8c577.png" alt="Cover for New Mexico" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Oppenheimer Analysis</td>
@@ -435,14 +437,14 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 95</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/_tJRammgeFZuKMNOWXsdszsQyyX84U_0FUmx_Qeze6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzIw/LTExNjU5MzM1NDEu/anBlZw.jpeg" alt="Cover for Terranova" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6141eb10d3e3b1aebb2d547034c3a93.png" alt="Cover for Terranova" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Nova</td>
@@ -492,7 +494,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 26</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 28</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 78</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 97</li>
         </ul>
@@ -642,6 +644,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f59c5a875a864f6899d09f456371e0a3.png" alt="Cover for Your Move" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-06-03</td>
       <td>America</td>
@@ -678,25 +681,20 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/733ab1a0862a39eea4f5d67e18607aaf.png" alt="Cover for Pinnacles" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-08</td>
       <td>Edgar Froese</td>
       <td>Pinnacles</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 70</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 96</li>
         </ul>
       </td>
@@ -755,7 +753,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/BjHm10Lft1vvmT_C_hpkuy2_7QnHIGMSCgW5PQwVT5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ1/OC0xMzkxMzcyMzI5/LTk1NTEuanBlZw.jpeg" alt="Cover for October (Love Song) - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +771,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1985</td>
@@ -792,7 +790,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1985</td>
@@ -866,7 +864,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1985-02-21</td>
@@ -900,12 +898,12 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 7</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/elW5cI70pGzhcir3i-fsPrYfl-AIYztDbtX1b_xoH-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mjcx/LTE0OTU3Nzk3NTMt/NzI3MC5qcGVn.jpeg" alt="Cover for La Dimension Prochaine" style="max-width:120px; height:auto;" />
       </td>
@@ -981,7 +979,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1986-08</td>
@@ -998,7 +996,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>1987</td>
@@ -1037,6 +1035,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63a60757db5ec6832e98b4de77eabd8d.png" alt="Cover for Music for Commercials" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Yasuaki Shimizu</td>
@@ -1052,7 +1051,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/m-bqecQk_ub_-4EzaWjzOheACgCFegmd7Y-mOgahZD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk0/MzQ5LTE3MDE1NzI5/NTYtMTU3My5qcGVn.jpeg" alt="Cover for Plunderphonics" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1159,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/K6080a8nwuxr8OoTZ6zUBe3wHwp2UxuNhLt25QPvSZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIx/OS0xNDIyNjMxNDIz/LTYwNzguanBlZw.jpeg" alt="Cover for Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,7 +1177,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1990</td>
@@ -1235,7 +1234,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1991</td>
@@ -1252,7 +1251,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1991-02</td>
@@ -1284,12 +1283,12 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 48</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1993</td>
@@ -1400,7 +1399,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/OEUGS2bu6nvQw01V1vBsURNfRTdjDFN9fBclYrfAWcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/NC0xMjM4MzAxMDMy/LmpwZWc.jpeg" alt="Cover for Nothing Has Been Proved" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,23 +1409,6 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Boards of Canada</td>
-      <td>A Few Old Tunes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
         </ul>
       </td>
       <td>
@@ -1523,7 +1505,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/qKDdHavrhN0FyRx2rHRCVwqMIpsUT1c5Pq2JgeFH9QE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzM4/NS0xNDU2MTQ4OTQ1/LTQwMzguanBlZw.jpeg" alt="Cover for Gentle &amp; Elegance" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,6 +1561,26 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c21eb82c9818c27bc1e9badd5d422b6.png" alt="Cover for Mariner&#39;s Valley" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>OVERROCKET</td>
+      <td>Mariner&#39;s Valley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>73</td>
       <td>
           <img src="https://i.discogs.com/VeOTGlRhy212Sg5SuHqXI6W3hiCEVmVvPF9x3W4rqdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTYy/MjAtMTQxMTc1NzYw/MC0yOTEyLmpwZWc.jpeg" alt="Cover for Tourist In Paradise" style="max-width:120px; height:auto;" />
@@ -1598,7 +1600,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ITLmTXIVCdT0gnP6DAWuttslmGcghUBzEL1jP4xY3AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTI2/OC0xNTMwNzMyMzc4/LTkxODQuanBlZw.jpeg" alt="Cover for The Beauty In Distortion" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,14 +1640,15 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 77</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 77</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b5aaa85cd3a42f6a035295efbc09943.png" alt="Cover for Téo &amp; Téa" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-16</td>
       <td>Jean Michel Jarre</td>
@@ -1664,7 +1667,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/WVjgN6bSY3rvhOqxWiyEJqKxelKn-ZGe2wv4CvKYOTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTky/MzQ5LTE1NDYwNTM2/NzQtMzY5My5qcGVn.jpeg" alt="Cover for Music For Supermarket" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1719,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/jviOv-AIH2jV08jJysrFn-FC7LduOeV9ltPyADVXwlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODEy/NjAtMTQ0MjUzMjIx/NC05MzU1LmpwZWc.jpeg" alt="Cover for Tropical Disturbances" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,6 +1739,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e626e75c80974da593fcfc27d7122f05.png" alt="Cover for Late Night Tales: Röyksopp" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-14</td>
       <td>Röyksopp</td>
@@ -1754,7 +1758,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2014-08-12</td>
@@ -1771,7 +1775,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/cLxfsF-VnwdxEQBXRR5KuIcWteeWFRGYFe52fBWmlRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzM2/NzAtMTQyMjI5MzA0/MC00ODE2LmpwZWc.jpeg" alt="Cover for Space Oddities (1975-1979)" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1793,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/6YU5BI0mA6wl_PyiZ-Sz0-V7h_gHvztQDD-gRt3AMRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjMx/ODMtMTQ3Mzk2NzI4/Ny0zMjE2LmpwZWc.jpeg" alt="Cover for French Disco Boogie Sounds, Vol. 3 (1977-1987)" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,7 +1829,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/wB-7Fdd2dqnooknaYHw3x8hnTkaQauWUW9LGHRtnuPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgw/NzMtMTY1NzIxNDAw/Ni01OTgwLmpwZWc.jpeg" alt="Cover for Les Granges Brûlées (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1865,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1928,5 +1932,5 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
 - [jazz]({{ "/tags/jazz" | relative_url }})
 - [vaporwave]({{ "/tags/vaporwave" | relative_url }})
 - [new age]({{ "/tags/new-age" | relative_url }})
-- [progressive electronic]({{ "/tags/progressive-electronic" | relative_url }})
 - [city pop]({{ "/tags/city-pop" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
