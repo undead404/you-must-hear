@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:16:19.871Z
+date: 2025-11-16T17:57:27.191Z
 permalink: tags/contemporary-jazz
 title: contemporary jazz
 ---
 
 ## contemporary jazz
 
-Last updated: <time datetime="2025-11-11T10:16:19.871Z">Tue Nov 11 2025 12:16:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T17:57:27.191Z">Sun Nov 16 2025 19:57:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/sdwP4pgeMPv9D90Oxo3RZEmy7Q1eBZ_gqPmGAXo_DKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTM5/MC0xMjc0NDkxMDYy/LmpwZWc.jpeg" alt="Cover for Soul Box" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>1978</td>
@@ -122,7 +122,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>2002-02-05</td>
@@ -141,7 +141,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2002-09-10</td>
@@ -159,7 +159,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2003</td>
@@ -177,7 +177,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2004-04-21</td>
@@ -234,7 +234,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/XO_-2-QZ_CcWBagDDopIR_4YSAC74cn3jLoBsgHrw6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI2/NDItMTM0NTM5MjE3/NC0zMDQ5LmpwZWc.jpeg" alt="Cover for Inny Smak" style="max-width:120px; height:auto;" />
       </td>
@@ -273,7 +273,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>2006-05-02</td>
@@ -290,7 +290,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31b537eef7f04ba98c7922413eca976f.png" alt="Cover for Continuo" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +309,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2006-09-12</td>
@@ -346,7 +346,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/0KWtVcoPyyiRvNLs_sP03wmdkO91iNZENPabUHo5YN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY3/MC0xMTg0MzU3NDgx/LmpwZWc.jpeg" alt="Cover for Skinny Grin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a28df9c35060f55dc0db46f83ee10af.png" alt="Cover for Skinny Grin" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-27</td>
       <td>Acoustic Ladyland</td>
@@ -363,7 +363,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2007</td>
@@ -380,12 +380,12 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>2007-03-06</td>
@@ -457,7 +457,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2008-10-02</td>
@@ -474,7 +474,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/gBu2maZ95_yYQimzvct8yjSvV8cj-M8VllbJxOhxtxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjc0/MzUtMTU4NDA1MjM0/OS00NjQxLmpwZWc.jpeg" alt="Cover for Perceptual" style="max-width:120px; height:auto;" />
       </td>
@@ -523,12 +523,12 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/0CLA1Tc6D1yhyOKD4EqiUmNzXN2uRhQQS8Y3MtD6dls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY4/MjEtMTI2ODMzNjY1/Ni5qcGVn.jpeg" alt="Cover for Brad Mehldau Trio: Live" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +547,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2010-01-01</td>
@@ -564,7 +564,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td>2010-03-01</td>
@@ -578,7 +578,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 35</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -599,13 +599,13 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 37</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 38</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2010-10-29</td>
@@ -642,7 +642,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/LhJbfvC1qY0dlRmjtGpZNvr_cIQwoBNy82kUI7fuKi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzA3/OTItMTUwMjA5ODI5/Mi0zNDg0LmpwZWc.jpeg" alt="Cover for Gouache" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +660,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2012-03-26</td>
@@ -740,7 +740,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 44</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 45</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 81</li>
         </ul>
       </td>
@@ -765,26 +765,9 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 45</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 57</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>2012-11-06</td>
-      <td>Ibrahim Maalouf</td>
-      <td>Wind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 46</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +807,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0599cea6aa804a13982d7978b92b1d45.png" alt="Cover for Illuminus" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +829,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dfcc0fa5df643f7ad50f5252c961385.png" alt="Cover for Walking Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +869,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-zWf3VBs4ZlwijL6Ik2BaMs5NXySCCu0wJMaqN7h7nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjQy/ODQtMTQ3NTkxMzQx/Ni04OTc2LmpwZWc.jpeg" alt="Cover for Pool" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +888,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/SSrGzf0LMoIyYsz4VIqJPCfeqRnLYAvru7dmHMHFo7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODY0/MzctMTQyNjYwMTUx/OC01NjYxLmpwZWc.jpeg" alt="Cover for The Changing Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -942,29 +925,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td>2013-11-04</td>
-      <td>Avishai Cohen</td>
-      <td>Almah</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viola" | relative_url }}">viola</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 100</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>2014-02-21</td>
@@ -999,7 +960,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2014-05-06</td>
@@ -1016,7 +977,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2014-06-08</td>
@@ -1036,7 +997,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>2014-08-01</td>
@@ -1068,12 +1029,12 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 22</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/CxSxBlcaK_HloZ522y-FJce3UiJFsAS7FXM0ybA0ExU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjQy/MzQtMTQ3NTkxMjcy/OC0yMTM3LmpwZWc.jpeg" alt="Cover for NEWTOWN" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1088,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 59</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1150,13 +1111,13 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 70</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 45</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/kU-8vlgLf_yblLCHzp6FzOP_2_R8dXpdG9uZv08W6ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDg0/NjgtMTQzNjE5ODA3/MS03MjI2LmpwZWc.jpeg" alt="Cover for Breathe It In (Reworks)" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1135,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/B0x-EooDvEEncUQoTwgWVM7tjlMfCIVAKpAS8HfAtHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzIw/MTctMTQ1ODU3MTM0/My0xNDU2LmpwZWc.jpeg" alt="Cover for Batch" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1171,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/I-Q9hyVuoPjz8imEKliEme1xStjrUEfLCDHFtNqfT1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDU5/NTctMTQ3MzEzNDI1/Mi00OTg3LmpwZWc.jpeg" alt="Cover for Buoyancy" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,14 +1226,14 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 80</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 81</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 82</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ugvb1LY1fIBQAdmQRn07z2ipz0A8b3AjSnhTitqyKWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDk2/NTQtMTQ3NzM1MTMz/NC05Nzk0LmpwZWc.jpeg" alt="Cover for Astral Progressions" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,7 +1272,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/uYVqvlMA7FB5j1zLQ0qiPjstT7Yp_gBUhyLesxxKt3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA3/MDYxLTE1OTI2NTY4/NTUtMTI2MS5qcGVn.jpeg" alt="Cover for Hidden Beauty" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1326,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Y_KXXZIiTIRzWFeaMJX6qZcb7t8sfUrNdmB-Seuw6TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc3/NjE0LTE1MDIyMTcy/MTYtMzUwNi5qcGVn.jpeg" alt="Cover for Thrēq" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1344,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/I-8eohoOvaiuZcFbeACvTWItkbRVMZ1ghB7ni5Q6ch0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU3/MTA3LTE1MDgwMDYw/MjEtNzI3Mi5qcGVn.jpeg" alt="Cover for Channel the Spirits (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1400,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/F65hx2-535V67RZVpVVwmZ1VaYBIJmznF9mOU75pnzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMy/MDExLTE1MTgwMjI4/ODMtNjQwOS5qcGVn.jpeg" alt="Cover for A Humdrum Star" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/991f6bf3662835d56b93d9d99bbd848c.png" alt="Cover for A Humdrum Star" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-09</td>
       <td>GoGo Penguin</td>
@@ -1515,7 +1476,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/_uklL2-nQYBh25hzg1UKRc7t5N8hcmm4TJ1mq2ilcgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM4/NDc3LTE1MjkwNzA3/NzItNDEwNC5qcGVn.jpeg" alt="Cover for Collagically Speaking" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1512,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/WQMC9EybYjtvquRLznovtXNoiCBHUfYw_korkJ2dP_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUy/MDQ0LTE1NDEyNzA4/MTYtODk1My5qcGVn.jpeg" alt="Cover for Little Big" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1530,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/XU-Wbx4ndpjd7C0comGrW7bWpiKbVenC3zYJSNBLUmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY5/NjcwLTE1NDE2ODk4/NzYtMjA4Ny5qcGVn.jpeg" alt="Cover for There Is A Place" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1567,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/mkM-uvWf7Kdu3Hp313gHugydkIqcuAVBJSr0qAOeQWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjEz/MTYxLTE1NTAyMTg5/MDYtOTcxNi5qcGVn.jpeg" alt="Cover for Starting Today in Dub" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,7 +1585,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/029712cdb7ff9579ffb6e9ad46f986f8.png" alt="Cover for Fuck Yo Feelings" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,12 +1621,12 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/7LgTwMwr1UQWVrKrhFiBvMbiiKX_atriGDCo0AlXMCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQ4/MzY0LTE2MDA4OTg5/NTItMjI1OS5qcGVn.jpeg" alt="Cover for Artemis" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1645,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/GPDsXTSIlFrTPGA_FVU4DMcsZ3K_Xzl3JftIIJme0u4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ2/NzI4LTE1ODcyOTA3/MjktNjkyMC5qcGVn.jpeg" alt="Cover for Light and Shadow" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,6 +1655,25 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/llW9IscRGzY9O_r8ncc3zRH4SBaDWTM6P3B4ds6C2Wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgz/NzU4LTE1OTQwNDE3/NzMtNzY2MC5qcGVn.jpeg" alt="Cover for Grown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-12</td>
+      <td>Waaju</td>
+      <td>Grown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
         </ul>
       </td>
       <td>
@@ -1712,6 +1692,25 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/e3vi__kP3MQxzxRM5Xn9Vj8w71d-BeY4uQLHKyOMmJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE5/NTQ5LTE1MzI4NjEy/MTctMTA4Ni5qcGVn.jpeg" alt="Cover for UNTITLED" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>fox capture plan</td>
+      <td>UNTITLED</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
       <td>
@@ -1774,7 +1773,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/rbWVQwqSo-XKdy48Z7tg7udKTtNWwWIHGkUGLK3A2TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQ0/NTU3LTE2MzczNDY1/NjctMzM3OS5qcGVn.jpeg" alt="Cover for Zeal EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,7 +1809,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/pVRC59_rdwQqjr6T-0IbuSJPef3aORgIrm_CtCSZ1rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODYy/OTYtMTQ1Njc1NTQ2/OS01MTQ3LmpwZWc.jpeg" alt="Cover for D" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,7 +1830,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 7</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 9</li>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 92</li>
         </ul>
       </td>
