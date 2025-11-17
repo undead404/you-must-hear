@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-17T01:27:47.617Z
+date: 2025-11-17T02:37:22.793Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-17T01:27:47.617Z">Mon Nov 17 2025 03:27:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T02:37:22.793Z">Mon Nov 17 2025 04:37:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [turkish]({{ "tags/turkish" | relative_url }}) | <time datetime="2025-11-17T02:37:22.793Z">Mon Nov 17 2025 04:37:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie rock]({{ "tags/indie-rock" | relative_url }}) | <time datetime="2025-11-17T01:27:47.617Z">Mon Nov 17 2025 03:27:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic house]({{ "tags/melodic-house" | relative_url }}) | <time datetime="2025-11-17T01:25:47.417Z">Mon Nov 17 2025 03:25:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [spain]({{ "tags/spain" | relative_url }}) | <time datetime="2025-11-17T01:24:57.853Z">Mon Nov 17 2025 03:24:57 GMT+0200 (Eastern European Standard Time)</time> |
@@ -889,7 +890,6 @@ Last updated: <time datetime="2025-11-17T01:27:47.617Z">Mon Nov 17 2025 03:27:47
 | [merengue]({{ "tags/merengue" | relative_url }}) | <time datetime="2025-10-28T06:37:04.135Z">Tue Oct 28 2025 08:37:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [memphis]({{ "tags/memphis" | relative_url }}) | <time datetime="2025-10-28T06:36:52.770Z">Tue Oct 28 2025 08:36:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [wales]({{ "tags/wales" | relative_url }}) | <time datetime="2025-10-28T06:36:17.597Z">Tue Oct 28 2025 08:36:17 GMT+0200 (Eastern European Standard Time)</time> |
-| [turkish]({{ "tags/turkish" | relative_url }}) | <time datetime="2025-10-28T06:35:14.301Z">Tue Oct 28 2025 08:35:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [neurofunk]({{ "tags/neurofunk" | relative_url }}) | <time datetime="2025-10-28T06:35:03.916Z">Tue Oct 28 2025 08:35:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [impressionism]({{ "tags/impressionism" | relative_url }}) | <time datetime="2025-10-28T06:34:58.059Z">Tue Oct 28 2025 08:34:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [banjo]({{ "tags/banjo" | relative_url }}) | <time datetime="2025-10-28T06:05:04.330Z">Tue Oct 28 2025 08:05:04 GMT+0200 (Eastern European Standard Time)</time> |
