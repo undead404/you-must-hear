@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T11:08:22.009Z
+date: 2025-11-17T09:14:58.813Z
 permalink: tags/progressive-house
 title: progressive house
 ---
 
 ## progressive house
 
-Last updated: <time datetime="2025-11-15T11:08:22.009Z">Sat Nov 15 2025 13:08:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T09:14:58.813Z">Mon Nov 17 2025 11:14:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,31 +29,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8411877f7fd14d7dcdaadcc4e9a27b5d.png" alt="Cover for Dubnobasswithmyheadman (20th Anniversary Remaster)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Underworld</td>
-      <td>Dubnobasswithmyheadman (20th Anniversary Remaster)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 72</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a52a606957784a57b11fb0824064fe9e.png" alt="Cover for Bruised Water" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +49,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/VKYO6ZQM-6eEAXrS6XfhCXNxPVFxymChiR8FVKxbSbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjIt/MTU0ODIxMjA3MC0z/NzczLmpwZWc.jpeg" alt="Cover for The Launch" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +68,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/H7jEh87Saf6RpA8F4MFTpIcrWbRN8qwLN4VH2RVq3vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzI4/LTExNTkxNzY2MTAu/anBlZw.jpeg" alt="Cover for My Lexicon" style="max-width:120px; height:auto;" />
       </td>
@@ -110,9 +86,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/2f2pUGKR68qeuDsIBz3X6zGMEgUWhQ-jCnHhukS2bX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTky/LTE0MTMxNDc3Mjkt/MTM0Mi5qcGVn.jpeg" alt="Cover for Horizons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fda1b5100834943b0b32b427e245b56.png" alt="Cover for Horizons" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>James Holden</td>
@@ -128,7 +104,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/UL6pVdk5uUsjhjkikG9z9HS5xzAuTOfm-TPWbOgFBKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/LTAwMS5qcGc.jpeg" alt="Cover for Finally" style="max-width:120px; height:auto;" />
       </td>
@@ -146,13 +122,13 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 92</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 93</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2002</td>
@@ -174,7 +150,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/FH55sNpU0NiVqWpP9CT8CDo5qQ9SbyDooyG1q5__lW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk1/MS0xMzgzMDY4NTE5/LTkxNTYuanBlZw.jpeg" alt="Cover for K-Hole" style="max-width:120px; height:auto;" />
       </td>
@@ -190,13 +166,13 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 28</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 29</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/sHTZhLPuOvHt46uFxxld8pxvBAmBaT_QnKnsy1Hbia4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA5/MC0xMTYzODcwNDk2/LmpwZWc.jpeg" alt="Cover for Paradiso" style="max-width:120px; height:auto;" />
       </td>
@@ -211,12 +187,12 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 86</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/oy9o_vfMPE6FwGVQZ9GhkgCbh5wChZnpyLVdoyRpU5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk0/OS0xMzM0MDYyMjQz/LmpwZWc.jpeg" alt="Cover for Nothing Scares Me Anymore" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +210,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/1PZJ2ywSOqzzuoLgYII4gPfyMgfyYf4FETk-Yqnrw6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTQz/Ny0xMzIxNzI1Mzgz/LmpwZWc.jpeg" alt="Cover for Tool Box" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +237,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b44d5b8cff491f5b9081f45adb28ff.png" alt="Cover for Something More" style="max-width:120px; height:auto;" />
       </td>
@@ -281,7 +257,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/YYaWwL4iWjK5CQtHFqAlYGlpT3LzvXO9f8W2eL3xonw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY2/OTc2LTE1Mjk2NTAz/MzYtMjgzNC5qcGVn.jpeg" alt="Cover for Plaything &#x2F; Like" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +277,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfbd0b0d1d754cb5ccb9ce02b531ae5d.png" alt="Cover for Vexillology" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +295,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1d8acd5c0c76162df6453176c0354cb.png" alt="Cover for The Idiots Are Winning" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +317,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b2de7172fd2447d8280053bd76c103e.png" alt="Cover for Deadmau5 - 4x4&#x3D;12 (2010)" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +340,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/m1qx9pYliVURqYeDL4ForiXxJ7cTeiZwJ6N6a_86ONc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mjg5/NjctMTQ1MTg0Mjgy/Mi00MDA0LmpwZWc.jpeg" alt="Cover for Not Giving Up On Love" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +359,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75b2264ac72f4756be1068afe2b591ac.png" alt="Cover for Move for Me" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +384,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2008-09-14</td>
@@ -445,9 +421,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/5FCEeFn71Whe9bEv8VLmsuJ4MuH9HmHuCK7_AG1dRsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg1/NjUtMTIwNDM2NTI1/Mi5qcGVn.jpeg" alt="Cover for Shapes EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9313f32647b432f81f6fc1aba694a9e.png" alt="Cover for Shapes EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-13</td>
       <td>Wolfgang Gartner</td>
@@ -465,7 +441,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2008-10-20</td>
@@ -482,9 +458,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/K4bJWjCEqDRMoqt_yxAVMDCrJFxfNWNwG6aSAnAHyLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTQ1/NzUtMTM5Mzc3NzM0/NS05MjQ3LmpwZWc.jpeg" alt="Cover for Anywhere With You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4473d5a93bd5d90a70f2f38dc6d0a47.png" alt="Cover for Anywhere With You" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-05</td>
       <td>Afrojack</td>
@@ -501,7 +477,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/yDTHM4lonf9dmjooYPSwA-B7ti20t1q7TujSXYXFd3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njkw/MDMtMTYwMjExNTEw/MS0zMDU1LmpwZWc.jpeg" alt="Cover for Lamur" style="max-width:120px; height:auto;" />
       </td>
@@ -516,12 +492,12 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 44</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31ddeb90dfa945b5c53e357d6dc71046.png" alt="Cover for 4x4&#x3D;12" style="max-width:120px; height:auto;" />
       </td>
@@ -540,9 +516,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/LyB9Xf60-I-gGwT8iIS6KJJCcwgwtIArgPZK4ESck8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzI3/OTEtMTI1MzM2NDg1/MC5qcGVn.jpeg" alt="Cover for Stereo Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/819c96d4ba2cae0efb4fa386cc80e75e.png" alt="Cover for Stereo Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-07</td>
       <td>Edward Maya &amp; Vika Jigulina</td>
@@ -561,7 +537,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aefc5606df3460dc6f5e131398a93f3.png" alt="Cover for For Lack of a Better Name" style="max-width:120px; height:auto;" />
       </td>
@@ -576,12 +552,32 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
         <ul>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 76</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 94</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/WqgbKNk76aE1XfVHd24ydTSCNe7jhRgmXKjN7g5UkB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE2/MjQtMTI4OTU4ODM4/MS5qcGVn.jpeg" alt="Cover for Notations EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-22</td>
+      <td>Gui Boratto</td>
+      <td>Notations EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e9cec81f94645c8a50ef498369fdb96.png" alt="Cover for These Hopeful Machines" style="max-width:120px; height:auto;" />
       </td>
@@ -603,9 +599,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/M0ZI1_IF0ZU5U5NJ129p3ik9bP8DIOI34ZElx057yx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTUx/NjgtMTQwMDk2NTIx/OC0zNzgzLmpwZWc.jpeg" alt="Cover for Kaleidoscope Remixed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa66493671fd4fbecfdddaf46a4efb18.png" alt="Cover for Kaleidoscope Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-31</td>
       <td>Tiësto</td>
@@ -624,7 +620,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24c41a77c55f55c85227aad3e6b6b34c.png" alt="Cover for Balance" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +648,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fea96d906084fe29f97c1d301794ba2.png" alt="Cover for Temporarity" style="max-width:120px; height:auto;" />
       </td>
@@ -678,7 +674,26 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f086ec8d54e048e6ac9d36f599771e4c.png" alt="Cover for It&#39;s Artificial" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-07-25</td>
+      <td>Andrew Bayer</td>
+      <td>It&#39;s Artificial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f2b09e46924b158500f1f48559c6cc.png" alt="Cover for We&#39;ll Be Coming Back" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +715,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/caad4ddf868f1f0c6746261500545dc0.png" alt="Cover for Show Me" style="max-width:120px; height:auto;" />
       </td>
@@ -721,8 +736,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00275e68333d4ce4a7d663fc31dbbf4d.png" alt="Cover for Kate" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-29</td>
       <td>Arty</td>
@@ -738,7 +754,31 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f32d52d29f4c3a878ec022ed94e13c.png" alt="Cover for Levels" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-28</td>
+      <td>Avicii</td>
+      <td>Levels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 62</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 86</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
       </td>
       <td>2011-11-04</td>
@@ -773,7 +813,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/yi2Zhpn2W5mMELDS0j0vkAJxAbzaUQ4lYfu-rqyaIoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQy/NzgtMTIzNzU1NTY4/MC5qcGVn.jpeg" alt="Cover for Faxing Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +833,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/InFVS_xmBPN3jig8ofCZmjcS31F4cakoLc5p7QPnnm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU3/MzgxLTE1NDkwNTAw/MTEtMzk2OS5qcGVn.jpeg" alt="Cover for mau5ville: Level 1" style="max-width:120px; height:auto;" />
       </td>
@@ -811,16 +851,17 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 24</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 27</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 66</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 92</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 93</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2478d65ac41547aec79c07246f219680.png" alt="Cover for On The Edge" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-27</td>
       <td>EDX</td>
@@ -836,7 +877,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2012-01-28</td>
@@ -855,7 +896,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>2012-01-30</td>
@@ -872,8 +913,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d32a03f91a34a8f95d97cd3e23e62ef.png" alt="Cover for In the Air" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-06</td>
       <td>Morgan Page</td>
@@ -889,8 +931,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/353eaf93b6cb4fdca293e9c5c7ec3f2d.png" alt="Cover for Spectrum EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-04</td>
       <td>Zedd</td>
@@ -961,15 +1004,16 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 16</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 76</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 22</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 81</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/559553ddcbe62bb1fda8408e4c038108.png" alt="Cover for Every Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-15</td>
       <td>Eric Prydz</td>
@@ -986,7 +1030,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7804350967b4aefca37dc5283d8a95e.png" alt="Cover for Album Title Goes Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1050,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bceb7d8a100400cb77468144ee60347.png" alt="Cover for Intense" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1071,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f54f3b6ef26445a5bbb8a72f0f7830bd.png" alt="Cover for True" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,14 +1085,14 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 62</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 64</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 72</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 67</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 68</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59036cfef6511044e0a7a205270add6f.png" alt="Cover for Clarity (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1110,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b89705c81324338c3c07d9a2de9c151.png" alt="Cover for Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1134,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2013-11-05</td>
@@ -1106,7 +1150,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 15</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1173,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63108e9bf6554727c747339d936b231a.png" alt="Cover for Eject" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1193,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/nCmxVlcBVTeVhfQqSKkCe7bLVUe4gSJxCz7YRXAPO38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTk1/NTAtMTM5MjkwNjg4/Mi02NTQzLmpwZWc.jpeg" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,7 +1211,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/birWDwAe4cyC9sOsBILSjW_8sdIwBe68-T-yHyXtEnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEy/NTE1LTE1NjM5MDky/NjctODYxNi5qcGVn.jpeg" alt="Cover for Best Day Of My Life (Gazzo Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1229,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b59bf5faed9707a6f04a7f57f2322e44.png" alt="Cover for while(1&lt;2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1248,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/8Eo2jGlFejqLHErglM_pgmCYGLXyOsI4_I7m5eFf3GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Njc0/OTktMTQwNDkwNjAz/NC03MzA4LmpwZWc.jpeg" alt="Cover for No Sleep (feat. Bonn)" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1266,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/zV80w0UgQ1QqJk2Jq2xo_kwKeOA495LJsPBM9GGjggg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDEy/OTMtMTQ1NDg4MTYx/Mi0yNzYzLmpwZWc.jpeg" alt="Cover for Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1286,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/4xGv3WU-mxRchOlq8R7Jy1piZEbcEtbUbiska7BD7Qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzQ5/NDgtMTQzNDQ4NTY1/MS0yMDY2LmpwZWc.jpeg" alt="Cover for Breathe" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,16 +1322,16 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 57</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 60</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 76</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 60</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 93</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6f7b0341cbe4398e951b361cb6f2b2c.png" alt="Cover for Walkerworld" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,26 +1353,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/817d2848d85995369e1dba0f364f2411.png" alt="Cover for Opus" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-07-27</td>
-      <td>Eric Prydz</td>
-      <td>Opus</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82b754b05c3286febd2a96178bfc5c45.png" alt="Cover for Automatic" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1371,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/597d11e7d1b854d5136e84e0feedf67c.png" alt="Cover for Glorious" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,9 +1390,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/NhDYNhAHalyCOnIQAxCp-YvU8tGQ4yZeQHmvAOleeqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTI1/NzYtMTQ0NzI1MTY2/Ni05MTc4LmpwZWc.jpeg" alt="Cover for I&#39;m On Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9fbd52ae55eb73f3414092542e16181.png" alt="Cover for I&#39;m On Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-26</td>
       <td>Vicetone</td>
@@ -1384,7 +1409,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9715300789a04500c59d91666ba8e32d.png" alt="Cover for A Sky Full Of Stars (Hardwell Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1428,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/434440c5e584dc0a5235fe9a6b494ddb.png" alt="Cover for S.o.S" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,7 +1452,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/_sBLqRg5VFEQ5FRkRKA2AU_LkQjut2yCO8h8XIDl7gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ0/NTk0LTE1MTA2NzM3/NzQtOTEyNS5qcGVn.jpeg" alt="Cover for Pizza" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,7 +1470,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecf7efcf6332b0aa1f676399a32c60cc.png" alt="Cover for W:&#x2F;2016ALBUM&#x2F;" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,9 +1488,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/2nHJwMOs2ksugmvrfuIeDL3_rCM1QRm5JriZVWbk958/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA3/NDU1LTE1MTc1Nzk4/MDYtMTk1Ny5qcGVn.jpeg" alt="Cover for Some Ideas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18915684d1809a4b50c6e4ee5dcc2fa4.png" alt="Cover for Some Ideas" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-15</td>
       <td>Audien</td>
@@ -1482,7 +1507,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/q3HnavSb852heAnlLm3Lkh9ZQR5zjRMEyycC8Oh4ovg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ1/MzQ2LTE1MjE2NTY3/MzctMjk1Mi5qcGVn.jpeg" alt="Cover for Bad Habits" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1526,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/C-G2BFiOXiaySCXZ-k7EJLcYWU10wXSv1lSKvSCDnc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTgw/Mzg5LTE1MTg4NzM1/NDUtNjk2OS5qcGVn.jpeg" alt="Cover for Dreamer" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1544,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/LrebW1E0F0uP8jTQIb36TmPbPPLfKD1zYNasvFNwOEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/OTM1LTE1NTkzMjg4/OTUtODExMC5qcGVn.jpeg" alt="Cover for Sunrise" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,9 +1562,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/vQEp4aSextTuq06NVMTJvYExGFviwrjamPLQHDIeUZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk4/MTAwLTE1MjI1NzMz/NjItMTE1My5qcGVn.jpeg" alt="Cover for Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d57567758b1b729aaa8cb9659e4e7d96.png" alt="Cover for Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-30</td>
       <td>Arty</td>
@@ -1555,9 +1580,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/k1_VcJi0NJuBstBmf1Yz8EtBJu2WX6MEsF6NycxAWaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUw/ODc2LTE1MjUzNDQ1/MjAtMTc1My5qcGVn.jpeg" alt="Cover for All My Dreams &#x2F; Innocence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51784a87ef861b4534d9baa486bf6335.png" alt="Cover for All My Dreams &#x2F; Innocence" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-03</td>
       <td>Róisín Murphy</td>
@@ -1577,7 +1602,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae7b67ff649687d033ba6f9c2b735cc9.png" alt="Cover for Jacuzzi Rollercoaster &#x2F; Can&#39;t Hang On" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,9 +1621,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/tIC5rUJx8TSjkFfPo7puLORU6yZ1sQrdyGd4volhnCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjEw/ODUtMTM5NTQxNjg3/Mi01MzgxLmpwZWc.jpeg" alt="Cover for Our Story (Radio Edit)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03e1fb29a83aedd4381d57e917f4da4c.png" alt="Cover for Our Story (Radio Edit)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-21</td>
       <td>Mako</td>
@@ -1615,7 +1640,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/VxumeA4zGjDsJHvT7W_0UFxYuUAZB5v31Nv5p1skb1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM4/MjUxLTE1MzMyMjcx/NDEtNDExNy5qcGVn.jpeg" alt="Cover for Steal The Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,9 +1658,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/NYadqwrhcJRCMx2GoB-marJpp_nbcNUIXEyVq5g2EvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM4/NDMyLTE1MzMyMjk5/NzAtNDc5My5qcGVn.jpeg" alt="Cover for Tim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e5b791aa3e8f2dc609b076149fd3d14.png" alt="Cover for Tim" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>Arty</td>
@@ -1651,7 +1676,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/BT17rbEoAyCDyhIhWLmSBorxdzTmdu3UYXGihPObWWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEw/Mzg2LTE1MzY2OTQ4/NjgtNjQ0OS5qcGVn.jpeg" alt="Cover for Excursions" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,7 +1695,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/5WlTEUjpCwzlydKz7UvsCcPnQdMCL2UsiGW13YvIywc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc5/Njc1LTE1Mzk5MTg3/MjAtOTU5MC5qcGVn.jpeg" alt="Cover for The Rumble &#x2F; World&#39;s Crazy" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,9 +1715,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/JKjEHmSei0vKYniaWUieuippkLZEV57svF58hvCFJr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ5/ODIyLTE1NDEyNDE2/MjItMTkwNy5qcGVn.jpeg" alt="Cover for Perfect Strangers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8014a3b87d79c9d6d3c51a5fdf478074.png" alt="Cover for Perfect Strangers" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>Arty</td>
@@ -1708,7 +1733,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xv6kGJ2ajZt0SwnxifT_K5WGr3dsbcsJVbNtI0pQr2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/NTgzLTE1NTEwOTky/NjgtMzc4Ni5qcGVn.jpeg" alt="Cover for High Street Creeps" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1754,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/qWGXJItlvllGrftOaPVO4qKOZ0Nh3eyjdt5CU31jd9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI3/OTc3LTE1NTIxNTky/NzQtNTY1OS5qcGVn.jpeg" alt="Cover for ALESSO MIXTAPE - PROGRESSO VOLUME 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,7 +1772,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/1CxRpF-CO7dhahmh3AUmeBoez7RQyBQz9kAawWaX8YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE5/MTExLTE1NjQwNjUy/MDgtNDUxOC5qcGVn.jpeg" alt="Cover for Musica Sapienti" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1839,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40e49db4e73838815d11f0d7e933cbd1.png" alt="Cover for Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,14 +1860,14 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 10</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 11</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 91</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/3w2KW0SBTvcJN6RhQRmOhsQy-NV-u_cQ1cbbONtXrSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAx/MTgwLTE2MTg0NTA0/MzktNDU2NS5qcGVn.jpeg" alt="Cover for Hide U (Tinlicker Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,7 +1885,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/WQk5xJe9qmHe9u2tlf0h5D95CjP9t7kv_ynvlWyigEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE0/NzYzLTE2MTkxMjQz/ODAtODYxOC5qcGVn.jpeg" alt="Cover for nurture" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1900,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 46</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 81</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 87</li>
         </ul>
@@ -1908,10 +1933,10 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 64</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 72</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 78</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 74</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 81</li>
@@ -1919,7 +1944,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ICN_mBABbdydmwWLi99q1Lxhhia6HVLUAjCl9_He4To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEw/MjIyLTE2NDUyMDUw/MDQtMTgzMi5qcGVn.jpeg" alt="Cover for In Another Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,7 +1962,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/xEeCpgSMNuVpQCfFA6xJ9ORlOlVIMhZ-sxWnA8z1QBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE0/NDUyLTE2NTI0NjI4/MTMtNzQ5OS5qcGVn.jpeg" alt="Cover for Maze" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,14 +1983,14 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 25</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 28</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 95</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 30</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/NPXdWG6mHvNNpbrOjoYJBVa4X-s0_kKAWaTqrj3TLDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzM3/LTEyNzUyMzIzODEu/anBlZw.jpeg" alt="Cover for The Xpander E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1983,9 +2008,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Z_kDryAyKqKoVJeW96M4KRGmjatwfJO0BfimLmLv8G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/NjMxLTE2OTA2MDY0/NTUtOTY2Ni5qcGVn.jpeg" alt="Cover for Be Strong" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf7db59384d6d55a35f5b28679c35e6e.png" alt="Cover for Be Strong" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-28</td>
       <td>Spada</td>
@@ -2001,31 +2026,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 66</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 98</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 71</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5234882235191df89ba750361eb6128f.png" alt="Cover for Cascade" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-09-13</td>
-      <td>Floating Points</td>
-      <td>Cascade</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 67</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 88</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2056,26 +2059,19 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
-      <td>RAFFA GUIDO</td>
-      <td>Famax</td>
+      <td>Tinlicker</td>
+      <td>Dream With Somebody</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 69</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 99</li>
-            <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2087,8 +2083,8 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
 - [house]({{ "/tags/house" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [trance]({{ "/tags/trance" | relative_url }})
-- [techno]({{ "/tags/techno" | relative_url }})
 - [progressive trance]({{ "/tags/progressive-trance" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
 - [electro house]({{ "/tags/electro-house" | relative_url }})
 - [deep house]({{ "/tags/deep-house" | relative_url }})

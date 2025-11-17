@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T07:11:05.733Z
+date: 2025-11-17T11:47:30.905Z
 permalink: tags/outsider-house
 title: outsider house
 ---
 
 ## outsider house
 
-Last updated: <time datetime="2025-10-20T07:11:05.733Z">Mon Oct 20 2025 10:11:05 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-17T11:47:30.905Z">Mon Nov 17 2025 13:47:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
   </thead>
   <tbody>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/uUbRH_rqlRA1VwuCNcwU0miue2CG-6Wd-YdFWRGk7Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjgx/OS0xNjEyOTUxMTQ2/LTM5MzcuanBlZw.jpeg" alt="Cover for Cranks" style="max-width:120px; height:auto;" />
       </td>
@@ -47,9 +47,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/yfNYUqPf6kwjUyxzJ3t9-FdDeT9cJujr2J5mwxNmeAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzI0/Ni0xMTI5MTY2NjUy/LmpwZWc.jpeg" alt="Cover for Hidden Waves Vol 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6250ad5ade7d027cf37a31231fa609e.png" alt="Cover for Hidden Waves Vol 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Various</td>
@@ -70,7 +70,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/etoV-RXlqJmAUAxvIO1pqpim8T9jrWMgrLGQ1Rg9yMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzY0/OS0xMTc1NjM1NTk1/LmpwZWc.jpeg" alt="Cover for Clockwork" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8935af4fe633e791901f6f6777f3c10.png" alt="Cover for Clockwork" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>New Recreation</td>
@@ -107,9 +107,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/qnv0yprQYmi91bmHzyFE53VAHZnMsgxWbvC9megR8BU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzgx/NTMxLTE2MjEzNTg4/MjEtOTA5Mi5qcGVn.jpeg" alt="Cover for Hazel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/575699b896cb4f88cfd881cdfdc2f64b.png" alt="Cover for Hazel" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-13</td>
       <td>woven tales</td>
@@ -153,7 +153,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/_D5riCpmfObWgS7Xl3pfLKvzNbDwdNrWS_kRoBy_CpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODQ1/ODQtMTM4MDExNzc1/NC03ODQyLmpwZWc.jpeg" alt="Cover for Vision Of Estonia" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/ZmczGjc-mr_gWZ-9tRytph77RC5A3BoiD28PZYI2AnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTc1/NDItMTQ0NTI4OTI4/OC0zOTc0LnBuZw.jpeg" alt="Cover for Cryptid Binaries" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9d1adce2fc09098c5445f6ed21fdb5e.png" alt="Cover for Cryptid Binaries" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-08</td>
       <td>Basic House</td>
@@ -218,14 +218,13 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/lmgCNj1YPtJsRbo4T7QglPWTvMkyPiol0qAeGhVwpmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDE4/OTYtMTM4NTYzMTc4/MS02MzcyLmpwZWc.jpeg" alt="Cover for Bodytalk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d8c16c67e5c4a92caf502094a32c763.png" alt="Cover for Bodytalk" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-26</td>
       <td>Fast Times</td>
@@ -242,9 +241,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/mvr2K40glgnrSQdgLCX1r9VSCoyzFsC1CCgmXnloxyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTE2/MDYtMTQyMTgyMjAx/OC05NTU5LmpwZWc.jpeg" alt="Cover for APXB" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3551bc93dd6124595245d7343184780.png" alt="Cover for APXB" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-06</td>
       <td>AL-90</td>
@@ -263,14 +262,14 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 66</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 76</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 96</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 9</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 69</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/bv7GrdfUovQiVu-YMnKejWUihjgr9k7nI_D3DfUHukk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDE4/MDItMTQwNDIwNDg4/My01NDMzLmpwZWc.jpeg" alt="Cover for Hello World" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +286,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 49</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -328,7 +327,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/oYimxjAQKHLlod9DBiW14Jl0Dx03OARYFdOt48jDiKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzM4/MzgtMTQyMzUxNDcw/Mi0yMjAyLmpwZWc.jpeg" alt="Cover for Comparator [EP]" style="max-width:120px; height:auto;" />
       </td>
@@ -349,7 +348,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/u_XE4tApi9zYOni4BkMa2IZWIUOBTjqBW4nqdbdmyU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODA5/NjYtMTQzNzkxODAz/My04NzcyLmpwZWc.jpeg" alt="Cover for Directions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1bc57dca4c5292416c70df9567cf18a.png" alt="Cover for Directions" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-26</td>
       <td>René Najera</td>
@@ -391,7 +390,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/iZNOBNlxnog1NLzvO9JNCt-EfLvSolJKatFirOWoTXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjMw/NzItMTQzOTgzOTk5/OC00MzU3LmpwZWc.jpeg" alt="Cover for L&#39;étreinte Imaginaire" style="max-width:120px; height:auto;" />
       </td>
@@ -409,14 +408,14 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/Wip3sTKoWyftRY5mXXVAI2EvEZhD7pcRFI0ZxCevnKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzE0/NTktMTQ0ODA0NjE1/OS0xOTc0LmpwZWc.jpeg" alt="Cover for For U To Feel EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8eb25ca217fd16ce75c8e079ecec353.png" alt="Cover for For U To Feel EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-18</td>
       <td>Khotin</td>
@@ -475,7 +474,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 30</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 27</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 37</li>
         </ul>
       </td>
@@ -505,7 +504,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/OwtWmRwY_N5kms5CIhuOqMUS-l6g8KpBCzmWu_C9LpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMx/MzkwLTE1MTQzODcy/NTMtNDgyMi5qcGVn.jpeg" alt="Cover for Rejected Ambient Works 2009-2016" style="max-width:120px; height:auto;" />
       </td>
@@ -547,9 +546,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/z48pz3JKpo-E_6JCw9ZpIu1GRx7ayJfuaHWz_i30Ms0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDQx/ODUtMTQ1Mjc2MTA3/NC0zMTIwLmpwZWc.jpeg" alt="Cover for Baikal Acid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79948bc6b2c138c2e673fb95c7bdab6d.png" alt="Cover for Baikal Acid" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-15</td>
       <td>Khotin</td>
@@ -568,7 +567,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Os71T3VSsSBHmjrD6rpuiIuJA3I25xxR_whAGvTSlsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODE2/OTEtMTY2Mjg5MzAy/MC0xNDc1LmpwZWc.jpeg" alt="Cover for Black Patterns Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +626,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/2dzzeKMM0QDwJDNCKm-wdU4cPufLtlm0kIDsEUFxIqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTA2/MzYtMTQ4NDQ4Nzc5/Mi0yMjMxLmpwZWc.jpeg" alt="Cover for You&#39;ll Understand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a913fab278366e56776460f322a6eb.png" alt="Cover for You&#39;ll Understand" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-09</td>
       <td>Ross From Friends</td>
@@ -642,8 +641,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 68</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 74</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +713,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/qBuITLN79-kfbJHrLz_3sNUog6wL3DDcMwdOqUXM-HM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcy/NDc4LTE1MDUwNjM3/MzAtMzEwMi5qcGVn.jpeg" alt="Cover for Ariadna" style="max-width:120px; height:auto;" />
       </td>
@@ -732,9 +731,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/JjswDHduYBWOTmd2quR7qrQvhQ2pgn9_aV4O26o-hgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDky/ODU2LTE1MDk3MjY0/MTgtNTk2OC5qcGVn.jpeg" alt="Cover for Time Spent Away From U" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d884d1a88e348a82e3ff8a36ddf6a3e.png" alt="Cover for Time Spent Away From U" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-03</td>
       <td>DJ Seinfeld</td>
@@ -750,9 +749,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/E2PQn_YbafEAUp9lczpUMQXmQM_3jDAOeHXHUYEWArA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYy/NjAzLTE1ODMwMTY4/MDMtNjI0NS5qcGVn.jpeg" alt="Cover for Makin&#39; Magick" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/735c7061efb842a2ecec3206359b29ab.png" alt="Cover for Makin&#39; Magick" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-10</td>
       <td>DJ Sabrina The Teenage DJ</td>
@@ -770,7 +769,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/r6fCHewjpeQ7RPNuAvjzc2CJAg541vv0SLOPrOhP9Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYx/ODc3LTE1Mzk3ODA3/NjgtMzc2OC5qcGVn.jpeg" alt="Cover for pool boy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18d5a6b980c886e9d82b4510faa8b631.png" alt="Cover for pool boy" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-22</td>
       <td>pool boy</td>
@@ -790,9 +789,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/fukSXdtJOVRn3CuzOOoUaBJIvpAuhqMQhWuwTu6bsdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEz/MDcyLTE1MTk0MjM2/MzQtOTY2OS5qcGVn.jpeg" alt="Cover for 2012 - 2017" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a181e0bac12b3f98769c6ef93035f252.png" alt="Cover for 2012 - 2017" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-17</td>
       <td>Against All Logic</td>
@@ -804,7 +803,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 13</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 53</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -829,9 +830,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Os2Ordy3h7eFzKvWBi3bsw0fvOJ2Gq5kK3VZupmDnkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc1/NjYxLTE1MjM5MTMx/OTUtMjk5Ni5qcGVn.jpeg" alt="Cover for Rio Grande" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b956659680e5ab309783f85c8256e856.png" alt="Cover for Rio Grande" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-30</td>
       <td>Delroy Edwards</td>
@@ -846,6 +847,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -886,27 +888,25 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 32</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/xto7J6hQs7_w3tAQC_BVAmE5vzzhGdWWP3m3Wx2njQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk5/MjA5LTE1NDAyODgx/NzMtOTEwMy5qcGVn.jpeg" alt="Cover for Murmansk-60" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbc8eeb464b2c26b7659fb292578c82f.png" alt="Cover for Murmansk-60" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>AL-90</td>
       <td>Murmansk-60</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 96</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -934,7 +934,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/Dj35Pff3FUaEZ6O78yNMVubVqq1eTRKgXwplNOHAmUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYy/Njg1LTE1NDMzOTU2/MTYtODM2MC5qcGVn.jpeg" alt="Cover for SIGH EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eb68d010304984f024cbb5b69f75d5e.png" alt="Cover for SIGH EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-27</td>
       <td>mchy i porosty</td>
@@ -953,7 +953,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/RUn6Y1rp1fCVdP2hBpzRgcwr9xTc5Tz2HsbrccTuw9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgy/Mzg0LTE2Nzc3ODc1/NDItNzg5OS5qcGVn.jpeg" alt="Cover for One" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +971,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RUn6Y1rp1fCVdP2hBpzRgcwr9xTc5Tz2HsbrccTuw9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgy/Mzg0LTE2Nzc3ODc1/NDItNzg5OS5qcGVn.jpeg" alt="Cover for VHS_ONE" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,6 +1012,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f1d18fab00925b55557e0ca73e9f823.png" alt="Cover for Strange Rabbits" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-07</td>
       <td>StabUdown Productions</td>
@@ -1030,7 +1031,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/1oa_TEL2Gult74XVRvWmaWPJNjMFrZm36cu8PJvxvII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ4/NTMwLTE1NDg5MDA2/NDUtMjYzMi5qcGVn.jpeg" alt="Cover for Cherushii &amp; Maria Minerva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b0ebf0aa63af9969c4ed95929c628d6.png" alt="Cover for Cherushii &amp; Maria Minerva" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-15</td>
       <td>Cherushii &amp; Maria Minerva</td>
@@ -1050,7 +1051,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/_wf5NXZc5ozC30U2CSbzIdQbv4B5ZDU7QerhPCv_L3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg4/MjU5LTE2MzY5ODI3/NDktNTEwOC5qcGVn.jpeg" alt="Cover for containmentzone" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1093,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/IDRP3f3Vnd-_cHoJW8MH5y-xvZ732S1Bdk8KsHjWI0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU1/MTg3LTE1OTcxODk0/NzctNjMxNy5qcGVn.jpeg" alt="Cover for Procrastination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/817a592751fafe3b6bb952e5b2a346b8.png" alt="Cover for Procrastination" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-23</td>
       <td>Prizefight</td>
@@ -1108,33 +1109,13 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 12</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 14</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/3W9VVcr5AUL5amUN9c8l-C_NoGCwKUHcddfaFflwKmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MTQ4LTE2ODQzNTQ5/NzMtMTc5Ni5qcGVn.jpeg" alt="Cover for Corner Games EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-05-11</td>
-      <td>Neuronphase</td>
-      <td>Corner Games EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/kia3NbWVlEA4XOg9o8FwN1UYNiHtsWAEc4lBe3Je9Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzA5/NzAyLTE2NTMxNzE1/MzgtMTY4My5qcGVn.jpeg" alt="Cover for Haus Vibes for House Wives" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1133,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/mMUKlv6LxBnNyjS3iH5fuppQ5fl4sOf74bujBiEBFiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgx/NzU2LTE2MTk1MjMz/MzgtMTA2NS5qcGVn.jpeg" alt="Cover for The Death of Father Time (a Prequel to Immortality)" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1232,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 12</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 14</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 77</li>
         </ul>
       </td>
@@ -1302,7 +1283,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/acYp-TkPvWXWU0jYWQjRabjHZGus2ABCbG94mPv1Kpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDUz/MjgwLTE2MjMwODg0/MjYtMjYxMi5qcGVn.jpeg" alt="Cover for 247 365" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,8 +1323,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 2</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 98</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 99</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 99</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 100</li>
         </ul>
       </td>
@@ -1368,35 +1349,15 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 58</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/btuZtzAJG6l5cM6CsTXWx_Mk3-c-ELHfjhi0yhmH268/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk0/NzQ5LTE3MTU0Mzc5/MzYtNzg2OC5qcGVn.jpeg" alt="Cover for Cartier&#39; In Da House (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-07</td>
-      <td>Cartier God</td>
-      <td>Cartier&#39; In Da House (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/btuZtzAJG6l5cM6CsTXWx_Mk3-c-ELHfjhi0yhmH268/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk0/NzQ5LTE3MTU0Mzc5/MzYtNzg2OC5qcGVn.jpeg" alt="Cover for Cartier&#39; in Da House" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/418e36404c6864ef66836aecb30f3fc8.png" alt="Cover for Cartier&#39; in Da House" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07</td>
       <td>Cartier God</td>
@@ -1413,7 +1374,24 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd905b726f7e590eb79f4525de3a4484.png" alt="Cover for Cartier&#39; In Da House (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-07</td>
+      <td>Cartier God</td>
+      <td>Cartier&#39; In Da House (Deluxe)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/PoK_B0NswvU-zPM4k6cFfAnR3sgfxiftyum3BF8_dtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYy/MTAyLTE2MjgyNTgx/NDYtMTEyNy5qcGVn.jpeg" alt="Cover for Softic" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1406,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 96</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1454,9 +1432,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/qaAijb0cW6upnvCikTjMu04WVLVJCh9n7NpTNTuGqas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg1/NDQ0LTE2MzU1OTk0/NTUtMjQ5Mi5qcGVn.jpeg" alt="Cover for Tread" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eedfa9ab75f69afdcf931f8dca9eac06.png" alt="Cover for Tread" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-22</td>
       <td>Ross From Friends</td>
@@ -1472,7 +1450,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 21</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1493,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/y95GK5mtx9b68tin7eaxnXAqRxaM9ZYIwYNhJ-byCJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTI0/ODQwLTE2OTE1OTI3/OTItNDQwOC5qcGVn.jpeg" alt="Cover for A Taste of Hope (Hallowvale)" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,7 +1511,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/0ipDAWk2t5MrO8yYmf3YxLcUQX7pAvhW6HlfBUyASFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgy/Mjc2LTE2Nzc3ODY4/MjMtMTk1My5qcGVn.jpeg" alt="Cover for VHS TWO" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,9 +1529,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/AxYf0WHrHvVH9k_x17sjWKDyv1Oy6sFSIFS0Zvaq2kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE4/ODYzLTE2NDk1MDQ1/MjUtMjUwNC5qcGVn.jpeg" alt="Cover for a couple of good days" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f055df1b74575e13eb0591b9243a02b1.png" alt="Cover for a couple of good days" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>Fennec</td>
@@ -1569,8 +1547,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 54</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 63</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 56</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1677,9 +1655,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/wYQSA4Z_5VrEswJ4dXlpiIwyVvIL6iEZ2zX_5QKiIwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTY3/MjYxLTE2NjAyMTQy/NzAtNjc1My5qcGVn.jpeg" alt="Cover for Miracle In Transit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a354bac02fd4bd937305ec1d3a85e792.png" alt="Cover for Miracle In Transit" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-29</td>
       <td>Naked Flames</td>
@@ -1697,7 +1675,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 16</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 92</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 94</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 94</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 97</li>
         </ul>
@@ -1706,6 +1684,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13d503ba848033b29a28ad609fbd3984.png" alt="Cover for Дистимия 6" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-22</td>
       <td>YABUJIN</td>
@@ -1725,7 +1704,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg" alt="Cover for さよならTAISAI" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ba303d77161c67ca6d5c650d429593e.png" alt="Cover for さよならTAISAI" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>death&#39;s dynamic shroud</td>
@@ -1766,7 +1745,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/ruIdV69C9W3hTHwAKOnhIT0r25o3pv5RHWTV0uJOzz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODE4/NjMxLTE2OTA2NjE4/MDUtNTA4Mi5wbmc.jpeg" alt="Cover for 6G DEALERS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89a94a267615f4e834a1441aba58e6cc.png" alt="Cover for 6G DEALERS" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-07</td>
       <td>The Bobfather</td>
@@ -1786,7 +1765,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 28</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 52</li>
         </ul>
       </td>
@@ -1794,7 +1773,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/XzfhOtkvMLIblh5pysjFD4m0QQm6P-7MMkgPe1mWCuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzk4/MDYxLTE2NzIxNzUw/MjEtNzk2Ny5qcGVn.jpeg" alt="Cover for Dance Into The RevolutionX3: CIA Galaxy Rave Operations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a0d6dc6fb73dbf23354b611e1f22bd0.png" alt="Cover for Dance Into The RevolutionX3: CIA Galaxy Rave Operations" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-04</td>
       <td>The Bobfather</td>
@@ -1817,8 +1796,27 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6896058e1f5d5dffd43e7eed71a7e2b6.png" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-13</td>
+      <td>DJ Sabrina The Teenage DJ</td>
+      <td>Destiny</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fea0d6fbae9e015217b7ccb8d1e73478.png" alt="Cover for Katherine Hepburn" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ Lilika</td>
@@ -1832,13 +1830,14 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99c274ee26ea3080e43068c1869c574d.png" alt="Cover for When Flamingos Fall from the Sky" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ Lilika</td>
@@ -1853,13 +1852,14 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd03acf13de9fcd2db274a907d61b410.png" alt="Cover for Crime of the Century" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Youth Spells</td>
@@ -1875,7 +1875,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 24</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1895,12 +1895,12 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td></td>
@@ -1914,12 +1914,12 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 23</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1936,7 +1936,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1954,8 +1954,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a9b62710e60e266eb3adc34a78074e.png" alt="Cover for Swamp Tapes 001" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shae McGilvray</td>
@@ -1972,7 +1973,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1990,7 +1991,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2047,6 +2048,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfb2033e917a0b1dcf6421a40d2c18b1.png" alt="Cover for midnights" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Samflakes</td>
@@ -2090,6 +2092,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50410abf3dcef9678a97c7a8e5219a59.png" alt="Cover for Lilika CD" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ Lilika</td>
@@ -2115,9 +2118,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
 - [deep house]({{ "/tags/deep-house" | relative_url }})
 - [techno]({{ "/tags/techno" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [ambient house]({{ "/tags/ambient-house" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
+- [ambient house]({{ "/tags/ambient-house" | relative_url }})
 - [acid house]({{ "/tags/acid-house" | relative_url }})
 - [lo-fi]({{ "/tags/lo-fi" | relative_url }})
-- [idm]({{ "/tags/idm" | relative_url }})
 - [microhouse]({{ "/tags/microhouse" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})

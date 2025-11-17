@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T04:29:46.297Z
+date: 2025-11-17T09:32:46.686Z
 permalink: tags/brazilian
 title: brazilian
 ---
 
 ## brazilian
 
-Last updated: <time datetime="2025-11-14T04:29:46.297Z">Fri Nov 14 2025 06:29:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T09:32:46.686Z">Mon Nov 17 2025 11:32:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1963</td>
@@ -49,7 +49,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/l9Yw-SoaHGFAIn0Oj-ne3oKt70FLMUa6epYV-XXr1xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTA5/NjEtMTQ4MzI3NDUz/Mi00NjA2LmpwZWc.jpeg" alt="Cover for Sinatra&#x2F;Jobim: The Complete Reprise Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 60</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/_7WIvc4W7oUvSeBhu1Fptcn4frYTfYIVprfENqX0KB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgx/OTctMTU5ODA3NTIy/Mi05OTgwLmpwZWc.jpeg" alt="Cover for Jardim Elétrico" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b47929a57fc4a51fd2e4b2569af7899f.png" alt="Cover for Construção" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/CyumulBDkCWuyB2O4vfD4Uwc8rqpzGpTO8YZL9zDIQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTMy/OTktMTU4MTQ0NjY5/MS0yMjc2LmpwZWc.jpeg" alt="Cover for Jards Macalé" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba1aab74287e490bd47bb3030dee9eba.png" alt="Cover for Racional (Vol 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>1975</td>
@@ -207,7 +207,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a949bf905aafdc5c98f23986621a30be.png" alt="Cover for A Voz Do Samba" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +226,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/9S0i1-gtv9il_1fqtGnkCNF906bTcQSx1TMr5Rs5vuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODgy/ODctMTM3NDg1OTk0/OC0xMjkxLmpwZWc.jpeg" alt="Cover for Minas" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +244,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4baf99af70eaef5e91c2f2cc4b4df775.png" alt="Cover for Novo Aeon" style="max-width:120px; height:auto;" />
       </td>
@@ -263,8 +263,9 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c3678b3c042b251789c0dc412e84e71.png" alt="Cover for Di Melo" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Di Melo</td>
@@ -281,7 +282,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/gYGm8smMX2eXv9stcPPhMNGpQGzFdLGU-RYYx2Ifi_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzk5/NjAtMTQ5MjUyNzUw/MS04Mzc5LmpwZWc.jpeg" alt="Cover for Meus Caros Amigos" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +301,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>1977</td>
@@ -380,7 +381,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1982</td>
@@ -418,46 +419,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/698f6f6e7bddbca607a051d5bea778d8.png" alt="Cover for O Passo Do Lui" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Os Paralamas Do Sucesso</td>
-      <td>O Passo Do Lui</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 62</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 73</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 91</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 98</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 98</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 98</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/6cpb_17rBZf-3AWMdPso_ArZODXnFqYOblv4tUz6Xs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTMx/MzEtMTM5MjY4NTAy/MS01NDQ3LmpwZWc.jpeg" alt="Cover for Essa Mulher" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +437,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8067dcfb781f7ca7ed820317a3c23b59.png" alt="Cover for Exagerado" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +529,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1995</td>
@@ -581,7 +543,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 8</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -606,7 +568,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>1996</td>
@@ -644,7 +606,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/441dd3d30119de6dace5fa8da9b7edaa.png" alt="Cover for O Samba Poconé" style="max-width:120px; height:auto;" />
       </td>
@@ -659,13 +621,13 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 39</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 40</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12987b5a91174da5925eecc98e770e6a.png" alt="Cover for Só No Forevis" style="max-width:120px; height:auto;" />
       </td>
@@ -681,12 +643,12 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/aaWYVhyK-0jVggY60Sg5HUbKa_W_GQMxGiTC8JGF4wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NTY5LTE0OTI4Njkw/MzEtOTI2NS5qcGVn.jpeg" alt="Cover for Enciclopédia Musical Brasileira" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +669,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/bwo5f6KDDSETG6OaR84yFS-gBu42PXGKB5yh55wC-KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDA5/NDAtMTQ2NzQ1NTQ3/MS04NTYwLmpwZWc.jpeg" alt="Cover for Memorias, Cronicas e Declaracoes De Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +687,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e39c6656e491670b4df1e67fe0023a1.png" alt="Cover for &quot;Jardim Eletrico&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +698,6 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
             <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
@@ -747,7 +708,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/bwo5f6KDDSETG6OaR84yFS-gBu42PXGKB5yh55wC-KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDA5/NDAtMTQ2NzQ1NTQ3/MS04NTYwLmpwZWc.jpeg" alt="Cover for Memorias, Cronicas e Declara.." style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +726,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2000</td>
@@ -784,7 +745,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6210b95657dd065bcd2e174703b9f852.png" alt="Cover for Memórias, Crônicas e Declarações de Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -838,31 +799,31 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 18</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/946eea73aa6e48c4a663614c2e1f4b23.png" alt="Cover for The Astrud Gilberto Album" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +842,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2002</td>
@@ -896,7 +857,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 5</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +905,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2004</td>
@@ -960,13 +921,13 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 81</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 83</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdc91361959b40d9a86c2620c5712926.png" alt="Cover for O Rio, A Cidade, A Árvore" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +944,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2005</td>
@@ -1016,7 +977,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 21</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 22</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 30</li>
         </ul>
       </td>
@@ -1060,7 +1021,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
         <ul>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 68</li>
             <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 71</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 99</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 100</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 100</li>
         </ul>
       </td>
@@ -1101,8 +1062,8 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 13</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 32</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1145,12 +1106,12 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 6</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cccd5dbbbeca5469fecb2c169ecf433d.png" alt="Cover for América Brasil O Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1137,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/tSFudXELsUF0c2nm1KNrAa5qR87P_iOguLF8Gbw_JVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/NDAtMTIxNzcwMDAw/MS5qcGVn.jpeg" alt="Cover for America Brasil O Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,7 +1182,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2008-08</td>
@@ -1241,7 +1202,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2009-05-08</td>
@@ -1256,12 +1217,33 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 41</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2009-05-28</td>
+      <td>Vivendo do Ócio</td>
+      <td>Nem Sempre Tão Normal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70dddc464d1a42cc85bc99a05f9cc23e.png" alt="Cover for Chiaroscuro" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1263,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/HuNFOBc_ZbiB7ixg96Qq-Y1z_knInnhdSfI6mNzSX9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/MTEtMTQ1MzIwNzU2/My04NTc3LmpwZWc.jpeg" alt="Cover for Acústico" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1280,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       <td>
         <ul>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 20</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 26</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 27</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 48</li>
             <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 98</li>
         </ul>
@@ -1326,7 +1308,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec01fe9c5be8df58e4b1a6b46a1a0271.png" alt="Cover for Acordando o Prédio" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1333,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39ef57a9fc34ac542d5bd7ee4250d2c9.png" alt="Cover for Dres" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,14 +1351,14 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 38</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 39</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 92</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2012-02-06</td>
@@ -1391,12 +1373,12 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 18</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2012-09-04</td>
@@ -1414,26 +1396,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td>2013</td>
-      <td>Anitta</td>
-      <td>Ensaios da Anitta</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b1f11bfed034c34a9bcb1d52654b9f2.png" alt="Cover for Sábado" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,15 +1432,15 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 29</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 87</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 31</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 89</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/tCqiJqxG8DO6BZO_FLMUgHMOLSDexZF8CJzTXRUAu7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTQ1/NTUtMTQ3NDY3NzU1/Ny00Mzk5LmpwZWc.jpeg" alt="Cover for A Praia" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,12 +1455,12 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 27</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d7572bfe49e29506d80212adb2919a5.png" alt="Cover for Cru" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1481,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/435c1d395464ae764a4971e2dc602719.png" alt="Cover for Loka" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,7 +1506,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af21831640b507afaca3896dbd33a4c8.png" alt="Cover for Júpiter" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,7 +1523,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 17</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1602,7 +1565,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 11</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 12</li>
             <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 97</li>
         </ul>
       </td>
@@ -1626,7 +1589,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aacaa0cbc21ba44bac8d4e503f7868a.png" alt="Cover for Vida Que Segue" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1608,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc1047cdce15bd019f9112643f4f5e72.png" alt="Cover for Remonta" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1631,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9656231aa5c1ac97b3d108dd444ffb2.png" alt="Cover for LIA (pt.1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1653,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e96c860f37fde083daff2fd4b2bca728.png" alt="Cover for Vem" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1691,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b089715d200b45baf7f2b2544b1ab5a8.png" alt="Cover for Manu" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1744,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/jG0DAdQrrJQuEdydiuN8IQ0uPvkCXLmbUpR8SmzJmGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/NzMxLTE2MDY0MTQz/MDUtNzA2Ni5qcGVn.jpeg" alt="Cover for Toma Toma Vapo Vapo" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,7 +1762,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/c-syHzGvff9_f13UsOA2dlJjuMol3NHbegUq5mxIbzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzMy/MzMtMTQ2NzU5MDI4/NC0xNDM0LmpwZWc.jpeg" alt="Cover for Compact Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1777,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 37</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1856,13 +1819,14 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 15</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9709ebce9d2b6ee620854e610a3d29.png" alt="Cover for Oh Nanana" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-17</td>
       <td>Bonde R300</td>
@@ -1876,7 +1840,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 9</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 10</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 93</li>
         </ul>
       </td>
@@ -1902,7 +1866,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 40</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 44</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 80</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 96</li>
@@ -1911,7 +1875,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2019</td>
@@ -1929,7 +1893,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/s5v3BACmLrsML7OV_MITllS4qw9uhgI2oyqt94lZsxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODk3/NzgtMTQ1NjgyMDI2/OS02NTU3LmpwZWc.jpeg" alt="Cover for Do U Dirty" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,8 +1930,8 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 42</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 61</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
@@ -1975,8 +1939,8 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
@@ -2007,7 +1971,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/VNsimmAofBT_9gKcEc4KBNrapTFix0cXWn7GPJIUAz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTc1/MzktMTM1MTgwNzE2/Mi03ODczLmpwZWc.jpeg" alt="Cover for Open The Tcheka" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,7 +1990,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/-CAnk78xLEKlyNXx5VAhXrefbBY8stHeg-rO_C5D_VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzc4/NDIzLTE2MjU0MTk4/NjUtNDI3Ny5qcGVn.jpeg" alt="Cover for Ama Sofre Chora" style="max-width:120px; height:auto;" />
       </td>
@@ -2047,7 +2011,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cc88490aa03e5cd484e13af8909c6c6.png" alt="Cover for Batidão Tropical" style="max-width:120px; height:auto;" />
       </td>
@@ -2084,9 +2048,32 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c9d1c23ac3da34aac681467b068b57.png" alt="Cover for fugitivos :)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-02</td>
+      <td>Luísa Sonza</td>
+      <td>fugitivos :)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/WjsxSUNG22X8Ryfj806_bXrivmzlSewOZal0GzHJP8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzYx/MjAwLTE2NzgzODYy/NzktNjc2MC5qcGVn.jpeg" alt="Cover for Quer Dançar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bec9a3a20eb3f1c1f25f566dbd7a0a1.png" alt="Cover for Quer Dançar" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-18</td>
       <td>Priscilla</td>
@@ -2124,7 +2111,7 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e73723f480e88719ea0293a86d499fd.png" alt="Cover for Silva Canta Marisa" style="max-width:120px; height:auto;" />
       </td>
@@ -2147,11 +2134,11 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 33</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 34</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 37</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 45</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 56</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 61</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2173,12 +2160,12 @@ Brazilian music is a diverse and vibrant musical genre that incorporates a wide 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 85</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 88</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>

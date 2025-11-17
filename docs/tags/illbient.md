@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T11:10:22.472Z
+date: 2025-11-17T09:15:23.294Z
 permalink: tags/illbient
 title: illbient
 ---
 
 ## illbient
 
-Last updated: <time datetime="2025-11-15T11:10:22.472Z">Sat Nov 15 2025 13:10:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T09:15:23.294Z">Mon Nov 17 2025 11:15:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/VqrJYtwqiG0ZHHUwUwa08LGvG044hWpKeWfDOm96nag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/NjctMTI2NTQ1Mjkw/My5qcGVn.jpeg" alt="Cover for Modus" style="max-width:120px; height:auto;" />
       </td>
@@ -87,9 +87,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/V0H01o6p1a3GjW8vtpfuQV-ZYsyPlOP4x-K44XXJUxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDI0/LTExODg4ODkxNDEu/anBlZw.jpeg" alt="Cover for The Politics of Ecstasy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cca4ab73d984efd03975e3a28c115849.png" alt="Cover for The Politics of Ecstasy" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Astralasia</td>
@@ -109,7 +109,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c80d68c23a34876b541fda0b8818b9f.png" alt="Cover for Satyricon" style="max-width:120px; height:auto;" />
       </td>
@@ -125,12 +125,12 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 35</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c40e51493ebf3ff7bacec1efc413d6.png" alt="Cover for White Irises Blind" style="max-width:120px; height:auto;" />
       </td>
@@ -151,7 +151,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/VmhUQuIPLGrq0b0Yrnvvyb6FeUR7GNRknfTFYWtfdVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA1/LTE2NTc4MTE1OTIt/NzM1Mi5qcGVn.jpeg" alt="Cover for Panasonic EP" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/7whmnqJOZXo02EDqmAb7SjNXxFQcqnS4CkxIhm3hS5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4LTE2/NTA2MTE1ODMtNjM1/OS5qcGVn.jpeg" alt="Cover for Sunset Boulevard EP" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>1994-06-06</td>
@@ -205,7 +205,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c768a151b2df4b1d93ac1cf047a20b2b.png" alt="Cover for Evanescence" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>1995</td>
@@ -236,12 +236,12 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12ee4464b07d5e9af8be565ec6c965eb.png" alt="Cover for Low on Ice (The Iceland Sessions)" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1995</td>
@@ -278,7 +278,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>1995-10</td>
@@ -295,7 +295,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b73990e12a4b00887d2eefba33ad51d.png" alt="Cover for Jelly Tones" style="max-width:120px; height:auto;" />
       </td>
@@ -309,13 +309,14 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 2</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 22</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/dLr14xR16GGF0OGTcWmiFjZa1BqzVitVCB_1eGUIMvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEx/MC0xMTk0MTA0MjI2/LmpwZWc.jpeg" alt="Cover for Pigtronics" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +342,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/5uhl8zLbAuZenmfgOXyBoLwiYKUX6eN5mLmG--xvqPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgz/OC0xNTM3ODE2NDQ4/LTY1NTAucG5n.jpeg" alt="Cover for Psychotropical Heatwave" style="max-width:120px; height:auto;" />
       </td>
@@ -359,7 +360,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>1996</td>
@@ -377,7 +378,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90eb13f5a1798810fde251e5eedc0372.png" alt="Cover for Hypermodern Jazz 2000.5" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +415,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>1996-02-19</td>
@@ -431,7 +432,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12c82e5cf16b4e6bcec80db0a5b3c2d7.png" alt="Cover for Songs of a Dead Dreamer" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +450,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/Tr3vuPvHDACAQOpWxucmn_RORLsuOb8MZERgy5Ihk4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTUx/LTEyMDkzMzY1MTQu/anBlZw.jpeg" alt="Cover for USSR Repertoire - The Theory Of Verticality" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +468,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>1997</td>
@@ -485,7 +486,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997</td>
@@ -502,7 +503,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/OHvStXmLW8mUjChlt0Z6bkz6KJg6SEt3z0Wc3aPkpMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MC0x/MjMyOTA3MzE1Lmpw/ZWc.jpeg" alt="Cover for Anamnesis" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +521,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93c8d54f5e429e7d018106818a239453.png" alt="Cover for Tapping The Conversation" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +542,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1997-01</td>
@@ -557,7 +558,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>1997-03-11</td>
@@ -574,7 +575,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/Vf-_vEQ0Oh5Xa15IdwKqqdhDwqAN27_p_mZ8FbDddUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTEyNDI3MjM1Mjcu/anBlZw.jpeg" alt="Cover for If You&#39;re Into It I&#39;m Out of It" style="max-width:120px; height:auto;" />
       </td>
@@ -590,14 +591,14 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 43</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 53</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 44</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 54</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af23019206447dc8fc2be846e65b9b6.png" alt="Cover for Bachelorette" style="max-width:120px; height:auto;" />
       </td>
@@ -616,9 +617,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 74</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
@@ -627,7 +628,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1998</td>
@@ -686,7 +687,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77cbaabaebe8457e8ec9e174c0e1ca2f.png" alt="Cover for Серый Альбом" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +710,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/3O8w3RvfxzCbbvfYdJu1MrS5VoYWR2dQ0H7fx3h2wHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTY4/LTE2Njg5ODI0Njct/NjkxMC5qcGVn.jpeg" alt="Cover for Black Arc" style="max-width:120px; height:auto;" />
       </td>
@@ -732,13 +733,13 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 46</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 47</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1998</td>
@@ -756,7 +757,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ae9967091fcdaae2bfca2c427267868.png" alt="Cover for Techno Animal Versus Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +775,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/924de81abd88a198ddd37f1279f6f3b4.png" alt="Cover for The Curse Of The Golden Vampire" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +800,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>1998-08-05</td>
@@ -819,7 +820,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/149d6ba7c698faa6bab7880a79c1eed2.png" alt="Cover for Riddim Warfare" style="max-width:120px; height:auto;" />
       </td>
@@ -837,7 +838,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1999</td>
@@ -854,7 +855,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58e01d8f361d4d61bdd53812b9833d06.png" alt="Cover for The Quick and the Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -875,9 +876,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/dpxsC3bJxEJiSkJN3tEZTTHfJNsi0reWKsm-IbnqojA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM5/My0xNjA4ODg2NjU2/LTQ2MTkuanBlZw.jpeg" alt="Cover for Having It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0f732c46f1c430282ab7b38f9878c93.png" alt="Cover for Having It" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-01</td>
       <td>Mick Harris</td>
@@ -893,7 +894,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/UTuv6UwENbMTQelM4x5pCo2ba5aTdmYPkBdrmBkTQtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMx/OS0xMTE2NzU5NTQ4/LmpwZw.jpeg" alt="Cover for Shards Of Pol Pottery" style="max-width:120px; height:auto;" />
       </td>
@@ -917,7 +918,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ML3-TXUNcdWjBl-585fYzqSldgtbh1x2JuKrxje42IE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTc0/LTE2NTk5MDkzMTAt/NTM4OS5qcGVn.jpeg" alt="Cover for Kill Life!!!" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +942,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/8yjdtkeUd3wPz6pBdhhHPhzFwhmqD2RdA-9kPfM1_Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzgz/MS0xMjA3ODQ3Mzc3/LmpwZWc.jpeg" alt="Cover for Labyrinth" style="max-width:120px; height:auto;" />
       </td>
@@ -960,8 +961,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cef7c0f92b1649a4b46cc3e4ee3f6729.png" alt="Cover for cLOUDDEAD" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-01</td>
       <td>cLOUDDEAD</td>
@@ -977,7 +979,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/jkZ-votqp1rAHtz4EAfkBGqxv3BfOVo4bCeIbvTvK4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgx/OC0xMzI3MzA3Nzkx/LmpwZWc.jpeg" alt="Cover for Psychic Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +997,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/4ZN4RK54qDhTK06aSYb9GD5ocSS65U5GwwvDOUxfy4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY4/NDMtMTQzMTU0Nzk3/Ny04OTI1LmpwZWc.jpeg" alt="Cover for Bones Domingo" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1016,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Ht-Atcgc4XXNICiUlxRSP1VNHwvUGBdxRTr53rONTec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE4/Ny0xNDY0ODU4MDg1/LTQ4MjUucG5n.jpeg" alt="Cover for Golova" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1043,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/6uPXZ304y7gD6ELSrezZveBQ6Zojiv-M-fzYxI2tpnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTQz/MS0xMTQzMjQ5NjIy/LmdpZg.jpeg" alt="Cover for Fire Kola Nut" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1064,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2006</td>
@@ -1086,7 +1088,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2006-05-18</td>
@@ -1107,7 +1109,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/yarS9URy4lMfYHAxbpGNOrhYshF1kM7xsOnYJI7Bfwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/MjUtMTUxMzI3NDM1/OS04OTA0LmpwZWc.jpeg" alt="Cover for When Falls Arrive" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1146,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2007-03-08</td>
@@ -1164,7 +1166,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2007-11-28</td>
@@ -1183,9 +1185,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Eo8tcIqkKlF6ytI89Z0oeuUSLqfz_S9bgPzyJxJtqeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg3/MzktMTIwOTI2MjM3/MC5qcGVn.jpeg" alt="Cover for Cerulea" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89e9943e88ebeb215d044c2cc11c5c1b.png" alt="Cover for Cerulea" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-09</td>
       <td>Timonkey</td>
@@ -1210,7 +1212,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/GvWiywqm86MonYi4up_Df-mW3jgSii4WPfzBAi7iwE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/NTI4LTE1OTUyOTA1/MDctNzYyOC5wbmc.jpeg" alt="Cover for The Envious Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,12 +1236,12 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 81</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/638e46751e36ac60d5d1a3c73c03d6e7.png" alt="Cover for Lowrider EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1261,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2009-01</td>
@@ -1277,7 +1279,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/LflWDs4Wr3hfNeJDTbgxihUtihob0VIq1-KNnRQm00Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQx/MzUtMTI0NDUwMzgz/OC5qcGVn.jpeg" alt="Cover for Arrivals" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,16 +1300,16 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 54</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 89</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 90</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2009-06-01</td>
@@ -1327,7 +1329,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea1112fc903a4001a50942f36ab64ef2.png" alt="Cover for The Secret Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,7 +1359,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/u83WB0KFa36HcfepdWp9UL4AaBs72rwEvDPTCmgCGeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk2/MTgtMTI2OTY4NTIx/My5qcGVn.jpeg" alt="Cover for Medicine" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,14 +1384,14 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       <td>
         <ul>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 55</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 55</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/YAW80fQ5f-AhDGg96lcZsCoI8UnyQAp9M6LDGpZB1co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY3/MDQtMTMwMDk5MjIz/Ny5qcGVn.jpeg" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,13 +1410,13 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 11</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 12</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12c9ae758f3a46e491a8c37f8a9b47f1.png" alt="Cover for Cheyne Stokes" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1435,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb80da047ac543c19b2181fd8bd10665.png" alt="Cover for Caveman Smack" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1457,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/__ZsugApLx5AF5_rfZy1AydCFWZEAAoSUb8gPldpU6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM1/NC0xMjM4OTYyNTgz/LmpwZWc.jpeg" alt="Cover for FallPast EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,12 +1511,12 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       <td>
         <ul>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 3</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 32</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae69b2814cb4a798fa1232f74756ee2.png" alt="Cover for The Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,13 +1539,13 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 56</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 55</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/ofjzlBJZ4DjafApZ8T8CttE-sEr7ILu38sffXeeKxWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjgx/OTktMTMwNzgxNjM0/My5qcGVn.jpeg" alt="Cover for ALONE" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1565,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/tE5VoaiQ7YF3Z23ZXJz6hd0e39Z3UcbzEyL7dEp4jNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM2/NDctMTMxNjg4MzI3/Ny5qcGVn.jpeg" alt="Cover for Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1584,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/pIF0gqTHivUJyTJboiiLdjA8O1UPvWt1RkwyT3-DI18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzc3/OTctMTQwMjM5MzE2/NS03MDY3LmpwZWc.jpeg" alt="Cover for Шестая Позиция. Дедовы Транки" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1602,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/pmzp3Knf4FjepsVqglmRPe0PtnNd32SX-QRkmEWMREc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjI3/NzYtMTMzNTM5NzQ2/Ni5qcGVn.jpeg" alt="Cover for LOOT" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,12 +1621,13 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 1</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/_fRt2PJKt2fz6IL-D80kogfTFySzJKRKd_3aE-9m29s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg5/MDctMTMzNjg0NDg5/Ny04NzA4LmpwZWc.jpeg" alt="Cover for Exit Strategy" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1648,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2013-04-23</td>
@@ -1662,7 +1665,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2014</td>
@@ -1686,7 +1689,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/2b6D5xSvgP8Ecsy9owgbFIiH5KZnPV_ShnPeiGnCliw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzAy/OTktMTQyMDAxNjg3/MS04OTg0LmpwZWc.jpeg" alt="Cover for What Happens After the Death Is Recorded" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1710,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td>2014-06-21</td>
@@ -1729,7 +1732,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2b45efc98c54933c9181320bada20f8.png" alt="Cover for Sludge Dredd" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1753,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1887000be72894b198af89dc5bac48.png" alt="Cover for THIRD SIDE OF TAPE" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,15 +1766,15 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 31</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 33</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/B3vgIvRCdh8gu16CpvSusA1yHHppptt5kQwFOp_Btow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjc3/NDctMTQ1Mzc0MjA0/My03NzQ0LmpwZWc.jpeg" alt="Cover for Appendix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef41fedc4c5dd540f97b1f943115a65b.png" alt="Cover for Appendix" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-25</td>
       <td>Norwell</td>
@@ -1790,7 +1793,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/479a43d7cc9d3cf637537a160c5d1c49.png" alt="Cover for 10 &#x2F; 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1812,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/vAWerp8oNUxyzrCtgGM8GJ_2dG8lb0U-yOi3QPWKgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/NzA2LTE1ODQ0ODc3/ODgtMTA3MC5qcGVn.jpeg" alt="Cover for Starving Slvts Always Get Their Fix" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,7 +1834,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/ObDNNJWtz94Cdc7Br8zRvid0PTuYt8LGqzqVADXFOBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/MTI4LTE1Mzg0NjM4/MzgtMTgxMy5qcGVn.jpeg" alt="Cover for Zero One Seven" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1852,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/K4A2_N5NoX--5Oa-K1UsFmyDhE1U0JhZrEl7DEX1zZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA2/MzQzLTE1NDA0MTU3/ODAtNTcxNS5qcGVn.jpeg" alt="Cover for Enginetics &amp; Plasmalterations" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,7 +1872,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/tkEJQj1tFMcQyVCC-dgjzb77m44qDMpmX2yxTq_DlbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg1/LTExODk5NTU1MDcu/anBlZw.jpeg" alt="Cover for Möbius Strip" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1892,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/-pZCZIXZUI9CxBl7fUeVfuujlq3IjEfBMvaj0DhlB24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE3/MzQwLTE1Njg1MzY1/NzAtMTIwMS5qcGVn.jpeg" alt="Cover for Gris" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,7 +1915,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Z3llQiAOCYEiM5fFs-WQn7VUK3dj1K8tAasbxJGgMpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgz/NzkwLTE1OTc3MjE3/NDItODEyNy5qcGVn.jpeg" alt="Cover for BULLET BALLET" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1936,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/0OC7EQOTcaXjcPBELBPOsKTPSaDqoEBo2D3EDJaDdTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI4/MTkyLTE2MjAzOTg0/MzYtNDMwNS5qcGVn.jpeg" alt="Cover for NONE OF THIS IS REAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,19 +1987,19 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 67</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 88</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/0bYAKuI7jmBxa9xBzzJEhYuPq_8K9E3PSul_PullEyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE5/NDExLTE2MjQyNzI4/NzQtNTQ4NC5qcGVn.jpeg" alt="Cover for The Only Place" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,7 +2019,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2022-04-14</td>
@@ -2039,7 +2042,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3707994234cc72af0f75afbe032d3051.png" alt="Cover for Electric Ladyland IV" style="max-width:120px; height:auto;" />
       </td>
@@ -2058,56 +2061,27 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/yZKbbAuYMZule1VeTa5QdZJoVMOD6Kc7u36b735BvLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/NDUwLTE2ODQ4MDcz/ODctOTIwMS5qcGVn.jpeg" alt="Cover for Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b25565a242ad5ede03282e8f0dbd7d5a.png" alt="Cover for Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Bedwetter</td>
       <td>Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Glasshouse#01" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Glasshouse#01</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/2rLM3bPR4NtV7ShNwRbBRVHZplDJF2k7ywaxdfucBE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzUy/MDQ2LTE2NzM2MDUw/NzktMjk5OS5qcGVn.jpeg" alt="Cover for very dark past" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35332009cd5dd0a59576013d6c09c64d.png" alt="Cover for very dark past" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-11</td>
       <td>CrimeBoys</td>
@@ -2121,12 +2095,12 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/EPeE48KPqJhtTIl29l-p68FoUpnyPLeda9xFyZZzOaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjI1/MTA1LTE2ODU1NzQ2/OTYtNTA3MC5qcGVn.jpeg" alt="Cover for No Soul, No God, No Devil, No Existence" style="max-width:120px; height:auto;" />
       </td>
@@ -2143,7 +2117,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/iHA655pehhl6YY7fbeAe4jCed6zBVjHvaEnANeq1Vvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjAx/MzQwLTE3MDk1ODA3/NDItOTMyMy5qcGVn.jpeg" alt="Cover for BLK LBL" style="max-width:120px; height:auto;" />
       </td>
@@ -2169,7 +2143,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2024-11</td>
@@ -2187,7 +2161,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
@@ -2215,7 +2189,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -2256,7 +2230,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2273,12 +2247,29 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
       <td>Adlib, the Rabid Child</td>
       <td>super pain machine</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93d230788520fac4ea1378057a8fdc9f.png" alt="Cover for The Head Hurts but the Heart Knows the Truth" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Headache</td>
+      <td>The Head Hurts but the Heart Knows the Truth</td>
       <td>
         <ul>
         </ul>

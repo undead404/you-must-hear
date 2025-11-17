@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T04:35:53.149Z
+date: 2025-11-17T12:03:32.009Z
 permalink: tags/jazz-fusion
 title: jazz fusion
 ---
 
 ## jazz fusion
 
-Last updated: <time datetime="2025-11-14T04:35:53.149Z">Fri Nov 14 2025 06:35:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T12:03:32.009Z">Mon Nov 17 2025 14:03:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -69,7 +69,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>44</td>
       <td>
       </td>
       <td>1970</td>
@@ -86,7 +86,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 21</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 22</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 96</li>
         </ul>
       </td>
@@ -112,7 +112,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41dbeedf6c244b8c40c5d21520d15b8.png" alt="Cover for Third" style="max-width:120px; height:auto;" />
       </td>
@@ -132,7 +132,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>9</td>
       <td>
       </td>
       <td>1971</td>
@@ -147,26 +147,28 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 47</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 50</li>
             <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>4</td>
       <td>
       </td>
-      <td>1972</td>
-      <td>Arthur Verocai</td>
-      <td>Arthur Verocai</td>
+      <td>1972-05</td>
+      <td>Weather Report</td>
+      <td>I Sing the Body Electric</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 93</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -185,13 +187,13 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 33</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
       </td>
       <td>1972-07-05</td>
@@ -231,7 +233,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/513529b6bf7346188dc7bc59d6debda8.png" alt="Cover for Focus 3" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +253,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>31</td>
       <td>
       </td>
       <td>1973</td>
@@ -314,7 +316,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>42</td>
       <td>
       </td>
       <td>1973</td>
@@ -353,8 +355,9 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c25047d9c74c59cc7c71a4fa467ce4.png" alt="Cover for Get Up With It" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Miles Davis</td>
@@ -368,12 +371,12 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 9</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 23</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/Ghnvien1yHqiDojTcHOnMOSOLzNvMe9rKzZyiDEcCcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/ODYtMTMyMTM3NDcx/Ny5qcGVn.jpeg" alt="Cover for A Virgem de Saint Tropez (Trilha Sonora Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -389,13 +392,13 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 10</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 15</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>24</td>
       <td>
       </td>
       <td>1974</td>
@@ -431,28 +434,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td>1974-09-06</td>
-      <td>Herbie Hancock</td>
-      <td>Thrust</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 39</li>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/AouS-jdEueLhaiDGqMVrSm_eFavzu7LEj7IjjRxEBHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYy/MzAtMTM0OTcxNDgx/NS02MzYxLmpwZWc.jpeg" alt="Cover for No Mystery" style="max-width:120px; height:auto;" />
       </td>
@@ -468,26 +450,6 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td>1975</td>
-      <td>Herbie Hancock</td>
-      <td>Man-Child</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -510,7 +472,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd3b3d0196354f07b22f228c26579db4.png" alt="Cover for Visions of the Emerald Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +492,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
       </td>
       <td>1976</td>
@@ -545,28 +507,6 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/xys7jIf4T8lNaL3wvRuJnhwRyLId0IUcoDwcAOLOuSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDc3/Ny0xNjQzODg2Njcz/LTMyMzAuanBlZw.jpeg" alt="Cover for School Days" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Stanley Clarke</td>
-      <td>School Days</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 22</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -590,9 +530,9 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/dXn0_11ppinI9HBCeT7qS6pxjRlOZSK78lrfqAc-CfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODMz/Mi0xMTA0NTAzNjQ5/LmpwZw.jpeg" alt="Cover for Black Market" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94d0486b4279294cc24d7fea5920b1f4.png" alt="Cover for Black Market" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-04</td>
       <td>Weather Report</td>
@@ -610,7 +550,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0ded793407420eb48ab2951e97dc79.png" alt="Cover for Unorthodox Behaviour" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +572,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
       </td>
       <td>1977</td>
@@ -667,7 +607,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 40</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 42</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 97</li>
         </ul>
       </td>
@@ -694,7 +634,25 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/eCnobVzpPZxJzALiyBHZVVmWcthHvyD1IxacraeWn-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM2/MjUtMTIwMjU1NTQ5/Mi5qcGVn.jpeg" alt="Cover for Light As A Feather" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>Chick Corea</td>
+      <td>Light As A Feather</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
       </td>
       <td>1978</td>
@@ -712,7 +670,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
       </td>
       <td>1978</td>
@@ -729,7 +687,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>25</td>
       <td>
       </td>
       <td>1979</td>
@@ -748,6 +706,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2442a3969afcf4aef5681d31de7909.png" alt="Cover for Casiopea" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-05-25</td>
       <td>Casiopea</td>
@@ -761,13 +720,13 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 3</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 7</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>
       </td>
       <td>1983-04-23</td>
@@ -786,7 +745,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>32</td>
       <td>
       </td>
       <td>1985</td>
@@ -804,7 +763,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>22</td>
       <td>
       </td>
       <td>1986</td>
@@ -823,7 +782,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Q6cbU1lnAfqjdREAqwdxZNfN4dRjl7FeA8H5tJyfQM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MDMtMTIwNTAwNTEx/NC5qcGVn.jpeg" alt="Cover for The Chick Corea Elektric Band" style="max-width:120px; height:auto;" />
       </td>
@@ -841,8 +800,9 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98036bca794c46ac92f71db6796ba736.png" alt="Cover for Blue Matter" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-09</td>
       <td>John Scofield</td>
@@ -880,7 +840,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ccjB81qhJw1T0f0sV-oM_VHMS_sLHZoz5eKSUdM3t-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTA0/MS0xMjYxMzY0NTY2/LmpwZWc.jpeg" alt="Cover for Still Life (Talking)" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +880,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
       </td>
       <td>1992-07-14</td>
@@ -939,7 +899,27 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1595aa9cda7d4aa4846c667940db43fa.png" alt="Cover for Out of the Loop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-09-13</td>
+      <td>The Brecker Brothers</td>
+      <td>Out of the Loop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/j7_FAmWkyY0datwdM2KvX9zhbT9HSdfi6ik36qHoLwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njcx/OTQtMTI4NTY4NDk4/Mi5qcGVn.jpeg" alt="Cover for Bitches Brew (Legacy Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +959,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/egmFJUYt5Bjh5noCCGHI-cjgl06hJ_o8L3yYad3Ousw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njk4/MzYtMTMwOTEyMDMw/NS5qcGVn.jpeg" alt="Cover for Scenes From My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +977,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/pVLPIuTwXNdIYwuXH6YsIKljGkQFyvGPWLXjt9u43OQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQz/NzMtMTYyODY5NTIx/OC01MjkzLmpwZWc.jpeg" alt="Cover for Elegant Gypsy - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +998,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>21</td>
       <td>
       </td>
       <td>2000-07-25</td>
@@ -1053,7 +1033,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 69</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 70</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 89</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 95</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 97</li>
@@ -1061,7 +1041,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/ooRWXm4wg0696gxTi6FbIqKSqvLLF1SW1r475_OV2GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTgy/MzAtMTQxNjMzNjE5/NS0xNDY3LmpwZWc.jpeg" alt="Cover for The Lady Sings" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1064,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef12d9068c1a3b2db753e1e8f78a1d9e.png" alt="Cover for Elo" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,7 +1086,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc4d9b5c7c444080c0b7c29e553cff44.png" alt="Cover for Hard Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,7 +1105,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>11</td>
       <td>
       </td>
       <td>2003-06-03</td>
@@ -1144,7 +1124,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/BKFCWKIca-Q41hFpqiguS8woTUYQogkJ0xaqj0MLJiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODc2/NS0xNTg3MjgyNzY1/LTg3MjcuanBlZw.jpeg" alt="Cover for Observing Systems" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,13 +1159,13 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 45</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 46</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1bf4c08f17bf690251a5b76b767f4c0.png" alt="Cover for Possibilities" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1184,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/0hi7r03xzoE_kRbRotx-w5Q_chFawn5lDd3psBDOiT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjI3/MTYtMTM3ODc0MTUw/MC01MjAyLmpwZWc.jpeg" alt="Cover for Katcharpari" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1203,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/V_OzTJ1qo85yMVX2Uhysxloc3yhzHCkbLCbFSSL3rEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTYy/NS0xNTgwMDM4MzUx/LTEyNDcuanBlZw.jpeg" alt="Cover for Hund" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,8 +1229,9 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/065022797ec743edc31cc4bea0a16181.png" alt="Cover for The Horseshoe Curve" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-24</td>
       <td>Trey Anastasio</td>
@@ -1274,8 +1255,9 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73e74bd4720987bc5e31a49986ce9e75.png" alt="Cover for あらためまして、はじめまして、ミドリです。" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-14</td>
       <td>ミドリ</td>
@@ -1288,13 +1270,13 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 50</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 89</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 95</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 91</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/_O-qx7Bk-dUharOXNG4RMbZ5Myp3lzWbSS2HePAmjb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzM3/NjItMTMxNDQ4NjMz/NC5qcGVn.jpeg" alt="Cover for Jorge Vercilo ao vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,6 +1302,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49107e8436930ba29bd02fb4b0d64a8.png" alt="Cover for Head Hunters" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-28</td>
       <td>Herbie Hancock</td>
@@ -1340,24 +1323,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ba4646467174a5ebd74ad9db752d63d.png" alt="Cover for The Golden Age of Apocalypse" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-08-06</td>
-      <td>Thundercat</td>
-      <td>The Golden Age of Apocalypse</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d6fff01c61d49eab0a0b5d96d461223.png" alt="Cover for The Aristocrats" style="max-width:120px; height:auto;" />
       </td>
@@ -1377,7 +1343,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0a9f50bde6c1a1f8d8d988ea11b3086.png" alt="Cover for Maps of Non-Existent Places" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1362,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/7QisKZC5ID5JzwmzPq7pGWASMYIwwRpD6k6NTXiKYYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MTgtMTM2NjcxNzQ0/Mi00NTEzLmpwZWc.jpeg" alt="Cover for Sylva" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,9 +1386,9 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/7QisKZC5ID5JzwmzPq7pGWASMYIwwRpD6k6NTXiKYYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MTgtMTM2NjcxNzQ0/Mi00NTEzLmpwZWc.jpeg" alt="Cover for GroundUP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b0e05abb156495d962f63a634e68abe.png" alt="Cover for GroundUP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-26</td>
       <td>Snarky Puppy</td>
@@ -1446,7 +1412,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d6001b575a84c9cbf0fc56b9d62da1c.png" alt="Cover for Sweet Nothings" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1430,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
       </td>
       <td>2013-11-05</td>
@@ -1500,7 +1466,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
       </td>
       <td>2014-05-03</td>
@@ -1513,14 +1479,14 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 2</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 50</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/aZhzIbITXF_aWiDdEl1BIED1Zt46vfi9AKTEFk0Bhno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDU2/MTUtMTQxMDM5MjUw/OS0yMjQyLmpwZWc.jpeg" alt="Cover for Let&#39;s Dance Raw" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1504,25 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e93d843fc874445c47e5f33490203e4.png" alt="Cover for The End Of Everything" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-11</td>
+      <td>Plini</td>
+      <td>The End Of Everything</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1b439f8aabfe61b1636ccea5e3a04ef.png" alt="Cover for Polysemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,7 +1550,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/1swGiUNY5mAotVXn2UXZrAHLW-wnftx-xQ1NDIJW4zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjA1/MzQtMTQ0MzE5MDQ3/My05MDA0LmpwZWc.jpeg" alt="Cover for Red &amp; Black Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,7 +1570,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71c6425101a0adeeeb654dbe3318af16.png" alt="Cover for Culcha Vulcha" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,7 +1608,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e249393bc7e6f683ddcfdd77449a3c5.png" alt="Cover for Standing On The Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,7 +1623,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 46</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 54</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1686,17 +1670,17 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 65</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 98</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee339d3fff04eb1c17f1a37d6283c893.png" alt="Cover for Drunk" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1699,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/eqBiAeYM9F9enEWvd5f85KfcuDVGGltHtG47odemuJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM5/Mzg0LTE1NDcxMjM1/NDQtMzk0MS5qcGVn.jpeg" alt="Cover for Hmayra" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,7 +1717,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf65ca7a448d831a6710f91637e7e0d.png" alt="Cover for Sunhead" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1744,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c7550ff02ec1bfaa1f99b550bc54f6.png" alt="Cover for Intra Mental" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1789,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/479372206b0ad0f851b9a6cd150da667.png" alt="Cover for Reminiscing" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,9 +1811,9 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/_3GuL7b-pu7RPT5aejZmFdJiAzaj1nnGP147z7WzujE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYz/MDI5LTE1ODMwMjYw/MjEtMTAyNS5qcGVn.jpeg" alt="Cover for Elevator Music for an Elevated Mood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56006fb1920432d2801d26704fd8f4f3.png" alt="Cover for Elevator Music for an Elevated Mood" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-10</td>
       <td>Cory Wong</td>
@@ -1847,7 +1831,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 73</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 77</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 83</li>
         </ul>
       </td>
@@ -1877,7 +1861,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/PVGoZyKomcZrm23fhBwyAcK-jquJU_tQX5YLWm4hvqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA0/NDg3LTE2MDcwMTQw/NTQtODE5Ny5qcGVn.jpeg" alt="Cover for Impulse Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1885,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/2uAuCI43uztG2XLvj0_QMDbnjA7r-Djgw_UuEiOFRoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc0/MDM5LTE2NjE5Nzk4/ODItNTcyOC5qcGVn.jpeg" alt="Cover for Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,13 +1920,14 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 75</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4603e77e3a3f860fd6d67ecb1cce6e39.png" alt="Cover for Sketches of Brunswick East" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-07</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -1956,14 +1941,14 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 30</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 75</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/7ss-os5VyWJUBIfRAW8JmW37kexnq8qHyOKLyAANcKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTEx/NDMtMTM5Nzk1MDEy/Mi0xNzk3LmpwZWc.jpeg" alt="Cover for The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e82446e096e89b9d9aa52b2b797192f.png" alt="Cover for The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-24</td>
       <td>BADBADNOTGOOD</td>
@@ -1982,8 +1967,8 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 74</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 81</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 100</li>
@@ -1991,7 +1976,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/CpIsudSLFWZ7BywsjkwiQCIRqWvyPVsTAMjMFr_t6kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA1/NDQ4LTE2ODYwNjU5/OTAtMzU0OS5qcGVn.jpeg" alt="Cover for Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,15 +1993,15 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 60</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 62</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/S7awDppH2jY4626DRrcJ7zZNH2SAvHaDKQWWazkd4PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NTc3LTE3MTQ4OTk5/NTUtNDUyNC5qcGVn.jpeg" alt="Cover for Fearless Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/357674ba00e83e21f4a0d2eb2204cd1d.png" alt="Cover for Fearless Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Kamasi Washington</td>
@@ -2029,14 +2014,14 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 6</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 84</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/kLLzFS_mSx1K776sgG4myxf-3Pxcoxmc5Ne1JHrLmMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjUx/ODk4LTE3MjU0NjQw/NTctNDgxNy5qcGVn.jpeg" alt="Cover for Endlessness" style="max-width:120px; height:auto;" />
       </td>
@@ -2055,7 +2040,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 69</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 81</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 86</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 99</li>
@@ -2063,7 +2048,7 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2082,7 +2067,24 @@ Jazz fusion is a genre of music that combines elements of jazz with other styles
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>TWRP</td>
+      <td>New &amp; Improved</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fa9fd72ab1dbbba1f914d061763df34.png" alt="Cover for Those who throw objects at the crocodiles will be asked to retrieve them" style="max-width:120px; height:auto;" />
       </td>
