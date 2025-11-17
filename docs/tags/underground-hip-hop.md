@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:10:34.603Z
+date: 2025-11-17T06:03:47.659Z
 permalink: tags/underground-hip-hop
 title: underground hip-hop
 ---
 
 ## underground hip-hop
 
-Last updated: <time datetime="2025-11-08T22:10:34.603Z">Sun Nov 09 2025 00:10:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T06:03:47.659Z">Mon Nov 17 2025 08:03:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Merry Go Round" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/4y_rf-J5gsA1A_jsJoHjs7UP8aVFYaznkdffuUyP1tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ3/Ny0xMzk5MzQ1MTEz/LTI4NjYuanBlZw.jpeg" alt="Cover for Blackstar" style="max-width:120px; height:auto;" />
       </td>
@@ -94,27 +94,6 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eb27be7ab397722985536f1e7ba0103.png" alt="Cover for LivingSucks" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Bones</td>
-      <td>LivingSucks</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -178,7 +157,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83a13a96f5139582dbabe3756e80a2f6.png" alt="Cover for Overcast!" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +177,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/190ed9b879ec19356879ccfa5b3ad531.png" alt="Cover for 2000 Fold" style="max-width:120px; height:auto;" />
       </td>
@@ -213,12 +192,12 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 20</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5520cd4c7fff46bbe8baaa1fd31a9867.png" alt="Cover for Operation: Doomsday" style="max-width:120px; height:auto;" />
       </td>
@@ -231,8 +210,8 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -311,7 +290,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c9ff0bb4e0dff601a6f88268a637a04.png" alt="Cover for Deltron 3030" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +307,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/0ll0rPWtX9JaCLwm5FtCJPy1HxCkwz4mVzjCUT7rR7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAx/Ni0xNjAxNTQzNTQw/LTMzOTIuanBlZw.jpeg" alt="Cover for BB Queen" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +340,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 7</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 6</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 68</li>
         </ul>
       </td>
@@ -461,9 +440,9 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 88</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 89</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 93</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 89</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 90</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -487,8 +466,9 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7980b84a30149d70c0056d60b4d87cc.png" alt="Cover for Blockhead&#39;s Broke Beats" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-25</td>
       <td>Blockhead</td>
@@ -519,7 +499,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 19</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -557,7 +537,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 21</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +578,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2003-05-25</td>
@@ -615,7 +595,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 65</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 75</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +635,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/t517TtewzwS53ED0MOE9Mlbs5zQTznzwcCyVE0etkIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzU2/OC0xMjQxMjExODEw/LmpwZWc.jpeg" alt="Cover for Absence" style="max-width:120px; height:auto;" />
       </td>
@@ -670,12 +650,12 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87cfcc3614bd5e9eb23c71aa584f08af.png" alt="Cover for Salaliittoteoria" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +674,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/d_0MJPX27pjZFVhrlBU783uVlqES6zXEK3wnBIM2NQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzgz/Mi0xMjgwNzczODEw/LmpwZWc.jpeg" alt="Cover for Begborrowsteel" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +693,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/rf0YvY3uEAZvoA7EzkoZQrhwNCkNlkTJnc1wZtYDOZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI5/ODYtMTIwMzk1NzYy/MS5qcGVn.jpeg" alt="Cover for This Way" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +744,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -843,7 +823,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2718b44b90447c29c3e9f89ec3a309a.png" alt="Cover for Evolution Fight" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +838,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 23</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -917,11 +897,12 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef07332af81248619e473d5a4ebf6a56.png" alt="Cover for Liberation" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +923,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2007-01-30</td>
@@ -957,8 +938,8 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 46</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 85</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 45</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +962,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2007-08-21</td>
@@ -997,7 +978,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/658f6d9c7a364b9fa204cfc4b6e76eb4.png" alt="Cover for Sad Clown Bad Fall 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +999,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/baa8905fd8bd445c90f998b32e3ce8a6.png" alt="Cover for Sad Clown Bad Winter 11" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,7 +1019,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/VZBhkhf6xUVgB00fA9fwH5wRRBcmYCNBPBchJChgmfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE5/NTItMTUzMjc1MTEz/Ny0xMjEyLmpwZWc.jpeg" alt="Cover for The Layover E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1057,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2008-06-24</td>
@@ -1093,7 +1074,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/f2P1AA7oq_-CBZm9AkJ-2UeZpdAPFBCK2EEu0PD-pTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAy/MjA4LTE2OTU2Nzk2/NzYtMTExOC5qcGVn.jpeg" alt="Cover for hip-hop is good" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,12 +1127,14 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e61633415b048c18cf5d60c4581014f.png" alt="Cover for Everything She Touched Turned Ampexian" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-14</td>
       <td>Prefuse 73</td>
@@ -1191,7 +1174,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5df8aba161a44180af3aba88038fb35c.png" alt="Cover for How Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,7 +1191,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 86</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1234,17 +1217,17 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 9</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 65</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 66</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 77</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 91</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16bc7e6e8e32319807924deae406ab85.png" alt="Cover for Hella Personal Film Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,7 +1246,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 43</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 46</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 86</li>
         </ul>
       </td>
@@ -1283,7 +1266,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1310,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/gGy_Mkwue65grLkABYjZ7CdE85_v5NGkGE6OU5u3jfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg0/NjctMTMwMTQ5MjY3/MS5qcGVn.jpeg" alt="Cover for W.A.R. (We Are Renegades)" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1378,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 31</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1418,16 +1401,34 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 20</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0befef84fbbbcf1895651ec6ffd423a.png" alt="Cover for Young Sinatra: Undeniable" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-30</td>
+      <td>Logic</td>
+      <td>Young Sinatra: Undeniable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b64f8d17d9ab403a984d1985cecf9aa3.png" alt="Cover for Masters Of The Dark Arts" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,7 +1443,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 85</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1462,13 +1463,13 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 37</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 40</li>
             <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d96e4d0a9d2440aaeb792f838f5499f.png" alt="Cover for Mic Tyson" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1489,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/TbOR5jyuON_M01q5SqTadoitqqRtpN8hYZbbfW5xxKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MzctMTQ5NjQ1OTA4/Ni02Njg4LmpwZWc.jpeg" alt="Cover for Operation: Doomsday." style="max-width:120px; height:auto;" />
       </td>
@@ -1501,8 +1502,9 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 1</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1526,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 1</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1547,9 +1549,9 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/GmoUxzeypu1TcSebOINt21Mub8tJA1du2Nl9WOHqlxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU3/Mjg4LTE1MzE1NzM4/MDAtMzk4OC5qcGVn.jpeg" alt="Cover for Polo Sporting Goods" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bdeccdd2dd99832c282854c2ebe75d7.png" alt="Cover for Polo Sporting Goods" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-17</td>
       <td>Retch</td>
@@ -1578,9 +1580,9 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 14</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 31</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 15</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1621,7 +1623,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7167fccde95646e8c666062ad37f17ba.png" alt="Cover for There Is Only Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1657,8 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 1</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1680,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f4d9dd387ee4c328675ac888e86021d.png" alt="Cover for Army Of The Pharaohs: The Unholy Terror" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,12 +1696,12 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 90</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc800a3babc1f09e0182cead6da8c651.png" alt="Cover for General Admission (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,9 +1723,9 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 14</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 58</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 90</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 86</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 90</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 92</li>
         </ul>
@@ -1751,11 +1754,11 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 83</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 87</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 88</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
         </ul>
       </td>
@@ -1818,7 +1821,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1843,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for Lace Up (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,10 +1866,10 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 18</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 68</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 69</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 88</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 89</li>
         </ul>
@@ -1906,6 +1909,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1927,7 +1931,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db03011ca059497bc9e8ff4602ed3fe3.png" alt="Cover for Amerikkas Most Blunted" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1951,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77e2ddc2eb692052f496c9653da1d69b.png" alt="Cover for Burnout" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1971,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f2f36d815a90ea27a3c2ab62e2ab956.png" alt="Cover for The Home of 47" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,8 +1991,9 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ded725977fae3beebb6f7a8047ad1c96.png" alt="Cover for true perspective" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>lostrushi</td>

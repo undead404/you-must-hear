@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T10:47:22.372Z
+date: 2025-11-17T06:05:09.731Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-11-15T10:47:22.372Z">Sat Nov 15 2025 12:47:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T06:05:09.731Z">Mon Nov 17 2025 08:05:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,7 +105,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 23</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +293,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
             <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 74</li>
         </ul>
       </td>
@@ -353,7 +353,6 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -916,26 +915,6 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>2009-08-06</td>
-      <td>Tom Wolf</td>
-      <td>INCOMPLETE - Tom Wolf</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
       </td>
@@ -1005,7 +984,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       <td>
         <ul>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 7</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 18</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1132,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/x6yYx9yFx3zpoEkH9Vtu8l9xmobhtl9xpqHQMH9LVUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/NTkxLTE1Mjk2MDA2/OTUtNTE3MC5qcGVn.jpeg" alt="Cover for A To Z 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27b9acf5ef76d06d09ae4443782097e1.png" alt="Cover for A To Z 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-25</td>
       <td>Andrew Huang</td>
@@ -1512,6 +1491,24 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dzedenz</td>
+      <td>ElectroClassic 1. Midnight of Cinderella - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>5</td>
       <td>
       </td>
@@ -1749,6 +1746,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fea21c03e8504bcea4d4514ad32d9aff.png" alt="Cover for trash bags and paper plates" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Spotted Pinto Bean.</td>
@@ -1821,6 +1819,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a20f36d690d3bde457bb840ab9feaeb8.png" alt="Cover for The Complete Serenades" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ellis Eugene Winningham</td>
