@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:18:24.137Z
+date: 2025-11-16T18:17:09.440Z
 permalink: tags/phonk
 title: phonk
 ---
 
 ## phonk
 
-Last updated: <time datetime="2025-11-15T01:18:24.137Z">Sat Nov 15 2025 03:18:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T18:17:09.440Z">Sun Nov 16 2025 20:17:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
   </thead>
   <tbody>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/niaJjAZJpyEIq3bzgU_ojmGDa99pXvzv0VWLCVd32RY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzAy/NS0xNDQ3MDEwODA2/LTE1OTcuanBlZw.jpeg" alt="Cover for massacre" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/8FnTeOdhLhA-1nQg8jBfEy3oDf-rgBcLwBtgDHfbtZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NjktMTMxMzAwOTQ0/MS5qcGVn.jpeg" alt="Cover for MAXIMUM CARNAGE" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/8FnTeOdhLhA-1nQg8jBfEy3oDf-rgBcLwBtgDHfbtZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NjktMTMxMzAwOTQ0/MS5qcGVn.jpeg" alt="Cover for Фонк для бега" style="max-width:120px; height:auto;" />
       </td>
@@ -83,9 +83,9 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/zGGuVhGWIJN2_biHeCsjItKwN9iAu7soa147pxjE4A4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTM1/LTE3MjA4Njg3NzIt/NTQwNi5wbmc.jpeg" alt="Cover for Don&#39;t Tell Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdb68d5fcbb051551826bd9a287da9cb.png" alt="Cover for Don&#39;t Tell Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Ambassador</td>
@@ -103,7 +103,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/NLMgfDYvT_f4Z-9umwLI3M3f7vNq62ykbDG1Vh02cKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjEx/OC0xMjQ4MTk0MTI4/LmpwZWc.jpeg" alt="Cover for Omega" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/g7ykD2z4OVx4p1--u6vdrvnUVWSm9YD4k2hK29TTM8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/MTk4LTE1MDg0MzIy/NzgtMTEyMC5qcGVn.jpeg" alt="Cover for crash" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/NLMgfDYvT_f4Z-9umwLI3M3f7vNq62ykbDG1Vh02cKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjEx/OC0xMjQ4MTk0MTI4/LmpwZWc.jpeg" alt="Cover for Watch Yo Six" style="max-width:120px; height:auto;" />
       </td>
@@ -157,7 +157,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/G7FV0iUyN84DknjYxcT92vr3gaJagojWRNZX3Y81630/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk3/ODgtMTMwODA3NDkz/NS5qcGVn.jpeg" alt="Cover for Do or Die" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b58b855c0b7e4c7b88fcbfa23e1fbfc.png" alt="Cover for Mista Thug Isolation" style="max-width:120px; height:auto;" />
       </td>
@@ -191,14 +191,15 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 50</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 89</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 91</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79f3039c6a054c14ac83a1f126828541.png" alt="Cover for Blvcklvnd Rvdix 66.6 (1991)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-01</td>
       <td>SpaceGhostPurrp</td>
@@ -217,7 +218,24 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebc04080a5d94f78cf9d28ac96c76956.png" alt="Cover for Mysterious Phonk: The Chronicles of SpaceGhostPurrp" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-11</td>
+      <td>SpaceGhostPurrp</td>
+      <td>Mysterious Phonk: The Chronicles of SpaceGhostPurrp</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/449d3d5b9612a242664cc2c355634690.png" alt="Cover for 90&#39;s Mentality" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +255,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c3b890080a200be85299d4a167ec329.png" alt="Cover for WUDU" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +277,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/rlm1RBsnjAuQlZfrngihKh8X0QtarOpzriNENAJ8P8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk1/NTYwLTE0OTY2MDk0/OTctNTE0OC5qcGVn.jpeg" alt="Cover for DIRTY $ILENCE" style="max-width:120px; height:auto;" />
       </td>
@@ -277,7 +295,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/tr4eGq9B9GXQeKAClQzPBL53AeKl6nwpqMcWmcTOh7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDA3/MjAtMTM5ODcwMjU4/NS0yODg5LmpwZWc.jpeg" alt="Cover for Grey" style="max-width:120px; height:auto;" />
       </td>
@@ -380,8 +398,8 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 38</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 64</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 66</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 66</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
@@ -430,7 +448,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/ebbjpHGf5lqkKqmO9iLBoTfgni9VYY7ZTzA-rNujhCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODIx/MTk1LTE1NDI1OTAx/NzEtOTUzNC5qcGVn.jpeg" alt="Cover for $hopping $pree" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +467,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd0d6a3cbea57b56a0b584f25b79943e.png" alt="Cover for Devilish Trio" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +487,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Cl-4mpfoA6gftqGNMOp4Ip9Fzk2NwvaD8IYXBfXNuX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg2/NzYxLTE1ODc4MzA2/NTItNjkyNC53ZWJw.jpeg" alt="Cover for END OF LIFE" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +566,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d7a9606474ea73278a9a46ec20cb73f.png" alt="Cover for Letting out My Demons" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +585,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/sIn4vd1cGE7WmsNTgG4uHJ9C9Ms5nmxHGIpo0G7vOSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njk0/ODM4LTE3MDcwNTgw/ODktNzU0MS5qcGVn.jpeg" alt="Cover for BRAZILIAN PHONK" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +603,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/SoRmqIQXlTqd1N1YV8gvYK5Qy8lqUzaieI4d4x79osM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc5/NDk3LTE2MjEzNDk3/NDktOTcxOS5qcGVn.jpeg" alt="Cover for No Innocent Victim" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +643,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6a4a04ad9877975c6b817f296e272ae.png" alt="Cover for Water World" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +686,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/198288f0f7a48418a65119e87ed0f0f4.png" alt="Cover for D3" style="max-width:120px; height:auto;" />
       </td>
@@ -689,7 +707,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00fd16c6d4cf570f6e3d6cbbee82ebd0.png" alt="Cover for Volume 3" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +728,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/5NYOIPp69zbH9mITHVsP9_lE_ma3VYNyy6Rso0tnqlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzAz/NTk2LTE2Mjc4MzM1/MjUtOTc5NC5qcGVn.jpeg" alt="Cover for Milky Way" style="max-width:120px; height:auto;" />
       </td>
@@ -764,9 +782,9 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/STW0Xg-Z-ADLpGx7JfwEat_xANmovmyCOi1t6iOQkA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI2/MzE2LTE1NjE5OTAx/MzUtODE2OS5qcGVn.jpeg" alt="Cover for Najbolji svet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/787a018cab4a1e7ee6f7688b4bdfd53a.png" alt="Cover for Najbolji svet" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-01</td>
       <td>Zicer Inc.</td>
@@ -886,67 +904,67 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 20</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 27</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 28</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 44</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 51</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 78</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 79</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/SIIQjAxjDRKGnD38yJHvtsP5N7tUDNhTrLqc1-o9C5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQx/MzA5LTE3MzExNjUx/MTctODYyNi5qcGVn.jpeg" alt="Cover for Next Day Was Yesterday" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +982,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/qZEkYEY0sWUQPFr_Hw3oYM_j5mcgByUqcAMrDMpx8Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY4/NTQzLTE2MDEwOTEx/MDAtMzkyMy5qcGVn.jpeg" alt="Cover for Feel Like I Do" style="max-width:120px; height:auto;" />
       </td>
@@ -982,25 +1000,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/LAKIA828J0VHC1yFQA97rp7Kz7wbt5b48ecPDfGWkKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzAy/MzI2LTE3MDcxMjM5/MjItOTI1Mi5wbmc.jpeg" alt="Cover for SKYLINE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>shinki21</td>
-      <td>SKYLINE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/pYQ6UP15tcrOGYgOJGV-Ejg-jPMwukZA2gVrMPjgwbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA0/ODY3LTE3MDcxNDMy/NTQtMjE4MS5wbmc.jpeg" alt="Cover for Incoming - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1018,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/8OM9BsOyo1zDz8itGrevVFNv8aHf_g7Ac4VMaK4iAgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzAy/NDQzLTE3MDcxMjQ5/NjgtODE2MC5wbmc.jpeg" alt="Cover for SECRETS OF THE DARK" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1072,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/nieQsSmvWU2ZDwLAOXR1s-YlQ4VgCREnjI9hUERfaz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjcx/NzQ1LTE2NTYwMDkw/ODgtNzkxNi5wbmc.jpeg" alt="Cover for Not Your Hero 4 Hire" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1091,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/L1iygmf4kZbXX5uxDauWfFC2sYxVowA8lNZqV1_yYuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA0/NzI2LTE3MDcxNDI0/MTEtMjIwMi5wbmc.jpeg" alt="Cover for REAPER" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1109,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/P-MoZ9hj-_nGUEIRZ94RUQpeWPQBkQBr6sA6jQgBk2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA0/NTY3LTE3MDcxNDE0/MDktODY5Mi5wbmc.jpeg" alt="Cover for Feel That Bounce" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1127,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/U_CpzwNDMEJxH11-wMKGRHsPeL0bQmC4Hdf2wpoA--s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA0/OTY5LTE3MDcxNDM4/ODktNzI1OC5wbmc.jpeg" alt="Cover for PARADIGMA (REMIX)" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1145,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/DO1Thanl11ZLuiaXj3FNCV03q46ybGdpqChjMYEHfNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzEy/NTQ0LTE3MDcyMDc4/MjItNTQyNS5wbmc.jpeg" alt="Cover for Graveyard Phonk" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1181,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5320fc05f2783387f94ce82a0918c52d.png" alt="Cover for Phonkageddon" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,13 +1194,13 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 2</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 20</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 12</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d152d0ef068b7ead43684c199e7174a.png" alt="Cover for Pimp Slap" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1310,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 45</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 71</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
@@ -1360,7 +1360,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/dBlX_s81xuqbmIxyUt0afrtlo3JwEHFLzasf4H69GsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY0/MzUxLTE2NzAyOTg0/ODYtNDM0NC5qcGVn.jpeg" alt="Cover for NASA The Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,7 +1381,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b2a53b5057d96216217e90aed350794.png" alt="Cover for SLEEPER &#x2F; SICKO" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,12 +1398,12 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 49</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/dM8yKjhQ5ETk69n0D4Ehumbu-ot-nmbovsh3hhb7iZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjU0/NzE4LTE3MjEzMDk3/MTYtODM0OS5qcGVn.jpeg" alt="Cover for BAD SIGNAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1421,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/zMiJOpsm0IKQc8OwW4yce-2H5IV4A62euUTFWZ0peFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA0/MzM2LTE3MDcxMzk4/NzUtMjYwMC5wbmc.jpeg" alt="Cover for DESTRUCTION" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,38 +1550,38 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 82</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
@@ -1606,7 +1606,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/vlav68lU2UatUP94H56o2_DY8v6txAIiQP7IaTGcs7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM5/NTU2LTE2OTQ1MTA1/MjktNTg4MC5qcGVn.jpeg" alt="Cover for Lullabies for demons" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1642,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/oafKhwNmWADqQTJ242gBrg_zedbK56kuqqZkjx-nWHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk3/MDYxLTE3MTA0Mzk0/NDgtMTU2Ny5wbmc.jpeg" alt="Cover for Трахать" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1697,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b049faa2a0079baa601e0cc9208059c8.png" alt="Cover for New World Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,13 +1712,13 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 52</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 57</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c784e1e50f0acb3c58d0da0f5ec154fa.png" alt="Cover for Moonlight Radiation" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,29 +1738,12 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 21</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>besch1er</td>
-      <td>N1ght Walk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1777,7 +1760,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1794,7 +1777,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1812,7 +1795,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1829,8 +1812,9 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/737708b6d7e8416ec16a3f01922bf2a3.png" alt="Cover for Post-Suicide Limerence" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Eric Dingus</td>
@@ -1848,7 +1832,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1865,7 +1849,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c373c5a471fa812d9cc227ff7a35c808.png" alt="Cover for Crackhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,8 +1868,9 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a9423aa7317c19ff9556b3a9d2c4c10.png" alt="Cover for RALLY STATION" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Noxygen</td>
@@ -1902,7 +1887,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1919,7 +1904,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -1936,7 +1921,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -1953,8 +1938,9 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ea043fc9c84f2bd15fd67e46f953967.png" alt="Cover for OLD SCHOOL" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>MultiPlabell</td>
@@ -1971,7 +1957,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1988,7 +1974,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2005,7 +1991,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6030ea82b4e5920a7a959b54eda8de82.png" alt="Cover for TEST ME" style="max-width:120px; height:auto;" />
       </td>
@@ -2023,7 +2009,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -2040,7 +2026,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2057,7 +2043,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -2074,7 +2060,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
@@ -2091,7 +2077,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>
@@ -2108,7 +2094,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td></td>
@@ -2125,7 +2111,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
@@ -2142,7 +2128,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -2159,7 +2145,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
       </td>
       <td></td>
@@ -2176,7 +2162,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
@@ -2193,7 +2179,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -2329,7 +2315,7 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2345,12 +2331,29 @@ Phonk is a hip-hop subgenre that emerged from Memphis rap, characterized by lo-f
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
       <td>Phonk Fruits Music</td>
       <td>Phonk Fruits Music, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47f5d430bc344323c3c0b25cd5023ed9.png" alt="Cover for Nasa Gang (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>SpaceGhostPurrp</td>
+      <td>Nasa Gang (Remastered)</td>
       <td>
         <ul>
         </ul>
