@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:36:50.181Z
+date: 2025-11-16T20:07:49.198Z
 permalink: tags/soft-rock
 title: soft rock
 ---
 
 ## soft rock
 
-Last updated: <time datetime="2025-11-15T01:36:50.181Z">Sat Nov 15 2025 03:36:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T20:07:49.198Z">Sun Nov 16 2025 22:07:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/9sx8-NU22_54BRwqJcbCSWpdlpmKIpjRO7oPsijDUwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIw/MzQtMTcxNzM1OTk4/My02NTIwLmpwZWc.jpeg" alt="Cover for In The Summertime" style="max-width:120px; height:auto;" />
       </td>
@@ -215,7 +215,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7f98f52ef1d2488b782d4d2995976ed.png" alt="Cover for Heart Like A Wheel" style="max-width:120px; height:auto;" />
       </td>
@@ -364,14 +364,14 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 34</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 35</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 43</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1976</td>
@@ -558,7 +558,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 23</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +672,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 11</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -733,7 +733,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbea2170f416406a1a57a678ea0c0f54.png" alt="Cover for New Light Through Old Windows" style="max-width:120px; height:auto;" />
       </td>
@@ -841,12 +841,12 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 42</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4c1cc30185dad90ee5b99b04371dc61.png" alt="Cover for Golden Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +986,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78d7b4b743dd4143b214c8f5f38802da.png" alt="Cover for America&#39;s Greatest Hits - History" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1027,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3211e76abb798a41c2c6ce63d18650dc.png" alt="Cover for Any Given Thursday" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1132,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/480a0bd88c494a94a93dac55558ef59e.png" alt="Cover for Unfamiliar Faces" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,6 +1162,26 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/253d3771aeab40eea1b442bb693629c8.png" alt="Cover for Best Days" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-18</td>
+      <td>Matt White</td>
+      <td>Best Days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
@@ -1210,15 +1230,15 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 76</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 100</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cdb4773e620e9d8a24aea13f3557b86.png" alt="Cover for Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,7 +1288,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2010-12-31</td>
@@ -1355,7 +1375,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 68</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 75</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 75</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 91</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 92</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 96</li>
         </ul>
       </td>
@@ -1378,12 +1398,12 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 13</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 21</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
@@ -1391,7 +1411,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f465b9cda284f2cbf5f4c7f0b528585.png" alt="Cover for Devotion - The Gold Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,26 +1524,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07059e05a936c61ad6295b539377b79f.png" alt="Cover for Do Hollywood" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-10-14</td>
-      <td>The Lemon Twigs</td>
-      <td>Do Hollywood</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 66</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1579,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 78</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 79</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 86</li>
         </ul>
       </td>
@@ -1682,7 +1683,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/N7oWgRxibi38eaVPsbdtZfZedzduYV06_nR_aRC39I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/NTc5LTE1ODU4ODI3/NTItMjAzNC5qcGVn.jpeg" alt="Cover for I Feel Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1878,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 55</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 81</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 85</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
         </ul>
       </td>
