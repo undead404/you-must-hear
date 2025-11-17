@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-17T01:25:47.417Z
+date: 2025-11-17T01:27:47.617Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-17T01:25:47.417Z">Mon Nov 17 2025 03:25:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T01:27:47.617Z">Mon Nov 17 2025 03:27:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [indie rock]({{ "tags/indie-rock" | relative_url }}) | <time datetime="2025-11-17T01:27:47.617Z">Mon Nov 17 2025 03:27:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic house]({{ "tags/melodic-house" | relative_url }}) | <time datetime="2025-11-17T01:25:47.417Z">Mon Nov 17 2025 03:25:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [spain]({{ "tags/spain" | relative_url }}) | <time datetime="2025-11-17T01:24:57.853Z">Mon Nov 17 2025 03:24:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [improvisation]({{ "tags/improvisation" | relative_url }}) | <time datetime="2025-11-17T01:23:19.569Z">Mon Nov 17 2025 03:23:19 GMT+0200 (Eastern European Standard Time)</time> |
@@ -374,7 +375,6 @@ Last updated: <time datetime="2025-11-17T01:25:47.417Z">Mon Nov 17 2025 03:25:47
 | [female rapper]({{ "tags/female-rapper" | relative_url }}) | <time datetime="2025-11-14T01:41:30.654Z">Fri Nov 14 2025 03:41:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu-bluz]({{ "tags/nu-bluz" | relative_url }}) | <time datetime="2025-11-14T01:41:07.357Z">Fri Nov 14 2025 03:41:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [blues]({{ "tags/blues" | relative_url }}) | <time datetime="2025-11-14T01:40:26.325Z">Fri Nov 14 2025 03:40:26 GMT+0200 (Eastern European Standard Time)</time> |
-| [indie rock]({{ "tags/indie-rock" | relative_url }}) | <time datetime="2025-11-14T01:39:59.232Z">Fri Nov 14 2025 03:39:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [black metal]({{ "tags/black-metal" | relative_url }}) | <time datetime="2025-11-14T01:39:02.147Z">Fri Nov 14 2025 03:39:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [italo disco]({{ "tags/italo-disco" | relative_url }}) | <time datetime="2025-11-14T01:38:06.633Z">Fri Nov 14 2025 03:38:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid folk]({{ "tags/acid-folk" | relative_url }}) | <time datetime="2025-11-14T01:37:16.259Z">Fri Nov 14 2025 03:37:16 GMT+0200 (Eastern European Standard Time)</time> |
