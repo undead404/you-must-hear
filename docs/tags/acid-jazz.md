@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:50:36.873Z
+date: 2025-11-17T05:49:40.734Z
 permalink: tags/acid-jazz
 title: acid jazz
 ---
 
 ## acid jazz
 
-Last updated: <time datetime="2025-11-08T19:50:36.873Z">Sat Nov 08 2025 21:50:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:49:40.734Z">Mon Nov 17 2025 07:49:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
   </thead>
   <tbody>
     <tr>
-      <td>84</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b368bb98a7e97b6003cb455a135e124b.png" alt="Cover for Pata Pata" style="max-width:120px; height:auto;" />
       </td>
@@ -50,28 +50,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02d5320784c1475cf7005d744e8568e5.png" alt="Cover for The BlackByrds" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>The Blackbyrds</td>
-      <td>The BlackByrds</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/Rvf7VoXOH2h_MKQR9y-EtDST0jC-vOnqJq95jzbH1W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg4/NTAtMTI5MDA2ODE4/MS5qcGVn.jpeg" alt="Cover for Tarika Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +69,24 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>8</td>
+      <td>
+      </td>
+      <td>1982</td>
+      <td>Shakatak</td>
+      <td>Night Birds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4f4c2bc802a5c7f1d29c90c2954b83c.png" alt="Cover for The Brand New Heavies" style="max-width:120px; height:auto;" />
       </td>
@@ -109,13 +105,13 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>9</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44a01c84cb98493f97366c072c09c22e.png" alt="Cover for Road To Freedom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35e44ad97c484ea8cecd1391c4b6ff3b.png" alt="Cover for Jazz Brakes Volume 5" style="max-width:120px; height:auto;" />
       </td>
-      <td>1991</td>
-      <td>Young Disciples</td>
-      <td>Road To Freedom</td>
+      <td>1991-09</td>
+      <td>DJ Food</td>
+      <td>Jazz Brakes Volume 5</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
@@ -127,8 +123,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddd5031f0b32213807f9a8316d3ba0a9.png" alt="Cover for Dad Man Cat" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Corduroy</td>
@@ -144,9 +141,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/4CUWLiDiJ7sui8AkQJ4nCwnxBRXtP9d-ybfhW5VWaio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzMx/LTEzNTUwNTU5OTMt/NDYxOS5qcGVn.jpeg" alt="Cover for A Joyful Noise Unto The Creator" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4032a4b2c43d8dc4fc71ea5f5d80bc1.png" alt="Cover for A Joyful Noise Unto The Creator" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-05</td>
       <td>Galliano</td>
@@ -162,9 +159,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/pYTicHYXZ2MEMAtFJAdZ4q8lI81fDlWfB_lC7X0yUO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzcx/LTE0MTcxMDkzMDkt/NTYyNi5qcGVn.jpeg" alt="Cover for Jazz Brakes Volume 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2321f45dfed641158c753937c2e98387.png" alt="Cover for Jazz Brakes Volume 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-07</td>
       <td>DJ Food</td>
@@ -182,7 +179,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/0EL9EOYMbdIkD6jiODZ3AVDCl7cg17hF7sA3_tK36iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTMt/MTY3MTE2NjI4OC04/NzY1LmpwZWc.jpeg" alt="Cover for Travelling Without Moving (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -198,13 +195,13 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 55</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 81</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 60</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0ae2bc40ffe05589b8da9d4ae877484.png" alt="Cover for The People Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -222,8 +219,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9c3fc08952f1437c47d0b215600a682.png" alt="Cover for United Future Organization" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>United Future Organization</td>
@@ -240,7 +238,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6724384d471c43e73bd210300f1813c8.png" alt="Cover for Emergency On Planet Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -249,8 +247,6 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       <td>Emergency On Planet Earth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
         </ul>
       </td>
       <td>
@@ -259,7 +255,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d71ae75ed58f49ffb141dd1bfc57a215.png" alt="Cover for The Quiet Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -277,7 +273,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6869aa0eb8ced7383f776efcbbcd374c.png" alt="Cover for Hand On The Torch" style="max-width:120px; height:auto;" />
       </td>
@@ -290,33 +286,13 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>56</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b11181cf1f1f44a4ac5fc1d7aa28522e.png" alt="Cover for Positivity" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993-11-17</td>
-      <td>Incognito</td>
-      <td>Positivity</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/WE_kW-lslowP3NHAjbosMeHzlRUAmbaBQp3hs-DwhW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDUw/OC0xMzM2MTY2Njg1/LmpwZWc.jpeg" alt="Cover for Twelve Deadly Cyns...And Then Some" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e3c803ef035c8cff0ad13dd346637f.png" alt="Cover for Twelve Deadly Cyns...And Then Some" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Cyndi Lauper</td>
@@ -338,8 +314,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/007a77070a22427bc2d30247062e56e8.png" alt="Cover for Brother Sister" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>The Brand New Heavies</td>
@@ -355,25 +332,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td>1994-05</td>
-      <td>9 Lazy 9</td>
-      <td>Electric Lazyland</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/2EPpJ4vrhxI8-SgykPPw3__lO6U2IK4xUpkDb_vCMSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDY5/Mi0xMjAzNjE2Mjk0/LmpwZWc.jpeg" alt="Cover for Life Think It Over" style="max-width:120px; height:auto;" />
       </td>
@@ -391,28 +350,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td>1994-06-27</td>
-      <td>Brooklyn Funk Essentials</td>
-      <td>Cool And Steady And Easy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>35</td>
       <td>
       </td>
       <td>1994-09-26</td>
@@ -431,16 +369,15 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69b696538a69f7990dc33222cb1a7bd4.png" alt="Cover for The Return Of The Space Cowboy" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-17</td>
       <td>Jamiroquai</td>
       <td>The Return Of The Space Cowboy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
         </ul>
       </td>
       <td>
@@ -449,17 +386,16 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869885cfc447495689e0b21d257da627.png" alt="Cover for In the Hand of the Inevitable" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Beastie Boys</td>
-      <td>The In Sound From Way Out!</td>
+      <td>The James Taylor Quartet</td>
+      <td>In the Hand of the Inevitable</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
         </ul>
       </td>
       <td>
@@ -468,8 +404,27 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a45a3e1dadc45e2917257856597a563.png" alt="Cover for The Herb" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-12</td>
+      <td>9 Lazy 9</td>
+      <td>The Herb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7deb385ea4fa40b6c0689bf89f5a1969.png" alt="Cover for Reeled and Skinned" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-26</td>
       <td>Red Snapper</td>
@@ -486,7 +441,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53f64447510bdf7a962963a10e4ae9c2.png" alt="Cover for Moving In The Right Direction" style="max-width:120px; height:auto;" />
       </td>
@@ -505,9 +460,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/OrLrLJKx_oq8X2hKCZVpMEu3RgmvW_3LPgpj-nZTuQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg1/LTExMTAwMzk2NjUu/anBn.jpeg" alt="Cover for 3rd Perspective" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d40364b53c4c069f5b585eefdc1e899.png" alt="Cover for 3rd Perspective" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>United Future Organization</td>
@@ -523,7 +478,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/jLT6OIh4KQRFJxFBcInr2kLQGJYU6xvZoLt8I4ddEJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU2/MDEtMTIzMjgxNzc5/OC5qcGVn.jpeg" alt="Cover for Music Evolution" style="max-width:120px; height:auto;" />
       </td>
@@ -542,8 +497,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67ef5c29637c4a788152904a8c432478.png" alt="Cover for Adventures in Foam" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Cujo</td>
@@ -560,7 +516,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/urAZyP0_FI16SRQI6GqEkPVvlWtKxaAMwuECeVk2OY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjE1/LTEyMjkxMDc3ODUu/anBlZw.jpeg" alt="Cover for One Colour Just Reflects Anoth" style="max-width:120px; height:auto;" />
       </td>
@@ -577,9 +533,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/HABOA00gvKEvhEb6n2DMyl94QFezsNKUzoJR7mmsIxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/MS0xNTU3MjM0NTY0/LTk0MjAuanBlZw.jpeg" alt="Cover for One Colour Just Reflects Another" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8759b3edee1e41928c8dc9fc9cdde808.png" alt="Cover for One Colour Just Reflects Another" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05</td>
       <td>Up, Bustle and Out</td>
@@ -594,7 +550,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64e31acac3ddc658510eb761ed9b2cdc.png" alt="Cover for Travelling Without Moving" style="max-width:120px; height:auto;" />
       </td>
@@ -608,14 +564,14 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 76</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/n3-p7H3mvEL6MHJOzNVFsFX8Meqa50KnCvIz0_fbgXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTYt/MTM0NjU3OTU2Ny04/NzMzLmpwZWc.jpeg" alt="Cover for Prince Blimey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dc3577979f04e61cede8f02cc419c50.png" alt="Cover for Prince Blimey" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-09</td>
       <td>Red Snapper</td>
@@ -631,7 +587,24 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1996-11-18</td>
+      <td>Red Snapper</td>
+      <td>Loopascoopa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/65ozpTUPNWs3ixcqs0dfc-CruP5s4vnQGN5wrPlQciE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/LTEyNzIxMTg3ODEu/anBlZw.jpeg" alt="Cover for Cosmic Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -652,52 +625,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>57</td>
       <td>
-      </td>
-      <td>1997</td>
-      <td>Koop</td>
-      <td>Sons Of Koop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 3</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-      </td>
-      <td>1997-10-31</td>
-      <td>De-Phazz</td>
-      <td>Detunized Gravity</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 35</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 36</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 87</li>
-            <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 95</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49f9de1b37ca454c8b7d80973a30e846.png" alt="Cover for Piranha Breaks" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-05</td>
       <td>Amon Tobin</td>
@@ -717,7 +647,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/767a924007ab4d26b1f9eb1999c3a97f.png" alt="Cover for Shelter" style="max-width:120px; height:auto;" />
       </td>
@@ -735,8 +665,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51db0c3b83b14175c1dec7c7fd902c09.png" alt="Cover for Jazzanova EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Jazzanova</td>
@@ -762,8 +693,27 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>10</td>
       <td>
+          <img src="https://i.discogs.com/c3fk6JMScCClMb-CNloqxb27m833Y3A0UMEkCWcPYk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTQ0/Ni0xMzQzODQ0NTY4/LTEyNjIuanBlZw.jpeg" alt="Cover for In the Buzz Bag" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Brooklyn Funk Essentials</td>
+      <td>In the Buzz Bag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5e95af476d24d14a3588eb26cf8caad.png" alt="Cover for Crazyhorse Mongoose" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Galactic</td>
@@ -780,9 +730,27 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/YvGdKEts-r_Lr_T4t_WWrPFyrAzaKBPrs48Elq-DV7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM3/LTE1MjY5OTczNDgt/NjI2MS5qcGVn.jpeg" alt="Cover for Deeper Underground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba5bb268aae2e9a5e11c6eb4f8fcbc5.png" alt="Cover for Fillet Of Soul By Tassel And.." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-05-08</td>
+      <td>DJ Cam</td>
+      <td>Fillet Of Soul By Tassel And..</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e796753f8e68321dc22a63bad63f992.png" alt="Cover for Deeper Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-20</td>
       <td>Jamiroquai</td>
@@ -800,8 +768,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e472955fb689ab9654e53e1b4a61564a.png" alt="Cover for Making Bones" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-07-01</td>
       <td>Red Snapper</td>
@@ -817,7 +786,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>27</td>
       <td>
       </td>
       <td>1998-09-18</td>
@@ -834,8 +803,30 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8f5a5a8f9aa8bdd5500995f6cc0b052.png" alt="Cover for BRA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-10</td>
+      <td>Bentley Rhythm Ace</td>
+      <td>BRA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03c209853e96ad7bb4023b8c713b584d.png" alt="Cover for Bon Voyage" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-19</td>
       <td>United Future Organization</td>
@@ -851,7 +842,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0fccab2b096d504ce98a74090e47542.png" alt="Cover for Synkronized" style="max-width:120px; height:auto;" />
       </td>
@@ -865,14 +856,14 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 82</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/UXkGWbuTzUXWzMuQe0-ccXwgkNeRQ-x5mBlM6EXEU5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjA0/MS0xMTI4MzQ0NDQ4/LmpwZWc.jpeg" alt="Cover for Triplezéro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/217f88944989a0678530cf1554b2ae80.png" alt="Cover for Triplezéro" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Le Peuple de l&#39;Herbe</td>
@@ -886,12 +877,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 54</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17481e8bcdb0d04a11ad1a2067548005.png" alt="Cover for Triple Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -907,12 +898,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 55</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/T3-MAAdU2yiMeykPQ8DhEgCfOC0uIFk15jDntrmqtd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAt/MTQwNDA1NjkwMy04/MDgxLmpwZWc.jpeg" alt="Cover for Boulevard" style="max-width:120px; height:auto;" />
       </td>
@@ -934,26 +925,26 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/385c33a14ef3e7c527bad10e69f02fd7.png" alt="Cover for Tourist" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-05</td>
       <td>St. Germain</td>
       <td>Tourist</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 8</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e92187607dd4e99a1374d7ebb09e93d.png" alt="Cover for Mono - Horizontal Mix" style="max-width:120px; height:auto;" />
       </td>
@@ -972,37 +963,33 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 34</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 37</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/G2M-tB70EZo0Hm6H-OJ0G908mSuPDKfOuSnFC3uEkvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzct/MTQ0ODE1MjQzMC0y/OTgwLmpwZWc.jpeg" alt="Cover for The Mirror Conspiracy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/091e602cc4c947f3c739237c4b1ce67d.png" alt="Cover for The Mirror Conspiracy" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-21</td>
       <td>Thievery Corporation</td>
       <td>The Mirror Conspiracy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 10</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 35</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 84</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2268f7ca4d064172b07179884716ef07.png" alt="Cover for Bossa Per Due" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10</td>
       <td>Nicola Conte</td>
@@ -1016,16 +1003,34 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 94</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>6</td>
       <td>
+      </td>
+      <td>2001</td>
+      <td>Marc Moulin</td>
+      <td>Top Secret</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e93205a746aafa7aa42c2670241f790.png" alt="Cover for Love Foolosophy" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Jamiroquai</td>
@@ -1043,8 +1048,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df9bd16dd7e29454547e09507845e511.png" alt="Cover for A Funk Odyssey" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-08-29</td>
       <td>Jamiroquai</td>
@@ -1056,54 +1062,33 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 31</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 32</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec52e82dc8bb7ea58ecea3c79f9377a4.png" alt="Cover for Remember Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-03</td>
       <td>Mo&#39; Horizons</td>
       <td>Remember Tomorrow</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 39</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>43</td>
       <td>
-      </td>
-      <td>2001-11-28</td>
-      <td>De-Phazz</td>
-      <td>Death By Chocolate</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5292296a9f7049cf8f4b639f19660234.png" alt="Cover for Waltz for Koop" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Koop</td>
@@ -1117,16 +1102,17 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 30</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 55</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 60</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 65</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e11f652780c84f21906645d1b4bc1392.png" alt="Cover for In Between" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-29</td>
       <td>Jazzanova</td>
@@ -1143,9 +1129,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/BkM4Tl0L_MyLWWuWuNGsh1JawC6noqFrHA1SVSEgOjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzg3/LTE0NTAzMDg5MTct/MjY0NS5qcGVn.jpeg" alt="Cover for Spirit of the Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7188ebd0523c19acc7e29a1cefe6a126.png" alt="Cover for Spirit of the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-07</td>
       <td>Kyoto Jazz Massive</td>
@@ -1167,23 +1153,23 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 2</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 2</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 2</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 2</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 5</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 5</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 6</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 6</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 6</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 7</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 11</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 78</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ZD1ElxOjv_gz4OeLc6T6GqPg0rTygXIOUdwgoershqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDg3/NTMtMTQ3ODM1MTkx/My01MzY4LmpwZWc.jpeg" alt="Cover for Mja" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1191,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 15</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 17</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 43</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 48</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 70</li>
@@ -1216,8 +1202,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6946ed747d084557bfd2256435cc60f4.png" alt="Cover for The Donca Matic Singalongs" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Xploding Plastix</td>
@@ -1234,8 +1221,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adcc7d0bcf604ea3ce30f620ba415739.png" alt="Cover for Red Snapper" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-24</td>
       <td>Red Snapper</td>
@@ -1251,7 +1239,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>63</td>
       <td>
       </td>
       <td>2003-03-31</td>
@@ -1269,7 +1257,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>58</td>
       <td>
       </td>
       <td>2003-04-23</td>
@@ -1286,41 +1274,22 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 21</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 23</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 24</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 25</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8268e84c69140a8a36c1c18140401b2.png" alt="Cover for Man With a Movie Camera" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-31</td>
       <td>The Cinematic Orchestra</td>
       <td>Man With a Movie Camera</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2003-06-23</td>
-      <td>9 Lazy 9</td>
-      <td>Sweet Jones</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
@@ -1329,7 +1298,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0923aa8b7a3fbb2d9b456306750c083.png" alt="Cover for Metaphorical Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,16 +1315,17 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 80</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 82</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 78</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 81</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 83</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54153622f94c4b72bb109428b3f4d9cf.png" alt="Cover for Waltz for Koop: Alternative Takes" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-24</td>
       <td>Koop</td>
@@ -1372,8 +1342,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c8dc8b2abaf4a7f9c5555c209e27a2e.png" alt="Cover for Tales From Beyond The Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-17</td>
       <td>The Limp Twins</td>
@@ -1389,29 +1360,27 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35f79bbe584d4caab326618f86f93c0c.png" alt="Cover for The Eclectic Sound of Vienna, Volume 3" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-03</td>
-      <td>Skalpel</td>
-      <td>Skalpel</td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>The Eclectic Sound of Vienna, Volume 3</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 92</li>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3875359ac45944309a187085dce4a05c.png" alt="Cover for Make New Friends" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-02</td>
       <td>Flevans</td>
@@ -1428,7 +1397,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27c50e1d5f79df3b048b99cce2d4d45b.png" alt="Cover for Dynamite" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,12 +1411,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 74</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0db0df27ff529808834ce38465559c8.png" alt="Cover for Take London" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1435,26 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/703fb367d4f2f5139b294cd36af81e1c.png" alt="Cover for Até Onde Vai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-16</td>
+      <td>Jota Quest</td>
+      <td>Até Onde Vai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e605e0031a208775b7ac76f8c34290e3.png" alt="Cover for Modal Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,18 +1470,18 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 61</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 70</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 77</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 41</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 72</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 81</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 95</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 97</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d991014794b4466c4d6c2cac1b63cf8.png" alt="Cover for High Times: Singles 1992-2006 (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,7 +1504,28 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3bcea835cd48dab3329cbda0d779d9.png" alt="Cover for IV07 FOR REAL EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-17</td>
+      <td>Atjazz</td>
+      <td>IV07 FOR REAL EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
       </td>
       <td>2006-08-30</td>
@@ -1540,8 +1549,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed0cd2ff0764460a1300479eb92b6c6.png" alt="Cover for Koop Islands" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-27</td>
       <td>Koop</td>
@@ -1554,32 +1564,13 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 54</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c961aaa081c3d4de010fcea1f5a74912.png" alt="Cover for High Times: Singles 1992-2006" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-11-03</td>
-      <td>Jamiroquai</td>
-      <td>High Times: Singles 1992-2006</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/rIFabm8uBebsGR1-qw3AtygC9JDp5IfNlCbcayK37ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA5/MjctMTU3MTAwNjg1/Ny01NjkyLmpwZWc.jpeg" alt="Cover for Days Of Twang" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,12 +1587,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 50</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>34</td>
       <td>
       </td>
       <td>2007-03-26</td>
@@ -1635,7 +1626,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42a2468104e64f5bb19e06db42e47665.png" alt="Cover for SunSay" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,12 +1644,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>84</td>
       <td>
       </td>
       <td>2007-10-16</td>
@@ -1672,12 +1663,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1679cc3d449940c099c82d5a27f7f214.png" alt="Cover for The Art Of Vibration" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1686,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec14e01422974954b801e166c712f025.png" alt="Cover for Get Used To It" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,8 +1704,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d5a997f37442ed8553c3013cbd0818.png" alt="Cover for Commercial" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-09</td>
       <td>Los Amigos Invisibles</td>
@@ -1735,7 +1727,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>64</td>
       <td>
       </td>
       <td>2009-07-07</td>
@@ -1758,7 +1750,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/458ce617a3262ed06fbc64cb505edf07.png" alt="Cover for Rock Dust Light Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,19 +1759,18 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       <td>Rock Dust Light Star</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 55</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb1a07fa97824a4b916af19aec58dce2.png" alt="Cover for The Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1789,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,31 +1860,31 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 18</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 22</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 28</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 38</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 64</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/A2vW5e6ikPdBXkwa_7bAdHnYJO8kuwgsfaYqWsLSNOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTg3/MzYtMTQwMDI1MjUz/Ny01MjYyLmpwZWc.jpeg" alt="Cover for Love Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,22 +1920,23 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/DM8umJ7dR-dIQ0l72tc59HY1Zks-pMejDE6KCNVqjZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzQ0/OC0xMjIwMTQ1MzQx/LmpwZWc.jpeg" alt="Cover for Solid Steel Presents: It Came from the Sea" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a744de4d0038417aaa81b1045505b394.png" alt="Cover for Solid Steel Presents: It Came from the Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-03</td>
       <td>Bonobo</td>
@@ -1961,9 +1953,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Ag6cX3n_l_AQHUIlipFne5l8TG0zhtGHR5Pvg9w3YDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjQw/MzQtMTQ0NDExNTU2/MS0yNDEwLmpwZWc.jpeg" alt="Cover for From Detroit to St. Germain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/722227f0d1363b3e3d57fb38b20c4ef7.png" alt="Cover for From Detroit to St. Germain" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>St. Germain</td>
@@ -1980,7 +1972,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86fccd6d8db3442bc4d1108b51ca0387.png" alt="Cover for Kahunastyle" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,7 +1992,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9092da7e4de5e13e2bcfa4863934a83.png" alt="Cover for Bright Moments" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +2012,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>100</td>
       <td>
       </td>
       <td>2017-01-17</td>
@@ -2039,19 +2031,19 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 62</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 81</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 65</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/Ag6cX3n_l_AQHUIlipFne5l8TG0zhtGHR5Pvg9w3YDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjQw/MzQtMTQ0NDExNTU2/MS0yNDEwLmpwZWc.jpeg" alt="Cover for Presents Soel Memento &amp; Living" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63a9fd4c82a54c7799133851d46b3e16.png" alt="Cover for Presents Soel Memento &amp; Living" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-29</td>
       <td>St. Germain</td>
@@ -2069,8 +2061,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4603e77e3a3f860fd6d67ecb1cce6e39.png" alt="Cover for Sketches of Brunswick East" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-07</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -2083,15 +2076,15 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 10</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 28</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/V5LPiXqw1OQSVCaPWw3ogmalSD6JK8jZlKzKfN6uXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjU5/MS0xNTg2MzI0NTYx/LTQ5NjEuanBlZw.jpeg" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5edf1fbf60a84740c70f856dd983ce52.png" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-03</td>
       <td>Nujabes</td>
@@ -2102,33 +2095,23 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 7</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 23</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 46</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 56</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 58</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 87</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 87</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 62</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 63</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 88</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 88</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2145,14 +2128,15 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 31</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 33</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23787176c7ea8815788639c302ca9093.png" alt="Cover for Amateur Girlfriends Go Proskirt Agents" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Xploding Plastix</td>
@@ -2165,12 +2149,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>

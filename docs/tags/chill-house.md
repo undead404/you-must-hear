@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:35:14.479Z
+date: 2025-11-17T05:50:17.578Z
 permalink: tags/chill-house
 title: chill house
 ---
 
 ## chill house
 
-Last updated: <time datetime="2025-11-11T19:35:14.479Z">Tue Nov 11 2025 21:35:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:50:17.578Z">Mon Nov 17 2025 07:50:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/uvFuzACH0yjh3ojMHIoUr-ub7gaqdJB01g8UHK6-O9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDA3/My0xMTc1Njk1ODE5/LmpwZWc.jpeg" alt="Cover for Wild Horses (Sam Feldt Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8763b8b96bec5e548d3e7f6ea81cf513.png" alt="Cover for Wild Horses (Sam Feldt Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Birdy</td>
@@ -50,9 +50,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/fzLDO65z60pf-dYFHPVYTRcs8u7v7eHxIX9gWwhxTuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcx/ODItMTI4MjUyNjgw/Ny5qcGVn.jpeg" alt="Cover for Natural Blues (Lulu Rouge vs. Stella Polaris Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b95667aecd3a4835b24ad7547d89eca3.png" alt="Cover for Natural Blues (Lulu Rouge vs. Stella Polaris Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Moby</td>
@@ -71,9 +71,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/4TiOMs2YXKekyR8SXspGVOyNT1rZMlUtYy8TqZf6x8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODA3/LTEyNTM2NDQ1MTku/anBlZw.jpeg" alt="Cover for Fifty Shades of Grey Remixed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb858408872a35abdcc4ee96ec672d1.png" alt="Cover for Fifty Shades of Grey Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-11</td>
       <td>Various Artists</td>
@@ -114,20 +114,20 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 9</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 23</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 56</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 8</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 28</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 57</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/TaLs1Vp7RKVuS1o-1gB_p8p-RsHxEpseZOX1rkfliKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzY4/LTE2NTg2NzY5MDkt/ODIzMy5qcGVn.jpeg" alt="Cover for Blue Monday Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c27824a20794b1e08c6dae8ac5243fb.png" alt="Cover for Blue Monday Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Flunk</td>
@@ -146,27 +146,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/3rZweLS8Y7jdpr8i2L9JfLNBA9VIknxigI5ebu1KnlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzIx/LTAwMS5qcGc.jpeg" alt="Cover for The Pearl" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Aquanote</td>
-      <td>The Pearl</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6d2a742947f2f2d29abea9146cfe012.png" alt="Cover for Sinnerman (Sofi Tukker Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Nina Simone</td>
@@ -183,7 +165,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/cN40xjiIToiuTooxjgZFVQqMtXgMusyWthPWdo8JhmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODAz/OC0xNDkxNzc2Mzk2/LTUxMDkuanBlZw.jpeg" alt="Cover for Relight" style="max-width:120px; height:auto;" />
       </td>
@@ -201,9 +183,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/bp-fSszjJyrLDbZZY4HsKxYyjCmOFzAyPZYuQAiCMvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzI0/MC0xMjgxOTk2NjE2/LmpwZWc.jpeg" alt="Cover for Air Balloon (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73bfe3273f414ac9caffce5fadd2288e.png" alt="Cover for Air Balloon (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Lily Allen</td>
@@ -221,9 +203,27 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/fgDH_JeO-mj8U1QMkwiZwLQQiUSMdXWunCf-fEObXQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcw/MTMtMTYyMjk5NTk5/NS00MTYxLmpwZWc.jpeg" alt="Cover for Treat Me Like You Do" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9874b0482f584a12b4158a43049125b6.png" alt="Cover for 4 AM" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-18</td>
+      <td>Kaskade</td>
+      <td>4 AM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e0f9a1123fc4500c56659a64dea10ce.png" alt="Cover for Treat Me Like You Do" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-11</td>
       <td>Flunk</td>
@@ -260,7 +260,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/zzMCj5h8V3o9BLo8ATKt_WgmTAlWRUel_Xuk0xiOh6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgx/MTUtMTI5Mzk4NTYx/Ni5qcGVn.jpeg" alt="Cover for Midnight Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +319,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe51873bf6b24b88cb16c18820386494.png" alt="Cover for Feel Free Live Good" style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +356,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/7itJnqoBP5zjb3r_E-YG578l6D5OjMT8o3Z0WXzgAMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEy/NTYtMTQwMTEzMDkx/NS00NTYyLmpwZWc.jpeg" alt="Cover for Satisfy" style="max-width:120px; height:auto;" />
       </td>
@@ -375,9 +375,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/OhdhthMAzVj4VHpmiocORUu6LX2rS2YhIrkxMPmlhqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NDItMTUxMzkzNTAx/My0zMzQzLmpwZWc.jpeg" alt="Cover for Everything In Its Right Place (House)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6127852d4280f6edeeeca805ecfd759a.png" alt="Cover for Everything In Its Right Place (House)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-14</td>
       <td>PJ</td>
@@ -413,7 +413,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/5_P5cNv99NUNYjK7_tzzA_1VA0HamYQHK4C7gleURTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzA0/NzgtMTMxNzE3MzAw/Ni5qcGVn.jpeg" alt="Cover for Midnight City (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -433,9 +433,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/h4TcVtxzJNtQ4FgVgJGJxqPyRWAyZWtW1xqu_A8QedU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM0/MzktMTMyMzc5Mjk4/Mi5qcGVn.jpeg" alt="Cover for Summertime Sadness (Imanbek Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c43c72cfa9c292d175c8c1b52f2f58b8.png" alt="Cover for Summertime Sadness (Imanbek Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-16</td>
       <td>Lana Del Rey</td>
@@ -449,6 +449,30 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f32d52d29f4c3a878ec022ed94e13c.png" alt="Cover for Levels" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-28</td>
+      <td>Avicii</td>
+      <td>Levels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 74</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 86</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -488,14 +512,14 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/Ap5b6ufUR_sjh24uKXRILHe-eU6tqmVciy3aIDvm4KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEw/NjMtMTM0NTkxODg2/Ny04NDc5LmpwZWc.jpeg" alt="Cover for Worry About Me (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0993712468e7ec425e33f0b54da22384.png" alt="Cover for Worry About Me (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Ellie Goulding</td>
@@ -569,7 +593,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/YAebqffJXFAEVsBTOEMn79uaRtKqPtZK1r8SVJTLEXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NTc1LTE2NTk1MDQz/MzUtOTIyMy5qcGVn.jpeg" alt="Cover for Jaded" style="max-width:120px; height:auto;" />
       </td>
@@ -585,34 +609,14 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b97f44a823074182b9d3d496272161a9.png" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-09-25</td>
-      <td>Lana Del Rey</td>
-      <td>The Remixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/XprBVA9rC3-wM7K5eu_dxHMddZr8ctC-79V3DdpDSQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTE0/MzYtMTM1MjI1MjQx/Mi01NDExLmpwZWc.jpeg" alt="Cover for Silk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3073df2a8bccccf1d3bbd87ace925821.png" alt="Cover for Silk" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-01</td>
       <td>HVOB</td>
@@ -631,7 +635,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/DlhK3WtZ9TycXebvovYoMZBs2id9Np2YaMTVmhJP-ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzkw/MjctMTM3NzEwNDM1/Mi04MTAxLmpwZWc.jpeg" alt="Cover for Blue Jeans (Kris Menace Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7db2c91866eb2d3d9193a3617a3c6903.png" alt="Cover for Blue Jeans (Kris Menace Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Lana Del Rey</td>
@@ -667,9 +671,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/FdgSRZm55Avfn54JASfSPYM4Q3i7mNswxz6UbiOYfs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjM1/MTgtMTM2NzMxMDk3/Mi02MzIwLmpwZWc.jpeg" alt="Cover for Your Beautiful Lies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92faa66237ae24241d1b598c10738a54.png" alt="Cover for Your Beautiful Lies" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-22</td>
       <td>Flunk</td>
@@ -695,32 +699,21 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       <td>Fiction</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 40</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 82</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 91</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 44</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/ouHT_nnqehM-ae3Hek7iSgLdqw47n12kD4mztbM3hhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDM5/NjEtMTM3NDEwOTM5/Mi0yODE5LmpwZWc.jpeg" alt="Cover for Gun EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bda1c904a53c4976828beff8574f1bf3.png" alt="Cover for Gun EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-15</td>
       <td>CHVRCHES</td>
@@ -757,13 +750,13 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f554a4c6069a34304eba561c60825a92.png" alt="Cover for Nightcall" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-08</td>
       <td>London Grammar</td>
@@ -777,7 +770,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 87</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -802,9 +795,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/A1cljsPKocW4hn3zX3-z27KRjLPunoo8-tqKTkONooA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM0/OTMtMTQyMzMyNzIx/Mi00MzI4LmpwZWc.jpeg" alt="Cover for Savanna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b024156ed79cce91c8f6f0c08d69174.png" alt="Cover for Savanna" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Sound Nomaden</td>
@@ -824,7 +817,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 92</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 98</li>
         </ul>
       </td>
@@ -866,21 +859,21 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 12</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 54</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 61</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/u1EsdmqoMTbTso7uhaSpsicZULpQMWgsTR12oXvb048/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM0/NTUtMTQxNTA4NTcz/MC0yMTg0LmpwZWc.jpeg" alt="Cover for Close to Me" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +914,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/kQXjOCht4-1YhFuzMT0fzLMFpc26BDtUwwM1Cr4B-K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDQw/OTMtMTM5MDA3MDk3/Ny05ODc1LnBuZw.jpeg" alt="Cover for Goodness Gracious" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/036253f077234774c7c9f98735b6485e.png" alt="Cover for Goodness Gracious" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-23</td>
       <td>Ellie Goulding</td>
@@ -937,13 +930,13 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 8</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 94</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae4a845a71774061c05898a50c15194a.png" alt="Cover for Hey Now" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +959,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/PP-yD-GLLmup9l__cqFb-BUyncqgG1XYc1oc6DtnGSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjcw/OTgtMTQzNjYxNDQ3/OS05MDE1LmpwZWc.jpeg" alt="Cover for Secondhand ^2: The Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d572f1ad34e34970c90f4a69fc38e380.png" alt="Cover for Secondhand ^2: The Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-01</td>
       <td>MS MR</td>
@@ -984,9 +977,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/NvOKAUlE37fODqZTLNgHAgiSjzNWI6t7fDsyj1JLI-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODI4/ODAtMTM5OTgxNTI5/OC00Njc2LmpwZWc.jpeg" alt="Cover for If You Wait (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a634a643c18f4b75cb47fbcf6edaeeff.png" alt="Cover for If You Wait (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-06</td>
       <td>London Grammar</td>
@@ -1006,7 +999,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/NvOKAUlE37fODqZTLNgHAgiSjzNWI6t7fDsyj1JLI-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODI4/ODAtMTM5OTgxNTI5/OC00Njc2LmpwZWc.jpeg" alt="Cover for If You Wait - Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f570b1866e2244a8c44beb3ca85cbc1f.png" alt="Cover for If You Wait - Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-06</td>
       <td>London Grammar</td>
@@ -1026,7 +1019,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/QmDDJrRnSY7MiF1W8nBkiS8EoGfaxXr-EttkRxNtS-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjMw/MjctMTQwOTA2NzEz/NS01MTAwLmpwZWc.jpeg" alt="Cover for If You Wait (Remixes 2)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c983f71993244bfc4ea54b4adea3b39.png" alt="Cover for If You Wait (Remixes 2)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-25</td>
       <td>London Grammar</td>
@@ -1069,7 +1062,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/wyfEAmNcYGSlaZkggxfkhOCI5vuM0k_YXKTU5VrHKDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDg1/NzgtMTQ2MTgwNzEx/OS0zMzgxLmpwZWc.jpeg" alt="Cover for Remixes &amp; Covers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa6b09a32136e9eee67796390b789fd4.png" alt="Cover for Remixes &amp; Covers" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>The Young Professionals</td>
@@ -1108,7 +1101,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Ap5b6ufUR_sjh24uKXRILHe-eU6tqmVciy3aIDvm4KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEw/NjMtMTM0NTkxODg2/Ny04NDc5LmpwZWc.jpeg" alt="Cover for On My Mind (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7a27c56e9ede9beefafc731ff298d94.png" alt="Cover for On My Mind (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-19</td>
       <td>Ellie Goulding</td>
@@ -1123,14 +1116,14 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 93</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/oizWUwHXKbhRHH4DR4DqoVyMBvowHlmKmrmUcIiX8NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTQ4/MTEtMTQ0ODkxNTQ3/NC0yMDg4LmpwZWc.jpeg" alt="Cover for Close To Me (Red Velvet Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3ef34773753f3e5042dfacf2cb06557.png" alt="Cover for Close To Me (Red Velvet Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-19</td>
       <td>Ellie Goulding</td>
@@ -1225,14 +1218,14 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 10</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/UJ9qtLPNIu5apDdp7oqxSmlBrbk04hJ_rBHORwtyTx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjU1/MDc0LTE3MDMwNzEw/MjktOTUxNS5qcGVn.jpeg" alt="Cover for Still Falling For You (Laibert Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e4ddfac788227ff4fc8fa9df571747a.png" alt="Cover for Still Falling For You (Laibert Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-20</td>
       <td>Ellie Goulding</td>
@@ -1252,31 +1245,11 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/aug65FFnHwqIJNVJfHnBLmX-zVcuy5nlcyp-tJbxy8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzA3/NjgtMTQ3NTMwNjQ3/My01NTg4LmpwZWc.jpeg" alt="Cover for Still Falling For You (Jonas Blue Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19d68799771364b27996d5e8774c714b.png" alt="Cover for Still Falling For You (Jonas Blue Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-29</td>
       <td>Ellie Goulding</td>
       <td>Still Falling For You (Jonas Blue Remix)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/1_qdjX7kbtSGQu3wDoVrBI9d44XPFzEnGhUGeDXu-Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM4/MTItMTQ3ODYwMDMz/NC02Mjk0LmpwZWc.jpeg" alt="Cover for Chill House for Cruising" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-09-02</td>
-      <td>Cook &amp; Stans</td>
-      <td>Chill House for Cruising</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
@@ -1309,9 +1282,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/6FtFNh2IU1yr1qVqLxZwv0htP-uMB0JwP5fvGNSU3D4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/ODMzLTE1MTEzMzM4/ODktMjkzNS5qcGVn.jpeg" alt="Cover for She taught me how to fly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7452f4fcc861fe5447486a261f2c014c.png" alt="Cover for She taught me how to fly" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Noel Gallagher&#39;s High Flying Birds</td>
@@ -1328,7 +1301,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 47</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1325,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/vnpVTasGiVyUUkkX_H0gEUTQpbOhOQQt_yCOk1wrF8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTI1/OTUtMTQ4NzM5Njgy/OC04ODExLmpwZWc.jpeg" alt="Cover for Conquer Yosemite - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1344,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/qTiA7AtSLAVuAyJh6eXtZhK_0aw69DtIktedql-V9q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzgz/MDktMTQ4NjIwMzg3/NS00MjQ3LmpwZWc.jpeg" alt="Cover for Nightcall EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,9 +1362,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/8YaerytDksf3UCUvrOQqIPYbiGqW9ADrOXy5cajxeDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODkz/NTQtMTQ4ODAyMjQ2/Mi04MDcyLmpwZWc.jpeg" alt="Cover for Big Picture (Remix) - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b58bc5c37a1f826306b962154ba0f437.png" alt="Cover for Big Picture (Remix) - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>London Grammar</td>
@@ -1408,9 +1381,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/3DY8w8qQsmq7Ul7DtuTq1U7abJRscCep-S1O2r3MDJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/OTYyLTE1MDk5NDY2/NTItOTA2OC5qcGVn.jpeg" alt="Cover for Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45adba41c8c925cb987f6675fa3b8555.png" alt="Cover for Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Nora En Pure</td>
@@ -1428,9 +1401,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/cfhgMAwWieXlo3OVtWeRvkqp5JdGJ41b8luLqyRrRvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/MjQyLTE1MTY0NTM2/OTgtMTg1NC5qcGVn.jpeg" alt="Cover for Burning Bridges (Crush Club Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/301c30eef619c1d48c57163cce832cd0.png" alt="Cover for Burning Bridges (Crush Club Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-24</td>
       <td>Sigrid</td>
@@ -1450,7 +1423,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Ua1UBcRkwcNlKEREqC5v51N-8OtRCaUyjuX3XH0L5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NTg4LTE2MTIxNzI2/MzMtMzc3NC5qcGVn.jpeg" alt="Cover for Six Feet Under (The Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/714a9febeb71875c84873d2bee92b9d5.png" alt="Cover for Six Feet Under (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Billie Eilish</td>
@@ -1467,8 +1440,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 78</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 85</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1513,7 +1487,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/KTyexO4SBgWeLZi_EZuAuIwyeBJp_w_Fw_lht_ZtxMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NDk4LTE2MTIxNzIx/MjctMTE5NC5qcGVn.jpeg" alt="Cover for Ocean Eyes (The Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a12d762704e43117a8a8de27a49a3e5c.png" alt="Cover for Ocean Eyes (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-16</td>
       <td>Billie Eilish</td>
@@ -1531,8 +1505,8 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 43</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 89</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 92</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 93</li>
@@ -1540,7 +1514,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/2y_II83oh3FG1ZCvaZSH5bOiTSYWbZc0IbhJKvL5X40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQy/MzcwLTE1NzI2MDY4/MjEtNzkxMy5qcGVn.jpeg" alt="Cover for Sixteen (99 Souls Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,9 +1532,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/YoMB3rzYq72_2Rkr9_QhAOZCLHZkv1a8_LSJCKKfftk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIx/ODU3LTE1ODQ4MDEw/NTQtMzM3OC5qcGVn.jpeg" alt="Cover for Hate Me (R3HAB Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d78228a877b9c611c32555dc0f284632.png" alt="Cover for Hate Me (R3HAB Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Ellie Goulding</td>
@@ -1580,7 +1554,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/zUiP1DJOxG51FrA6bcHeKQx-7qUCameKXaIqvZHwwb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjMz/NTc5LTE1NTA0MjQ0/OTktMjc5MC5qcGVn.jpeg" alt="Cover for Lift You Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4aa5c84a3846e212d538d4c2ecad494.png" alt="Cover for Lift You Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-13</td>
       <td>Jessie Ware</td>
@@ -1618,7 +1592,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/ZSCl4r6F1rYuOMah1IJ0cI6YtwGbgi9-qr65ytneV_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/ODAyLTE1NTc2MDQw/NzAtNTI2OC5qcGVn.jpeg" alt="Cover for Sixteen (Don Diablo Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1612,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/MErAFHW51eX-mKbXrePs3v70wKOupTDzzXd3zRtPDNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/NzkzLTE1ODUyOTY4/ODktMzk0MC5qcGVn.jpeg" alt="Cover for fabric presents Maribou State (DJ Mix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4b77973cecd95e7b66eaab75bfeb759.png" alt="Cover for fabric presents Maribou State (DJ Mix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Maribou State</td>
@@ -1679,7 +1653,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf90bdf0ab5f46279b2be7b57e754c47.png" alt="Cover for Love Goes On" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1691,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/XuaW5R7vhFN4-_VMdzSYiIkER2LJh0pA7Vxk-qaZq-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI0/NTg5LTE2MzcyMjAw/ODUtNjU3Ni5qcGVn.jpeg" alt="Cover for National Anthem (Remixes) - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1713,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/udPKItOalE-aE6vf1g9QORAp53x7UecJPZfP0jhmQtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI1/NTgwLTE2MjM1ODUz/NTQtNjQ1NC5qcGVn.jpeg" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a772008d632d151971f219df02829b6.png" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-12</td>
       <td>London Grammar</td>
@@ -1757,9 +1731,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/icJNPzm5YA09eWmeZBHCNzpfifHzQ-gGvVtWnufBDj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA5/ODIxLTE2MzQzODcy/MjQtNDExMy5qcGVn.jpeg" alt="Cover for Mirror (Maliboux Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b3e2c29a1dd2ad818b2ca239f35e81.png" alt="Cover for Mirror (Maliboux Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-18</td>
       <td>Sigrid</td>
@@ -1777,9 +1751,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/HimUQPTk12bXjgA-Oq-tvuO7kFl6YF9qqWmYdBTGcoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzgy/NjQwLTE2MjgzODA4/NjEtMjg5MC5wbmc.jpeg" alt="Cover for Good Girls (The Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/650651e9edcab2ae1e70775fe0914630.png" alt="Cover for Good Girls (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-30</td>
       <td>CHVRCHES</td>
@@ -1799,7 +1773,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/M2zUnCzqbl8JnC6o0X-sUyXn04EdG8KxQMPTL3BH__k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ3/MDgzLTE2NDE2MDQ1/MDctMTE4Ni5qcGVn.jpeg" alt="Cover for The Morning After (Radio Edit)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de4fec46f8f9c06674ed749251518db1.png" alt="Cover for The Morning After (Radio Edit)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-07</td>
       <td>Sound Nomaden</td>
@@ -1816,9 +1790,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/epLeOxNG2ZyXPBC0125PKsUdINSrh_vxSDbjG81pjsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjc4/MTg3LTE2NDg0OTA0/MjMtNzc4MC5qcGVn.jpeg" alt="Cover for Knockin&#39; On Heaven&#39;s Door" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b127ecec25fa9b6f03e856892a0d0b8a.png" alt="Cover for Knockin&#39; On Heaven&#39;s Door" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-10</td>
       <td>Nexeri</td>
@@ -1836,7 +1810,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/W0WFn4qcAxhopsW7RfdNGomdQPgmNhSE1kCVcKuWS0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM4/NjA5LTE2NjgyNTAz/ODMtMzU5NC5wbmc.jpeg" alt="Cover for My Reflection" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1829,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b22237bb5f600a7b1be8e1a03440161.png" alt="Cover for Higher Than Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1849,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cca58c3365ef0e4a549c7dfbe5ba8e93.png" alt="Cover for froge.mp3" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,15 +1862,13 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 11</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/GnC57WkpPI3ov12C7aLd0eBgjmFOJRtA6Y8Jpw-EoX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTc3/MjU3LTE3MDIzMzYy/NDgtMzA4My5qcGVn.jpeg" alt="Cover for Numb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09e4971d3adb612b5c84d17486181539.png" alt="Cover for Numb" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12-08</td>
       <td>GOODBOYS</td>
@@ -1917,7 +1889,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/9uZHm2q7F4mv0p0UrHXiDQQafCTiDXnChBM2X7yyxnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjY2/MzI3LTE3MDMxNzQy/ODQtODI2My5qcGVn.jpeg" alt="Cover for ALAYA Remixes EP 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d39b17506d926832d7370d6aa0d9476.png" alt="Cover for ALAYA Remixes EP 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12</td>
       <td>Future Islands</td>
@@ -1935,9 +1907,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/tQTCpyD9D8wloCS_MGzq5SxkPcIM_V7ZUgYOfWK4yCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTIz/ODY4LTE3MzAwNTcw/NDctNzAxOC5qcGVn.jpeg" alt="Cover for Hey Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e14049b406560b8555345462cc262b1.png" alt="Cover for Hey Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-22</td>
       <td>VisionV</td>
@@ -1955,9 +1927,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/1kdnqeMp66MOd3YugXKQhnPo7Q6ZW8Cx7BwVBx9DEQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTIz/MTY2LTE3MjAwMDQz/NzktODIwMy5qcGVn.jpeg" alt="Cover for Fantasy (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/564567e1455107c6a90db310a3c3b91a.png" alt="Cover for Fantasy (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-22</td>
       <td>M83</td>
@@ -1993,7 +1965,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/uhD-eRVvLDko5swsCs7C9CJQtQapKd8dqGIHK6YahlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQz/MjMzLTE3MjMyNDMw/MDItMTU3OS5qcGVn.jpeg" alt="Cover for Sun is Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,13 +2016,14 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d6fe71042ed6a1b6b47d162db4af87c.png" alt="Cover for Here Comes The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>TEEMID</td>
@@ -2070,6 +2043,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/771f1a9765e63e9fca0b70ea9dd932be.png" alt="Cover for Electric Feel" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>TEEMID</td>
@@ -2079,6 +2053,23 @@ Chill house is a relaxed electronic dance music style that combines smooth house
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54e18355db632fad75b3d7e5213132f3.png" alt="Cover for Trialog" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>HVOB</td>
+      <td>Trialog</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
