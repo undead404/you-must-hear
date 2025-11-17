@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T01:58:39.035Z
+date: 2025-11-17T13:07:05.591Z
 permalink: tags/celtic
 title: celtic
 ---
 
 ## celtic
 
-Last updated: <time datetime="2025-11-12T01:58:39.035Z">Wed Nov 12 2025 03:58:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T13:07:05.591Z">Mon Nov 17 2025 15:07:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Celtic music refers to a style of music originating from the traditional music o
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84c6934674c41228c2c52c80c32e9f3.png" alt="Cover for Spirit of the Irish" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Celtic music refers to a style of music originating from the traditional music o
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 69</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 71</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 72</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 96</li>
         </ul>
       </td>
@@ -68,7 +68,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 73</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -91,7 +91,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce047bddd6dfb1c1f1c5be39fa9a144b.png" alt="Cover for Rum Sodomy &amp; the Lash" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f090ab97c99452da4909839b936af69.png" alt="Cover for Macalla" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/zqHqjLGUrSB8sfQ6XWgAb3hLZvg9taJ-ul-Ve5gMlYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE5/NzUtMTM3ODI4OTU2/NC01ODcyLmpwZWc.jpeg" alt="Cover for In a Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1987</td>
@@ -183,7 +183,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/addb7802d4b140d79310142a8be5b446.png" alt="Cover for Sirius" style="max-width:120px; height:auto;" />
       </td>
@@ -214,6 +214,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 2</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 13</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 21</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 91</li>
@@ -221,7 +222,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/b66CRYjG64tJ2pNTgcv3HgE4QOmm6KTtJLVK6gW0wXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTE5/MDcwLTE2MjM1Mjg0/NjQtMTI2My5qcGVn.jpeg" alt="Cover for Равноденствие" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +255,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 72</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +278,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ab5e9cf4f8faafa3826475c913f6558.png" alt="Cover for Anam" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +296,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1b7b5846a2637f67bb375385b19fb33.png" alt="Cover for The Visit" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +328,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 92</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +370,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1993-09-14</td>
@@ -386,7 +387,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e12f7e00c2fe0d09acdcc42d0aefad2.png" alt="Cover for A Place Among the Stones" style="max-width:120px; height:auto;" />
       </td>
@@ -436,12 +437,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 86</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f37e8e94948563f745ecd46367bbbf66.png" alt="Cover for To The Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -459,7 +460,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc8d54ffb7d9462c180360d42e551b7c.png" alt="Cover for The Long Black Veil" style="max-width:120px; height:auto;" />
       </td>
@@ -510,30 +511,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 84</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Era</td>
-      <td>Era</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f1a021de197c2354f685d25b6eeed3.png" alt="Cover for The Dreaming Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +570,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32298d45e9e44f90b483d8dbd2d963a0.png" alt="Cover for Landmarks" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +604,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 80</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -640,14 +623,14 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 9</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 16</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 17</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997-10-20</td>
@@ -660,7 +643,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 57</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -679,12 +662,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 74</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Misty Eyed Adventures" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +720,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41cf6bcc7f587a77abf2861f19064286.png" alt="Cover for Gaelic Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +735,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 43</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -776,7 +759,25 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd322f613e974bf8cb3365f272757484.png" alt="Cover for Tierra De Nadie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-11</td>
+      <td>Hevia</td>
+      <td>Tierra De Nadie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
       </td>
       <td>1999</td>
@@ -790,12 +791,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 83</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/LJ228n8o4dDEljxvKrpFTGPabvkuseOg3oC_ClAObH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYx/NDMtMTMxMzIzNjEz/Ni5qcGVn.jpeg" alt="Cover for Bells Of Dublin" style="max-width:120px; height:auto;" />
       </td>
@@ -810,12 +811,13 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 3</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1999-04-26</td>
@@ -832,7 +834,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1999-09-20</td>
@@ -852,7 +854,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/BblRLaPbh7YdP-_luyol46Lddc7u0R-0WRp697dHvFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTcz/MC0xMTg4NjEzNzgy/LmpwZWc.jpeg" alt="Cover for Era 1" style="max-width:120px; height:auto;" />
       </td>
@@ -866,13 +868,14 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 81</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e159eb0de27abe9cb304deeb5e3d7ed7.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Clannad</td>
@@ -890,7 +893,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/ss9ZqYtkh2avtOJy4BmTs6_bLxc4-YyMmCKcVoveuPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM5/OTMtMTE5MjQzNDcy/NC5qcGVn.jpeg" alt="Cover for Tierra de Nadie (No man&#39;s land)" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +930,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2000-02-28</td>
@@ -941,7 +944,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 22</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -966,7 +969,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/tUSuXgwsVtJfWfPjz3HIeZvcyFUIjlP16289vcXsLbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTM4/Ny0xMTMwNDc5OTQy/LmpwZWc.jpeg" alt="Cover for Only Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,7 +1003,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 73</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1041,31 +1044,31 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 18</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 52</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbcac8d5d4963feea1a564eb4791aa44.png" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,7 +1086,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5036b1fbc794705bb9b3a34bb05955b.png" alt="Cover for Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1105,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2001-10-02</td>
@@ -1116,12 +1119,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 32</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/tv9S9CxUL6-Uy5LF7mAtvhPXQDxiEQTMfdBuVqEWq4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDgz/OS0xMjYyMjI0NzMz/LmpwZWc.jpeg" alt="Cover for Sean Nos Nua" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,13 +1139,13 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 10</li>
             <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d38e04cc76a7499c9ceceec2fb47ffdd.png" alt="Cover for Another Round" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,13 +1162,13 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 77</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 78</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9abffc42e7df8c0ad1a03a281d6cbf5a.png" alt="Cover for Frigga&#39;s Web" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1189,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/gibh54XHN7l7XhajROkkAqkzlxTMAj0dCeDxHqoW4k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODM5/MDItMTQ0NjczNjc4/Ni00ODc5LmpwZWc.jpeg" alt="Cover for Down The Old Plank Road: The N" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1207,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eecc64215024d9e85bb55a5f527f864.png" alt="Cover for The Edge of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1225,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2002-02-19</td>
@@ -1240,7 +1243,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7319707c1c384e31b0b3325d8946dffa.png" alt="Cover for Avalon - A Celtic Legend" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1279,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/KuJ-Z9uOIE2sqgTu24ffZO6fQ_gTYR3TDy_40tSNDGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDgz/MzItMTU3NDM0NTgy/MC05MzAzLmpwZWc.jpeg" alt="Cover for Time To Fall" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1297,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/w8s9vH8el_3vmiwCKE_EkG7hY2AUs7SMXyosodGXdJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA0/NjMtMTI2Mjg4Mzgz/MC5qcGVn.jpeg" alt="Cover for Hopes and Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,12 +1313,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 89</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0bee6ad508e4770ba489e7b0204d929.png" alt="Cover for Mistletoe &amp; Wine" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,12 +1332,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5745ebe43964356c38e3ab1726c0aba.png" alt="Cover for Mistletoe and Wine" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,12 +1351,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8d52ac613034468a0636ea76aa4b885.png" alt="Cover for Choice Language" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,14 +1371,13 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 68</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/Yyhe5S6lDFS8LWNNpLujgyE1AgN2OW4dHFH-7ryiGtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzMw/NzgtMTQyMzMxMjUw/OS05MDE5LmpwZWc.jpeg" alt="Cover for Inner Journeys - Myth + Legends" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Cusco</td>
@@ -1392,8 +1394,9 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb88a22fc364c5454c13ddbbdfb77271.png" alt="Cover for The Mass" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-18</td>
       <td>Era</td>
@@ -1405,7 +1408,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 62</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1449,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004-09-04</td>
@@ -1459,14 +1462,14 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 92</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/__4hnBTjav-kGV_BI8ndcOeq-tPlMu2U1JxuPRn_Pek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDc5/MDktMTQ3MDM2Nzc0/NC02ODIzLmpwZWc.jpeg" alt="Cover for The Season&#39;s Upon Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e732cc2aa0647fb83971db3f75cde7b.png" alt="Cover for The Season&#39;s Upon Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Dropkick Murphys</td>
@@ -1500,13 +1503,13 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 67</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 68</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/PKCNO5DI_I8eO1XJQB4vaaEyZHZaddQqzQ22xYJy-FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM3/OTU5LTE1NDE0ODIy/MjUtMjUxMC5qcGVn.jpeg" alt="Cover for Celtic Woman Presents: Lisa" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1527,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -1555,7 +1558,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 87</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1581,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd5ef6325d0b40dbbd71803373786d33.png" alt="Cover for Pagan Folk" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1600,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2006-10-03</td>
@@ -1614,9 +1617,9 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/XuisUNhOTRzraj7tidhiuY0jeHk1v7S1VAGIaBAYBb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg2/MTI5LTE2MDMxODQ2/MDItMjE3NC5qcGVn.jpeg" alt="Cover for Signature" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6277932d0ee44069a0046d821ea21007.png" alt="Cover for Signature" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-10</td>
       <td>Moya Brennan</td>
@@ -1632,7 +1635,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/480bd189315d4740abdaa8c7f9849ffe.png" alt="Cover for An Ancient Muse" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,7 +1652,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/2hAfKYrQFt_fEWXeHUXWR0JVypIba7hqmguClwKjB9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/MjgtMTU5MjM1NDY3/Mi01NjIzLmpwZWc.jpeg" alt="Cover for Nights From The Alhambra - Set I" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1688,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/666bbdc28075513ab75b9debd7bd09d1.png" alt="Cover for A Midwinter Night&#39;s Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,12 +1721,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 47</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25b1d9d1dc4ac26d67a6fc176ece016c.png" alt="Cover for Lvgvs" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1751,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/7Sqg8EVOkCfVE9h4L0OomJ1t-6pMAyp-363kfIQCFug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTY5/ODctMTI4MTY5ODMy/Mi5qcGVn.jpeg" alt="Cover for Last Chapter Of Dreaming EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1770,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87c3b23c231f669ef38e03fac962d953.png" alt="Cover for Bretonne" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1826,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 69</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 70</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 99</li>
         </ul>
       </td>
@@ -1844,12 +1847,12 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 9</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c427bc794447a4a783f59f430e63bf.png" alt="Cover for The Olllam" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,13 +1870,13 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 26</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 36</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 28</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2326518bfe95869affed60bd44d9544.png" alt="Cover for The Celtic Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1896,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2013-01-22</td>
@@ -1907,7 +1910,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 41</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1930,7 +1933,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/IiA4gT9t2VRXgdkzv5A__CzmRYpvc6zktrpBoogrZ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTkx/OTUtMTQ2MjAzMjI5/NS02Njc1LmpwZWc.jpeg" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,7 +1952,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/28N0XpKiNOoxwHLWvBBzNkgulVHRZMM9fWHuh4uIqCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg1/NDk5LTE2MjE3ODM2/NTItMTYxOC5qcGVn.jpeg" alt="Cover for Another Way to Fly" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T05:13:53.994Z
+date: 2025-11-17T13:06:37.354Z
 permalink: tags/witch-house
 title: witch house
 ---
 
 ## witch house
 
-Last updated: <time datetime="2025-11-14T05:13:53.994Z">Fri Nov 14 2025 07:13:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T13:06:37.354Z">Mon Nov 17 2025 15:06:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
   </thead>
   <tbody>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7995544374e44d889d11e69e3fdeec83.png" alt="Cover for Frost" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb40029a062d5f0fb46e5e7ea671cb59.png" alt="Cover for YES I SMOKE CRACK" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07251e26b8e34cfd8bdd69e8c5802c06.png" alt="Cover for OhK" style="max-width:120px; height:auto;" />
       </td>
@@ -85,8 +85,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2576b7968857c7fbc5223739db5855a5.png" alt="Cover for Dark Rift" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-04</td>
       <td>Pictureplane</td>
@@ -102,7 +103,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>9</td>
       <td>
       </td>
       <td>2010-07-01</td>
@@ -120,7 +121,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/2JVa-dN6lhWGIBVk2PsdD_pgb_mg-gStu-CbSYg2wKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODc5/MTQtMTMzMDExNTc3/Mi5qcGVn.jpeg" alt="Cover for Suffocation" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +157,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 39</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -179,7 +180,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>11</td>
       <td>
       </td>
       <td>2010-08-25</td>
@@ -196,7 +197,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>
       </td>
       <td>2010-09-20</td>
@@ -216,6 +217,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a18c7ec8f6f1568b3907c75383c5ae64.png" alt="Cover for King Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-28</td>
       <td>Salem</td>
@@ -227,12 +229,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 68</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9778295a102431db7db28157047674b.png" alt="Cover for oOoOO EP" style="max-width:120px; height:auto;" />
       </td>
@@ -249,13 +251,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 32</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 33</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/vKd5AANXEkOBviOSKc9x1yEg8OtlA2v9RhIBqoPcMNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEx/NzgtMTI4NjAzMTUz/MC5qcGVn.jpeg" alt="Cover for oOoOO" style="max-width:120px; height:auto;" />
       </td>
@@ -273,7 +275,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>12</td>
       <td>
       </td>
       <td>2010-10-28</td>
@@ -311,7 +313,42 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/V5-Cbz8CML311vB1E6otb3pL5BNnGwdBAgN6Pgu8uGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA4/NjYtMTI4ODUzOTUy/OC5qcGVn.jpeg" alt="Cover for Black Earth That Made Me Vinyl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-30</td>
+      <td>White Ring</td>
+      <td>Black Earth That Made Me Vinyl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2010-10-31</td>
+      <td>✝ DE△D VIRGIN ✝</td>
+      <td>✞◇✞</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
       </td>
       <td>2010-12-05</td>
@@ -328,7 +365,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/NtFVf_nu1sCwaZ5fem_R7uIbuelP0g4roFrGD9oTqRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjMw/OTktMTM5MTUyNjAw/Mi04MzAwLmpwZWc.jpeg" alt="Cover for Benighted United" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +383,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d7e4532ab10435da065bf1311bda699.png" alt="Cover for Ghetto Ass Witch" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +401,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d360c60183548cf9ac12c66f871b94d.png" alt="Cover for Ungirthed" style="max-width:120px; height:auto;" />
       </td>
@@ -381,30 +418,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 4</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 3</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/hSYB2ATuXVwtm1oPESmKtobRSzFredb9hUbS098ar8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI5/ODEtMTQwMTg4MTE4/NS03OTg1LmpwZWc.jpeg" alt="Cover for With U" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-06</td>
-      <td>Holy Other</td>
-      <td>With U</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 76</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 82</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +442,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63183fd98fd14905ab3a55bb4c2ba6cf.png" alt="Cover for Wander &#x2F; Wonder" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +461,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8925dba5489deed1787477c0b99a7a3.png" alt="Cover for I&#39;m Still In the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +479,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33002554f5fb8bf0205d838bba03e281.png" alt="Cover for Crim3s EP" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +497,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b79960b47a04bdaa80a7528d8e40586.png" alt="Cover for Kings and Them" style="max-width:120px; height:auto;" />
       </td>
@@ -502,8 +517,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 78</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 93</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 79</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -525,7 +540,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/129ba1430aa2409ea77610516abd1f5a.png" alt="Cover for Shrines" style="max-width:120px; height:auto;" />
       </td>
@@ -540,12 +555,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 74</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 80</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
       </td>
       <td>2012-07-25</td>
@@ -559,24 +574,6 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>
-      </td>
-      <td>2012-08-28</td>
-      <td>Holy Other</td>
-      <td>Held</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -601,7 +598,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df0454f5ebcf31c4dd30832d07312b19.png" alt="Cover for (II)" style="max-width:120px; height:auto;" />
       </td>
@@ -615,28 +612,6 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd78ddd9aa164b158461dd040acd4f6a.png" alt="Cover for CRACK CLOUD$ OVER ARTS KITCHEN" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-02-24</td>
-      <td>Black Kray</td>
-      <td>CRACK CLOUD$ OVER ARTS KITCHEN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -658,7 +633,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/W0Njvos7vgGt7o3PB8Sml-VobV8yxcNWkAiZTGjRsSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDg3/NDEtMTM4NzUxNzk4/OS03Nzg5LmpwZWc.jpeg" alt="Cover for Still Goin" style="max-width:120px; height:auto;" />
       </td>
@@ -674,12 +649,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 83</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
       </td>
       <td>2013-06-10</td>
@@ -696,7 +671,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f24fb75ffc245b6aa8d84efc33d7c66.png" alt="Cover for Without Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +689,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e72258a983743db95f898827de1bc2e.png" alt="Cover for Id" style="max-width:120px; height:auto;" />
       </td>
@@ -730,12 +705,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 22</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>15</td>
       <td>
       </td>
       <td>2013-07-09</td>
@@ -753,13 +728,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 74</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 76</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Yoow1IsNOotXtsbZF21AkxWGHmIhuIA3MKen6Y8MUwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM1/NzIwLTE2MTQ2ODk0/MTAtNDcxNC5qcGVn.jpeg" alt="Cover for Star Trails" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +753,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ad9214a8ec4f45cf121a018bcef979.png" alt="Cover for SUBSTANCES EP" style="max-width:120px; height:auto;" />
       </td>
@@ -797,15 +772,15 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 95</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 74</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 96</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/5vUjOXTQPu7A8BrGSLE1uWRlN8n9KASWxNr19djt0YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzUx/ODMtMTM5NTg3MTc0/My02Mzk2LmpwZWc.jpeg" alt="Cover for Future Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -823,7 +798,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48031fd7714a4da5cd8dfbce0b9000bf.png" alt="Cover for Ellipse" style="max-width:120px; height:auto;" />
       </td>
@@ -842,15 +817,15 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 5</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 80</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 81</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 91</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/01J5uaRktAj68jSPsatT65MdLhhSSGnX6q6aDDObSoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDg3/ODgtMTM5Nzg5NDMw/Ni02NDkzLmpwZWc.jpeg" alt="Cover for Dragonfly" style="max-width:120px; height:auto;" />
       </td>
@@ -870,12 +845,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 43</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>16</td>
       <td>
       </td>
       <td>2014-09-08</td>
@@ -893,7 +868,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/MEP8oCoRP7gp-OTh3_5O_CBMNmZ01YB_L9-yb1UC6qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjM4/NDEtMTQyOTYxMjI2/Ny04NzU5LmpwZWc.jpeg" alt="Cover for OCCULT" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +886,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba949c5854ff423fc2c12f4d26486823.png" alt="Cover for Vacuum" style="max-width:120px; height:auto;" />
       </td>
@@ -930,15 +905,15 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 86</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 87</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ZUOzfk0oXKiqihIVQQ9fVuwnROCgKT3az-TnoFz6qnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjY4/NzYtMTQxMjczMDUx/MS03NTQ4LmpwZWc.jpeg" alt="Cover for Memorial" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +932,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31a3d189dc244870c83b8ba6236275c7.png" alt="Cover for Trust" style="max-width:120px; height:auto;" />
       </td>
@@ -976,7 +951,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 37</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1014,14 +989,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 6</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 78</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 89</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 81</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/7XriFXyLp-kN1jL-wGMB6CXuXP4GN5d1Mo_BPs3wbTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTk3/NzUtMTQyODE2NTA5/NC02NDE4LmpwZWc.jpeg" alt="Cover for Dark Red" style="max-width:120px; height:auto;" />
       </td>
@@ -1039,7 +1014,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/cIZrhGrfvcC5wcr2Jyb0jIL1qfmFKG4kbmoKOPTJXB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIx/NTI0LTE1MDMwNzIw/MDAtNjQyOC5qcGVn.jpeg" alt="Cover for CEASE AND DESIST" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1042,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/RJgFPGNJcWqPGF_M1JW9rRGREwt6EmOgnyvMH54Bk2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI0/NDk0LTE0OTkyMDQy/MDEtMzMwOC5qcGVn.jpeg" alt="Cover for ABYSS REMIXES" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,14 +1062,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 38</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 37</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 88</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e8844449f347bcd97761caf816bcf1e.png" alt="Cover for Fallal" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,7 +1090,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/7Cw0muspRKTs5sQ5DqgV9OXy9_bcE2cmI8CQqQsFa2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYy/MzQtMTQ3OTQ5MzA5/MS00OTI0LnBuZw.jpeg" alt="Cover for Pure Salope" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,26 +1109,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff0f00127ea4ed924cc93e2d8ef2ca7.png" alt="Cover for Tiger" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-07-18</td>
-      <td>Thaiboy Digital</td>
-      <td>Tiger</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7b8a07698083c39628906254e505f3e.png" alt="Cover for Amnesty (I)" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1126,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7455dd06ac9c2957f6217395e2020027.png" alt="Cover for FAIRY PHONK" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1145,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/HNm_CL3aYlcZTjvMG9DvH4d4frXniEjJWcAHgRB8ML8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/OTQ2LTE1OTcyNzA5/MjItMjA0OC5qcGVn.jpeg" alt="Cover for A.I." style="max-width:120px; height:auto;" />
       </td>
@@ -1208,7 +1164,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/GomE--eTgVKT7TiVdSiZhQXa23jDjzUTfrreTuz9pnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/OTY5LTE1NjAyMjc0/NjUtOTUxOC5qcGVn.jpeg" alt="Cover for Innocence" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,15 +1183,15 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 4</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 52</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 69</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 9</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 53</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 70</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5306e60322714a30882ba2343c7af5b1.png" alt="Cover for Obedear" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1209,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/077ce1bf41e242a839ba059858b1c41e.png" alt="Cover for Without Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1230,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 65</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 77</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 83</li>
         </ul>
       </td>
@@ -1294,7 +1250,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1313,11 +1269,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5c5fac0b6d4befdc89e4cb5d076bf19.png" alt="Cover for Monster" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1297,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7292cee7344cdeacde28c0518541d0b.png" alt="Cover for Chapter I" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1328,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/UXTn3bJZ_i2OYVLAN5fMKIlgpydBHd95Ri5lDtuCGgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/NjIyLTE1MzExMzMx/MTQtNjgyNC5qcGVn.jpeg" alt="Cover for &lt;&gt;&lt;&gt;" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1346,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/383fed971586947781bd8726da6f8ecc.png" alt="Cover for THIS WORLD IS SICK" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1371,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/VnPpVy-9FvmPAA4TrxQGo-OMYUGCS5ViFcw2vdduwSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE1/MjI4LTE1MzA2NjIz/NjQtNjQxNy5wbmc.jpeg" alt="Cover for THE VOID" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1389,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7671934366a1b22799ec9d3d6f2cd6c6.png" alt="Cover for Mine" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,13 +1408,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/YlUtjIUGbdGm8akzHcKuDgihr5FWDL7JoZyZIc4rwdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA4/ODQ1LTE1MzI2MzI0/MDUtMjA5My5qcGVn.jpeg" alt="Cover for GATE OF GRIEF" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1433,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c402a0fdf4fd871e926154ae81d20fac.png" alt="Cover for Сказка" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1483,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/fnuZ51uCxQR4ofCeyIpay2wWAnW3_xE5EXXb9eAOeDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDcw/MDAtMTM4MzA1ODU1/NS0zMzAwLmpwZWc.jpeg" alt="Cover for EPHEMERAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,14 +1504,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 27</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 56</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 58</li>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 94</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cc57ee90f90ca53a8a215b60b07c3c2.png" alt="Cover for The End" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,12 +1527,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8046c4f02389052535d93208573253e.png" alt="Cover for Entity" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,6 +1555,27 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de2ed31d73ac2784e6cdf2c52788d180.png" alt="Cover for Autopsy of a Degenerate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-14</td>
+      <td>Gao the Arsonist</td>
+      <td>Autopsy of a Degenerate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>99</td>
       <td>
           <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for HARDSTYLE DRILL 2009 NOKIA ANGELZ 1.6" style="max-width:120px; height:auto;" />
@@ -1616,10 +1594,27 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 31</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 40</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 91</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/703293187fdb99b70e9cdb30cb4b2420.png" alt="Cover for Starz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-15</td>
+      <td>Yung Lean</td>
+      <td>Starz</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1643,7 +1638,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94e2161c1b2f22e892d60fc7890be3c.png" alt="Cover for Haunted" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,15 +1651,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 98</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 99</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 100</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/412c19248882dd4e9ff833d4470e0626.png" alt="Cover for Rainbow Bridge 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,14 +1700,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 31</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 42</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 84</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28d523be8ce69c772ef58155170dc167.png" alt="Cover for Screaming Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1762,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/719TimFz90CqTz3eWO1GDYD_zI1FyJi-AdmVYX218l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjgx/NDYyLTE3MDMyODc0/NDktMjU3MC5qcGVn.jpeg" alt="Cover for April Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,7 +1780,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/AXKYPTrrsUbQhriA78IhtAtNqpyJoPqhko8ukuKU1lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzk1/NDkyLTE2NTcwNjY3/NjEtNDU1MC5wbmc.jpeg" alt="Cover for Cutter Lane" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,12 +1799,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 3</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/UAgKkT5wnDfCWAjCs0k2JTLlxdA5c4ZIzmkViBtu_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE2/NzYxLTE2NjU3MjM2/NjItNTY0NS5qcGVn.jpeg" alt="Cover for Gunsmith tha Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,7 +1823,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 2</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 3</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 63</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 66</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 70</li>
@@ -1836,7 +1831,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg" alt="Cover for Synfuels" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,13 +1849,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 39</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/074c925300ee76ac27dd66c1163ca868.png" alt="Cover for Synfuels" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,12 +1868,12 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg" alt="Cover for Valley Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,7 +1895,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/936ee8defe58bef90b185ae22af82199.png" alt="Cover for Valley Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1917,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/2cBg1oo2oazjcHD6qdYCdgvD1sBnMfkhXerN4Pc0ULg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NDA5LTE2NjgxNzIy/MzQtOTQxMy5qcGVn.jpeg" alt="Cover for Clearing" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,16 +1941,16 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 8</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 25</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 67</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 91</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 69</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 92</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/JZx-NsuwTvpC2u30Q7MMaahOMaTHEf7zgw0Ljwu8E5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzUw/ODEwLTE2NzM1ODgw/OTktODQ4MS5qcGVn.jpeg" alt="Cover for BUTCHER HOUSE" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,7 +1971,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/BF0v6MCccSEgx_5INLM3NaELlzGs6YuZyeym9mCl7fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI0/NDM5LTE1ODgzNDEy/NzgtNzc1Ny5qcGVn.jpeg" alt="Cover for BLEED A RIVER" style="max-width:120px; height:auto;" />
       </td>
@@ -1992,13 +1987,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 26</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 34</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60dd4a876e9bd16c3c3efa35cc762148.png" alt="Cover for Bloody Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +2016,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8310c1d00bfc4ff0bc5a88dc666ab135.png" alt="Cover for 2" style="max-width:120px; height:auto;" />
       </td>
@@ -2039,8 +2034,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 33</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 60</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 36</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2062,14 +2057,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 30</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 89</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 90</li>
             <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2090,14 +2085,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 11</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 52</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 13</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/708402b64443bd42fff4d35de1fa4033.png" alt="Cover for Nordic Flora Series, Pt. 6: Outlaw Music" style="max-width:120px; height:auto;" />
       </td>
@@ -2110,13 +2105,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c2b9f1ea42b0e2898ec648a012d0027.png" alt="Cover for Exorcism" style="max-width:120px; height:auto;" />
       </td>

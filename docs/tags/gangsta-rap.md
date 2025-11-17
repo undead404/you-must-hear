@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T05:12:41.419Z
+date: 2025-11-17T13:05:25.325Z
 permalink: tags/gangsta-rap
 title: gangsta rap
 ---
 
 ## gangsta rap
 
-Last updated: <time datetime="2025-11-14T05:12:41.419Z">Fri Nov 14 2025 07:12:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T13:05:25.325Z">Mon Nov 17 2025 15:05:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -224,8 +224,8 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 73</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 74</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 98</li>
         </ul>
@@ -462,7 +462,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 26</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 53</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 97</li>
@@ -512,7 +512,8 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 41</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 2</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 44</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 49</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 92</li>
@@ -537,14 +538,14 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 1</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 3</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 73</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4265b23a87eeb3760b8bd307ed09cb2a.png" alt="Cover for Restless" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +644,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8fae92f6dd80c89b4156deff23a40a4.png" alt="Cover for The Documentary" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +891,6 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +914,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e297b4385fa4c16cc911398d13bdf04.png" alt="Cover for Piñata" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +965,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 54</li>
             <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 99</li>
         </ul>
       </td>
@@ -988,7 +988,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
         </ul>
       </td>
@@ -1012,8 +1012,8 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 81</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 84</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 83</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 85</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 87</li>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 100</li>
         </ul>
@@ -1034,9 +1034,10 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 60</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 78</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1057,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1116,12 +1117,13 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 6</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg" alt="Cover for Gelato" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1162,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1201,7 +1203,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 77</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 87</li>
         </ul>
       </td>
@@ -1224,8 +1226,8 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 42</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 52</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1248,8 +1250,8 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 18</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 29</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 90</li>
         </ul>
       </td>
@@ -1298,7 +1300,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 11</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1320,22 +1322,6 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td>2019-01-18</td>
-      <td>Chief Keef</td>
-      <td>The Leek, Vol. 1</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1398,7 +1384,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
@@ -1507,9 +1493,9 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1540,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/WnC6ShW0fLsImzKelLpVJQgZY5n6TsXqDoIm3ZiBDv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQx/NTI2LTE2MDIwMzcz/NDktNDM5OC5qcGVn.jpeg" alt="Cover for Mafia Bidness" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1695,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 31</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 40</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 91</li>
         </ul>
       </td>
@@ -1730,7 +1716,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1739,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 72</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 73</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 91</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 97</li>
@@ -1779,7 +1765,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 79</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 89</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 93</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 98</li>
@@ -1802,14 +1788,14 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 45</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg" alt="Cover for Foreign Exchange" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0e1c2a9bbbb28dc5de2fce0b060fbea.png" alt="Cover for Foreign Exchange" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-19</td>
       <td>Rx Papi</td>
@@ -1824,10 +1810,10 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 21</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 39</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 89</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1852,9 +1838,10 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 65</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 88</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 2</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 67</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 90</li>
             <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 100</li>
         </ul>
       </td>
@@ -1934,7 +1921,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 54</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 81</li>
@@ -1942,7 +1929,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/UAgKkT5wnDfCWAjCs0k2JTLlxdA5c4ZIzmkViBtu_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE2/NzYxLTE2NjU3MjM2/NjItNTY0NS5qcGVn.jpeg" alt="Cover for Gunsmith tha Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1962,8 +1949,8 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 63</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 66</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1983,7 +1970,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 78</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2005,8 +1992,8 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2027,7 +2014,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2088,7 +2075,7 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 69</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 88</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 95</li>
         </ul>
@@ -2112,6 +2099,25 @@ Gangsta rap is a subgenre of hip-hop music that emerged in the late 1980s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb2ad3060ce4eeeec312f55184484fb9.png" alt="Cover for Snot or Not" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-27</td>
+      <td>Homixide Gang</td>
+      <td>Snot or Not</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 45</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T02:40:13.992Z
+date: 2025-11-17T13:08:18.311Z
 permalink: tags/bounce
 title: bounce
 ---
 
 ## bounce
 
-Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T13:08:18.311Z">Mon Nov 17 2025 15:08:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,27 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
   </thead>
   <tbody>
     <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d72af549c8c393beebfecf339a71f639.png" alt="Cover for Zapp" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-09-02</td>
+      <td>Zapp</td>
+      <td>Zapp</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b634e150fb0046a7704f4d0349a12b0.png" alt="Cover for Nightcruising" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-10-26</td>
       <td>The Bar-Kays</td>
@@ -108,7 +127,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/dMXh9xAGCACaA3ynDRGSrMjfGRRXJZkglJ01mmTTiXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE3/OTMyLTE1OTQ2Mzgx/NjUtNjgwOS5qcGVn.jpeg" alt="Cover for Jackin&#39; for Bounce &#39;94" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +168,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>1998</td>
@@ -214,6 +233,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0c38d81b1c67fe40449bfb401b5e8a9.png" alt="Cover for Beware Of Dog" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-26</td>
       <td>Bow Wow</td>
@@ -249,7 +269,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 28</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -316,8 +336,8 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 33</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 77</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 41</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -337,14 +357,14 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 77</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/bxASWEwokQhFTU4Br1trXB7dQWEYe1YxmtdbJC_b8Fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTY0/NTYtMTMyNTQ1NTMw/MS5qcGVn.jpeg" alt="Cover for B&#39;Day - Anthology Video Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8215514216370f94f1e86536e3f7250a.png" alt="Cover for B&#39;Day - Anthology Video Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-05</td>
       <td>Beyoncé</td>
@@ -367,7 +387,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/jeZIQoumjMwG3KVpCZMzsvJGndjXVk0ZxfEmWmmDlXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzM2/Mi0xMTE5NDAwNTU3/LmpwZw.jpeg" alt="Cover for It&#39;s a Hit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6684271682894efda2d0b9decfa6e420.png" alt="Cover for It&#39;s a Hit" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-20</td>
       <td>Rilo Kiley</td>
@@ -420,8 +440,8 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 3</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 82</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 19</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -464,7 +484,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/4yaZEEvVxxWjPC2UYXUT75YzERokeeT5TEY6XLR2WdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/MjYtMTMzMjU4OTQ1/My5qcGVn.jpeg" alt="Cover for Bounce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac0797922d431143836d4d1ef023561a.png" alt="Cover for Bounce" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10</td>
       <td>Tarkan</td>
@@ -480,7 +500,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/MX57N8VC5XxCgpLgPRR-0rs9gFlGzZsjfiqU3UfoSgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjU2/MS0xMjI5MTAxMjA4/LmpwZWc.jpeg" alt="Cover for Dont Destroy 12&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +544,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/4IsexcL1grwRZZcTkZl1YIprx_TehWnSWdW__PqoUfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjc2/Ni0xMTczMTk1NTQ4/LmpwZWc.jpeg" alt="Cover for Filewile Remixed Part One" style="max-width:120px; height:auto;" />
       </td>
@@ -586,14 +606,13 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 68</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/I0jIbvL9-nOjKd32cDY8RvTZDV7T60n4C43pEDl_YNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTI3/NC0xNDIyOTg1MTM3/LTI3MDIuanBlZw.jpeg" alt="Cover for Bounce (Armand Van Helden Mix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02</td>
       <td>Tarkan</td>
@@ -653,6 +672,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c594636f5499ad5d08f2a44f23990a.png" alt="Cover for Nassau Massage" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-26</td>
       <td>Filewile</td>
@@ -727,7 +747,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/B7ViKTr8F17ma4XVR6CihBrn1X-joAy7anYGr2PQRBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk2/MjYtMTIyOTEwMDYz/NC5qcGVn.jpeg" alt="Cover for You hear what eye see" style="max-width:120px; height:auto;" />
       </td>
@@ -771,9 +791,8 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/BgqPuvzYSS4Qyn7i2Zgn8fOy1roxFNvhvnCxXksoA5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc5/MTctMTIyOTAyMzcy/NS5qcGVn.jpeg" alt="Cover for BONAPARTE REMIXED" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Bonaparte</td>
@@ -834,7 +853,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/QZmlEFRMJdaFPs99y5ebLkSIBRHQl3LEAAfSG6q3X9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk1/OTktMTIyOTEwMTE0/NS5qcGVn.jpeg" alt="Cover for Basserk Split Series No2: Lucky Goat Side" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +897,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/5zs5tB1CHAWMxKj6sR9gTIZ4ftnEMaokgj6Qjc28Mqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgx/MjItMTIyNTU3MjM0/OS5qcGVn.jpeg" alt="Cover for Milkshake - Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -924,7 +943,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/5zs5tB1CHAWMxKj6sR9gTIZ4ftnEMaokgj6Qjc28Mqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgx/MjItMTIyNTU3MjM0/OS5qcGVn.jpeg" alt="Cover for Musik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd5691428c9f54cabdf1c78d732af523.png" alt="Cover for Musik" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-31</td>
       <td>MilkMoneyMaffia</td>
@@ -966,9 +985,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/g1gBmNnMGX4ukXnhsrj6_gzAcoyPQIbdL7SfG_841us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjYx/OTItMTYxNTY1ODIy/MC05OTg2LmpwZWc.jpeg" alt="Cover for Raindrops and Elephants-Piranha Re:interpretations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db591c54343b4c11a8d893652c778048.png" alt="Cover for Raindrops and Elephants-Piranha Re:interpretations" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>[dunkelbunt]</td>
@@ -999,7 +1018,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/W7Dv_uvybLtFRGjthqj4_EYHWfLHYQHKsJ8rFT6bo3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY1/MjUtMTIzNDkxNjIx/Ny5qcGVn.jpeg" alt="Cover for Acid Crunk EP 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e454450a14d89aacfe2be1f4d9964d99.png" alt="Cover for Acid Crunk EP 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-16</td>
       <td>An-ten-nae</td>
@@ -1017,15 +1036,15 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 13</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 15</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/1gAGLwjHDiTTCxF8n0ngXO4VKQL6deU_3hKC6myVGoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA4/NDctMTI3NDc5NjEw/OC5qcGVn.jpeg" alt="Cover for Finished business" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8a2778f52cc4075a154ae759aae2dfe.png" alt="Cover for Finished business" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03</td>
       <td>Tanzkonsol</td>
@@ -1067,7 +1086,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/lbx9jUJ11f3tXsy7LmTXgoFXjrKtFvY17rd4PMne5KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM3/MzEyLTE1ODcxNTc1/NzQtNTYyMy5qcGVn.jpeg" alt="Cover for Mixtape # 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1107,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/EFvCi0pRGvwW2ZBMbCZETAqQebsjmU35VwLv8ihx4Pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQw/NDU3LTE2MTk4ODE5/MTgtMjIyNS5qcGVn.jpeg" alt="Cover for Сумасшедший" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1127,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/C5OF7-k0vfIIXC3LZdEF8jvzz4qgNZHknIEdjEr1IpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA3/OTctMTI3NDc5NDAz/NS5qcGVn.jpeg" alt="Cover for The Horn" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1189,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Jq1VKZrYSoyDX6powXEfIAgveR0-IZuSp5ReJbFJzuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjAx/MzAtMTI2MTU3MzA1/OS5qcGVn.jpeg" alt="Cover for Orgelstunde" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1213,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/NoS_amEj5kva3UqBQbAI7OIK40ED_C337tUu8FUDNhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjE5/OTktMTI3MzAxNTMw/NS5qcGVn.jpeg" alt="Cover for On The Run" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/895a4511ad66cff537112865f9d756e3.png" alt="Cover for On The Run" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-26</td>
       <td>Filewile</td>
@@ -1214,7 +1233,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/KmeEiZoZlMvszavCT289718Z4Z8EAuyDFtm74EC0wug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTM4/MDQtMTQ2NzE3MDQw/Ny03Mjc2LmpwZWc.jpeg" alt="Cover for A Well Orchestrated Robbery" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1256,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/bFcTj4KRnPGN0dF13EjzC1ImomplYCE0v4DE-u6DyCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDg4/MjktMTI5Mjk3NTQ0/My5qcGVn.jpeg" alt="Cover for After Silkworm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2fcac52bd0d4fd2845ed437a768d58d.png" alt="Cover for After Silkworm" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-21</td>
       <td>PLANET SOAP</td>
@@ -1259,7 +1278,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/E_2NpTE4h1XPxs0f-g62YJ0s7c4HhJpxgFAqfb_h3kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQw/MDU3LTE1ODcyMDcw/MTAtMTAzOC5qcGVn.jpeg" alt="Cover for Mixtape # 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1300,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/9QfAf1gWuTS7PDyj2rybS45qR1_6Gr6bnep5y8VUeF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njgw/NjktMTQ4NzY4OTEw/Ni03ODM4LmpwZWc.jpeg" alt="Cover for Priorities" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5d35f88d65346f792d04043caced12b.png" alt="Cover for Priorities" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Cardinals Pride</td>
@@ -1318,9 +1337,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/GEaDH2rGNoGpRZx6zuTKK_spvx4TAFAOPugtY9gaH74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjIx/NzItMTMzMjYwMjE1/Ni5qcGVn.jpeg" alt="Cover for Go (Swarms Remix) &#x2F; Bounce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef71c9130d746738377ba20b3bc086e.png" alt="Cover for Go (Swarms Remix) &#x2F; Bounce" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-20</td>
       <td>Diplo &amp; Oliver Twizt</td>
@@ -1407,14 +1426,14 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 40</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 52</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/E02TBXW6DKFUPFt00NFfJ-h0MAIHe1cSdagO0RCypoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTk3/MTktMTQyOTUxNzg1/NC04ODcwLmpwZWc.jpeg" alt="Cover for Lower Class Chav EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65372ce2bb93c5fff5a3b84a591b711a.png" alt="Cover for Lower Class Chav EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-20</td>
       <td>Sebby T</td>
@@ -1434,7 +1453,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/SmgZsbQjrIenf_O7C5GK7l1DOeg3oUfbqybXvVsXO5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjcwLTE1NDc1NjE2/MzYtMjc5MS5qcGVn.jpeg" alt="Cover for We Sell Ice Cream EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1471,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Ik5D2HcDRqrW_ovscQdtNOziI1C8SX1wxrxb4sdSAGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcy/MDY2LTE1MDIxMTk3/MzUtNDgwNC5qcGVn.jpeg" alt="Cover for S.E.G.A Tape, Vol. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,6 +1484,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1488,9 +1508,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/whNRHHKNN6VF0BOecLATqwtJlImWTAgzwmVZDZOltjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzE1/MjktMTQ3MzU5MTYy/Ny05MzA3LmpwZWc.jpeg" alt="Cover for HEATWAVE 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/085b37f6b3bf57ed64f56fba31dbeec3.png" alt="Cover for HEATWAVE 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-04</td>
       <td>Leonce</td>
@@ -1508,7 +1528,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/U6OavqgfV7uryeeY-gTeLw2kr3L8JkSbv07dKJtRD0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg4/MDI2LTE1NTE0NDQw/ODMtODk2OS5qcGVn.jpeg" alt="Cover for Аконит (EP, 2013)" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1545,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ccYMaaGjsbmEh7rp1yHyjbjiTXPgwit_pfklWSa6V5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTM1/NzYyLTE2MjM2NjI1/OTItNzg0OC5qcGVn.jpeg" alt="Cover for Soul Bond" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1566,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg" alt="Cover for WE ROB RAVE 9" style="max-width:120px; height:auto;" />
       </td>
@@ -1567,7 +1587,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg" alt="Cover for WE ROB RAVE 8" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,7 +1609,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/atf76ErPand1ZXDY_vmkeiefT2E1IMnAiEDZAfgGUoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/MDQ2LTE2MDIwNjYw/MTktNDE3Ni5qcGVn.jpeg" alt="Cover for Mike Epsse" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,37 +1619,6 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/f4dZzJoXIU18IoL3020D9CvV61_NARdWz_yYd027lOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY2/OTk3LTE2NjY5MDE5/MDgtNDc2OC5qcGVn.jpeg" alt="Cover for Face 2 Face (Mheir Remix) [DJ Stuiter Flip]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-23</td>
-      <td>Jay Eskar</td>
-      <td>Face 2 Face (Mheir Remix) [DJ Stuiter Flip]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
@@ -1651,7 +1640,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 61</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 63</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 84</li>
         </ul>
       </td>
@@ -1678,7 +1667,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg" alt="Cover for WE ROB RAVE 7" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1689,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg" alt="Cover for WE ROB RAVE 6" style="max-width:120px; height:auto;" />
       </td>
@@ -1724,9 +1713,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/cS0Mr8SVTxDPvdR93RpnUfiRB1VgBJzOfoqfRjHeLk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg3/MzQ1LTE2NjYyODQ2/NDItNDI4Mi5qcGVn.jpeg" alt="Cover for Bounce Bounce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a82fa1d6bde75284afb7cf63c767320.png" alt="Cover for Bounce Bounce" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-04</td>
       <td>MoneyBaby XO</td>
@@ -1745,7 +1734,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/RrhhTnzkWUyWu6prPmtrh877MQerSVqoKhDm4rACxes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDYy/MjA1LTE2Njc2NTgw/NzEtNjQ1Mi5wbmc.jpeg" alt="Cover for The Takeover" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1753,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1776,13 +1765,14 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 20</li>
+            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b7802b28a094721fe666c9b96f09c42.png" alt="Cover for BUCKWILD" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Trevis T.</td>
@@ -1800,7 +1790,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1822,7 +1812,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1840,8 +1830,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93f3fc18f24be915134f864ef9c0e0fb.png" alt="Cover for Donk Master" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bonnette Da Bandit</td>
@@ -1859,7 +1850,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1881,7 +1872,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1901,7 +1892,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1923,8 +1914,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c08ace2f12c74e028ff7b31a6b30d775.png" alt="Cover for Левый Берег (Dilla Beatz Prod.)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>D1M.J</td>
@@ -1945,7 +1937,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1963,7 +1955,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1983,7 +1975,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2008,8 +2000,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c8f3aae6b482a674823368db3adca4.png" alt="Cover for In search of a better name" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ tHORNGREN</td>
@@ -2031,8 +2024,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb509aad6f145e05d543e9a9531b7d1.png" alt="Cover for Never Leave Me" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Marcosd</td>
@@ -2049,7 +2043,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2066,7 +2060,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2087,8 +2081,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a4669c009c94c22b42b50f1ed09bd36.png" alt="Cover for Basserk Bashup 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Rufie Rutter</td>
@@ -2130,8 +2125,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de7fef98df1e48be92fdc9b778655c75.png" alt="Cover for Buy yourself a dog!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>baydog</td>
@@ -2151,8 +2147,9 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/780755d41e9f29b1498480abf7a3b693.png" alt="Cover for Basserk Split Series No1: Genjini Side" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Genjini</td>
@@ -2194,7 +2191,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -2237,7 +2234,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2320,7 +2317,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2338,6 +2335,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0d7f5f500cb89036ec191e71157dcce.png" alt="Cover for Monster" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>LUM!X, Gabry Ponte</td>
