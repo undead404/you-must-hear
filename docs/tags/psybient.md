@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T02:02:58.158Z
+date: 2025-11-16T20:14:35.926Z
 permalink: tags/psybient
 title: psybient
 ---
 
 ## psybient
 
-Last updated: <time datetime="2025-11-15T02:02:58.158Z">Sat Nov 15 2025 04:02:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T20:14:35.926Z">Sun Nov 16 2025 22:14:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>1972</td>
@@ -42,13 +42,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 43</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01d362eb078840d39699de5c061df044.png" alt="Cover for Oxycanta" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -66,7 +67,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d64c4e5c10ac4f2b869662169b58a2ad.png" alt="Cover for 220 Volt Live" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +88,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0d389d5236946149e78064cbcc344e2.png" alt="Cover for Lightflow" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +108,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>1998</td>
@@ -120,12 +121,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 74</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/FkyAEdd_12UqJS-LdqJ1ClUQX3kooLOHnkP_4Ks40UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTc0/LTE1MTYzNzYxOTEt/MTE2Ni5qcGVn.jpeg" alt="Cover for Back to Earth..." style="max-width:120px; height:auto;" />
       </td>
@@ -144,16 +145,15 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b41c3d48234b75aeb0b4ad54d874e2.png" alt="Cover for Are You Shpongled?" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-01</td>
       <td>Shpongle</td>
       <td>Are You Shpongled?</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
         </ul>
       </td>
       <td>
@@ -179,13 +179,13 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 14</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 16</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
       </td>
       <td>2002</td>
@@ -204,7 +204,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/eVLgz18syzgOPnGVVi3ZAmNZGvR_hPWWYxYdTlfq4Hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODg2/LTEyMDg5NTUwNTAu/anBlZw.jpeg" alt="Cover for Within the Office of Eye and Ear" style="max-width:120px; height:auto;" />
       </td>
@@ -221,13 +221,13 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 7</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2002-10-17</td>
@@ -242,7 +242,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 43</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 44</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 99</li>
         </ul>
       </td>
@@ -267,7 +267,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
       </td>
       <td>2003</td>
@@ -283,7 +283,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e1e8dfc38c7b78c7eb26602590ef03.png" alt="Cover for Spontaneous Illumination" style="max-width:120px; height:auto;" />
       </td>
@@ -298,15 +298,15 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 13</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 28</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 48</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 30</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 49</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a7d6c467b54c24dd9ad9eab7b8cfa5b.png" alt="Cover for Prima Materia" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +327,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3c2b077e3924075a1f39cd8ba49c044.png" alt="Cover for Aftermath 2.0 | Archives of Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -351,8 +351,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d194ab652d5444488ecbfff1bac6dc9.png" alt="Cover for Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-01</td>
       <td>Shpongle</td>
@@ -369,8 +370,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a1cd71d485a401d965dab3fa72deba2.png" alt="Cover for Natural Selection" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11</td>
       <td>Sounds from the Ground</td>
@@ -384,12 +386,29 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 48</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22e54b7cf6bf4656c69cc1c43357f3bf.png" alt="Cover for Distances" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-11</td>
+      <td>H.U.V.A. Network</td>
+      <td>Distances</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24a415c35a5f3b12ab64d096fd7d4dbc.png" alt="Cover for Sub Conscious" style="max-width:120px; height:auto;" />
       </td>
@@ -406,13 +425,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 82</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd0dc062c3f4f7aa5af58d9444b5e85.png" alt="Cover for A Cup Of Tea?" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02</td>
       <td>Kick Bong</td>
@@ -428,7 +448,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/yOjzEdpRdsFBYqQHiZoAXK4O-rBJE5_Zm84TeA6j-WI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTY0/NC0xMjAxNTQyODc1/LmpwZWc.jpeg" alt="Cover for Magic Square Of The Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -446,28 +466,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec8116a163a44ed4b19ad84493eb49ff.png" alt="Cover for Circuit Breaker" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-04-04</td>
-      <td>Tripswitch</td>
-      <td>Circuit Breaker</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>2005-11-04</td>
@@ -498,7 +497,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
       </td>
       <td>2006</td>
@@ -517,21 +516,21 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 5</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
             <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 76</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
       </td>
       <td>2006-02-13</td>
@@ -552,7 +551,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bb12569e791ac61c054eb77759f35ca.png" alt="Cover for CLCD04 Side Liner - Emotional Diving" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +570,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
       </td>
       <td>2007</td>
@@ -589,7 +588,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007-01-09</td>
@@ -610,7 +609,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>2007-02-20</td>
@@ -629,6 +628,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeffdbd11b0d4573c5e143d5ca679ed2.png" alt="Cover for Source" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-02</td>
       <td>Sync24</td>
@@ -645,8 +645,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec383553eb474306a842b8e70a91ec9c.png" alt="Cover for Organika" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-17</td>
       <td>The Peaking Goddess Collective</td>
@@ -659,12 +660,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 70</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d50a88c82d51e67206bafd191f62d56.png" alt="Cover for The Last Days Of Gravity" style="max-width:120px; height:auto;" />
       </td>
@@ -673,18 +674,16 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>The Last Days Of Gravity</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 50</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69d1117943b445868804af9244fa737b.png" alt="Cover for Fruits of the Imagination" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +702,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/iMFkGzEcuSy00HtSEh43g803-jGbrx1dtVsSdBJBTWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY4/ODMtMTMwOTA4MjE4/Ny5qcGVn.jpeg" alt="Cover for Idyllic Life" style="max-width:120px; height:auto;" />
       </td>
@@ -718,14 +717,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 88</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/rLZXoT-4147n6NB8m2bSfLhicjVEH9UjayRAQO58H2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAx/ODAtMTIzMzk2MTkx/OC5qcGVn.jpeg" alt="Cover for [ Human ]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da99ac9f060f46c68282f4861733647e.png" alt="Cover for [ Human ]" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-21</td>
       <td>Hol Baumann</td>
@@ -739,13 +738,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 93</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9acef55167305132a8ac3cc5b30a0a4a.png" alt="Cover for Flower Power" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-06</td>
       <td>Kick Bong</td>
@@ -757,14 +757,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 27</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/NAWSDw9GNGH9briVRBU1ho-N64EV1gWbDvFgvVdFAbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc4/NDAtMTI1MzMxMjc3/OS5qcGVn.jpeg" alt="Cover for On A Wind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdb4056ce2454bf8cbe789628525a0e6.png" alt="Cover for On A Wind" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-10</td>
       <td>Solar Fields</td>
@@ -781,7 +781,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2008-06-24</td>
@@ -799,7 +799,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-oj5qZhS9XJaLoCoLguxKt5XZLU1BMu4RCC_-mldGPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/ODUtMTIxOTE4MjY2/Ni5qcGVn.jpeg" alt="Cover for Timelapse In Mercury" style="max-width:120px; height:auto;" />
       </td>
@@ -823,7 +823,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
       </td>
       <td>2008-07-17</td>
@@ -841,7 +841,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58fbc08cc8f408c2120508696bc208a8.png" alt="Cover for Flight Of The Urubus" style="max-width:120px; height:auto;" />
       </td>
@@ -858,19 +858,19 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 70</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 77</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/OY2JVTYmgVoIO_2L8iLJqxJCsLybmQF0zCdCgGsWlvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTkx/NjItMTYyNDQ0NjM2/NS04MzUyLmpwZWc.jpeg" alt="Cover for Long Sleep Plain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f43eec11e6c64b5a846193a9fad20fc5.png" alt="Cover for Long Sleep Plain" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-10</td>
       <td>Will-O&#39;-The-Wisp</td>
@@ -889,7 +889,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/ObVwzhjQtFxWvx7w_a-lHcgPD8SMcuQc2bNdKWaEXvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc5/MzktMTMxMTk0MjQw/OS5qcGVn.jpeg" alt="Cover for Hydroponic Garden (2015 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -905,12 +905,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 62</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/8Lbx2gyDkw1Vd9gjRPw46JDn7fWIpJzd5VqKUujwS0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg0/OTEtMTM5NTc2MTY0/MC03MjA4LmpwZWc.jpeg" alt="Cover for Fahrenheit Project Part Six" style="max-width:120px; height:auto;" />
       </td>
@@ -929,26 +929,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/8Lbx2gyDkw1Vd9gjRPw46JDn7fWIpJzd5VqKUujwS0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg0/OTEtMTM5NTc2MTY0/MC03MjA4LmpwZWc.jpeg" alt="Cover for Ephemeris" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-03-12</td>
-      <td>H.U.V.A. Network</td>
-      <td>Ephemeris</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
       </td>
       <td>2009-04-14</td>
@@ -967,7 +948,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
       </td>
       <td>2009-04-29</td>
@@ -982,14 +963,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 54</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/Ma-lP8wgwQc3aa9b6NER-j7lMu-PdKPIEHn2mwSqyRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ3/ODUtMTI0MTIyNjcx/MS5qcGVn.jpeg" alt="Cover for Through The Galaxy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e452d7c9a1dcb43331d851f598dca88.png" alt="Cover for Through The Galaxy" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-01</td>
       <td>Easily Embarrassed</td>
@@ -1005,26 +986,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cedac7d4aa4242ad8e5febebd7c2ce2f.png" alt="Cover for Leylines" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-06-03</td>
-      <td>Aes Dana</td>
-      <td>Leylines</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
       </td>
       <td>2009-11-06</td>
@@ -1042,7 +1004,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/avDGzmp4s5FM_BLy4RX81hZXoCnyNUzHgG449V1mZhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg0/MzMtMTI2MzkwNDcx/My5qcGVn.jpeg" alt="Cover for Asura" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,8 +1023,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28bbb39a171b49c896b4e597bef96c4e.png" alt="Cover for A Twisted Downbeat Adventure" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-15</td>
       <td>Seamoon</td>
@@ -1079,8 +1042,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb470ea782a341118d38346565fc5ced.png" alt="Cover for Running Up That Hill" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-29</td>
       <td>Sysyphe</td>
@@ -1097,7 +1061,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba3484cbde164baa853b75599ea5485a.png" alt="Cover for Interloper" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1078,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8b051f3ff1f4bc8aa7c5af8014d2ae8.png" alt="Cover for Live at Glastonbury Festival 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1098,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2010-05-18</td>
@@ -1151,8 +1115,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e8c32b11a404133bcba623e06869bf5.png" alt="Cover for Human Recycle" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-17</td>
       <td>Side Liner</td>
@@ -1172,7 +1137,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2010-10-01</td>
@@ -1193,7 +1158,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
       </td>
       <td>2010-11-07</td>
@@ -1212,7 +1177,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>42</td>
       <td>
       </td>
       <td>2010-12-02</td>
@@ -1229,7 +1194,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
       </td>
       <td>2011</td>
@@ -1244,12 +1209,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 80</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2011-01-13</td>
@@ -1266,8 +1231,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d77fb8ed616e49b8988ab7b5d86d2291.png" alt="Cover for Rainforest Reverberation" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-04</td>
       <td>Bluetech</td>
@@ -1285,8 +1251,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b460f90757eb4aebcaf16f21c7e61850.png" alt="Cover for Organic Mathematics" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-05</td>
       <td>Lab&#39;s Cloud</td>
@@ -1321,8 +1288,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b00acce4feb74eef866fa35ed15a9198.png" alt="Cover for Mimesis" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-19</td>
       <td>Sundial Aeon</td>
@@ -1339,7 +1307,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/kd_kunynvpKaQTuTL7qH6GyEOUVxzwl-AyXLCmhWyKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc2/ODMtMTMzMTk1NTky/OS5qcGVn.jpeg" alt="Cover for Come Back To Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1326,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/U_F_IF6y5GWoYUaDBZlMkpajt3ARN0AcOYgnjxUlf7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDk2/MDAtMTMzMDgyMDIz/Mi5qcGVn.jpeg" alt="Cover for Deep Space Objects" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1346,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/W36p4msVQ16lOPljx380r6bK92_k7JNq2I34rl5mdnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTU3/OTAtMTMzNzQ5MTIz/OS03MzEwLmpwZWc.jpeg" alt="Cover for A Little Closer To The Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,8 +1364,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62a23fac9f4943fb905c74adde83bc5d.png" alt="Cover for Solar Walk 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-01</td>
       <td>Astropilot</td>
@@ -1413,15 +1382,15 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 16</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 17</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/IUalJT_NUOUXlbtf_slZb53ybZb6PDUVaMEiFUQkbJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTE4/NTItMTM0ODk3MjEz/Mi05NTc0LmpwZWc.jpeg" alt="Cover for Illusions Blooming Softly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eea0ee6d82e4093867826bd0b16a2ab.png" alt="Cover for Illusions Blooming Softly" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-10</td>
       <td>Ephemeral Mists</td>
@@ -1443,7 +1412,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea852827bd7b49f488d97932efca493c.png" alt="Cover for Comfortable Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,7 +1430,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19bdffd94330468ba0ae1d403680c8b1.png" alt="Cover for Time Equals Eternity" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,7 +1449,26 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/jKSYlcWOOgUqW4Ji6Jx0VJp1bjSOJ5pHVFiCLIe5bHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTIx/NTYtMTM1NDY3NTMz/NC0xMzMzLmpwZWc.jpeg" alt="Cover for 9980 (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-17</td>
+      <td>Connect.Ohm</td>
+      <td>9980 (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/jKSYlcWOOgUqW4Ji6Jx0VJp1bjSOJ5pHVFiCLIe5bHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTIx/NTYtMTM1NDY3NTMz/NC0xMzMzLmpwZWc.jpeg" alt="Cover for [ 9980 ]" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,7 +1508,27 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01ff74a34abb4ceaa658efc72a5927c3.png" alt="Cover for Folktronica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-03-22</td>
+      <td>Kurbeats</td>
+      <td>Folktronica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
       </td>
       <td>2013-04-15</td>
@@ -1537,7 +1545,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/nZraOsuvUTrkaSOB9DythJoBGbF9LGh8Q2EDQUNZ7Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODYx/ODMtMTM2NjI2MjUz/MS00MzM4LmpwZWc.jpeg" alt="Cover for The Hermit&#39;s Sanctuary" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1564,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d3edee875194d40cd91efbeccafdc5e.png" alt="Cover for Refuge - Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,12 +1601,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 51</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
       </td>
       <td>2014-05-30</td>
@@ -1615,7 +1623,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b38399398c3f2978c3f2f1c51acdf563.png" alt="Cover for RED" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1641,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab51a49555be4405c41e9573c640666a.png" alt="Cover for GREEN" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1659,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1711432ffb4c41f2c1a810c85a19a960.png" alt="Cover for BLUE" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1677,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/1q3ix3NciZOiCbSjdCAd2vfnUiicE-uYkMoiRJol2GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODEw/NTQtMTQxMzA3OTky/MS01NjUxLmpwZWc.jpeg" alt="Cover for Eadgyth" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1695,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/RjT_Jj_l7hG8EstUuFljWgpDmYcTS-OuxfCfRN82r90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTgz/NTctMTQxMzUwNTU4/Ny0zMjYxLmpwZWc.jpeg" alt="Cover for Asteroidi" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,12 +1731,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 89</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/rBqEV04yEPisqE5mVI2JtmY5tkQDz7tIMikq-pug2d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzc5/MjUtMTQzNTQ3OTc2/NS03MjEyLmpwZWc.jpeg" alt="Cover for A Singularity Encoded" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,12 +1752,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 55</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/Tn_HwwlMiWt-l9CvMlatf6yhcxlA3LKso6HKXqfD8gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzQz/MjItMTQzNzkxMTQ5/Mi05OTk2LmpwZWc.jpeg" alt="Cover for The Cities of Sliver Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1799,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/WPP3itQ_xo4Ahwvvgj9Jx9HSTMlwydGFLVv3ygJfgYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc1/NzgtMTQ1NzUyODY2/OC0xMzUwLmpwZWc.jpeg" alt="Cover for Albedo" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1817,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/gL-6PzsUa5L00Rz4gYUNKP9X5k4AvS4L-vJe-NSBeo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM4/ODE3LTE1MDk0OTQy/NTgtOTA3NC5qcGVn.jpeg" alt="Cover for MOS 6581 Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,7 +1836,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/DpPAESk5PSgHeGQm8D9Ffhs5SXmWCN2cVJu2wiNddNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDUy/NjEtMTQ3NTU2MzEy/MS01Nzc2LmpwZWc.jpeg" alt="Cover for Photosynthesis Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,9 +1854,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/gL-6PzsUa5L00Rz4gYUNKP9X5k4AvS4L-vJe-NSBeo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM4/ODE3LTE1MDk0OTQy/NTgtOTA3NC5qcGVn.jpeg" alt="Cover for Derelicts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c40e91fea3f6eec6845bc25062b462a7.png" alt="Cover for Derelicts" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-06</td>
       <td>Carbon Based Lifeforms</td>
@@ -1861,14 +1869,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 60</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/MA-7_jjKiET2VBiskqV2lXfVVSKaZt5Uv93PCaUtT5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg0/NTc5LTE1MjIzMzI4/ODYtOTExOS5qcGVn.jpeg" alt="Cover for Ourdom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31280ac07c7cfa99c0c73084f024f3da.png" alt="Cover for Ourdom" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-29</td>
       <td>Solar Fields</td>
@@ -1890,7 +1898,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/D0XvA4p0-RCINd2ZRx8gxGYh0cfnf9zINU4vWYEp-Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIx/ODcyLTE1Mjg3Mzg3/ODUtNzc0Mi5wbmc.jpeg" alt="Cover for Entangled Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,13 +1918,13 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 75</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 78</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 77</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/1JoNb55yOBk7s3Llhxwwj7KWF05Lpg4gXtIid7LARqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEy/MDI0LTE1Mjg1NDky/NzQtNzA4Ny5qcGVn.jpeg" alt="Cover for starCross" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,7 +1945,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/921aad65025b9d8a83f5f01fd4a2d378.png" alt="Cover for Omnious" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,12 +1983,12 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 91</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/8nju0D145I4hIInNhph10IDzdASrVqb9GneNa7BvokI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjkz/MDcyLTE2NjEyODUy/MTktOTQyNy5qcGVn.jpeg" alt="Cover for Sonic Incense, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,7 +2006,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2028,5 +2036,5 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [idm]({{ "/tags/idm" | relative_url }})
 - [psytrance]({{ "/tags/psytrance" | relative_url }})
-- [trance]({{ "/tags/trance" | relative_url }})
 - [psydub]({{ "/tags/psydub" | relative_url }})
+- [trance]({{ "/tags/trance" | relative_url }})

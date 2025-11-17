@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:42:11.643Z
+date: 2025-11-16T20:09:56.963Z
 permalink: tags/jazz-rap
 title: jazz rap
 ---
 
 ## jazz rap
 
-Last updated: <time datetime="2025-11-15T01:42:11.643Z">Sat Nov 15 2025 03:42:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T20:09:56.963Z">Sun Nov 16 2025 22:09:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
   </thead>
   <tbody>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d17de8299de5f8c25dff683fc0bec8dc.png" alt="Cover for FIRST COLLECTION" style="max-width:120px; height:auto;" />
       </td>
@@ -53,7 +53,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a616a537aa7c464c00f783e7958c91d6.png" alt="Cover for People&#39;s Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f50199aa0d4fdbbb1f42f31d7da0ea.png" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +92,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ab8ee8d7a7ff8bfb0c00afb89a38c16.png" alt="Cover for The Low End Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -107,14 +107,14 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 29</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 38</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d003968b3640849325d8a16eb845cb.png" alt="Cover for Midnight Marauders" style="max-width:120px; height:auto;" />
       </td>
@@ -132,7 +132,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/3qWZR4kg0sX4dZIQ35Fgnpp4as9wN8kWR6r-hVaWf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc0/NDctMTM1NjQ3NTQ1/NS0zNzg4LmpwZWc.jpeg" alt="Cover for Quinn" style="max-width:120px; height:auto;" />
       </td>
@@ -155,18 +155,19 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 50</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 70</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 72</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 73</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 88</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5acf090da6f44dd08ffc43113b5cf476.png" alt="Cover for Blowout Comb" style="max-width:120px; height:auto;" />
       </td>
@@ -180,13 +181,13 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 8</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/7EY0S_zCOW3_xL1XYRhoXDPogjoK6yLVq0ygaIeOsRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE3/My0xMTg2MzA2Njcz/LmpwZWc.jpeg" alt="Cover for KTT ZOO" style="max-width:120px; height:auto;" />
       </td>
@@ -221,12 +222,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
         <ul>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 44</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 71</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/E019UDPv4lgW82rpYe5pPkqb1zJKXeAM8fBcfb5VOak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzYz/OS0xNjE5ODA0MTQ1/LTg4MTMuanBlZw.jpeg" alt="Cover for sUndIAl" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +245,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2001-10-09</td>
@@ -281,12 +282,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 81</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 83</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 86</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 93</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/893fce336634c600b2bab31de7bbc9bd.png" alt="Cover for Madvillainy" style="max-width:120px; height:auto;" />
       </td>
@@ -300,13 +301,13 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 61</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c0e7886d750a519c9ec63c30434b483.png" alt="Cover for Late Registration" style="max-width:120px; height:auto;" />
       </td>
@@ -319,8 +320,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 80</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -342,17 +342,17 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 41</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 49</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 71</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 72</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 81</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 96</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 97</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/oagYMawz7YwT3aZzvBwOI7rSPwS8cyDvnx6EZJMEBw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMy/NDEtMTI3ODAzNzI2/NS5qcGVn.jpeg" alt="Cover for Black and brown" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +375,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33b03168feea47798b8be00c055f5fc3.png" alt="Cover for King Astro Slikk the Magnificent" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +398,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3fcf7820d51c84d9460a88202060809.png" alt="Cover for B-Sides Vol.3 (2011-2015)" style="max-width:120px; height:auto;" />
       </td>
@@ -436,15 +436,15 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 53</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 56</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 98</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/187df2ab5fd4e7e25777876e3013991b.png" alt="Cover for 1999" style="max-width:120px; height:auto;" />
       </td>
@@ -462,7 +462,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2012-09-04</td>
@@ -481,7 +481,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>2013-04-01</td>
@@ -494,14 +494,14 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 55</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 56</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 60</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/7_7XpttFWu3YOOoeyhQlT2MopCYtOnEYMYCb6kDDkIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTk3/NzctMTY2NTQzOTcy/OC05OTEyLmpwZWc.jpeg" alt="Cover for Shallow Graves For Toys" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +540,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Dp8jcSiPiWbxtfenYUJDDaWnPUOfuHdD7TermBVjvuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTU2/NjAtMTQwODM2ODAw/Mi0zMjcwLmpwZWc.jpeg" alt="Cover for The Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +558,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2013-10-08</td>
@@ -576,7 +576,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 34</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -596,12 +596,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47d5af284d0e0749cb97b316b3cedceb.png" alt="Cover for Manger on McNichols" style="max-width:120px; height:auto;" />
       </td>
@@ -619,9 +619,9 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/toY3J2NEUjl2zifeH7Pvsv0aX282FgCXfMCuKGe6jBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTUw/NTEtMTQwODM1NTg1/My0xNjcxLmpwZWc.jpeg" alt="Cover for The Water (s)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f5e2956182f848d0aac2b083a99e13.png" alt="Cover for The Water (s)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-12</td>
       <td>Mick Jenkins</td>
@@ -638,7 +638,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td>2014-09-13</td>
@@ -690,7 +690,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 62</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 84</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
         </ul>
@@ -719,7 +719,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74dd613f8d5246eec633dcb5259343b7.png" alt="Cover for Sour Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -752,38 +752,17 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 33</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 38</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 58</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 73</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2dde1144ef7f226d65942427ac1cbae.png" alt="Cover for GO:OD AM" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-09-18</td>
-      <td>Mac Miller</td>
-      <td>GO:OD AM</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 15</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 64</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/762e72f3ea9a34ba0ce5a24092bfdf7a.png" alt="Cover for BENEATH THE TOXIC JUNGLE" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +781,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -823,15 +802,15 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 15</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 51</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 18</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 52</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/850f447a25866efea0ac9c41f170f873.png" alt="Cover for Genesis" style="max-width:120px; height:auto;" />
       </td>
@@ -840,20 +819,16 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>Genesis</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 9</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a17c8048f24d878710d2e47dd474e2b0.png" alt="Cover for Blank Face LP" style="max-width:120px; height:auto;" />
       </td>
@@ -873,7 +848,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/eMkMCx59CjEgjCvlzXWO5XdUOAyFmBNu01Tw02byocY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTgy/OTYtMTQ3MTQ0OTM0/OC0xODE4LmpwZWc.jpeg" alt="Cover for Telefone" style="max-width:120px; height:auto;" />
       </td>
@@ -908,8 +883,8 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 63</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 70</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 78</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 88</li>
@@ -931,13 +906,13 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 62</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 62</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01a34a66db612b2a0bf049525c325654.png" alt="Cover for 4 Your Eyez Only" style="max-width:120px; height:auto;" />
       </td>
@@ -952,8 +927,8 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 47</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 52</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 50</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -977,7 +952,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/FxTcJz4n9y5sUXgAIIvNHnUXs-OIikwS_U9uYo9WwXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEx/OTA0LTE0OTM0Nzg5/MjMtMzYzOS5qcGVn.jpeg" alt="Cover for Being You Is Great, I Wish I Could Be You More Often" style="max-width:120px; height:auto;" />
       </td>
@@ -992,12 +967,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
         <ul>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 46</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1b97d6ecfb4613ab0b45f3835419c42.png" alt="Cover for Brick Body Kids Still Daydream" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +987,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1016,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/Ka-tC9xH9F5s3lZgbly29knpG687yVb_w5F1WTCfI1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUx/MTQyLTE1MzI5OTQx/ODItMTc2OS5qcGVn.jpeg" alt="Cover for Haram" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1036,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Flower Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,11 +1049,11 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 9</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 10</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 21</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 37</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 38</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 50</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
@@ -1100,7 +1075,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 4</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 7</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 91</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 94</li>
@@ -1125,13 +1100,13 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 56</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 59</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/NIW9rX_VIA0SGD0XrnAHKuvU3IMVi7a4QgvyntNqHrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUy/MjYwLTE1MjkzNTE3/MDAtOTM5MC5qcGVn.jpeg" alt="Cover for 2nd Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1124,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86051da96050ba2c3540e5087a43c152.png" alt="Cover for Bulletproof Luh" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,14 +1163,14 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 13</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 21</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 75</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76db29528362915aca119017867ddd25.png" alt="Cover for Avantdale Bowling Club" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,12 +1202,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/v1Zn_LZzc0uJWC1WW3QcVI4wHTpT61dNzF7F9iTn2EU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE0/OTkzLTE1NDA1ODQz/NTktMjM4My5qcGVn.jpeg" alt="Cover for Pieces of A Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,13 +1247,13 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 94</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd9f581a22c4981259c6bd01f237eadf.png" alt="Cover for Wide Berth" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1274,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/q_kQRAF-LMaclQCpMmYLgg2EH9QMPjS56GRluUvnRb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc1/OTQxLTE2OTE0MTI5/MzktODg0NC5qcGVn.jpeg" alt="Cover for Grey Area" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1292,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/o-C-LHvRxGKf6xEKDmDBRKcvzInbL5KZrrHOlClAREk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE0/OTI1LTE1NTU2NjUw/NjItNzE5My5qcGVn.jpeg" alt="Cover for It Wasn&#39;t Even Close" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1320,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/KINaEu0cwSBtE5_mJHUQ4AHFJPIYMLJ6KcoDWC7CCso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAx/ODE3LTE1NjE0NDAx/NzYtMjc0My5qcGVn.jpeg" alt="Cover for Wap Konn Jòj!" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1359,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e813ce75d488a42c937f605a5c984881.png" alt="Cover for The Lost Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,12 +1372,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 17</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92d109875aeb5db918d45964612a5bad.png" alt="Cover for Pony" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,12 +1415,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 99</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f91ad124ae8115b97f74fe9fcaa0ac7.png" alt="Cover for Black Habits" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1439,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/mBpxYWpWE9i3RAFcaP6y1MlgFlG29BRKoAbY71Qr6gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI3/ODE5LTE1ODU2OTQ2/ODctMjU2OS5qcGVn.jpeg" alt="Cover for purple moonlight pages" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,7 +1457,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>2020-06-19</td>
@@ -1498,13 +1473,14 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 1</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/IpwMIN1JI9J5WNMJavF__MgF2xK99d0yE3LDQQfq50I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM3/ODI1LTE1OTMyMzg5/MzAtNjE5NC5qcGVn.jpeg" alt="Cover for Reasonable Drought" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1507,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/WBfvMfGDO6VbztND9YoBKFFIgY1KDio6TAzlQIFAqzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/MDg0LTE2Mjc0MTc3/MDctOTYyMi5qcGVn.jpeg" alt="Cover for Miles" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,12 +1521,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a689fff64c02bad9a0ce58d407a0daa4.png" alt="Cover for Balens Cho (Hot Candles)" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1546,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dcd9342cfe13eb79c2313693e5c73d4.png" alt="Cover for Malandro Demais Vira Bicho" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1566,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4a0843850fa09baf14b30bb07cfce77.png" alt="Cover for The House is Burning" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1604,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/1B-waeZbkNTIi3bB9xA154GIPmc7nTWIw8HTHtbukZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQw/MjM5LTE2MzE3MDcw/OTQtMzA5Mi5qcGVn.jpeg" alt="Cover for GUMBO&#39;!" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1678,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2d8a424861439b4e5eb81f47d6f4fb6.png" alt="Cover for Pizza and Codeine" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,6 +1698,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 2</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 48</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 90</li>
@@ -1730,7 +1707,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/hOUQ3LpDFA0gXDNFzNCK66lVlvuf26YEnlLQwqu_1ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjIx/MjQxLTE2ODQzMjM2/MjItMjcwMC5qcGVn.jpeg" alt="Cover for Maps" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,12 +1727,12 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
         <ul>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 61</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 66</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/af6NSXJwWj_fSS00A1uqqxsrwKKnCj74xIcSH1qpgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODcy/MDUzLTE2NDk4OTU2/OTQtMzk0Mi5qcGVn.jpeg" alt="Cover for Aethiopes" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1751,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 32</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 88</li>
@@ -1783,7 +1760,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>2022-04-29</td>
@@ -1800,7 +1777,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98050f67524ffee7af6edd314b767ac4.png" alt="Cover for Mr. Morale &amp; the Big Steppers" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,16 +1791,14 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 38</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2191034bb72b953cf42246728c99902e.png" alt="Cover for PEACE &quot;FLY&quot; GOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1824,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/6Ku435Vb1uL8FZOKw40fKYg-gGUgI3Wym9WHEcn_w-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/MDYyLTE1MjI2Njcw/MjEtNTczOS5qcGVn.jpeg" alt="Cover for The Way Through" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,15 +1867,37 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 78</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 79</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 92</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/1jzrBuFxrdn5DIHubKJu4VDBIkrlaexbsBD6TqwYIBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA0/MDQwLTE2Njc5NzIy/ODktOTY3OC5qcGVn.jpeg" alt="Cover for 5 to the Eye with Stars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-04</td>
+      <td>R.A.P. Ferreira</td>
+      <td>5 to the Eye with Stars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6be234121f96568ba294b95d4ac8e051.png" alt="Cover for 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,7 +1921,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/PFO970ybmBBCiZz0VhyAD9bZOcZz4ZV8ramTEsgAGcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/Mjk2LTE2MDk2MzYz/MDctODc3Ni5qcGVn.jpeg" alt="Cover for BORN LIKE THIS (Redux)" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1947,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e77dd10e114f7b57b418e5ec47835e.png" alt="Cover for Beloved! Paradise! Jazz!?" style="max-width:120px; height:auto;" />
       </td>
@@ -1968,7 +1965,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/iQzrmYkwD-Q8Y_cGNXQIp3CnBwU2VMdlbP6IEYJ9ne0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/OTMyLTE2OTE1MDEx/NzMtMTgzNS5qcGVn.jpeg" alt="Cover for Ways of Knowing" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1985,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
         <ul>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 58</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 87</li>
         </ul>
       </td>
@@ -2015,7 +2012,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 48</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 77</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 95</li>
@@ -2024,7 +2021,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/YaOkLxU-_MxJschcN3T0eJ_ZshX9Aklr5ANsX0CspNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTg0/NTYwLTE3MDk0MzY0/MzktMzQ4OS5qcGVn.jpeg" alt="Cover for Blue Lips" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,7 +2039,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/BINKfB9IUdenRlfnBT-7I2BkBg_DVLGfFtJf6Ni51aA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzEz/MDQ1LTE3MTYwNDQ1/OTMtNjk2NS5qcGVn.jpeg" alt="Cover for #RICHAXXHAITIAN" style="max-width:120px; height:auto;" />
       </td>
@@ -2063,14 +2060,14 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
         <ul>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 76</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ixMKQUDWujJdpgKlMiK9hvoxNGRBltwMQ5R5mFsgax4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDI0/MTIzLTE2NjczNjg5/NjMtMjUxOS5qcGVn.jpeg" alt="Cover for Across The Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -2093,9 +2090,9 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/V5LPiXqw1OQSVCaPWw3ogmalSD6JK8jZlKzKfN6uXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjU5/MS0xNTg2MzI0NTYx/LTQ5NjEuanBlZw.jpeg" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5edf1fbf60a84740c70f856dd983ce52.png" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-03</td>
       <td>Nujabes</td>
@@ -2106,33 +2103,23 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 9</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 45</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 58</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 61</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 63</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 88</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 88</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 88</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 89</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed761cf8d955113bb775ac38613b4c8f.png" alt="Cover for Alfredo 2" style="max-width:120px; height:auto;" />
       </td>
@@ -2145,13 +2132,13 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 24</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 23</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2171,7 +2158,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0af7b9f680a7a6b417436f3519aea0.png" alt="Cover for We Got It From Here... Thank You 4 Your Service" style="max-width:120px; height:auto;" />
       </td>
@@ -2185,7 +2172,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2204,7 +2191,7 @@ Jazz rap, also known as jazz hip-hop, is a subgenre of hip-hop music that incorp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 44</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 43</li>
         </ul>
       </td>
     </tr>
