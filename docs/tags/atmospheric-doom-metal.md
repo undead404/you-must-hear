@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T03:20:39.035Z
+date: 2025-11-17T05:54:23.886Z
 permalink: tags/atmospheric-doom-metal
 title: atmospheric doom metal
 ---
 
 ## atmospheric doom metal
 
-Last updated: <time datetime="2025-10-29T03:20:39.035Z">Wed Oct 29 2025 05:20:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:54:23.886Z">Mon Nov 17 2025 07:54:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -246,7 +246,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 26</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 46</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 100</li>
@@ -458,7 +458,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/4XN02wt5YliznHyQgsxqV6N6TdiBGHM68gdzUme38q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU3/NS0xNDk5MjUwNTk1/LTg1MTkuanBlZw.jpeg" alt="Cover for Aégis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbdb6bc04ec046e6ada4a3b41feaf022.png" alt="Cover for Aégis" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-11</td>
       <td>Theatre of Tragedy</td>
@@ -470,7 +470,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 22</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 61</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 65</li>
         </ul>
@@ -788,6 +788,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aec5851388547cfabda51aea5706c4b3.png" alt="Cover for From Below" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-05</td>
       <td>The Fall of Every Season</td>
@@ -805,6 +806,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b99eb0f62f2bf7b01ef7a6303d95bdf.png" alt="Cover for Bless by Gore" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Fetal Eatery</td>
@@ -1116,7 +1118,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/mlOg19UbNnlMl_9NFSZlCJAX2gk-N6cQbnVVjp-gfJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE0/MzctMTI5MjA4Nzk4/My5qcGVn.jpeg" alt="Cover for Обійми Дощу" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7debf96842ec42c8ad56224b24e0f45e.png" alt="Cover for Обійми Дощу" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-10</td>
       <td>Обійми Дощу</td>
@@ -1125,6 +1127,23 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/G_GdBuZvO-u_DPPipYdHunJtTprGTqNSsDoPIpvvjV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTgx/MjczLTE1MTg4ODM3/NTYtMzE2OC5qcGVn.jpeg" alt="Cover for We, Are Falling Upward" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-01</td>
+      <td>Stasis</td>
+      <td>We, Are Falling Upward</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1325,7 +1344,6 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/cSAA9a3cxO21Ftqh06j6Lw4kHkOET3PbxK8euzGKaCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTcz/NTAtMTM2MTU3NDUy/MC0zNzg4LmpwZWc.jpeg" alt="Cover for Saga" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-15</td>
       <td>The Flight of Sleipnir</td>
@@ -1780,7 +1798,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/7-PkamGL13rx5qfW8S6ur5CAAEDh3a4qGLOg6_BzGu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTk0/NjEtMTQzNzM5NDgy/Ny05OTQzLmpwZWc.jpeg" alt="Cover for No Silver Lining: A Return To Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47fde524a6a75f3e27a60f1e331010ce.png" alt="Cover for No Silver Lining: A Return To Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-13</td>
       <td>Petrichor</td>
@@ -2218,23 +2236,6 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97dec7e9e79e2dd3c3d6a00795cdf1e2.png" alt="Cover for Lullabies, Love Songs, and Laments" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-04-21</td>
-      <td>Valentine Wolfe</td>
-      <td>Lullabies, Love Songs, and Laments</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>

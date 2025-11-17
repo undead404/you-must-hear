@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T09:25:09.605Z
+date: 2025-11-17T05:59:51.740Z
 permalink: tags/breakbeat
 title: breakbeat
 ---
 
 ## breakbeat
 
-Last updated: <time datetime="2025-11-15T09:25:09.605Z">Sat Nov 15 2025 11:25:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:59:51.740Z">Mon Nov 17 2025 07:59:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for A Plump Night Out" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1988-10</td>
@@ -68,7 +68,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffffda6712bb45f4a1493a9cf306b3ab.png" alt="Cover for What Evil Lurks" style="max-width:120px; height:auto;" />
       </td>
@@ -84,13 +84,14 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 17</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b05e9413943d4cad975b6cffbd9c1f53.png" alt="Cover for Street" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-07-23</td>
       <td>Nina Hagen</td>
@@ -108,7 +109,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4814312f7a46566c3742b75ddf0a19.png" alt="Cover for Charly" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +127,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Tdxkg-YuATlplRkQ_SyhwA8OfbhMsMRXe6P0_-afluQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDIt/MTY1ODQyODMzOS04/MDA4LmpwZWc.jpeg" alt="Cover for Everybody in the Place" style="max-width:120px; height:auto;" />
       </td>
@@ -176,8 +177,8 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 6</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 75</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -195,14 +196,14 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 27</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 27</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 28</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/bC524RoXGq4AnEYgzrqMgZ6Vj_ZLJvWHkgMRQy5lVD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODgt/MTMxNjE4NjA4Mi5q/cGVn.jpeg" alt="Cover for Life Is Sweet" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +225,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/NHbSJ5RVc60mMTj0fUakMPYRGxp2UVdsDjQAabuLnSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQw/MC0xNDE1MjIzMDYw/LTgzNTUuanBlZw.jpeg" alt="Cover for The Fat Of The Land (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +243,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5da7b809e7ed6a654556ca9d517b4a0.png" alt="Cover for Firestarter" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +261,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/isPY8DREh5TzgCt6t3b3l3rZR5w8PA8qJcQ40q-Pncs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcy/ODctMTI5NjExNzAx/NS5qcGVn.jpeg" alt="Cover for Flesh Eating Zombies vs. The Bionic Hooker from Mars" style="max-width:120px; height:auto;" />
       </td>
@@ -284,9 +285,9 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/HS4QpMJalsRNLEIVc23umIp8YKZ2TUFsvXy-nPiKekM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM0/NC0xMDc2Nzg3ODc0/LmpwZw.jpeg" alt="Cover for Love Pussycats &amp; Carwrecks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53e8683eb58b8f41f78a5ca8c595ac3.png" alt="Cover for Love Pussycats &amp; Carwrecks" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06</td>
       <td>Funki Porcini</td>
@@ -305,8 +306,9 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ed24e6778ec4ce896e933425cd145ec.png" alt="Cover for Flesh Eating Disco Zombies versus The Bionic Hookers From Mars" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-01</td>
       <td>London Funk Allstars</td>
@@ -352,7 +354,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/SDCUsR9_47ynfTCF5f9LtWHaAQbfbtqX0olqusL0Fx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDkt/MTI2MTEzMTE5OC5q/cGVn.jpeg" alt="Cover for Wild Frontier" style="max-width:120px; height:auto;" />
       </td>
@@ -371,7 +373,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1997-06-30</td>
@@ -385,7 +387,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 39</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 61</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 68</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 100</li>
         </ul>
@@ -411,7 +413,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94389e0cd1fd4cd8ccb0a4a3b577bc80.png" alt="Cover for Vegas" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +431,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8f4a569e5472cca65dae118d4f01ccd.png" alt="Cover for We Rock Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +469,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/PveToU-7sKoKecp94FLyzFboGB9AqYcw1Px3jdwDxko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzk2/LTAwMS5qcGc.jpeg" alt="Cover for Pistolero" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +512,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7524b5eea34df077b2232907028f4d3b.png" alt="Cover for Play (2014 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +531,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e92187607dd4e99a1374d7ebb09e93d.png" alt="Cover for Mono - Horizontal Mix" style="max-width:120px; height:auto;" />
       </td>
@@ -548,13 +550,13 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 24</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 33</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9492ac0b3576c47225cff4fabf55df7.png" alt="Cover for Pressure Point" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +576,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fddbe54f87c1417a89df789c50929d05.png" alt="Cover for Funnel Weaver" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +595,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bca78217c988489283cabf032c3cf576.png" alt="Cover for Burnin&#39; Sneakers" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +616,25 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ea4af1ff9993ad57332e125b4da92ed.png" alt="Cover for Soul Trader" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-07-01</td>
+      <td>Ils</td>
+      <td>Soul Trader</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/FH55sNpU0NiVqWpP9CT8CDo5qQ9SbyDooyG1q5__lW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk1/MS0xMzgzMDY4NTE5/LTkxNTYuanBlZw.jpeg" alt="Cover for K-Hole" style="max-width:120px; height:auto;" />
       </td>
@@ -630,13 +650,13 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 8</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/52EImAdBf8pcv0bYQJQ_N_SFe71Ew9R-OqEMwrqSOjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODA2/MjEtMTYwNDQ0NDE0/Mi0zMTIyLmpwZWc.jpeg" alt="Cover for The Warriors" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +674,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec0e5ff8ef697b631f7dbaa13f879333.png" alt="Cover for Enemy Of The Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +694,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/QLWVBhrLDHVp_-D-IcX-s0M7j2EqtZBV-fq1zEK9wcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzA5/MS0wMDEuanBn.jpeg" alt="Cover for Hypnotised" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +716,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06e189891badc3c3a193fc664c020bec.png" alt="Cover for Reverse Psychology" style="max-width:120px; height:auto;" />
       </td>
@@ -738,7 +758,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/DoC-efgmcC-U__aPEw7YR_KobHVgzi_IekdW4odHu88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDA1/ODEtMTMzMjg3OTkz/Ni5qcGVn.jpeg" alt="Cover for Now &amp; Them" style="max-width:120px; height:auto;" />
       </td>
@@ -795,7 +815,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/0_xHccvF4tpJLrdpLoLONu-gHG0h626kIrNPGQ6XApg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODU3/OTQtMTQ4OTY5OTA3/NC0yMjczLmpwZWc.jpeg" alt="Cover for Analord 10" style="max-width:120px; height:auto;" />
       </td>
@@ -830,7 +850,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/940dad1e9db149da8968706c7ec950d8.png" alt="Cover for Tank" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +871,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2005-02-25</td>
@@ -869,7 +889,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2005-03</td>
@@ -926,7 +946,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2005-10-15</td>
@@ -945,7 +965,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/426e623519024ce2cc3d9c2f49a74ffc.png" alt="Cover for We Control" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +1003,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-10-02</td>
@@ -1000,7 +1020,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/R3JLl8fbnCRb3LYvAH58w-4bf6xoIUshgp_p-K8aBjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTQw/OC0xNjEyNDYwNzM3/LTkwNzcuanBlZw.jpeg" alt="Cover for Adventure in Freestyle" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1038,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/KeHUoLjMrbF-beldIqMecXXjQf0zctY1KHYg_CH7pAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTcx/NzEtMTI3MDE2Mjg4/MS5qcGVn.jpeg" alt="Cover for Live Onda Streets Of Europe" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,8 +1078,9 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/774822e5720cc12ae390d64e85663b14.png" alt="Cover for Return of the Pudding People EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-15</td>
       <td>Vibesquad</td>
@@ -1077,7 +1098,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0eb1b72c8b8d55be34419b800798dee.png" alt="Cover for Guts (Le Bienheureux)" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,12 +1117,12 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 52</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/aCXhWz6exd4twqrqZ_8CYjqEHD1XtgAcwe5fI9sJNgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA5/MzktMTIxNzM2NTcy/NS5qcGVn.jpeg" alt="Cover for Dirt Nap EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,13 +1142,13 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       <td>
         <ul>
             <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 29</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 33</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 34</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65602065e84f83d048a7ce0d76759af5.png" alt="Cover for Radio Free DC" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1173,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 11</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 12</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 19</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 41</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
@@ -1181,7 +1202,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 74</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 77</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1229,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for Fabriclive 34: Krafty Kuts" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1247,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83ccf4358af8aea8bcbbd15bdcc5477c.png" alt="Cover for Omen" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1261,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 22</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1260,13 +1281,13 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 32</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 49</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/8vVsZvl504jDkYeo1X6liQ0VQT7DTpASXfihh_8Q8Vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/ODAtMTI3MzU1NjM4/OS5qcGVn.jpeg" alt="Cover for Speaker Humpin&#39; EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1393,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 18</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1418,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/AtJ4vuqvLkN3KqzrrY02ftltD3nT0sZoT1WGwYuyNwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDA2/NzAtMTMxMDc1MDQz/NC5qcGVn.jpeg" alt="Cover for Hour Logic - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1437,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58a7fd2c50124de491cda928f8a73b30.png" alt="Cover for Komba" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1473,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 98</li>
@@ -1461,7 +1482,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51c91772cd944c129463afa2b5763eea.png" alt="Cover for More Monsters and Sprites EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1500,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f8328c085ed4353c30896f142203808.png" alt="Cover for The Crystal Method" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,13 +1517,14 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       <td>
         <ul>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 9</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 34</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/727231acb83a4069c0d6839545929395.png" alt="Cover for Super Discount 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-16</td>
       <td>Étienne de Crécy</td>
@@ -1519,30 +1541,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21b57d4f926c49c6c9cb718ac919e7d4.png" alt="Cover for Bloomsday" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-12-11</td>
-      <td>Esbe</td>
-      <td>Bloomsday</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/OT6Uccexs60ENYwFDyWhBigczByxNg3WsI7RSwhh5Vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkw/MzQtMTQ4ODE3Mjg2/OC0zNTg5LmpwZWc.jpeg" alt="Cover for Technokinesis" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1563,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/901e95a9f9ef4bc783f6e0d7af7ca8a4.png" alt="Cover for The Doors Remixed (Unreleased LP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1605,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/687e0fe735a23de479ea382895527543.png" alt="Cover for The Trip Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1626,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dbd558731de81c2db77abcb1d6827f9.png" alt="Cover for LORESEEKER" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1667,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 56</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 85</li>
@@ -1678,7 +1677,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/szy2-EKes_1wKKge6b76dceOMz77oXc38OGm9KsGPtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE3/OTEzLTE1OTI4NjY3/ODgtOTQ5Mi5qcGVn.jpeg" alt="Cover for PLANET&#39;S MAD" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1699,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/uj77hamcF-EM--qvAGZbWr8ZfllB_T1WxwnPnVCa7-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYy/MTQ4LTE1ODExMDA5/MzYtNjA0Mi5qcGVn.jpeg" alt="Cover for Draining Love Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1714,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 7</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 8</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 89</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 97</li>
         </ul>
@@ -1751,7 +1750,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/dM0nQdbMKdLuqTeoMBmmrlOG48pjNZ8PQlxCcMOcuBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzkw/NjYxLTE2MDk4NDkx/MTctNDI2Ny5qcGVn.jpeg" alt="Cover for BUMPS &#39;N&#39; BREAKS" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1766,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 17</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1789,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 57</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
@@ -1818,8 +1817,8 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 35</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 47</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 38</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 49</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 65</li>
         </ul>
       </td>
@@ -1842,13 +1841,13 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 37</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 40</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/hvbh-m-3DMIHhYC-GN_Mf_w6RClFDTeDS05pZt7VI10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjEw/NzkyLTE2NDgwOTA3/ODgtODA0Mi5qcGVn.jpeg" alt="Cover for Friday Night Funkin&#39;, Vol. 2 (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,7 +1878,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 5</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 4</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 51</li>
         </ul>
       </td>
@@ -1902,7 +1901,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 50</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1926,11 +1925,11 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 91</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 92</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 99</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 100</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 100</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1957,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/SRiM8EEfdGjwdR47rcgvCqe2gsa-zsEbBTh0WQDATRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njk3/MDc5LTE3MDcwNzIx/MTgtNDAyNi5qcGVn.jpeg" alt="Cover for pathetic" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,7 +1977,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fdb9cbc250aa940dbc1c90271329bfd.png" alt="Cover for is it just a delusion" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,7 +1997,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78c6080f4eefda008fc136c4186637b4.png" alt="Cover for Carousel From Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,16 +2020,16 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 8</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 51</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 68</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef3a7fd78dd3608bd04df0a21106e09.png" alt="Cover for Jet Set Radio SEGA Original Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2052,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
@@ -2068,7 +2067,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 59</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 71</li>
         </ul>
       </td>
@@ -2096,7 +2095,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2115,7 +2114,7 @@ Breakbeat is a genre of electronic music that is characterized by the use of bre
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>

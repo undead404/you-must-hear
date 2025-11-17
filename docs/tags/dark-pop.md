@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:07:30.671Z
+date: 2025-11-17T06:00:24.030Z
 permalink: tags/dark-pop
 title: dark pop
 ---
 
 ## dark pop
 
-Last updated: <time datetime="2025-11-08T22:07:30.671Z">Sun Nov 09 2025 00:07:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T06:00:24.030Z">Mon Nov 17 2025 08:00:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,9 +70,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 50</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 84</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 93</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 16</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 86</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -97,14 +98,15 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 24</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 80</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 11</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 28</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 84</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5f4305e4f4f9b0cdfde104fff91fcd4.png" alt="Cover for YAYAYA" style="max-width:120px; height:auto;" />
       </td>
@@ -123,7 +125,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 74</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -145,7 +147,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1994-04-22</td>
@@ -175,9 +177,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 56</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 56</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -202,14 +204,14 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 60</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/445b10afa54142cfabae00c56f80f29d.png" alt="Cover for Songs From The Edge of the Wing" style="max-width:120px; height:auto;" />
       </td>
@@ -224,6 +226,25 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/yRVTRQrm1Y2RRylmTg43UQ2XFB0Zaq5ZOlfsJcRx1aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODcz/NjAtMTU2ODQ2Njcy/MC04OTQxLmpwZWc.jpeg" alt="Cover for Hooverphonic Presents Jackie Cane&#x2F;The Magnificent Tree" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-01-29</td>
+      <td>Hooverphonic</td>
+      <td>Hooverphonic Presents Jackie Cane&#x2F;The Magnificent Tree</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -250,7 +271,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a2e86d709f47b980479fd0e15d961c.png" alt="Cover for Enchant" style="max-width:120px; height:auto;" />
       </td>
@@ -265,20 +286,20 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 8</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 43</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 71</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4994ffc995df4204bfd7833d9f03e1d3.png" alt="Cover for Let the Light In" style="max-width:120px; height:auto;" />
       </td>
@@ -298,9 +319,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/7NQ-qhT3nccRtbuSMf_9i1Fy86XbFPFa9WcO45d-C4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjYw/MTctMTY0NDIxMDM2/NS02MTY3LmpwZWc.jpeg" alt="Cover for vfsecret" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e69f204a045e4746c762597963f1abe2.png" alt="Cover for vfsecret" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>VFSix</td>
@@ -331,7 +352,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/2tiZivemlzyM0iQ3gw6xlWx1alEEFZNscrAQH1UCNIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjU0/My0xMTA3MzAwOTMy/LmpwZw.jpeg" alt="Cover for The 11Th Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -358,8 +379,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df0a419239ec0247be760f6d0f7e522.png" alt="Cover for Navigatoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-20</td>
       <td>志方あきこ</td>
@@ -382,9 +404,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 40</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
@@ -393,7 +415,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/TZeaWxDteKK2dEtQBaj3qqFlaHH5tAG6wu7z02c2zaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY4/MDctMTMyNjQ2MDAz/My5qcGVn.jpeg" alt="Cover for VF&#39;s it" style="max-width:120px; height:auto;" />
       </td>
@@ -429,9 +451,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/TZeaWxDteKK2dEtQBaj3qqFlaHH5tAG6wu7z02c2zaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY4/MDctMTMyNjQ2MDAz/My5qcGVn.jpeg" alt="Cover for VF&#39;s World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27132987be6c4aa183a5c685161586ee.png" alt="Cover for VF&#39;s World" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>VFSix</td>
@@ -456,7 +478,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/AbvLlHPqhuGxVEZX-ie7XgUR4ONy2H-E6wj1GQz2XUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MjAtMTIyNTY3MzU0/My5qcGVn.jpeg" alt="Cover for Kakugo" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +503,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Uosz07bgSeslZVfK8h4yYovcybX090md8-5E_OSeJQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIw/ODYtMTUyMjc3MDA3/Ny03ODExLmpwZWc.jpeg" alt="Cover for A New Cure For The Heartache" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +528,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbba63892abc474fbbe0c54ee55e3674.png" alt="Cover for Seirios" style="max-width:120px; height:auto;" />
       </td>
@@ -520,13 +542,13 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/y5xzyTx0be_81Vk5cq4yJZQb7uFFQIswnvP4eQHw3Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg3/MTg3LTE0OTg0NTY0/ODgtMzkyMy5qcGVn.jpeg" alt="Cover for Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -563,7 +585,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/YzsqWCKUZH3dlggktXOUyRNw5JJwYdtCinGpeCYHYxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE5/OTUtMTMzODU5ODMy/MC00Nzg5LnBuZw.jpeg" alt="Cover for Covers" style="max-width:120px; height:auto;" />
       </td>
@@ -586,8 +608,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83414fa9b208452799a398c9070021a4.png" alt="Cover for Stridulum II" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-23</td>
       <td>Zola Jesus</td>
@@ -599,7 +622,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 80</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +661,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
         <ul>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 39</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 87</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 88</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 91</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 93</li>
@@ -646,9 +669,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/00lD9ahtiLZGKLBnAfgZNh5KsFHRTyRargVQQ7Z9Q5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODg0/MDktMTU5ODk4NDQz/Mi0zMzUwLmpwZWc.jpeg" alt="Cover for Perfectionist (Bonus Track Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cbdf49b22a54c03bd6435a018f82eef.png" alt="Cover for Perfectionist (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Natalia Kills</td>
@@ -685,7 +708,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/bzLORzLmYoexmd6NKmR1FonY9X1IRqvwmZ-GP3IKTRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY2/OTM3LTE1ODc1NjEw/NTgtNTIxMi5qcGVn.jpeg" alt="Cover for Electra Heart (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/449649e810d24453c467979bfc64064c.png" alt="Cover for Electra Heart (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Marina &amp; the Diamonds</td>
@@ -704,8 +727,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f88c0957d1b6750d8f993e076f84fb9.png" alt="Cover for Bad Girls" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-01</td>
       <td>M.I.A.</td>
@@ -722,16 +746,16 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 58</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 57</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 91</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/2gv0XFieKBx7vbqvcUm1WVZP3TDo3aHYRQfbuFJxWOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA2/OTktMTM0MjUyMjMx/OC0zNzkyLmpwZWc.jpeg" alt="Cover for The Key Is The Key" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +773,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2012-06-12</td>
@@ -767,7 +791,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/yktg8oFWmI5pSchGh3O4BpNeMSPnh1hBR1XaXQ9QMu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEw/MjE0LTE1NDQzNDA4/MjctOTAxMC5qcGVn.jpeg" alt="Cover for Keep Your Mind On Me" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +828,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ZmPGaVtdLd70koNQfYtnX5duyLw67Vz-eQ87HM0Uz2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTg2/MzYtMTQ5NjE4Nzc3/Mi02NjI5LnBuZw.jpeg" alt="Cover for PERMANENT.RADIANT" style="max-width:120px; height:auto;" />
       </td>
@@ -833,9 +857,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/diFNGKev1pjZAJkkIXyqbdKoKElyj6_o6zCQgEvgP-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDY0/NDUtMTM3NzM0NzM0/Ny0xODg5LmpwZWc.jpeg" alt="Cover for Halcyon Days (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6ac767ffbc89556e326403d9b264573.png" alt="Cover for Halcyon Days (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Ellie Goulding</td>
@@ -853,7 +877,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2013-06-12</td>
@@ -889,7 +913,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0247a62f75961edbd0c30a822d4b57ef.png" alt="Cover for Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -907,8 +931,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cafce5e257246769aa6f05c6f77724.png" alt="Cover for Night Time, My Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-29</td>
       <td>Sky Ferreira</td>
@@ -920,14 +945,14 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 36</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 41</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 38</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 57</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e6699e653887f61c849c6b8741252ee.png" alt="Cover for Harry Me Marry Me Bury Me Bite Me" style="max-width:120px; height:auto;" />
       </td>
@@ -957,29 +982,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48770963661b4a895dba1e9ab5091ec7.png" alt="Cover for Cry Baby (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-08-14</td>
-      <td>Melanie Martinez</td>
-      <td>Cry Baby (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 9</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9de2794d9c0628546ccbd4a7749e2af6.png" alt="Cover for XIXI" style="max-width:120px; height:auto;" />
       </td>
@@ -998,7 +1001,25 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48770963661b4a895dba1e9ab5091ec7.png" alt="Cover for Cry Baby (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-08-14</td>
+      <td>Melanie Martinez</td>
+      <td>Cry Baby (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b34f6f1b339e9857fb276c318cb8b05.png" alt="Cover for All My Demons Greeting Me As A Friend (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,46 +1028,36 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>All My Demons Greeting Me As A Friend (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 60</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 65</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 68</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 78</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 81</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 50</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 79</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 88</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 87</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 88</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/lBnRduP04yyOgS9HZgcmSCSGosu2GnkK2rCeGLtg17c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI3/MTUzLTE1Mjg4MzQ3/MDUtOTI5Ni5qcGVn.jpeg" alt="Cover for RAMA" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,8 +1100,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 28</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 48</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 34</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1160,10 +1171,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 52</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 65</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 74</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 90</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 67</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 76</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1188,9 +1199,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/X67LBWLX6STjHZQkitaDYUJnbdVagKXk78h-T8x-LiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDUx/NzEtMTY3MzE1MzM3/Ny04NDI2LmpwZWc.jpeg" alt="Cover for Metamorphosis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d696ee83b7945a76301ff86394c9a87.png" alt="Cover for Metamorphosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-11</td>
       <td>Luc Arbogast</td>
@@ -1226,14 +1237,14 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 33</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 35</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/JBYIJb2c7Fjftn7LHN_TSPkAK5im_w4b-c6B6idaxt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjI1/OTMtMTQ4ODYxODAw/My02MDQ2LmpwZWc.jpeg" alt="Cover for Jamais sans la nuit" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,14 +1282,14 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 59</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 61</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 77</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 65</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/h-UM_DkmRIroAjiL-g7nuaWqnXeq0xbIyQ9TgYFd8Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE0/Nzk5LTE1MDgyNjE2/MjQtMzIyNS5qcGVn.jpeg" alt="Cover for Little Dark Age - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1309,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ff050d3d2abe6ac9ae62ce573fbac96.png" alt="Cover for Chapter 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,17 +1359,17 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 48</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 61</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 63</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 69</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/-B9wvlKsfU5KGrpRpeezy9m_qqUylZWsnNm-Wop9AAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI4/MTk5LTE1MTYxNDQ4/NzYtODY4My5qcGVn.jpeg" alt="Cover for To Deaf and Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/425564d241541bd2ccbb02d019b0a75e.png" alt="Cover for To Deaf and Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01</td>
       <td>Glaare</td>
@@ -1386,7 +1397,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/9teVPhHACcIoZhWNhqpBlPQwenaFnPhiSui8grJouKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/ODI5LTE1MjY0Nzcz/MDMtNzU3Mi5qcGVn.jpeg" alt="Cover for You &amp; Me &amp; Infinity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/707fd93ded9683a7b3c32ff4d04737ec.png" alt="Cover for You &amp; Me &amp; Infinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-27</td>
       <td>Cold Cave</td>
@@ -1407,10 +1418,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 55</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 58</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 74</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 74</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 91</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 78</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1434,8 +1445,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 11</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 45</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1459,13 +1470,13 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 45</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 89</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 49</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a5a541e0329d1ba010549d4ce02f2a.png" alt="Cover for Pseudopop" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,8 +1502,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 2</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 22</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 5</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 25</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 63</li>
         </ul>
       </td>
@@ -1520,12 +1531,12 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 33</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 69</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 69</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 78</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 70</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 72</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 84</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 95</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 98</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1561,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 24</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 27</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 27</li>
         </ul>
       </td>
@@ -1569,18 +1580,19 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 32</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 45</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 75</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 76</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 94</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 2</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 46</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 59</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 76</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 77</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/tH-a5XEgn2P4dWCRm-Xn6FE75dKC6Sjb_b2nKGkTq_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUw/NDcwLTE1NjY4NDk4/MjUtNDY2MC5qcGVn.jpeg" alt="Cover for Exposure Therapy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c2b60754668eee323aff261d979abc8.png" alt="Cover for Exposure Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08</td>
       <td>Wingtips</td>
@@ -1604,13 +1616,13 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 64</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 67</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 75</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35df25e4fc8394903e600b5c34563c68.png" alt="Cover for K-12" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,16 +1637,16 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 65</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 97</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 99</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a6bca89201964d53cb70b54966e3fb.png" alt="Cover for Eternal Daughter" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1668,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 14</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1693,15 +1705,15 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 38</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 51</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/MlUhV3ltUGMALBO3W8ClVqsjvtaUi1ezpTwMym3gRdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc0/NDk5LTE1OTQ5MDgz/NjItOTY4NS5qcGVn.jpeg" alt="Cover for Asking For It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92007c28563aa616d69100e7921ed368.png" alt="Cover for Asking For It" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-08</td>
       <td>Patriarchy</td>
@@ -1726,7 +1738,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a08e747d81dc5e8eb60e020c4bdeef1.png" alt="Cover for Windswept" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1761,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/wzgPjoM_xFoLwQwF4_dqzKYMW_PJDlrSotATN-gs0Jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIx/MTE2LTE2NDA4MjIx/NTAtNTM3MC5qcGVn.jpeg" alt="Cover for Cape God (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7956c96971f39f114da188fad8b43565.png" alt="Cover for Cape God (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-21</td>
       <td>Allie X</td>
@@ -1766,9 +1778,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2384d9f982982d02ed48525ecf96c0e.png" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-13</td>
       <td>IAMX</td>
@@ -1790,17 +1802,17 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 12</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 13</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 47</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 78</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 80</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/UjKFiGbQXRspLD8EqqXCsujgd06mRdkIS4QPNd5cFU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgw/NzU0LTE1ODc3NDgz/NTMtNDE2NC5qcGVn.jpeg" alt="Cover for Planet 9" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,9 +1856,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 44</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 55</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 76</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 46</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
         </ul>
       </td>
@@ -1879,17 +1891,17 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 21</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 38</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 56</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 74</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/3iOeRGILfhppsE5yeR8LBayfx8mVBllFwucKfIWRmpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk3/MjQtMTE4NDc2NzQ4/NC5qcGVn.jpeg" alt="Cover for SUPERBLOOM" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,7 +1944,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 23</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1959,15 +1971,15 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 52</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 53</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 91</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 64</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 95</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a6cd3e64ad9ed1c8dfb52f910e14618.png" alt="Cover for Beneath The Black Palms" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,9 +2054,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 52</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 54</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 80</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 84</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2078,7 +2090,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/8fqY4eBsJd0X3eB4bvQHIbVTPR6GZPqKae7vD8qYJeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTk5/NC0xMzkwNTcxNjQ1/LTgxOTIuanBlZw.jpeg" alt="Cover for Cigarette" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,7 +2113,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf5f81f8595e570fea0217eb9d04e2c.png" alt="Cover for Cutting Room Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -2127,7 +2139,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 25</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 29</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 32</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 55</li>
         </ul>
       </td>
@@ -2160,7 +2172,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72188be101785750f05663d8acedccba.png" alt="Cover for This is My Battle Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -2206,34 +2218,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/nJqmE3YjWkKFbMZe3hEVg-26T3vKy-aiL5aCWa3D40s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTE1/ODE4LTE2NjY1MTQ5/ODQtNjkwMS5qcGVn.jpeg" alt="Cover for The Unself" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-08-26</td>
-      <td>Patriarchy</td>
-      <td>The Unself</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a78ad5c623dd1e624c8276bf49bebd0.png" alt="Cover for 6abotage" style="max-width:120px; height:auto;" />
       </td>
@@ -2258,7 +2243,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53679e99b63d1d643e12b7d50fa7a488.png" alt="Cover for PERMANENT.RADIANT" style="max-width:120px; height:auto;" />
       </td>
@@ -2275,7 +2260,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 10</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2330,15 +2315,15 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/pq3x0w5eRACljeVFmVOLKWslXVDnJHlBbPImHQCda8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQy/NTUzLTE2ODgxNzUw/NjUtMzIyOC5qcGVn.jpeg" alt="Cover for Bitter Reflection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ce9f692e43b355cbf19842a5a2092df.png" alt="Cover for Bitter Reflection" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-30</td>
       <td>Body of Light</td>
@@ -2357,14 +2342,14 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 51</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 20</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 58</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b99c3424880dcfe21d6ce694a562c5fb.png" alt="Cover for Zig" style="max-width:120px; height:auto;" />
       </td>
@@ -2378,15 +2363,13 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 22</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/t5hznXeR4qg-XH_n-k_UdBW-WaupPVQKM8NUH4nZuJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQy/Nzk0LTE2OTg2NTMz/MTQtNzI4Ni5qcGVn.jpeg" alt="Cover for Generation Maximum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23f36ff9cb47318b6c2e7b760196d39f.png" alt="Cover for Generation Maximum" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-17</td>
       <td>Culk</td>
@@ -2430,9 +2413,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 58</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 69</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 59</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 75</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2461,16 +2444,16 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 9</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 34</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 69</li>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 93</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 94</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2498,7 +2481,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c853a6f7d239193237de3dc36b6ae2.png" alt="Cover for re: mine" style="max-width:120px; height:auto;" />
       </td>
@@ -2522,7 +2505,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c31952aeb2db4a5b90ed001362a0fe1a.png" alt="Cover for Pat Appleton" style="max-width:120px; height:auto;" />
       </td>
@@ -2572,11 +2555,11 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 8</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 23</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 96</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
         </ul>
       </td>
     </tr>

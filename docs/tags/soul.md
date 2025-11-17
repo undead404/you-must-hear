@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T20:33:05.562Z
+date: 2025-11-17T05:59:37.325Z
 permalink: tags/soul
 title: soul
 ---
 
 ## soul
 
-Last updated: <time datetime="2025-11-11T20:33:05.562Z">Tue Nov 11 2025 22:33:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:59:37.325Z">Mon Nov 17 2025 07:59:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e98ae8633274506e2e70ccc470ed31cb.png" alt="Cover for Don&#39;t Play That Song (Mono)" style="max-width:120px; height:auto;" />
       </td>
@@ -66,10 +66,10 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 12</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 86</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 88</li>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 89</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 96</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -112,7 +112,25 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a508891a28554d88f97ef5db9d0df40.png" alt="Cover for The Dock of the Bay" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-02-23</td>
+      <td>Otis Redding</td>
+      <td>The Dock of the Bay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fb1267f3b8c28e898ed262a34f97eba.png" alt="Cover for Aretha Now" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +166,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77cef2848f424752b83d98bcd0802dfb.png" alt="Cover for Diana Ross Presents the Jackson 5" style="max-width:120px; height:auto;" />
       </td>
@@ -181,7 +199,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 72</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 75</li>
             <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 87</li>
         </ul>
       </td>
@@ -242,7 +260,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89c37b47e1a48b8fa8859b795b9458cd.png" alt="Cover for Still Bill" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +278,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a865fca0fa436c3bddc84968b6d9074.png" alt="Cover for Innervisions" style="max-width:120px; height:auto;" />
       </td>
@@ -274,7 +292,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 13</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +316,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a075b0707c5f4dfbbf468f1fac32c355.png" alt="Cover for Commodores" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +352,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ce4de3f3409694d6819c15df27313d.png" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -409,15 +427,15 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 1</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 3</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 86</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 88</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27fb6dc0b5684b11b233f4236df7ee07.png" alt="Cover for Never Too Much" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +454,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3332d8741b0f8af8c31ab1f550de49b3.png" alt="Cover for Midnight Love" style="max-width:120px; height:auto;" />
       </td>
@@ -468,12 +486,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 59</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29ce2666eebe380a0f882755aab75798.png" alt="Cover for Promise" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +505,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 75</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 78</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 91</li>
         </ul>
       </td>
@@ -509,12 +527,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 49</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/6_NudES4e4MShIKdMCikCLs_D0rD4GPCq4Dlt_jJReg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc0/NjQ4LTE2MTMxMTYx/MTktNDI3MS5qcGVn.jpeg" alt="Cover for LOST IN PARADISE" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +549,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 61</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 69</li>
         </ul>
       </td>
@@ -551,14 +569,14 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 21</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 89</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0ac90cf99a0fbd66653a39928285f74.png" alt="Cover for Ring My Bell" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +594,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19221cc680594fa3cf00d5936fae0598.png" alt="Cover for Seal" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +613,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1994-10-25</td>
@@ -612,7 +630,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c43ea79c4c425463de40c45a5e00861e.png" alt="Cover for The Bodyguard - Original Soundtrack Album" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +649,26 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb3b8ef451abe9532887290bfe6a177.png" alt="Cover for Secrets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-06-18</td>
+      <td>Toni Braxton</td>
+      <td>Secrets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/127cb20ed081fd74487f132ddb988f58.png" alt="Cover for My Love Is Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +687,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a06ecf4315f8a1c5abde06e301eea459.png" alt="Cover for On How Life Is" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +705,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60978eaf2b29dcee28301eb6fa21a3f5.png" alt="Cover for Dangerously in Love" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +724,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d4971ae4f96944b391e806eeeed5d1c.png" alt="Cover for Let me love you" style="max-width:120px; height:auto;" />
       </td>
@@ -705,7 +742,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49e77b6b3f2dc337bd1e5f436da900dd.png" alt="Cover for Amos Lee" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +760,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5f06630a8d24db747201aff4ca86908.png" alt="Cover for Corinne Bailey Rae" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +773,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 29</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -761,7 +799,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d385da5595d403f9430d5a9adec7f5e.png" alt="Cover for Once Again" style="max-width:120px; height:auto;" />
       </td>
@@ -776,7 +814,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 26</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -794,12 +832,13 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 73</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/dUaR3O633Khc5DxWxHwKeNY5Tln0kM9Smq8q5PfSLww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjI1/Nzg1LTE2NTU2NDUy/MzctNjMwMy5qcGVn.jpeg" alt="Cover for limbo" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +857,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5836e9a1bbd74476c460764fe78f12ba.png" alt="Cover for The Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -871,13 +910,13 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 61</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 57</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910dd086df13d11972b39855b6ca5386.png" alt="Cover for Rockferry" style="max-width:120px; height:auto;" />
       </td>
@@ -894,27 +933,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/721ae1084f2c40f7c04befdff3c1151e.png" alt="Cover for The Odd Couple" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-03-18</td>
-      <td>Gnarls Barkley</td>
-      <td>The Odd Couple</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/054d88071fd2b719f4f1aacca7b0c408.png" alt="Cover for Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -929,14 +948,14 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 25</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 47</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 26</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/652c631a80594b4e9123c1336c6af8e6.png" alt="Cover for The House That Dirt Built" style="max-width:120px; height:auto;" />
       </td>
@@ -951,13 +970,13 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 37</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 75</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 38</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8029671973c3f3bb0150451aa892a35c.png" alt="Cover for The Element of Freedom" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +996,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7571513b5e424057b04bd3132b2aee13.png" alt="Cover for Soldier of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -991,12 +1010,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5910abbd4f4120b07bf859583e071f.png" alt="Cover for Good Things" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,8 +1068,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 69</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 73</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1069,12 +1088,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 8</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25bb3f62336b9e6e5e1cdeb7b33a1d1b.png" alt="Cover for Who You Are (Platinum Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1109,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 37</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1133,7 +1152,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553678d27570452839aec0fd0cdadd63.png" alt="Cover for channel ORANGE" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,11 +1165,11 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 15</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 55</li>
             <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 71</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1169,7 +1188,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 18</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1227,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 9</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 96</li>
         </ul>
       </td>
@@ -1252,25 +1272,6 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f360f7202ef5485bc8ec6a1704e937ac.png" alt="Cover for Built On Glass" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-04-11</td>
-      <td>Chet Faker</td>
-      <td>Built On Glass</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 26</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7c6566aab7f8c89bc79b581030cb70f.png" alt="Cover for Hozier" style="max-width:120px; height:auto;" />
@@ -1287,7 +1288,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 22</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 24</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
         </ul>
       </td>
@@ -1309,12 +1311,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 85</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f4c6c4304f14295c2467839f608e6aa.png" alt="Cover for 1000 Forms of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,12 +1331,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 11</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48f4e73dbe0f9960572256ff0e5ea377.png" alt="Cover for Coming Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,8 +1428,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 48</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 72</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 55</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1452,7 +1454,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4ff59dc08ffe9247f94da59ac1c7f9.png" alt="Cover for Take" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,8 +1493,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 91</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1512,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 21</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 22</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 87</li>
         </ul>
       </td>
@@ -1542,7 +1544,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/625d8735f4f0bf1cbf3c779fd4746bdc.png" alt="Cover for American Teen" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1559,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 16</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 64</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 64</li>
         </ul>
@@ -1578,12 +1580,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2017-09-22</td>
@@ -1647,7 +1649,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/YNKVIMLz_a7bgQyKLomagld4RyQlevlat3eAlUoVSzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcx/OTc4LTE1NzMxOTg5/NzYtODE4MC5qcGVn.jpeg" alt="Cover for Where the Light Is" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1668,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a550f8067f90b8f331bb06927473aea8.png" alt="Cover for Cuz I Love You" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,12 +1684,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 24</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bb51bfa77e9134aca91ecc9bb4e11ba.png" alt="Cover for Balance" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1729,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef439d0047f456170ef7bdb57f971bd6.png" alt="Cover for Black Pumas" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,7 +1767,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7f27b82b97ad734a5250285a7b8f598.png" alt="Cover for Todos os cantos, vol. 3 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,8 +1804,8 @@ Soul is a music genre that emerged from African American communities in the 1950
         <ul>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 89</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 92</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 99</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 99</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1826,7 +1828,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 90</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 92</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 100</li>
         </ul>
       </td>
@@ -1850,7 +1852,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b103c65a7ac095875cb2960f653e1ad.png" alt="Cover for Attention" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,12 +1869,12 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 43</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bb9074e75b87b35e64d4da4e3cb7ae4.png" alt="Cover for 공감 (Empathy) - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,7 +1892,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de518dc16fc38aa7393de3dcfc96ea0f.png" alt="Cover for Still Over It" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1924,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1963,9 +1965,9 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 4</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 26</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:31:13.785Z
+date: 2025-11-17T05:55:57.914Z
 permalink: tags/sampling
 title: sampling
 ---
 
 ## sampling
 
-Last updated: <time datetime="2025-11-03T06:31:13.785Z">Mon Nov 03 2025 08:31:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:55:57.914Z">Mon Nov 17 2025 07:55:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,17 +29,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
   </thead>
   <tbody>
     <tr>
-      <td>81</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90272adc27521962abde268b5753ee69.png" alt="Cover for Turn This Mutha Out" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Idris Muhammad</td>
       <td>Turn This Mutha Out</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
         </ul>
       </td>
       <td>
@@ -49,56 +48,26 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/fR8UaYJauvVHjL_so4RlrYTFfEBGKKxZC8klFYM6pp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEy/NzQtMTQzMDQ4Nzk2/Ny0yMjc1LmpwZWc.jpeg" alt="Cover for 22nd Chances" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1978</td>
-      <td>Marjorie -W.C. Sinclair</td>
-      <td>22nd Chances</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 2</li>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 84</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/fR8UaYJauvVHjL_so4RlrYTFfEBGKKxZC8klFYM6pp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEy/NzQtMTQzMDQ4Nzk2/Ny0yMjc1LmpwZWc.jpeg" alt="Cover for Marjorie -W.C. Sinclair" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34927120de30ee172b1fe766c0c8bb0a.png" alt="Cover for Marjorie -W.C. Sinclair" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Marjorie -W.C. Sinclair</td>
       <td>Marjorie -W.C. Sinclair</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 93</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/s61cjXQ6U1F-1YJ9JTJbHAkd4y4CWAnL59Qm9fsRcks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/NDEtMTM5MDcyODQ2/My0xNjIwLmpwZWc.jpeg" alt="Cover for Groove Tube" style="max-width:120px; height:auto;" />
       </td>
@@ -117,14 +86,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 50</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 51</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 51</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 51</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 52</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
       </td>
       <td>1992-09-07</td>
@@ -145,7 +114,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for ElCamino 2" style="max-width:120px; height:auto;" />
       </td>
@@ -164,14 +133,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 16</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for Don&#39;t Eat the Fruit" style="max-width:120px; height:auto;" />
       </td>
@@ -190,15 +159,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 20</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 22</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Ij7_MExlvT_kZvY6bIyzqAxGI1n3Zz93LgHGO4oXCM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDM2/OC0xMTM0NzM2Njk0/LmpwZWc.jpeg" alt="Cover for When The Smoke Clears" style="max-width:120px; height:auto;" />
       </td>
@@ -217,14 +186,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 74</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/OUlF_31X1H2yowYa6fmnyC5Qu-BDtXn1xAY6CG0iWYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDky/NzUtMTI2NDUwNzQw/MC5qcGVn.jpeg" alt="Cover for Street Fighter III - 3rd Strike Arranged Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +214,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>43</td>
       <td>
       </td>
       <td>2001-11-01</td>
@@ -262,9 +231,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/Zl2kxW_ZCWFC7oSJu03Vnc9cnW0WJXuv_nckU1SKEqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/Ni0xNTk5MzE5Nzc2/LTUzNjUuanBlZw.jpeg" alt="Cover for Steal This Double Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/babaa5538f2d38173539cd401e8bb324.png" alt="Cover for Steal This Double Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>The Coup</td>
@@ -283,15 +252,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 28</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/sdRhMDAngpVOLlKFkrlySBH6v9qPdIo9plOJa1AqSqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ3/NzUzLTE1NjI0ODU0/MTctNzIyOC5qcGVn.jpeg" alt="Cover for LSD on My Tongue" style="max-width:120px; height:auto;" />
       </td>
@@ -313,16 +282,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 20</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 31</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 69</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 90</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 74</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/iERbK3hhV03J5bdMsA2g809X5pKJLiqkAy9yle0Hufw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUx/OS0xNDI3NzU3Njc2/LTU2NjUuanBlZw.jpeg" alt="Cover for Interstate185" style="max-width:120px; height:auto;" />
       </td>
@@ -341,14 +310,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 64</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/163c0701dfdec032d58790e9b92a5057.png" alt="Cover for The Loneliest Punk" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-25</td>
       <td>Fatlip</td>
@@ -364,13 +334,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Ya_7X6RgGsla341Y3WRCskAGVOdUiOsb4xwM-vp7p_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjU0/OS0xNTExMDEyMjQ0/LTI0NTkuanBlZw.jpeg" alt="Cover for i used to just cry about it" style="max-width:120px; height:auto;" />
       </td>
@@ -389,13 +359,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 10</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 51</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 25</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/r4hM4dUUCA2I-RTPEyzEZZ86-v5EYxNDt9Rfbl0MGEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTE3/MjctMTMxMTYzMzk5/MS5qcGVn.jpeg" alt="Cover for Talk Strange: A Beat Tape Inspired by Björk" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +384,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/hG3ul3phUladqr7T9Mr7-t3cPO5yTyNWgx423AsEm5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA1/Nzc3LTE1MzI1Njcw/MDUtNDYyMC5qcGVn.jpeg" alt="Cover for summer made me blue; summer gave me sky" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +408,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg" alt="Cover for Life After Death (2014 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -458,17 +428,17 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg" alt="Cover for Ready to Die - The Remaster" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e98c06cae376b818635ccc94e0338e7a.png" alt="Cover for Ready to Die - The Remaster" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Notorious B.I.G.</td>
@@ -486,14 +456,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 67</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 70</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/U4O_Xkr5jWBO-txg4lLcaPnYgpKKi9s9_JfaytCAyTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjI3/ODYtMTQwMzY1OTAz/Mi00MTYyLmpwZWc.jpeg" alt="Cover for Haunt U Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -510,9 +480,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 8</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 19</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 53</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 20</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 57</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -537,10 +507,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 6</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 53</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
@@ -548,8 +518,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1033467c4eb04c1ab26cd071f0d114d2.png" alt="Cover for Curses from past times" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-20</td>
       <td>ProleteR</td>
@@ -565,15 +536,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 30</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/HtkpjeW8dEeHJWRT4B8c6lvZP6A03cjQwJk3qdtbwRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDg4/NzctMTM3Mjk1Mzky/NS03ODk5LmpwZWc.jpeg" alt="Cover for Id" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e72258a983743db95f898827de1bc2e.png" alt="Cover for Id" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-25</td>
       <td>Wise Blood</td>
@@ -587,12 +558,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 5</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/czPnH8b37TIgeIXgyDaatFgaJsV6EHmEM-Xgd7TAhLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzM4/NjQtMTM3Njk2MDE3/NS02NjI5LmpwZWc.jpeg" alt="Cover for Key to the Kuffs (Butter Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -610,14 +581,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 18</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 65</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>39</td>
       <td>
       </td>
       <td>2013-10-08</td>
@@ -634,15 +605,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 1</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 56</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/P4Ek6HB4mAfD75uK8sBM73xo4f9U-kri03133RjX9Ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MTQtMTQ3ODU2MDQy/NS0xNzQwLmpwZWc.jpeg" alt="Cover for Journey To The West" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d90bd8b1798f4f6f86c39371f679a53a.png" alt="Cover for Journey To The West" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01</td>
       <td>Damon Albarn</td>
@@ -660,7 +631,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/01J5uaRktAj68jSPsatT65MdLhhSSGnX6q6aDDObSoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDg3/ODgtMTM5Nzg5NDMw/Ni02NDkzLmpwZWc.jpeg" alt="Cover for Dragonfly" style="max-width:120px; height:auto;" />
       </td>
@@ -680,12 +651,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 31</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>44</td>
       <td>
       </td>
       <td>2014-04-19</td>
@@ -703,8 +674,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b873526604354613c619a498e32c3372.png" alt="Cover for copyright infringement ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-30</td>
       <td>goreshit</td>
@@ -728,7 +700,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/70t1JAqkqskhQvRU5qXAV9-gDxWRQwaK5WuT7SGNjTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTUy/MDAwLTE0OTI1MjQy/NTUtMjIzNi5qcGVn.jpeg" alt="Cover for Tundra Boy Season One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af856ed3a76f4df5cde1e508e0fd0dc8.png" alt="Cover for Tundra Boy Season One" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-12</td>
       <td>Xavier Wulf</td>
@@ -745,15 +717,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 7</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 28</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/B7ehL4-iG8wbP6OHo5MZFRlBoIOBNC0HopK4n4fqig4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODMz/MzQtMTQyNDU1MDM2/OC0yMzg0LmpwZWc.jpeg" alt="Cover for Dark Sky Paradise (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +745,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/SYVvWcFXw5zA7yzbfG_NPRVu0gtzTSQiqi8MMw9fjeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM4/ODU2LTE2MzU5NTgx/OTItMjM0Mi5qcGVn.jpeg" alt="Cover for Emocean" style="max-width:120px; height:auto;" />
       </td>
@@ -794,12 +766,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/SYVvWcFXw5zA7yzbfG_NPRVu0gtzTSQiqi8MMw9fjeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM4/ODU2LTE2MzU5NTgx/OTItMjM0Mi5qcGVn.jpeg" alt="Cover for e m o c e a n" style="max-width:120px; height:auto;" />
       </td>
@@ -819,15 +791,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 20</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 23</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/9ZUHvB8Ax3D4N5DEphnQj9LKhxoSPaetrGI_e_BNYis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODE5/NDItMTQ0MjM2Njk0/Mi0xMTQwLmpwZWc.jpeg" alt="Cover for GO:OD AM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2dde1144ef7f226d65942427ac1cbae.png" alt="Cover for GO:OD AM" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-18</td>
       <td>Mac Miller</td>
@@ -839,15 +811,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 67</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/XI-w966H2KxJ8Z_vAg-8gmR7p_Oxbv4dpD-eaAQIGUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEx/MDE1LTE1NTk1MTY3/MjEtNzE5My5qcGVn.jpeg" alt="Cover for Lazy Summer Day &#x2F; Chinese Restaurant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38aa2c50498b6699bb4f6947425be10e.png" alt="Cover for Lazy Summer Day &#x2F; Chinese Restaurant" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-20</td>
       <td>Yung Lean</td>
@@ -863,15 +834,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 85</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg" alt="Cover for Black Ben Carson + Instrumentals" style="max-width:120px; height:auto;" />
       </td>
@@ -890,13 +861,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/xjjTLKckwigqaBd7QW3F1Sd_VVe4hcr_jX2C_U-9I4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Njc4/MzQtMTQ2ODM0OTc2/MS01NTgyLmpwZWc.jpeg" alt="Cover for 32 Levels (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +884,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 33</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -938,16 +909,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 16</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 37</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 62</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 49</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 68</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 85</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 87</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/lrqjPxdPdkh59ZgRRJ9hYiSRdezaTx9eHKKNQKiPhI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc5/NjY1LTE1NTY4ODIw/MzktMzU0MC5qcGVn.jpeg" alt="Cover for cloud9" style="max-width:120px; height:auto;" />
       </td>
@@ -966,14 +937,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 42</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 59</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 43</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 62</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/FxTcJz4n9y5sUXgAIIvNHnUXs-OIikwS_U9uYo9WwXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEx/OTA0LTE0OTM0Nzg5/MjMtMzYzOS5qcGVn.jpeg" alt="Cover for Being You Is Great, I Wish I Could Be You More Often" style="max-width:120px; height:auto;" />
       </td>
@@ -986,14 +957,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 18</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 21</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/yKn0enBGu8p0P8agMDHAmbxqcB-yeRr7A6iQFZRNC6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg4/OTUyLTE1NDk2MzM2/MTYtMTcyNi5qcGVn.jpeg" alt="Cover for Side Effects EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,9 +984,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 85</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 89</li>
             <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 99</li>
         </ul>
       </td>
@@ -1040,16 +1011,17 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 51</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 66</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 67</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 53</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 70</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/IHzS79PeqrG8CM9voOTX71HvKZqz4VScmPO09-P8WUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE0/MjY0LTE2MTIzNTUz/NTMtODgwNy5qcGVn.jpeg" alt="Cover for A Love Letter to You 4 (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eee906cd8945d9173b522cb4bac8e6d5.png" alt="Cover for A Love Letter to You 4 (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-06</td>
       <td>Trippie Redd</td>
@@ -1059,19 +1031,18 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/rr5JZKSQaOvNuArAjMzvlY6tSxW90xaIDgtv1I9721Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTAx/Njg1LTE2NDA2MTEw/NTgtMzAwOS5qcGVn.jpeg" alt="Cover for Hitler Wears Hermes 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,13 +1059,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 55</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/S7aA9_68fNvBTzjbAVC5vcbg8PMedd9bYTzKzUHlBYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY2/NTY3LTE1Mzk2NDc2/NTctNjIxNy5qcGVn.jpeg" alt="Cover for Behold a Dark Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1083,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 73</li>
         </ul>
       </td>
@@ -1136,14 +1107,14 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 15</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 62</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 29</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 67</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/rRsYmeC_NwcilYbtsISElOVp5ZsbPOY-QUKsLUcCUMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjU3/NzEtMTY4MzkxMjU1/My0zMzM5LmpwZWc.jpeg" alt="Cover for In My Room - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1137,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/KA2kFtalmNYvqBMUczst9m_-D_7X-4pxGySRwtRPCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE3/MDk1LTE2NzQxNDMy/NzQtMjc2OS5qcGVn.jpeg" alt="Cover for Cyberia lyr3" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,9 +1161,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/Pj_B57MCqRv72Zk0mGdiuCXjCMADXYxba3qTLaWh9x0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTgz/NTQ3LTE1Nzc2MDkz/NjgtNjE2NC5qcGVn.jpeg" alt="Cover for Thug Angel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e5fcf577dddaabf1be99a21303f1bad.png" alt="Cover for Thug Angel" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-03</td>
       <td>SICKBOYRARI</td>
@@ -1210,13 +1181,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 9</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/vsXoBy1QXPd4vrT6ClYFpzPcFwXTsvPwFu7Mw5yqIuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/NDY1LTE0OTUzMTk0/MDAtNDUzOS5qcGVn.jpeg" alt="Cover for Hitler Wears Hermes 6" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,9 +1206,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 65</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 68</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 86</li>
         </ul>
       </td>
@@ -1245,6 +1216,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a4182a066608f5c74d5720d847466a6.png" alt="Cover for Sundress" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-20</td>
       <td>A$AP Rocky</td>
@@ -1268,7 +1240,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/9EBO0iX4m8FK202ZfJgqb95iqfgj1AsKR50wI9QWDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/OTc2LTE1OTczNTIw/MDEtOTM1OC5qcGVn.jpeg" alt="Cover for 1998 TRUMAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,18 +1261,18 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 79</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 86</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/o-C-LHvRxGKf6xEKDmDBRKcvzInbL5KZrrHOlClAREk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE0/OTI1LTE1NTU2NjUw/NjItNzE5My5qcGVn.jpeg" alt="Cover for It Wasn&#39;t Even Close" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,16 +1291,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 12</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 46</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 49</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/vqXqLc179tGpKwMvFhPLyWgQOuNtRecaxW7s6_bTmqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI5/NzM0LTE2ODg3NTI5/MjktMzcwMy5qcGVn.jpeg" alt="Cover for Reflexions" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,13 +1319,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 4</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 56</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 20</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/7styLzEskosUt3Df01UnhrfUI8l89epZPg-FoMHbdTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMy/Mzk0LTE2MjI5Mzk4/NDktMTI3OC5wbmc.jpeg" alt="Cover for moment" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,7 +1351,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/7styLzEskosUt3Df01UnhrfUI8l89epZPg-FoMHbdTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMy/Mzk0LTE2MjI5Mzk4/NDktMTI3OC5wbmc.jpeg" alt="Cover for moment" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1377,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Wx63FSkhHRINqlgZCzmYqv3GvQom9IkH9zI33MZvw04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgy/MzA4LTE1OTk1MTY5/MDMtMjEzMC5qcGVn.jpeg" alt="Cover for Our Day Will Come" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1400,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/IHzS79PeqrG8CM9voOTX71HvKZqz4VScmPO09-P8WUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE0/MjY0LTE2MTIzNTUz/NTMtODgwNy5qcGVn.jpeg" alt="Cover for A Love Letter To You 4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/057bf5b8187f434dfd8fbb91d723dff1.png" alt="Cover for A Love Letter To You 4" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-22</td>
       <td>Trippie Redd</td>
@@ -1445,15 +1417,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 43</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 60</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 73</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 13</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 63</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 65</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/pePJtM8EOuC3_oRMltCpZDA9ife2-v4jrA88f54MVRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NzMxLTE1ODU5Njgy/MjctOTI0OS5qcGVn.jpeg" alt="Cover for THE ROCKWOOD ESCAPE PLAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,13 +1445,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 31</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/EOzDY4OK1fY_GB6W7ytESF_jZUq7rwNEIpDdhUCQveg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI4/NDA2LTE1ODQ0ODg5/MjUtNTA4MC5qcGVn.jpeg" alt="Cover for Prince of the Cyber Rave" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,11 +1470,32 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 20</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 44</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 46</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 68</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 79</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/QndMpOVOhF_HPoNI_ySJCeTgNO3xfoTLNi4TgeL5VvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzYy/NjQ1LTE2MTMwNDQ4/MzMtMTI1MC5qcGVn.jpeg" alt="Cover for God Room" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-01-24</td>
+      <td>Ssaliva</td>
+      <td>God Room</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1529,19 +1523,19 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 64</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 66</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 67</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 94</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 50</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 68</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 70</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 80</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/8C4uY2htAtyLJhtkKjlN3QQ_j5h0e1AXLfG6vL0rMUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjU2/OTUwLTE2NDU0OTk4/MDMtNjMxMS5qcGVn.jpeg" alt="Cover for I&#39;m Gay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fff2a8f9ebf46949a5378a71f89ab53.png" alt="Cover for I&#39;m Gay" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-16</td>
       <td>Lil B</td>
@@ -1557,7 +1551,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/J0og1BX-c7UTQBnP28Rn_0onnQOrYGl4rwCNFfVeSmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE4/NjUtMTM2MzY2ODcw/NS03NDYwLmpwZWc.jpeg" alt="Cover for Marcielago" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,15 +1570,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 35</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/5yUi6VZG1XV4d6NOkZ6UrWBY8hQDbasQfNTLA8Bfkgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ4/NzQ1LTE1MDM1OTkx/NjMtNjk4Ny5qcGVn.jpeg" alt="Cover for BAD NEIGHBOR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4027ffe70d4877ba0bf8d0c263505196.png" alt="Cover for BAD NEIGHBOR" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>MED</td>
@@ -1602,15 +1596,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 7</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 21</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 28</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/IpwMIN1JI9J5WNMJavF__MgF2xK99d0yE3LDQQfq50I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM3/ODI1LTE1OTMyMzg5/MzAtNjE5NC5qcGVn.jpeg" alt="Cover for Reasonable Drought" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,15 +1623,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 11</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 51</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 15</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 54</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/hfCdHseT_3qi_n1vB6L8CHGPYfvONH1h7ZHk6Y9tJIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/MTMwLTE1OTQxMTY5/MTAtNjE1NC5qcGVn.jpeg" alt="Cover for RePorpoised Phantasies - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,13 +1648,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 47</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 54</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 48</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/XDgHTRUbg_Z_cvQUW-bkbKClsx3q6miLA2FN94QzahQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NTQ2LTE2MDYzNDEy/MzgtOTE3Mi5qcGVn.jpeg" alt="Cover for True Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,13 +1671,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 8</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/SaLX894dxq0GzbbJh_3uBVOt0Mv0raLJyyrkySwFV9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc0/NDg1LTE2MDk3NDMy/MjEtOTIzNS5qcGVn.jpeg" alt="Cover for FOAR EVERYWUN FRUM MIMI" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,9 +1701,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/_HcLJy3s1cFwPTUGAwIGsYrdhdbSMcPinI3oV8Ef75g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODQx/Nzc1LTE2MTU3NDEx/NTAtMjkyNy5wbmc.jpeg" alt="Cover for (GHOST_WORM)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e4542a213c33a446bceb6f0d5dad7a.png" alt="Cover for (GHOST_WORM)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-25</td>
       <td>bye2</td>
@@ -1724,15 +1718,36 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 3</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 60</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 6</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/pLaXWJUXQDC-1HyHzm7L-1vZglqN_B334wBLjmTDFBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDYy/NzU0LTE2ODM5NjU1/OTktNDkxOC5wbmc.jpeg" alt="Cover for for a while" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg" alt="Cover for HAZARD DUTY PAY! - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-27</td>
+      <td>JPEGMAFIA</td>
+      <td>HAZARD DUTY PAY! - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39166ff008993942f8b5bda582ff8247.png" alt="Cover for for a while" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-29</td>
       <td>eightiesheadachetape</td>
@@ -1751,15 +1766,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 34</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 36</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 87</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/NV05C_W-uMUPAFds7HgcqBPtL2j9nRzJHCUEIvB210c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgz/MTUzLTE2MDcwNTA0/NzUtMTA5OC5qcGVn.jpeg" alt="Cover for Newlove" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,19 +1794,19 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 62</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 85</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 96</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 100</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/TNV95Y7KjZOQ2ME1zdSKD7PgiRCMcUe4YLkya3IDZDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY5/MzY2LTE2MDg1NTAy/OTYtODc3Mi5qcGVn.jpeg" alt="Cover for Blodhundar &amp; Lullabies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cb7dce95a6578b77970e8af5e2e2b3.png" alt="Cover for Blodhundar &amp; Lullabies" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-21</td>
       <td>Jonatan Leandoer96</td>
@@ -1810,38 +1825,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 45</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 64</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 72</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 82</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/xsb_cskc82Yfzaf2W37m4JB6nURrsvSJcNDgwmh-1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDYzLTE2OTIzNzEz/NDctNDYwNy5qcGVn.jpeg" alt="Cover for The Root Of All Evil" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-02-19</td>
-      <td>Rx Papi</td>
-      <td>The Root Of All Evil</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/z7FE7yeUo9IjqFj19gdzros0SAfNw1ajakfwRLQ2nr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODA4/ODg5LTE2NTkwMjk3/MzctMjQ2Mi5qcGVn.jpeg" alt="Cover for I NEVER MEANT FOR THIS TO HAPPEN" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,16 +1852,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 32</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 35</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 68</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 71</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 72</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/8ZSRc8fvkdkhEUjtrB_Xsl7XFP_l5WOkJpOQt_gKS7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDMz/MjIwLTE3MDQ3Njc3/NTktOTY0Ny5qcGVn.jpeg" alt="Cover for TV62" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,12 +1877,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/pkOMzw2v9PIed_xcEP2zi7supAWi4TJxb3j8vjoVSwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQy/OTQwLTE2MzMxNTY4/MjUtODg0Ny5qcGVn.jpeg" alt="Cover for Try Again (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,13 +1900,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
       </td>
       <td>2021-06-19</td>
@@ -1928,15 +1921,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 37</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/XumiMWGUFOE9JON34ox5UVWSyEwmaghmwxVYeyUPTYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkz/MDgyLTE2MjcwMjg4/MzMtODMyMS5qcGVn.jpeg" alt="Cover for 5ever &#x2F; The Stars Up Above" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c37ffe175877411713ca3d2422f4cfca.png" alt="Cover for 5ever &#x2F; The Stars Up Above" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-22</td>
       <td>Ssaliva</td>
@@ -1954,14 +1947,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 30</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 58</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 32</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3675a9a33837a9540c725316b3457485.png" alt="Cover for Continuous Improvement" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-12</td>
       <td>Papo2oo4</td>
@@ -1978,7 +1972,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2000,13 +1994,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 21</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg" alt="Cover for Foreign Exchange" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,15 +2020,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/4VfVdB_DZvvoB5RqiRGRzS7sFnu0BkmAdHOA1tCLv1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYz/MDYyLTE2NTIwNzU5/NzQtNzI2OS5qcGVn.jpeg" alt="Cover for The Heart Part 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d184a6e26b327e14be3180d2e724d6.png" alt="Cover for The Heart Part 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-08</td>
       <td>Kendrick Lamar</td>
@@ -2042,27 +2036,22 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 2</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 95</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 97</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 98</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 92</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 100</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/2ePGQ-FckYWYXw2NEZfe5TrOF_-hwXLk3rxILFd4UVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY3/NjY2LTE2Nzk5NjM1/MDgtOTg2Mi5qcGVn.jpeg" alt="Cover for vKiSS" style="max-width:120px; height:auto;" />
       </td>
@@ -2088,7 +2077,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Y50vPFjENqg0pkbPete8HFmUHv9oZYYFdrlkhRSWlTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDU2/MDAwLTE2NTQ4MzE0/NzItODExMS5qcGVn.jpeg" alt="Cover for Finally, New" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,12 +2090,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/DAJvXw881JizVzVtw_2-rT6s2pcSgHVyf2eUv3kPNEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzcy/NDEtMTU5OTA5MTcz/MS03ODg5LmpwZWc.jpeg" alt="Cover for Live from Death Valley - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2126,16 +2115,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 12</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 32</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg" alt="Cover for Messe de E-102" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9dcb58c8616a4f2ea87e3d67061babc.png" alt="Cover for Messe de E-102" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>death&#39;s dynamic shroud</td>
@@ -2155,16 +2144,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 40</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 42</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 76</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 76</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 42</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 44</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 77</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 82</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/X3kR_YnIceLNzjrCWlzGMmNaqaCJ9IdJoluxXhUZ7RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQ2/MjA3LTE2ODYzMjg0/MjMtNjI3MC5qcGVn.jpeg" alt="Cover for Bin Reaper 3: Old Testament" style="max-width:120px; height:auto;" />
       </td>
@@ -2179,12 +2168,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 26</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/PFO970ybmBBCiZz0VhyAD9bZOcZz4ZV8ramTEsgAGcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/Mjk2LTE2MDk2MzYz/MDctODc3Ni5qcGVn.jpeg" alt="Cover for BORN LIKE THIS (Redux)" style="max-width:120px; height:auto;" />
       </td>
@@ -2202,15 +2191,15 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 29</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 34</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/UnskQin2ilCUlVJek1UmoMoROI91xFsaOqXj_e8_OME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTAy/OTY3LTE2ODYzMjgz/NDAtNjIzMC5qcGVn.jpeg" alt="Cover for Bin Reaper 3: New Testament" style="max-width:120px; height:auto;" />
       </td>
@@ -2229,7 +2218,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RmrVvDsrgI8og8MED6cYWECwyG8qad59GeoGguUhWCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MzY0LTE2ODMxNzgw/MzAtNDUxMy5qcGVn.jpeg" alt="Cover for Leave Her - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2253,28 +2242,25 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/dT23u6zDEQQJVmwJI8WIKlDu-DSIJsjtCMDjksKzgeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjY0/NTQwLTE2OTQ3MjY3/ODAtNDk1Ny5qcGVn.jpeg" alt="Cover for Ain&#39;t Bout Nun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbdd548abd8df85fba9ed3b5324b27dd.png" alt="Cover for Ain&#39;t Bout Nun" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-02</td>
       <td>RealYungPhil</td>
       <td>Ain&#39;t Bout Nun</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/iQzrmYkwD-Q8Y_cGNXQIp3CnBwU2VMdlbP6IEYJ9ne0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/OTMyLTE2OTE1MDEx/NzMtMTgzNS5qcGVn.jpeg" alt="Cover for Ways of Knowing" style="max-width:120px; height:auto;" />
       </td>
@@ -2292,9 +2278,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 27</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 32</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 87</li>
         </ul>
       </td>
@@ -2319,17 +2305,18 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 85</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 94</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 96</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 97</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e7e47635f82905405f3b3d4df8efbee.png" alt="Cover for I Smoked Away My Brain (I&#39;m God x Demons Mashup) [feat. Imogen Heap &amp; Clams Casino] - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A$AP Rocky</td>
@@ -2350,7 +2337,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2366,13 +2353,36 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 54</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 55</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b705ae06953ab57080b289a6414a1702.png" alt="Cover for Sundress - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>A$AP Rocky</td>
+      <td>Sundress - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2393,15 +2403,16 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 11</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 43</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 13</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 49</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc3d2ef7335751328020ceb8a3993526.png" alt="Cover for The Marina" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Curren$y</td>
@@ -2415,12 +2426,13 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 4</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2441,28 +2453,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>A$AP Rocky</td>
-      <td>Sundress - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2484,8 +2475,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
 
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [trap]({{ "/tags/trap" | relative_url }})
-- [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
 - [ethereal]({{ "/tags/ethereal" | relative_url }})
+- [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
 - [experimental hip hop]({{ "/tags/experimental-hip-hop" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [east coast hip hop]({{ "/tags/east-coast-hip-hop" | relative_url }})

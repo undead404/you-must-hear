@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T07:48:22.177Z
+date: 2025-11-17T05:57:14.883Z
 permalink: tags/dubstep
 title: dubstep
 ---
 
 ## dubstep
 
-Last updated: <time datetime="2025-11-15T07:48:22.177Z">Sat Nov 15 2025 09:48:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:57:14.883Z">Mon Nov 17 2025 07:57:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/1G-im1Rm6qCCEy_RgvnlxkhgZAxzxSHABvxjdkIx_i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTIt/MTM1NjI4NzU3MC03/MTMzLmpwZWc.jpeg" alt="Cover for Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,24 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Gemini</td>
+      <td>Graduation EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/DBE92BvhxE6515ocFnI3_G8Ey9cuZqGcnZh45yR_VD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTgz/MzIyLTE2Mjk4NDQ3/MDAtNzU5MC5qcGVn.jpeg" alt="Cover for The Path of Totality (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -62,12 +79,12 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 22</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84490ccb0eec3b246fca0e47bd5a9417.png" alt="Cover for South London Boroughs" style="max-width:120px; height:auto;" />
       </td>
@@ -81,12 +98,12 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 7</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5aa24f20784946889f7f8ce21ad0a7.png" alt="Cover for Burial" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +122,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/U8XqzplhJJJuY887O7gYRO7yvd2lftc-SkChtVgyNQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODE1/MjktMTQ4MDY5NjA0/Mi0zNzMyLmpwZWc.jpeg" alt="Cover for South London Boroughs EP" style="max-width:120px; height:auto;" />
       </td>
@@ -119,12 +136,12 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 5</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f6990cf940a407da22006b2f2dbdb39.png" alt="Cover for Skream!" style="max-width:120px; height:auto;" />
       </td>
@@ -142,6 +159,25 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2007-06-15</td>
+      <td>Burial</td>
+      <td>Ghost Hardware</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c7332bc861d406a80c13f0e69d4ba7f.png" alt="Cover for Untrue" style="max-width:120px; height:auto;" />
@@ -155,14 +191,14 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 36</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 41</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 47</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/w9RAL-YTP4qXdKcghVJcerHccqCvOrLxicM7XPYt2YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/ODktMTMyNzU2ODg5/MC5qcGVn.jpeg" alt="Cover for London Zoo" style="max-width:120px; height:auto;" />
       </td>
@@ -181,7 +217,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-10-11</td>
@@ -198,7 +234,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/qz8ydNhWHpBoCOLsN5ni-ePFOy3nRbvxywis7QvUQos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/MjUtMTI1NjE3MzYx/Ny5qcGVn.jpeg" alt="Cover for Clowny&#x2F;Blessed" style="max-width:120px; height:auto;" />
       </td>
@@ -216,7 +252,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/1JO8UA4CVVc2F0OM8g7uofGtX3eu68QDjNOYsj8_Cgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjEy/ODUtMTM0MzU2MjM3/OC02MTg4LmpwZWc.jpeg" alt="Cover for Wasted" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +270,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009</td>
@@ -254,7 +290,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/s646D1Qe3T-AeH6HKZQKrWFvt1vZlj7bMHFzJySBEXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ4/NzkyLTE2NDg5Njk2/MTctMzQ0Ny5qcGVn.jpeg" alt="Cover for Beba" style="max-width:120px; height:auto;" />
       </td>
@@ -274,8 +310,9 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48285d3711f241a49b3cae1d51afd12b.png" alt="Cover for Cozza Frenzy" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-29</td>
       <td>Bassnectar</td>
@@ -291,7 +328,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55de2acc57274799c7ed43ea4f6053da.png" alt="Cover for Let Me Hit It" style="max-width:120px; height:auto;" />
       </td>
@@ -313,7 +350,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/310bd5c3aa324023a0c3b8177ff2e9bb.png" alt="Cover for Raise Your Weapon (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +366,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 88</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -351,13 +388,13 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 88</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 89</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/CpElc4Z0wKmQJ2Yw5Oo1EcXupuRiBWgIt0-uYrqfA18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njg3/NDgtMTQ4MTExNDEw/MS0xMjIwLmpwZWc.jpeg" alt="Cover for Sweet Shop &#x2F; Gargoyle" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +412,25 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba4467b576654f07a057d02bce8780a8.png" alt="Cover for Triangulation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-10</td>
+      <td>Scuba</td>
+      <td>Triangulation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
       </td>
       <td>2010-03-22</td>
@@ -392,7 +447,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ad25baa17da4af0b51a976d01215786.png" alt="Cover for O.M.G.!" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +465,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af9d168cbd6f449b9bca372b256678dd.png" alt="Cover for Got 2 Know &#x2F; Normalize" style="max-width:120px; height:auto;" />
       </td>
@@ -431,9 +486,9 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/0I-dWAIxv_WHzD8zH0mejJXitcj_9w75Od1dj_qcWxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDA0/NjUtMTI4OTk1NDU2/Ny5qcGVn.jpeg" alt="Cover for CMYK EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1efacb06238b8e95c3b00ca1703dd88.png" alt="Cover for CMYK EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-28</td>
       <td>James Blake</td>
@@ -446,12 +501,12 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 81</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d10bd0ea8a3b545267e33aea23845e05.png" alt="Cover for My Name Is Skrillex" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +525,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b1455fcb2b047e4b84de6e199050a3f.png" alt="Cover for Ginger Pubes &#x2F; Blurgh!" style="max-width:120px; height:auto;" />
       </td>
@@ -505,13 +560,13 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 16</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2010-07-23</td>
@@ -528,7 +583,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
       </td>
       <td>2010-08-16</td>
@@ -549,6 +604,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4d0d3cd9a90f0ebd1b57163ebaf67d.png" alt="Cover for Katy On A Mission" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-22</td>
       <td>Katy B</td>
@@ -562,13 +618,13 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 51</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2010-09-23</td>
@@ -585,7 +641,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/kIKsPBchuZvaKK-NubNuqGdwNtxhdOiFf4V411UDlbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg3/OTMtMTI4NTE5NjY0/Ny5qcGVn.jpeg" alt="Cover for Afterglow" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +659,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2010-10-11</td>
@@ -640,7 +696,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/824fc5bdc227427cc2a296f843c5cdc2.png" alt="Cover for Fallen Light" style="max-width:120px; height:auto;" />
       </td>
@@ -654,12 +710,12 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 30</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
       </td>
       <td>2010-11-15</td>
@@ -696,7 +752,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/811308d575da4fe9cfa5d582b5d36f47.png" alt="Cover for James Blake" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +771,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/376eb61dd2514abab9634904ea53a7c2.png" alt="Cover for The Path of Totality" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +789,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/1G-im1Rm6qCCEy_RgvnlxkhgZAxzxSHABvxjdkIx_i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTIt/MTM1NjI4NzU3MC03/MTMzLmpwZWc.jpeg" alt="Cover for Blue EP" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +807,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b872de683cc54ccecc441bc59abc5d1a.png" alt="Cover for Reach for Glory" style="max-width:120px; height:auto;" />
       </td>
@@ -769,7 +825,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Qn_8p65VdwEg8ZnjtSKCsEd-vOuwcdeUA3gcArJswFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQy/NTQ2LTE2OTE3NTYy/NzUtNTM3NS5qcGVn.jpeg" alt="Cover for We’re New Here" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +845,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0ee6cf932c241dcabc1c1ad0e993ba2.png" alt="Cover for Everyday" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +863,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62f3e1e50f044ed28ebea96fcde9ddef.png" alt="Cover for Rudeboy" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +881,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2011-03-21</td>
@@ -844,7 +900,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
       </td>
       <td>2011-03-21</td>
@@ -880,7 +936,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13a189e6df1980fed252ac67aa586539.png" alt="Cover for On a Mission" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +955,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/420c667d98f24ca7b90e3b281b7bcb31.png" alt="Cover for ISAM" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +975,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/635073dcde8a458890b02015ea6b2517.png" alt="Cover for Guilt" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +993,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2011-05-06</td>
@@ -960,29 +1016,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/hSYB2ATuXVwtm1oPESmKtobRSzFredb9hUbS098ar8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI5/ODEtMTQwMTg4MTE4/NS03OTg1LmpwZWc.jpeg" alt="Cover for With U" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-06</td>
-      <td>Holy Other</td>
-      <td>With U</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 75</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 83</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Y5Cl1kV7JAqc0rW0j21-_o3F2NcsQ-92-eUzZ7aLmJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk5/MDctMTMwOTIxNzAz/MC5qcGVn.jpeg" alt="Cover for More Monsters And Sprites" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,6 +1037,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5e4fbf093743c5be6e72602474f687.png" alt="Cover for SBTRKT" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-27</td>
       <td>SBTRKT</td>
@@ -1015,7 +1050,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 40</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 41</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 69</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 87</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 92</li>
@@ -1023,7 +1058,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/W7Cs1lmPQfCHsdF5EjvCbfPGMqpRBLwmlg1bVZSlxuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njcy/OTEtMTMzNTU4MDgx/My5qcGVn.jpeg" alt="Cover for Wildfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,7 +1113,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e92e7ec7e5d246a38f36cc44a20ddb8c.png" alt="Cover for The Cold in You" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,9 +1131,9 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/XPdvfxyWdUhRn87ODM3hJXIGClPIIOw-HAaMsfMXQCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/NzMtMTQ2NzA0NzQ0/My00MDA2LmpwZWc.jpeg" alt="Cover for Promises" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b283379b1c674bf4bc26afc3a4995f92.png" alt="Cover for Promises" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-05</td>
       <td>Nero</td>
@@ -1114,7 +1149,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>2011-08-08</td>
@@ -1151,7 +1186,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12e25912ed40dd1a96ceeb280f05e69f.png" alt="Cover for Welcome Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1205,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c448e192751c4ddf801283f5f5f542eb.png" alt="Cover for X Rated" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1223,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc0445a3263067b16e5e4cfc37df1f0c.png" alt="Cover for Spitfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1244,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa9dc69f6537a3004b65f8bda54cb0f0.png" alt="Cover for Glass Swords" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,7 +1263,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e08b273b4658dd4351ad412d9e9536.png" alt="Cover for Cross the Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1287,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfe702315c0a4214b5f3528c3109a549.png" alt="Cover for Miracle" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1305,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
       </td>
       <td>2011-11-22</td>
@@ -1287,7 +1322,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/595369770497442cb0ba04b43cdf6b1a.png" alt="Cover for 100% No Modern Talking" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1341,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f778d53b8feb4e4380f3462572b16808.png" alt="Cover for Bangarang" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1359,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/InFVS_xmBPN3jig8ofCZmjcS31F4cakoLc5p7QPnnm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU3/MzgxLTE1NDkwNTAw/MTEtMzk2OS5qcGVn.jpeg" alt="Cover for mau5ville: Level 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1379,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
         <ul>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 66</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 87</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 92</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 93</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 96</li>
         </ul>
       </td>
@@ -1391,33 +1426,11 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 54</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 94</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 98</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 99</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49dedb85e60042d8b9f4a896d8b4cdf9.png" alt="Cover for A Flash Flood of Colour" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-01-13</td>
-      <td>Enter Shikari</td>
-      <td>A Flash Flood of Colour</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a></li>
-            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 55.00000000000001 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 38</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1440,16 +1453,16 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/zaMmi6jo2A-pd8DKJ2CUahE3vdiQPlC_hmDk8dRRqQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjQz/NDgtMTMzOTQzMzQy/Mi0xMDkzLmpwZWc.jpeg" alt="Cover for Hold On" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1480,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/606b8690dc12476cb571057fc203ba5e.png" alt="Cover for Rage Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1498,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30522883c09d403b8e0184a942750c5b.png" alt="Cover for Ask the Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1517,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/gDzTRTTPlku2FFYIII6cypbpr7m5mB5To2azkLppvLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU2/ODk2LTE1MTQ4NzMz/MzktMzMwOS5wbmc.jpeg" alt="Cover for Seven Lions - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1536,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ab979a5983f4513b7a8b7a9131735dd.png" alt="Cover for Truant &#x2F; Rough Sleeper" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,14 +1551,14 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 36</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 65</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/J95hZUSa4vjPuR_uabX00jgq_Dv-rBLuMj9QGryWtzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU0/MTQ2LTE1MDU0MDI2/NjctNTYyNi5qcGVn.jpeg" alt="Cover for Rodent" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,12 +1575,13 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 6</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2013-01-21</td>
@@ -1586,7 +1600,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebeeff42fa494e8cbb94a4cfaf37d337.png" alt="Cover for Blow the Roof" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1618,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b817b5d24854cb7bd927d8662a9966e.png" alt="Cover for Cold Spring Fault Less Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,7 +1634,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 70</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 73</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 100</li>
         </ul>
       </td>
@@ -1644,7 +1658,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 43</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 44</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 83</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 84</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 97</li>
@@ -1652,7 +1666,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/WRsGRvXAPV-qNHHOunTVGOMgmw5hjN1h-WVq6FXu-X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDI1/ODktMTM4MDEyMzMx/MS00NTM5LmpwZWc.jpeg" alt="Cover for Get Wet" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1685,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35306f5b8fcf9b961903fa6b3ec6163c.png" alt="Cover for Recharged" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1705,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
       </td>
       <td>2013-10-28</td>
@@ -1706,13 +1720,13 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 63</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 66</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78d5ca4ab446022a72e8fb7029f50ad2.png" alt="Cover for Awake" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,7 +1746,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a3fd4b7e9e3432cc3c8b9f947895943.png" alt="Cover for Love Death Immortality" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1762,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 64</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1786,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a3b01cc00d94790921f4af0ffb23cb9.png" alt="Cover for Reptile&#39;s Theme" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1805,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2014-04-29</td>
@@ -1807,35 +1821,13 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 37</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 70</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 71</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/905a767d32cb3c8864db77b4a9bc9ac8.png" alt="Cover for Home (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-10-02</td>
-      <td>Rudimental</td>
-      <td>Home (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/YoKzg9fgtsVYut8vywU6eyBLsc32Eq6g09ikIvrRCfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODQ0/NDgtMTQ1MDg4Njcx/OS01NDEwLmpwZWc.jpeg" alt="Cover for ESCAPISM" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1845,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f811e3625b66b75d9a6cafa02eb5e06.png" alt="Cover for Radical Dude!" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1865,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46e1e97fd7d7881ea4c32f34f19f0a07.png" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,7 +1884,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/489553a300d47e084a371d457a24cb25.png" alt="Cover for A View of U" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,14 +1902,14 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 34</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 37</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 48</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/alIFimci6aYH425lvkHLph4j0sft_t4_8ffj4RPF1-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/MTcyLTE1Mzc0NzAw/NDUtNDU2OS5qcGVn.jpeg" alt="Cover for You Don&#39;t Even Know Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1927,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/zC8Uvi6n3phFZErphU05ALKuyUTks7_7NLzzmG6fTyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NTQxLTE2NzY1OTYy/ODEtODg2Ni5qcGVn.jpeg" alt="Cover for quest for fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,7 +1945,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 60</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 63</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 89</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 90</li>
         </ul>
@@ -1978,7 +1970,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 59</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 65</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 96</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 99</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 100</li>
@@ -1986,7 +1978,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>

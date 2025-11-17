@@ -1,118 +1,2003 @@
 ---
 category: genre
-date: 2025-10-23T15:14:36.772Z
+date: 2025-11-17T05:57:52.320Z
 permalink: tags/mathcore
 title: mathcore
 ---
 
 ## mathcore
 
-Last updated: <time datetime="2025-10-23T15:14:36.772Z">Thu Oct 23 2025 18:14:36 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-17T05:57:52.320Z">Mon Nov 17 2025 07:57:52 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Mathcore is a subgenre of metalcore and math rock, characterized by complex and intricate rhythms, odd time signatures, angular and dissonant guitar riffs, and technical and aggressive instrumentation. Mathcore also incorporates elements of other genres such as jazz, hardcore punk, and avant-garde music, and is known for its complex song structures and unconventional songwriting techniques. Bands such as The Dillinger Escape Plan, Converge, and Botch are considered pioneers of the mathcore genre.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 16 |  | 1996 | Converge | Petitioning the Empty Sky |
-| 57 |  | 1997 | The Dillinger Escape Plan | The Dillinger Escape Plan |
-| 21 |  | 1998 | Coalesce | Functioning on Impatience |
-| 61 |  | 1998 | Botch | American Nervoso |
-| 83 |  | 1998-10-22 | The Dillinger Escape Plan | Under The Running Board |
-| 87 |  | 1999 | Botch | We Are the Romans |
-| 93 |  | 1999-09-28 | The Dillinger Escape Plan | Calculating Infinity |
-| 100 |  | 2001-09-04 | Converge | Jane Doe |
-| 65 |  | 2002-04-21 | Botch | An Anthology Of Dead Ends |
-| 92 |  | 2002-08-26 | Daughters | Daughters |
-| 96 | ![Cover](https://i.discogs.com/001bu9Z4FL6Fu4CO9wbY2frfDLYzwYblBTagA3HU8_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTE2/MS0xMzI4OTgxMzYy/LmpwZWc.jpeg) | 2002-08-27 | The Dillinger Escape Plan | Irony Is a Dead Scene |
-| 74 |  | 2003 | The Number Twelve Looks Like You | Put on Your Rosy Red Glasses |
-| 47 |  | 2003-06-23 | The Locust | Plague Soundscapes |
-| 46 |  | 2003-08-12 | An Albatross | We Are The Lazer Viking |
-| 79 |  | 2003-08-12 | Daughters | Canada Songs |
-| 17 | ![Cover](https://i.discogs.com/CSEIm53Wy6U0Vwh5Pxjlm9khvQ_53HFzf4EytO-SPG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDMx/Ni0xNjYzNzYwODg0/LTQyMjguanBlZw.jpeg) | 2003-08-18 | Sikth | The Trees Are Dead &amp; Dried Out Wait For Something Wild |
-| 41 | ![Cover](https://i.discogs.com/CSEIm53Wy6U0Vwh5Pxjlm9khvQ_53HFzf4EytO-SPG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDMx/Ni0xNjYzNzYwODg0/LTQyMjguanBlZw.jpeg) | 2003-08-18 | Sikth | The Trees Are Dead &amp; Dried Out... Wait For Something Wild |
-| 24 |  | 2003-09-02 | Ion Dissonance | Breathing Is Irrelevant |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1a4fef81a3fb1b350b346dfdbbeaeaff.png) | 2003-11-04 | The Fall of Troy | The Fall Of Troy |
-| 26 |  | 2004-01-01 | PsyOpus | Ideas of Reference |
-| 98 |  | 2004-07-20 | The Dillinger Escape Plan | Miss Machine |
-| 85 |  | 2004-09-20 | Converge | You Fail Me |
-| 67 |  | 2005-01-25 | The Number Twelve Looks Like You | An Inch of Gold for an Inch of Time |
-| 37 | ![Cover](https://i.discogs.com/4Z5Nu3Y1Jsbg68I1b3uaLVF8U8PaU_N4ldoddEX1YX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjIw/MTEtMTU2OTc2MzAw/My0zNDM4LmpwZWc.jpeg) | 2005-03-08 | Into The Moat | The Design |
-| 4 |  | 2005-06-07 | The Number Twelve Looks Like You | Nuclear. Sad. Nuclear |
-| 8 | ![Cover](https://i.discogs.com/bvBs_5uuJExYlcVTqqSQgIfNBKRnRbJNyZXS-yTMlls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY0/NzUtMTYzMjYzMTQx/Mi00Mjk0LmpwZWc.jpeg) | 2005-08-09 | The Tony Danza Tapdance Extravaganza | The Tony Danza Tapdance Extravaganza |
-| 97 |  | 2005-08-30 | Protest the Hero | Kezia |
-| 28 | ![Cover](https://i.discogs.com/Zg_Jeoh76_4I1-KoCxbuC8zL5e-db7_xZsKjEPekhPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODIy/ODYtMTMwMDgwMjUw/NS5qcGVn.jpeg) | 2005-09-20 | Ion Dissonance | Solace |
-| 30 | ![Cover](https://i.discogs.com/atz-prLqyPKwN-jOl6brdLG2W2hyTsd0fKdj7WvCkvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc3/OTgtMTIwMjM3NDAz/NS5qcGVn.jpeg) | 2005-12-06 | The Chariot | Unsung |
-| 58 | ![Cover](https://i.discogs.com/kU4Rs5ilo3f9xynCaalEKmbG2UCWjASXT0pvMgwYKTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEz/MjktMTY4Nzk4MjY5/OS01NjUwLmpwZWc.jpeg) | 2006 | Architects | Royal Beggars |
-| 86 |  | 2006-01-01 | Architects | Nightmares |
-| 19 | ![Cover](https://i.discogs.com/ZJs7ZyJKOqrrMD2_3C29OHsROWgfkbjcmoZZVHTXE5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcx/ODctMTY0MTc2MjU4/OC00NjE1LmpwZWc.jpeg) | 2006-01-31 | Me and Him Call It Us | Loss |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0593784c41056d271bff62f4743504bd.png) | 2006-08-08 | Daughters | Hell Songs |
-| 27 | ![Cover](https://i.discogs.com/5FlOcDqOl_8OqnSRnkyUothvJPVd1B6amTeWko-zMcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODEz/Ny0xMTczODE0NzEw/LmpwZWc.jpeg) | 2006-09-12 | Norma Jean | Redeemer |
-| 68 |  | 2006-09-19 | Heavy Heavy Low Low | Everything&#39;s Watched, Everyone&#39;s Watching |
-| 89 |  | 2006-10-23 | Converge | No Heroes |
-| 20 |  | 2007-01-06 | Car Bomb | Centralia |
-| 12 | ![Cover](https://i.discogs.com/xojvt-L9qiuRqQilfPC-wyy9hfZI4OIn_y6QE3q5HPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE2/NjktMTE4OTEwOTIz/Ny5qcGVn.jpeg) | 2007-02-20 | PsyOpus | Our Puzzling Encounters Considered |
-| 43 |  | 2007-03-20 | The Locust | New Erections |
-| 62 | ![Cover](https://i.discogs.com/Nj51bwVac13fOKcnbS9apbtWA8GONGhAvLE1bTrk-xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMy/NzQtMTY0OTY2Nzcx/MS0xMzYwLmpwZWc.jpeg) | 2007-04-03 | See You Next Tuesday | Parasite |
-| 64 |  | 2007-06-05 | Ion Dissonance | Minus The Herd |
-| 75 |  | 2007-06-19 | The Number Twelve Looks Like You | Mongrel |
-| 34 | ![Cover](https://i.discogs.com/w-LAw5oxDhOEPkf24vPq6sYDI5qkBOZD1jzK7nd5G2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI4/OTktMTQwNzE1ODk2/MC0xNDg2LmpwZWc.jpeg) | 2007-09-18 | War from a Harlots Mouth | Transmetropolitan |
-| 99 |  | 2007-11-13 | The Dillinger Escape Plan | Ire Works |
-| 72 |  | 2007-12-15 | iwrestledabearonce | Iwrestledabearonce |
-| 80 |  | 2008-01-29 | Protest the Hero | Fortress |
-| 78 | ![Cover](https://i.discogs.com/7Bsrgv_d6EPkTNgJ-K6DzR9WTDCZ2OWCRy22DTJLVHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEz/MjktMTI5MDA0NTQ4/OS5qcGVn.jpeg) | 2008-06-02 | Architects | Ruin |
-| 31 |  | 2008-06-17 | Duck Duck Goose | Noise, Noise and more Noise |
-| 1 | ![Cover](https://i.discogs.com/sRtOsvXBDNE28K7yv8Ky71Q56otiu6eHoh6MLAUr1As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDIx/NTktMTMzNjk0NzA4/MS0yMjY2LmpwZWc.jpeg) | 2008-07-14 | The Arusha Accord | Nightmares Of The Ocean EP |
-| 48 | ![Cover](https://i.discogs.com/0wl0e-MnjuNxu5k2h5PsxYxO7HLfpwej63J10kDUMfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU1/NDQtMTMzMDY4Mzkw/My5qcGVn.jpeg) | 2008-09-21 | Rolo Tomassi | Hysterics |
-| 90 |  | 2009-01-26 | Architects | Hollow Crown |
-| 39 |  | 2009-03-10 | The Number Twelve Looks Like You | Worse Than Alone |
-| 22 | ![Cover](https://i.discogs.com/WEa_wjKjfyBytVRfK39M1eV4I_wDoHEh297R5vMwOq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE3/OTEtMTI3ODkyMTI4/OS5wbmc.jpeg) | 2009-04-24 | War from a Harlots Mouth | In Shoals |
-| 69 |  | 2009-05-05 | The Chariot | Wars and Rumors of Wars |
-| 84 | ![Cover](https://i.discogs.com/uJw6osLJv9xNRGJnMC75arNUXZnot9KUZGrSZ87SjTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzk3/OTAtMTYwNDI1NTI3/Ny0xMjA2LmpwZWc.jpeg) | 2009-06-02 | iwrestledabearonce | It&#39;s All Happening |
-| 18 | ![Cover](https://i.discogs.com/R5BvtJ-cnuFYeJUFXwsxrC5xYPIGY49jx-rMfFdotd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM2/NzQtMTI4MDMxNTA0/My5qcGVn.jpeg) | 2009-07-14 | Arsonists Get All The Girls | Portals |
-| 91 |  | 2009-10-20 | Converge | Axe to Fall |
-| 88 |  | 2009-11-13 | Justin Bieber | My World |
-| 38 | ![Cover](https://i.discogs.com/2JDB3ixmHCtbvwJSuQ_wvjmPo4qqOdzK5cEHcm7Boo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE4/MTUtMTI3OTA0MzAy/NC5qcGVn.jpeg) | 2010 | Periphery | Periphery II |
-| 94 |  | 2010-03-19 | The Dillinger Escape Plan | Option Paralysis |
-| 36 |  | 2010-05-24 | Rolo Tomassi | Cosmology |
-| 11 |  | 2010-08-01 | Converge | On My Shield |
-| 13 | ![Cover](https://i.discogs.com/AFu0R5qdOdvLbt77c9YGMHOirng1bl0UPODtZMfPEk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQz/MjAtMTQwMjE1MzMw/Ni0zMDQ1LmpwZWc.jpeg) | 2010-08-23 | Ion Dissonance | Cursed |
-| 73 | ![Cover](https://i.discogs.com/SL4o31V1BPNX9igRo8cjuTRKo9yNdgcf79hmBByngws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjUy/NTEtMTY4MjgxNTcy/MS04NzQ5LmpwZWc.jpeg) | 2010-11-22 | The Chariot | Long Live |
-| 5 |  | 2011-01-21 | Architects | The Here And Now |
-| 55 |  | 2011-07-22 | iwrestledabearonce | Ruining It For Everybody |
-| 56 |  | 2012-07-31 | Gaza | No Absolutes in Human Suffering |
-| 66 |  | 2012-08-28 | The Chariot | One Wing |
-| 35 | ![Cover](https://i.discogs.com/acQVdQ35ewR_QkSSIWyxGia0sipzQnwH8bJ2VK8VWWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/NDA0LTE1Mzk1NjY1/NjktMTgyNi5qcGVn.jpeg) | 2012-09-02 | Heccra | The Last Weekend of Summer |
-| 44 | ![Cover](https://i.discogs.com/C4L_cQ0ilsTCEPLu08ACeMrMR8HKIpxVG6RCJJm1fRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjUy/NDYtMTUxMDI1NDc3/Ny03NzkwLmpwZWc.jpeg) | 2012-10-08 | Converge | All We Love We Leave Behind |
-| 95 |  | 2013-05-14 | The Dillinger Escape Plan | One of Us Is the Killer |
-| 76 |  | 2013-08-06 | Norma Jean | Wrongdoers |
-| 32 |  | 2013-08-20 | Sworn In | The Death Card |
-| 82 |  | 2013-10-29 | Protest the Hero | Volition |
-| 49 | ![Cover](https://i.discogs.com/q6GTwCd0nXF9TvcrAJy0pxWX9XT2qEG3YJsISfKd39Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDYw/MDgtMTU4NjUyMTAz/OS04OTE4LmpwZWc.jpeg) | 2014-11-07 | Hacktivist | Deceive and Defy |
-| 7 | ![Cover](https://i.discogs.com/-_Io2WiFNgU0uHn31AQgnL0gja-tII_2OqypfUdHpvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzg0/MjktMTUwMjIwODQz/My01MTkxLmpwZWc.jpeg) | 2015-06-01 | Rolo Tomassi | Grievances |
-| 23 | ![Cover](https://i.discogs.com/PsS_Cf5qZ9Ebzp32xe5cm8p-doQ-KHwCGLcBLFI7Jjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTgy/MjMtMTU3ODE3MjEx/Ni00NTAyLmpwZWc.jpeg) | 2015-10-16 | Cult Leader | Lightless Walk |
-| 10 | ![Cover](https://i.discogs.com/HcrDf6svKIEzmrLQ4mVip0Nfjy0KxDRMFCE_ZCNZLXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTE0/ODItMTQ2NTkzNzU1/NS0xMzc5LmpwZWc.jpeg) | 2016-06-17 | Converge | You Fail Me Redux |
-| 77 | ![Cover](https://i.discogs.com/SN3X12PQVH2ToDO4HXxeX0_A08_a3t5tRUTaaKvAYS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODYz/NDgtMTQ3NjQ0NDgy/OC01NzQ3LmpwZWc.jpeg) | 2016-10-14 | The Dillinger Escape Plan | Dissociation |
-| 59 | ![Cover](https://i.discogs.com/-ptP9uWkn3waqnyyVYXPth1srHKRHfAjF--pe1jWtuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODM2/NDItMTU3MTgyMjQw/NC04NTE5LnBuZw.jpeg) | 2016-10-28 | Car Bomb | Meta |
-| 2 | ![Cover](https://i.discogs.com/08V5teA5XGguZ5y-sXHYeZ8zr6vmyy-3PwzNfi0zj4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcx/Mzg5LTE0OTYxNTkz/MzktOTE4MC5qcGVn.jpeg) | 2017-06-02 | Sikth | The Future in Whose Eyes? |
-| 14 |  |  | Vein.FM | errorzone |
-| 50 | ![Cover](https://i.discogs.com/8uvker0LEy-_lzZv6hUNyGfhATU_mveJcUvRx0oOjXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDc1/ODAtMTM5MzYwMzgw/OC0zMzY3LnBuZw.jpeg) | 2017-05-31 | Hacktivist | 2 Rotten |
-| 29 | ![Cover](https://i.discogs.com/3KDiDsxSlSDprbwesbQXVoiHWfaQ97IqksH_twvvZp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg5/ODQ3LTE1NjEyMzk3/MDMtNTE0Ni5qcGVn.jpeg) | 2017-11-03 | Converge | The Dusk in Us |
-| 71 | ![Cover](https://i.discogs.com/nsJd5orX4BPT8Mz-ql4BOV2-dexn4GZ4bGeVKqSkHlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk2/NjU1LTE1MjAwOTA1/ODQtODY0MS5qcGVn.jpeg) | 2017-12 | Rolo Tomassi | Time Will Die And Love Will Bury It |
-| 52 | ![Cover](https://i.discogs.com/3vRp4xGr_AuYoEVemEHzM0zvsSv3IPCWEe2rjAXAWNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/MTc5LTE1MjIxOTY3/MzktNjY1MC5qcGVn.jpeg) | 2018-03-16 | Greyhaven | Empty Black |
-| 51 | ![Cover](https://i.discogs.com/M8I5NjL6s4DjPzG0u0RlphPVymKGdaEVElh3gkHZb7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk3/NDAxLTE1MzAyNzgy/NjAtMjI1NC5qcGVn.jpeg) | 2018-06-29 | Converge | Beautiful Ruin |
-| 40 | ![Cover](https://i.discogs.com/o3adWM7jxwmZgYC9OWSsWFVBAneOzxXHfD_GwvSSXX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUz/NTc2LTE1NDEyOTg3/OTktNjI2MS5qcGVn.jpeg) | 2018-11-09 | Cult Leader | A Patient Man |
-| 42 |  |  | Sikth | The Trees Are Dead And Dried Out Wait for Something Wild |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bcdf038fd560f338a8c492368818835a.png) | 2019 | SeeYouSpaceCowboy... | Songs for the Firing Squad |
-| 45 | ![Cover](https://i.discogs.com/KwIl5Q_04Id4LquwzDlISFjdgKZGcRSbUvCXJRpvlfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjY3/NjE3LTE2ODkyODg5/NTQtNzM1Ny5qcGVn.jpeg) | 2019 | Heccra | The Devil-Faces of My Old Friends, Beneath Me |
-| 60 | ![Cover](https://i.discogs.com/GxUGRHsx93DbNRn1QkuK-fWVuALvLQaliI4B9AYEmEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk1/MzkzLTE2ODYwODU2/MzYtNTA4Ni5qcGVn.jpeg) | 2019 | Origami Angel | DEPART |
-| 6 | ![Cover](https://i.discogs.com/lkG3pRe16R8QmMrhzFBG6lEmDk69gwdeuLH-SpWlUCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA0/MDI5LTE1NzE4MjIz/MjQtOTY0MC5wbmc.jpeg) | 2019-09-27 | Car Bomb | Mordial |
-| 3 | ![Cover](https://i.discogs.com/Pu3Q0LP1wH5xuDfdpXoENYJ1prXrMQBGdoGvNkgw8ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM0/OTI1LTE2MjA1Nzc1/NzktNDIxNy5qcGVn.jpeg) | 2021-02-19 | Hazing Over | Pestilence |
-| 63 | ![Cover](https://i.discogs.com/qUwH2atwuckN4u0BEVvLzMJ66DzSlCbIQB1_mvwhEfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc5/NjQwLTE2MzUwMjQz/MDctOTQyMC5qcGVn.jpeg) | 2021-10-22 | Every Time I Die | radical |
-| 33 | ![Cover](https://i.discogs.com/E4AGbeC79doDbe_1PTfmwS-rjM7DMv8-CGB_tix302E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDY5/MzU0LTE2NDQyNzU1/NjEtNTY1MC5qcGVn.jpeg) | 2022-02-04 | Rolo Tomassi | Where Myth Becomes Memory |
-| 54 | ![Cover](https://i.discogs.com/QVTAu1P0Vj04rYvTLQRq90gVKvCvaaNDMhLseSzLTUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzgy/NjIyLTE2NjIwNzM3/NTQtMTAzMS5qcGVn.jpeg) | 2022-09-02 | The Callous Daoboys | Celebrity Therapist |
-| 70 | ![Cover](https://i.discogs.com/EqwmY0S0LJROvFFaw_cdhNjgUnz1v8T2AgCrQv6DEuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTc3/MDEtMTM3MDA5MzE1/Mi0xMDQzLmpwZWc.jpeg) | 2022-09-09 | Stray from the Path | The House Always Wins |
-| 53 | ![Cover](https://i.discogs.com/l_7rKZ7DiBIlZYp1jA5OnXWb-krBG5tIIpO6jHuLRnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjYy/MDg1LTE2ODkyNDg4/MDktNjQ1OS5wbmc.jpeg) | 2023-07-07 | Better Lovers | God Made Me an Animal |
-| 25 | ![Cover](https://i.discogs.com/pzXs3BSDdqmOmwahig7DjjB3UYEiX2iEkZNWKqbmq00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDU3/ODI5LTE3MTQxMzE0/MzgtODQzOC5qcGVn.jpeg) | 2024-04-19 | SeeYouSpaceCowboy... | Coup de Grâce |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f77e420399fa807f26e084245733fc81.png" alt="Cover for Petitioning the Empty Sky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Converge</td>
+      <td>Petitioning the Empty Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Coalesce</td>
+      <td>Functioning on Impatience</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4daac3533d44c1811ab6d09b0e709b.png" alt="Cover for American Nervoso" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Botch</td>
+      <td>American Nervoso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>1998-10-22</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Under The Running Board</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61635f66f64e74b9664258bec80f75f0.png" alt="Cover for We Are the Romans" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Botch</td>
+      <td>We Are the Romans</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>1999-09-28</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Calculating Infinity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb7d052c21c540d6b86127581b4546c9.png" alt="Cover for Jane Doe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-04</td>
+      <td>Converge</td>
+      <td>Jane Doe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 29</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b6d9829a2263def49aadecd6da20c5a.png" alt="Cover for An Anthology Of Dead Ends" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-04-21</td>
+      <td>Botch</td>
+      <td>An Anthology Of Dead Ends</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/215fc12ac1a737e7cca614e31b742c4c.png" alt="Cover for Daughters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-26</td>
+      <td>Daughters</td>
+      <td>Daughters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/001bu9Z4FL6Fu4CO9wbY2frfDLYzwYblBTagA3HU8_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTE2/MS0xMzI4OTgxMzYy/LmpwZWc.jpeg" alt="Cover for Irony Is a Dead Scene" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-27</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Irony Is a Dead Scene</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff446dab89d1ac9493eee95b638fc85c.png" alt="Cover for Put on Your Rosy Red Glasses" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>The Number Twelve Looks Like You</td>
+      <td>Put on Your Rosy Red Glasses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2003-06-23</td>
+      <td>The Locust</td>
+      <td>Plague Soundscapes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 74</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9f86ba4130245dec5f9111e3792ebe3.png" alt="Cover for We Are The Lazer Viking" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-12</td>
+      <td>An Albatross</td>
+      <td>We Are The Lazer Viking</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 48</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 80</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 87</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2003-08-12</td>
+      <td>Daughters</td>
+      <td>Canada Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/CSEIm53Wy6U0Vwh5Pxjlm9khvQ_53HFzf4EytO-SPG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDMx/Ni0xNjYzNzYwODg0/LTQyMjguanBlZw.jpeg" alt="Cover for The Trees Are Dead &amp; Dried Out Wait For Something Wild" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-18</td>
+      <td>Sikth</td>
+      <td>The Trees Are Dead &amp; Dried Out Wait For Something Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/CSEIm53Wy6U0Vwh5Pxjlm9khvQ_53HFzf4EytO-SPG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDMx/Ni0xNjYzNzYwODg0/LTQyMjguanBlZw.jpeg" alt="Cover for The Trees Are Dead &amp; Dried Out... Wait For Something Wild" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-18</td>
+      <td>Sikth</td>
+      <td>The Trees Are Dead &amp; Dried Out... Wait For Something Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2003-09-02</td>
+      <td>Ion Dissonance</td>
+      <td>Breathing Is Irrelevant</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2004-01-01</td>
+      <td>PsyOpus</td>
+      <td>Ideas of Reference</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/450d255ee55a4849811f1083ff6d165b.png" alt="Cover for Miss Machine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-07-20</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Miss Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2004-09-20</td>
+      <td>Converge</td>
+      <td>You Fail Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 31</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/baffc58b39024b47a25956577598d7ad.png" alt="Cover for Everything Is Alive, Everything is Breathing, Nothing Is Dead, and Nothing Is Bleeding" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>The Chariot</td>
+      <td>Everything Is Alive, Everything is Breathing, Nothing Is Dead, and Nothing Is Bleeding</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2005-01-25</td>
+      <td>The Number Twelve Looks Like You</td>
+      <td>An Inch of Gold for an Inch of Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c355569c11d4492b35a8488e9c70900.png" alt="Cover for O&#39; God, the Aftermath" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-14</td>
+      <td>Norma Jean</td>
+      <td>O&#39; God, the Aftermath</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/4Z5Nu3Y1Jsbg68I1b3uaLVF8U8PaU_N4ldoddEX1YX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjIw/MTEtMTU2OTc2MzAw/My0zNDM4LmpwZWc.jpeg" alt="Cover for The Design" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-08</td>
+      <td>Into The Moat</td>
+      <td>The Design</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2005-06-07</td>
+      <td>The Number Twelve Looks Like You</td>
+      <td>Nuclear. Sad. Nuclear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/bvBs_5uuJExYlcVTqqSQgIfNBKRnRbJNyZXS-yTMlls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY0/NzUtMTYzMjYzMTQx/Mi00Mjk0LmpwZWc.jpeg" alt="Cover for The Tony Danza Tapdance Extravaganza" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-08-09</td>
+      <td>The Tony Danza Tapdance Extravaganza</td>
+      <td>The Tony Danza Tapdance Extravaganza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b3a1e4b78a24de791d490e9901458a0.png" alt="Cover for Kezia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-08-30</td>
+      <td>Protest the Hero</td>
+      <td>Kezia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/Zg_Jeoh76_4I1-KoCxbuC8zL5e-db7_xZsKjEPekhPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODIy/ODYtMTMwMDgwMjUw/NS5qcGVn.jpeg" alt="Cover for Solace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-20</td>
+      <td>Ion Dissonance</td>
+      <td>Solace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/atz-prLqyPKwN-jOl6brdLG2W2hyTsd0fKdj7WvCkvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc3/OTgtMTIwMjM3NDAz/NS5qcGVn.jpeg" alt="Cover for Unsung" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-12-06</td>
+      <td>The Chariot</td>
+      <td>Unsung</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd2639e708348aec0b66c55d11f5c88e.png" alt="Cover for Royal Beggars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Architects</td>
+      <td>Royal Beggars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 68</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2006-01-01</td>
+      <td>Architects</td>
+      <td>Nightmares</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/158cd86d4bfcc39fe24fedd8388d3769.png" alt="Cover for Loss" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-01-31</td>
+      <td>Me and Him Call It Us</td>
+      <td>Loss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0593784c41056d271bff62f4743504bd.png" alt="Cover for Hell Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-08-08</td>
+      <td>Daughters</td>
+      <td>Hell Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/5FlOcDqOl_8OqnSRnkyUothvJPVd1B6amTeWko-zMcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODEz/Ny0xMTczODE0NzEw/LmpwZWc.jpeg" alt="Cover for Redeemer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-12</td>
+      <td>Norma Jean</td>
+      <td>Redeemer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d320be34b1d6ddf4a5abc832fe55eb0.png" alt="Cover for Everything&#39;s Watched, Everyone&#39;s Watching" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-19</td>
+      <td>Heavy Heavy Low Low</td>
+      <td>Everything&#39;s Watched, Everyone&#39;s Watching</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2006-10-23</td>
+      <td>Converge</td>
+      <td>No Heroes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2007-01-06</td>
+      <td>Car Bomb</td>
+      <td>Centralia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 13</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/xojvt-L9qiuRqQilfPC-wyy9hfZI4OIn_y6QE3q5HPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE2/NjktMTE4OTEwOTIz/Ny5qcGVn.jpeg" alt="Cover for Our Puzzling Encounters Considered" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-20</td>
+      <td>PsyOpus</td>
+      <td>Our Puzzling Encounters Considered</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2007-03-20</td>
+      <td>The Locust</td>
+      <td>New Erections</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 53</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/Nj51bwVac13fOKcnbS9apbtWA8GONGhAvLE1bTrk-xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMy/NzQtMTY0OTY2Nzcx/MS0xMzYwLmpwZWc.jpeg" alt="Cover for Parasite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-03</td>
+      <td>See You Next Tuesday</td>
+      <td>Parasite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2007-06-05</td>
+      <td>Ion Dissonance</td>
+      <td>Minus The Herd</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 39</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75d52b6167d61f0e3a10b909cb870bb7.png" alt="Cover for Mongrel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-19</td>
+      <td>The Number Twelve Looks Like You</td>
+      <td>Mongrel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/w-LAw5oxDhOEPkf24vPq6sYDI5qkBOZD1jzK7nd5G2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI4/OTktMTQwNzE1ODk2/MC0xNDg2LmpwZWc.jpeg" alt="Cover for Transmetropolitan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-18</td>
+      <td>War from a Harlots Mouth</td>
+      <td>Transmetropolitan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94e2f87e09510404df6d7404bb4c28c9.png" alt="Cover for Ire Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-11-13</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Ire Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2007-12-15</td>
+      <td>iwrestledabearonce</td>
+      <td>Iwrestledabearonce</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2008-01-29</td>
+      <td>Protest the Hero</td>
+      <td>Fortress</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/7Bsrgv_d6EPkTNgJ-K6DzR9WTDCZ2OWCRy22DTJLVHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEz/MjktMTI5MDA0NTQ4/OS5qcGVn.jpeg" alt="Cover for Ruin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-02</td>
+      <td>Architects</td>
+      <td>Ruin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2008-06-17</td>
+      <td>Duck Duck Goose</td>
+      <td>Noise, Noise and more Noise</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/sRtOsvXBDNE28K7yv8Ky71Q56otiu6eHoh6MLAUr1As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDIx/NTktMTMzNjk0NzA4/MS0yMjY2LmpwZWc.jpeg" alt="Cover for Nightmares Of The Ocean EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07-14</td>
+      <td>The Arusha Accord</td>
+      <td>Nightmares Of The Ocean EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f55bf65dad5fa505236f6241c383711.png" alt="Cover for Hysterics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-21</td>
+      <td>Rolo Tomassi</td>
+      <td>Hysterics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5dae9e9587f49c7aa85121a148efb47.png" alt="Cover for Hollow Crown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-26</td>
+      <td>Architects</td>
+      <td>Hollow Crown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12df4393ea814806ab88929f2a7f1b8d.png" alt="Cover for Worse Than Alone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-10</td>
+      <td>The Number Twelve Looks Like You</td>
+      <td>Worse Than Alone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/WEa_wjKjfyBytVRfK39M1eV4I_wDoHEh297R5vMwOq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE3/OTEtMTI3ODkyMTI4/OS5wbmc.jpeg" alt="Cover for In Shoals" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-24</td>
+      <td>War from a Harlots Mouth</td>
+      <td>In Shoals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2009-05-05</td>
+      <td>The Chariot</td>
+      <td>Wars and Rumors of Wars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2870de17d2ad44dbb165b4d81a4c5e3a.png" alt="Cover for It&#39;s All Happening" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-02</td>
+      <td>iwrestledabearonce</td>
+      <td>It&#39;s All Happening</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 62</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/R5BvtJ-cnuFYeJUFXwsxrC5xYPIGY49jx-rMfFdotd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM2/NzQtMTI4MDMxNTA0/My5qcGVn.jpeg" alt="Cover for Portals" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-07-14</td>
+      <td>Arsonists Get All The Girls</td>
+      <td>Portals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2009-10-20</td>
+      <td>Converge</td>
+      <td>Axe to Fall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 21</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2009-11-13</td>
+      <td>Justin Bieber</td>
+      <td>My World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 10</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 44</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 51</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 86</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 99</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/2JDB3ixmHCtbvwJSuQ_wvjmPo4qqOdzK5cEHcm7Boo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE4/MTUtMTI3OTA0MzAy/NC5qcGVn.jpeg" alt="Cover for Periphery II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Periphery</td>
+      <td>Periphery II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 97</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/439de9012bfb6583e908f7d3758dd108.png" alt="Cover for Option Paralysis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-19</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Option Paralysis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1ff36e007044909430c95b9f20f42b.png" alt="Cover for Cosmology" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-24</td>
+      <td>Rolo Tomassi</td>
+      <td>Cosmology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2010-08-01</td>
+      <td>Converge</td>
+      <td>On My Shield</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/AFu0R5qdOdvLbt77c9YGMHOirng1bl0UPODtZMfPEk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQz/MjAtMTQwMjE1MzMw/Ni0zMDQ1LmpwZWc.jpeg" alt="Cover for Cursed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-08-23</td>
+      <td>Ion Dissonance</td>
+      <td>Cursed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/168181bfbd964f9bbf128e8a86078547.png" alt="Cover for Long Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-22</td>
+      <td>The Chariot</td>
+      <td>Long Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2011-07-22</td>
+      <td>iwrestledabearonce</td>
+      <td>Ruining It For Everybody</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2012-07-31</td>
+      <td>Gaza</td>
+      <td>No Absolutes in Human Suffering</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2012-08-28</td>
+      <td>The Chariot</td>
+      <td>One Wing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 64</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e78d64f06dc143efc300d181a64895b0.png" alt="Cover for The Last Weekend of Summer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-02</td>
+      <td>Heccra</td>
+      <td>The Last Weekend of Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 50</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92d1aaff5e0b77c06074ba7b309eec88.png" alt="Cover for All We Love We Leave Behind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-08</td>
+      <td>Converge</td>
+      <td>All We Love We Leave Behind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2013-05-14</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>One of Us Is the Killer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1119d88463f4d3db0e5aabc72640960.png" alt="Cover for Wrongdoers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-06</td>
+      <td>Norma Jean</td>
+      <td>Wrongdoers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09fdc8894834d4fb96fc44223f984ba.png" alt="Cover for The Death Card" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-20</td>
+      <td>Sworn In</td>
+      <td>The Death Card</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/717769ba3a8f6c3ce1da2976634780d4.png" alt="Cover for Volition" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-29</td>
+      <td>Protest the Hero</td>
+      <td>Volition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3ec986cbcb4f97cfe4825eb2ca9581.png" alt="Cover for Deceive and Defy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-07</td>
+      <td>Hacktivist</td>
+      <td>Deceive and Defy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 37</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 56</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 80</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/-_Io2WiFNgU0uHn31AQgnL0gja-tII_2OqypfUdHpvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzg0/MjktMTUwMjIwODQz/My01MTkxLmpwZWc.jpeg" alt="Cover for Grievances" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-01</td>
+      <td>Rolo Tomassi</td>
+      <td>Grievances</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/PsS_Cf5qZ9Ebzp32xe5cm8p-doQ-KHwCGLcBLFI7Jjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTgy/MjMtMTU3ODE3MjEx/Ni00NTAyLmpwZWc.jpeg" alt="Cover for Lightless Walk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-16</td>
+      <td>Cult Leader</td>
+      <td>Lightless Walk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 29</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/HcrDf6svKIEzmrLQ4mVip0Nfjy0KxDRMFCE_ZCNZLXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTE0/ODItMTQ2NTkzNzU1/NS0xMzc5LmpwZWc.jpeg" alt="Cover for You Fail Me Redux" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-17</td>
+      <td>Converge</td>
+      <td>You Fail Me Redux</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/SN3X12PQVH2ToDO4HXxeX0_A08_a3t5tRUTaaKvAYS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODYz/NDgtMTQ3NjQ0NDgy/OC01NzQ3LmpwZWc.jpeg" alt="Cover for Dissociation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-14</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Dissociation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/-ptP9uWkn3waqnyyVYXPth1srHKRHfAjF--pe1jWtuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODM2/NDItMTU3MTgyMjQw/NC04NTE5LnBuZw.jpeg" alt="Cover for Meta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-28</td>
+      <td>Car Bomb</td>
+      <td>Meta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72dc7968383ede2a61a64d06df6f25e5.png" alt="Cover for 2 Rotten" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-31</td>
+      <td>Hacktivist</td>
+      <td>2 Rotten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 58</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/08V5teA5XGguZ5y-sXHYeZ8zr6vmyy-3PwzNfi0zj4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcx/Mzg5LTE0OTYxNTkz/MzktOTE4MC5qcGVn.jpeg" alt="Cover for The Future in Whose Eyes?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-02</td>
+      <td>Sikth</td>
+      <td>The Future in Whose Eyes?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae891ee0535dce9b2841401163afc41.png" alt="Cover for The Dusk in Us" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-03</td>
+      <td>Converge</td>
+      <td>The Dusk in Us</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 25</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/nsJd5orX4BPT8Mz-ql4BOV2-dexn4GZ4bGeVKqSkHlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk2/NjU1LTE1MjAwOTA1/ODQtODY0MS5qcGVn.jpeg" alt="Cover for Time Will Die And Love Will Bury It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12</td>
+      <td>Rolo Tomassi</td>
+      <td>Time Will Die And Love Will Bury It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/3vRp4xGr_AuYoEVemEHzM0zvsSv3IPCWEe2rjAXAWNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/MTc5LTE1MjIxOTY3/MzktNjY1MC5qcGVn.jpeg" alt="Cover for Empty Black" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-16</td>
+      <td>Greyhaven</td>
+      <td>Empty Black</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0b078025ef4cf3ee9b69150a027b6b.png" alt="Cover for Beautiful Ruin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-29</td>
+      <td>Converge</td>
+      <td>Beautiful Ruin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 2</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8233d504ce2677e1dbb458e68ec0ac83.png" alt="Cover for A Patient Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-09</td>
+      <td>Cult Leader</td>
+      <td>A Patient Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcdf038fd560f338a8c492368818835a.png" alt="Cover for Songs for the Firing Squad" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>SeeYouSpaceCowboy...</td>
+      <td>Songs for the Firing Squad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 59</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36adb5886e230e682c0f8368dd1c040c.png" alt="Cover for The Devil-Faces of My Old Friends, Beneath Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Heccra</td>
+      <td>The Devil-Faces of My Old Friends, Beneath Me</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 29</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 84</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/GxUGRHsx93DbNRn1QkuK-fWVuALvLQaliI4B9AYEmEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk1/MzkzLTE2ODYwODU2/MzYtNTA4Ni5qcGVn.jpeg" alt="Cover for DEPART" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Origami Angel</td>
+      <td>DEPART</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/lkG3pRe16R8QmMrhzFBG6lEmDk69gwdeuLH-SpWlUCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA0/MDI5LTE1NzE4MjIz/MjQtOTY0MC5wbmc.jpeg" alt="Cover for Mordial" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-27</td>
+      <td>Car Bomb</td>
+      <td>Mordial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/Pu3Q0LP1wH5xuDfdpXoENYJ1prXrMQBGdoGvNkgw8ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM0/OTI1LTE2MjA1Nzc1/NzktNDIxNy5qcGVn.jpeg" alt="Cover for Pestilence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-19</td>
+      <td>Hazing Over</td>
+      <td>Pestilence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/qUwH2atwuckN4u0BEVvLzMJ66DzSlCbIQB1_mvwhEfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc5/NjQwLTE2MzUwMjQz/MDctOTQyMC5qcGVn.jpeg" alt="Cover for radical" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-22</td>
+      <td>Every Time I Die</td>
+      <td>radical</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6edb1ba068bc8f58d2c6505197dc89c3.png" alt="Cover for Where Myth Becomes Memory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-02-04</td>
+      <td>Rolo Tomassi</td>
+      <td>Where Myth Becomes Memory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/QVTAu1P0Vj04rYvTLQRq90gVKvCvaaNDMhLseSzLTUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzgy/NjIyLTE2NjIwNzM3/NTQtMTAzMS5qcGVn.jpeg" alt="Cover for Celebrity Therapist" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-02</td>
+      <td>The Callous Daoboys</td>
+      <td>Celebrity Therapist</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/EqwmY0S0LJROvFFaw_cdhNjgUnz1v8T2AgCrQv6DEuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTc3/MDEtMTM3MDA5MzE1/Mi0xMDQzLmpwZWc.jpeg" alt="Cover for The House Always Wins" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-09</td>
+      <td>Stray from the Path</td>
+      <td>The House Always Wins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 42</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 81</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfadc5feac36de0a0f12254888fd3de5.png" alt="Cover for God Made Me an Animal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-07-07</td>
+      <td>Better Lovers</td>
+      <td>God Made Me an Animal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/627333496a38adcc99bc6748cbaed8c7.png" alt="Cover for Coup de Grâce" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-04-19</td>
+      <td>SeeYouSpaceCowboy...</td>
+      <td>Coup de Grâce</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vein.FM</td>
+      <td>errorzone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sikth</td>
+      <td>The Trees Are Dead And Dried Out Wait for Something Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -124,5 +2009,5 @@ Last updated: <time datetime="2025-10-23T15:14:36.772Z">Thu Oct 23 2025 18:14:36
 - [metal]({{ "/tags/metal" | relative_url }})
 - [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
-- [powerviolence]({{ "/tags/powerviolence" | relative_url }})
 - [djent]({{ "/tags/djent" | relative_url }})
+- [powerviolence]({{ "/tags/powerviolence" | relative_url }})
