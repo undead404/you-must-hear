@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-17T02:37:22.793Z
+date: 2025-11-17T05:45:50.824Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-17T02:37:22.793Z">Mon Nov 17 2025 04:37:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T05:45:50.824Z">Mon Nov 17 2025 07:45:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [real post-hardcore]({{ "tags/real-post-hardcore" | relative_url }}) | <time datetime="2025-11-17T05:45:50.824Z">Mon Nov 17 2025 07:45:50 GMT+0200 (Eastern European Standard Time)</time> |
+| [disco house]({{ "tags/disco-house" | relative_url }}) | <time datetime="2025-11-17T04:58:31.236Z">Mon Nov 17 2025 06:58:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [turkish]({{ "tags/turkish" | relative_url }}) | <time datetime="2025-11-17T02:37:22.793Z">Mon Nov 17 2025 04:37:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie rock]({{ "tags/indie-rock" | relative_url }}) | <time datetime="2025-11-17T01:27:47.617Z">Mon Nov 17 2025 03:27:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic house]({{ "tags/melodic-house" | relative_url }}) | <time datetime="2025-11-17T01:25:47.417Z">Mon Nov 17 2025 03:25:47 GMT+0200 (Eastern European Standard Time)</time> |
@@ -187,7 +189,6 @@ Last updated: <time datetime="2025-11-17T02:37:22.793Z">Mon Nov 17 2025 04:37:22
 | [disco]({{ "tags/disco" | relative_url }}) | <time datetime="2025-11-15T03:27:22.618Z">Sat Nov 15 2025 05:27:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [country blues]({{ "tags/country-blues" | relative_url }}) | <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage rock]({{ "tags/garage-rock" | relative_url }}) | <time datetime="2025-11-15T03:13:22.253Z">Sat Nov 15 2025 05:13:22 GMT+0200 (Eastern European Standard Time)</time> |
-| [disco house]({{ "tags/disco-house" | relative_url }}) | <time datetime="2025-11-15T02:58:21.996Z">Sat Nov 15 2025 04:58:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [choir]({{ "tags/choir" | relative_url }}) | <time datetime="2025-11-15T02:48:21.965Z">Sat Nov 15 2025 04:48:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [chile]({{ "tags/chile" | relative_url }}) | <time datetime="2025-11-15T02:40:22.015Z">Sat Nov 15 2025 04:40:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [neoclassical darkwave]({{ "tags/neoclassical-darkwave" | relative_url }}) | <time datetime="2025-11-15T02:30:22.397Z">Sat Nov 15 2025 04:30:22 GMT+0200 (Eastern European Standard Time)</time> |
@@ -370,7 +371,6 @@ Last updated: <time datetime="2025-11-17T02:37:22.793Z">Mon Nov 17 2025 04:37:22
 | [europe]({{ "tags/europe" | relative_url }}) | <time datetime="2025-11-14T01:44:00.268Z">Fri Nov 14 2025 03:44:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [european]({{ "tags/european" | relative_url }}) | <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [screamo]({{ "tags/screamo" | relative_url }}) | <time datetime="2025-11-14T01:43:12.310Z">Fri Nov 14 2025 03:43:12 GMT+0200 (Eastern European Standard Time)</time> |
-| [real post-hardcore]({{ "tags/real-post-hardcore" | relative_url }}) | <time datetime="2025-11-14T01:42:26.869Z">Fri Nov 14 2025 03:42:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [minimal wave]({{ "tags/minimal-wave" | relative_url }}) | <time datetime="2025-11-14T01:41:59.702Z">Fri Nov 14 2025 03:41:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [field recordings]({{ "tags/field-recordings" | relative_url }}) | <time datetime="2025-11-14T01:41:35.790Z">Fri Nov 14 2025 03:41:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [female rapper]({{ "tags/female-rapper" | relative_url }}) | <time datetime="2025-11-14T01:41:30.654Z">Fri Nov 14 2025 03:41:30 GMT+0200 (Eastern European Standard Time)</time> |
