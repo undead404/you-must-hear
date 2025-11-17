@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:35:23.790Z
+date: 2025-11-16T20:05:36.779Z
 permalink: tags/footwork
 title: footwork
 ---
 
 ## footwork
 
-Last updated: <time datetime="2025-11-15T01:35:23.790Z">Sat Nov 15 2025 03:35:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-16T20:05:36.779Z">Sun Nov 16 2025 22:05:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2758be516443b6ba14f1b5481572ca.png" alt="Cover for Detroit &#x2F; Back Again" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/tgUEO9Y5Dj67DbkxnC2VIY9A8-R9Otl7Tj4Llw1763Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgx/MDkxLTE1ODY0NDUz/OTQtOTM0OC5qcGVn.jpeg" alt="Cover for $KvR3 1" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/R44IOAZWYOnBbVAvnZA6p7XhMa2-2Jx2FEsBa3P0fLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzgz/MS0xMzEzNjE3MTUz/LmpwZWc.jpeg" alt="Cover for VOSTOK PROGRAM" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/R44IOAZWYOnBbVAvnZA6p7XhMa2-2Jx2FEsBa3P0fLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzgz/MS0xMzEzNjE3MTUz/LmpwZWc.jpeg" alt="Cover for PROJECT VANGUARD" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Bangs &amp; Works Vol.1 (A Chicago Footwork Compilation)" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b4d69f537bc182b358fabb6a84aa225.png" alt="Cover for Shades" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/e7QFWbl-Kp0nh9j1eV_Gi0kwniIpGwbzFr6l0SQDsdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTk1/NjAtMTM1ODMzODIw/OS0xNTA2LmpwZWc.jpeg" alt="Cover for still here" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/fUWLOObeXfvThD8-M1JhC9YX_344wEmsi1pQ_WKFKzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDc5/NDEtMTI5OTI1MDM5/NS5qcGVn.jpeg" alt="Cover for #HOTELSEASON" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/m2WuhdBnpz2it2eJ3nWz_T-txn4wz6qwI0Ota3e3v-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQw/MTQtMTI3NjI2ODMx/OC5qcGVn.jpeg" alt="Cover for Hyperdub 10.1" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/460xNsDyi79jfc1hqUytOqhrsz2F9UpHcaz2tpP-3zE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc5/MTgtMTI4MzMzODYx/Ni5qcGVn.jpeg" alt="Cover for 4 The Ghetto" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa7479f93ef357be0f15ca97f584936c.png" alt="Cover for Itz Not Rite" style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +263,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2011-08</td>
@@ -280,7 +280,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6a76af9de434371b0f66fe8b7df91d3.png" alt="Cover for Severant" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +298,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/avlV3G_IhoChG1_CMkDJE7it1Ac8F9OsbuQ4fWHkqZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTYw/NTItMTMyMDg1MjQ0/NC5qcGVn.jpeg" alt="Cover for Do U Really Wanna Fight" style="max-width:120px; height:auto;" />
       </td>
@@ -318,7 +318,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/k9jgjBTs2J--bBuXuPT4RBgLLHzdF2SDGKD548spgGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzA1/NTItMTM0ODQ4MzUx/Ny0yMTIzLmpwZWc.jpeg" alt="Cover for Gonga" style="max-width:120px; height:auto;" />
       </td>
@@ -357,7 +357,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       <td>
         <ul>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 22</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 93</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +380,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b86999fe796c44eab1316105390d6522.png" alt="Cover for Da Mind of Traxman" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +398,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/_PaERAGwEGd20fG6LXfIO570cuxA5NExJnx8H33Wfq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMz/OTQtMTMzOTM4OTk0/NC00OTAxLmpwZWc.jpeg" alt="Cover for Teklife Vol 1: Welcome To The Chi" style="max-width:120px; height:auto;" />
       </td>
@@ -416,7 +416,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2012-09-24</td>
@@ -434,7 +434,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3bf939762c4ca58430c8db55cf4c05.png" alt="Cover for No Love Deep Web" style="max-width:120px; height:auto;" />
       </td>
@@ -448,15 +448,15 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 29</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 38</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 49</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2012-10-22</td>
@@ -476,7 +476,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/MiNlSc2SnhPkUvZQCm7Wx_Gf1la2oG0_xTtH39drf4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ3/NjMtMTM1MTcxODM5/OS0yMzI2LmpwZWc.jpeg" alt="Cover for Jets EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/617629045ab34112860250fcd3bbbbc5.png" alt="Cover for Jets EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-29</td>
       <td>Jets</td>
@@ -493,13 +493,13 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 24</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 25</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/081b249acd530929a7847f020667e451.png" alt="Cover for Beta World Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +538,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/C_L5RPiVzyHvgkt3H31zOUqR6g57ZPSlI2nEcv7jYYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTYy/MzktMTM2MjY3ODg1/Ni0yMjc5LnBuZw.jpeg" alt="Cover for Rollin&#39; EP" style="max-width:120px; height:auto;" />
       </td>
@@ -572,12 +572,12 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 32</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3dae1d5d18c3060b5be7fb6d17e1e8e.png" alt="Cover for Best Night Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -600,8 +600,9 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35079905b362427889556598b1b66820.png" alt="Cover for Gordian" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-26</td>
       <td>Cosmin TRG</td>
@@ -693,7 +694,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 2</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 5</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 57</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 96</li>
         </ul>
@@ -717,7 +718,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b27a2e56e02ff826fa44bc7b54b842.png" alt="Cover for Heartbreaks &amp; Promises" style="max-width:120px; height:auto;" />
       </td>
@@ -738,7 +739,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/-HPCyGqaGbHi5kQTkAgMhyo_Sa1HGS77nJafCpnjoaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDgy/MjctMTQwMDYzNTIy/OC00OTAzLmpwZWc.jpeg" alt="Cover for fantasy fuel" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +780,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2014-09-11</td>
@@ -818,7 +819,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/WrYoB9cyG4T8gUt9lLs6kBMin0-7Qlyt7w93wHBJq6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjQx/OTItMTQ0NzQ4NTkx/My0zNTMwLmpwZWc.jpeg" alt="Cover for Lost Files" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +883,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg" alt="Cover for the powers that b" style="max-width:120px; height:auto;" />
       </td>
@@ -900,10 +901,10 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 55</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
         </ul>
@@ -923,7 +924,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 7</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -949,9 +950,9 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 24</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 27</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 70</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 99</li>
         </ul>
       </td>
@@ -992,7 +993,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 77</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1015,7 +1016,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Pp47UqhJVxMaxoQ1GSqPlpe1yX5w4kzGqSpdNC9QS14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMx/ODAtMTQ2NTM0Njk1/OS0xMDE4LmpwZWc.jpeg" alt="Cover for COLD HEAT VOL. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1037,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/595ad5d06d4dec0399f15e3dd9500ae7.png" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1062,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/vW14rUnd3BdP_vQzN615IUPlBlO1ui9rqenEjL38Mlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDY4/NTItMTQ2Mzc4OTQ4/Ny00MzA4LmpwZWc.jpeg" alt="Cover for Folding Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9df7f85ab0076ac3a51a7064bccc51.png" alt="Cover for Folding Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-20</td>
       <td>Sepalcure</td>
@@ -1076,13 +1077,13 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 33</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 34</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/cuvmig3QhPmDcy45fJsnFPfWMXnszu99u6-2AzbDY3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTMy/NTAtMTQ2MzEzNzU4/MC0zNTUyLmpwZWc.jpeg" alt="Cover for Ritmische Bezinning" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,6 +1095,23 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2016-05</td>
+      <td>DJ Diamond</td>
+      <td>Footwork Or Die</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
         </ul>
       </td>
       <td>
@@ -1118,13 +1136,13 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 68</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 69</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0229f61e83f2f83471dcc3889bd13e90.png" alt="Cover for Relationships" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,7 +1161,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/37cqTV3LoEZbxJ_A7-RkWhLLIvXWCoTX2LuFGr4gYis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njg3/MDItMTQ4NDQ4NTM0/OS0xOTM0LmpwZWc.jpeg" alt="Cover for Dark Lotus - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1180,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0487f4b9d72cbff6405e175800f51cca.png" alt="Cover for Lo-Fi Moda" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1201,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/51T5Rzfr4lkOi_4eL-xEoiAisBn9zXzlUP7hGkDOhTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk3/MjQzLTE1NDQwNzc0/NTctMTI0MS5qcGVn.jpeg" alt="Cover for lifeforce" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,13 +1238,13 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 15</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 84</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/HRrNlY9mkuAcBJNzog50xTql9yrUmt8MyyjMlBGE070/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/MDEwLTE1MDcwNTI5/MDUtMjU0MS5qcGVn.jpeg" alt="Cover for Greenlight" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1262,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/12-Z_y6TDd4rNPlM6ey_LWbMdUCMXikjpLSjJxWiToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIw/NjczLTE2MTQ2ODUx/NTgtMzk2NC5qcGVn.jpeg" alt="Cover for Still Trippin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,12 +1295,12 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 63</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/kGsGpvCD3K_0SjQgnp9kLY9w9D9Rg3kjbrYhou_2tAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU2/ODA0LTE1MjU0NDkx/MzctNDIzMy5qcGVn.jpeg" alt="Cover for Maraschino Mic Drop" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1321,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/X4YQvH8OhkMWQ6qW2AGOAPcQfFF9WM90oOXeA_iyNng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIz/NjQ1LTE1MzA4NDg5/MjEtODA1Ni5qcGVn.jpeg" alt="Cover for I&#39;ll Tell You What!" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1341,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/YVta5oET3_KDGYMoqdhWZYHzoRmfDhSycOHH6TxqNHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcw/ODAxLTE1MzMxMzMz/MjctNzcyMi5qcGVn.jpeg" alt="Cover for Black Noise 2084" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,12 +1358,12 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 48</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/121e055f99ab83f422bb96d9433cc8a3.png" alt="Cover for Collapse EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1379,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 55</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 60</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 63</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 94</li>
         </ul>
       </td>
@@ -1395,7 +1413,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/QVtKxvgXj7BqY2uu82ZJ1upJgQCNcKguVPTthO7NxZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcw/NDQ2LTE1NjkxNzAw/OTMtNTgwOC5qcGVn.jpeg" alt="Cover for Slip B" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1434,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eb10c7e019ddd4b062268151db9b8f4.png" alt="Cover for Blank Fashion Mystical" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1452,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/6TRqz9PCvB9vxOsHiz1ElXh5U--pIsCtVgsTFOgzcSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/ODcxLTE2MDIyNzg3/NjAtMTQxOC5qcGVn.jpeg" alt="Cover for Vapor City Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,7 +1507,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for Earlier Works Bootleg" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,7 +1525,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/QlPfBZGN1i8CaYCWi2B6_lhb67Jx5aaCGPp2d0uPXyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTU5/MDk1LTE2NTA1NTUx/MjEtNjQyNi5wbmc.jpeg" alt="Cover for Burn Up, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1542,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/hfCdHseT_3qi_n1vB6L8CHGPYfvONH1h7ZHk6Y9tJIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/MTMwLTE1OTQxMTY5/MTAtNjE1NC5qcGVn.jpeg" alt="Cover for RePorpoised Phantasies - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,12 +1580,12 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 99</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/NlGDGC_yQgiYN3ktGP-l-TfoOniz-gIoG7QkGaSahe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTAzLTE2MDA1MjAy/NTItNjQ4Mi5wbmc.jpeg" alt="Cover for 2022" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1626,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 45</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 46</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 93</li>
         </ul>
       </td>
@@ -1632,7 +1650,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/x-N_WhJzTTaJf2TrrVFNjOO6vOKohEaxHGEfJNRyc_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk5/MDU3LTE2MjE0NjA1/NDEtNzM5OS5qcGVn.jpeg" alt="Cover for 10 Chambers" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1665,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 2</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1681,7 +1699,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/c9mRr1SeJufdvGGyV7otU87l0tmr6a3iLI2R7F8GDpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTA3/MzQ0LTE3MTk4NDE1/NjgtNTE2MS5qcGVn.jpeg" alt="Cover for CONDENSE" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,7 +1721,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/zmTD-tPqHy_VcrGEEBGmRI0WeRN2ba8d6mDmyxe8Qcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODA3/MjUxLTE2MTU1NjIz/NTktOTk5My5qcGVn.jpeg" alt="Cover for Vexillology" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1758,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/95dl8i_20NJwbO-_EFo0Lhgv6RTvbbRmgpzO-8wXX7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjEx/NzE1LTE2MjcxNTY3/NzItOTAxNS5qcGVn.jpeg" alt="Cover for Signals In My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1758,7 +1776,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/yPaxgdNUOSc4QwIUYP-tMuoeOgudaqnG1XJ4s9LZG4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkw/NTYxLTE2NDI1MjY1/ODktMTQyNi5qcGVn.jpeg" alt="Cover for medicalmechanica" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1795,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2021-12-03</td>
@@ -1816,16 +1834,16 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 25</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 64</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 67</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 68</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 82</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/eEtOcu3D4Nf0iBRf9JXidMbpCUErj-fulBGMJxNAZjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU3/NDQ0LTE2ODA3MDEz/MzEtODQzNy5qcGVn.jpeg" alt="Cover for vertingale (leaving the nest)" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1888,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f41f4a852158a464e79703b0a57d94a.png" alt="Cover for Flood City Trax" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,7 +1906,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1224c26eeaea97f80ae3020870f3a83.png" alt="Cover for Dawg Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,13 +1961,13 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 6</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78b439e5850a10d4750c0094c882028d.png" alt="Cover for BEEF" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,32 +1988,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aff04612db35b502044334cd4a8350d9.png" alt="Cover for DR. GRABBA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-10-31</td>
-      <td>DJ BlackPower</td>
-      <td>DR. GRABBA</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 29</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/5vqzsWFKcCYd_BuDX9hGyGyEES1ihvs7DgzSgTF0xGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY5/NjgwLTE0OTQ0MjYz/MDAtNzk4My5qcGVn.jpeg" alt="Cover for Beyond echo of time" style="max-width:120px; height:auto;" />
       </td>
@@ -2037,7 +2030,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2056,7 +2049,7 @@ Footwork is a fast-paced electronic music genre originating from Chicago&#39;s d
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/716b67c047de3652939d44ced036d753.png" alt="Cover for ep" style="max-width:120px; height:auto;" />
       </td>
