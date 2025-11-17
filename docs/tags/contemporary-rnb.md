@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T10:11:41.443Z
+date: 2025-11-17T16:48:37.941Z
 permalink: tags/contemporary-rnb
 title: contemporary rnb
 ---
 
 ## contemporary rnb
 
-Last updated: <time datetime="2025-11-14T10:11:41.443Z">Fri Nov 14 2025 12:11:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T16:48:37.941Z">Mon Nov 17 2025 18:48:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7ffe64829d12551ba606bd7d66d5fb1.png" alt="Cover for Lionel Richie" style="max-width:120px; height:auto;" />
       </td>
@@ -44,7 +44,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 72</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 94</li>
         </ul>
       </td>
@@ -68,7 +68,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/WJ9FbqJgqoANAJr1aw5uwfZ8N3QtuqxRFXD7MNTDcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA2/MzMtMTY5MDAyNTUz/Mi0xMTkzLmpwZWc.jpeg" alt="Cover for Everything Changes (expanded edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -85,12 +85,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 37</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 66</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/i5FIKVTFYkHyQMltx0k1DQaveTAJWtKxhkxQWBe20FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDUy/NDMtMTI2NjQ0ODgy/NS5qcGVn.jpeg" alt="Cover for Good Smell, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -103,39 +103,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 48</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/OwPq0XBNtZutyTdouRszdG_nz4f9aDJhry8BXl31chg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEw/MTMtMTM0MjA5NzI1/NS03MDUwLmpwZWc.jpeg" alt="Cover for Nobody Else (Expanded Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-02-21</td>
-      <td>Take That</td>
-      <td>Nobody Else (Expanded Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 72</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 78</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 81</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/daad0112e3c06a8d54c801594de34ce6.png" alt="Cover for Raio X" style="max-width:120px; height:auto;" />
       </td>
@@ -157,7 +130,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d24654359f7ea138e5239873cf280fa.png" alt="Cover for relationshit" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +149,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/oNwcxMPt1oxOwhHVJbzZ8u76P0107oDlu41dSEzsMsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTUx/NS0xNTIyMzk3Njkz/LTQxOTEuanBlZw.jpeg" alt="Cover for S Club" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +169,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5be5cb7b4bf18571f8485d729c6ca365.png" alt="Cover for El Dorado" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +196,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/3EirCa2k8yrlCOeYqCYDjxNttBx3J-3EZcGIjG7YyDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE4/MTk5LTE1MzY4NDU4/MzEtMTA3OC5qcGVn.jpeg" alt="Cover for CAUTION" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +215,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ZYP67Py_Uk4WjiSSjRYbGbjzcJa8pIFHD6TZQLfVTUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDM3/NzMtMTM2OTU4NjMz/OS0xNDc5LmpwZWc.jpeg" alt="Cover for &quot;7&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +235,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/YTTh8uLWTm1jeKObKJk-u3AOjgAHJ5Q46OGOfB5M7hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/NDItMTE5MDQxMTk4/MC5qcGVn.jpeg" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +257,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db0ff2d81604843e774a99af8180397f.png" alt="Cover for Listen Without Prejudice (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -306,13 +279,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 78</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 83</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 81</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8867343c5865b7d7008006aa6e78fa1.png" alt="Cover for Se Eu Não Te Amasse Tanto Assim" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +323,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2002-11-25</td>
@@ -386,13 +359,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 45</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 46</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ad68309f7ee2e3f8e2e9cdeb15fa3f.png" alt="Cover for Good Girl Gone Bad: Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -412,7 +385,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/217570b0ae3d4702890d0907808c84f2.png" alt="Cover for The Dutchess (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -434,13 +407,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 55</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 60</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/436221378d1ffb4482327f00b7a40a82.png" alt="Cover for Si Yo Fuera Un Chico" style="max-width:120px; height:auto;" />
       </td>
@@ -461,7 +434,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg" alt="Cover for Life After Death (2014 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -481,9 +454,9 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 21</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 24</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 26</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 29</li>
         </ul>
       </td>
@@ -531,7 +504,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4055bae171c93fa4836623b731d1c681.png" alt="Cover for Take Care (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -544,11 +517,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/sPdB8YznIPGtz_o4awPbaoKvC7qDo2Y7qbabr3pOcTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzI1/NjMtMTM1MTAwODIz/NS02NTM4LmpwZWc.jpeg" alt="Cover for Write Me Back (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +545,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553678d27570452839aec0fd0cdadd63.png" alt="Cover for channel ORANGE" style="max-width:120px; height:auto;" />
       </td>
@@ -584,16 +558,16 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 2</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 15</li>
             <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 71</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/430b9ff0776d46e2b6dce50752368c75.png" alt="Cover for Vertical XL" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +589,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd80b8f9d5ee09c16f1063e27f00699.png" alt="Cover for The Electric Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -631,14 +605,14 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 14</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 40</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 78</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 24</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dd5a92ad9e6da9516e8ec610a73bd3d.png" alt="Cover for LM5 (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -653,12 +627,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 77</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 82</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b092b021c12d6570bc828791bece124c.png" alt="Cover for Phoenix (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -675,8 +649,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 71</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 81</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 72</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -700,13 +674,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 31</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 32</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbc39ac854b7331c90cea44466751d5e.png" alt="Cover for After" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +723,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/xPcd24YGbP4N0h8HalqUAYYB-kdMsQllRxMnYgrJ9BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTA3/MTgtMTQ2OTYzMjIy/OS04NTQ5LmpwZWc.jpeg" alt="Cover for Warm On a Cold Night (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -774,15 +748,15 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 9</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 12</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 52</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 62</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/qTaH71yCyJgwKwzdRuU6Dntl170SSkMOrUtWemYhHZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjEy/MTItMTQ3NTg5NjI0/NS03NDk0LmpwZWc.jpeg" alt="Cover for Press It - The 1st Album" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +778,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/850f447a25866efea0ac9c41f170f873.png" alt="Cover for Genesis" style="max-width:120px; height:auto;" />
       </td>
@@ -813,19 +787,16 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>Genesis</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/aZ5j3v9GJhZO4qeSadqbWsl6Ubyg0SsymOAZ63oTzEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzc1/MTAtMTQ1OTA5ODI0/NS02NjkzLmpwZWc.jpeg" alt="Cover for Mind Of Mine (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +814,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f99650b0478d05f79ac8958bcf37fa.png" alt="Cover for The Sun&#39;s Tirade" style="max-width:120px; height:auto;" />
       </td>
@@ -860,18 +831,18 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 70</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/hkiLCymgZ5bWU_vyaZ7Ffy1LBBoIHeTLVIqa91DFJJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIw/OTA1LTE2NjU4MzYx/NjgtNTM5Ny5qcGVn.jpeg" alt="Cover for Funk Wav Bounces Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/698662ec36e0a324d4be8f7fac7247c4.png" alt="Cover for Funk Wav Bounces Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Calvin Harris</td>
@@ -886,7 +857,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 36</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 38</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 89</li>
         </ul>
       </td>
@@ -918,7 +889,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc789312a0647551deeab14fc32aecdd.png" alt="Cover for Tears in the Club" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +912,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a59ed3a9c71cb5113325e2026889e4a.png" alt="Cover for DAMN." style="max-width:120px; height:auto;" />
       </td>
@@ -954,16 +925,14 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 45</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 22</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 81</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 90</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb77e3b22f24aac7ea7369de32cd216c.png" alt="Cover for RINA" style="max-width:120px; height:auto;" />
       </td>
@@ -979,12 +948,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 93</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/WUpmiC8VBnKc2iLpaLftEmK8GpgLGSa88Odx1UrHD1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/NzEyLTE1MTAyNzkx/OTgtODk3Ni5qcGVn.jpeg" alt="Cover for Reputation" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +968,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 20</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 84</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 100</li>
         </ul>
@@ -1027,7 +996,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 40</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 42</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 92</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 93</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 99</li>
@@ -1035,7 +1004,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf7ef5245ed3a19598eac508ba0690d.png" alt="Cover for Camila" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,13 +1018,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 32</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 34</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c16a024aea4839e19c23dd9678f1aaae.png" alt="Cover for Valentine (What&#39;s It Gonna Be)" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1045,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5819847ff26ff9c8f90beb657b9ad49e.png" alt="Cover for Feng Suave" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,13 +1058,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 36</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 36</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 35</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf56b9acc7cdf77704bd0a9dbb602c65.png" alt="Cover for Isolation" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,7 +1082,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfd047b47d9d585b33422ce62b0a50bc.png" alt="Cover for Dirty Computer" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,8 +1097,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 8</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 11</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 12</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1151,12 +1120,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 48</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/DnwGMB3Zi6N6dtEQ1fJQB_ae_ISUw9a1QifM3DbL6oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA1/NzkyLTE2OTIwMjg2/MTktNDcyNi5qcGVn.jpeg" alt="Cover for SECURE" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1144,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1196,12 +1165,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 74</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/047e1e8648cfc82f437c40fa232979c2.png" alt="Cover for Velvet" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,7 +1189,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/eeQ10fb7CKKQGGyhflv0sN6U69tSFzLmQUlw8LpcTyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM3/NjA0LTE2NDk3MDgw/NTItODU5MC5qcGVn.jpeg" alt="Cover for RBB" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1212,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db4bd793ab45369b54cfde2a5a362f8.png" alt="Cover for Summer Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1231,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9241b022aa2774956c42b0e50c1b09.png" alt="Cover for ROADRUNNER: NEW LIGHT, NEW MACHINE" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,16 +1244,16 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 62</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8c6b5ea4a34c222a9a8069687c12e9.png" alt="Cover for Amala" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1270,8 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 38</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 3</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1324,7 +1294,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adfe9f385693f663b9b21f85d65ace75.png" alt="Cover for U Was At The Club (Bottoms Up)" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,14 +1307,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 21</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 28</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f2a664c20dacaf890b604e62aa136d.png" alt="Cover for Beauty Marks" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1334,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f1ef53764a17485012bf817441ecb8.png" alt="Cover for No.6 Collaborations Project" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1351,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/WIjnhsCvNbVcawOfytgzoluu7Iel8u4YVb0zd4HoFv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODky/MzgxLTE1OTk2OTU0/MDAtNjUzMC5qcGVn.jpeg" alt="Cover for The 5th Mini Album &#39;CANVAS&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1369,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92d109875aeb5db918d45964612a5bad.png" alt="Cover for Pony" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,13 +1382,31 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 45</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 47</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40dbc8250bb1aad0266040b31b3634f0.png" alt="Cover for 3.15.20" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-22</td>
+      <td>Childish Gambino</td>
+      <td>3.15.20</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9475bf032191717ce67b5573d06f4b6d.png" alt="Cover for Ungodly Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1423,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/241d408ff4e716b436062e328f591447.png" alt="Cover for I Used To Know Her - Part 2 - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1479,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/6bV24U-T3F9GEasY92ZOKmrYhQ77Q5C5IxFFlhs4_ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY4/OTI0LTE2MTA4ODE4/MzQtNjk0NC5wbmc.jpeg" alt="Cover for The Good Times and The Bad Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1537,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 16</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 18</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 80</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 100</li>
         </ul>
@@ -1576,13 +1562,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 65</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 83</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 93</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/b6OU0o3ph_a3LALWV4YLRgt3M_kIHcREtPsgnKCbGag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/Njc4LTE2MTk5MzMx/MTktNTE2NC5qcGVn.jpeg" alt="Cover for Sueños de Dalí" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1586,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b366b2bc01cdaf0d6f57fb971377a93f.png" alt="Cover for Be Right Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,12 +1599,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 1</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ebd8b6f8ac6766fb26303245a265a2e.png" alt="Cover for Happier Than Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,16 +1620,16 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 31</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 34</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 63</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 99</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/5sLsNj-BLJZy7USjNv56Pdka1WfEiw1Bu57mSLorscI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg5/MzU0LTE2MzA2MDU3/OTAtOTUxMS5qcGVn.jpeg" alt="Cover for besitos, cuídate" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,14 +1642,14 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 5</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 14</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 4</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 16</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b9f8fc2e5b773cf59cd02e70ad9a5ba.png" alt="Cover for Swan Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,7 +1694,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00a23b105c2ecd161ead780fa7e4969a.png" alt="Cover for Rave &amp; Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1713,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/eCVSLS5JsD0KgA4n2WGuASiWA5eJYjO4KnY3lDU5p1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM2/MzktMTY1NjcwMTEx/NC02NjI0LmpwZWc.jpeg" alt="Cover for Tú Crees En Mí?" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,13 +1729,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 41</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 40</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/70a32ERUwX5zTszx_ZSwnzQbbDsrU9iFtALxzAGmXC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/Nzc5LTE2NTU3MTY5/ODEtMjUxNy5qcGVn.jpeg" alt="Cover for Renaissance" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,14 +1751,14 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 62</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 88</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 96</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 63</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0212108b4e0ab55d86318a759de128fb.png" alt="Cover for fallback" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1779,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34f0c7e6a54568997c52ab03c4952b25.png" alt="Cover for Legend" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,13 +1819,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 85</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 88</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 97</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 99</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46db61628af99705a9613e7ffccacde7.png" alt="Cover for ColoRise" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,13 +1843,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 30</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1030c109fda7817de00e581aeb0b5f.png" alt="Cover for 4 (The Pink Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,14 +1868,14 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 71</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 76</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 72</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 77</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/OWTGjINyEZTJDx6bO5ZH053plgVkBBZeFf91pztN97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/ODY1LTE2NzU1MjI4/MDItNzgxNy5qcGVn.jpeg" alt="Cover for My 21st Century Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,15 +1890,15 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 6</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 22</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5556c40eca4532276b6a06b551431082.png" alt="Cover for THE BOYZ 8TH MINI ALBUM [BE AWAKE]" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1919,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8846161e83464200d4271dd46493e698.png" alt="Cover for Sunrise Bang Ur Head Against Tha Wall" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,13 +1935,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 36</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/bGlv6yZezeS_bN0YA-DHFtqs-GX2xKKcVWGk3KTCmys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDA1/MjE2LTE2ODY5NzEx/NDgtMzc0Mi5qcGVn.jpeg" alt="Cover for On Top of the Covers" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,12 +1956,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e42629aa6c2694a9b57241edea410a53.png" alt="Cover for Get Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,7 +1981,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6ae145428bde533606e5cf89912c0fd.png" alt="Cover for AR" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,10 +1994,10 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 10</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 23</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 54</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 87</li>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2035,7 +2021,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg" alt="Cover for orquídeas" style="max-width:120px; height:auto;" />
       </td>
@@ -2052,15 +2038,15 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 20</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 75</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 76</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 82</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/381288c54efdd7a23c48f642e0bf8e99.png" alt="Cover for Djesse Vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,7 +2068,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d1923b22731e0eee921a4c7de3a3d88.png" alt="Cover for eternal sunshine" style="max-width:120px; height:auto;" />
       </td>
@@ -2097,12 +2083,13 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 6</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c35d7dd5788970b10e48cefdcba7437.png" alt="Cover for EL SUR" style="max-width:120px; height:auto;" />
       </td>
@@ -2119,12 +2106,12 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 30</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2143,7 +2130,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2160,7 +2147,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65b7b40e3452be431d45b4ba746cb9e6.png" alt="Cover for INCENSE" style="max-width:120px; height:auto;" />
       </td>
@@ -2199,7 +2186,7 @@ Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T00:15:02.702Z
+date: 2025-11-17T16:30:51.448Z
 permalink: tags/brass
 title: brass
 ---
 
 ## brass
 
-Last updated: <time datetime="2025-11-05T00:15:02.702Z">Wed Nov 05 2025 02:15:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T16:30:51.448Z">Mon Nov 17 2025 18:30:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/RY-o0fe0EIGuwtHQoN6s30w0h8Pw3Jw4-yMKlwS8FFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzk5/NzQtMTQzMjMxMDA0/Mi01MTM3LmpwZWc.jpeg" alt="Cover for Ultra-Lounge, Vol. 2: Mambo Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +149,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Sound Of Dixieland (Jazz Club)" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/WobptTzx5kAzrMPm27HjBG4kdMXV2BLdxKhBZmoLbiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA1/NC0xMzAxNjkxODMx/LmpwZWc.jpeg" alt="Cover for Entertainer" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/fEDt-ilGnw4RCvWsSMjn1RgZlx0LNteth_D560dLAhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzk0/NDAtMTcxMjgzMzk2/Ni0zNDUzLmpwZWc.jpeg" alt="Cover for Masterpieces" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/aDbCGxF5uWo3p_qx-QWddmSnrs8kVVnq4J20otHAMGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUx/MTI3LTE1MjkzMzkx/NDEtMzE4OS5qcGVn.jpeg" alt="Cover for VIVALDI: Wind and Brass Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +263,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>1989</td>
@@ -280,7 +280,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/GC9ooJsrPMyMOSefRIbtlAHtU-DTFNhLsDSVzzaHZoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODY3/NDctMTQwMDUyNTk1/NS01NTEyLmpwZWc.jpeg" alt="Cover for American Horn Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +301,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/3PzmZFuUgo0qX0D-20-WWRorqwHfA0oghjVqFcph0Wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzAy/NjgtMTYwNTk2NzY2/Mi0yNzUwLmpwZWc.jpeg" alt="Cover for Bluesiana II" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +338,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/3MKFZURIFtUYrPLUCOYUeQ9LhHSdVv4LVeqdxfa4aus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY4/MjktMTYwMDQ2MzQz/MC03MDk3LmpwZWc.jpeg" alt="Cover for A Bach Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>1995</td>
@@ -413,7 +413,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/7y9rBUslJnETH9G225Y0bx6Nngv4SMFfP3B5TCBqxcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTMz/NDUtMTQwMjE3NjIx/OS02NzYxLmpwZWc.jpeg" alt="Cover for Carlo Jones &amp; The Surinam Kaseko Troubadours" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Al5zwFtssSYiZFPdpfouNA6OUuzNLpvmZXy05oV3L78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTIz/NDAtMTUzMzM5NjE5/NC0yNTA3LmpwZWc.jpeg" alt="Cover for Classic Brass" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +451,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/dC_ooZsyXM9x5NF01q7D3wEL4Olv1bHqI_kHGamJt28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY5/ODI1LTE1OTM4NzE0/NjgtNDI2NC5qcGVn.jpeg" alt="Cover for Gabrieli in Venice" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +469,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/BhJaxMIMbqg7h5qX2QPjM4PjZasCp25Oeqxwnrnik9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIz/MTkyLTE1MjY3NDk4/MzYtMzI5Mi5qcGVn.jpeg" alt="Cover for Fireworks" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +548,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/qlLroumgxqigJAAjji2Ztwb4h8TARFbvz9l1JEXxLn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjY0/OTctMTU0MjA3MTQ0/Mi02MDQzLmpwZWc.jpeg" alt="Cover for Pilatus" style="max-width:120px; height:auto;" />
       </td>
@@ -566,7 +566,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/WKcoWhHiPtD0T8kSePGS4TmvBnEqEWkMT_Hjo_6zIjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/MTE3LTE0OTc0MzAx/MjktNDgwMS5qcGVn.jpeg" alt="Cover for Fine Arts Brass Play baroque" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +585,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/ITv8gUXkBy8eptJBxTp3n_SBe3v8BIWiHIEjiHzjPig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc3/MTAxLTE1OTM5MTg1/NzQtNjcyMS5qcGVn.jpeg" alt="Cover for All American" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +640,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/mXUCsVQfXBNb0ac5vr1eaoq4C-kOQ1P3_Qh6i9N1b3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA2/OC0xNDYxNzA2Nzgz/LTQ4NzcuanBlZw.jpeg" alt="Cover for No Place Like Home: Live in New Orleans" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +658,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/MvtXoil169vbrX_6V6kBtyZe3qQTVH-JoziUtyMpiuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTIy/MTMtMTQ2NzE0OTA0/Ni00NTU5LmpwZWc.jpeg" alt="Cover for Polished Brass" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +713,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003</td>
@@ -779,28 +779,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/s77do5Fmi7fWct_zcL4fyzSxy_sFfWy80Z9csWOEkC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcx/NjQtMTMwNDIzNDQ0/Ni5qcGVn.jpeg" alt="Cover for Best of Vol.2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>JUANITOS</td>
-      <td>Best of Vol.2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/yBJM1T61vO8HOY9YOgus0LKZC2VzGA-06YjLFGIHHQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzkx/ODAtMTM1NDUzNjkz/Ni0zNTc1LmpwZWc.jpeg" alt="Cover for Flatfoot Sharpsuit" style="max-width:120px; height:auto;" />
       </td>
@@ -841,7 +820,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>2003-09-08</td>
@@ -857,7 +836,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/t1zY-5p6ClVaPJ0F1iKL0SEcNnONrRQUbcMOa2N6y9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY1/NzgwLTE1MjU2MzE1/ODgtMjEwNy5qcGVn.jpeg" alt="Cover for Best Of Blechschaden Live!" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +876,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/bttiVu6eUwqsAKj7dEeUyz5Iy7yhcS5lbAweB3O0N0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODE3/MTYtMTQzNTU2NzI5/NS04NjUzLmpwZWc.jpeg" alt="Cover for Ultimate Rebirth Brass Band" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14c85e9b1b8d71bb0425d74854ae43bd.png" alt="Cover for Ultimate Rebirth Brass Band" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Rebirth Brass Band</td>
@@ -914,7 +893,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/j2t8HUIbyIqP9QwJE-_n8h2O_CM3JIoZX-Dbxe1LRNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQ2/ODEtMTU4NTgyNTY2/NC0zNjkzLmpwZWc.jpeg" alt="Cover for ghost circus" style="max-width:120px; height:auto;" />
       </td>
@@ -970,12 +949,12 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 68</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Rwfi5m444XxKk7mv9mHGYHHLqT-ieaFmH10u-spVZ1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEy/NTYtMTU3OTc1ODE1/NS0zODEzLmpwZWc.jpeg" alt="Cover for Green" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1022,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/S-YoyKyNBjUzdLf45ty6zvz-oFZKbH2l2y7_fi3peUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcy/NjItMTM0NDg3MTA3/NC0zNDQyLmpwZWc.jpeg" alt="Cover for Decade Of Perdition" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,6 +1047,26 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
         <ul>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 49</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edcf7c620a2140bbae202d7e4eefa260.png" alt="Cover for The Budos Band" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-29</td>
+      <td>The Budos Band</td>
+      <td>The Budos Band</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 9</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1108,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9145980d7cd4bd9940b4aa87ab48094.png" alt="Cover for Hitch a Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1129,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/m2YdHQ6cqFSbn9bDV9prrYUHGuiQOCnlxSU5eO_GGUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEy/MDMyLTE1NTU2MDUy/NDktMTIxNS5qcGVn.jpeg" alt="Cover for I&#39;ll Be Glad When You&#39;re Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,7 +1227,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 73</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1270,7 +1269,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/KzWXDyVnk-ja-BXQSn4ToJ_pKxmHisA3UPZAkjDGidg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjA5/ODctMTM0NTczMDA1/My04NzgxLmpwZWc.jpeg" alt="Cover for De Flowfabriek" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1289,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/55tJDHwHliGrJuwaWAQZA-vpYs95P0bPXPdEeCud1ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTA2/NjYtMTQxMTMyNDUy/My01OTg3LmpwZWc.jpeg" alt="Cover for Magnificent Beast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5577b2cbaee64a4890e8456cab7c17ba.png" alt="Cover for Magnificent Beast" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>MarchFourth Marching Band</td>
@@ -1330,7 +1329,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2012-04-27</td>
@@ -1380,7 +1379,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_8GiGEbX-ToqmQNMzqnI27XNcAA8JpJ_LYK8oW5iQvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDk4/MDgtMTQ2MTA2NTQ1/Mi00MjIyLmpwZWc.jpeg" alt="Cover for Move Your Things" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,7 +1397,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2013-04-23</td>
@@ -1462,10 +1461,10 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 72</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 92</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 92</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 93</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 94</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 96</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 99</li>
         </ul>
       </td>
@@ -1491,7 +1490,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/1piT0zRdAc2LnA-0-1nUo14SA8QN_xAcircg3OAiZgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTM3/MDktMTQ2MDg3NTYy/MC0xODc3LmpwZWc.jpeg" alt="Cover for Mary Jane &#x2F; The Horseman - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e66181ce6f463d8fd8a7ba6cf5e7135.png" alt="Cover for Mary Jane &#x2F; The Horseman - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03</td>
       <td>Breakdown Brass</td>
@@ -1506,7 +1505,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 71</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1532,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/HHFjJKHB3w7v7wPqf2CidkRxNxyp7tMKdHH5-VkrUkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjky/OTgwLTE2NDU3NDQ5/MjMtODY3Ni5qcGVn.jpeg" alt="Cover for No. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,9 +1551,9 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/BH1yQU98jn4ycdyJhHAZcA9KW2eIs00S37e6MFshr7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgw/NTM1LTE1MDAzMDkw/MDEtMjc2NS5qcGVn.jpeg" alt="Cover for Totems" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4f9cd2126f09449a906a49beaef933.png" alt="Cover for Totems" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-20</td>
       <td>Renegade Brass Band</td>
@@ -1573,7 +1572,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/tsGDpPm_-jLDpMWqImcrjgDEoXv2tUK6IhOWsXz_pYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/MzMzLTE2MTAwNzg1/MTMtMjE5MS5qcGVn.jpeg" alt="Cover for Onyx Noir: Jazz Works for Brass Quintet" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1591,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cbff6b20f9e7fa090dd7d2198a0b309.png" alt="Cover for Brass Against III" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,7 +1608,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59c72d231ed7ae0d3ccadbc2126282ce.png" alt="Cover for Brass Against II" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,7 +1625,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b814a31f765342bbb542fecece122c.png" alt="Cover for Brass Against" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1684,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/NzMb1Tavvv1nQFGScCFFlAFM_CjE5BeVbqvKLlW993Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAx/NjE1LTE1NDgwODI4/ODQtNDI0My5qcGVn.jpeg" alt="Cover for Monmouth - Next Episode - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92ebd191451977d36dc3aee439338959.png" alt="Cover for Monmouth - Next Episode - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-01</td>
       <td>Breakdown Brass</td>
@@ -1699,7 +1698,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 88</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1775,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1799,8 +1798,9 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16e1b80c5e1144b7bb940bc031a82909.png" alt="Cover for The Last Voyage" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Saad Hebboul</td>
@@ -1826,7 +1826,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -1844,7 +1844,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1890,7 +1890,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1911,7 +1911,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1928,7 +1928,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1945,7 +1945,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>

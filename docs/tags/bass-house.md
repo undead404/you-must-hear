@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T18:18:42.363Z
+date: 2025-11-17T13:26:53.284Z
 permalink: tags/bass-house
 title: bass house
 ---
 
 ## bass house
 
-Last updated: <time datetime="2025-11-10T18:18:42.363Z">Mon Nov 10 2025 20:18:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T13:26:53.284Z">Mon Nov 17 2025 15:26:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Resurrection X" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/BZ7A_TaHARsUVTb9QtV6qIRn7CiHBunk9vh31fpzEWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTAz/MTUtMTI0MzQ4OTUy/OC5qcGVn.jpeg" alt="Cover for Loaded" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/o5dmx87lR10JmuVhRwglP1215BNhuuwfdo7fGhngBcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE1/OTYtMTI1MjEwNzk4/OS5qcGVn.jpeg" alt="Cover for Need Some1 (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -85,13 +85,13 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 5</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 34</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 8</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/rs8_dw1SagIOqivREIZCbzjBbRZbt8kNo9n2KX9D-5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDA1/MTItMTI4NTA3ODky/NS5qcGVn.jpeg" alt="Cover for howsla" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/rs8_dw1SagIOqivREIZCbzjBbRZbt8kNo9n2KX9D-5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDA1/MTItMTI4NTA3ODky/NS5qcGVn.jpeg" alt="Cover for AGEN WIDA" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/kAlKpjIkK8Df3z55hY28BJ2Q5pyP3QPkK6y5n-qUW1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE5/MTUwLTE1NTAxNjg5/MTgtNzc1MC5qcGVn.jpeg" alt="Cover for Lose My Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceb2f05583a3b5ed4d2dbb3cce423ab5.png" alt="Cover for mau5ville: Level 2" style="max-width:120px; height:auto;" />
       </td>
@@ -162,11 +162,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/johS_niOq5VVmaVmd_Qhd1Gu_9zZs9LvSJlndpnA5Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY1/NjYtMTI0MDA3ODI2/Ny5qcGVn.jpeg" alt="Cover for Navigator" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +185,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/-Qu3Nd1ChVt_0aHbfejozdYeMoceGH8Ucqd2zF8F-N0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU5/MjQ5LTE1MDcyMjI3/ODMtNDUyNS5qcGVn.jpeg" alt="Cover for Heaven To Me (feat. Alex Clare)" style="max-width:120px; height:auto;" />
       </td>
@@ -202,9 +203,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/Fuw89Oe_JubpZvLnWfxv29IAhU5SBPJPeKE9n6VMk0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODQx/MzEtMTQwMjU2NjMz/MS04MDk3LmpwZWc.jpeg" alt="Cover for Bitch Of The Year" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/820f1236be649915aa619c18a15e2eb6.png" alt="Cover for Bitch Of The Year" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-11</td>
       <td>Krewella</td>
@@ -221,7 +222,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/InFVS_xmBPN3jig8ofCZmjcS31F4cakoLc5p7QPnnm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU3/MzgxLTE1NDkwNTAw/MTEtMzk2OS5qcGVn.jpeg" alt="Cover for mau5ville: Level 1" style="max-width:120px; height:auto;" />
       </td>
@@ -239,15 +240,15 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 21</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 66</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 83</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 27</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/yKQ6h7TjaQ9W9HVbaoDOv8YypXTnTCYNeU2t5P_Rp1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDc3/MjUtMTM4NzQ4MTAy/OC02NTk1LmpwZWc.jpeg" alt="Cover for Death Asked A Question" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +270,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/Td6FUY40RK-Rug-N0dvu098SFRBPKi0jMfVReiOwPbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTYy/MDMtMTM3NDUxNTQ3/Mi01NTMyLmpwZWc.jpeg" alt="Cover for Let&#39;s Get Ill" style="max-width:120px; height:auto;" />
       </td>
@@ -287,9 +288,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/bF78OKX-UeAvmjweflR931G-80bao2Yxe7ob8sgO8no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjE0/NjktMTY2MDE4NTA4/Ni01NzA4LmpwZWc.jpeg" alt="Cover for The Mystifying Oracle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf461fc54203ce1177c67a4260023ae.png" alt="Cover for The Mystifying Oracle" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Ghastly</td>
@@ -305,7 +306,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/bDAA6_HvG_7ifp8Jw6caTlKK2FNosT_7QRFX4Wr3NxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ5/OTM5LTE1NjY4NDEy/NjctMjA5OS5qcGVn.jpeg" alt="Cover for Right Here" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +324,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/qymF1GG5RiUiYMyfmrzjyZ5r75OEW5ubf-XsU71wJN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTE4/NTgtMTQwMDYwNzIz/Mi0yNjgwLmpwZWc.jpeg" alt="Cover for Good 2 Go" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +342,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xjSZhzM54BvMCZTlAUmgClX2dt1LdxfaZuno8_PDdrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjQx/MTAtMTQwMzcwMTkw/NS01MjE2LmpwZWc.jpeg" alt="Cover for One Kiss (Jauz Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -359,7 +360,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/BFUjZkyvg1ZPotgDQW76wLUpBVcKgTChiFzjHq5IHmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODI2/NDUtMTQzNTU4NjEy/NS0zODA4LmpwZWc.jpeg" alt="Cover for Brace Yourself - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +378,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/xwM5JRSb8e5ko5hxkeO7tKOFbxaRmjbOZkXCOVbRZEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDc2/NjUtMTQ0MjkxNTQ1/MS05NTc2LmpwZWc.jpeg" alt="Cover for In The Zone" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +396,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/xwM5JRSb8e5ko5hxkeO7tKOFbxaRmjbOZkXCOVbRZEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDc2/NjUtMTQ0MjkxNTQ1/MS05NTc2LmpwZWc.jpeg" alt="Cover for Super Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +414,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/xwM5JRSb8e5ko5hxkeO7tKOFbxaRmjbOZkXCOVbRZEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDc2/NjUtMTQ0MjkxNTQ1/MS05NTc2LmpwZWc.jpeg" alt="Cover for Alpha" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +433,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/NhDYNhAHalyCOnIQAxCp-YvU8tGQ4yZeQHmvAOleeqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTI1/NzYtMTQ0NzI1MTY2/Ni05MTc4LmpwZWc.jpeg" alt="Cover for Walk Thru Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +451,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/wlDfK7NddiavnnG8KRTYtpM3LElWLWxMhRf0IvAdZpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTYw/NzQtMTQ0ODk0MTEy/OS00OTcxLmpwZWc.jpeg" alt="Cover for Jvst Friends, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -463,12 +464,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 78</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/PrYaBxxKQakCMzyEgzo80OeE1Bn32PsYF7G-dZFsznE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA1/MjMtMTQ3NzA1NTE0/OS0zNjQyLmpwZWc.jpeg" alt="Cover for My People EP" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +487,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/R3JOoIpmPFUbD_vIDC5DHy6f0zZhSzsT4j7jRqqBzz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDE2/NzctMTQ1MzI0NTI4/OC05Mzc0LmpwZWc.jpeg" alt="Cover for Levitate" style="max-width:120px; height:auto;" />
       </td>
@@ -504,9 +505,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/TQStBgh9o_MPrVIXQqWpocuGR6lZLixviptggfo1mZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODEw/NTMtMTUxMjU3Njcw/OC04MjcyLmpwZWc.jpeg" alt="Cover for Mau5ville: Level 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8620f9c2934e678705610424a02cdb6a.png" alt="Cover for Mau5ville: Level 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-11</td>
       <td>Getter</td>
@@ -525,7 +526,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/8Auwysul0k2wsTcIS6z2igNiG6vPlzVAcGx_OAcuyQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODky/NjItMTQ3MDg1ODkz/NC0xMTUxLmpwZWc.jpeg" alt="Cover for Backup" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +544,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/trAWaNAxt79alXH7tDqk88WS7P7eicIJX-P0ljJkDks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODYz/MzctMTQ3MjgwMDc1/NS0xMjQxLmpwZWc.jpeg" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -560,14 +561,14 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 28</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/kvPudrVP6uEu1LDFJRLYyPqAtNA4WidSbKIuHT8fbPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTQ0/MjUtMTQ3NDY3NTAz/NC02MzI0LmpwZWc.jpeg" alt="Cover for WTF VIP + Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b1520170b98ed2cd0af6fbf0e4c03eb.png" alt="Cover for WTF VIP + Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-23</td>
       <td>heRobust</td>
@@ -587,9 +588,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/wIYb6kduR15Nq7EQflzhhGiyUmO9tHG_ueJtu8Vgp1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjQ5/ODItMTQyNTM4Mjgw/My04NDcxLmpwZWc.jpeg" alt="Cover for 10 Out Of 10 (feat. Kylie Minogue)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c4e23889404106f8edf2f33979ca64.png" alt="Cover for 10 Out Of 10 (feat. Kylie Minogue)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-23</td>
       <td>Oliver Heldens</td>
@@ -603,12 +604,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 86</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/BjrRvWH6PDpmJa3A_J4nyYvmDaNKZe0rIU_buG8JQlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODE4/NDktMTQ4OTYyNjk3/Ni0zMzcxLmpwZWc.jpeg" alt="Cover for Swapping Things" style="max-width:120px; height:auto;" />
       </td>
@@ -626,9 +627,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/6CFsxerK8ax1U1fcXjKAIuRrTLT3eYKK7kDvBZ9FTxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/MjM1LTE2NTc5NjUx/NjgtMjY5MC5qcGVn.jpeg" alt="Cover for Los Amsterdam (Remixes, Pt. 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16c7b4e6d6f7240fcc74db15d49c4b43.png" alt="Cover for Los Amsterdam (Remixes, Pt. 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-31</td>
       <td>Yellow Claw</td>
@@ -643,9 +644,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/nGe6XDRHgFglicxfn-XAFi4l8dGhxWT8ZLRTt9-lwTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI0/MjY5LTE1MDMxMjk0/NDUtMzE0Mi5qcGVn.jpeg" alt="Cover for stardustexhalemarrakechdreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a6bee213f43ddc2a68f46cb1b2531fe.png" alt="Cover for stardustexhalemarrakechdreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-18</td>
       <td>ZHU</td>
@@ -660,12 +661,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 52</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/bq7gbLpu4r7_1Q9QjukQW__L7S2QN7_ocpbjv5eh4D4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM2/NDI3LTE1MTA1MTYz/MzItOTA1NC5qcGVn.jpeg" alt="Cover for Salad Dressing" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +684,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/6Kh33ilLPWUnvwWf6S7oM-EtcbgKrfniEt14aMi_fjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk4/MTYxLTE1MTE3MDAx/NTMtOTg4My5qcGVn.jpeg" alt="Cover for No Love (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +702,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/W6lAkhIXqaU0e7qMVMtjKmUSTgy24ePRSfxu0P-ZwiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkx/NjA1LTE1MzQzMjkx/NzAtNDU4OS5qcGVn.jpeg" alt="Cover for Space For Two (R3HAB Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -719,9 +720,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/IZHvGp2c7pvj-L9SlbLftzIFcGnNOFoqKy3AkHV1EiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAz/NTQwLTE1Mzg0MTgw/NDctMjY1OC5qcGVn.jpeg" alt="Cover for Fake Friends" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8967ee0a9ce741846a949c70592606.png" alt="Cover for Fake Friends" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-02</td>
       <td>LAXX</td>
@@ -739,7 +740,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/KH-Bv1WLwQJ5_wB4K8D0sZE4Y-SDP-ufhwuU1GY3Wlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIy/Mzk0LTE1MjQ4MTE2/NTEtMTcxNy5qcGVn.jpeg" alt="Cover for Sinner" style="max-width:120px; height:auto;" />
       </td>
@@ -757,9 +758,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/U_QoG0Y2fhBba78NAr1xNJ1O5cKRH6wIXXHU8VEAj3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/NTM1LTE1MjUzNTY4/MDYtNjk2OS5qcGVn.jpeg" alt="Cover for See Without Eyes (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c6ea5b21f3c4862f87fa26f485a350.png" alt="Cover for See Without Eyes (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-04</td>
       <td>The Glitch Mob</td>
@@ -780,15 +781,15 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 32</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 77</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/4F1HNDRH-XPeb0emCMzPoDkL5AZyM9aUpelh8c2B4QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg4/MTg4LTE1MjYwNjkz/MTgtODA3OC5qcGVn.jpeg" alt="Cover for Back The Funk" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +807,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/X2RLY9tGQz1PZpNXGhXv957s32mgBIv2WpSdP_MdokA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM3/MzIzLTE1MjcwMjA5/ODUtODIyMS5qcGVn.jpeg" alt="Cover for Bite" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +825,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/rOtFVpEJDdvvb3mRvC9nKE090SJiRR_pF-PSQWbMluo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUw/ODUxLTE1MzkzNTUw/MjYtMjU3MS5qcGVn.jpeg" alt="Cover for Ya Think" style="max-width:120px; height:auto;" />
       </td>
@@ -842,9 +843,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/smYOmd7od95GR5PqldYfCxr7jJtPZTJE99oUj-RGAv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkx/MTQ5LTE1NjEyMTA2/MDctMTM4My5qcGVn.jpeg" alt="Cover for Textacy (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f44b79f65c5293179266f212e15aa7d0.png" alt="Cover for Textacy (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-26</td>
       <td>Dion Timmer</td>
@@ -864,7 +865,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/StQZJJpnyJuVERCF7kGyXhCgEPApXDTzK19fIyMoobc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/MjE0LTE1NTIxNjIy/MzYtOTg5MS5qcGVn.jpeg" alt="Cover for Pizza" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +883,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/pc9t8Ub7Tw7hfRYOSuXGr50nZX2aVQRNiNw9yqC_0Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQz/ODYyLTE1MzUzOTQ0/MDktNTY5MS5qcGVn.jpeg" alt="Cover for Feel Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +901,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/tsil3271D8bGyKOSEgms2vtl-Ob7Znan0r_QYeFeeaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI5/ODI2LTE1MzMwNTQw/NDgtNjQyMy5qcGVn.jpeg" alt="Cover for ØUT ØF THE WØRLD &#x2F; ALL ALØNE EP" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +919,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/VKxW0U3WgD3Hm-3yKDezeVatmG7TrpN7-PHGkBn90iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE3/NjYwLTE1NDgzNTk4/NzItNzU1OS5qcGVn.jpeg" alt="Cover for Good Enough (Valentino Khan Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +937,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/1w63N2DhkEN-N6bdeOdDTDMJ2Zfy2tZqc6K2KZotvug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/NjQ1LTE1MzYxODMz/OTQtNzY2Ni5qcGVn.jpeg" alt="Cover for I Don&#39;t Like Anyone" style="max-width:120px; height:auto;" />
       </td>
@@ -954,9 +955,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/N7Vodki1UK1N8qGB5uVDFC-ZJJqPe-KG3soDD-nlZkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDEz/Mzg0LTE1MzQ3ODYz/MzYtNDA3Ni5qcGVn.jpeg" alt="Cover for How We Win" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e22f90dd5b73a6e5fda76d44716e0fe0.png" alt="Cover for How We Win" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-20</td>
       <td>FWLR</td>
@@ -972,9 +973,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/La8WG4bAw2VsD64yY9v_VZ9410fFx-iWaaCwFGZ9SM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/Mjc2LTE1NjU1MjA5/NDktODA5MS5qcGVn.jpeg" alt="Cover for The Wise And The Wicked" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d64949dfe2e10b1bdf6608f1192156f.png" alt="Cover for The Wise And The Wicked" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-31</td>
       <td>Jauz</td>
@@ -994,13 +995,13 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 34</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 35</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 34</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/HuV2LLv33OkYQ5Fac3lJ4EYBGrIVnjSCDYezXoSqat8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMz/MTEwLTE1NDI4MjY1/NjQtNTM2MS5qcGVn.jpeg" alt="Cover for Wiggle &#x2F; Vibrate" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1037,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/E1pjQ7GrrDxkixIbYGBboavizT_K8j6CVGVvS6Z1HFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU0LTE1Mzk4ODI3/OTItNzc0Ny5qcGVn.jpeg" alt="Cover for EPIC" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,9 +1055,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/71cQbGjgUY-kovivsvqiI_kMKwd4RbHL6k_n03MOTq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIw/NTU0LTE1NDQ1NDk1/OTEtNTM5NC5qcGVn.jpeg" alt="Cover for About You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78b149960c6f81f1240fcb971bac1f4f.png" alt="Cover for About You" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>Habstrakt</td>
@@ -1073,9 +1074,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/SxxHRXkjADDp1cz9vTDkCNgrXwN4d2l3WAWgvs2-x-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg1/OTAyLTE1NjEwODAy/ODQtMTc3NC5qcGVn.jpeg" alt="Cover for Very Extra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ec7f2c56b4f76ab07cbbcfe9874c466.png" alt="Cover for Very Extra" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-04</td>
       <td>Dion Timmer</td>
@@ -1093,7 +1094,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/QNwKZAy-ntnbbhW-bZbArxLpsESEF9W99ukZGYOzfTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQw/NjM1LTE1NDg3NzY1/MTEtNzg3MS5qcGVn.jpeg" alt="Cover for Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,14 +1109,14 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 74</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/OuO6OwZTd8ehDgoLztvPG0uC18Yh__y0Py2-54mZ_nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIw/MDc3LTE1NTM4NjQ1/NTctODQ0OS5qcGVn.jpeg" alt="Cover for Turn Off The Lights" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f57af2d89249a3ed5fac390d465149.png" alt="Cover for Turn Off The Lights" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-29</td>
       <td>Dog Blood</td>
@@ -1128,12 +1129,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 58</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/uj5CUc10AK3vQ8CwxRF9Yw2TgNzLNO5RScfOgc-hInU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ4/MTI2LTE1NTQzOTg5/NzktMTYyNy5qcGVn.jpeg" alt="Cover for Hot" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1152,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/FEqJrhr1n1HL3ykYgILxY4wfmtuvXWpyoHkqQQewM5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY1/Mjg3LTE1NTkwMDgz/MzItMjE1NC5qcGVn.jpeg" alt="Cover for Your Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,9 +1170,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/5QhfXeSZab2ZfgkectI_cxNRrR4A5V965SB0wRmXEBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE2/NDQzLTE1NjE3NTc3/ODgtNDMxMS5qcGVn.jpeg" alt="Cover for PEW PEW" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a9cb882a4974a4c2c983e6f6ea6d31a.png" alt="Cover for PEW PEW" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-28</td>
       <td>slushii</td>
@@ -1189,7 +1190,25 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/cnJEMRtdXhqrm5v6xKMeTqTvK1I8S8BVAqj1iNad3lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMy/MDcxLTE1NjQzNDA3/NDctMjgyNS5qcGVn.jpeg" alt="Cover for Feel It Movin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07</td>
+      <td>Jaycen A&#39;mour</td>
+      <td>Feel It Movin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/bDAA6_HvG_7ifp8Jw6caTlKK2FNosT_7QRFX4Wr3NxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ5/OTM5LTE1NjY4NDEy/NjctMjA5OS5qcGVn.jpeg" alt="Cover for The One" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1226,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/3yPHQY9JwoX44ZiEOpbdDQ3dyE9_3ej9l0CSJn8hi6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc5/MjkyLTE1Njc0NDYy/ODYtOTI1OS5qcGVn.jpeg" alt="Cover for Heat Wave" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,7 +1244,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/uXjJWMAwNm5Ja1msy6ZJowrJx6xdLtAcFtAiNGR44wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEx/NTA4LTE1NjgwNDk2/MzUtMjkxMC5qcGVn.jpeg" alt="Cover for Life &amp; Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1262,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/xfrA4Rs2Ea3l3ewV9EaNxEyPNzljAAIK2qtg_L3bzcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzIy/Njk0LTE2MDcwNTgz/MDEtNjEzMi5qcGVn.jpeg" alt="Cover for Hi8" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,7 +1280,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/lItlrve8v4BfSs4R-DvbID5aDub731IuDCtnlg9QJTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM5/MDk2LTE1NzI1MzU4/NzUtOTM0My5qcGVn.jpeg" alt="Cover for The One (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1298,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/hSP9bjKF0rBkTGWedsJb9I3d3XB4SWFSXgJukKsWsUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjk2/NzctMTYwNTA0ODIz/OC0xMzEzLmpwZWc.jpeg" alt="Cover for Soul Shake" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1319,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/3saMCZ6v-8InyZ9AXM2pDlKU-MLtJuOpTYUnGns8ukA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYw/Njc4LTE1NzQ5NzQ4/MDYtOTA1My5qcGVn.jpeg" alt="Cover for Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,7 +1337,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/6-nPPP9DYT_c7IyuUi6ozHRAK_GoUqYyciMIGUreyYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NTQyLTE1ODU5NjQw/MjYtOTI5Ny5qcGVn.jpeg" alt="Cover for Brave" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1355,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/bDAA6_HvG_7ifp8Jw6caTlKK2FNosT_7QRFX4Wr3NxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ5/OTM5LTE1NjY4NDEy/NjctMjA5OS5qcGVn.jpeg" alt="Cover for Show Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1373,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/btRTEqeDxV-wVrF1pEGH84QUSA8nOVC6Mal2jWXhbPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE3/MTYyLTE2NDczNDE2/NzYtNTEwOS5qcGVn.jpeg" alt="Cover for Optical" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1391,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/_0Z4AYy9ulGJusogbPegd8Mz2_m4CWdcLDttRoQlxWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTcy/Nzk4LTE2NTg1NzYw/NzMtNTc0My5qcGVn.jpeg" alt="Cover for Buried" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,7 +1409,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/44xu28lTfXx8JWEd4vFto-tlMPavTXPGWZYqQuMeFOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDMy/MjAzLTE1OTE0NDUw/MjItOTYzNS5qcGVn.jpeg" alt="Cover for It&#39;s A Gee Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1430,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Lb665SxNrMCh9FSnj-thJq7dC-0P9rvI44Hiodnfc8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg1/MzY5LTE2MjkxNTA1/MjUtNDA5My5qcGVn.jpeg" alt="Cover for Trust Nobody (Habstrakt Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,12 +1445,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 69</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/faeb7c11c50571561335067deafdb394.png" alt="Cover for A Slushii Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1475,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/a1jgsqS4s3tIXeqmP0GqQf9IblWORDdXtgCfqg6d6Pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/NTI5LTE2NjEzNTg3/MjgtNTIzMC5qcGVn.jpeg" alt="Cover for Gotta Be (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1494,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/a1jgsqS4s3tIXeqmP0GqQf9IblWORDdXtgCfqg6d6Pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/NTI5LTE2NjEzNTg3/MjgtNTIzMC5qcGVn.jpeg" alt="Cover for Gotta Be" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1512,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdcc836483d46518d3d08e15ff1aba99.png" alt="Cover for Rise &amp; Fall" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,12 +1532,13 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 16</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 4</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/842bc7f4e9e8159e0fd75a5972bd41cd.png" alt="Cover for Faith In Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1560,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/sBmSsQpLJw0D3WgURoNJJsluumFHmDYq0bBhVJs0I7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MDU4LTE1NTEzNzcz/NzUtOTM5MS5qcGVn.jpeg" alt="Cover for PLAY" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,9 +1578,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/_kF2a7AMcNlBS_ddzL-bFBEzhyXtYpI7cSbk6VxVGoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMx/NzEyLTE2NDk1OTcy/MDUtODY3Mi5qcGVn.jpeg" alt="Cover for Rock My Body" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5b8deff39e6611e50c78ef14283c187.png" alt="Cover for Rock My Body" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-08</td>
       <td>R3hab</td>
@@ -1581,8 +1601,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d2cc53ba38b961dc955977752a56708.png" alt="Cover for First Bites! Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-14</td>
       <td>Various Artists</td>
@@ -1599,12 +1620,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 20</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/hNnBCNuikPG56lP8jMYdNtjJTs6GYoXfm8dl-yu337w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDky/ODU5LTE2NTE1Mzg5/NDMtNjI4MS5qcGVn.jpeg" alt="Cover for Surdose" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1644,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/a4jLkPBb2C45Ga1pksQdeXhLPjSHhrrtIN4yMUtbuSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/MzU3LTE2NTE5Mjk4/MDEtNTA2My5qcGVn.jpeg" alt="Cover for ORIGIN" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,12 +1663,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 79</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/i0yyw-vv99E7KkgXpZUwRJODOZP22oO2f-eDZ6NiXNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjg2/Mjk5LTE2Njk0Njc1/NjktNDI5NC5qcGVn.jpeg" alt="Cover for Gully" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,7 +1686,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/zC8Uvi6n3phFZErphU05ALKuyUTks7_7NLzzmG6fTyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NTQxLTE2NzY1OTYy/ODEtODg2Ni5qcGVn.jpeg" alt="Cover for quest for fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,14 +1704,14 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 57</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 77</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 63</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 83</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/LkIsSExzjNSQGxzH_0jD2q-cu_WJspj0AiEszNJpMbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI3/NzUwLTE2NzgxMzI0/NjMtOTQ5Mi5qcGVn.jpeg" alt="Cover for Mini Motors" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,12 +1730,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 73</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/LkIsSExzjNSQGxzH_0jD2q-cu_WJspj0AiEszNJpMbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI3/NzUwLTE2NzgxMzI0/NjMtOTQ5Mi5qcGVn.jpeg" alt="Cover for Sport Mode" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,36 +1754,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 74</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5174972fa569ab44330f4fdd1125485c.png" alt="Cover for Grave Robbing" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-07-20</td>
-      <td>Leroy</td>
-      <td>Grave Robbing</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 23</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/VjrpkCJ-4wMzKOWGNpFUj3xkkTEdpLT-5VIoQENT-jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk1/Mjk1LTE2NDcxNzk1/NTAtMzQ5OC5wbmc.jpeg" alt="Cover for This Is Night Bass: Vol. 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,15 +1776,15 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 55</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 56</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/VjrpkCJ-4wMzKOWGNpFUj3xkkTEdpLT-5VIoQENT-jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk1/Mjk1LTE2NDcxNzk1/NTAtMzQ5OC5wbmc.jpeg" alt="Cover for This is Night Bass: Vol. 13" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c5dcd0c4e1cecf93843c632f9895449.png" alt="Cover for This is Night Bass: Vol. 13" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-09</td>
       <td>Night Bass</td>
@@ -1810,7 +1807,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/VjrpkCJ-4wMzKOWGNpFUj3xkkTEdpLT-5VIoQENT-jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk1/Mjk1LTE2NDcxNzk1/NTAtMzQ5OC5wbmc.jpeg" alt="Cover for This is Night Bass: Vol. 11" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,12 +1824,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 58</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/VjrpkCJ-4wMzKOWGNpFUj3xkkTEdpLT-5VIoQENT-jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk1/Mjk1LTE2NDcxNzk1/NTAtMzQ5OC5wbmc.jpeg" alt="Cover for Night Bass Remixed Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1851,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/VjrpkCJ-4wMzKOWGNpFUj3xkkTEdpLT-5VIoQENT-jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk1/Mjk1LTE2NDcxNzk1/NTAtMzQ5OC5wbmc.jpeg" alt="Cover for This is Night Bass: Vol. 12" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,9 +1869,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/Ov9bfyKMPEMMwR9CJWkcTDSVPLEDiPOum-nk4oHahUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDU0/NTYyLTE3Mjk0MTcx/NDQtMzY4NS5qcGVn.jpeg" alt="Cover for Stealing Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf2f1d5f8f1175b26b2e4f826026444.png" alt="Cover for Stealing Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-18</td>
       <td>Virtual Riot</td>
@@ -1889,12 +1886,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 39</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c51825379927c324fbdca109ab86238.png" alt="Cover for Monstercat Uncaged Vol. 9" style="max-width:120px; height:auto;" />
       </td>
@@ -1913,12 +1910,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 15</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
@@ -1939,7 +1936,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0d5b3dd0c108cc1a9e10301972eb3f7.png" alt="Cover for Monstercat - 5 Year Anniversary" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1964,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -1988,36 +1985,18 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 3</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 42</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 43</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 59</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 74</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 73</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
-      </td>
-      <td></td>
-      <td>Various Artists</td>
-      <td>UKF Bass Culture 4</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0499433e24e3043f0e7a06eb3884c4a.png" alt="Cover for DO U" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Takanashi Kiara</td>
@@ -2028,6 +2007,27 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4126fad12f1bb18554eda9dca4c023de.png" alt="Cover for UKF Bass Culture 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Various Artists</td>
+      <td>UKF Bass Culture 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
       <td>
