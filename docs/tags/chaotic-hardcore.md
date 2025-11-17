@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:37:37.815Z
+date: 2025-11-17T16:53:08.497Z
 permalink: tags/chaotic-hardcore
 title: chaotic hardcore
 ---
 
 ## chaotic hardcore
 
-Last updated: <time datetime="2025-10-28T13:37:37.815Z">Tue Oct 28 2025 15:37:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T16:53:08.497Z">Mon Nov 17 2025 18:53:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 47</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -115,6 +115,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-22</td>
       <td>新居昭乃</td>
@@ -153,15 +154,15 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 57</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 70</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 78</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -229,17 +230,17 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 32</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 56</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 84</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
         </ul>
       </td>
@@ -265,6 +266,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/659751c56e121140db756f5de2418a2e.png" alt="Cover for Ry Ry&#39;s Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-12-04</td>
       <td>Glassjaw</td>
@@ -303,6 +305,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb7d052c21c540d6b86127581b4546c9.png" alt="Cover for Jane Doe" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-04</td>
       <td>Converge</td>
@@ -316,8 +319,8 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 68</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 94</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 100</li>
         </ul>
       </td>
@@ -342,6 +345,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff53503a0a4fe859f441207515f6fa9e.png" alt="Cover for Bless the Martyr and Kiss the Child" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-01</td>
       <td>Norma Jean</td>
@@ -354,7 +358,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -399,6 +403,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd4224e6d00a4206b9b80c5135d9b116.png" alt="Cover for Hot Damn!" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-01</td>
       <td>Every Time I Die</td>
@@ -411,7 +416,8 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 80</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 3</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -471,7 +477,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 31</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 80</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 85</li>
         </ul>
       </td>
@@ -497,6 +503,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-23</td>
       <td>新居昭乃</td>
@@ -539,15 +546,15 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 16</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
@@ -801,14 +808,14 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 4</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 67</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 87</li>
         </ul>
       </td>
@@ -877,6 +884,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79617380d86c48b394ae696eda45a92b.png" alt="Cover for The Anti Mother" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-05</td>
       <td>Norma Jean</td>
@@ -889,12 +897,30 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 40</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a43937a2a6964090c0e8924c47292ced.png" alt="Cover for Lost in the Sound of Separation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-02</td>
+      <td>Underoath</td>
+      <td>Lost in the Sound of Separation</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xugll6_7UDnSsu68diyGxuUxIf6fjm-VOqksJj9sKcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc5/MjYtMTIyNjI0MjU4/My5qcGVn.jpeg" alt="Cover for Curses" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +940,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/nTvSpRk-oJszgBAnrX1Z-vPwHwuClAPjgmz2dwxGlZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQ1/NzktMTQ0MDU2MzM2/Ny0zMzk4LmpwZWc.jpeg" alt="Cover for The Author" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d83058f77ba4cf9bb3c1da94e69d713.png" alt="Cover for The Author" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-28</td>
       <td>Straight Reads The Line</td>
@@ -978,6 +1004,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bd6a202bc5a86cad70cb3c30503db0e.png" alt="Cover for Planets of Old" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-17</td>
       <td>Cave In</td>
@@ -1029,7 +1056,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 22</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 27</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 91</li>
         </ul>
       </td>
@@ -1037,7 +1064,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/3ZziujpK29DdDWy_mEXMueIVLtcTTveDZ5AKVFVXXac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjcy/NDktMTQ2OTYxMzMx/MS03MzkwLmpwZWc.jpeg" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e21c711ca8445ee839f86a1594ac6c8.png" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Nasty Taste</td>
@@ -1081,25 +1108,6 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/eDCzGZeB9bIE5fxbbYifKm6DHqwC6P0zeCZc3Fh0MRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUw/NzYtMTM5NDI3MTc0/Mi03NDAzLmpwZWc.jpeg" alt="Cover for The Year of Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Reno</td>
-      <td>The Year of Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>24</td>
       <td>
           <img src="https://i.discogs.com/OVnjLCv480RaqBedIiTxqptcIPBQfteDZla2yHL8sBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAx/MzQ1LTE1NDgwNzg5/NzctODQ4Ny5qcGVn.jpeg" alt="Cover for 5 parsecs to home" style="max-width:120px; height:auto;" />
@@ -1122,6 +1130,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44547835f7ef4a579eeb39d6c46906a7.png" alt="Cover for Рисуя свой мир..." style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Nasty Taste</td>
@@ -1242,9 +1251,9 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/SL4o31V1BPNX9igRo8cjuTRKo9yNdgcf79hmBByngws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjUy/NTEtMTY4MjgxNTcy/MS04NzQ5LmpwZWc.jpeg" alt="Cover for Long Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/168181bfbd964f9bbf128e8a86078547.png" alt="Cover for Long Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-22</td>
       <td>The Chariot</td>
@@ -1332,7 +1341,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       <td>
         <ul>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 39</li>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 54</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1378,6 +1387,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab701a5ab1f04e0ca1eec0ab60e3729d.png" alt="Cover for Ex Lives" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-05</td>
       <td>Every Time I Die</td>
@@ -1389,14 +1399,14 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 73</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/xTrhhVH7PTjK9yqt6DpglzdihcbQWYRTsfLeJRax-Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTM1/NTItMTQ1MDIwMjQx/MC04MjQ5LmpwZWc.jpeg" alt="Cover for A Genetic Hoax" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5067b3a8b6da0a6460b3e3279ceef85.png" alt="Cover for A Genetic Hoax" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-11</td>
       <td>Social Suicide</td>
@@ -1415,7 +1425,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ZuvKQrL0pCevvDfPzAIGpch3v7EfvgS3SmXeObR7jCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcy/Mjk2LTE2OTQwNTAx/ODItNDA4OS5qcGVn.jpeg" alt="Cover for Homewrecker" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1486,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/C4L_cQ0ilsTCEPLu08ACeMrMR8HKIpxVG6RCJJm1fRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjUy/NDYtMTUxMDI1NDc3/Ny03NzkwLmpwZWc.jpeg" alt="Cover for All We Love We Leave Behind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92d1aaff5e0b77c06074ba7b309eec88.png" alt="Cover for All We Love We Leave Behind" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-08</td>
       <td>Converge</td>
@@ -1489,7 +1499,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 44</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1558,6 +1568,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1119d88463f4d3db0e5aabc72640960.png" alt="Cover for Wrongdoers" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-06</td>
       <td>Norma Jean</td>
@@ -1634,7 +1645,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/H-8eGv61I2x5ONZqumUp_7YA-Xc7WSYjJZPv7g0LGYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzI2/MzQtMTM4ODI2NDIw/Ny0zNzUzLmpwZWc.jpeg" alt="Cover for The Sanity Universal" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,6 +1708,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9aa0d9f754841cdc1cc40276b551e3f.png" alt="Cover for From Parts Unknown" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-30</td>
       <td>Every Time I Die</td>
@@ -1731,7 +1743,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 40</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 45</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 76</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 98</li>
         </ul>
@@ -1861,7 +1873,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/3KDiDsxSlSDprbwesbQXVoiHWfaQ97IqksH_twvvZp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg5/ODQ3LTE1NjEyMzk3/MDMtNTE0Ni5qcGVn.jpeg" alt="Cover for The Dusk in Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae891ee0535dce9b2841401163afc41.png" alt="Cover for The Dusk in Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-03</td>
       <td>Converge</td>
@@ -1875,13 +1887,13 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 23</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 25</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/z94c8x-RAyNYQ395wO7I0b7V6lJn2lvLtdOrCcN0L_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njk3/MjE4LTE2OTgyMDI0/NTktODczNS5qcGVn.jpeg" alt="Cover for I Know You Must Ache" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1953,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/M8I5NjL6s4DjPzG0u0RlphPVymKGdaEVElh3gkHZb7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk3/NDAxLTE1MzAyNzgy/NjAtMjI1NC5qcGVn.jpeg" alt="Cover for Beautiful Ruin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0b078025ef4cf3ee9b69150a027b6b.png" alt="Cover for Beautiful Ruin" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-29</td>
       <td>Converge</td>
@@ -1956,6 +1968,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 2</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 51</li>
         </ul>
       </td>
@@ -1963,7 +1976,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/7S9CD_GggtlVEEYmJ8Zo7XYymkCVyr3h7aUzVug8b1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE4/MjgxLTE1NDgzNjg0/OTUtNjM1Ny5qcGVn.jpeg" alt="Cover for The Language of Injury" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6648279f55a832a6d486dc232050747.png" alt="Cover for The Language of Injury" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-01</td>
       <td>Ithaca</td>
@@ -1983,7 +1996,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/5sDAE3u_25CBSSOhso93QwdG_Bvst23Z3yIWlepbCzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk1/NDc1LTE1NzU4MTA2/NTctMzk4NS5qcGVn.jpeg" alt="Cover for I Will Guide Thy Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -2039,7 +2052,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9008fc3e31e082b1a2c9545e2779451.png" alt="Cover for Cries Methodically" style="max-width:120px; height:auto;" />
       </td>
@@ -2104,7 +2117,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 37</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 42</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 70</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 81</li>
         </ul>
@@ -2128,6 +2141,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2150,7 +2164,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/NW8yVI5I5H452moUxTygaFcOdDyGT5w9Pt25piV9bWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzQy/MDE1LTE3MjY0MTEx/NTAtMTc2NS5qcGVn.jpeg" alt="Cover for People Watching" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3dd39683134ba883222ef8875f61ed4.png" alt="Cover for People Watching" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-09-13</td>
       <td>156&#x2F;Silence</td>
@@ -2167,7 +2181,7 @@ Chaotic hardcore is an aggressive subgenre that pushes traditional hardcore punk
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>

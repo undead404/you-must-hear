@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T06:56:35.993Z
+date: 2025-11-17T16:52:57.225Z
 permalink: tags/manchester
 title: manchester
 ---
 
 ## manchester
 
-Last updated: <time datetime="2025-11-12T06:56:35.993Z">Wed Nov 12 2025 08:56:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T16:52:57.225Z">Mon Nov 17 2025 18:52:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,28 +29,9 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>7</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5692c18f91b64d1343ec80186145d6ea.png" alt="Cover for Singles Going Steady" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979-09-17</td>
-      <td>Buzzcocks</td>
-      <td>Singles Going Steady</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 6</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/dM4vK9b4SCdXbYW46gkiNyA_4zKVL38YuGbtXLyBeWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ3/LTE1MTU1ODgyMjMt/OTQ0Ni5qcGVn.jpeg" alt="Cover for Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1001870b3d7ed16522f51cb62904f2a0.png" alt="Cover for Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-11-13</td>
       <td>New Order</td>
@@ -62,12 +43,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 60</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24078abd528eb4d804d30ec331a3863.png" alt="Cover for Blue Monday" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +66,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/503c5d0e7e96708e9c99f17e797bf65f.png" alt="Cover for Power, Corruption &amp; Lies" style="max-width:120px; height:auto;" />
       </td>
@@ -98,8 +79,8 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 63</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 72</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 76</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -119,12 +100,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 19</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 36</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 80</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 45</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 81</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 93</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -143,13 +124,13 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 23</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 39</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 45</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 50</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 48</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 51</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 76</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 82</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 86</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 85</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -168,15 +149,15 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 4</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 75</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 88</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 90</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Zmbyck8YLDRn_TZeOMcI05DJ4c7jlhNQJ5_HGda_xSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDU0/My0xNTIwNzgwNjQ5/LTU2MTUuanBlZw.jpeg" alt="Cover for Live in Madrid: Paseo de Camoeons" style="max-width:120px; height:auto;" />
       </td>
@@ -215,9 +196,10 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 74</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 4</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 84</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 89</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 97</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 97</li>
@@ -227,7 +209,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88b255b9149242f6ce8ab3ee03993148.png" alt="Cover for Stutter" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +227,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d46708fc43544eb592248dd76c8be80e.png" alt="Cover for Bend Sinister" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +246,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/qnbd22o1HyqkUN5q-_GiUTrCz5fL7qykOgZhkeFLhto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA3/NjQtMTUxNTc2MTIy/Mi0zMTgwLmpwZWc.jpeg" alt="Cover for Original Demos &quot;May We Have A Record Contract, Please?&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -314,12 +296,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 50</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 52</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 66</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ac0396add584a69ec6bc610b9303b29.png" alt="Cover for The Frenz Experiment" style="max-width:120px; height:auto;" />
       </td>
@@ -337,8 +319,9 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76554e0d8f4843f0c3c05e7ccc68b45c.png" alt="Cover for Substance" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-06</td>
       <td>Joy Division</td>
@@ -372,9 +355,9 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/66taWuucRR3e8OZ4eZeyD0wa4mwQK4TfnP-lo1wiCfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTc2/Ni0xNTA0MTMyNzM0/LTEwNzguanBlZw.jpeg" alt="Cover for The Last of the Famous International Playboys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85e3318a4e140bdc0d607ec12f5d100.png" alt="Cover for The Last of the Famous International Playboys" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-02-11</td>
       <td>Morrissey</td>
@@ -392,7 +375,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f07a5a1e86624b3cb8ec76543b9863d7.png" alt="Cover for The Stone Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -446,11 +429,11 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 17</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 41</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 80</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 84</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 66</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 83</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 85</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 86</li>
         </ul>
       </td>
@@ -491,7 +474,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc54c7d6b4a4269dd12b6611c50daa28.png" alt="Cover for Pills &#39;n&#39; Thrills and Bellyaches" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +491,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/GLwEWXfK1K0U1DnCw_xGzqaSoD-YajfSQ4eSgjvFXTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDUy/MTYwLTE2ODgzODUx/OTAtNzI1OS5qcGVn.jpeg" alt="Cover for Keep The Circle (B-Sides and Udder stuff)" style="max-width:120px; height:auto;" />
       </td>
@@ -540,12 +523,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 17</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd729f4e6aa4345ae742a28fd43af39.png" alt="Cover for 458489 A Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -559,12 +542,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 6</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/xfp-JlxA8m6TQHBQmq9zwLZ_foUFkdJuwRHVymVl-Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA2/OTYtMTI0OTc3NDI4/OS5qcGVn.jpeg" alt="Cover for 1981-1982 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +572,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/_MGrrpyoFs-seavREibjNmzNcXZfUXxa6gW_U46gHO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzAw/MS0xMzQ3Mzg4MTQ3/LTc4MTMuanBlZw.jpeg" alt="Cover for Chicken Rhythms + Extras" style="max-width:120px; height:auto;" />
       </td>
@@ -627,12 +610,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 75</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b373c2f214fd0e9ed2fa7012a022ce8.png" alt="Cover for Turns Into Stone" style="max-width:120px; height:auto;" />
       </td>
@@ -649,7 +632,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6402bd935da8e2263b6fcd7becb5211.png" alt="Cover for Republic" style="max-width:120px; height:auto;" />
       </td>
@@ -666,7 +649,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/rm1xG3ee_nckv3-_1zTZDyW8WGD2PFTUs9sJfTdK2uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkz/NDEtMTIyMTMxODAx/Ni5qcGVn.jpeg" alt="Cover for Swallow" style="max-width:120px; height:auto;" />
       </td>
@@ -689,7 +672,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13676c3752294006c07e4f7cecde4d27.png" alt="Cover for Devil Hopping" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +730,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/205dfa8e79f7a753bc2114168f1a9665.png" alt="Cover for It&#39;s Great When You&#39;re Straight... Yeah (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +787,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>1996-01-01</td>
@@ -827,7 +810,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
       </td>
       <td>1996-04-22</td>
@@ -845,7 +828,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 12</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 11</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 33</li>
         </ul>
       </td>
@@ -899,13 +882,14 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 28</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dd1787ee9715ffb51c993bd0d169841.png" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-30</td>
       <td>The Stone Roses</td>
@@ -921,7 +905,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/PLi2jZkagotcOFj_b3L5c1AXUH9oNPKpgPIUfaxo1ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY2/OTEtMTIyNjE1ODAw/Mi5qcGVn.jpeg" alt="Cover for State to State, Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +922,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c9697defc17d074a02a1d6fea06706.png" alt="Cover for The Last Broadcast" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +941,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
       </td>
       <td>2002-05-20</td>
@@ -998,7 +982,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-05-17</td>
@@ -1015,9 +999,9 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/YCt8e48E7EMFgMUHRV2ufRqEef5QpqHWp5h5-r-ilRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDY0/My0xNTcyNTY0MDg1/LTgwMTkuanBlZw.jpeg" alt="Cover for Northern Stories 1978&#x2F;80" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce8d1506eb69a55ba252366c05c45b5.png" alt="Cover for Northern Stories 1978&#x2F;80" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Manicured Noise</td>
@@ -1034,7 +1018,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1d01715b4c81b88e2b27e20baeba625.png" alt="Cover for Doghouse Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1045,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006-04-07</td>
@@ -1087,7 +1071,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td>2006-05-06</td>
@@ -1131,7 +1115,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/CJFWbcsRm3RJqgXlQZPUl6IOzWpxzhL3OEi4Q6vOsNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIz/MzY2LTE3MjA4Mjgy/NzEtNjgyMS5qcGVn.jpeg" alt="Cover for Sketches (demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1142,24 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d2e6f99d5344a08e8632d7b5657d071.png" alt="Cover for Businessmen &amp; Ghosts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-25</td>
+      <td>Working For A Nuclear Free City</td>
+      <td>Businessmen &amp; Ghosts</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/pJXxSMldzXr69gNv2UyVij3Ec4wLkISw7QLKZtwsQ4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTAx/NjEtMTU2MTc0OTUy/Ny00NTU1LmpwZWc.jpeg" alt="Cover for МандрівниК" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1185,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/-trZ87s4QAI_KXtxd1Uesdq-JuANPgCEDt6sui224Do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc5/NDQ2LTE1Njc0NDgx/NjItNzYzOC5qcGVn.jpeg" alt="Cover for 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1206,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b3c23d927e3480f16ab9570d2f86406.png" alt="Cover for The Other Side of the Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,7 +1225,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d13454fc310946838415eb37816a63fb.png" alt="Cover for Play Moolah Rouge" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1243,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Ebm3jEye1ypwiRx-aJjZAdUC2cHayC8NbWZd_x0BobI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcw/MjYtMTMyOTIyODg3/OC5qcGVn.jpeg" alt="Cover for Chasing The Morning Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,7 +1265,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/c3rniRKOGn1txnLgcgahqd6Xr4dJm42epbQKV2htWYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjgz/MjQtMTI3MzQyMDQw/My5qcGVn.jpeg" alt="Cover for 205" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,12 +1283,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       <td>
         <ul>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 16</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 52</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/VDvVCdk4e27L6vb5Zq4hko8SH-R08h2RLoKnSRYKXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDgz/ODMtMTI0MDgyNTk4/Ny5qcGVn.jpeg" alt="Cover for Blood of a Dove&#x2F;A Hint of Rennit Innit" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1306,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63ee77740164d0387e0f7049ab97dcd.png" alt="Cover for Kingdom Of Rust" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1324,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/-tC3YYRvzMMazpmaxU4fyzIPr0yLINF7jm8qV5PuKZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTky/MzItMTQ3NDc1MjAx/OS00MTU5LmpwZWc.jpeg" alt="Cover for 229" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,14 +1361,14 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/2oYX9gV6zl7tdsJRJw-JwdoQcstadwRxWNcmfPiuGDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgx/MTUtMTY3NjMxOTc3/MC0xMzMwLmpwZWc.jpeg" alt="Cover for Sundowner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/073f4b691da248adb51ed34234038e99.png" alt="Cover for Sundowner" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Sundowner</td>
@@ -1388,7 +1389,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2011-11-23</td>
@@ -1430,7 +1431,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/9t_K52j_wQF0AkJATDG79GprU5y4cmtb3KMogm7jJLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzQ0/NDUtMTM4Mzk2MDg4/MC04NzI2LmpwZWc.jpeg" alt="Cover for Put Your Collar Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,7 +1451,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/druWRgz4tPAOkJg6VnjSFPLX41gOvmzKEa_PdyuKYi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTk1/NjEtMTM4MTc1OTU5/NC01NDk3LmpwZWc.jpeg" alt="Cover for Images Rolling" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1473,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ba490eb250dffb39bcaae44154b995.png" alt="Cover for Anna" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1493,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/PUzHyz9_w9aZbL3GNjbGIAmaMM76qhlM498SKGMHCO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDY4/ODEtMTM3NjEzMDAz/Ni0zODYyLmpwZWc.jpeg" alt="Cover for After Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1519,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/03JK_I1NS2LQm2SKuOynhY8q4CyRXIf04_yTrd8n6Yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDgz/NzItMTQzMTYzNDY3/Mi0yMjUyLmpwZWc.jpeg" alt="Cover for Bad Girls Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1545,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/chEhqQmobeylucDa_gOz5CoGF3JG0nq8T7vWW49wjzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzc2/MjYtMTQ3NDM3MjM4/Ny05MDkxLmpwZWc.jpeg" alt="Cover for Young Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1571,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Qy8iZ34BFGWj_CkcfWI2RxhTjIkjuTFnLvhKohrlx_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjUx/MDktMTQzMjkwNjQ3/NS0zMjg0LmpwZWc.jpeg" alt="Cover for Closer - Live in Manchester" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1589,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd80836963635369dce65ffebb0ee71f.png" alt="Cover for Strange News From The Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1609,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/nOQzF1J19OwX6cOxd-M6OkA3KmCDMgV5f6yLCEW9TX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODg2/NDAtMTY2OTk4MjU4/MS0yOTU1LmpwZWc.jpeg" alt="Cover for Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1635,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/-93_zsq_2Vw7rIPjkfxDDfNA1Y79NyMuOhX-XGGoePk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/MjE5LTE1MDk4Nzg2/MjYtMjUyMS5qcGVn.jpeg" alt="Cover for Ponytail (The Orielles Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,7 +1661,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/-93_zsq_2Vw7rIPjkfxDDfNA1Y79NyMuOhX-XGGoePk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/MjE5LTE1MDk4Nzg2/MjYtMjUyMS5qcGVn.jpeg" alt="Cover for Serve the Rich &#x2F; Luvu4lyf" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,7 +1687,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/-93_zsq_2Vw7rIPjkfxDDfNA1Y79NyMuOhX-XGGoePk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/MjE5LTE1MDk4Nzg2/MjYtMjUyMS5qcGVn.jpeg" alt="Cover for LUVU4LYF &#x2F; Serve the Rich" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1713,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-93_zsq_2Vw7rIPjkfxDDfNA1Y79NyMuOhX-XGGoePk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/MjE5LTE1MDk4Nzg2/MjYtMjUyMS5qcGVn.jpeg" alt="Cover for LUVU4LYF &#x2F; Serve The Rich" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,7 +1739,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/-93_zsq_2Vw7rIPjkfxDDfNA1Y79NyMuOhX-XGGoePk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/MjE5LTE1MDk4Nzg2/MjYtMjUyMS5qcGVn.jpeg" alt="Cover for Serve The Rich" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1791,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/JSX4XRUJkbT4DbIWZH4SQ7QG1AWVIYE9lB5x0IKGh40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTQ2/MTEtMTQ4OTg1MDc0/Ni03NzY1LmpwZWc.jpeg" alt="Cover for Bad Thing - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,7 +1817,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/vgMnhBsJ5YxEKFi9TaHXNWQQHbk5bc3UrxbWauBS7BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjIx/NTctMTM3OTUxMTY0/MS0xMzQ1LmpwZWc.jpeg" alt="Cover for Ghosting" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1843,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/JSX4XRUJkbT4DbIWZH4SQ7QG1AWVIYE9lB5x0IKGh40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTQ2/MTEtMTQ4OTg1MDc0/Ni03NzY1LmpwZWc.jpeg" alt="Cover for Bad Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -1868,7 +1869,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/vgMnhBsJ5YxEKFi9TaHXNWQQHbk5bc3UrxbWauBS7BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjIx/NTctMTM3OTUxMTY0/MS0xMzQ1LmpwZWc.jpeg" alt="Cover for Ponytail" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,7 +1895,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/JSX4XRUJkbT4DbIWZH4SQ7QG1AWVIYE9lB5x0IKGh40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTQ2/MTEtMTQ4OTg1MDc0/Ni03NzY1LmpwZWc.jpeg" alt="Cover for All Hail" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,7 +1921,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/5-d6wCssTztS8v68cak7tykrg8qKYlTX5aQYuWsYD3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcz/NTk3LTE1OTA0OTE5/MDItOTU2OS5tcG8.jpeg" alt="Cover for Hot Slick" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1947,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/4d4NJij4LZTojHuRcQdqf7UEhzbPVkDT_KkeOk4yVd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTE3/MjQzLTE2MjM1MjYz/NjgtOTE2OS5qcGVn.jpeg" alt="Cover for Piano Versions" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1973,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a9c0586f09b55e42d255e25a259429f.png" alt="Cover for Liam Gallagher &amp; John Squire" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +1994,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2019,7 +2020,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2037,12 +2038,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 30</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2063,7 +2064,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2084,7 +2085,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2106,7 +2107,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2132,7 +2133,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2154,7 +2155,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
