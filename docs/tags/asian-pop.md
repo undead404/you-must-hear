@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T22:59:47.666Z
+date: 2025-11-18T09:22:32.672Z
 permalink: tags/asian-pop
 title: asian pop
 ---
 
 ## asian pop
 
-Last updated: <time datetime="2025-11-14T22:59:47.666Z">Sat Nov 15 2025 00:59:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T09:22:32.672Z">Tue Nov 18 2025 11:22:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/IW-98omBi5t7AQO7DVLaSKTedNcOAchaHMPeAppvyFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE1/Ni0xNTM1NTAwMTAy/LTY3NjcuanBlZw.jpeg" alt="Cover for PlayBack" style="max-width:120px; height:auto;" />
       </td>
@@ -48,13 +48,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 79</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83bc083e14cdda88b393c699bb9fd6b3.png" alt="Cover for Want You To Say" style="max-width:120px; height:auto;" />
       </td>
@@ -70,12 +70,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 48</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/028cb3e21e3343d68985faf9b73ff66d.png" alt="Cover for APRIL 3rd Mini Album &#39;Prelude&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -94,12 +94,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 18</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d008874a7882e0560cab67379d55b180.png" alt="Cover for APRIL 2nd Single Album &#39;MAYDAY&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -117,12 +117,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/OZNZGMGfKw2YfbGlmg0roU9h93o7ycojoEohfU0KXFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/NC0xMDk0NDk4ODI2/LmpwZWc.jpeg" alt="Cover for だってアタシのヒーロー。" style="max-width:120px; height:auto;" />
       </td>
@@ -140,12 +140,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 5</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/225c9fc2f04e012d8a1db17091a7869e.png" alt="Cover for Catch the Moment" style="max-width:120px; height:auto;" />
       </td>
@@ -164,12 +164,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 6</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/OZNZGMGfKw2YfbGlmg0roU9h93o7ycojoEohfU0KXFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/NC0xMDk0NDk4ODI2/LmpwZWc.jpeg" alt="Cover for ASH" style="max-width:120px; height:auto;" />
       </td>
@@ -188,12 +188,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 23</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c451e307956183623665cb87a3f3d78.png" alt="Cover for 환생 Rebirth" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 44</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +234,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 61</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 63</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 99</li>
         </ul>
       </td>
@@ -260,7 +260,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 80</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 91</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 96</li>
         </ul>
@@ -286,14 +286,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 66</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 68</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 92</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5564c30eccdbc5873a3b575bc248016b.png" alt="Cover for CEREMONY" style="max-width:120px; height:auto;" />
       </td>
@@ -313,8 +313,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 42</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 76</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 45</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -328,19 +328,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>LOVE or TAKE</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 56</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 79</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 93</li>
         </ul>
       </td>
@@ -363,14 +356,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 61</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 64</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 62</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 65</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/kDrULUgFFLeY1mFNzMo5bXUU5ZsNrITukXFJUGg5CAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM3/NjU3LTE2MzczMTAx/NzEtNzYyOS5qcGVn.jpeg" alt="Cover for AREA Z" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +383,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/O9Q9vAnElodmqaHPUx966n5aspXbNb0R4AxjsU49Ato/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE2/MTcyLTE1MDgyODI1/NzAtMzYxMy5qcGVn.jpeg" alt="Cover for 静寂のアポストル" style="max-width:120px; height:auto;" />
       </td>
@@ -407,12 +400,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 51</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/hft8--YvoPqbh9GTvYlKoJHZFcj6v0M_6Fy88KSzXOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg4/MjU4LTE1NjExMzkz/NTgtNDEyNS5qcGVn.jpeg" alt="Cover for samurai champloo music record impression" style="max-width:120px; height:auto;" />
       </td>
@@ -430,12 +423,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 50</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e315ecdeb4fd0b748aaa3f7ee3f0a235.png" alt="Cover for feel my soul" style="max-width:120px; height:auto;" />
       </td>
@@ -453,12 +446,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 12</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/KT2JcAfIqN-HEk5hkfGIS8UK0ibZGr0gbU5CIm_F_lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEx/MjE1LTE2MDU4Njg4/MTAtNjUxOS5qcGVn.jpeg" alt="Cover for TOPGUN" style="max-width:120px; height:auto;" />
       </td>
@@ -477,13 +470,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 54</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 82</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 5</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 57</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c3d30536d36493135e2cadafcfed60a.png" alt="Cover for I remember you" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +495,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 21</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -522,8 +516,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 8</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 14</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 10</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 16</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 81</li>
         </ul>
       </td>
@@ -548,8 +542,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 5</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 30</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 33</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 60</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 88</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
@@ -557,7 +551,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5ca781aa2b60e8815d00513a5b652d8.png" alt="Cover for CHE.R.RY" style="max-width:120px; height:auto;" />
       </td>
@@ -575,12 +569,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 7</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2007-11-02</td>
@@ -604,7 +598,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2008-06-18</td>
@@ -624,7 +618,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/5nXgptN9RqmtjexFaVqHPk9H0ujrdGEyt8MA0zVqidE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTkz/MjAxLTE1NDYwNzk4/NzQtNzMzOC5qcGVn.jpeg" alt="Cover for TRASH CANDY" style="max-width:120px; height:auto;" />
       </td>
@@ -641,12 +635,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-10-15</td>
@@ -670,7 +664,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54fef306e5f74c39ccd962a1c1e0a14f.png" alt="Cover for Paradise Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -688,12 +682,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 38</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b100eb317e66f73f31e505dbb37743b7.png" alt="Cover for ワンルーム・ディスコ" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +709,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 25</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 28</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 89</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 95</li>
         </ul>
@@ -741,7 +735,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 67</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 71</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 72</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 93</li>
         </ul>
       </td>
@@ -765,14 +759,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 11</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 18</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 65</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 13</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 20</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-12-02</td>
@@ -790,7 +784,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 9</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 12</li>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 94</li>
         </ul>
       </td>
@@ -814,14 +808,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 23</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 34</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 70</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 25</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 36</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2ded66f9db4c281aba61e09b424d2d.png" alt="Cover for ねぇ" style="max-width:120px; height:auto;" />
       </td>
@@ -843,15 +837,15 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 2</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 53</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 9</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 56</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 96</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/9SdvgXFFKs65AvEmda4j9EGMgAwgk9peaeSjK0FDsy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU0/MjIyLTE2NjQ0MDY1/MTQtODM2NS5qcGVn.jpeg" alt="Cover for Snow halation" style="max-width:120px; height:auto;" />
       </td>
@@ -870,14 +864,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 55</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 58</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa382d9aa949a60af3b9eceebbc3a07e.png" alt="Cover for History Of Kingdom: Pt. IV. Dann" style="max-width:120px; height:auto;" />
       </td>
@@ -896,8 +890,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 8</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 68</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 11</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -921,8 +915,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 74</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 74</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 75</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 92</li>
             <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 100</li>
             <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 100</li>
@@ -930,7 +924,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12df8402f1234f00b70093f2a4a747ce.png" alt="Cover for LIGHT MY FIRE" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +944,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 10</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -971,14 +965,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 12</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2012-03-06</td>
@@ -1002,7 +996,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/921a1479363384dd10a81dc3e337c7e8.png" alt="Cover for to the beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1019,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f04d9e752ed78d63623cb87f77c73e4a.png" alt="Cover for SUPER HERO" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,13 +1038,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 45</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 78</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 48</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/a1Zvr7y4ZSi2eixVjBjl_Tm6uNUyS0Lyk_ggL5gzamg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE0/ODY0LTE2MDAxMTAy/MDEtMTQzOC5wbmc.jpeg" alt="Cover for Wonderful Rush" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,7 +1063,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 31</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 34</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 95</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 96</li>
         </ul>
@@ -1095,8 +1089,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 67</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 86</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 68</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1117,9 +1111,9 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 9</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 15</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 40</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 11</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 17</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1139,13 +1133,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 24</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 26</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2014-03-05</td>
@@ -1164,7 +1158,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df804351946c4acbca26f6659eb7cb6f.png" alt="Cover for Rising Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1179,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/UR5Z5lVKqOg53TS0Z4DPxX-9CtCikRrBQDrhlpmRvgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTY2/MzYtMTU2NTEzNTEz/My0yODE0LmpwZWc.jpeg" alt="Cover for LISTEN TO THE MUSIC" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,12 +1196,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 24</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a911227227de72e11521b031a81675ab.png" alt="Cover for 41m" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,13 +1220,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 34</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 37</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29332121092344acc414770120d222c4.png" alt="Cover for The Glory Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,13 +1262,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 25</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 37</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 27</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/xlH2PxRNY7eO2GxhwjYVYuK2OJmd9bHFWvtUjqei2aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg3/MTAtMTQ2ODU4OTMz/Ny03OTA4LmpwZWc.jpeg" alt="Cover for THE BAY" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1288,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 17</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1315,7 +1309,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1342,15 +1336,15 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 34</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 44</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 56</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 77</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 36</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 61</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/dS8FwUq3FkydKWnsPoQx5BwqGPw1k0KH3jxKTUSTQ8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgx/MzQ1LTE1NDk0Nzky/MTgtODE3OS5qcGVn.jpeg" alt="Cover for Butterflies" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,6 +1364,30 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/g7WdK3-TRwo7EtfdIdmyGE7_OPlyw1rowSMv3apOooI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODk5/Nzk1LTE2MTA0ODE1/NzAtOTcyMS5qcGVn.jpeg" alt="Cover for FLY HIGH!!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-02</td>
+      <td>BURNOUT SYNDROMES</td>
+      <td>FLY HIGH!!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1418,15 +1436,15 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 19</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 30</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 68</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 21</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 32</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 69</li>
             <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e7705e17b5629ba157cc73452b71ad.png" alt="Cover for Five Senses" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,13 +1466,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 27</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 41</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 75</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 44</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd6e694d77e204de5c9d1a4332ade973.png" alt="Cover for New Beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1497,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/1Fv91md4naicstpI4VnyTVXtDNX-6hN6xYsr7RPu_Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/NTEyLTE0OTI1NTky/ODEtNjA5MS5qcGVn.jpeg" alt="Cover for Minzy Work 01 Uno" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,13 +1516,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 19</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 22</li>
             <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc19c11a8b37fff14e67c4dac6d549cb.png" alt="Cover for Hue" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1541,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/uyM1ryPwG7TOxh4VmvaTpTIUMxbt9KoZi31kYVG4Nb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ2/NjE5LTE1NTI0OTk4/MDgtNzMyOC5qcGVn.jpeg" alt="Cover for Flame of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,13 +1564,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 43</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 52</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 55</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05c54a52a12e41897115eb0830b3a798.png" alt="Cover for HAPPY BOX PART.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,12 +1586,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 57</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/drb3YJLFmIfCC6l8qoSAb8ZKS9NeQ73ae_Ug7L4qxxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA1/MjgxLTE1MTE4MzY2/NTAtNTk2MS5qcGVn.jpeg" alt="Cover for Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1609,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 49</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1614,13 +1632,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 71</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 87</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 72</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06bdd67dec7acc92309d167c91395e58.png" alt="Cover for Awaken the power" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1656,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 11</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1663,14 +1681,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 46</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 53</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 48</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 55</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2018-01-24</td>
@@ -1688,12 +1706,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 13</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/nI_hD3u1AsTHWPBuDHWIUxsl4nh_RupDeMmFW8rjT9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NTIxLTE1MzI5OTAw/NTktOTg5NC5qcGVn.jpeg" alt="Cover for Start Over" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,13 +1730,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 33</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/AD_ZJv7NEbgFjihmlCdTOVvHy3smzrxAj7KupcQ3UXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg0/OTg1LTE2NjAzNTQ0/MDgtMTc5Ni5qcGVn.jpeg" alt="Cover for COME" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,8 +1755,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 20</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 70</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 23</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1763,12 +1781,12 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 85</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 92</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d88aa8fa56b6d58f9aed19beaa20b51.png" alt="Cover for REFRESH" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,8 +1804,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 15</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 77</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 18</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1810,8 +1828,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 75</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 89</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 76</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1858,8 +1876,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 14</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 73</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 18</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 74</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 100</li>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 100</li>
         </ul>
@@ -1885,9 +1903,9 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 29</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 73</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 31</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 74</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 100</li>
         </ul>
       </td>
@@ -1913,7 +1931,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 86</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 93</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1927,25 +1945,18 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>UNIVERSE : The Black Hall</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 26</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 60</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a11c67af9ed822b41418e341456fc36.png" alt="Cover for CRAVITY 1ST ALBUM PART 1 [The Awakening: Written In The Stars]" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,8 +1975,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 47</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 80</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 50</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1989,8 +2000,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 46</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 66</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 49</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 67</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 91</li>
         </ul>
       </td>
@@ -2016,7 +2027,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 90</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 95</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2064,13 +2075,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 78</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 90</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 79</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/-yUu_g4d_oOP-DRNoNnzfHBzTKfPoROj5dbMzaCBM-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI0/NTg2LTE2NTAyOTI0/ODAtODk3OC5wbmc.jpeg" alt="Cover for JUST BEAT" style="max-width:120px; height:auto;" />
       </td>
@@ -2089,8 +2100,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 43</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 77</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 46</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2114,8 +2125,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 39</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 63</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 42</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 90</li>
         </ul>
       </td>
@@ -2138,14 +2149,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 2</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 3</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 97</li>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/-bKAM9sSoORGlpgqrUJCGpq8J2j1mT1uRzNpURxqLvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTIw/MDcxLTE2NTAyODAw/ODUtMTc1Mi5qcGVn.jpeg" alt="Cover for nEw wAVe" style="max-width:120px; height:auto;" />
       </td>
@@ -2164,8 +2175,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 3</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 56</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 59</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 84</li>
         </ul>
       </td>
@@ -2190,8 +2201,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 54</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 72</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 57</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 73</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 92</li>
         </ul>
       </td>
@@ -2216,14 +2227,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 58</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 60</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 81</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/nmLLdeT6ehgAF0_0Ddq-qeHHQlBqqY3uqiWxyXeavk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTAy/ODI5LTE2NjMzMDg0/MzctMTM4Ni5wbmc.jpeg" alt="Cover for Papillon" style="max-width:120px; height:auto;" />
       </td>
@@ -2241,14 +2252,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 46</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 49</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 93</li>
             <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38d65dafb11363bfc47af08d3002a5d1.png" alt="Cover for THE WAVE OF9" style="max-width:120px; height:auto;" />
       </td>
@@ -2267,8 +2278,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 16</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 69</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 19</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2293,14 +2304,14 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 82</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 91</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/V5LPiXqw1OQSVCaPWw3ogmalSD6JK8jZlKzKfN6uXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjU5/MS0xNTg2MzI0NTYx/LTQ5NjEuanBlZw.jpeg" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5edf1fbf60a84740c70f856dd983ce52.png" alt="Cover for samurai champloo music record departure" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-03</td>
       <td>Nujabes</td>
@@ -2311,33 +2322,20 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 8</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 31</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 58</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 60</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 62</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 88</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 88</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/720888edc1fb02d9643658a733d333e2.png" alt="Cover for BLUE SET Chapter 1. TRACKS" style="max-width:120px; height:auto;" />
       </td>
@@ -2356,13 +2354,13 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 4</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 67</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 7</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2380,31 +2378,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4edc7b321d7138d0c0e33690f7c5c3e8.png" alt="Cover for Love &amp; Live" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>LOOΠΔ 1&#x2F;3</td>
-      <td>Love &amp; Live</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 58</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 38</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2428,8 +2403,8 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 74</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 88</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 75</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2457,7 +2432,7 @@ Asian pop encompasses popular music from East and Southeast Asian countries, ble
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/444d2488acb04185c19172b1401f0778.png" alt="Cover for 海色" style="max-width:120px; height:auto;" />
       </td>
