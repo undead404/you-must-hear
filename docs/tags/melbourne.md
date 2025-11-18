@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:51:55.863Z
+date: 2025-11-18T01:48:16.618Z
 permalink: tags/melbourne
 title: melbourne
 ---
 
 ## melbourne
 
-Last updated: <time datetime="2025-11-11T03:51:55.863Z">Tue Nov 11 2025 05:51:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T01:48:16.618Z">Tue Nov 18 2025 03:48:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,7 +52,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/waIGBbAjycy-UC1wjCkB2cvmFHm3wtVrdUxqh81mI7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDI1/MzAtMTM5MDA0Nzc3/MC0zNjQxLnBuZw.jpeg" alt="Cover for Nun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25ca0a9cd82b45c6c52abf26ec3a50cd.png" alt="Cover for Nun" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>NUN</td>
@@ -68,7 +68,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 15</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -132,7 +132,29 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 8</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/pfN0DwLYh5vAK0owbvql_q7fz6u8oTz71-5SI3kpb5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDEy/OS0xNDcwOTU4MzE5/LTY5NjAuanBlZw.jpeg" alt="Cover for El Noche De El Siniestro Vudu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Voodoo Lovecats</td>
+      <td>El Noche De El Siniestro Vudu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -275,7 +297,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/24auOJiOc3GhBsvMRzNPYcb495_6hQUQ-q95w-KgFc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU5/NjgxLTE2MzU5OTM4/MzUtNjU2Ny5wbmc.jpeg" alt="Cover for Stories" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4c5c766bf30fd95c8cc3de2a576ab09.png" alt="Cover for Stories" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-11-01</td>
       <td>BlueStar</td>
@@ -336,7 +358,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/ztTrBQESxA5lLv6azafPhzwY7OFhAVP0KozCwDJYll0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTUx/OC0xMzE3MjMwNjgz/LmpwZWc.jpeg" alt="Cover for Another Time Ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6798c3f2cd64428e9870e1370a21369f.png" alt="Cover for Another Time Ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-09</td>
       <td>A Beautiful Machine</td>
@@ -356,7 +378,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 14</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 15</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 72</li>
         </ul>
       </td>
@@ -383,7 +405,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/-Egp1WlJI-ETp8WqyI4VCCACNCJa59VgKQChdn5RuP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDA5/OTMtMTM2NDk0OTM5/NS00ODc5LmpwZWc.jpeg" alt="Cover for Retro Dolls From Hipsville" style="max-width:120px; height:auto;" />
       </td>
@@ -448,7 +470,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/tiFZtm9OkgkThjA4Wfz8H5E8j8aR60-JwFo7haP-LyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDMy/MjAtMTcwODQ1MTkw/My04MDM4LmpwZWc.jpeg" alt="Cover for Rhetorical Question EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/435acbf800e4677c00ae6c8257bb1803.png" alt="Cover for Rhetorical Question EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-22</td>
       <td>Alamein</td>
@@ -462,13 +484,13 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 13</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 16</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/nWYn56TFuys4i6zZjO3bgalxlhppXbxyd7wHyPmfRdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODI2/MTg0LTE2MTAwNTg2/NzEtMTYyMy5qcGVn.jpeg" alt="Cover for In This World" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +610,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/MkOCrHoOUFg-FpGKDnx6qC-oNKeMbtQD_GmhlCDIXnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTY2/NjQtMTQ1NjE4NTUz/Mi0xMjg0LmpwZWc.jpeg" alt="Cover for Remix This" style="max-width:120px; height:auto;" />
       </td>
@@ -643,12 +665,13 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 1</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/pY-VeG-F3hBFjeUS4a-2AwgqX64XOtafT5vvFvTpAus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODk4/OTItMTM1ODA1OTk5/Ni0xNTcyLmpwZWc.jpeg" alt="Cover for For Those Who Have Not (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +713,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/RKbi1ze5bgPNMpz1P48xne_bdWaTSWQw-aWUWdYrVmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTgz/NzktMTMwMjQzMjAz/My5qcGVn.jpeg" alt="Cover for Sequins&#x2F;Cicatrix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/257ee7212f9345a88339ea49e1a283a2.png" alt="Cover for Sequins&#x2F;Cicatrix" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>OddFoot</td>
@@ -736,6 +759,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21248265eac14924ac491dd5a0dcd7e2.png" alt="Cover for Quarter Circle Punch" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-04</td>
       <td>Bankai</td>
@@ -779,6 +803,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/898bf652dfeb5a30b606e88df8cb4801.png" alt="Cover for For Marie" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-23</td>
       <td>The Peach Tree</td>
@@ -819,14 +844,14 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 24</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/XQ3ST8dQ8_0JorFs1kp8wnjvnMv1CEFX9udB2fG6kFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjEw/OTQtMTMzOTMyNzAw/Mi00OTIyLmpwZWc.jpeg" alt="Cover for Forbidden Delicious" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f47fc6807444ad6ae08e90a34e52935.png" alt="Cover for Forbidden Delicious" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Pageants</td>
@@ -889,15 +914,15 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 12</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 13</li>
             <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/hiqZleH3e486UIry9YRSZhSxWPxtrXPyRP_0XQLweg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU3/MzgwLTE1NTQ1NzUy/NTktMjYxMC5qcGVn.jpeg" alt="Cover for Hard Candy Mix Tapes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24da543d64a4bc6b1d6fee8e7c105b8.png" alt="Cover for Hard Candy Mix Tapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-12</td>
       <td>Hard Candy</td>
@@ -916,7 +941,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/5MMoUN8skNySh6uhv_be5O7rH5FZXprIt2k0x0bygO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzcy/Nzg4LTE2ODE1OTAx/NzctODg2MC5qcGVn.jpeg" alt="Cover for Rosetown Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1110,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8245d96d78f4fafa4b6df8bb07d53bf.png" alt="Cover for Wide Spread Freedom" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1156,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/KI0QEczyEsp2fdMH5ZJjYx0v4jOxbUfjeoowxXjyots/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjQ5/NjEtMTM5OTMyNTk0/My0xNTg5LmpwZWc.jpeg" alt="Cover for If You Want Blood We&#39;ve Got Pint" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1248,6 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/scFLHuujw4_8-7VK_pSEk-ncK1L11HCqM8cDV2_tHRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDYz/NDctMTQzNzA2NDcx/Ny0zMjA1LmpwZWc.jpeg" alt="Cover for I Hope I Don&#39;t Come Across Intense" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07</td>
       <td>Wil Wagner</td>
@@ -1262,7 +1286,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/d7uU3A2DYiaZdN4xoSxA57b5zPkuRYnGK576-WWWZBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTM5/MjItMTQ2MTEzNzM3/OS0xMTYxLmpwZWc.jpeg" alt="Cover for Still Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a46c36a0207fd0e1b4043d60ae3d59cb.png" alt="Cover for Still Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-08</td>
       <td>Deep Heat</td>
@@ -1282,7 +1306,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/6mBFW5P9TgBPMce0lx_xQsY9AU8FH40e7lwDWpYvHWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTk4/MTYtMTQ4MTk5Mzk5/Ni0zNTAwLmpwZWc.jpeg" alt="Cover for Colour High" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/839b014e56330327eb29c9fa30416445.png" alt="Cover for Colour High" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-05</td>
       <td>Colour High</td>
@@ -1444,7 +1468,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/sn8s7Ms0WJh9l7RM5E2np3i4h_rZeNyCkY6RiqSJSnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU3/NDkzLTE1OTE4NDY4/NTEtNTcyNC5qcGVn.jpeg" alt="Cover for Struggle Street" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d415afe02f18d9f14a29663fd5f42d4.png" alt="Cover for Struggle Street" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-01</td>
       <td>Tony Dork</td>
@@ -1481,7 +1505,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 70</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1547,26 +1571,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/_a_CukGwMWD98snZmF5gDTksRjlZiM-gZbs1BveT_04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc3/Mjc1LTE3MTExNTc1/NzYtNTUwMy5qcGVn.jpeg" alt="Cover for Trivialise Me" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-10-20</td>
-      <td>Imogen Cygler</td>
-      <td>Trivialise Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/srsCTE7o1Eigaeefk_v2Hn72mrwkXGQcIdhX3is4lYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTA1/Njc2LTE3Mjk4ODY4/NDctOTQ3NC5qcGVn.jpeg" alt="Cover for Ask For Direction" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,13 +1618,14 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 29</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d553953135f1621de3115ae5d93afbe.png" alt="Cover for Don&#39;t Come For Me..." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Year Exiting Rain</td>
@@ -1640,7 +1646,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1660,7 +1666,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a464baaefe2c435b9750c28de9e38af0.png" alt="Cover for Children Overboard EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,8 +1688,9 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5af7d8b659a1509da4e929e6ffdc14a.png" alt="Cover for To The Dry" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Great Australian Bank</td>
@@ -1725,6 +1732,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52728ae9c395a8f762d12ba41487c54c.png" alt="Cover for Hold Your Lying Tongue" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Appalachian Heaven Stringband</td>
@@ -2114,6 +2122,7 @@ Melbourne, often referred to as the live music capital of the world, hosts over 
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1387dd1cda754fe8cf5788ce39fc3223.png" alt="Cover for Kids Antlers" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Colour Thieves</td>
