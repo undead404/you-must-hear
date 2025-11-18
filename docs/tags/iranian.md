@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:48:37.560Z
+date: 2025-11-17T18:40:55.023Z
 permalink: tags/iranian
 title: iranian
 ---
 
 ## iranian
 
-Last updated: <time datetime="2025-10-22T00:48:37.560Z">Wed Oct 22 2025 03:48:37 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-17T18:40:55.023Z">Mon Nov 17 2025 20:40:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
   </thead>
   <tbody>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg" alt="Cover for Rendan e Mast" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 30</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 31</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 32</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 60</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 61</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 69</li>
@@ -57,7 +57,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/bfYdBGnabmXPk38PI2hJu6dFFK9YPQC61Yusu81ohWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MDItMTE4NTI4NjI0/Ni5qcGVn.jpeg" alt="Cover for 40 Golden Hits of Dariush" style="max-width:120px; height:auto;" />
       </td>
@@ -81,7 +81,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/IlR6akxkf6ioqPoYWyibF2BPOgj3A14Z9OUCltX_Zko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDAy/NTQyLTE3MTMyNzAy/MzUtMjEyNy5qcGVn.jpeg" alt="Cover for 40 Dariush Golden Songs, Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -103,7 +103,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/SaiDgccMVMxhF3N7bxnjZlgjKUG3K6iDmosKTL_CIQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI0/ODIwLTE2NTk4NTMw/ODEtNTY0Ny5qcGVn.jpeg" alt="Cover for Under the Cutting Blade (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/4kvW_2Rm6MvjyHe53kOy-3r4GAPUtZvcGYwO3aKkkPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/ODY2LTE2ODIxMzIy/MjgtMTE2Mi5qcGVn.jpeg" alt="Cover for Khab dar Bidari" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/vwbN6Zs4zMPeljq0v97nPjMFuNGfpApK7cizSyldY2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTc2/NTUtMTU2MzI2NzYx/Ni03NDUyLmpwZWc.jpeg" alt="Cover for Iranian Percussions" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +192,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/M043B-EUkzk6oV1vl_gjTuHTniyKYNT_GewQsdFg5gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODg5/MTQtMTMzMjUzMzA5/NC5qcGVn.jpeg" alt="Cover for Pinocchio" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +218,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/M043B-EUkzk6oV1vl_gjTuHTniyKYNT_GewQsdFg5gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODg5/MTQtMTMzMjUzMzA5/NC5qcGVn.jpeg" alt="Cover for Khab (Sleep)" style="max-width:120px; height:auto;" />
       </td>
@@ -237,9 +237,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/DVb3jsL2o1lBpKr9n17QTbB_QIavEkAU4XkkMpHAdBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTcw/MTYyLTE2MDExMjU2/OTgtNTk1Ni5qcGVn.jpeg" alt="Cover for Marg Bar Kolle Nezam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9fe942015a2e0f6ffef58a1231c1f1d.png" alt="Cover for Marg Bar Kolle Nezam" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Shapur</td>
@@ -253,12 +253,12 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 81</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>1998</td>
@@ -283,7 +283,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td>1998</td>
@@ -305,7 +305,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
         <ul>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 8</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 51</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 52</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 53</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 73</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
@@ -313,7 +313,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/djmN_DjNi0dJb34-CORTjvhamQpprTEcXHnUnZQ12fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/MDU1LTE1OTc5NTk1/MzAtMjQ3Ni5qcGVn.jpeg" alt="Cover for Music of North Khorassan" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +339,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/edE-9A6yj32HUc2wf92PGfmnZrtfr7LAJk9815uFxms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDky/OS0xMzUxODA1MDQ4/LTk3NzguanBlZw.jpeg" alt="Cover for Shy Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg" alt="Cover for Viguen [Ahanghaye Do Sedaiy]" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +453,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg" alt="Cover for Zane Irooni" style="max-width:120px; height:auto;" />
       </td>
@@ -480,9 +480,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/L-AQ3siqhywkg0C_CAOgIevWeMPJhI1KXsEJKMvky1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/NjQ5LTE2MjA2ODYw/NTItOTkwNC5qcGVn.jpeg" alt="Cover for Mardeh Tanhayeh Shab" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b7cb93b4d4d5dd9c392ad467c6d856e.png" alt="Cover for Mardeh Tanhayeh Shab" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Habib</td>
@@ -509,6 +509,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bb00716d9bc2115eef91efb20701f29.png" alt="Cover for Elysium For The Brave" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Azam Ali</td>
@@ -524,15 +525,16 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 24</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 32</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 85</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 86</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 92</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf49067a6daa4b959d0406efe931891a.png" alt="Cover for Vahdat" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Farhad</td>
@@ -563,7 +565,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/vXE8PKBtqqOrLB_Y9PsMwb-mvbS2DxnvIBVO2qe0eMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg3/NzAtMTQ1ODEzMDI0/My02NDM1LmpwZWc.jpeg" alt="Cover for Mordad 85" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +648,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 35</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 36</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 72</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 85</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 86</li>
@@ -657,7 +659,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
       </td>
       <td>2007-01</td>
@@ -685,7 +687,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/70eVp5HVAxGZVP0G06StLaqdPMArZ_hqQRq3XaMxYDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU0/MTM0LTE1OTE3OTUz/NjktODg4MC5qcGVn.jpeg" alt="Cover for Mortem Animalium" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +746,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2008-06-21</td>
@@ -758,7 +760,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 64</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 70</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -794,7 +796,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>2008-12-30</td>
@@ -820,7 +822,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2009</td>
@@ -871,7 +873,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>2009-07-02</td>
@@ -902,9 +904,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/OPO1R_6UjdssQVx7Ms670EKs6l3hrXtjpCr_87_3FC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU5/LTE2Mzk3MjkxOTct/ODI3OS5qcGVn.jpeg" alt="Cover for Shahrvand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8d27f42e36f109152a8849850691d8f.png" alt="Cover for Shahrvand" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-17</td>
       <td>Rez</td>
@@ -929,7 +931,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/4_oHcKlhyHv_T4r9Z9DZ7S-GkLQ065KpAjtBiJA6rWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/NTAtMTI4NDI3MTM3/MC5qcGVn.jpeg" alt="Cover for Soul Raga" style="max-width:120px; height:auto;" />
       </td>
@@ -954,9 +956,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/fwCSV7qhuCMHgHSce_GNZg-6_r863-5eicYc6XM9rH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDIy/OTQtMTI5NDYwMTcz/OS5qcGVn.jpeg" alt="Cover for Hypermnesia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63a707aa1a2ccaeed20bf88efe5d37da.png" alt="Cover for Hypermnesia" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Ekove Efrits</td>
@@ -1012,9 +1014,27 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/223153ac825845a89dc335d9baa7f664.png" alt="Cover for Ghost Notes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-31</td>
+      <td>Hiatus</td>
+      <td>Ghost Notes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/AMWmIAwrSaZ1SGQZqGpSRjJUK1LnD2L049mExr2X254/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/MjUtMTMxNjc4MDcy/NS5qcGVn.jpeg" alt="Cover for Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cce20889739f9911ee5b3c490f24963.png" alt="Cover for Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Kourosh Yaghmaei</td>
@@ -1023,23 +1043,19 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 27</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 94</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 98</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 99</li>
@@ -1235,6 +1251,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51596b0e716f430e90f577029227dde2.png" alt="Cover for Upper Class Complexity" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-10</td>
       <td>The Yellow Dogs</td>
@@ -1252,7 +1269,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/85UX-DFdpzTjkAGEzrWt0kTD-7YohtcoYrLCmy0ilWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDk5/MDMtMTU5NTE5NjMw/Mi00OTQ4LmpwZWc.jpeg" alt="Cover for Sumud" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04fe59ddfec845efbd357da8e3349744.png" alt="Cover for Sumud" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-22</td>
       <td>Niyaz</td>
@@ -1272,7 +1289,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2013-02-19</td>
@@ -1293,7 +1310,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg" alt="Cover for Slipped Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1341,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/ih1I0VS-LFM9jbSBrGRhHCCO_pnNClsECnMyP87gJ6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA0/ODk0LTE3MTMxODgx/NDEtODU1Ni5qcGVn.jpeg" alt="Cover for White Tree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36f8a1f29f716e9a1b449bad2d4b4ee9.png" alt="Cover for White Tree" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Marjan Farsad</td>
@@ -1343,7 +1360,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 70</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 73</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 72</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 87</li>
         </ul>
       </td>
@@ -1368,7 +1385,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg" alt="Cover for Rafte Az Dast" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1445,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/WCVdfOflpYBGSh3NJGENJ7j6Wct0SQxbRJLpyt6_t9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzI4/MDMtMTQxMDM1MDYw/Ny0xNTI0LmpwZWc.jpeg" alt="Cover for Temple Of Daevas" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,9 +1476,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/mG4g9Bv8H3dYzPGRD_QcIOnHesiisqUf_LmhycvTaRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkx/Njg1LTE1OTYwMDI3/OTYtMzAyNC5qcGVn.jpeg" alt="Cover for Ye Wan Tony" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10d12a6f208488a559ada7586df16246.png" alt="Cover for Ye Wan Tony" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Arta</td>
@@ -1489,7 +1506,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/3UPQxfglXWvWUYg3iGc-gCiVVP0a32mrDarV6pK0904/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjU3/NzctMTQzMDU3NjQ4/Ny00MTI0LmpwZWc.jpeg" alt="Cover for The Fourth Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeae7b9db573fe7842c43e5074efc23b.png" alt="Cover for The Fourth Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03</td>
       <td>Niyaz</td>
@@ -1510,9 +1527,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/5mfjZVbh4ch4m6MxsGKnGjvq4S9A2sgJNpfqCxFFE68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTQ1/NDMtMTQ1MTE0NDY5/My00NDg1LmpwZWc.jpeg" alt="Cover for Syzygys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecfdd704063ddf68f297e0294f0b9b9a.png" alt="Cover for Syzygys" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-11</td>
       <td>9T Antiope</td>
@@ -1535,7 +1552,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg" alt="Cover for Riot Against Riot" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,7 +1583,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg" alt="Cover for Line Of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1617,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/5d1gJ5SBAAl8vpicA6Zxj5BAyblYetiimDuGnEWqg2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg5/MDE2LTE0OTY0OTY3/MDUtMjYzOS5qcGVn.jpeg" alt="Cover for All The Troubled Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab41d9f1240ba0863fda92d105e2d1f7.png" alt="Cover for All The Troubled Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-02</td>
       <td>Hiatus</td>
@@ -1621,7 +1638,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 62</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 61</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 96</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 100</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 100</li>
@@ -1655,7 +1672,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/8aXZP7hnFijKh9hrgTC_eHKhYclSxSEeEPuPYvbaRmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg2/NDgyLTE2MDk4MDky/MjktNzU3MS5qcGVn.jpeg" alt="Cover for Spell On Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,9 +1703,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/f3ZoiwvbfYH2LlNembvMyuKrTWxGyFQQFWGh4UFkmq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjgw/NDQ1LTE2MTI1OTc4/MjUtMjA4Mi5qcGVn.jpeg" alt="Cover for Ghabe Akse Khali" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5bd82e3e0b5fd2a7a4acff46d3b89dd.png" alt="Cover for Ghabe Akse Khali" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-11</td>
       <td>Sirvan Khosravi</td>
@@ -1711,7 +1728,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/f3ZoiwvbfYH2LlNembvMyuKrTWxGyFQQFWGh4UFkmq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjgw/NDQ1LTE2MTI1OTc4/MjUtMjA4Mi5qcGVn.jpeg" alt="Cover for 9 O&#39;Clock" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1758,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg" alt="Cover for Sorrow For An Unfinished Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1819,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/5pICpZzCF_9WIoaGWOXWa665h6NMYvTVTsoOBZP9I8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI5/MTYtMTY4MDIwNDIw/MS03OTg4LmpwZWc.jpeg" alt="Cover for In Kherghe Biandaz" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1847,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1849,7 +1866,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1868,7 +1885,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1900,8 +1917,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6694a1d608840c8a69e4c8f8a05175a.png" alt="Cover for Post Mortem Dump" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mist Within</td>
@@ -1932,7 +1950,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1955,7 +1973,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1979,7 +1997,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2011,7 +2029,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2034,7 +2052,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -2062,7 +2080,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2092,7 +2110,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2119,7 +2137,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -2132,14 +2150,14 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 2</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 8</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 46</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2158,7 +2176,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 4</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 13</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 48</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 49</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 57</li>
@@ -2166,8 +2184,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce52627dff51369ad55192486a3c076.png" alt="Cover for Chant Of Drums" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Kamkars</td>
@@ -2187,7 +2206,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 21</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 22</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 64</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
             <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 86</li>
@@ -2196,7 +2215,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2217,12 +2236,12 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 13</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 53</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 61</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 63</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -2253,7 +2272,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -2272,7 +2291,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 18</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 24</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 25</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 57</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 57</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
@@ -2280,8 +2299,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0e3e1d0a38a41e4a9ee3456c9d25682.png" alt="Cover for Sarbaze Khoda" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sadegh</td>
@@ -2301,7 +2321,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -2320,7 +2340,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2339,7 +2359,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 27</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 29</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 30</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 58</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 59</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
@@ -2347,8 +2367,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb5bbd0f92d9f5d8a6088d54aba23aec.png" alt="Cover for King" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sami Beigi</td>
@@ -2372,7 +2393,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>
@@ -2397,7 +2418,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td></td>
@@ -2416,7 +2437,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 40</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 41</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 61</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 66</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 74</li>
@@ -2426,6 +2447,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aedfe476aad1657de481b73c9561a01b.png" alt="Cover for Kavir" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ali Sorena</td>
@@ -2490,7 +2512,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 69</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 72</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 73</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 73</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 83</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 86</li>
@@ -2609,25 +2631,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>M.R. Shajarian &amp; Kayhan Kalhor</td>
-      <td>Night Silence Desert</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2646,7 +2650,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>

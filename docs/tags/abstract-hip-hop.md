@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T15:47:55.284Z
+date: 2025-11-17T18:45:06.142Z
 permalink: tags/abstract-hip-hop
 title: abstract hip hop
 ---
 
 ## abstract hip hop
 
-Last updated: <time datetime="2025-11-14T15:47:55.284Z">Fri Nov 14 2025 17:47:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T18:45:06.142Z">Mon Nov 17 2025 20:45:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/ZC5OYaggOplagGeB_wc1me6w2m5C_l6SOT4KftI-uN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU1/Njg3LTE2NTUwODIx/NzMtNzQ5OS5qcGVn.jpeg" alt="Cover for Good Smell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21bba6bdc72fdd0baabd992f45a0aaac.png" alt="Cover for Good Smell" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Nill</td>
@@ -45,12 +45,12 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 43</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1998-10-13</td>
@@ -69,7 +69,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5520cd4c7fff46bbe8baaa1fd31a9867.png" alt="Cover for Operation: Doomsday" style="max-width:120px; height:auto;" />
       </td>
@@ -82,8 +82,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 25</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +105,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 53</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 75</li>
         </ul>
       </td>
@@ -127,13 +127,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 54</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2003-06-06</td>
@@ -165,7 +165,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 11</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 14</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 83</li>
         </ul>
       </td>
@@ -185,8 +185,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 34</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 37</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -212,6 +212,26 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c480d54d181f4cb2a35c9219c6afa250.png" alt="Cover for Ten" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-08</td>
+      <td>cLOUDDEAD</td>
+      <td>Ten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -230,13 +250,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 34</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 36</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2004-04-05</td>
@@ -269,14 +289,15 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 14</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 3</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 15</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 56</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/vTBjn87AMuAXfL66oQIRQJMReWbdC6tBtRlR4RM15qA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE2/MjMtMTU5NzEwNDc0/NC0yMDc0LnBuZw.jpeg" alt="Cover for Dennehy" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +315,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d0c0973755888075a6c651e981be73f.png" alt="Cover for Alopecia" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +330,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 39</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +353,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2009-01-27</td>
@@ -346,7 +367,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +390,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 67</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 69</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 89</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 91</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 95</li>
@@ -377,7 +398,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a96df2bdec347498e936f46c8a8c712.png" alt="Cover for 6 Kiss" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +417,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/771cb5b912d14122b34f29c104a5e32d.png" alt="Cover for Red Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -420,13 +441,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 38</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/831e96df3afd4777c7ac562537bdb356.png" alt="Cover for Exmilitary" style="max-width:120px; height:auto;" />
       </td>
@@ -441,8 +462,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 44</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 47</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 68</li>
         </ul>
       </td>
@@ -462,7 +483,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -487,11 +508,11 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 60</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 61</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
         </ul>
@@ -518,14 +539,14 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 91</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1033467c4eb04c1ab26cd071f0d114d2.png" alt="Cover for Curses from past times" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +564,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 29</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 33</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 75</li>
         </ul>
       </td>
@@ -562,9 +583,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 15</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 83</li>
         </ul>
       </td>
@@ -588,7 +609,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3bf939762c4ca58430c8db55cf4c05.png" alt="Cover for No Love Deep Web" style="max-width:120px; height:auto;" />
       </td>
@@ -601,11 +622,11 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 29</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 48</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -624,18 +645,19 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 86</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 89</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 98</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/5a3qspevHGqnqXjxOU7x-PakW3VoI6N0mr6RRNlpSBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU0/MzYtMTM5MTgxMTM5/NS02NTk0LmpwZWc.jpeg" alt="Cover for MARCIOLOGY" style="max-width:120px; height:auto;" />
       </td>
@@ -650,12 +672,12 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/TbOR5jyuON_M01q5SqTadoitqqRtpN8hYZbbfW5xxKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MzctMTQ5NjQ1OTA4/Ni02Njg4LmpwZWc.jpeg" alt="Cover for Operation: Doomsday." style="max-width:120px; height:auto;" />
       </td>
@@ -669,8 +691,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 1</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 27</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +714,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/zf3Rmt4AeUN4w7-47rRQhEFI-w9nJf8e_jzb2W4IcdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjYy/MTAtMTM3MzUzNjA1/Ni03Mzc1LmpwZWc.jpeg" alt="Cover for futureshit" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +735,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/aQCFP5qtDRvfKPloAZgHlIOwkcSAw6oQ9hHAHW-1ZLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYz/OTAtMTM3NDE4NDg3/Ny05ODgxLmpwZWc.jpeg" alt="Cover for Solace" style="max-width:120px; height:auto;" />
       </td>
@@ -732,13 +754,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 70</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 70</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/czPnH8b37TIgeIXgyDaatFgaJsV6EHmEM-Xgd7TAhLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzM4/NjQtMTM3Njk2MDE3/NS02NjI5LmpwZWc.jpeg" alt="Cover for Key to the Kuffs (Butter Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -756,9 +778,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 23</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 37</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 26</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -777,16 +799,16 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 75</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f636525495f1458c7c55f238eb8e27d.png" alt="Cover for Because the Internet" style="max-width:120px; height:auto;" />
       </td>
@@ -799,15 +821,15 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 5</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 17</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 37</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 36</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09b4220d3d24bc585be4bc093de4199.png" alt="Cover for Operation Doomsday" style="max-width:120px; height:auto;" />
       </td>
@@ -821,13 +843,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 15</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 40</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f89941ec562d9ac91b1ff3da1efaa94.png" alt="Cover for Faces" style="max-width:120px; height:auto;" />
       </td>
@@ -841,8 +863,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 50</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 87</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -867,7 +889,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/4ttPkP3rUDqAZuW0w1bSuZfRlz-MqGk92hWwKryB8Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTEw/MzQtMTQ1MzM3MDky/OS04NTA0LmpwZWc.jpeg" alt="Cover for Oblivion Access" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c24ded825ba87f7e7225585fc511e9.png" alt="Cover for Oblivion Access" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Lil Ugly Mane</td>
@@ -880,16 +902,16 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 31</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/3JxEQuTQYHIQ7lwDlIkkc73dA0fDYdLmBoWFwNuEC98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODY2/MzMtMTQ1NTU5Mjcy/MC01MDA3LnBuZw.jpeg" alt="Cover for I Don&#39;t Like Shit, I Don&#39;t Go Outside: An Album by Earl Sweatshirt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b8cbaf756fc0cf5e771c06f920c06ff.png" alt="Cover for I Don&#39;t Like Shit, I Don&#39;t Go Outside: An Album by Earl Sweatshirt" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-23</td>
       <td>Earl Sweatshirt</td>
@@ -900,7 +922,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 64</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 73</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 90</li>
         </ul>
       </td>
@@ -922,19 +944,19 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 31</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 33</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/NPSYoZISk6v6YsMpT_t6SJcOKM4UsBrAmbx-eeLcxlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjcw/MTItMTY0NjA2ODA2/OS01OTg3LmpwZWc.jpeg" alt="Cover for Days With Dr. Yen Lo" style="max-width:120px; height:auto;" />
       </td>
@@ -953,13 +975,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 27</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/SYVvWcFXw5zA7yzbfG_NPRVu0gtzTSQiqi8MMw9fjeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM4/ODU2LTE2MzU5NTgx/OTItMjM0Mi5qcGVn.jpeg" alt="Cover for Emocean" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +1002,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 28</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1005,8 +1027,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 21</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 57</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 23</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1026,25 +1048,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ccd2819cf623ea085ad22d57c0a88b.png" alt="Cover for Lavender" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Yung Lean</td>
-      <td>Lavender</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 23</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1066,13 +1070,32 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ccd2819cf623ea085ad22d57c0a88b.png" alt="Cover for Lavender" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Yung Lean</td>
+      <td>Lavender</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/XI-w966H2KxJ8Z_vAg-8gmR7p_Oxbv4dpD-eaAQIGUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEx/MDE1LTE1NTk1MTY3/MjEtNzE5My5qcGVn.jpeg" alt="Cover for Lazy Summer Day &#x2F; Chinese Restaurant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38aa2c50498b6699bb4f6947425be10e.png" alt="Cover for Lazy Summer Day &#x2F; Chinese Restaurant" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-20</td>
       <td>Yung Lean</td>
@@ -1088,9 +1111,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 86</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 96</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 100</li>
         </ul>
       </td>
@@ -1114,7 +1137,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2016-03-25</td>
@@ -1146,10 +1169,10 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 35</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 38</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 51</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 84</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
@@ -1193,7 +1216,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1212,14 +1235,14 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 63</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/c2781jveoLiH7SQUQ-0zpwL3-gQWmPJ-vn0m-8BvTSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA0/MTkwLTE1MDYyNjg5/OTMtNTA1MS5qcGVn.jpeg" alt="Cover for No Mountains in Manhattan" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1257,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1252,14 +1275,14 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 20</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 46</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 21</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 51</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/xl4JDrjw8RWvF6SnaEre68fWVBYeM4Ob8RmSZpdAI1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcw/ODc5LTE2ODcwOTUy/NzAtNTY5My5qcGVn.jpeg" alt="Cover for Known Unknowns" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,13 +1320,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 12</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 40</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1b97d6ecfb4613ab0b45f3835419c42.png" alt="Cover for Brick Body Kids Still Daydream" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,8 +1340,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 49</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 51</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1338,7 +1361,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1387,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
         <ul>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 18</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 54</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 78</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 84</li>
         </ul>
@@ -1388,9 +1411,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 35</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 51</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 70</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 92</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 96</li>
@@ -1399,7 +1422,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/LmA30CroWiGduUdPxoCCOZj4-C1CPckPFnqhYYSzw5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NDk0LTE1NDM1MDY4/ODAtMzcwOS5qcGVn.jpeg" alt="Cover for Ba Suba, Ak Jamm" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,8 +1435,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1434,9 +1457,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 90</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 94</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 97</li>
         </ul>
       </td>
@@ -1459,16 +1482,16 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 22</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 58</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 80</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/LF3F3qYtzCdw16oRnHWrohT4d4zWpPokDOv-MHPtUQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/OTk4LTE1NTQzMzY2/NTctMzA1Ny5qcGVn.jpeg" alt="Cover for Hiding Places" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,13 +1508,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed902a1757545cc4b4626adb0c55ae36.png" alt="Cover for The Fall of Hobo Johnson" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,11 +1527,12 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/1WKHvWsSX5nqxkI-L0qyM7_XVV3-Dn3VUTz5RlA0JEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/NDc4LTE1OTM4NDYy/MjUtNjYxNC5qcGVn.jpeg" alt="Cover for Own Pace" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,12 +1547,12 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 42</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/pePJtM8EOuC3_oRMltCpZDA9ife2-v4jrA88f54MVRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NzMxLTE1ODU5Njgy/MjctOTI0OS5qcGVn.jpeg" alt="Cover for THE ROCKWOOD ESCAPE PLAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1571,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 30</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 34</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 76</li>
         </ul>
       </td>
@@ -1566,9 +1590,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 77</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 80</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 96</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 97</li>
@@ -1576,7 +1600,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/LDbWowZPGnM6p_IU6UxboKYk0fljj0nGrvA7wgcMtjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODky/MjM4LTE1OTk2OTM2/MzQtMTMzOS5qcGVn.jpeg" alt="Cover for Eastern Medicine, Western Illness" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,26 +1634,6 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/_rG25FUiuP2P4DV15qb1N6aQTMHZhb7PTNAy8n6nNpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/ODc3LTE1ODUzNjk2/MzUtMTY5NC5qcGVn.jpeg" alt="Cover for cLOUDDEAD (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-04</td>
-      <td>cLOUDDEAD</td>
-      <td>cLOUDDEAD (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4027ffe70d4877ba0bf8d0c263505196.png" alt="Cover for BAD NEIGHBOR" style="max-width:120px; height:auto;" />
@@ -1650,10 +1654,10 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 18</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 31</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 76</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1695,13 +1699,14 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 38</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 40</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36b3dc13443db6d27e112dc35f00a11.png" alt="Cover for And, Such Is Life." style="max-width:120px; height:auto;" />
       </td>
@@ -1714,10 +1719,10 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 25</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 26</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 24</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 30</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 35</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 50</li>
         </ul>
       </td>
@@ -1744,18 +1749,18 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 90</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-5Q4JCdFJALL8kM8KQjuGaqmNqI-oSSzP7zaDZiEXck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc2/NTI5LTE1MzYwNTMz/MjQtNjM1OS5qcGVn.jpeg" alt="Cover for Dollar Menu 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1785,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/KLBV3RB8YIF1q_buVJzfizoQzMdLE3Nn0kIyDRTUDRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzY4/ODIyLTE2MjgyODA1/MDctMTIzMi5qcGVn.jpeg" alt="Cover for The Crashing Sound of How It Goes" style="max-width:120px; height:auto;" />
       </td>
@@ -1796,12 +1801,12 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 36</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/8ZSRc8fvkdkhEUjtrB_Xsl7XFP_l5WOkJpOQt_gKS7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDMz/MjIwLTE3MDQ3Njc3/NTktOTY0Ny5qcGVn.jpeg" alt="Cover for TV62" style="max-width:120px; height:auto;" />
       </td>
@@ -1818,12 +1823,12 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 17</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/pkOMzw2v9PIed_xcEP2zi7supAWi4TJxb3j8vjoVSwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQy/OTQwLTE2MzMxNTY4/MjUtODg0Ny5qcGVn.jpeg" alt="Cover for Try Again (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1840,7 +1845,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 24</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 39</li>
         </ul>
       </td>
@@ -1861,13 +1866,13 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 59</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 63</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/-9sTia7iBS2t_0IoVADyAUkwkbSpYnFsSL0KPzBMScg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzI5/OTMzLTE2MzIzMzYy/NDktNDU2MC5wbmc.jpeg" alt="Cover for By the Time I Get to Phoenix" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,11 +1888,11 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 39</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 71</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 93</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 84</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1913,8 +1918,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 42</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 70</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 74</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 80</li>
@@ -1940,9 +1945,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 55</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1966,8 +1971,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 59</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 93</li>
@@ -1975,7 +1980,27 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/_eJ7tC3itm75boPWEAZ5lcPXs_8dsLkC1As4Ok4xRTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc5/MDM2LTE2NjY5OTM0/MTItNjA5MC5qcGVn.jpeg" alt="Cover for Hayalet Islığı" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-07-15</td>
+      <td>FARAZI v KAYRA</td>
+      <td>Hayalet Islığı</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/1jzrBuFxrdn5DIHubKJu4VDBIkrlaexbsBD6TqwYIBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA0/MDQwLTE2Njc5NzIy/ODktOTY3OC5qcGVn.jpeg" alt="Cover for 5 to the Eye with Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1997,7 +2022,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/wWbRA_QAuEyGqTVN3aLgMOuvyrAMpmZ7PtqqUtowItY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMy/NTM0LTE2NjgxOTQw/MzQtNjQzNC5qcGVn.jpeg" alt="Cover for Spirit Roaming" style="max-width:120px; height:auto;" />
       </td>
@@ -2012,29 +2037,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 13</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/yZKbbAuYMZule1VeTa5QdZJoVMOD6Kc7u36b735BvLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/NDUwLTE2ODQ4MDcz/ODctOTIwMS5qcGVn.jpeg" alt="Cover for Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Bedwetter</td>
-      <td>Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 98</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2057,15 +2060,15 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 32</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 34</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 64</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/068ad0b2370449bc813f8f361db3ab0f.png" alt="Cover for Vaudeville Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -2085,7 +2088,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/7ss-os5VyWJUBIfRAW8JmW37kexnq8qHyOKLyAANcKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTEx/NDMtMTM5Nzk1MDEy/Mi0xNzk3LmpwZWc.jpeg" alt="Cover for The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e82446e096e89b9d9aa52b2b797192f.png" alt="Cover for The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-24</td>
       <td>BADBADNOTGOOD</td>
@@ -2104,8 +2107,8 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 74</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 81</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 100</li>
@@ -2113,7 +2116,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/CL-S7DTO24-eTkcTIfJHtcwpEb_t6WJp2aF9YGdrFds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI2/MTI0LTE3MjIwMjMw/NjctMjIxOC5qcGVn.jpeg" alt="Cover for Voir Dire" style="max-width:120px; height:auto;" />
       </td>
@@ -2151,7 +2154,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2176,7 +2179,7 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c42f05e7e5b149d7888799ca23418396.png" alt="Cover for Quaranta" style="max-width:120px; height:auto;" />
       </td>
@@ -2194,9 +2197,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 13</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 76</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2220,10 +2223,10 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 40</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 42</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 76</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 90</li>
         </ul>
       </td>
@@ -2250,9 +2253,9 @@ Abstract hip hop is a subgenre of hip hop music that emphasizes experimental and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 11</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 49</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 52</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 13</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 56</li>
         </ul>
       </td>
     </tr>
