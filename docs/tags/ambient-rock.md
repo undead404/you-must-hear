@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:17:30.412Z
+date: 2025-11-17T23:44:36.276Z
 permalink: tags/ambient-rock
 title: ambient rock
 ---
 
 ## ambient rock
 
-Last updated: <time datetime="2025-10-22T06:17:30.412Z">Wed Oct 22 2025 09:17:30 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-17T23:44:36.276Z">Tue Nov 18 2025 01:44:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
   </thead>
   <tbody>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/trh1NjVSSvVWdGXzMSxk4w6K0xuv0uDpM76a9OhA2WI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzI4/LTE1ODY4NTg4MDQt/NDcxMy5qcGVn.jpeg" alt="Cover for Gone To Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c467ec626bf640c69ac572178cc9f97a.png" alt="Cover for Gone To Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-09</td>
       <td>David Sylvian</td>
@@ -47,7 +47,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5491b886a90c3a66aa898ff1a2f8e0d3.png" alt="Cover for Silence &amp; Wisdom (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -63,13 +63,14 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 47</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58da33f619544f059a39bd3fb86f63a3.png" alt="Cover for Molom" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>John McLaughlin</td>
@@ -91,7 +92,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/iAk1e4_9m2KXYk150hZf7QVXzZe4qB8mxkbjqd_DnoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEx/NDYtMTMwNjg3OTEw/Ni5qcGVn.jpeg" alt="Cover for the owls and eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -123,9 +124,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 34</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 51</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 35</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 48</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 71</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 75</li>
@@ -133,7 +134,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/yqRxI5Dp7voVX71nKTJWammwxlncHd6PcJQwpHjIK8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE4/LTEwOTcwODU0MTUu/anBn.jpeg" alt="Cover for Beyonder" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +154,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/6RbsQktCCFjG_JBdPmvMd5poNFyJI0Xqr1ELfE-co8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NjgtMTQyNzE2NDQ0/NC0zNzU0LmpwZWc.jpeg" alt="Cover for volkan" style="max-width:120px; height:auto;" />
       </td>
@@ -172,8 +173,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8295e1a21f345e081d8d2c6c40dc323.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>A Beautiful Machine</td>
@@ -193,7 +195,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/zRD1qpQQcAKyVhuJlptrI3JTYPvLlKoRGMYKZyFowmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDEy/MS0xMTY4NTg4NTk0/LmpwZWc.jpeg" alt="Cover for Some Protest Music For Today&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +234,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/CdIRT-TuyhqHljuQzUspG5UdKBY7AT47NPPbPrb9_Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTky/NS0xMTc2MTM5MjE1/LmpwZWc.jpeg" alt="Cover for Memories Of A Journey" style="max-width:120px; height:auto;" />
       </td>
@@ -256,9 +258,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/-ACi1lNHzGVELf-R83IuTnKpbCL2bWP50_430gEv6aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk0/OTQ4LTE1OTI0ODQ0/NzItMjEzMS5qcGVn.jpeg" alt="Cover for Deadicated to the Sensory Armada" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/962f5eab0ff44181c172b19fb926c93a.png" alt="Cover for Deadicated to the Sensory Armada" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ashtray Navigations</td>
@@ -294,7 +296,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/Tnb6zYml3rZrJyFKguwZWX2VsEZn87SDpfXHL-8-RCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYy/NTgtMTYwNTI5NDA4/MC00ODg3LmpwZWc.jpeg" alt="Cover for tlvs" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +325,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/s2hY1XwROHZLFzI1j-Nyy0EzEYW_eqb4YHNLY8JMziw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzEw/MDYtMTI0OTEzMDY0/My5qcGVn.jpeg" alt="Cover for Too Emotional For Maths" style="max-width:120px; height:auto;" />
       </td>
@@ -344,7 +346,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/wbHtlFhxRbEd-3z8Exq7g68WYgUBWFRs30FTBNWbZqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/NzEtMTIwNzA4MzQ5/MC5qcGVn.jpeg" alt="Cover for soБЫТИЕ (evENT)" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +369,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
       </td>
       <td>2006-04</td>
@@ -383,13 +385,31 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79699eb0c4b84ff0aa37211c101d745d.png" alt="Cover for Raising Your Voice...Trying to Stop an Echo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11-20</td>
+      <td>Hammock</td>
+      <td>Raising Your Voice...Trying to Stop an Echo</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5370c1dbdbd040f937a285861ae6d286.png" alt="Cover for Honey Slides" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Adam Gnade &amp; Youthmovies</td>
@@ -405,12 +425,12 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 43</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/U5H3SHzrW6QokJRbAun6DSjPE463CRY2V7JmKjfyLyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY4/NTktMTQ3NTUzMzA4/Ni01ODkwLmpwZWc.jpeg" alt="Cover for Echoes (2009)" style="max-width:120px; height:auto;" />
       </td>
@@ -437,9 +457,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/T3sgt_Zv2EkBQKgL9bxXNb5RcsmQoru-34oErpEq01c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjI0/MTgtMTM2NDQ2ODYw/My04MDc0LmpwZWc.jpeg" alt="Cover for Oblivion Works Inside Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Pi Xprnc</td>
@@ -459,12 +478,12 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 13</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/lv-g3UaHVfmgsrhTZ_za6IkGSmcgN202-WLz_8NA79I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg3/NTItMTIyOTA5Mjk0/MC5qcGVn.jpeg" alt="Cover for Naked Loneliness" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +503,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/yBjSxpo71XNFQY3zSGqWlZUbrnYGH9alo7AZ9tJ35xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/OTEtMTIxMDA0NDIx/Mi5qcGVn.jpeg" alt="Cover for Presence.[exe]" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +525,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ywak2ZOI4XANT6eZGQSzr0SlFiEapuG1_eSoF_x8PxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njk0/NzAtMTQ4MTEyNDQ0/MS05NTIzLmpwZWc.jpeg" alt="Cover for Embers of November" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +543,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/n8k-zx5HFSVnnVXG_QyERb6S1L3jt84sSU2jBaNghI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjI2/MjgtMTQxMTYyNjUy/MS05OTE0LmpwZWc.jpeg" alt="Cover for holdstill ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -548,9 +567,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/JD9qnmuNHjxz39f32m1rBMUlR6BrzxITYwB7I8p4e4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjA5/ODYtMTQyNjA4MjE3/OS00ODI3LmpwZWc.jpeg" alt="Cover for The Spook" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd87b6365555d776aef971063278cfc4.png" alt="Cover for The Spook" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-25</td>
       <td>City of Satellites</td>
@@ -572,7 +591,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/7mIAvPKuPQ1QHN18S9jvCzC1Wj9X7gHAMaq_tqMVfqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA1/MDUtMTYyMTI2ODMy/Ny0xMjkxLmpwZWc.jpeg" alt="Cover for EP #1" style="max-width:120px; height:auto;" />
       </td>
@@ -591,9 +610,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/o-IwRLIRIKH1hntCHEs6ZdN3dFp-6JC7QXtdvl2KWK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgz/ODktMTUzMDk3OTY4/MS03ODIyLmpwZWc.jpeg" alt="Cover for robot replicas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b766ebfa6333efabcd9d264dd446d73.png" alt="Cover for robot replicas" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Sanchez is driven by demons</td>
@@ -624,7 +643,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/EfpFnt14EEOyGnu8gmJJi1GsdrJwazU8bOoxSEYd8Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM5/OTQtMTMwMjIxMDY5/OC5qcGVn.jpeg" alt="Cover for Under The Covers" style="max-width:120px; height:auto;" />
       </td>
@@ -679,6 +698,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5172b6d3c71145a6a301003a7ed1db7b.png" alt="Cover for Ki" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-22</td>
       <td>Devin Townsend Project</td>
@@ -697,9 +717,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/DRsAzsf1IVAU9dEj9c_AKJp8TxlfNf1r_UIKE3x2k_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzMx/NTQtMTMwMzEwNjQx/MS5qcGVn.jpeg" alt="Cover for Tangents Box" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a4e7d1e4254d77892b126685589ad82.png" alt="Cover for Tangents Box" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-27</td>
       <td>Tangerine Dream</td>
@@ -717,9 +737,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/5kp7x2kzC26xlu1-9zp9kTwL02gLXGfHePV08WvYGv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgx/NjYtMTI1NDM2Mzc5/NC5qcGVn.jpeg" alt="Cover for Abstression III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/955cfd410b22485aaf0784b777c4415a.png" alt="Cover for Abstression III" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-03</td>
       <td>Abstressionist</td>
@@ -751,7 +771,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/akFE133w10iFiOVu8dnqG8jpj0vNb0aI-dAp_mYeGW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA2/MDgtMTI2MzQ1MjI1/NS5qcGVn.jpeg" alt="Cover for Global EP" style="max-width:120px; height:auto;" />
       </td>
@@ -775,9 +795,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/hcDN4NeIoCe-PPS6HNRv_HaeZDcz8Nh77GNbhxnKKbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjcz/NTItMTI2MjA4MTI4/MS5qcGVn.jpeg" alt="Cover for Contact Book" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32265c2facfd880193a7be6d16feed74.png" alt="Cover for Contact Book" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-31</td>
       <td>Dopedrone</td>
@@ -804,14 +824,14 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 60</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 58</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 76</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/FZSagqqU5UD8yVfkpCiRigzTj4LDeXxgnPS_WgS1uNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njk1/MTItMTQ4MTEyNTEx/NC01NTk2LmpwZWc.jpeg" alt="Cover for All Needles Point North" style="max-width:120px; height:auto;" />
       </td>
@@ -829,9 +849,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/1-tRDGFd9UH1i39enMQVStsnMCjzqljcizPVAPm4cvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk0/OTktMTQzMjU1ODAx/MC0zMzM5LmpwZWc.jpeg" alt="Cover for Satan And His Army EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Srkp</td>
@@ -855,15 +874,15 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 50</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 52</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/1-tRDGFd9UH1i39enMQVStsnMCjzqljcizPVAPm4cvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk0/OTktMTQzMjU1ODAx/MC0zMzM5LmpwZWc.jpeg" alt="Cover for Absurding OST" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3dd4c70bece46daa332a59112fbf49d.png" alt="Cover for Absurding OST" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Srkp</td>
@@ -883,7 +902,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa9c4a8bbdcb46e1b26fe09fee1c8c2c.png" alt="Cover for 12&#x2F;31&#x2F;09 40 Watt Club - Athens, GA" style="max-width:120px; height:auto;" />
       </td>
@@ -896,12 +915,12 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/WYmuR_9z3pr9RoxnODiqQAHIBlCWdA5_Q1cC6MbvsP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDIw/NzA0LTE2MzMwMDEx/ODEtNzI2MC5qcGVn.jpeg" alt="Cover for PiTCH" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +938,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/4BIIEb_0PJxQ9gr6DttMUoBe5t-6vi9M424MpyF7Ses/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM2/NTYtMTM1NDM1NjYw/OS01OTAwLmpwZWc.jpeg" alt="Cover for Lech-Lecha" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +964,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/kvP9MQNjbf3Pt3tIFFs9_rJrvcQEj3S6yGaNGmtJDgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODU0/MzEtMTQ2NDU0OTQ1/OS0zMjIxLmpwZWc.jpeg" alt="Cover for December" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +985,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/zO1P8M2Sw9jLe9oVp1daZkXyorKI8Siz8YHH0AKktxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTEy/OTktMTQ2MDcxNjk3/MS02NjM5LmpwZWc.jpeg" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -995,16 +1014,16 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 19</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 20</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 50</li>
             <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/V7giv4_0XP6MV0srR2I6hgAVKHgfDrlHZlll2a3tGks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjE4/MzQtMTMzMTMwOTU1/NS5qcGVn.jpeg" alt="Cover for Object Permanence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8d95876dbf2496bbb1a066d8d7dcf2d.png" alt="Cover for Object Permanence" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03</td>
       <td>Excavacations</td>
@@ -1044,7 +1063,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/ZPzLgHROAAa6Puuhu6CMxuYSK2B-o1DJUysozUOBMKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjIx/MzEtMTM5MTI1MTE3/My05NjM3LmpwZWc.jpeg" alt="Cover for The Time Travellers" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1083,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b330736ce314aa1bd698250af0c4918.png" alt="Cover for Rain of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,28 +1101,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/pGPfofSZpn_JDfWk-wV3nT5j6HpHWRyl4WQxLtPvTlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzg3/MzktMTM0MjM5NTMz/Ni0xMzg1LmpwZWc.jpeg" alt="Cover for Full Lucid Old Barn" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-06-21</td>
-      <td>Elephant Pancakes</td>
-      <td>Full Lucid Old Barn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/c3UDK-mpwbBNandv04hOokpr0JZOln3Pyj0razj6IFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjIz/MjUtMTM2ODQ0NzUz/NS04NDc5LmpwZWc.jpeg" alt="Cover for Bisamråtta (LP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,9 +1131,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/lapsBJyjxJ-ILjM1Wyi0amXmrbG1Mz0zP6AjvPYj-jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDc1/NTctMTM5MTEzNzEz/OS02NTQ4LmpwZWc.jpeg" alt="Cover for The Nightside EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea1679d19886437782ac132a73783b33.png" alt="Cover for The Nightside EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-13</td>
       <td>1476</td>
@@ -1165,12 +1163,12 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/gknVD8fc8TcjaUQsjebVJrFkSNL1YLaMQ5AGKlQ5tr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTE1/NTktMTQxMTM0NDEx/OC05MjY3LmpwZWc.jpeg" alt="Cover for Novae" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,7 +1188,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>2013-01-24</td>
@@ -1209,7 +1207,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/stPgelAMTzqvYmmuKzm4b-4LXJCaraChQ_kJDv9MvaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjEw/ODAtMTM3Njg1NTQ4/OC0xMTk0LmpwZWc.jpeg" alt="Cover for Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,9 +1227,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/iv6OsOb7DI6SGflRpMIOiVzhX9_g-rth-nlJbQGIZEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTcz/MzQtMTM3MzIzNzI1/Ni03Mzc2LmpwZWc.jpeg" alt="Cover for Geocities" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-22</td>
       <td>Ou Où</td>
@@ -1259,7 +1256,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/RmJeIdjlotS-cFBF7R9KGQugVnUyoRDQtDRg_Silvk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njkz/MTgtMTQ4MTEyMjE1/Ny02NDc5LmpwZWc.jpeg" alt="Cover for Dusk of the Great Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1276,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/wTw1I4KuB-XcZW9uVJ_grU38N1y-kiPTzlytQtV2kq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTk3/NjYtMTQ0NDg2NTA4/Mi03OTYxLmpwZWc.jpeg" alt="Cover for Timeline" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1303,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/zvEUkUWV3SHij96u5Gq5aVqFpsXcHooiMX2PXCN9ITs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzMz/OTUtMTM2ODc4Mzc3/My0zMjU0LmpwZWc.jpeg" alt="Cover for Pedralbes" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,16 +1344,16 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 6</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 4</li>
             <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 48</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/zvEUkUWV3SHij96u5Gq5aVqFpsXcHooiMX2PXCN9ITs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzMz/OTUtMTM2ODc4Mzc3/My0zMjU0LmpwZWc.jpeg" alt="Cover for Permafrost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d50b94f03b0a4333997021808d7a3e53.png" alt="Cover for Permafrost" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-19</td>
       <td>Híbrida, Nen i Cavall</td>
@@ -1371,7 +1368,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/0lRPKyiMQr6rLOJH9BMDD_8O2VVknWjWyKLWXTkv2H8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDAy/ODctMTM2NjY0MTQz/MC05MTQzLmpwZWc.jpeg" alt="Cover for Learning to Cheat" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1422,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/gd701BrFdfXtYFf-KWc8isuOKGllXnu7pkKoz-7pEGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/NTI5LTE1NzYwMTMx/MTUtOTA5MC5qcGVn.jpeg" alt="Cover for Templeton" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,7 +1440,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/168b4e1123c44492c49230c66e98ac54.png" alt="Cover for Young And Courageous" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,9 +1458,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/owPFBpv79elZTqII_d7rWKpytK-JW5bgc-7FAVQYyjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzY3/MjctMTQzNDEzNzMw/Mi02MzgxLmpwZWc.jpeg" alt="Cover for true.deep.sleeper EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-25</td>
       <td>Dead Leaf Echo</td>
@@ -1494,7 +1490,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68a9184ed9a44b06cb49ceb9109637a8.png" alt="Cover for Instrucciones para quedarse solo" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1511,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/A4WM1tq8fzijAg__pBik0WahTsqwQNW7DWn2HKmfGEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjM3/MzItMTUxNDEwNDk5/OC01NDIzLmpwZWc.jpeg" alt="Cover for Rebirth" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,9 +1532,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/rpT4ESArQO9XUhsTMgAVEsvXp5uITOYwqnRRchJbfE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDY1/MTYtMTQxOTQzMDA1/MS00NjIyLmpwZWc.jpeg" alt="Cover for Things That Connect Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a3c2582dd2e4724928989605977c244.png" alt="Cover for Things That Connect Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-26</td>
       <td>Soulsonic</td>
@@ -1562,7 +1558,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/VcMpS2vmOt2Vj4SrWFHRdcfSpahsfB4rXlp3Qido_5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjIx/NDItMTQxNjQyNzU0/OC02NzY0LmpwZWc.jpeg" alt="Cover for Skeletons" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1577,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/X3RDnJ75CTwMuU37i04gH502CI7PWDJzu9Z2fyfYLxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTg4/OTAtMTQ0ODE5MDUz/OS02ODY4LmpwZWc.jpeg" alt="Cover for Hope For The Departed" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,7 +1599,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/gjpjJ-YjgEtg-R_fHmAvIjKbuAM-L26g2YeR9sTq5mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU0/NTM5LTE0OTQxNzY4/NzctMTM1OC5qcGVn.jpeg" alt="Cover for The Ending That We Dream Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,7 +1621,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/LgElnWRoHtV3q2SFjYXpdeC_9Crz1oNUpqaqlnqHPSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU2/OTktMTQ1MzczNTM3/MC00NDYxLmpwZWc.jpeg" alt="Cover for Eternal Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1643,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/3Az8bDRnS04Q0bGe7e15G7BlW1TnKJmaQuPefD5AHtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjI0/ODItMTQ2NDA5ODYy/OS0yMDA5LmpwZWc.jpeg" alt="Cover for [BadPanda065] Lockerbie" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1672,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/Q5ZugGz0huOo8hlOV5En2PXt-RceYB1wG5zb6JPTiT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTQ4/MDQtMTQ4MTU1ODM4/Mi01OTYxLmpwZWc.jpeg" alt="Cover for Dusty Monuments" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1691,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/9B_k0r11xMQ8pNtyn3jxc2mAh8z2wvZ9UOddwg5yWBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTEz/OC0xMTU5MTMzOTI1/LmpwZWc.jpeg" alt="Cover for The Departing Of A Dream Vol. III: Juliet" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1711,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/dHv0NK6Q_SGX1L-5FRBJg9Xj6F3pOBKtwbifaRBQwC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI3/MjctMTQ3ODc1NDcx/OC03MTgzLmpwZWc.jpeg" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1737,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/x9dmbePpyBLUzLR_kfOBjtqba-xwDrP7P6PFHzMYsUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ5/NjYyLTE1NTQ0MjYx/NjEtNDU1Ni5qcGVn.jpeg" alt="Cover for Galaxie Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1760,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/CVqbPg2m20-mg7b6o7MzPZ5pRMKXGvoqqhy71BeUtXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzUy/MTEzLTE2NDIyNzQ2/NzctMzM2Ni5qcGVn.jpeg" alt="Cover for The Coral Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,12 +1778,12 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 19</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/0SodSutfq7ZyobYhs8vlqw3QW8P2VX1fa_XRpNYpKh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzcz/MjMtMTM0Nzc5MTk4/NS01NzEwLmpwZWc.jpeg" alt="Cover for In the House of Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,9 +1804,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/MyzPh18vbqRFUwPXf31Cf_ZToSZrgkLemnPVjaNC3jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE5/NTk3LTE2NjIzNzA1/NTQtNDMxNC5qcGVn.jpeg" alt="Cover for Reaching into the past." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34331530cc24d90d3b6d04fdcfecd83b.png" alt="Cover for Reaching into the past." style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-04</td>
       <td>quantum computer</td>
@@ -1832,7 +1828,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/pWKkHMFOr9ffTXonpPeNe5hXdlGuRyryQsAZnGY1uu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQy/NjkxLTE1NDUwMDI4/NDctNzE4NS5qcGVn.jpeg" alt="Cover for Proximo" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,9 +1851,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/HZLhTXZe4PERbLoGXsoJyTECTEAQGNngu-9IElMgtWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ1/NTA4LTE1MzczNTI4/NDUtNDQ5Ni5qcGVn.jpeg" alt="Cover for The Grandpa Lullabies" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-19</td>
       <td>Gaetano Fontanazza</td>
@@ -1881,9 +1876,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/oEtSiv77EhPGvxa52Znq_BPayTVfZRWuJ2EKPGZ0SIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk3/OTkyLTE1NDgwMTA0/MTAtMjcxMC5qcGVn.jpeg" alt="Cover for The Buried Giant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fee444bd657acf886d545b56644b8b0.png" alt="Cover for The Buried Giant" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-01</td>
       <td>Yseulde</td>
@@ -1904,7 +1899,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/oEtSiv77EhPGvxa52Znq_BPayTVfZRWuJ2EKPGZ0SIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk3/OTkyLTE1NDgwMTA0/MTAtMjcxMC5qcGVn.jpeg" alt="Cover for I&#39;m Happy. Anyway, I&#39;m Not Dying." style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1916,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/2c26MdP0nqqdvjm4nJUY_AoM4k75nEwCRPvnnTC5-Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYw/NTQ0LTE2MDYxNTUy/NTAtNjkzMS5qcGVn.jpeg" alt="Cover for Burritard" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1936,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/casvHPa6EBrwZQ_KHvyqX6sL1l575TcFI8qTBk9QOFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/Nzc0LTE1ODEwOTQ4/NzMtMjMzMS5qcGVn.jpeg" alt="Cover for beko_80" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,7 +1959,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c91ac13de86b85738ce80b3ae37ba79.png" alt="Cover for Drift Ten" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,9 +2003,8 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7da3f4e9c31e745c71bcd82d12007e3.png" alt="Cover for The Demon King" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Magna Carta Cartel</td>
@@ -2029,7 +2023,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96decf7d5e4e22d314dec6ed5391f57e.png" alt="Cover for taking a break from my phone" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,7 +2044,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14e5610779038dccf0cc1ec2702afb6a.png" alt="Cover for annebolyn deluxe*" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,9 +2064,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/ylFoVlDDJLzKYF0QXUjTO3NfupKK2US6lNyyhwgPW3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTIw/MTg3LTE3MDAwNDI2/NjgtNjUyMC5qcGVn.jpeg" alt="Cover for Shoe In" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84d664d50d4fd1edccfb24ba3be6da83.png" alt="Cover for Shoe In" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-10</td>
       <td>Pjos</td>
@@ -2090,7 +2084,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2110,7 +2104,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2137,7 +2131,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2154,7 +2148,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2183,7 +2177,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2206,7 +2200,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2224,7 +2218,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2254,7 +2248,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2272,7 +2266,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2293,7 +2287,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -2314,7 +2308,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -2333,7 +2327,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
       </td>
       <td></td>
@@ -2354,8 +2348,9 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da0abf22b4a4647b0e3fbeb75ccc1a7.png" alt="Cover for Meeresweiten" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Retopia</td>
@@ -2379,7 +2374,7 @@ Ambient rock merges the atmospheric textures and spaciousness of ambient music w
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
       </td>
       <td></td>

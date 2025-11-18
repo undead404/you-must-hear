@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:48:49.446Z
+date: 2025-11-17T23:43:53.485Z
 permalink: tags/noise-punk
 title: noise punk
 ---
 
 ## noise punk
 
-Last updated: <time datetime="2025-11-11T03:48:49.446Z">Tue Nov 11 2025 05:48:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T23:43:53.485Z">Tue Nov 18 2025 01:43:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/3DcVMPY6PErfu-OaOMrzd-lQffsWa_eOUt9ho1ambGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjE4/NC0xMzQyMDMzNDEy/LTIyNzEuanBlZw.jpeg" alt="Cover for Out of the Tunnel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ceea700b6c64144756712727a4f1b85.png" alt="Cover for Out of the Tunnel" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>MX-80 Sound</td>
@@ -52,6 +52,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3960d4437f432be3ce82a9674af354a.png" alt="Cover for Butthole Surfers" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Butthole Surfers</td>
@@ -149,7 +150,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/hRfZCCkhZBXlGM1eg_MgCXW01y2DrM5yHd-1uUwnVeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjU1/NS0xMTMxNTQyNTAx/LmpwZWc.jpeg" alt="Cover for Heartbeat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19b2f3eb47edad01d95324045c7b1691.png" alt="Cover for Heartbeat" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Big Black</td>
@@ -168,6 +169,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d706f834cbdf5418addce46bc62abc50.png" alt="Cover for Soul-Crusher" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-11</td>
       <td>White Zombie</td>
@@ -262,7 +264,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 24</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +304,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 46</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -377,7 +379,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 25</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 27</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 84</li>
         </ul>
@@ -386,6 +388,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fae9077e6dd64b7798f0dff7e7394666.png" alt="Cover for Yo! I Killed Your God" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-18</td>
       <td>Marc Ribot&#39;s Shrek</td>
@@ -457,7 +460,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 59</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -537,9 +540,9 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/jIvxR8-0yN2LcC5o6FFAM7DULjcpCh35xsAtY2TZYlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzMw/Mi0xMTUxOTg2MjU2/LmpwZWc.jpeg" alt="Cover for We Sucked Dick Before You Made It A Trend" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/778ba7fd399b4414c444fdacf0f808ee.png" alt="Cover for We Sucked Dick Before You Made It A Trend" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>RUINHORSE</td>
@@ -576,13 +579,13 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 19</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 27</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 67</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 29</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2006-01-01</td>
@@ -671,7 +674,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +841,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/wfR_ox6YkYJi3jNIB0w3dnwA0TQd3u_oQinh7atZl98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODMw/NjctMTM5NDE4Nzgy/My0zMjA1LmpwZWc.jpeg" alt="Cover for Journal Nº4" style="max-width:120px; height:auto;" />
       </td>
@@ -910,7 +913,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 27</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 26</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 57</li>
         </ul>
       </td>
@@ -1053,7 +1056,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/YRuoHJ2WUFCvBFEKVGf9akV8MNHsc8eh6a4XvUjTUCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTA3/MzktMTQwMDAyOTQy/NS05MTg4LmpwZWc.jpeg" alt="Cover for Mutton" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1076,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/IEEZVYGKgAsiFO0Up28ljcbpdj_SJFmkWdBz5KB2AwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQw/MzItMTQzNzAwMzc0/NC0zMDI4LmpwZWc.jpeg" alt="Cover for Animal Fires" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,9 +1102,9 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/cuujxGVtCMaCkUzdW3h-_fD6U1mNzlq__kpB0VHOvP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODIx/MzgtMTQyODY3NDcw/OS0yMTc1LmpwZWc.jpeg" alt="Cover for LOCUTUS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94c3408c5d4abcd448a1219ac5301c94.png" alt="Cover for LOCUTUS" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>NOSK</td>
@@ -1160,7 +1163,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/zdgJCRNVH86FXKyeo8k4FNJF6KjtC_8kn_AhJGcGKQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDY1/NjEtMTQzMTUyNTE2/My02NzY2LmpwZWc.jpeg" alt="Cover for Paintscratcher&#x2F;CHUD split 7&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1204,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/QJQeOgaRk7eHYA57wCDBtp3n3VvybcwvXp940zNwxA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTQ5/ODktMTQ0MTgxOTkx/NS0xMzA5LmpwZWc.jpeg" alt="Cover for flowers of evil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bff3f20a7ae93aada9a05bcd8bb13329.png" alt="Cover for flowers of evil" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-21</td>
       <td>Flowers of Evil</td>
@@ -1218,7 +1221,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80bbe39d51e505083663c738695ff6a0.png" alt="Cover for Panco Macaque" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1249,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/LtZpDhYAkfXV4IopFMecCWG-f-LzaYobqELRBo_4Q9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYx/MDgxLTE2NTA3Njk0/MjctMTkyOS5qcGVn.jpeg" alt="Cover for Plattenbau" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91a33bccf226081c18db776e2228bb2d.png" alt="Cover for Plattenbau" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Plattenbau</td>
@@ -1349,7 +1352,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/TeKW1ekc1DT8MuH51qjtZ2NaL7xPq-9r0RWf1F15J8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAz/NjU2LTE1MDYyNjEz/NTYtMjY3Ni5qcGVn.jpeg" alt="Cover for CLEAR" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1421,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/0aFqkwWDp5RrvR4o_ZzESKiM7VpkSOH5BE8XjS6HINs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgx/MzA1LTE1MjQwMjk0/ODEtMjkyNy5qcGVn.jpeg" alt="Cover for Consequences Of Mass Production Under The Entertainment Regime" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a49cf1f3adace6350eb8729c2d75ed7.png" alt="Cover for Consequences Of Mass Production Under The Entertainment Regime" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>C0MPUTER</td>
@@ -1439,28 +1442,9 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/4MrrKwwAF6iZgygEqwqGFs4NrdIWjxczkOs4BYL0mac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI2/MTQzLTE1MzE5MTIx/MTAtNzgxNy5qcGVn.jpeg" alt="Cover for Slime Demon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-03-01</td>
-      <td>TV SLIME</td>
-      <td>Slime Demon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/4bNvzWZ34Es9tnkEZVDJ_gKIMGLvhWLgA74cImgC-kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcx/ODg4LTE1MjU3NjA2/OTktNTMyMC5qcGVn.jpeg" alt="Cover for Looking for a Painful Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01881839263dfc2a59fb64c7de7c95a3.png" alt="Cover for Looking for a Painful Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-05</td>
       <td>Tongue Party</td>
@@ -1576,7 +1560,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/Zh0mwbMA7jF1RnrSmgLV9kpvIx41Y9UZLcJdTNiE3H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI3/NjQ0LTE1NzIzMDEz/OTEtMzExOC5qcGVn.jpeg" alt="Cover for A Ghost Across Hell From Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/449902bc785dc65c7e209517ede8f04b.png" alt="Cover for A Ghost Across Hell From Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Solarized</td>
@@ -1623,7 +1607,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/XnTrhsGnk3-cyX-1VYbRTlTO9XxRBG4VWuJhoMnmi-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/MTM0LTE1NTIwNDgx/MDUtOTk5MC5qcGVn.jpeg" alt="Cover for Succulent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77c24007618a19de38cc996cf07c51d1.png" alt="Cover for Succulent" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-02</td>
       <td>Human Leather</td>
@@ -1643,6 +1627,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74779b65c5e4bf30c4dd34f710603dde.png" alt="Cover for いてこまヒッツ" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-26</td>
       <td>おとぼけビ〜バ〜</td>
@@ -1686,7 +1671,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/RnUEM7_luEIWDCdzlzUaX3SSgttZxwtfTgAmMh8lMLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA0/MTYwLTE1NzgwMTAx/NzktMTIxOS5qcGVn.jpeg" alt="Cover for DEMO" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,6 +1695,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8e4218b0cf54cd19476189272a96a1c.png" alt="Cover for happy hour ninja freak show" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-14</td>
       <td>happy hour ninja freak show</td>
@@ -1737,7 +1723,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/fk9JJFtjvdddTSpPf-9E_3Cd_bxUyMgzfLI3eqllVbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk3/NDMxLTE1OTk4MDEw/ODktNDg5Ni5qcGVn.jpeg" alt="Cover for Atlantic Cable + Split Material" style="max-width:120px; height:auto;" />
       </td>
@@ -1776,7 +1762,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2021-01-15</td>
@@ -1795,9 +1781,9 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/61Qin3rRtWQ22theeiij7pnRsz7PREVZCZG2S3A6uXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDMx/MjI4LTE2MzcyNjA2/NzktMjIxNC5qcGVn.jpeg" alt="Cover for Fraught in Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb5441e90effd0825ce4c85644d370c9.png" alt="Cover for Fraught in Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-26</td>
       <td>Gaffa Bandana</td>
@@ -1891,7 +1877,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/rR2JGdwbS3uY3whmDeSls3p9wXpHX-mEvfrPIH4FaBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM4/MjM2LTE2Njk3NTg2/NDktMjA1Mi5qcGVn.jpeg" alt="Cover for Die Nerven" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d5a2fe8254fc4858a2b45d5db6f0c67.png" alt="Cover for Die Nerven" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-07</td>
       <td>Die Nerven</td>
@@ -1912,13 +1898,13 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 8</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 9</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aa7cd99cbd9c9f83de574ae67fa4bf9.png" alt="Cover for RAXIS" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,9 +1923,9 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/nHt-hibFgLgdhlV2QXX5aBv3R7132EkWTk708_6wb94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTYz/MjM2LTE3MjE1NzM1/MzItNTE0OC5qcGVn.jpeg" alt="Cover for The Committee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4554237fbcba4484655040737946c675.png" alt="Cover for The Committee" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-07</td>
       <td>BELK</td>
@@ -1955,6 +1941,24 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1ad40babb3ea8d662b8a009d0d432d8.png" alt="Cover for Congregation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-10-21</td>
+      <td>Witch Fever</td>
+      <td>Congregation</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2005,17 +2009,17 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 36</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 63</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 64</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 38</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 64</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/OFQ2GDMBnpguU5qQbQdL-IPgqDukgJlVVU6rvYc1rPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE2/MDY0LTE2NzMyODIx/NzQtMTczMy5qcGVn.jpeg" alt="Cover for Grief in V Stages" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e87133e660eaabd5893343a900931552.png" alt="Cover for Grief in V Stages" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-23</td>
       <td>Sear</td>
@@ -2054,16 +2058,16 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 87</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 94</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 92</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 96</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 99</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 100</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/yyUzfsJTO8e7OamBnsfrIa3N94SFnzJcMWPoAFDMmEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzgy/NDUxLTE3MTY2OTUz/MDItNTI3OS5qcGVn.jpeg" alt="Cover for Safe Word" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,7 +2179,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
         <ul>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 47</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 48</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 52</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 76</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 89</li>
@@ -2183,8 +2187,9 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc97c9261ffe42c8b7264f67760e7fe8.png" alt="Cover for chew on the other side" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Spotted Pinto Bean.</td>
@@ -2220,7 +2225,7 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2267,5 +2272,5 @@ Noise punk merges punk rock&#39;s aggressive energy with harsh, abrasive texture
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
 - [art punk]({{ "/tags/art-punk" | relative_url }})
 - [experimental rock]({{ "/tags/experimental-rock" | relative_url }})
-- [industrial]({{ "/tags/industrial" | relative_url }})
 - [punk rock]({{ "/tags/punk-rock" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
