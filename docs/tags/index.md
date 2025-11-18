@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-18T03:28:57.580Z
+date: 2025-11-18T04:44:44.008Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-18T03:28:57.580Z">Tue Nov 18 2025 05:28:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T04:44:44.008Z">Tue Nov 18 2025 06:44:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [lounge]({{ "tags/lounge" | relative_url }}) | <time datetime="2025-11-18T04:44:44.008Z">Tue Nov 18 2025 06:44:44 GMT+0200 (Eastern European Standard Time)</time> |
+| [lattice]({{ "tags/lattice" | relative_url }}) | <time datetime="2025-11-18T04:04:17.408Z">Tue Nov 18 2025 06:04:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu-disco]({{ "tags/nu-disco" | relative_url }}) | <time datetime="2025-11-18T03:28:57.580Z">Tue Nov 18 2025 05:28:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [melbourne]({{ "tags/melbourne" | relative_url }}) | <time datetime="2025-11-18T01:48:16.618Z">Tue Nov 18 2025 03:48:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [jazz saxophone]({{ "tags/jazz-saxophone" | relative_url }}) | <time datetime="2025-11-18T00:36:38.054Z">Tue Nov 18 2025 02:36:38 GMT+0200 (Eastern European Standard Time)</time> |
@@ -254,7 +256,6 @@ Last updated: <time datetime="2025-11-18T03:28:57.580Z">Tue Nov 18 2025 05:28:57
 | [chicago house]({{ "tags/chicago-house" | relative_url }}) | <time datetime="2025-11-16T06:51:50.742Z">Sun Nov 16 2025 08:51:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [deep techno]({{ "tags/deep-techno" | relative_url }}) | <time datetime="2025-11-16T05:54:37.848Z">Sun Nov 16 2025 07:54:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [zen]({{ "tags/zen" | relative_url }}) | <time datetime="2025-11-16T04:52:55.605Z">Sun Nov 16 2025 06:52:55 GMT+0200 (Eastern European Standard Time)</time> |
-| [lounge]({{ "tags/lounge" | relative_url }}) | <time datetime="2025-11-16T04:12:34.633Z">Sun Nov 16 2025 06:12:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [sacred]({{ "tags/sacred" | relative_url }}) | <time datetime="2025-11-16T01:23:21.138Z">Sun Nov 16 2025 03:23:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [yoga]({{ "tags/yoga" | relative_url }}) | <time datetime="2025-11-16T00:44:22.028Z">Sun Nov 16 2025 02:44:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [ethnic fusion]({{ "tags/ethnic-fusion" | relative_url }}) | <time datetime="2025-11-16T00:43:21.958Z">Sun Nov 16 2025 02:43:21 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1173,7 +1174,6 @@ Last updated: <time datetime="2025-11-18T03:28:57.580Z">Tue Nov 18 2025 05:28:57
 | [louisiana]({{ "tags/louisiana" | relative_url }}) | <time datetime="2025-10-22T06:39:06.640Z">Wed Oct 22 2025 09:39:06 GMT+0300 (Eastern European Summer Time)</time> |
 | [contemporary gospel]({{ "tags/contemporary-gospel" | relative_url }}) | <time datetime="2025-10-22T06:36:55.025Z">Wed Oct 22 2025 09:36:55 GMT+0300 (Eastern European Summer Time)</time> |
 | [jazz trumpet]({{ "tags/jazz-trumpet" | relative_url }}) | <time datetime="2025-10-22T06:34:45.924Z">Wed Oct 22 2025 09:34:45 GMT+0300 (Eastern European Summer Time)</time> |
-| [lattice]({{ "tags/lattice" | relative_url }}) | <time datetime="2025-10-22T06:34:37.196Z">Wed Oct 22 2025 09:34:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [russian pop]({{ "tags/russian-pop" | relative_url }}) | <time datetime="2025-10-22T06:34:21.917Z">Wed Oct 22 2025 09:34:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [polish metal]({{ "tags/polish-metal" | relative_url }}) | <time datetime="2025-10-22T06:33:28.490Z">Wed Oct 22 2025 09:33:28 GMT+0300 (Eastern European Summer Time)</time> |
 | [mariachi]({{ "tags/mariachi" | relative_url }}) | <time datetime="2025-10-22T06:33:08.797Z">Wed Oct 22 2025 09:33:08 GMT+0300 (Eastern European Summer Time)</time> |
