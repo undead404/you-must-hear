@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T06:37:51.014Z
+date: 2025-11-17T22:49:10.372Z
 permalink: tags/northern-soul
 title: northern soul
 ---
 
 ## northern soul
 
-Last updated: <time datetime="2025-11-02T06:37:51.014Z">Sun Nov 02 2025 08:37:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T22:49:10.372Z">Tue Nov 18 2025 00:49:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -183,7 +183,6 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/YdQBbXqYrncne4_CzODsimmSo_akVzELXeZ_Xa-y2KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTg5/MjQtMTMwNjc2OTI4/MC5qcGVn.jpeg" alt="Cover for Motown 50 Yesterday, Today, Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-07</td>
       <td>The Elgins</td>
@@ -200,7 +199,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/1-T0Nhz_XKuohwHm1H2QZDMls9hcoXFadxgz2j4IFA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQz/NDQtMTMwODYwMTA3/Ny5qcGVn.jpeg" alt="Cover for The Biggest Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92ec02bbb75ea9127c9da19194fcd03b.png" alt="Cover for The Biggest Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Tommy Hunt</td>
@@ -298,6 +297,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47362e14094e4b3b983f6c3cbab85046.png" alt="Cover for Put Your Tears Away" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Jackie Edwards</td>
@@ -316,7 +316,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/yJAdwEcSHryJ2iSwVjg0lKtfN9QL_3RUiV-pg75brzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc0/OTMtMTQxNDEyOTEy/Ni0yMzczLmpwZWc.jpeg" alt="Cover for Planets of Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/882e71e8861bbc6592b1a57bb6d2c5b1.png" alt="Cover for Planets of Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>The Whispers</td>
@@ -357,7 +357,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/5PnGahq5yuZu-_SGqhCaANR2ZAYppSDHMKhI2O9-6kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk3/NDEtMTY1OTE4OTI2/OC0zNzQ3LmpwZWc.jpeg" alt="Cover for Rosetta Hightower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a94f06dbb9224d1ce229417cd8fce6.png" alt="Cover for Rosetta Hightower" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Rosetta Hightower</td>
@@ -413,7 +413,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/WIMRom3b1xG87IGSl0PXPNGSwkuuo_E31JV7hpO04a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTQ5/MC0xMzc0MDQ2NjMx/LTM3MjEuanBlZw.jpeg" alt="Cover for My Magic is Real" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +488,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/1DNtXqSplvbu-GchcFsfYYF-B1icjQMaCB8pfgXY-Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTI2/NzYtMTQwOTg0NzM0/Ny00ODcwLmpwZWc.jpeg" alt="Cover for The First Cut" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a718623c1b1a4ba2b70f1dbf3c7e1a8f.png" alt="Cover for The First Cut" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>PP Arnold</td>
@@ -651,7 +651,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/PtlyA5lx0morvpMJJ5q5mPbpLYOCv1atlyk6zqOCs4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDI0/OTktMTM5MzQ2MDk1/NC05NzgyLmpwZWc.jpeg" alt="Cover for Best of Sapphires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a5af41223864acf862ee4ec6079db70.png" alt="Cover for Best of Sapphires" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>The Sapphires</td>
@@ -705,7 +705,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/qOqS7-ovB1zArWe7cjewJ7LhrR6wTlb-nAbK3CeW7Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/NDgtMTM5MDIzNTky/NS01MzM3LmpwZWc.jpeg" alt="Cover for Band of Gold: The Best of Freda Payne" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/601754009b272daa1d2d6c61ebd704a3.png" alt="Cover for Band of Gold: The Best of Freda Payne" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Freda Payne</td>
@@ -777,7 +777,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/STTr_YMUIcNNoD53TSVvXNhi_MRIlBtc25Cfh5iuzJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg4/NzktMTM4MDMwNTM2/MS03NjM5LmpwZWc.jpeg" alt="Cover for Sounds Like the Flirtations (Marginal Records 1995)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f70ad31eb37b4fbe8621d32361afb441.png" alt="Cover for Sounds Like the Flirtations (Marginal Records 1995)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>The Flirtations</td>
@@ -814,7 +814,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/vwi1hWFAbIG0ziqeQrbvGsyGmhZX94UAmT_KjjwCuuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzgx/ODAtMTUwMTM1NTE3/MC05NTA2LmpwZWc.jpeg" alt="Cover for The Velvelettes Meet the Royalettes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f976a73dff2341c594b1518a2b4456af.png" alt="Cover for The Velvelettes Meet the Royalettes" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Velvelettes</td>
@@ -826,7 +826,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 36</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +845,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 47</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +870,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/_fGzkYTtMMLsfB1quh1oaxoY4gaDdrUQE-G0FqZZds0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODE1/MDQtMTM4NjczMjk5/My05NTQ3LmpwZWc.jpeg" alt="Cover for The Essential Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac74d68d57bcd5656c8401b8494354f0.png" alt="Cover for The Essential Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-06</td>
       <td>The Marvelettes</td>
@@ -888,7 +888,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/JR13L3CjyriaKQ8VyKFrqBXdwHoEVd7jA8eS466rMlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQy/MDItMTMxMTc1OTY0/My5qcGVn.jpeg" alt="Cover for Kim Weston Greatest Hits &amp; Rare Classics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc5d0b2353b1a928502d96cac6ec6ed6.png" alt="Cover for Kim Weston Greatest Hits &amp; Rare Classics" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Kim Weston</td>
@@ -902,7 +902,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 34</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1143,6 +1143,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef0172f7b22bd2b1a163e10adeeb1d9a.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Ann Sexton</td>
@@ -1160,7 +1161,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/sWX44cSpCTvvAbaJhwaRfd8Ujwg75T3CtSqTrCAY71M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDc3/OTgtMTYxOTg1NDM5/OC02ODY5LmpwZWc.jpeg" alt="Cover for Love Is Here and Now You&#39;re Gone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8213e663bc13f3926b108fca00574965.png" alt="Cover for Love Is Here and Now You&#39;re Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Tami Lynn</td>
@@ -1299,7 +1300,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 61</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 62</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 72</li>
             <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 85</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 93</li>
@@ -1363,7 +1364,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/M6jY1JJC7MA93WVLO17FsFffJWceceU5scBQqUM3uhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU0/NzMtMTUzNzQ1OTA4/Mi04NjQ4LmpwZWc.jpeg" alt="Cover for Songs For A Break Up- Vol.1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7e14386ffb54b2eb3c194bd55dd524e.png" alt="Cover for Songs For A Break Up- Vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Fitz and the Tantrums</td>
@@ -1382,6 +1383,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cf9b86703e84313c361c4a03a2f64e2.png" alt="Cover for Eccentric Soul: Capitol City Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -1417,7 +1419,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/B0YbW7A9XEcDTw_ZDtlZmm6ak-EJfvGysKkdwI42c-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTk2/MDUtMTM3NTg5Mjc0/OS03Nzk0LmpwZWc.jpeg" alt="Cover for Ici Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1434,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 8</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1477,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/SMqhNcw3xChOo5ehrOmONHuTwVfoWseq3aMtSE3YZR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEz/MjEwLTE1NTYzOTgz/OTMtNTY4OS5qcGVn.jpeg" alt="Cover for The Cream Of Northern Soul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8361ce169e9d078544aa8f818782d54.png" alt="Cover for The Cream Of Northern Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-18</td>
       <td>Dee Edwards</td>
@@ -1493,7 +1495,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Northern Soul Connoisseurs Vol 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c91a3df505944d3eb0593b79e965a4dc.png" alt="Cover for Northern Soul Connoisseurs Vol 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-14</td>
       <td>Various Artists</td>
@@ -1563,6 +1565,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae58f7d078fccf47f59f96305339865.png" alt="Cover for The Golden Age of Northern Soul Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-14</td>
       <td>Various Artists</td>
@@ -1586,23 +1589,6 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       <td>Talcum Soul, Volume 3</td>
       <td>
         <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>The Wigan Casino Story: The Final Chapter</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a></li>
         </ul>
       </td>
       <td>
@@ -1802,7 +1788,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 28</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1821,6 +1807,23 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       <td>
         <ul>
             <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Freddie Scott</td>
+      <td>Cry to Me - The Best of Freddie Scott</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

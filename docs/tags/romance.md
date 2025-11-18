@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T00:03:21.951Z
+date: 2025-11-17T22:49:31.197Z
 permalink: tags/romance
 title: romance
 ---
 
 ## romance
 
-Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T22:49:31.197Z">Tue Nov 18 2025 00:49:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -57,12 +57,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 74</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 74</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 74</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 83</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/LekX9H7R9cdJUUz-YWZlHC8Fjy6D2cQ5hg-m-PYObQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzYw/NjAtMTQwNjgzNzA2/Mi0yNzUzLmpwZWc.jpeg" alt="Cover for O Samba Em Pessoa" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1965</td>
@@ -126,7 +126,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 28</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -159,29 +159,11 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 21</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 56</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 56</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 72</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 74</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td>1967</td>
-      <td>David McCallum</td>
-      <td>Music: A Bit More Of Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -214,7 +196,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/OHJtLthbSLruh4POdk7xILwjNLl6cCK4CDcchWHUa1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/NTU3LTE1NDEwODQ2/MTgtNTc2Ni5wbmc.jpeg" alt="Cover for Bandeira Branca" style="max-width:120px; height:auto;" />
       </td>
@@ -236,7 +218,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 7</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -271,12 +253,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 90</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/DIZD_b2Wp9WTYc9TGcFVFGqVOPc-2aPaO9k8B6edM_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODcy/MzE2LTE2OTExNTE2/ODgtMzQyMy5qcGVn.jpeg" alt="Cover for Pensa em Mim" style="max-width:120px; height:auto;" />
       </td>
@@ -319,12 +301,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 64</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0de0de25f9fc4ee0ceb009e3a095f5f5.png" alt="Cover for Tim Maia" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +332,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/56mhocW1HzAeUMbzMhu9OFIBAHw9ZjTfttcqr20-ZgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE5/MzQtMTMyOTI0NTg2/MC5qcGVn.jpeg" alt="Cover for Herra Mirandos" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +359,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 46</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 66</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -405,8 +387,8 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 28</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 32</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 91</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
@@ -444,12 +426,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 57</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 57</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 73</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1976</td>
@@ -478,7 +460,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1976</td>
@@ -504,7 +486,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/iBcGOCjjaKyUvmahdiGiES10kKGfF_dUhF_-sfdWP3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQz/MzQtMTQ1MDY1MTAw/NS0xNzk2LmpwZWc.jpeg" alt="Cover for Não se vá" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +512,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b880f3e6a6bc74f8385619f4baf7ad7.png" alt="Cover for I Feel Love" style="max-width:120px; height:auto;" />
       </td>
@@ -557,7 +539,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 41</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 41</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 41</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 62</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -588,12 +570,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 85</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 89</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/SrfhQUfw5tnaxqqvUt9u71w6_sDumREkrbvakqSFYR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDQ2/MjMtMTQwODU3NTcy/OC0yNDYzLmpwZWc.jpeg" alt="Cover for Sorriso de criança" style="max-width:120px; height:auto;" />
       </td>
@@ -615,12 +597,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 8</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4af7983a60ab8f05d2f1fb874fb5e3.png" alt="Cover for America" style="max-width:120px; height:auto;" />
       </td>
@@ -642,12 +624,38 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 17</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/v1kc_AFF95Liyx9AXI4PEemKFC8NQrSkMyoCjXJ2Tgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ3/NjEtMTYzMjkyOTI0/NC02Njg5LnBuZw.jpeg" alt="Cover for Fêmea brasileira" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Lady Zu</td>
+      <td>Fêmea brasileira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/YZwnQvl8wOjETZIVFm4hX1SMEyPv3aLaHoQcFG58paY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg0/ODUtMTMxNzU4MzQw/NC5qcGVn.jpeg" alt="Cover for My Name Is Gretchen" style="max-width:120px; height:auto;" />
       </td>
@@ -700,12 +708,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 64</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 64</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 64</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 76</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1980</td>
@@ -730,12 +738,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 32</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 32</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 32</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 59</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/TWpPZpuWatm75xz8_KPgERH62eOcRZW5vlYcNMcofw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM3/My0xMTc1NzUyMzkw/LmpwZWc.jpeg" alt="Cover for Love Lives Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -762,12 +770,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 68</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75d276875d7d4c77b3f6b9b07039a129.png" alt="Cover for A Arte de Alcione" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +801,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f2727220cab4beca48fe472bc79f182.png" alt="Cover for Modern Lifestyle" style="max-width:120px; height:auto;" />
       </td>
@@ -821,12 +829,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 28</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 28</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 28</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 54</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1983</td>
@@ -847,12 +855,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 5</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1983</td>
@@ -877,12 +885,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 12</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 12</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 13</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 50</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/DjcqXSPLH5XkWFFJ5xP_Tf10z2Z6ck_0hW3I7LF92NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAw/NjItMTI3NjY5MDk4/My5qcGVn.jpeg" alt="Cover for Take Off: The Complete Blue Note Albums" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +910,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec1df4326f314a14ca82eaf101ca50e0.png" alt="Cover for Eyes That See in the Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -928,12 +936,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 8</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 8</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 9</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 44</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d38b9772b34cc7cc51d8b1f8d44d20.png" alt="Cover for Batalhões de estranhos" style="max-width:120px; height:auto;" />
       </td>
@@ -978,16 +986,16 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 44</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 71</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 79</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 81</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/upoq00FhT71sZwsWC__FHz5vg95G-0RS3V8CnVD6Tpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDYw/OTYtMTMyNjcyNTMw/My5qcGVn.jpeg" alt="Cover for Joanna &#39;86" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1021,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/U8HfRKVE9MmU9tWK6gYTC_TizzUoHMT9tzkenr-4iBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc3/OTAtMTQ4MjkzNjI0/NS0yODUxLmpwZWc.jpeg" alt="Cover for Notting Hill - Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1063,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79250ef530e43633c7428e7d03c1e2b7.png" alt="Cover for 21st Century Boys - The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,12 +1088,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 2</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 2</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 3</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 40</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1986</td>
@@ -1137,12 +1145,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 51</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 71</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>1987</td>
@@ -1163,12 +1171,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 4</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dc0d25407f7d81ea803cf5052a5b60c.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,12 +1200,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 18</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a3d9a15ca45a6527324aad591ee61.png" alt="Cover for Let&#39;s Start Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,13 +1228,13 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 21</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 22</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eb0052fc68f477cac72cc71c1a219bc.png" alt="Cover for Dancing in Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1260,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/qfBNpzx7L5xpG-S7K5zWh1WRS022A9m3oiaBKJt95vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA4/MjItMTMwODUyODkx/MS5qcGVn.jpeg" alt="Cover for Modern Talking" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1290,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/tqilD2XwEa-5UQCR86GZtwZvDE7WD2aLmaxNnfbk36Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDcx/NDgtMTQxNjMzNTIw/MC0yMTA4LmpwZWc.jpeg" alt="Cover for Wedding Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1316,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1989</td>
@@ -1333,12 +1341,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 5</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 5</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 6</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 43</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/524cf31b83014fcd8db3d83dfcf7eaf0.png" alt="Cover for Heart Shaped World" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1367,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1644994aadf027ec78c150b725ebb603.png" alt="Cover for Me and a Monkey on the Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1413,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 79</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 79</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 79</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 87</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1435,18 +1443,18 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 32</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 35</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 85</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1991-04-22</td>
@@ -1471,12 +1479,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 36</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/Ao-tJy0K_z34j4fFkjmmAldSaPOCnaB5U6xfneclLfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQx/LTE0MjA5MzY0NDMt/NzkxMC5qcGVn.jpeg" alt="Cover for Baker Street" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,12 +1511,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 67</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/40v5duo9ZoZ2h1eiGFHQjb4iA3jSK49NgdQ3LNLrzDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQ0/MDMtMTYwNjQ4NDQx/MS04NDM3LmpwZWc.jpeg" alt="Cover for Give Peace a Chance" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,12 +1541,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 1</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 1</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 2</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 39</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/526a48188316478485f36fcd007ee2d8.png" alt="Cover for Elis, O Mito" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,12 +1563,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 13</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 13</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 14</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 52</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>1993</td>
@@ -1586,13 +1594,13 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 34</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 60</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/T8YzLu22Wa1iB9pEGWwSc_lng1wJqwwLiz2G3UuIFGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU3/NjQtMTI5NTY1NDgy/MS5qcGVn.jpeg" alt="Cover for Sandra De Sá" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,12 +1622,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 26</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>1994</td>
@@ -1642,12 +1650,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 30</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-5PxL9Cmf8R6EoGFn-YbgE_8GZW6y_pKvBgPJLyxZMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDE1/Mi0xNDQ1NDM1ODQx/LTE5MjguanBlZw.jpeg" alt="Cover for From Now On" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1681,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1996</td>
@@ -1719,7 +1727,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1997-09-11</td>
@@ -1741,13 +1749,14 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 14</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aca54e47730344b72b4fbb0b436eb9f.png" alt="Cover for Blue Bayou" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Linda Ronstadt</td>
@@ -1809,7 +1818,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 76</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 76</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 76</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 84</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1887,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2000</td>
@@ -1896,7 +1905,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2001</td>
@@ -1918,7 +1927,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 20</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1945,18 +1954,18 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 15</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 19</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 92</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 96</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/w_NN-PffXPI2Q608Fv5OnyT5y5PLumSadH1rZfILcvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjYw/MDQtMTMyMTI4MzEx/NC5qcGVn.jpeg" alt="Cover for Bend Me, Shape Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1982,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/-e5eX61ihBAsja-FIeCIo4W-gnVDq9sV3zGyXvxMkY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE1/OS0xMzk4MTE1ODM2/LTE3NTQuanBlZw.jpeg" alt="Cover for Sail Away" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,15 +2027,15 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 50</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 68</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 86</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 87</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 90</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8994dbb15a9b472c8dc241c900dabacc.png" alt="Cover for Voyeur" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2062,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/qtpyMWWDbyIRNYf9QfbSikl1KIeTNvdhpE_AUlVv1hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzU0/MTUtMTQ3NTM4OTEx/MS00NzQwLmpwZWc.jpeg" alt="Cover for All Out Of Love Live" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,7 +2091,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Pyf1XSw9spR7vtyFOcf0iRbYO2clfXx-7thBow3pvJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mzg2/MjAtMTQ2NzcxNzAw/MC0zMzM1LmpwZWc.jpeg" alt="Cover for A Panela Do Diabo" style="max-width:120px; height:auto;" />
       </td>
@@ -2104,12 +2113,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 38</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/F-MH8OSIG7vTdWulJK3u_egT2WIXIwqQkccf4wEzwm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM4/NTgtMTQ3MDM0NTI2/NC00MDE4LmpwZWc.jpeg" alt="Cover for Eva 2001" style="max-width:120px; height:auto;" />
       </td>
@@ -2134,12 +2143,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 3</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 3</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 4</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 41</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2005</td>
@@ -2155,7 +2164,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/q1VF7qDTXNe-Lrrl4fV8R46_egCc6Xc0A6AR3xzvtHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk1/MTQxLTE1NDQwMzA5/MjQtOTQ5Ni5qcGVn.jpeg" alt="Cover for La Vida Es Un Ratico" style="max-width:120px; height:auto;" />
       </td>
@@ -2204,7 +2213,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 70</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 70</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 78</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2236,12 +2245,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 77</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 77</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 77</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 85</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2011-05-19</td>
@@ -2259,7 +2268,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9ed65c5b337129f6b50ca5894d7319.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
       </td>
@@ -2277,11 +2286,11 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
         <ul>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 13</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 34</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 99</li>
@@ -2289,7 +2298,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/nuXMoF9GbjhhnCWvETjAAB5YLvT2OVxdH3HbhzO4EOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjIy/NTctMTM3OTUxNDMx/NC0yODg5LmpwZWc.jpeg" alt="Cover for The Best Exotic Marigold Hotel" style="max-width:120px; height:auto;" />
       </td>
@@ -2311,7 +2320,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb17fa6210f046d2ad6a0bd74ae93619.png" alt="Cover for Partygoing" style="max-width:120px; height:auto;" />
       </td>
@@ -2363,12 +2372,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 50</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2013-09-24</td>
@@ -2409,7 +2418,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/kbQyp5JHtisolfywV_Lex-On3QlRu8JmyrMiyr1ioyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mjgy/MS0xMjY2OTQ0NDYy/LmpwZWc.jpeg" alt="Cover for Story (25 Years Of Hits)" style="max-width:120px; height:auto;" />
       </td>
@@ -2436,7 +2445,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/hwS25VLxBwcTaAx_V7MyWmIckBF8SfgPvexKaFTaaxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzE5/NjgwLTE2OTUwNjEx/NzEtMzM0NC5qcGVn.jpeg" alt="Cover for FINZI: Clarinet Concerto &#x2F; Five Bagatelles &#x2F; Three Soliloquies &#x2F; Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -2501,7 +2510,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd8c5ce4dad43c822c00dec987d295ca.png" alt="Cover for Sweetener" style="max-width:120px; height:auto;" />
       </td>
@@ -2588,7 +2597,7 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3731ff95883e4a4cae372c7243f9396f.png" alt="Cover for La dolce vita" style="max-width:120px; height:auto;" />
       </td>
@@ -2610,11 +2619,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/QxRpG2VHsqvys1Bohhz_TIkMNuPSBypXzbm5X7WntwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/MTctMTIwMzYyMTk1/MS5qcGVn.jpeg" alt="Cover for Thump Pick Six Stacey Q" style="max-width:120px; height:auto;" />
       </td>
@@ -2640,12 +2650,12 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 16</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 16</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 17</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 53</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1a2849ffce2dfdd0a802ef0e13f006a.png" alt="Cover for Aura Glow" style="max-width:120px; height:auto;" />
       </td>
@@ -2669,8 +2679,9 @@ Last updated: <time datetime="2025-11-16T00:03:21.951Z">Sun Nov 16 2025 02:03:21
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7bcdce5f80f8dafc8504e60062c6d82.png" alt="Cover for Premam" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Rajesh Murugesan</td>

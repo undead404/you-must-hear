@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T18:27:40.914Z
+date: 2025-11-17T23:07:42.991Z
 permalink: tags/folk
 title: folk
 ---
 
 ## folk
 
-Last updated: <time datetime="2025-11-12T18:27:40.914Z">Wed Nov 12 2025 20:27:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T23:07:42.991Z">Tue Nov 18 2025 01:07:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/403d95a4671922a60ef05cf8882d1857.png" alt="Cover for Chelsea Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -44,13 +44,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 8</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 32</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/714bb7c07755e002d49f144bfcdfcdc7.png" alt="Cover for Songs of Leonard Cohen" style="max-width:120px; height:auto;" />
       </td>
@@ -65,12 +66,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 20</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb968db6df642125c2cec2d2b0042187.png" alt="Cover for Five Leaves Left" style="max-width:120px; height:auto;" />
       </td>
@@ -85,12 +86,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 25</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 29</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc9fa47430462029c45ae207f9bfe20.png" alt="Cover for Bridge Over Troubled Water" style="max-width:120px; height:auto;" />
       </td>
@@ -106,13 +107,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 86</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
       </td>
       <td>1970-11-23</td>
@@ -126,12 +127,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 41</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad656836a06e4267858d105ddd13fe04.png" alt="Cover for Bryter Layter" style="max-width:120px; height:auto;" />
       </td>
@@ -145,12 +146,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 30</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db14077b223d4e7989703886574f7367.png" alt="Cover for American Pie" style="max-width:120px; height:auto;" />
       </td>
@@ -166,13 +167,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 34</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 80</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4d60ef1d8d01200ed11d01c703f2ba8.png" alt="Cover for Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -186,11 +187,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9aa95277ed1507e7b214157f3bc4873.png" alt="Cover for Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -206,14 +208,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 36</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 45</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 40</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 48</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc70139e0457a04d2749fe062647fc79.png" alt="Cover for Pink Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -228,13 +230,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 44</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 79</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 52</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e0bc99dc2af21ddc3318938e6de9a66.png" alt="Cover for The Freewheelin&#39; Bob Dylan" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +254,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebde64dfd4aa4e00ce17769ce314153e.png" alt="Cover for Blood on the Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -266,12 +268,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 82</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d6eb84e94795f02c1ca15ceec32785c.png" alt="Cover for Still Crazy After All These Years" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +292,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28655f5b4041ad3a90845cf5fb07b604.png" alt="Cover for Graceland" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +312,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ed617023cfb45d18d6dc03d39b1aea4.png" alt="Cover for The Times They Are A-Changin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -324,12 +326,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 44</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d45d313469354dd1ba0b35cba833828a.png" alt="Cover for Bring It All Back Home" style="max-width:120px; height:auto;" />
       </td>
@@ -344,12 +346,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 93</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bcebbb56b1ef810dc3a84f3432ccd1e.png" alt="Cover for Tracy Chapman" style="max-width:120px; height:auto;" />
       </td>
@@ -363,12 +365,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 39</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2312403b76a4d75b23b2b5134142d58.png" alt="Cover for Highway 61 Revisited" style="max-width:120px; height:auto;" />
       </td>
@@ -381,13 +383,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 8</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 100</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7178fb99c3c643bf6bc67b9f8515fbba.png" alt="Cover for Ask Me Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -403,14 +404,32 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 57</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 57</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 58</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f741980f1a82d78ac020f6633e9780d9.png" alt="Cover for Fevers and Mirrors" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-23</td>
+      <td>Bright Eyes</td>
+      <td>Fevers and Mirrors</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>2000-05-29</td>
@@ -427,7 +446,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0ce31385dc243dbb08ac107a2458661.png" alt="Cover for Bookends" style="max-width:120px; height:auto;" />
       </td>
@@ -442,12 +461,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 79</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/swJwDAH1-1u9j9fjjX7CvRExuSBJVhgsnOi2vZFiRRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/NzMtMTYyMzQxNjU3/Mi00MzU4LmpwZWc.jpeg" alt="Cover for Diamonds and Rust" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +484,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>12</td>
       <td>
       </td>
       <td>2002</td>
@@ -482,7 +501,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e68c19aca7c04434aa4d31cf70d02954.png" alt="Cover for O" style="max-width:120px; height:auto;" />
       </td>
@@ -495,14 +514,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 87</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 93</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 98</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
       </td>
       <td>2002-08-12</td>
@@ -514,11 +531,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02dbed3e2c6bdc65bd3639cd596f5244.png" alt="Cover for Tallahassee" style="max-width:120px; height:auto;" />
       </td>
@@ -532,11 +550,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b2ba8a0556fa6537ec542d59018b32f.png" alt="Cover for Four Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +573,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ad6114b393b88c2b5af6a549ce3361.png" alt="Cover for Veneer" style="max-width:120px; height:auto;" />
       </td>
@@ -569,13 +588,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 92</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 96</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 93</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5276617dc2925ee168721ceceda1cd14.png" alt="Cover for Ghosts of the Great Highway" style="max-width:120px; height:auto;" />
       </td>
@@ -589,12 +608,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 34</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8782fdc9f68d419dbdbeaa5a331c181c.png" alt="Cover for Seven Swans" style="max-width:120px; height:auto;" />
       </td>
@@ -608,14 +627,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 28</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 36</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 40</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 54</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/vPk6gAI8lk7m8xs84QIWRy7bnw4E0I4cNIE4MN1FGL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDk5/OS0xNTA3MTI3OTk3/LTY0ODMuanBlZw.jpeg" alt="Cover for Milk-Eyed Mender" style="max-width:120px; height:auto;" />
       </td>
@@ -630,12 +649,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 39</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 45</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4b0ff8971f04844c8f226ffee33c1ba.png" alt="Cover for Our Endless Numbered Days" style="max-width:120px; height:auto;" />
       </td>
@@ -649,12 +668,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/KtNZWB9optvRNniKGH_Ncc91vf5uGtiqLTX8DaeGrJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjQx/Ni0xMTI3MjE5NjAy/LmpwZWc.jpeg" alt="Cover for Crippled Crow" style="max-width:120px; height:auto;" />
       </td>
@@ -668,12 +687,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 86</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d60ccb0abc0b4adeca8964e59981760b.png" alt="Cover for Gulag Orkestar" style="max-width:120px; height:auto;" />
       </td>
@@ -687,15 +706,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 65</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 91</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb4862c27d5ff292b8846bb6468b3377.png" alt="Cover for I&#39;m Wide Awake, It&#39;s Morning" style="max-width:120px; height:auto;" />
       </td>
@@ -708,12 +726,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 8</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78bbf963adff4abcb2c5f7f9f4dce616.png" alt="Cover for The Mysterious Production of Eggs" style="max-width:120px; height:auto;" />
       </td>
@@ -728,14 +746,15 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 6</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 17</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 37</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 8</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 9</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 39</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7365f060b1fd46d4bb2c26d30f4f4768.png" alt="Cover for Woman King" style="max-width:120px; height:auto;" />
       </td>
@@ -750,12 +769,30 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 57</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d75ef4e806248bdbb51c34e7378b6f3d.png" alt="Cover for Black Sheep Boy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-05</td>
+      <td>Okkervil River</td>
+      <td>Black Sheep Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4884fbb2a3714e42cef5a1782e10c26e.png" alt="Cover for Illinois" style="max-width:120px; height:auto;" />
       </td>
@@ -770,12 +807,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 28</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 73</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9f920bcd75f4900856865cb2f3e33c0.png" alt="Cover for Say I Am You" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +830,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e653fc9c0d474be1b6d007a6588b02c9.png" alt="Cover for Fleet Foxes" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +848,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5204b80b65b405e8bf1359475e941b3d.png" alt="Cover for Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -829,7 +866,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>29</td>
       <td>
       </td>
       <td>2006-08-29</td>
@@ -847,7 +884,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eba5726d891c4ce2e97e958b6563fce.png" alt="Cover for 9" style="max-width:120px; height:auto;" />
       </td>
@@ -860,13 +897,11 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 72</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/839d7677ba0445b7aa8bd31979c93c6d.png" alt="Cover for Lon Gisland EP" style="max-width:120px; height:auto;" />
       </td>
@@ -887,7 +922,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3416108ab1ee42c1ab2d930a94a80a1b.png" alt="Cover for Armchair Apocrypha" style="max-width:120px; height:auto;" />
       </td>
@@ -918,13 +953,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 86</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 78</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54098dc785074fcbbc15d405e9b9427f.png" alt="Cover for The Shepherd&#39;s Dog" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +977,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dda4add39fc47b78d43d272e30ecce4.png" alt="Cover for The Flying Club Cup" style="max-width:120px; height:auto;" />
       </td>
@@ -956,34 +991,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 83</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff6a05ad775b4349be869190468bbf55.png" alt="Cover for The Recordings Of The Middle East" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>The Middle East</td>
-      <td>The Recordings Of The Middle East</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 63</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/085533f0bef8ff8a83850d43e09c8ab2.png" alt="Cover for Alas I Cannot Swim" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1014,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc4a32e382734b988e397e2c62940608.png" alt="Cover for Sun Giant" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,12 +1028,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 94</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/800c3723f635474a8443fc62bfd4b02a.png" alt="Cover for 3 Rounds and a Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,7 +1052,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40a55a5d0c094f65a0575a53581117b9.png" alt="Cover for Peaceful, The World Lays Me Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1069,28 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a98f0698c248c3c1b0b87e240099b8ec.png" alt="Cover for Be OK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-14</td>
+      <td>Ingrid Michaelson</td>
+      <td>Be OK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 80 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 48</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
       </td>
       <td>2008-10-14</td>
@@ -1069,12 +1104,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 90</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32bb6e3e98874006b7401811e9d44389.png" alt="Cover for Little Joy" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,14 +1119,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 13</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 72</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1110,12 +1143,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 34</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97bbc1afdfa7c87844b634475f7408d9.png" alt="Cover for Up From Below" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1166,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13c51d62c2104d33a046e8eef22cfb0f.png" alt="Cover for Unmap" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1202,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f9970b496a3fd6293f2f37f54a24a1.png" alt="Cover for Weathervanes" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1221,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c370fa4e163d132bbf0b6879f3851614.png" alt="Cover for Gorilla Manor" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,13 +1236,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 28</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 30</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f83759a50360ff954861c223a5e777.png" alt="Cover for evermore" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,9 +1257,9 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 7</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 35</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 53</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 94</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 100</li>
         </ul>
@@ -1248,15 +1281,16 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 76</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 4</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 79</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 83</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 92</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4acda674a774dedb8a6c47a26cecc84.png" alt="Cover for I Speak Because I Can" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1308,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af66539e54a44c35875dca6623b0c792.png" alt="Cover for Down the Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,14 +1325,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 35</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 50</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 63</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 60</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 64</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a59620d0abacbca9835042611b4118c.png" alt="Cover for The Wild Hunt" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1350,25 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e31a65c997564d19bb1949abebef7cb0.png" alt="Cover for The Head and The Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-29</td>
+      <td>The Head and the Heart</td>
+      <td>The Head and The Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ccba49f9bd947cbb258dfc153806416.png" alt="Cover for Sometimes the Blues Is Just a Passing Bird" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,6 +1378,24 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e9934e3815f2949acc34415d8931aea.png" alt="Cover for THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-10</td>
+      <td>Taylor Swift</td>
+      <td>THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1360,7 +1430,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5742d38780cf7aed20d916afebfe48a.png" alt="Cover for Every Kingdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,12 +1444,11 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff20a3537d91409ca96dc8927d4f879f.png" alt="Cover for Helplessness Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,35 +1462,15 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 40</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 64</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 69</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 70</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/794628af6d9846258bdfe002b5bae948.png" alt="Cover for The Rip Tide" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-08-02</td>
-      <td>Beirut</td>
-      <td>The Rip Tide</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/650b9600b10b93394ddf84d1a17540d2.png" alt="Cover for The Lion&#39;s Roar" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1488,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cccb9cd15cc34a7bb670fca4cba4d63c.png" alt="Cover for All the Little Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1506,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e0bce39e759447d929812185053edc0.png" alt="Cover for The Lumineers" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1524,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d08ead1880d14e7b9437fdfe4e541f66.png" alt="Cover for Babel" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,13 +1538,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 3</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 8</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7af1c40494c4f1ab1152a3a614de416.png" alt="Cover for Babel (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1563,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53a49dbdd4f943ab8ecc25b43c013b9a.png" alt="Cover for Songs from Another Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,15 +1581,15 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 59</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 83</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 69</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 86</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 89</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cc41afc79464daaa840b8c314ad58c3.png" alt="Cover for Edward Sharpe &amp; The Magnetic Zeros" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1607,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/VJF4o3UNAcatr9JO_-fjKUVdmM5R4wIjfqwEyg_d43s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTY3/MDgtMTQwMDE5MDM0/Mi03NzU3LmpwZWc.jpeg" alt="Cover for My Silver Lining" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1625,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7c6566aab7f8c89bc79b581030cb70f.png" alt="Cover for Hozier" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,14 +1641,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 24</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 95</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d904dd085fb44fabcfd0834b8d2a5d92.png" alt="Cover for x (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1669,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f3c07bb127efaf7ef5e6958a5ee0f59.png" alt="Cover for I Love You, Honeybear" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,13 +1682,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 77</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ee015fe1bc4d86cdb9b7c76778e7a6.png" alt="Cover for Strange Trails" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,7 +1706,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea77f864eff0a4283fa30b8edade7ddb.png" alt="Cover for Cleopatra" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,14 +1723,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 88</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 93</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 98</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 94</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b6083496123a7736904f6b77a44895.png" alt="Cover for A&#x2F;B" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,12 +1744,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 30</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b93f253a639282614d8e60af6b0f1fe.png" alt="Cover for Bathing Beach" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,7 +1767,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99d7a86815b46e4965703b6db19030cf.png" alt="Cover for Malibu" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1788,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7026efe7971fba52f75e8367a261c835.png" alt="Cover for Feel Something" style="max-width:120px; height:auto;" />
       </td>
@@ -1754,12 +1802,12 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 31</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abcbd7ec5a4db8a67daebe51ec5d4e17.png" alt="Cover for You - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1826,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65caa8feb38b6f10eb338af3e89a6be.png" alt="Cover for Come On Feel The Illinoise!" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,18 +1835,17 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>Come On Feel The Illinoise!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 43</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 89</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7923448319ef855ae414a624ea5db12f.png" alt="Cover for Mariners Apartment Complex" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,36 +1862,16 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 10</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 90</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 90</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 91</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 92</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92da2f3aa6736aca5ed5f396b31d97e9.png" alt="Cover for Birthplace" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-10-19</td>
-      <td>Novo Amor</td>
-      <td>Birthplace</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/H3tvfehEuXoJ0EwE1oxbJJtI2X6xOMa7OtxZGxkD7go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY3/ODE1LTE2MDg1Mzg4/NjEtMzQzNi5qcGVn.jpeg" alt="Cover for folklore (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,8 +1888,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 7</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 11</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 90</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 99</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
@@ -1870,27 +1897,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/730b84927a14d6dbea2f47871eaef3f8.png" alt="Cover for Your City Gave Me Asthma" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-25</td>
-      <td>Wilbur Soot</td>
-      <td>Your City Gave Me Asthma</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b1ed6bdaba7aa57d94c1bdfb805e972.png" alt="Cover for evermore (deluxe version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,14 +1911,14 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 35</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 46</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 85</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a922abcb8bb0858c0d603e53c2ed52.png" alt="Cover for The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,7 +1936,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 72</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 75</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 76</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 95</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
@@ -1937,9 +1944,9 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f81460440ee620da5906ad28be0f6d.png" alt="Cover for Chemtrails Over the Country Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af1c7e3dd80d32303c08807f930855e5.png" alt="Cover for Chemtrails Over the Country Club" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-19</td>
       <td>Lana Del Rey</td>
@@ -1952,15 +1959,16 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 47</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 68</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 2</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 72</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 92</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9216e654defab114de7936fa5a6abf3.png" alt="Cover for Castle on the Hill" style="max-width:120px; height:auto;" />
       </td>
@@ -1979,33 +1987,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f5034e2badae773871f766fdf1e268.png" alt="Cover for The Wisp Sings" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-11-11</td>
-      <td>Winter Aid</td>
-      <td>The Wisp Sings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 70</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 77</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/eRKoyAFwr9Uk0J3BINYrbCzhOCEimMIoyRIbVWE7oeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk3/OTUxLTE3MTg3NDU4/ODctMzQyNi5qcGVn.jpeg" alt="Cover for The Secret Of Us" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +2003,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 74</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 75</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 79</li>
         </ul>
       </td>
