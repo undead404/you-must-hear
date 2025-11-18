@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:04:57.258Z
+date: 2025-11-18T06:56:52.956Z
 permalink: tags/turkey
 title: turkey
 ---
 
 ## turkey
 
-Last updated: <time datetime="2025-10-28T16:04:57.258Z">Tue Oct 28 2025 18:04:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T06:56:52.956Z">Tue Nov 18 2025 08:56:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/Dn7uYVpHyocPazowEtf-JXzN4Wcgw9LtZDf5jdsZwJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/MDI2LTE2Nzc4MDM1/NDctNzQ0My5qcGVn.jpeg" alt="Cover for Traditional Music of the World, Vol. 6: Song Creators in Eastern Turkey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8523874aa9bd68eb443c95019ac75a64.png" alt="Cover for Traditional Music of the World, Vol. 6: Song Creators in Eastern Turkey" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Various Artists</td>
@@ -46,7 +46,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>1980-08</td>
@@ -87,7 +87,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Songs and Dances of Turkey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/631a204fe2db0e18a7a169ec2b71fc25.png" alt="Cover for Songs and Dances of Turkey" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -107,9 +107,9 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/29UOTV2V_qiKjBtZ8kw2OV5Q_RIYmd1H0HdwejGbvVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ0/NjktMTYxNzUwNDQy/NS01NTUxLmpwZWc.jpeg" alt="Cover for Sufi Music of Turkey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09cfe8ac74a906833e2cefea7019001.png" alt="Cover for Sufi Music of Turkey" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Kudsi &amp; Süleyman Erguner</td>
@@ -152,7 +152,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/55I3WvPV1MZepKemu3IO9LIRGEiHdX4Uetz072GMU1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQy/MTQwLTE1MTgxOTMx/ODMtMzczMC5tcG8.jpeg" alt="Cover for Tzigane - The Gypsy Music Of Turkey" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/F_NRIBCiCsJm2Cjq2VXnJ1WAAvoKku_7HfjQ7M4AIhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTA5/NzEtMTQyMjY2NDM4/NC04MDY5LmpwZWc.jpeg" alt="Cover for Eurovision Song Contest 1996 Oslo" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/F_NRIBCiCsJm2Cjq2VXnJ1WAAvoKku_7HfjQ7M4AIhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTA5/NzEtMTQyMjY2NDM4/NC04MDY5LmpwZWc.jpeg" alt="Cover for Eurovisiong Contest 1997 Dublin" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/bBFwWq-4wfobf75Izc-2QEkxuZbs0iWTo-FekcDhwE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTc0/NzItMTMyMDkxODU2/Ny5qcGVn.jpeg" alt="Cover for Ates Hirsizi" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/x4VwD0DsxTOUGUkEPDXafFF948ag6PY9EDMtPKBXJWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzY1/ODgtMTI5MTMwNDY0/Ny5qcGVn.jpeg" alt="Cover for Bu Aksam Ölürüm" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +309,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/H-qwK8vd-Ds_RA6SxO4kZ73f0IZ_9DqDvRAn4vs76Pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDM5/NzctMTQ4MjQzMDg0/Mi04ODY2LmpwZWc.jpeg" alt="Cover for Burning Lives" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +347,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 66</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 79</li>
         </ul>
       </td>
@@ -370,7 +370,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/7yGJiW4hZovx7-rX3nrijywtrIp_7EGLLZivtdgGLsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDMw/MjItMTQzODA5NDMx/OS00NDMwLmpwZWc.jpeg" alt="Cover for Turk Lokumuyla Tatli Ruyalar" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +408,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/0Yx3UuBDGXGS4wZkQyir9sraIonvsWrzdbX9Jc0b3H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDkz/NDEtMTMzMDgxMDc5/NC5qcGVn.jpeg" alt="Cover for Stands For The Void" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
       </td>
       <td>2003-08-06</td>
@@ -446,7 +446,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/JVLm0Xm_Nwb5QBfx9rtfiaIXKMuChLt1Is72FW5U0EU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDQ4/Mi0xMzMzODc3MTU1/LmpwZWc.jpeg" alt="Cover for Dudu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e60720999fc94b319f73e1526374941d.png" alt="Cover for Dudu" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-12</td>
       <td>Tarkan</td>
@@ -486,7 +486,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/FdHYY18JH5D29mJNWbr8P4tHBYhMVV8W4pzzhG8JVpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEz/MjI5LTE1NzgxODEy/NDgtODY0My5qcGVn.jpeg" alt="Cover for Çökertme" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +505,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/SBhFG48ZYvHqorFJcLQNYDQx1113WUayygp_uV5-LM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzM2/OTItMTQzMzA4OTUz/MS05NDkzLmpwZWc.jpeg" alt="Cover for ESKi DEFTER - KÜÇÜK HIRSIZIM Aykut ilteR" style="max-width:120px; height:auto;" />
       </td>
@@ -561,13 +561,13 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 26</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 27</li>
             <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/o1Ksx-lSMNmbEzZPW2CynCDYfPM7gcWW1VnBaksaS5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTgw/NDYtMTQ3MzM1MTkz/NC0xMTMwLmpwZWc.jpeg" alt="Cover for Ben Ateş - Ben Su" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +588,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/bqfgj5X4LEO3ih2H_m-ZNzwERl4SNo1ztZHsxEBQDXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDAy/NDYtMTU2Njc1MTc3/Ni03OTc3LmpwZWc.jpeg" alt="Cover for Auf der anderen Seite - The Edge of Heaven (Soundtrack zum Film von Fatih Akin)" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +726,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/rcQdQ3joBMm21kTjWRUzCYRHEwj2p1jQw870NXxpJ_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzM0/NDItMTMwMDM5NDc3/NS5qcGVn.jpeg" alt="Cover for Raging Evil Desekration" style="max-width:120px; height:auto;" />
       </td>
@@ -766,8 +766,9 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a072c0c115d466a8fd65f9c3d07403e.png" alt="Cover for A Trip To Innerself" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-27</td>
       <td>Siddhartha</td>
@@ -785,7 +786,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/SWzT6nd4O3FGWRwYRCVu7OBytpbM2AHRgPPizVnlqoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU4/NzYtMTQwNjc0OTU4/NS05MTIzLmpwZWc.jpeg" alt="Cover for The Art Of Eremophobia" style="max-width:120px; height:auto;" />
       </td>
@@ -805,7 +806,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2010-10</td>
@@ -845,7 +846,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/8r29NHIqUTGaZ4jRB7lPLWVAKwRsVrnyAQeYK8EoWO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzQ3/OTctMTQxNTM3NDAz/MS04MDAyLmpwZWc.jpeg" alt="Cover for Semper Caliga" style="max-width:120px; height:auto;" />
       </td>
@@ -865,7 +866,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/XmhmXgEmL11tAlb1uJozHwY2P5aJvJbhsYKpPcrfwBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDkw/MzUtMTQyMTI1MjAx/NC03MzQzLmpwZWc.jpeg" alt="Cover for Shoom" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +890,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/s0zcAkwEmcsH5KA8YQuz8hu8tlpVPp_MXWgl68-HF38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ5/Mjg4LTE1OTAxMzQx/ODgtMTA4MS5qcGVn.jpeg" alt="Cover for The Constant Fear of Being Judged (By You)" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +914,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/rXbVTcXFPyiqYRO5YDBbdJxsTwCJLN3Nf8J2riA_NWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDE4/MTctMTQyNjkzNzIw/NC02MzI4LmpwZWc.jpeg" alt="Cover for Shadows Of Impending Decimation" style="max-width:120px; height:auto;" />
       </td>
@@ -933,7 +934,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/ydqApCwyw84QLuib8vuqKSzaj8qiQoPNRttkkrWV8Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzA5/NDUtMTQ1MDU5NjEx/NS0zNzQzLmpwZWc.jpeg" alt="Cover for Galaktoboureko" style="max-width:120px; height:auto;" />
       </td>
@@ -955,12 +956,12 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/sENNqxKzrl9dLvdzKiYoEjFT_SAfMo9JvjU28mt0ncc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/NTA2LTE1MTA4Nzc5/NzYtMTIzNC5qcGVn.jpeg" alt="Cover for Töz" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +981,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/FHubosza9TWjI9c-oPCkKiLb74LjGJAeZ_kCzD6ZJu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDk4/MDUtMTM4NDcxNjI2/OS04MjYwLmpwZWc.jpeg" alt="Cover for Confronted With Deggial&#39;s Wrath" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,7 +1022,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/GmC-DIx9Fd7DzojTd1F4ylBSXHVl8XUwWfuCi9f97h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjU4/MzQtMTQ0MTQ0ODE1/OS03NjExLmpwZWc.jpeg" alt="Cover for Masochistic Molestation" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,6 +1045,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a78b282a9b1d4d70cda2b64cc6592748.png" alt="Cover for Tavsiye" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-04</td>
       <td>Hadise</td>
@@ -1080,7 +1082,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/dDThIu2x0_DDpCHm_M0t-tcFpqvnCiVJ_uFGsbDOv-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTAw/ODMtMTQ2MTA2NTQ5/MS04Njc2LmpwZWc.jpeg" alt="Cover for Dağlara Çıkacağım" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1101,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/tmYczh0D0E0th51twlNofPhxdmIiWD6lwn92R2cfZ1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDk5/MjItMTQ0MTcyODM2/MC01Njk5LmpwZWc.jpeg" alt="Cover for Sodomy is Nigh" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1121,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/3V-Sb-alihxU5SRC-EggCMSopXQ18_Gz6ya_PuxuoEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/ODgtMTQ1MzIwODgw/MC0zMjQ1LnBuZw.jpeg" alt="Cover for Estos Y Munchos (2: Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1144,26 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2960ef2511a1345672894c2d6ee859c.png" alt="Cover for II (Venus)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-09</td>
+      <td>Palmiyeler</td>
+      <td>II (Venus)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6efe096297aa1ff0b1029b7a91dab0f1.png" alt="Cover for Teni Tenime" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1184,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/eyNeDfAgY8UcwrVZUXdGxRf0Aq1hi_7bI73d9_kZ8dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgz/Nzc3LTE1MjQwNzIz/MzAtMzYwNC5qcGVn.jpeg" alt="Cover for Death Begins" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1291,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/AAgflokTg-WvIebIeoI-sWIlAeU6tzzMKkMLgSgHafs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgy/NTM2LTE1NTMxNjYy/OTgtMTkwOS5qcGVn.jpeg" alt="Cover for Hiç Olmuşsun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2078a1f8804c86c7e27d1098408483a1.png" alt="Cover for Hiç Olmuşsun" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-16</td>
       <td>Melis Güven</td>
@@ -1292,7 +1313,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/Z78Qi1LBQrMKcKEEievuSE3vDh41nCZ5IasEffpR-bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI0/MzY4LTE2Nzk4NzI1/MzktMTMzNy5wbmc.jpeg" alt="Cover for March of the heores" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1331,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/S71wjVSXNJG0tUo5SNGmPoF5ZrqPFwUFkoGMtLEZ-2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM3/MTA2LTE2MTI4OTE5/MzAtOTQzMS5qcGVn.jpeg" alt="Cover for AŞKAŞKSEVGİSEVGİAŞKAŞK" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1351,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/C_NQdfY-Mul3JScaKCj3BEvgAFCPvtnpPvUGmYVuKn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM4/NjM1LTE1OTMyNTU1/MTMtOTU0Mi5qcGVn.jpeg" alt="Cover for Hazır Edin Kınaları" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1370,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/aRjMKGiQnnHfCkat8vMiVxJV9suSTWfgEelyewQgcBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU3/MzM4LTE2NzAxMzc3/MDMtMzQ1NS5qcGVn.jpeg" alt="Cover for A Wind Blows from the Mountain of Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1393,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/WKlyaFbNTza_KwXhtV_ab6kovhJcnxY6EHDIYLMiiok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM4/OTA2LTE2MTI4OTg4/NTctMjkzMi5qcGVn.jpeg" alt="Cover for Düğüm" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,9 +1415,9 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/3Xa0AiAfu1N18Madb6MS_YcEAvA5rFlejbj8amiqhWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDAy/MDk5LTE2Mjk5ODk5/MTEtNDk3Ni5qcGVn.jpeg" alt="Cover for Yalan Lisan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9eed10a0f17ff5e7c9bae8c544fd08ca.png" alt="Cover for Yalan Lisan" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-19</td>
       <td>Kana Kana</td>
@@ -1418,7 +1439,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/fyhpTg2K6FkAZb0yuJYYNvdx827q4HuiAYG9Mo32sBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA1/NDE0LTE2MzAwMDcx/NjItMjM2MC5qcGVn.jpeg" alt="Cover for Güneşin Sesi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09488b5c155992a2ab6408a429ae0770.png" alt="Cover for Güneşin Sesi" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-13</td>
       <td>Kana Kana</td>
@@ -1438,7 +1459,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/z2Vo7dfa3GVIThmVvnN87jHWf7Z2GqFbbLrKYO_vclw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/NDEyLTE2MzU2OTcz/OTItMjU4MS5qcGVn.jpeg" alt="Cover for Hepsi Bu Kadar Mı?" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,9 +1481,9 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/XFTY0URMaYTHze1JnRCU4cN6tiURgwzZgXmyAERUhGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkx/NjkwLTE2Mzc2NzA0/MjgtMTE3Ny5qcGVn.jpeg" alt="Cover for FOX HOUND PROJECT VOL.I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a616392f9832cf1abd073484127025fd.png" alt="Cover for FOX HOUND PROJECT VOL.I" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-23</td>
       <td>FOX PROJECT</td>
@@ -1496,13 +1517,13 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 28</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 29</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/YATZy5ltmqLGcmBBGsyN9whOkjiioapvfPtlgroy5VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc3/MjM2LTE2NDM3MDQx/NTktNjYwMi5qcGVn.jpeg" alt="Cover for AH BIR BILSEM MAXI SINGLE" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1544,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/R2V8IH6wNjHgrbtKZZqNGknUEt9yiUV5bR8FdjVNnS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODU5/ODI1LTE2NDI5NTc0/MTctNDU4Mi5qcGVn.jpeg" alt="Cover for Ölüler Hariç" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6936b8d0ab8c1cfc3aef87ccaa2aab55.png" alt="Cover for Ölüler Hariç" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>Kana Kana</td>
@@ -1582,7 +1603,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2023-12-01</td>
@@ -1617,12 +1638,12 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 31</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -1636,12 +1657,12 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 10</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -1662,7 +1683,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -1682,8 +1703,9 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b06d8afa195259a679b9beb12b9fe7ce.png" alt="Cover for Platonik" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Keskin Viraj</td>
@@ -1707,6 +1729,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55c7211515e57db72cae4de992837d9f.png" alt="Cover for Sunset" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Deefons</td>
@@ -1755,6 +1778,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edb2092606dd4754c72c8e7e081e904c.png" alt="Cover for There&#39;s Nothing" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Zeleia &amp; Golem</td>
@@ -1824,6 +1848,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1741faaac1a44394200a40671a2a9dc.png" alt="Cover for Güneş Etkisi" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gergin Bekleyiş</td>
@@ -1865,33 +1890,9 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
-      </td>
-      <td></td>
-      <td>Baristik Mi Gostembil Project</td>
-      <td>ca445 - Baristik Mi Gostembil Project - Gostembil Sessions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/086360f824a2440591b6c5b42ed629ae.png" alt="Cover for BalkanDzukbokS - Live Demo" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>BalkanDzukbokS</td>
@@ -1912,7 +1913,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -1930,7 +1931,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1948,7 +1949,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -1967,7 +1968,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -1986,8 +1987,9 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fb7eddefc474afab47404143a572f15.png" alt="Cover for Farfara" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Farfara</td>
@@ -2007,7 +2009,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>
@@ -2083,7 +2085,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
@@ -2102,7 +2104,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>
@@ -2163,7 +2165,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
 - [darkwave]({{ "/tags/darkwave" | relative_url }})
-- [synthpop]({{ "/tags/synthpop" | relative_url }})
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
+- [synthpop]({{ "/tags/synthpop" | relative_url }})
 - [world]({{ "/tags/world" | relative_url }})
 - [gothic rock]({{ "/tags/gothic-rock" | relative_url }})

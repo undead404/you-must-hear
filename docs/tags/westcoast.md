@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:59:14.582Z
+date: 2025-11-18T08:06:07.398Z
 permalink: tags/westcoast
 title: westcoast
 ---
 
 ## westcoast
 
-Last updated: <time datetime="2025-11-11T03:59:14.582Z">Tue Nov 11 2025 05:59:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T08:06:07.398Z">Tue Nov 18 2025 10:06:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
   </thead>
   <tbody>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/957c1c7a66364f90955977e43fc824db.png" alt="Cover for Jaye P.Morgan" style="max-width:120px; height:auto;" />
       </td>
@@ -47,13 +47,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 34</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 38</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-b_Vlzxw5MrZ2IzbaM0Lc4A2KT5Vv7-lYGVWMdjy2ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzI3/MjctMTU4MzU5MTAx/NC05NzU1LmpwZWc.jpeg" alt="Cover for The Modern Jazz Quartet at Music Inn, Vol. 2 - Guest Artist Sonny Rollins" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Ivkw7738L51Od172qkl1e_Av1sK3IezMFaQUeIaHyJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUz/NDEzLTE2MjQ0OTQw/MzEtNDg2NS5qcGVn.jpeg" alt="Cover for Seals &amp; Crofts" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dabbc8c769d74df8893f3fc746bb5ec8.png" alt="Cover for On the Waters" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>1970-09</td>
@@ -133,7 +133,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ibFq8EX_Iz_MHyb3oMC5l3MzpA7gmeHFNia7yPuYVCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg5/NTQtMTI0MTYwNzcz/Ni5qcGVn.jpeg" alt="Cover for Year of Sunday" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +156,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/PL2NOrFbUvKCYBI_kyy-lGVlIz2WvU24_osP4A17lU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDI1/NDYtMTQ3NDgwNzAz/Ny05NTE0LmpwZWc.jpeg" alt="Cover for Summer Breeze &#x2F; East Of Ginger Trees [Digital 45]" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/z2xl2rYJ3-hqjpZY22B2u9ZCxsuRGNuSJM8fPpTd5FQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTcy/NDItMTQwMjkzNDc0/Ny05OTAxLmpwZWc.jpeg" alt="Cover for Rhino Hi-five: Seals &amp; Crofts" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +201,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/UsGfyCBpNI8rPBtFLL62BO0sd1od0ukq0CGlShc0lNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgz/NTUtMTQ1NjM0MDI4/MS0xMTU5LmpwZWc.jpeg" alt="Cover for Unborn Child" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +224,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6f80ca977bb17ed09dc64a3a552eaa6.png" alt="Cover for Let There Be Music" style="max-width:120px; height:auto;" />
       </td>
@@ -245,30 +245,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>96</td>
-      <td>
-          <img src="https://i.discogs.com/ChGUfd4Ww5vp0j_aHPINKsM0yztzYrhWPL7exjvcGkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI3/ODUtMTU5MzI1NzY5/MS0yNjkwLmpwZWc.jpeg" alt="Cover for Firefall" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Firefall</td>
-      <td>Firefall</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fdbe2f86e0b46fcc61dffd079794b1e.png" alt="Cover for Hard Candy" style="max-width:120px; height:auto;" />
       </td>
@@ -277,23 +254,37 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       <td>Hard Candy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 84</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 86</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68907db1a92e4df7bae866991e85e88b.png" alt="Cover for Firefall" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Firefall</td>
+      <td>Firefall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/AHXNCKE0d2Sq9EWi67tiZLpcg8I9wPNh6vyVFefnEGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzky/NDQtMTI2Mzc1MTk5/MC5qcGVn.jpeg" alt="Cover for Get Closer" style="max-width:120px; height:auto;" />
       </td>
@@ -316,7 +307,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/s1nXoYrK3IKIsVZGgQCFyG17tvPNfrx7JRZ-EFjmpKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/MjMtMTMwMjExMTcy/MC5qcGVn.jpeg" alt="Cover for Sudan Village" style="max-width:120px; height:auto;" />
       </td>
@@ -339,28 +330,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdc22e9d9ff54ac9a870b2f43779e3b6.png" alt="Cover for Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>America</td>
-      <td>Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a38c0147fd3f39651408345abf3c9e6e.png" alt="Cover for Lost Without Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -369,10 +339,6 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       <td>Lost Without Your Love</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
@@ -381,7 +347,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/P__v0W9DsOsNEdTKqVW_4pxmN_JBvEmOM99N-vKc-r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMx/OTUtMTI0OTk2Mzg1/OC5qcGVn.jpeg" alt="Cover for One On One" style="max-width:120px; height:auto;" />
       </td>
@@ -405,7 +371,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9577c49c8a96c41dbc682be9fc04c829.png" alt="Cover for Jerry Corbetta" style="max-width:120px; height:auto;" />
       </td>
@@ -423,12 +389,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/227f3a3fc2654e10a3681c3e5bf71aea.png" alt="Cover for Mannequin" style="max-width:120px; height:auto;" />
       </td>
@@ -448,13 +414,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 28</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 32</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7ef9ae7f9620226576c2fb6a3eab839.png" alt="Cover for Bobby Caldwell" style="max-width:120px; height:auto;" />
       </td>
@@ -475,14 +441,15 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 43</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 70</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 49</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21135941300744dabcb74db449dd1faa.png" alt="Cover for Burchfield Nines" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Michael Franks</td>
@@ -501,7 +468,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>1978-04</td>
@@ -523,7 +490,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>1979</td>
@@ -542,7 +509,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93fbf5b57cc5ac66b7c946a9fcd2f0cd.png" alt="Cover for Hearts (US Internet Release)" style="max-width:120px; height:auto;" />
       </td>
@@ -566,7 +533,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/ZyK23NUOAiA1s5LUDxPcrVHv6F29_0HqCd4MDGcs9ME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDkx/MS0xMTc2NTAyMzMy/LmpwZWc.jpeg" alt="Cover for Sailing" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +552,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 48</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -611,14 +578,14 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       <td>
         <ul>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 90</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 92</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/E-a_3FmrldxAPFUmS2A-tYuzakuGiWkKQwzZeJBFrkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODE3/ODItMTU3NzQwNTEy/OS0xNDcwLmpwZWc.jpeg" alt="Cover for Airplay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d96d07e6c9dda5d526441f54919f1c9f.png" alt="Cover for Airplay" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-01-15</td>
       <td>Airplay</td>
@@ -630,13 +597,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 43</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 42</li>
             <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d21fd893f2ae4796a1866ee4f1fe0c62.png" alt="Cover for The Longest Road" style="max-width:120px; height:auto;" />
       </td>
@@ -659,7 +626,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/NST0my_jNwRFkh9q9IyueOgjNQHAgod9DQnmADZT7fY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTkw/MzgtMTYzNzA1NjE5/Ny03Njk5LmpwZWc.jpeg" alt="Cover for Maxus" style="max-width:120px; height:auto;" />
       </td>
@@ -674,12 +641,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 61</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/323328cd926461927b6e57d8a931b26c.png" alt="Cover for Nightwalker" style="max-width:120px; height:auto;" />
       </td>
@@ -697,15 +664,34 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 52</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 73</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 58</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/YgfkWhx4CbJI_vgU5zxsIa8iP5OCnia2nWJEPw6x_rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU3/NjItMTQyNjQzMDAy/Ny01MzEzLmpwZWc.jpeg" alt="Cover for Eye to Eye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c59b38e08755999d77459c887f3d0f0.png" alt="Cover for If That&#39;s What It Takes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Michael McDonald</td>
+      <td>If That&#39;s What It Takes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bba1766a5964fdf09434953b91a2f2f.png" alt="Cover for Eye to Eye" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Eye to Eye</td>
@@ -719,12 +705,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 44</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9211a917d3eeb738480075ce4f97102.png" alt="Cover for Bill LaBounty" style="max-width:120px; height:auto;" />
       </td>
@@ -742,15 +728,15 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 62</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 77</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 67</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/ihKkCTxJiZ9kOYHvrDZmIm6v5WFHoR4SresGWkRu1yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYx/MDktMTQ5NTIyMzI5/Ni0xOTIyLmpwZWc.jpeg" alt="Cover for Wild Heart Of The Young" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04f5799a71bda0379e589f734c0d7018.png" alt="Cover for Wild Heart Of The Young" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-03-05</td>
       <td>Karla Bonoff</td>
@@ -771,7 +757,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>1982-10-31</td>
@@ -789,7 +775,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/jxa7oGGwz4FZlZ90IbOrygVgMXaP-WCyNtt-6lb28DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzY4/OTAtMTQ4Mzk5NjUw/NS04MTE3LmpwZWc.jpeg" alt="Cover for A Night In Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -808,12 +794,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
       </td>
       <td>1983</td>
@@ -832,12 +818,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       <td>
         <ul>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 3</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 34</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/yK0pVCHz7X5GpIX4zW5bgHxUFFjqxVF83OuGlcSbyvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYy/MTAtMTIzMDM3Njg4/MS5qcGVn.jpeg" alt="Cover for Walk A Fine Line" style="max-width:120px; height:auto;" />
       </td>
@@ -857,7 +843,25 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb162816f061ec42f6ea0a2cc2a9a7c.png" alt="Cover for Another Page" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983-01-31</td>
+      <td>Christopher Cross</td>
+      <td>Another Page</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/jxa7oGGwz4FZlZ90IbOrygVgMXaP-WCyNtt-6lb28DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzY4/OTAtMTQ4Mzk5NjUw/NS04MTE3LmpwZWc.jpeg" alt="Cover for A Night in Paris (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -876,12 +880,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 27</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/YfysQj09kps1TWl1cMWQVQWfR1d7-fJL28Hycc2ZfLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTMw/NC0xMTc1ODM5NjM2/LmpwZWc.jpeg" alt="Cover for Black Cars" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +906,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/r-FuIsiQxpB7s4Ql-3YZliuJzTj_GR-ABAy2uyHeOfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI5/NzUtMTM5NTIxNTUy/NS04MDk0LmpwZWc.jpeg" alt="Cover for Every Turn Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -921,32 +925,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 62</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Constant Drama" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Various Artists</td>
-      <td>Constant Drama</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/uVvohYpjJEwqqnramCDP3KpEgF5aPZ5_3fSGhIqXqXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzk5/NzAtMTUxMDgzNjc4/OC04NDA4LmpwZWc.jpeg" alt="Cover for Rendezvous" style="max-width:120px; height:auto;" />
       </td>
@@ -962,12 +946,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 33</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/SeHhHy4zqkhXaK1yBhhkxZKG3NTL9SbM9QuAIscrA1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTIy/MzUtMTQyOTk2MTQ5/MS01MjU0LmpwZWc.jpeg" alt="Cover for Ventura Highway &amp; Other Favorites" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +974,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1994-08-25</td>
@@ -1008,12 +992,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 15</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/C8Q20vDhiM2Tp18CWNAPPaZ5eZU4AN1kQI8PSI1sh10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcw/MTgtMTQxMDE5OTg0/OS02MzgzLmpwZWc.jpeg" alt="Cover for Smoke and Mirrors" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,12 +1016,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 6</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/PL2NOrFbUvKCYBI_kyy-lGVlIz2WvU24_osP4A17lU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDI1/NDYtMTQ3NDgwNzAz/Ny05NTE0LmpwZWc.jpeg" alt="Cover for Summer Breeze (Remix) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1044,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d7c1aa0eccef366a3bef28d48c6ab1d.png" alt="Cover for Southbound" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,7 +1066,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95889ae1dae000837cdc9f7282af0e14.png" alt="Cover for Do You Wanna Ride?" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,12 +1080,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 16</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27c4b7185853035310a0a9b0b45d25a1.png" alt="Cover for Parcels" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,12 +1108,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 5</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>1998-06-02</td>
@@ -1146,7 +1130,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6af153e5449d388202acb35d58b55af.png" alt="Cover for Heat" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1150,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/RtWLL8qBMFJYoqGHdGItJKeIwaNIhF8W_ntMb9NeR8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mjk4/MzItMTQyNTQ2ODgw/NC02MTcwLmpwZWc.jpeg" alt="Cover for Dreamtown" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1170,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/RtWLL8qBMFJYoqGHdGItJKeIwaNIhF8W_ntMb9NeR8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mjk4/MzItMTQyNTQ2ODgw/NC02MTcwLmpwZWc.jpeg" alt="Cover for Red Ray Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1190,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/evIdGDiTyEn37fmJDprYF19uXXJx4-1ijCKCNQK6wR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQw/MjU1LTE1NzIwMDU3/NTktOTAzNi5qcGVn.jpeg" alt="Cover for Ride Like the Wind - The Best of Christopher Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,12 +1209,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 4</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/xKOsAS5bBBW7D3g5Gf6iUoTTHK8uZ5wBCjWCEumtuuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM0/NzMzLTE1NzA0MDM1/NjMtMTgyMC5qcGVn.jpeg" alt="Cover for SPEAK OF THE DEVIL (The Unreleased Verses)" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1233,29 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78d7b4b743dd4143b214c8f5f38802da.png" alt="Cover for America&#39;s Greatest Hits - History" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>America</td>
+      <td>America&#39;s Greatest Hits - History</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/QuPLbiA0D3AzA78ZnDA6jaYJcyxSjN_4Bk_PekVV0fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQx/MzktMTI3MTEyOTY2/NS5qcGVn.jpeg" alt="Cover for Crip Hop" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,28 +1275,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78d7b4b743dd4143b214c8f5f38802da.png" alt="Cover for America&#39;s Greatest Hits - History" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>America</td>
-      <td>America&#39;s Greatest Hits - History</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/kKHsQmuSz_T_Afz1LIFP3NhjKTJzvvSPljoKmMDDmm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjc0/MjItMTI1OTQxMDYw/My5qcGVn.jpeg" alt="Cover for The Definitive Christopher Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,12 +1294,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 31</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/eIkTYN0WjECgsz-8zdJqyHBDBLjwbbHIjZnBlIZg-hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjE2/MDMtMTM4NTA3NzEz/OS04MDA3LmpwZWc.jpeg" alt="Cover for K.B. &amp; Lil&#39; Flea of Street Military Chopped &amp; Skrewed" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1321,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2002-11-12</td>
@@ -1358,7 +1343,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2004-06-21</td>
@@ -1380,7 +1365,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ed633c674d6627a877fa19b3e651649.png" alt="Cover for Ghost Unit" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,7 +1383,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2873fbdf16e3a8a2c12e8a579a9894bf.png" alt="Cover for eine kleine stadtmusik" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1411,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>2006</td>
@@ -1443,7 +1428,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc48f8a4278547d2962fb81c4f8ea764.png" alt="Cover for These Are The Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,13 +1449,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 37</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 63</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 43</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/MtINpXr3NBG8pu4E7fq2VT2rER09A6owxHOpYx4vWEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg2/MTUtMTI5ODA3MzYz/MS5qcGVn.jpeg" alt="Cover for Everytime I See Your Face" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,12 +1474,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 17</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/263c82473d7443cb9bdf64f67d3c5cdb.png" alt="Cover for Full Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1502,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f9198ada2e8432d8feedd9a4b446faa.png" alt="Cover for Cleaning Up The Business" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1524,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/nMXlkucVb93PFUb7zIi4_Gf68ff07JPgUgXbM_aDe8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTI4/MDktMTU1MTE1NTM2/MS0yODQ4LmpwZWc.jpeg" alt="Cover for King Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,9 +1544,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/NYu9UfPPZ6CkJPccwlrWeadqbOhfAJXYjtAvRmG0u6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzQ0/MDctMTM4ODMyMTk4/MS00MDEwLmpwZWc.jpeg" alt="Cover for Days in L.A." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bead500af1d1ba2a825006b8ea645fac.png" alt="Cover for Days in L.A." style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-01</td>
       <td>Daniel Andersson</td>
@@ -1579,7 +1564,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/RsbNWRmyF5W7xrODb3JtcWc9yBHRw2Rz2OJIvq9sNFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjE4/NTAtMTQzODM1Njg4/NC0xMjU0LmpwZWc.jpeg" alt="Cover for No Kiddin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1587,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2846d2b0f74529838e27570aa87387.png" alt="Cover for Musically Adrift" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,13 +1605,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 4</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 5</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/XscARmU3fqYS-ttuQrXgc8Cf_eIjE2VH0c2XY1KIc-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI0/NzktMTI1NTk1NTgw/OS5qcGVn.jpeg" alt="Cover for Bass Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1630,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9adf4babd33f4f178638bab30f4e6182.png" alt="Cover for State Cows" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,12 +1649,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 25</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/AhPc8jWixv61YioWk8RnDHweGBmpWvFA1fIcPP1Cjjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzAx/ODUtMTMyNjA0MjQ3/Mi5qcGVn.jpeg" alt="Cover for The EP - Volume 2: Lovers Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1672,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed65eed830be13dcb4fff36a7666c19.png" alt="Cover for Georgy Porgy" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1694,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcde6e40e7f3435f8f69741890eee338.png" alt="Cover for Somewhere Down The Road You&#39;ll Listen" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,13 +1713,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 11</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 45</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 12</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/_5T6ltZLZfakefGpiHl6keftLEpBnqTJyCopg_nviiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY2/MDQtMTU3MTQ4Mzc5/OS03MTA3LmpwZWc.jpeg" alt="Cover for Keep Movin" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,13 +1737,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 49</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 72</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 55</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b4ed625566632f0959627904a5305a.png" alt="Cover for Summertime" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1765,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5586d6d55124493a8e5167ffc178515e.png" alt="Cover for Rhino Hi-Five: Robbie Dupree" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,15 +1784,15 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 5</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 39</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 6</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/AgDX9pisfeBpgJuDTFE6e1CyMHXtZSy3stq33gYFb14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjQ5/MTEtMTUyMzAwNjAz/Ny00NTEwLmpwZWc.jpeg" alt="Cover for The Second One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ac931d102bf49afaf0c1d41ed2c9f9c.png" alt="Cover for The Second One" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>State Cows</td>
@@ -1824,7 +1809,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b495c32b15000414a6871d1a6d27d5e.png" alt="Cover for AOR" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,12 +1828,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 67</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85503870447b42cec298a5951c46f393.png" alt="Cover for Stepping Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,9 +1851,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/fx6U-zeQpQWy50baTPGQF2SARCg3InkBAV2vGk7teOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIz/NTg0LTE1NzYzMTEz/MzItMjI5Ny5qcGVn.jpeg" alt="Cover for The Second Seconds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54ad2a4eab4ab8c1a7c424be173f1c86.png" alt="Cover for The Second Seconds" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-02</td>
       <td>State Cows</td>
@@ -1886,7 +1871,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01449314bbb5d8e57ed9d6533ac43a80.png" alt="Cover for West End Coast" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,13 +1889,13 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 65</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 70</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc51aedc6ac8799f6fb0dc3ccff00af.png" alt="Cover for Perpetual Gateways" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,9 +1919,9 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/8oNJ-j8jgXxLlwM8O09zdNSJhRgJDTir-IevDWEh3jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIz/NTcwLTE1NzYzMTA2/MjQtODQ2NC5qcGVn.jpeg" alt="Cover for Stealing the Show" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cbf8924d5d8dbc6dc619d3ab5249ed5.png" alt="Cover for Stealing the Show" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-20</td>
       <td>State Cows</td>
@@ -1976,7 +1961,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/275824c991bfe5c1b8458daa48440884.png" alt="Cover for Left" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,7 +2003,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f638b38c2e3ebeef2faa4ba2d43dab7d.png" alt="Cover for AM Waves" style="max-width:120px; height:auto;" />
       </td>
@@ -2027,22 +2012,17 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       <td>AM Waves</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 58</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 75</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 63</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1816e5b0e9a71009a98aa5bcb8c0aa13.png" alt="Cover for Criterion of the Senses" style="max-width:120px; height:auto;" />
       </td>
@@ -2065,7 +2045,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/L8BdEX_Az2tuUm8fwx9Jzan5vaRCJj2-FdzWCLa-fgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgx/NDA1LTE1NzEzODI5/NTMtNDU4MC5qcGVn.jpeg" alt="Cover for Three Little Words" style="max-width:120px; height:auto;" />
       </td>
@@ -2084,7 +2064,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d3e972f776759525ee9fe3fe391b21e.png" alt="Cover for Time to Decide" style="max-width:120px; height:auto;" />
       </td>
@@ -2103,12 +2083,12 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 16</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2134,7 +2114,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2152,7 +2132,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2170,7 +2150,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2188,7 +2168,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2219,7 +2199,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed9c320d47a47c5363957cdb692c373.png" alt="Cover for GODLY GANGSTARISM" style="max-width:120px; height:auto;" />
       </td>
