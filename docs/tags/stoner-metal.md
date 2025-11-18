@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T13:41:41.255Z
+date: 2025-11-18T09:28:06.450Z
 permalink: tags/stoner-metal
 title: stoner metal
 ---
 
 ## stoner metal
 
-Last updated: <time datetime="2025-11-07T13:41:41.255Z">Fri Nov 07 2025 15:41:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T09:28:06.450Z">Tue Nov 18 2025 11:28:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,29 +29,6 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>Melvins</td>
-      <td>Bullhead</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 18</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 60</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 62</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/696fd518637f472080af1f234261a019.png" alt="Cover for Wretch" style="max-width:120px; height:auto;" />
@@ -65,7 +42,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 4</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 7</li>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 15</li>
         </ul>
       </td>
@@ -106,14 +83,14 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 10</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 14</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 88</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1994</td>
@@ -126,7 +103,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 27</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 28</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 71</li>
         </ul>
       </td>
@@ -168,12 +145,12 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
         <ul>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 84</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 98</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 98</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1995</td>
@@ -207,7 +184,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 94</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 99</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -248,7 +225,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 72</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 31</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 87</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 88</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 97</li>
@@ -257,8 +234,9 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc0921f71e7d4f10aeda40bb5dc0000a.png" alt="Cover for Frequencies From Planet Ten" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-12-01</td>
       <td>Orange Goblin</td>
@@ -270,12 +248,12 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 31</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1998</td>
@@ -292,7 +270,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a96910087fde22ce73033a54dfb344fa.png" alt="Cover for Time Travelling Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +344,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20c7258876a940eec0ba32ded26e4a84.png" alt="Cover for Stronger Than Death" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +377,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 59</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +418,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2001-01-16</td>
@@ -457,7 +435,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ae7097d37f42558655baaa4836b6db.png" alt="Cover for Staring At The Divine" style="max-width:120px; height:auto;" />
       </td>
@@ -491,7 +469,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 23</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 24</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 90</li>
         </ul>
       </td>
@@ -516,7 +494,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2002-05-21</td>
@@ -531,7 +509,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 63</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -602,7 +580,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 63</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 65</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 81</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 99</li>
         </ul>
@@ -661,7 +639,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 52</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -704,7 +682,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9386bf451efc407a9583f155b303a4a0.png" alt="Cover for Demons" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +701,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cec800f0e3349118e3a1b741c5bbca9.png" alt="Cover for In the Arms of God" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +717,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 20</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -800,7 +778,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2005-10-25</td>
@@ -833,7 +811,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 50</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -852,6 +830,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 1</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 87</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 93</li>
         </ul>
@@ -874,7 +853,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 34</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 36</li>
             <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 98</li>
         </ul>
       </td>
@@ -912,7 +891,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 2</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +969,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2008-03-18</td>
@@ -1009,7 +988,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2008-03-24</td>
@@ -1027,8 +1006,8 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 5</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 40</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 7</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 42</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 88</li>
         </ul>
       </td>
@@ -1072,7 +1051,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Sq4LPXkxoq7VppyA1dHEZ98fUAZnnMDd9vramxvOyS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU5/NjYtMTIyMzg1ODUx/Ni5qcGVn.jpeg" alt="Cover for Idolum" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1070,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-09-30</td>
@@ -1163,7 +1142,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2009-09-30</td>
@@ -1183,6 +1162,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75b7b582b8d7491ea44e29fc5c71dd29.png" alt="Cover for Shrinebuilder" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-12</td>
       <td>Shrinebuilder</td>
@@ -1213,8 +1193,8 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 17</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 44</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 86</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 91</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 93</li>
         </ul>
@@ -1239,7 +1219,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2010-04-13</td>
@@ -1348,6 +1328,23 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2011-03-15</td>
+      <td>Red Fang</td>
+      <td>Wires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>85</td>
       <td>
       </td>
@@ -1365,7 +1362,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-08-02</td>
@@ -1382,7 +1379,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2011-10-25</td>
@@ -1396,7 +1393,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 68</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1416,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63a468a511554748a54f3adbecd7f324.png" alt="Cover for Sounds Like Hell, Looks Like Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1445,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 21</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1474,6 +1471,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d44f2f93f37f4fc9b7610534ff6e6c2d.png" alt="Cover for Harmonicraft" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-24</td>
       <td>Torche</td>
@@ -1491,7 +1489,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-08-28</td>
@@ -1523,7 +1521,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 60</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1561,13 +1559,14 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 30</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 52</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f12c24164a8bcb942bac7bb1281424b.png" alt="Cover for Omnium Gatherum" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-07</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -1578,9 +1577,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 37</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 45</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 99</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1602,7 +1599,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2014-08-15</td>
@@ -1637,7 +1634,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2014-10-06</td>
@@ -1690,7 +1687,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/G11GwxSxKvlnHHwr0Wox68laEJV3cJyp2J5Utw8_tvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzcz/MzUtMTQzMjIzNjQ4/MC02MzMzLnBuZw.jpeg" alt="Cover for Black Age Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,12 +1756,12 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 21</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/3SmRBYP2zJcK_ZM63WB8QmEXTT1H1uVvWP2vvuIFHww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTIx/MjYtMTQ3NTY4OTE5/NS05NzQ3LmpwZWc.jpeg" alt="Cover for Only Ghosts (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,7 +1791,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 26</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 31</li>
             <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 55</li>
             <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 56</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 60</li>
@@ -1843,7 +1840,7 @@ Stoner metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2018-11-09</td>
