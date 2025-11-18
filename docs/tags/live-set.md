@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T12:46:55.104Z
+date: 2025-11-18T12:10:14.555Z
 permalink: tags/live-set
 title: live set
 ---
 
 ## live set
 
-Last updated: <time datetime="2025-11-16T12:46:55.104Z">Sun Nov 16 2025 14:46:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T12:10:14.555Z">Tue Nov 18 2025 14:10:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -399,7 +399,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 22</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1217,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 10</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 6</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 14</li>
         </ul>
       </td>
@@ -1543,7 +1543,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 6</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 2</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 9</li>
         </ul>
       </td>
@@ -2581,27 +2581,6 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2024-01-25</td>
-      <td>Solipsism</td>
-      <td>Live at Nice &#39;n Sleazy Glasgow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>75</td>
       <td>
       </td>
@@ -2632,7 +2611,7 @@ A live set in music typically refers to a performance by a musician or group of 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2641,6 +2620,27 @@ A live set in music typically refers to a performance by a musician or group of 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DJ Chris K:ay</td>
+      <td>Infinity Mixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-set" | relative_url }}">live set</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
         </ul>
       </td>
       <td>

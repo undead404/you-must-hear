@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:53:16.695Z
+date: 2025-11-18T12:10:20.446Z
 permalink: tags/electro-industrial
 title: electro-industrial
 ---
 
 ## electro-industrial
 
-Last updated: <time datetime="2025-11-11T04:53:16.695Z">Tue Nov 11 2025 06:53:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T12:10:20.446Z">Tue Nov 18 2025 14:10:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for New World Order" style="max-width:120px; height:auto;" />
       </td>
@@ -51,16 +51,16 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 4</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 40</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/fR8UaYJauvVHjL_so4RlrYTFfEBGKKxZC8klFYM6pp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEy/NzQtMTQzMDQ4Nzk2/Ny0yMjc1LmpwZWc.jpeg" alt="Cover for Raw Pastry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f58ee6402f76d2f3a1bd061445323d2.png" alt="Cover for Raw Pastry" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Marjorie -W.C. Sinclair</td>
@@ -103,7 +103,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/352883600d7f1bebfc221d7ed7bd7c28.png" alt="Cover for Ain&#39;t It Dead Yet?" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4027f34f705bcc08caaaa371a964e772.png" alt="Cover for Last Rights" style="max-width:120px; height:auto;" />
       </td>
@@ -164,26 +164,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e55d7faf7a4ade3222808cf5d743c0e2.png" alt="Cover for Memento Mori" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Depeche Mode</td>
-      <td>Memento Mori</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70041ac531a475be1635818b613b7f50.png" alt="Cover for Homes &amp; Gardens" style="max-width:120px; height:auto;" />
       </td>
@@ -202,7 +183,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1994-02-07</td>
@@ -221,7 +202,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1995-09-01</td>
@@ -238,7 +219,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a1dea4ab7b4a42dfd8ff25814582dc.png" alt="Cover for Hard Wired" style="max-width:120px; height:auto;" />
       </td>
@@ -254,13 +235,13 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 12</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 13</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ZhB3lFvr4PY4MfUOjrG8UISx3P6cLkzLcDtf_1yjQZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzgy/LTEzOTg2MjM2NjEt/NTA2OC5qcGVn.jpeg" alt="Cover for Solutions For A Small Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -278,13 +259,14 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 78</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4cf76e7a0f074d086788edd424d2a45.png" alt="Cover for Drill" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-12-03</td>
       <td>Noise Unit</td>
@@ -375,9 +357,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 56</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 61</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -439,7 +421,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 25</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +447,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc598c4b1b564106901464d9f328c8b3.png" alt="Cover for Resolution" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +465,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 60</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -507,13 +489,14 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 24</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a8118b9a29b4d76ba512582eb5979e9.png" alt="Cover for Eevil Young Flesh" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-05</td>
       <td>:Wumpscut:</td>
@@ -521,7 +504,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
         </ul>
       </td>
       <td>
@@ -550,7 +533,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 86</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -572,12 +555,12 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 40</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/XCi5Q8Rqxd8YPZhyvktHju-wU3TXAUeaVMQDa5SwMY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcw/LTEyODY1MzA5NjMu/anBlZw.jpeg" alt="Cover for Homes and Gardens" style="max-width:120px; height:auto;" />
       </td>
@@ -619,7 +602,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a614da1691f44a78283a064119298d2.png" alt="Cover for American Supreme" style="max-width:120px; height:auto;" />
       </td>
@@ -638,8 +621,8 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 27</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 68</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +668,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2004-06-01</td>
@@ -700,12 +683,12 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2005-04-25</td>
@@ -720,9 +703,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 32</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 45</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 70</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 73</li>
         </ul>
       </td>
@@ -760,7 +743,25 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006-11-07</td>
+      <td>Imperative Reaction</td>
+      <td>As We Fall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +785,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-01-20</td>
@@ -819,9 +820,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 21</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 28</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 38</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 61</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +850,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95f0966173da4480af6e851819622eec.png" alt="Cover for Dream, Tiresias!" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +885,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 28</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -911,7 +912,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3aced2c7feae4011a97fc271e86e0b23.png" alt="Cover for Zerstörer" style="max-width:120px; height:auto;" />
       </td>
@@ -948,13 +949,14 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 33</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa1fed510a74fb9cf1954182169789c.png" alt="Cover for Live From Death Valley" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-28</td>
       <td>Death Grips</td>
@@ -973,11 +975,11 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 55</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
         </ul>
@@ -1002,16 +1004,16 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Jg9-UXx1J8prYVxLhO3wurz24WcEqCJ5XJOSZ_KNWZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDQ2/NjctMTMxMzE0Mzgx/OC5qcGVn.jpeg" alt="Cover for Quantum Mechanics" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,7 +1031,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2012-09-11</td>
@@ -1045,7 +1047,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 73</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1070,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 68</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 69</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 86</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 90</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 96</li>
@@ -1109,10 +1111,10 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 80</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 81</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 93</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
         </ul>
       </td>
@@ -1133,9 +1135,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 75</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
         </ul>
       </td>
@@ -1178,13 +1180,13 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 31</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 33</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 91</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
         </ul>
       </td>
@@ -1209,7 +1211,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 53</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 87</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 92</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 98</li>
@@ -1237,7 +1239,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 18</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1257,11 +1259,11 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 34</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 41</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 51</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 84</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
         </ul>
@@ -1294,10 +1296,10 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 67</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 74</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 90</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 76</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1318,9 +1320,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 24</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 27</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 74</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 33</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1348,15 +1350,15 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 48</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 61</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 65</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 71</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/UkAaeILSa6tIvHTDy_7HAnBHkspx1uAUOm6Pko-qMW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc5/NDY0LTE1MTg4NTk1/MTQtNDg1MC5qcGVn.jpeg" alt="Cover for Things Will Be Better in Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,8 +1394,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 18</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 90</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1414,8 +1415,8 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 70</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 90</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 78</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1436,10 +1437,10 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 26</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 35</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 53</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 70</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 92</li>
@@ -1448,7 +1449,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/WScE5EonhlLhlWNTh3sti7-HUdhaVJVkIblYsvK3wRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NDg3LTE2ODc5ODM4/MTctMzMxNC5qcGVn.jpeg" alt="Cover for Skinless X-1" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,9 +1470,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 35</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 59</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 40</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 63</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1516,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 33</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 34</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 89</li>
         </ul>
       </td>
@@ -1543,12 +1544,12 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 33</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 69</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 69</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 79</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 70</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 72</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 84</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 98</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1567,7 +1568,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 55</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1595,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2020-01-10</td>
@@ -1608,7 +1609,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 54</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 73</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 74</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 83</li>
         </ul>
       </td>
@@ -1630,8 +1631,8 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 21</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 62</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1665,7 +1666,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75bd1f4a87e4e3692ee0b9921b2d5b77.png" alt="Cover for Reincarnated" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1697,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 56</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 63</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 74</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
         </ul>
       </td>
@@ -1719,7 +1720,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 80</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1748,9 +1749,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 14</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 65</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 80</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 83</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 85</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 98</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 99</li>
@@ -1774,9 +1775,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 83</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 83</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 84</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 84</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 88</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 97</li>
         </ul>
@@ -1809,7 +1810,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 22</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 63</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 81</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 86</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 96</li>
         </ul>
       </td>
@@ -1881,7 +1882,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 71</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 91</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 95</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1923,13 +1924,13 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 36</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/mvpEOtA8iH9Z6tJ-NFD6yByl7pp7zF2C2p4dMj4gdWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA0/Mzc5LTE2NzA1MDcy/MDctNDAzMS5qcGVn.jpeg" alt="Cover for Sitting At The End Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,16 +1951,16 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 31</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 34</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 38</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 39</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 42</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 59</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Svb_dcMXvtUdEACh0aBS3vyRMW9cdLrrw9jmxGEoEJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA2/ODU0LTE1OTk5Njk0/NDgtOTk4OC5qcGVn.jpeg" alt="Cover for Neomechanical Joyride" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,7 +1997,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 61</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2017,6 +2018,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2059,8 +2061,8 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 1</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 9</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 7</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2080,7 +2082,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 81</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 100</li>
@@ -2107,14 +2109,14 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 89</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/xdMoQNh-1m7RtiMBLt87IkhoRwbudpb4kRpigiau_6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTMy/NzU5LTE2NjY2Mzkw/MjEtMzQ1My5qcGVn.jpeg" alt="Cover for I will not use the body&#39;s eyes today." style="max-width:120px; height:auto;" />
       </td>
@@ -2131,7 +2133,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2159,7 +2161,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 40</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 83</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 85</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 95</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 100</li>
         </ul>
@@ -2189,16 +2191,16 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 7</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 11</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 51</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 68</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 72</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72897258fdbfcaa4ff5b84ce0d004607.png" alt="Cover for Tidal Memory Exo" style="max-width:120px; height:auto;" />
       </td>
@@ -2214,13 +2216,13 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 81</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 96</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 83</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/uO2X7RUsrikk8_1m-9OAUckQVqa7aOLmhJS8eM-jLsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/NDExLTE3MTYzMDc3/MjMtODQxNS5qcGVn.jpeg" alt="Cover for LAUGHINGFISH" style="max-width:120px; height:auto;" />
       </td>
@@ -2235,13 +2237,13 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 8</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 13</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3360394f7952724fba5a5d19419815c.png" alt="Cover for It&#39;s Inside You" style="max-width:120px; height:auto;" />
       </td>
@@ -2263,7 +2265,7 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbe4b1469b50ae4f91ecaa42f72b619b.png" alt="Cover for RAT WARS" style="max-width:120px; height:auto;" />
       </td>
@@ -2277,7 +2279,8 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 30</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2304,8 +2307,9 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 1</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 11</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 54</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 76</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 77</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 85</li>
@@ -2327,11 +2331,11 @@ Electro-industrial fuses aggressive electronic beats with harsh, distorted sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 8</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 23</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 27</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 78</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 96</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
         </ul>
       </td>
     </tr>

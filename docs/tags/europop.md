@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T12:43:48.636Z
+date: 2025-11-18T12:06:57.881Z
 permalink: tags/europop
 title: europop
 ---
 
 ## europop
 
-Last updated: <time datetime="2025-11-16T12:43:48.636Z">Sun Nov 16 2025 14:43:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T12:06:57.881Z">Tue Nov 18 2025 14:06:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
   </thead>
   <tbody>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
       </td>
       <td>1971</td>
@@ -46,7 +46,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56ef885330556e8bc3291d7980991bdd.png" alt="Cover for Waterloo" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,25 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbca7f535cdcd38bf4d96a0e0573e8d0.png" alt="Cover for Voyage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>ABBA</td>
+      <td>Voyage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9669591438fa40869420f91c617de999.png" alt="Cover for Arrival" style="max-width:120px; height:auto;" />
       </td>
@@ -79,7 +97,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 11</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 54</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -104,7 +122,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcb04c254a6dd30fff25981e0e76ad4f.png" alt="Cover for The Visitors" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +140,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f30760e02c9b4a4f84738796809fb4e.png" alt="Cover for Masquerade" style="max-width:120px; height:auto;" />
       </td>
@@ -178,7 +196,24 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3c3e34871854c1e9e42a6f07ce75b53.png" alt="Cover for Sabrina" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Sabrina</td>
+      <td>Sabrina</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f779f3e0194008742bf4c28723b67f57.png" alt="Cover for Flames Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +231,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/oNgPJXw96ilt0HegYhsZx4tHMfgtJh8K0l05abmfym0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDI4/Mzg4LTE1NzQzNDU2/ODMtODU3OS5qcGVn.jpeg" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +253,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/9wv-pzFnXs3Oywfs234_s9DgDOU2_PaevBBiyXdg55M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDEw/Mi0xMTM5NjI1ODQy/LmpwZWc.jpeg" alt="Cover for Please Yourself (Collector&#39;s Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -255,13 +290,13 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 95</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 94</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td>1995-06-19</td>
@@ -276,12 +311,12 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 77</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13d8933f803cc67f1fa6079e133d5e57.png" alt="Cover for Hoy Es Mañana" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +336,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/FzwM_pN-bqo_sE0fc46IOokYbVf8cLn1XZA_osZL-sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDg4/MS0xNjA5OTk2NDU3/LTExODYuanBlZw.jpeg" alt="Cover for Hit Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -320,33 +355,13 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 83</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 82</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fffc675cfaab6fbe164fc74f249553b.png" alt="Cover for Planeta Paulina" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-09-03</td>
-      <td>Paulina Rubio</td>
-      <td>Planeta Paulina</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 12</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/sw48gFZjKNnr1DOUE_sLEZr11bctYVyVoWI-Qqg-j6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzUx/MzktMTQ2NDM1Njg1/MC03MDI2LmpwZWc.jpeg" alt="Cover for Narin Yarim" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +379,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/0chjDIZ3h99pi2HXeJqkofs5TvQl878UgfdMCJ1vMQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY1/NzEwLTE1NDU4ODEx/MDQtMzE5MC5qcGVn.jpeg" alt="Cover for Temple of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +402,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/id2om4ADH9EAITZSbQFMvXJ0VhjhI06xOZhHJ8ISmPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/NzItMTMwODgwMDcx/MC5qcGVn.jpeg" alt="Cover for Anclado en Mi Corazón" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +424,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/id2om4ADH9EAITZSbQFMvXJ0VhjhI06xOZhHJ8ISmPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/NzItMTMwODgwMDcx/MC5qcGVn.jpeg" alt="Cover for Anclado en Mi Corazón" style="max-width:120px; height:auto;" />
       </td>
@@ -431,7 +446,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/866c6d13bfe690a01dcbc2fb1b7d6eb1.png" alt="Cover for Aquarium" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +465,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>51</td>
       <td>
       </td>
       <td>1997-09-19</td>
@@ -468,13 +483,13 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 84</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 85</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f9c3faf43424a719bff8da43741c98c.png" alt="Cover for Guma" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +508,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f3fb8c900e754ef61958f71a48f6bad.png" alt="Cover for Step One" style="max-width:120px; height:auto;" />
       </td>
@@ -510,7 +525,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
       </td>
       <td>1998-11-30</td>
@@ -528,13 +543,13 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 88</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 87</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c02a21eb14d64fe08d21f7ab6789b892.png" alt="Cover for The ABBA Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +584,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 91</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +608,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 96</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 95</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 97</li>
         </ul>
       </td>
@@ -624,7 +639,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/yXtzLLQ3ClufyZkbwudsLbewNPv2qcxS8xFFz1-22lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQx/MjUtMTUzMTk1NDE0/MS01MTQ5LmpwZWc.jpeg" alt="Cover for Lara Fabian (1991)" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +659,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/-qpVblGNS5U7BVSmeyTBOzTJA6vs0RXdMhLPLeGz9q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE4/NC0xMjc3ODU3NjY0/LmpwZWc.jpeg" alt="Cover for Showgirl Homecoming (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +763,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/XBAjwWpzFq7K9K_LvXuCINQIz-LRZge89z2nyI4du4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDQ5/NTYtMTM4NTY2MDAw/OS02ODU0LmpwZWc.jpeg" alt="Cover for 200 По Встречной" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +783,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/347e36908eff1e5ba779d465eda85c54.png" alt="Cover for Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -777,14 +792,12 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       <td>Fever</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 41</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 72</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 46</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +824,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td>2002-10-07</td>
@@ -831,7 +844,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d108469c8e8598199f796390c301e20f.png" alt="Cover for Rendezvous" style="max-width:120px; height:auto;" />
       </td>
@@ -874,7 +887,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>21</td>
       <td>
       </td>
       <td>2003-09-29</td>
@@ -893,7 +906,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25d00a84d40242a7aa8848c97e034dcf.png" alt="Cover for Escucha" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +926,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
       </td>
       <td>2004</td>
@@ -932,7 +945,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td>2004-02-23</td>
@@ -950,7 +963,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/ENsCqwD-5u81z-uVCjHBCF3kiJRRoPMdQecK5_derJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTEw/Ni0xMTcyODc0MDc1/LmpwZWc.jpeg" alt="Cover for Summer Sunshine" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +981,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-06-01</td>
@@ -1016,7 +1029,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
       </td>
       <td>2004-07-05</td>
@@ -1037,12 +1050,12 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
         <ul>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 59</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 78</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 79</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ggFeSW3MpNc4an7vl3IU9SIAY3UihIrnUynQrLhelvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTky/MTE3LTE1MDA1NDcw/OTctNDE5Ni5qcGVn.jpeg" alt="Cover for Şak Şuka" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1094,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbda4166d90f914972193a6092c2b188.png" alt="Cover for Chemistry" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1114,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/DM_G3kouDUf-rxDm1n894hyoUcCBK45oH-e7eNOEVoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjMy/MDItMTMzMDE1OTQ4/NC5qcGVn.jpeg" alt="Cover for Magnus Carlsson" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1157,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b8f0b25a03444e89405646cc50f85d0.png" alt="Cover for Je Veux Te Voir" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1174,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99d823afc11083206126befd97775bbe.png" alt="Cover for 69 DANGUJE" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1192,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71e26b402128fa2b867572a46de7d0e4.png" alt="Cover for The Collection - Studio Albums &#x2F; B Sides &#x2F; Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,7 +1297,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a83fcc48d70e64969e69697eef6e7fd1.png" alt="Cover for Tangled Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1316,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d945bf2457f1597da192688707d5147.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,12 +1369,12 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 6</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/gTfZQ7GQQJGfGqa3z0_sPH7y6q_XyYhSrQQVXO03dYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc4/NzI1LTE2MzQ5MTk5/ODktNzU4MS5qcGVn.jpeg" alt="Cover for Yürüyorum Düş Bahçelerinde" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1393,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddf431e1ff234809b03a767f1527ad8f.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1415,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/H4wSfxmhNbRvHDvUdtrW-tb-nxB_cwx7DHQSDcWEX9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUw/ODQtMTQ0MTYxNDI4/OS01NDgzLmpwZWc.jpeg" alt="Cover for Geltona. Žalia. Raudona." style="max-width:120px; height:auto;" />
       </td>
@@ -1441,28 +1454,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/1LAHY_r2DD5OPArEsBBY2ChXwsLEVoNTD5e94n_f7jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/NTktMTI1MzcxMzIx/Ny5qcGVn.jpeg" alt="Cover for Todellisuus" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-09-06</td>
-      <td>G-Powered</td>
-      <td>Todellisuus</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>52</td>
       <td>
       </td>
       <td>2009</td>
@@ -1480,13 +1472,13 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 86</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 86</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/S5ANe7nXWESnV0wBUnh1CuBtUAzCtofd40PSdm-Tyfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzY4/OTM3LTE2OTU0NTkw/MTktMTQzNy5qcGVn.jpeg" alt="Cover for Fairytales (German Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,7 +1558,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99145b3c8671763589aa72f6603aa2d7.png" alt="Cover for Laura Live Gira Mundial 09" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,7 +1581,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8cb094d5b54fffb7feabb17b0a373b.png" alt="Cover for Lucy" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,7 +1601,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/694e785ce71449b184ed891303cde130.png" alt="Cover for Shattered Heart Reflections" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1622,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c542d4086234030aa48eab579e4efbd.png" alt="Cover for The Golden Ratio" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,12 +1656,12 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 3</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a3c578743cfe83e7ac440e623647141.png" alt="Cover for Fever (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1724,8 +1716,8 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 2</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 78</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 3</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1761,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1793,7 +1785,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f464ace4ec44a499365b43c328c76d.png" alt="Cover for Undercover" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1807,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
         <ul>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 50</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 84</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1838,7 +1830,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14109217da564f1dcfae45f90f4aa11b.png" alt="Cover for Хозяин" style="max-width:120px; height:auto;" />
       </td>
@@ -1858,7 +1850,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/ZvdN3jOw-Vy1T_c5WCduOqrwnKAJ9-9nIhyaCRtMUo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTMz/NzAtMTUxNTQ4ODU5/Mi04NDk0LmpwZWc.jpeg" alt="Cover for Collected" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,7 +1892,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd68d1ca4c06e6364549852b7b4def27.png" alt="Cover for Glory Days (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1909,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68dd4755003a39e11632c49dbaebdd09.png" alt="Cover for Best of My Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1928,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c2df1415bee00b89e775b4ddc9e13eb.png" alt="Cover for That&#39;s How I Feel" style="max-width:120px; height:auto;" />
       </td>
@@ -1974,7 +1966,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/J9Icv1Wy3YrMIBEKlgAkicWjzEmCywoi8Zc-0UlxJH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk3/MTAwLTE2MzI4MjM5/MTgtOTg4Ni5wbmc.jpeg" alt="Cover for Southern Donk, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +1985,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93fe5160de5fc5fb40d2097116319e38.png" alt="Cover for Energia ta" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,7 +2008,7 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9722cb343ffaa29c0872c87d2e0dfa1.png" alt="Cover for Pure Imagination" style="max-width:120px; height:auto;" />
       </td>
@@ -2051,13 +2043,13 @@ Europop is a dance-oriented pop music style that emerged from Europe, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 40</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 43</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30b22846e20d4daba7cbfd8d7c97818f.png" alt="Cover for Didn&#39;t Wanna Do It" style="max-width:120px; height:auto;" />
       </td>
