@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T14:47:57.232Z
+date: 2025-11-17T17:22:22.709Z
 permalink: tags/progressive-breaks
 title: progressive breaks
 ---
 
 ## progressive breaks
 
-Last updated: <time datetime="2025-10-28T14:47:57.232Z">Tue Oct 28 2025 16:47:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T17:22:22.709Z">Mon Nov 17 2025 19:22:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1977</td>
@@ -47,7 +47,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for DigiBliss 01" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/L8tWwtqKs5dI51qmy0q_a1c8CXcICF0TOOglwdVgno0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODkz/NTYtMTQwODIwNzM5/NS0zMjc3LmpwZWc.jpeg" alt="Cover for United States of Trance" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>1988</td>
@@ -104,7 +104,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>1988</td>
@@ -139,7 +139,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Soul of Man Presents: Y4K - Breakin&#39; in the House" style="max-width:120px; height:auto;" />
       </td>
@@ -178,6 +178,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02186c6cb3cf2d0cb4ed2ddb7f28b723.png" alt="Cover for ESCM" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-08</td>
       <td>BT</td>
@@ -189,13 +190,14 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 30</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14e7dd7aaafa240e84040657c23ae552.png" alt="Cover for Wide Angle" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-07-16</td>
       <td>Hybrid</td>
@@ -209,12 +211,12 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 67</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/MYggBFfXIFGDOtFxAV8yqRjkq3K-wMYXmVBHRVTW1r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc2/ODE3LTE2MzQ5MTQy/NjMtMzU1OC5qcGVn.jpeg" alt="Cover for Angel 13: From The Hyper Speed Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +237,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/g4GnhHDb04zqAN6PpnXHMEnfdTyn18scmTFPdwiY0CY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDIw/LTEyMjQwOTcwMDQu/anBlZw.jpeg" alt="Cover for Global Underground: Nubreed 001" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +256,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for ILS Presents: Y4K" style="max-width:120px; height:auto;" />
       </td>
@@ -316,7 +318,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/KdSiDTyAxvfRWgn7-ZG2C5DveO63IwwWLOU2Se7rxt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjkt/MTU5OTAxODgxNy0y/MTE0LmpwZWc.jpeg" alt="Cover for YEAR0001 - RIFT One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4a76aa2906ff84e1ca614016622f691.png" alt="Cover for YEAR0001 - RIFT One" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Torus</td>
@@ -345,7 +347,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Cw8GuQQbGMWBjsLrzjbwfxjGTTRdbP_sTC07gCQQt6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY1/LTE1ODM4NDc0MDEt/NzkzMy5qcGVn.jpeg" alt="Cover for Y4K: Further Still" style="max-width:120px; height:auto;" />
       </td>
@@ -364,17 +366,15 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/-UaqSCeMpg1v9Qu5osab2f6q-c4mR8SG-4C-lbZWhhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgw/LTE0MDQ1MDI2ODEt/NTU5MC5qcGVn.jpeg" alt="Cover for Intensify" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3b94dc2abb2816783bc5a381b5879d7.png" alt="Cover for Intensify" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-08-20</td>
       <td>Way Out West</td>
       <td>Intensify</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -383,7 +383,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/uf8vLnUMW6CB9u35q35CAxXw6Bg0HG_eLZitf9aGvBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjg3/LTExMzE0MDQwNDMu/anBlZw.jpeg" alt="Cover for Fabriclive.02" style="max-width:120px; height:auto;" />
       </td>
@@ -426,9 +426,27 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/orIXe13XY75aDkrfRAEYmRb4b8rOGdG3ggMbrCZ-2iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUx/MC0xNDI1NjA4MDY2/LTEwNjIuanBlZw.jpeg" alt="Cover for 10 Years in the Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5190afa770f54a888410bfae29696e3e.png" alt="Cover for Airdrawndagger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-05</td>
+      <td>Sasha</td>
+      <td>Airdrawndagger</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6290cdfaf9f44e7aadb394b77cec4315.png" alt="Cover for 10 Years in the Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-10</td>
       <td>BT</td>
@@ -464,7 +482,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/cVRPBd341VnNGjSSnGB_hKxYt5M88kgdq9qv_8rccB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/OC0xMTY1MzI1ODIx/LmpwZWc.jpeg" alt="Cover for Signals" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +500,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/hOJOxnEacwodZG8LmdkqtmCvDBeyiX_PDbHulvG2EOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg0/MS0xMjg2OTg2MDYy/LmpwZWc.jpeg" alt="Cover for The Original" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +540,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xYdepR5rJt_0m31neh0J2g3FB3HVeuW3i60IQdR65VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg0/My0xNDM5NDkyOTQx/LTk2NTguanBlZw.jpeg" alt="Cover for Romania" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +561,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/OHH2R8H020TRioEGOCiyozDTHi67hQh5mvUyRByQwuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTIz/MC0xMzg0MDM3NDgx/LTkwODYuanBlZw.jpeg" alt="Cover for Global Underground: Romania" style="max-width:120px; height:auto;" />
       </td>
@@ -562,28 +580,24 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/45O2cgEQTxHdsUnkiNcNja8mwu35Hq5kyeYC_PT5m5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEx/OS0xMTk3NzY1MDg5/LmpwZWc.jpeg" alt="Cover for Don&#39;t Look Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25b49c3e74fae72d494db49ad572b84a.png" alt="Cover for Don&#39;t Look Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-30</td>
       <td>Way Out West</td>
       <td>Don&#39;t Look Now</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/lj3s7TMO_QAAvL1rBFHLcDiM392FzziIFa21mWRSd38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUy/My0xMDk2NDczMjI4/LmpwZw.jpeg" alt="Cover for Silky Dirty" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +672,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/v7-9YNCdNk7CaoPJy9rQjaeqDWOAEYZNcmoLuKg6WV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjk4/MC0xNTI5MzUxNzIw/LTY4OTcuanBlZw.jpeg" alt="Cover for Eli" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +693,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/109FuvA4yggZooCUUDdfPRlKTLm7jQHPCIO_cYFQEXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTAy/MC0xNTYwOTAxODU1/LTczMDcuanBlZw.jpeg" alt="Cover for Bullet" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +731,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/TZ-Wok2m-RFmWUg6utX6FsGgXPl-VMfPKUpLQ6buCZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzUx/Ni0xNDc0NjI3MjM2/LTg1MTUuanBlZw.jpeg" alt="Cover for Utilities EP" style="max-width:120px; height:auto;" />
       </td>
@@ -738,7 +752,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/OU6_-8hmtFnoaJkoMgDj1-bzLDXioS0EN7eZHRaH_XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTQ0/Ny0xMTEzMzMzMTg3/LmpwZw.jpeg" alt="Cover for Northern Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +810,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/EnyLhKsZRaocWJJ0akjcf_C8YU-q2x2P0DXhfJa_x9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Nzc0/MC0xMzQwMDg2NjU0/LTUzNjAuanBlZw.jpeg" alt="Cover for De-mystified" style="max-width:120px; height:auto;" />
       </td>
@@ -853,6 +867,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/747b2c3fb16b4e0ace2e3a79cbe4bfa6.png" alt="Cover for I Choose Noise" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-08</td>
       <td>Hybrid</td>
@@ -865,12 +880,12 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 78</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2007</td>
@@ -924,7 +939,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ktdzGnvkBLwfg0ZDYEAcXr-tQnsxmA85HliFoHcf5Go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA4/MzYtMTIwMTgxMTE1/NS5qcGVn.jpeg" alt="Cover for Mistery Galaxy WEB" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +977,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/uHMTS1Z-FHpZjhoR4IxfIhNaKITzlCdsw2EX1YNLoTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODEtMTIzNjI4OTQ3/Mi5qcGVn.jpeg" alt="Cover for Obscured Rays 001 - 012 on ETN.fm" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +1002,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/uHMTS1Z-FHpZjhoR4IxfIhNaKITzlCdsw2EX1YNLoTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODEtMTIzNjI4OTQ3/Mi5qcGVn.jpeg" alt="Cover for Flights and Reflections EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1043,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Remix and Additional Production By..." style="max-width:120px; height:auto;" />
       </td>
@@ -1046,7 +1061,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/vGSdglUMkF6RhBM2GXQz2s0P_fXmttc_9LWDC_ORBdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUw/MDItMTUxNTQwOTY0/MC0zNDYzLmpwZWc.jpeg" alt="Cover for Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,6 +1100,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9c4570ac2dde1e38b69ac1ad27770b5.png" alt="Cover for The NeverLands" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-06</td>
       <td>StrangeZero</td>
@@ -1100,7 +1116,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2008-11-06</td>
@@ -1122,7 +1138,6 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/cEAPTP7k9Ky7wuvu7D8vpQJeIDbbvsrP_nRE6OOzXkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDc2/NTAtMTM5NTE2NjUx/Ny00Njc3LmpwZWc.jpeg" alt="Cover for Some new tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-17</td>
       <td>Steve Foulds</td>
@@ -1153,26 +1168,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Evil Nine Present : Y4K" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>Evil Nine Present : Y4K</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009</td>
@@ -1305,7 +1301,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 12</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 81</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1343,7 +1339,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/FvezVc7CSGomLwIMDpUZ7eGWWHTPFmyt5C60tPOzp8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQz/NjctMTI2NDgwMzg4/NS5qcGVn.jpeg" alt="Cover for These Hopeful Machines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e9cec81f94645c8a50ef498369fdb96.png" alt="Cover for These Hopeful Machines" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-31</td>
       <td>BT</td>
@@ -1357,7 +1353,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 31</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 39</li>
         </ul>
       </td>
@@ -1384,7 +1380,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/MiKCUISL3XvYETjKTlARBbFpx30yVOd99Qag0MLcOdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjc1/OTktMTI2OTQ5MjY4/OC5qcGVn.jpeg" alt="Cover for Live at Primavera Sound 2012 (James Ferraro)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be9f1d25959d4cf4cc657e93f93045b4.png" alt="Cover for Live at Primavera Sound 2012 (James Ferraro)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>James Ferraro</td>
@@ -1425,7 +1421,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/qLF5BJdKOw9QV7HK_k9LnFbzS8vQSaNxZPioEyrav3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjMy/MTMzLTE3MTE2MzM2/NjEtODQ5Mi5qcGVn.jpeg" alt="Cover for Koma &amp; Bones Present: Y4K - Next Level Breaks" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,7 +1440,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/zKyjMvJdHvsH7hjvRbK1Sa47pkKZ8VvPtKIN7OadRxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjI2/ODYtMTMwMjYxNzcz/OC5qcGVn.jpeg" alt="Cover for Ghostly Sea EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1460,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/vKWatnsVvmAhvF7Dn7orqqYx24A_S3DBoIZMm2j-Acs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTY0/NTItMTMxNjU0MDA2/NC5qcGVn.jpeg" alt="Cover for Baby I Got It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b7d5f15ac7e4ac58046ec17dc7dc1cf.png" alt="Cover for Baby I Got It" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-26</td>
       <td>Miguel Campbell</td>
@@ -1484,7 +1480,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/tkBYClCI9nAE0pwVaZKjQ5RnRMU_SAsEliZmPdT3tRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDA0/MzktMTMzMjg3NjI2/Ni5qcGVn.jpeg" alt="Cover for Never Coming Down &#x2F; Remember Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,7 +1501,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/T7mfnIPjYO0fyzNtL3o--Z77ovEG-Mx6O_rx6gXq3UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMx/NTQtMTMzOTM3NTI3/NS00NzQ1LmpwZWc.jpeg" alt="Cover for Meaningful Ambience" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1521,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/R__9OrDsLZNUeP1oXWHHpb73ie_4OI20K25ulOEeRGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzIw/MjUtMTMzOTc2NDU4/Mi0xOTE3LmpwZWc.jpeg" alt="Cover for Botenstoff" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/982624998d214425878f2561be4206b2.png" alt="Cover for Botenstoff" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-29</td>
       <td>Tarac</td>
@@ -1567,7 +1563,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/EI0VWdT2X930Ky401gCU2rzzLHIeaZkB_awzjF41ODw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzY3/NzQtMTM2MjEzNDM3/OC0zMzIwLmpwZWc.jpeg" alt="Cover for Cinematic Soundscape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2b9e66c8563462d9af70b51f5a6fa17.png" alt="Cover for Cinematic Soundscape" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-07</td>
       <td>Hybrid</td>
@@ -1605,7 +1601,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/Am6ckRQDOmZQa6NkI5XnzITm7xVM1ssCIart6rGn2LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTIw/MzktMTQwNDQ3NTk2/NS0yMzgxLmpwZWc.jpeg" alt="Cover for Remember the Future" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,7 +1656,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Global Underground: Nubreed 001 (disc 2) (Mixed by Anthony Pappa)" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1712,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 49</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1774,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/xm_aZ2G57S1rnP04gxjQ81FknFQr_O4yc80H08oePJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDU4/Mjg4LTE2MTEzODIw/ODUtODE5OC5qcGVn.jpeg" alt="Cover for PURE" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,11 +1833,11 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 79</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 63</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 81</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 85</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 96</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 100</li>
         </ul>
       </td>
@@ -1849,7 +1845,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/YQzzfXABuyTsUkywtwN0WQjVL_9lchcjLbu986Yf3k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE2/OTc5LTE2MTI3ODQ5/OTctMjQyMi5qcGVn.jpeg" alt="Cover for progression breaks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/563ba0e023a821e4af1445f45bbe3345.png" alt="Cover for progression breaks" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-27</td>
       <td>disctr4k</td>
@@ -1864,7 +1860,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 50</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1882,15 +1878,15 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 43</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 52</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 45</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/5SyZwpHMmQcd8Stk8Q3CGOt0QDAoBXvn2ZZZt-i5CWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ3/MjU5LTE2Njc1NTQ3/NTQtNzE3OS5qcGVn.jpeg" alt="Cover for Ultra Truth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2e60c6462be07c233beb93dfc613b50.png" alt="Cover for Ultra Truth" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-04</td>
       <td>Daniel Avery</td>
@@ -1927,7 +1923,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for Northern Exposure 0° North" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1984,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/ZPGOp-awvhaF1TZaUbymtnhZD8sMtpAcCZ8vwEsfh6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA0/ODUzLTE3MzA4MjEw/MjEtMzE5OS5qcGVn.jpeg" alt="Cover for Kaleidoscope" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f64eed8b6017aadff2655950e52a306e.png" alt="Cover for Kaleidoscope" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-11</td>
       <td>TURQUOISEDEATH</td>

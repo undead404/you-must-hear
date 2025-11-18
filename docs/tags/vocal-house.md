@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T05:19:54.906Z
+date: 2025-11-17T17:22:16.058Z
 permalink: tags/vocal-house
 title: vocal house
 ---
 
 ## vocal house
 
-Last updated: <time datetime="2025-10-21T05:19:54.906Z">Tue Oct 21 2025 08:19:54 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-17T17:22:16.058Z">Mon Nov 17 2025 19:22:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Red Hot + Dance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/171764cc341f18b36b72a786101746d1.png" alt="Cover for Red Hot + Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -49,7 +49,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/WamSfM02b28PAdY8ZhHweBKM-by97iGABL1M4104-lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQw/Mi0xMTgxMjEwMDY1/LmpwZWc.jpeg" alt="Cover for You Are Somebody!" style="max-width:120px; height:auto;" />
       </td>
@@ -91,7 +91,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/oYl1_ft49NR7m0W7XA-a2BBW568FBl8VFFEinj1O-G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDMw/NC0xNTAxNDIwNzI3/LTU2MjUuanBlZw.jpeg" alt="Cover for If I Have to Stand Alone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f28dcd33b51497d9e14d2d79a267955.png" alt="Cover for If I Have to Stand Alone" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Lonnie Gordon</td>
@@ -111,7 +111,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/G8P1ftetRepgyfr5gIuNaC9pIVvkYy9DWbwI_U7EXjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTk4/MS0xNDM0Mzk4ODEy/LTgxOTMuanBlZw.jpeg" alt="Cover for 49ers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb8e09df75f74a43ca700329fef12be4.png" alt="Cover for 49ers" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>49ers</td>
@@ -131,7 +131,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/SiSftBStemTLCmBSgZd2WGUJzqUsQZzS7Qjruduue2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTEx/NjktMTQ0OTI2NjIw/MC03MzY1LmpwZWc.jpeg" alt="Cover for Turn Up The Radio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76d475202e94299a998fe22a1bc381a.png" alt="Cover for Turn Up The Radio" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Madonna</td>
@@ -151,32 +151,27 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/rZzfOxQ_z74TWg09Xqm87OZE8cVfe9Pkg3O-L6b_AsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQ0/LTEyNjM4Mjc2NTAu/anBlZw.jpeg" alt="Cover for Journey With The Lonely" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcdd3f71d14b4c656857f9e1f095a114.png" alt="Cover for Surprise" style="max-width:120px; height:auto;" />
       </td>
-      <td>1992</td>
-      <td>Lil&#39; Louis &amp; The World</td>
-      <td>Journey With The Lonely</td>
+      <td>1991</td>
+      <td>Crystal Waters</td>
+      <td>Surprise</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/8y_OPJ6xXBcG_7e4eIjCsAC3G7dJOs3nfKBkXhLSF-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE1/MS0xMTg5NzY5MDg0/LmpwZWc.jpeg" alt="Cover for Martha Wash" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e955a57516f97db001a3b56eb6035804.png" alt="Cover for Martha Wash" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Martha Wash</td>
@@ -199,7 +194,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/UF5GBsSlhOxfXicK8UWnV2PGeshpA_moPt9x7k2D4Pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjI5/LTEyOTM3ODk5NTUu/anBlZw.jpeg" alt="Cover for House of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3f8db2262314e02959d341a413ce23f.png" alt="Cover for House of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Smooth Touch</td>
@@ -218,7 +213,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/YClNkpqQO1xiO_c0Igxl3FOFj88Xq2NUIPLL-JHiVc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODQ4/LTAwMS5qcGc.jpeg" alt="Cover for Michael Watford" style="max-width:120px; height:auto;" />
       </td>
@@ -278,9 +273,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/ZHXT5g2LNvtLAT4t1q6VIpeuYg8Bfwh76ZTPVFEBzzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTg2/My0xMTU3NDk3MDg1/LmpwZWc.jpeg" alt="Cover for Only You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/603cac0d4916444d8f3d80fc07dc5383.png" alt="Cover for Only You" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Kimara Lovelace</td>
@@ -300,9 +295,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/6LfupouWx7CeIrWAnj3MM2sR75PeDEUwzBt1T_Fd6PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzk5/OC0xMTY1MDU5NDgy/LmpwZWc.jpeg" alt="Cover for My Destiny" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da7c7b535204434aa2a0991df7d7aff.png" alt="Cover for My Destiny" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Kim English</td>
@@ -343,7 +338,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/d7eX4EM3blST1fSTavZbbkdj-xzCP8qVgsDey-75ySs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQy/Ny0xNTA4NTMwNzU1/LTI4NzIuanBlZw.jpeg" alt="Cover for Make A Difference" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b2c075f7650d258d80065b9e032df25.png" alt="Cover for Make A Difference" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Colonel Abrams</td>
@@ -366,6 +361,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72c2f93768de75c4eac953a1a7b348a6.png" alt="Cover for From Now On" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-15</td>
       <td>Robin S</td>
@@ -390,6 +386,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adbb53e517dbe7a8ca9395d25b593991.png" alt="Cover for Crystal Waters" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-24</td>
       <td>Crystal Waters</td>
@@ -412,7 +409,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/czJXElXXGdrxoJMKjfWDgwMU8NrTqzYSt2f2y56ml9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/OS0xMjQyMDgwNDE3/LmpwZWc.jpeg" alt="Cover for Situation: Critical" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e091ebf7cb194f5dcf93b2e681822cd6.png" alt="Cover for Situation: Critical" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Ultra Naté</td>
@@ -437,6 +434,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0138ee565624661c6f521d878680557.png" alt="Cover for The Purist" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-10</td>
       <td>Byron Stingily</td>
@@ -479,8 +477,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a1fcb6a65d14aeb9c1c57b1dc9c6103.png" alt="Cover for Best Of Colonel Abrams" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Colonel Abrams</td>
@@ -517,13 +516,14 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 83</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb6566fea604dc9cdbfacced3e2599e.png" alt="Cover for Star" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-23</td>
       <td>Funky Green Dogs</td>
@@ -539,7 +539,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 66</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 64</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 81</li>
         </ul>
       </td>
@@ -605,7 +605,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/hl1bZ_jLlKaH8aYM-AYz16af_NPS0icWQdbSikf49C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjIz/LTEyOTYzOTI1NTUu/anBlZw.jpeg" alt="Cover for The Best of Ten City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c24dfc2f29a6f0f0b1b22e141da0596.png" alt="Cover for The Best of Ten City" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Ten City</td>
@@ -624,7 +624,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/5y-h4pSuTpcSIOO9zJcHq6vKGak1f37rx7HxYzqj3E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzY5/LTEyODg1MjUxMzIu/anBlZw.jpeg" alt="Cover for The Underground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26cf4da42da544be8f862635fca35adf.png" alt="Cover for The Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-01</td>
       <td>Celeda</td>
@@ -643,7 +643,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/IzpNhvDjU_NQZORwuDAGyBueg5Mt65QSQLD_UKBz-zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQw/NDMtMTI5OTk3MDk1/MC5qcGVn.jpeg" alt="Cover for Bring It Back" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +718,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/ekpgbvjZ97-r0zarr6U7HnagbyqSyqUCZez5TegM0uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY4/My0xNjg5MTA4MzY1/LTc0ODQuanBlZw.jpeg" alt="Cover for Most Precious Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15b1d1f20a986c8c81fee71f5a61e919.png" alt="Cover for Most Precious Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-22</td>
       <td>Blaze</td>
@@ -739,9 +739,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/nyxzopCVKa06jZ54oiIBPn3ElehwDrK4Bx6s-cy-1K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzE1/Ni0xMTI5NTE4NDM5/LmpwZWc.jpeg" alt="Cover for I&#39;m Hot for You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29127119e2b79a9c81c0d5594319d654.png" alt="Cover for I&#39;m Hot for You" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Lil&#39; Louis</td>
@@ -755,12 +755,12 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 82</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/K_PFX75V50YLq5SXbJ_XzUFBjGuZmudqxFY4OZspMPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcx/ODAtMTE5MjYxNDc5/MS5qcGVn.jpeg" alt="Cover for Euan Mitchell remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -783,16 +783,16 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       <td>
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 66</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 70</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 69</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 79</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 87</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/S6kFmZELxCbMD8Hw_uFH4aYe3wGNBter8W_krcSiKlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAz/MjgxLTE1ODg0OTgx/NTktOTg3MC5qcGVn.jpeg" alt="Cover for ESP (I Can See You)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06e82d3910b24d85b3fbce83bdc7b430.png" alt="Cover for ESP (I Can See You)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Steal Vybe</td>
@@ -811,9 +811,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/LSgerTSzOtKx57X8KXZn7cNxU5Z7mwAivLM5z9-nfvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk2/LTEyNTA4NzY5Mjku/anBlZw.jpeg" alt="Cover for Feel Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/811eff05dc380da2fb6125cdb52249c4.png" alt="Cover for Feel Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Ultra Naté</td>
@@ -834,7 +834,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/vgybYCemhMbAQDE07WZgbWo71H-jkynXhAYQKGOu7JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDEz/NS0xMjYzODkzNjgx/LmpwZWc.jpeg" alt="Cover for …Phobia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fadc621af93486f8c517d054a506d3a.png" alt="Cover for …Phobia" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Benassi Bros.</td>
@@ -853,7 +853,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/cFkNOtFJANoSIs5KIdgmzmJGKdPC4jNnLKOgivshUY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzA0/NTMtMTMwNzg1NTY4/Ni5qcGVn.jpeg" alt="Cover for Emotions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af1004a4634b41da8857730bc8a94498.png" alt="Cover for Emotions" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Promise Land</td>
@@ -870,9 +870,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/cWKSmeOitXX04AZlDIiyTC4tT9s1vXIORNePZk4HVPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk2/OTktMTQ4ODcyNzEw/MC05Nzc0LmpwZWc.jpeg" alt="Cover for Closer &#x2F; Too Close" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2062f9be45e9020cc344f16b91d50f5.png" alt="Cover for Closer &#x2F; Too Close" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-09</td>
       <td>A Hundred Birds</td>
@@ -910,7 +910,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 86</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -937,7 +937,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/jP7CsG2Zu6zRAz6bOTESMjTeaQc-rzS4L_F6xL61T4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTU5/MC0xMTcxMjI3NTc0/LmpwZWc.jpeg" alt="Cover for C&#39;est La Vie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b61283400e3f8ad8f4c627f2c6cb5655.png" alt="Cover for C&#39;est La Vie" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Kim English</td>
@@ -998,7 +998,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/cFBWAF1yKC_Ef2sR-udCzCtljwvdYdfrvygUuuq0Ju0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODA2/My0xMjU3NzgzNjQ2/LmpwZWc.jpeg" alt="Cover for Incredible" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe6bdadeecc242d31f1e0a9d5107e43a.png" alt="Cover for Incredible" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01</td>
       <td>Shapeshifters</td>
@@ -1012,7 +1012,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 95</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1040,8 +1040,8 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 6</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 64</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 9</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1086,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 51</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 84</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 83</li>
             <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 94</li>
         </ul>
       </td>
@@ -1128,7 +1128,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/UjvbWmck5FgXdhl_flzWee14jek4HvYCibg1pLCRWwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc2/MzMtMTIzMzE1NzI4/MC5qcGVn.jpeg" alt="Cover for Nic Fanciulli Porn House!" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/VqHMqZ0-Ry3rayzHol_qGbh8wkJx_SczZ8Eu-zEt38Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjMy/NjgtMTIyMDEzNjg4/Mi5qcGVn.jpeg" alt="Cover for Last Day On Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f49f73142048c8a3ff11c7dbd8ac18.png" alt="Cover for Last Day On Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Michael Woods</td>
@@ -1168,7 +1168,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/Fa1Kccgu4YcIF0Cw0yl382YAlU4JRxjMO8CI4boX2hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE5/NDYtMTIxMzQ3ODMx/NC5qcGVn.jpeg" alt="Cover for Move for Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75b2264ac72f4756be1068afe2b591ac.png" alt="Cover for Move for Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-14</td>
       <td>Kaskade &amp; deadmau5</td>
@@ -1185,13 +1185,13 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 32</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 71</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 38</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/S2eZzNx24yFPaMi6PdlsjAQM9JSQaX19ny9COJue4sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/OTEzLTE1MTE4NjUx/NTYtNzAzNi5qcGVn.jpeg" alt="Cover for Bad Habit" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1351,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/xcXlBgwrFj_BINi_vj9CvVX5gHfY3z86d5olW4bZJmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDE0/MzMtMTUxOTk4MTk4/MS02MDk3LmpwZWc.jpeg" alt="Cover for Your style" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da497f3db6b94168917309e08d8e05f6.png" alt="Cover for Your style" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-11</td>
       <td>Maceo Plex</td>
@@ -1368,13 +1368,14 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/ThxYTd4BB10gft9C7xY5hzpEnll1RnprsH547W6YEpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTUz/NjEtMTMxMDkxOTIy/NC5qcGVn.jpeg" alt="Cover for Fade Into Darkness (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e444f0dbf0e4088bc371539fe051fb9.png" alt="Cover for Fade Into Darkness (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10</td>
       <td>Avicii</td>
@@ -1392,9 +1393,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/NVspt16KQYvpe3VbPYoU1LTmoGLaEC-lOKnXWIALCf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjU4/NjQtMTQzNTE4Mzg0/My01OTM5LmpwZWc.jpeg" alt="Cover for House Is Not A Home - The Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b416095da79ca7196c653056f982426a.png" alt="Cover for House Is Not A Home - The Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Deborah Cox</td>
@@ -1432,7 +1433,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/j4fbnLfkHqxGyUUskN3_cELB4Fobj17h_idqOa7fCYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjQ5/MjYtMTMyOTg4NDA0/MS5qcGVn.jpeg" alt="Cover for Keep It Coming (The Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7bbf9355b44c86bc621929cb4f45d9.png" alt="Cover for Keep It Coming (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-20</td>
       <td>Starkillers</td>
@@ -1452,7 +1453,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/1KoQPkz6emaJkEtcN8QtJpkQVcAjpMkQZpmycZrlCi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NjEtMTMzMzQ2MDgz/Mi5qcGVn.jpeg" alt="Cover for Dice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4640590bdba147a8a014c6d1fdce3d82.png" alt="Cover for Dice" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-03</td>
       <td>Serge Devant</td>
@@ -1536,7 +1537,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/FcFxcJUShD637giIzGZDTKmNF1ee17iz3eye6_pUjXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/NTgxLTE1MjAxODU1/OTUtOTE5OC5qcGVn.jpeg" alt="Cover for Universe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a16c1fe7454b70afd135a5a13e575e.png" alt="Cover for Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-04</td>
       <td>Feenixpawl</td>
@@ -1554,7 +1555,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/fL7ocf6_UGIFAXKFbc0T6ryC-njPSrraJzUbpPjErsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTE1/MzktMTM3NDM1Njcw/My0yNjgzLmpwZWc.jpeg" alt="Cover for Stellar (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,7 +1574,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/0OvxH-CaKbUpzhUAYDMziT2LRqqyZ3DUDWfDpzxsw-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYx/NTk1LTE0OTc5MDg1/NTktOTQxMy5qcGVn.jpeg" alt="Cover for Not Too Late (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1594,6 +1595,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f464ace4ec44a499365b43c328c76d.png" alt="Cover for Undercover" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-21</td>
       <td>Milk Inc.</td>
@@ -1611,16 +1613,16 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 46</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 85</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/CuRyxtSUU8v9iqNe-l8iIqfMwM6BpMRdbFg5nyIVNg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc4/NzQtMTI2NDQyOTg0/OC5qcGVn.jpeg" alt="Cover for Greater Heights" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/514ee5e36446473787ac663e593512ec.png" alt="Cover for Greater Heights" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-22</td>
       <td>tyDi</td>
@@ -1637,7 +1639,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2014</td>
@@ -1658,7 +1660,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2014</td>
@@ -1712,14 +1714,14 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/QaEJA4vdX6F1hXPF09u_gD1Bb3ttAb6kAUug9peiFso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjg4/MzQtMTQzMjAzMjc0/Mi05MDAzLmpwZWc.jpeg" alt="Cover for Don&#39;t Give Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/616bb604f01e477fbf2d6fb89529dc56.png" alt="Cover for Don&#39;t Give Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-20</td>
       <td>The Scumfrog</td>
@@ -1739,7 +1741,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/Wg7Ugcu8Pt_lPglXysRGNAvPlyrcyTIneIBivxpDaaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDc2/MjYtMTQ3Mzg1ODM2/Ny05ODI2LmpwZWc.jpeg" alt="Cover for When You Got Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d344331b2043410dacb7ec663adf460c.png" alt="Cover for When You Got Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Michael Canitrot</td>
@@ -1857,7 +1859,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/8ZZo-UkP0DZ1E9IYgj8luOo1-MQNhMMj2bWN19pny8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI5/MTIzLTE2MDIxNjgz/NzAtNjE4Ni5qcGVn.jpeg" alt="Cover for Follow You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48facb905e364b26b92507e937ea1665.png" alt="Cover for Follow You" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-30</td>
       <td>Deniz Koyu</td>
@@ -1980,7 +1982,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2036,8 +2038,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f6bb121d4d4034bf8234fb0c410c01.png" alt="Cover for We Go Oh" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Rasmus Faber &amp; Syke&#39;n&#39;Sugarstarr</td>
@@ -2055,7 +2058,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>

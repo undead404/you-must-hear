@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T10:23:41.485Z
+date: 2025-11-17T17:21:36.656Z
 permalink: tags/los-angeles
 title: los angeles
 ---
 
 ## los angeles
 
-Last updated: <time datetime="2025-11-14T10:23:41.485Z">Fri Nov 14 2025 12:23:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T17:21:36.656Z">Mon Nov 17 2025 19:21:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -73,7 +73,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cbc4c91071a4f3caf6f590ab5775a24.png" alt="Cover for The Peanut Butter Conspiracy is Spreading" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12a64343beac4dc88f71e9c53a5c13f6.png" alt="Cover for Lexicon Devil" style="max-width:120px; height:auto;" />
       </td>
@@ -114,7 +114,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e07da319c364317a8467873b579c496.png" alt="Cover for Electrify Me" style="max-width:120px; height:auto;" />
       </td>
@@ -133,7 +133,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/AeiMaClQKGjb1smLrXhP3Pv3PfC2j6L_fOlWAElS6IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MzItMTU1NTgzODIy/NC03NDY5LmpwZWc.jpeg" alt="Cover for Native Sons" style="max-width:120px; height:auto;" />
       </td>
@@ -177,7 +177,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 25</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 88</li>
         </ul>
       </td>
@@ -268,7 +268,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1d351b0337642b9af10a5278d11cdb8.png" alt="Cover for It&#39;s on 187um Killa" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +309,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1994</td>
@@ -399,7 +399,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d5395a0bae0180fa9407360dec0d38.png" alt="Cover for Evergreen Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +419,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/IO7cY2g5CP_bzKVG14JwQfmkG4VjVTzePm7HuMHVbcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg5/OS0xNDk2NDI1NzYx/LTQ4NTkuanBlZw.jpeg" alt="Cover for Knowoness" style="max-width:120px; height:auto;" />
       </td>
@@ -446,8 +446,9 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46b09e4cce41f82a166e94a7915dd735.png" alt="Cover for Knowoneness" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-07-18</td>
       <td>Electric Skychurch</td>
@@ -472,7 +473,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd696cbd4aa4d4eb6d35393232f55e4.png" alt="Cover for All Eyez on Me" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +495,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95c76eb7b1fed28efa262545fcee5690.png" alt="Cover for Math and Other Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +516,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1997-06-03</td>
@@ -531,12 +532,12 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 36</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/BxADwI_r4xDqmC05-fCn2D-MsGCWjaDWU8yQUqxx7PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIw/MDMtMTUzMTY3MjM5/NS04ODI4LmpwZWc.jpeg" alt="Cover for Hail Mary" style="max-width:120px; height:auto;" />
       </td>
@@ -600,14 +601,14 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 12</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 26</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/-GBtuUHlnaPGHWQWHbnWJRALicrNAwv8-ds4vUKfx78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzQ1/ODMtMTQzMzc2NDE5/Ny01MzQ2LmpwZWc.jpeg" alt="Cover for Skyscraper" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +657,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50eef2765eae4e4886680d30d28428d0.png" alt="Cover for Orgone" style="max-width:120px; height:auto;" />
       </td>
@@ -773,7 +774,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/dinns0nTlsXtyWPL6I4_CkKxPiZdwaaYImOAGK-dzHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU4/MjEtMTI5ODY5MTM2/OS5qcGVn.jpeg" alt="Cover for The Herethereafter" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +857,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/098c9b1693ab374a3de9d45d08e7e98c.png" alt="Cover for Tomorrow Come Today" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +900,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c48b0949bd3640989b1399f7f32c46fc.png" alt="Cover for Tupac: Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +919,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Hx5t4ncfd0T9U74EWubhO2iGD57dMxz4GmA0ro1kyWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/NjktMTM3MzAxNDcw/Ni0xNDIyLmpwZWc.jpeg" alt="Cover for The American in Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1024,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/tiFZtm9OkgkThjA4Wfz8H5E8j8aR60-JwFo7haP-LyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDMy/MjAtMTcwODQ1MTkw/My04MDM4LmpwZWc.jpeg" alt="Cover for Rhetorical Question EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/435acbf800e4677c00ae6c8257bb1803.png" alt="Cover for Rhetorical Question EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-22</td>
       <td>Alamein</td>
@@ -1037,7 +1038,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 15</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 16</li>
             <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 100</li>
         </ul>
       </td>
@@ -1066,7 +1067,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/hAGi857X1zP_O0lHtBoamuMsJChtjyJJywSnQRptHm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg0/NjEwLTE1MTY3MTQz/MjctMjU5NC5qcGVn.jpeg" alt="Cover for The Best of - 20 Years of Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1128,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26a61fecd90b8ea44beb70909a59025.png" alt="Cover for Destroy All Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1153,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Q17MwnxgXNXcLWF9zSa9PQ4yBDgo6eDJWIJ-lvu72lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjIy/ODQtMTY1MzMzMjQ3/OS01NzYyLmpwZWc.jpeg" alt="Cover for The Best of 2Pac, Part 1: Thug" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1170,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54138952a55243b6c30286c587951ad5.png" alt="Cover for Pac&#39;s Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1208,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2007-03-26</td>
@@ -1306,7 +1307,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/01J6E8wiJ-H2yZUKtjBE7xV5MnfG2LjjZ5QQyBmzccY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQy/Mjc4LTE1NTQyOTU4/MjUtOTEzOC5qcGVn.jpeg" alt="Cover for Looking Up From underwater" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1337,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbfcfce949634377ae9a5e735c38e1fd.png" alt="Cover for Los Angeles" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,29 +1352,6 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/320b762eb177965fddb4dd62497503f1.png" alt="Cover for Bacano" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-10-01</td>
-      <td>Orgone</td>
-      <td>Bacano</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1423,7 +1401,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ShRlq-4tfi92J9_ibochY5Th2kMfigRSd2gdgft15ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDE0/MjAtMTI0MzYwODE1/Ny5qcGVn.jpeg" alt="Cover for (初心) Grimmrobes Live 101008" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1419,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4174433c06700631c610e6d78899bb0a.png" alt="Cover for Same Old Love Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1517,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 21</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 22</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 46</li>
         </ul>
       </td>
@@ -1605,7 +1583,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4b27649421be2d1f8226cf7e2c9fb68.png" alt="Cover for Horizons" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1605,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/nKTo61W5DEEceN86kdxiZWvE7WKuk4MEmdHOnGTC8BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUx/MTYtMTMyMDgwMzk2/OS5qcGVn.jpeg" alt="Cover for The Promise" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1623,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/jMw0FE1p9uG-HSWrvXqoJrwCoCXt36Tk3_p7fyGihUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIw/MTIxLTE1ODk2ODQx/NzUtODkzNC5qcGVn.jpeg" alt="Cover for Something Better - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1641,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d48dbcee46e4ba2a0956ba671d805c9.png" alt="Cover for Eight" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,7 +1661,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ae9c8d5c54404dd693b814eaff2c01.png" alt="Cover for Afraid Of Heights" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1675,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 52</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1768,7 +1746,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/dsay5SLCnBvbjq2i1R8BNTHYDhaLAQ-TsxcRxm4zJmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODEw/ODctMTQ3OTU2ODc3/OC00MjIwLmpwZWc.jpeg" alt="Cover for On His Own Live in L.A." style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1785,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 80</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 81</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 90</li>
         </ul>
@@ -1834,7 +1812,30 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/NoJbyovTvO52zzbKqtmp2SMGPbbTp4K9CIhT3wwzdZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYx/ODk3LTE1NzI5ODIy/MTktODkzNy5qcGVn.jpeg" alt="Cover for Take My Hand Remixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-28</td>
+      <td>LP Giobbi</td>
+      <td>Take My Hand Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db408206b5c30e973bbfddc18b40bcca.png" alt="Cover for Age of Unreason" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1854,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2c7468e08c755f7eca7cf7a1d286d7.png" alt="Cover for Signal" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,7 +1917,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/mSkBeDpp9u0opGui7WjwskhwJW8qQcPRVc5I0mHo8dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk5/ODQ0LTE2NTA4MzQz/MTItOTMwMS5qcGVn.jpeg" alt="Cover for LP Giobbi x Insomniac Records Presents Femme House" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,7 +1999,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a757b054320f45f4384cac595d795fb7.png" alt="Cover for half-life (deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -2059,7 +2060,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 50</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 53</li>
         </ul>
       </td>
@@ -2108,7 +2109,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2140,7 +2141,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2165,7 +2166,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd6b716f7ee1c0838b06c9bc21905b4f.png" alt="Cover for Method Acting act II : The Blue Note" style="max-width:120px; height:auto;" />
       </td>
@@ -2184,7 +2185,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
