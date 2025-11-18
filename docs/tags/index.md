@@ -1,18 +1,22 @@
 ---
 category: list
-date: 2025-11-17T18:47:09.618Z
+date: 2025-11-17T22:17:31.929Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-17T18:47:09.618Z">Mon Nov 17 2025 20:47:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T22:17:31.929Z">Tue Nov 18 2025 00:17:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [southern hip hop]({{ "tags/southern-hip-hop" | relative_url }}) | <time datetime="2025-11-17T22:17:31.929Z">Tue Nov 18 2025 00:17:31 GMT+0200 (Eastern European Standard Time)</time> |
+| [folktronica]({{ "tags/folktronica" | relative_url }}) | <time datetime="2025-11-17T22:17:01.230Z">Tue Nov 18 2025 00:17:01 GMT+0200 (Eastern European Standard Time)</time> |
+| [emocore]({{ "tags/emocore" | relative_url }}) | <time datetime="2025-11-17T22:11:31.195Z">Tue Nov 18 2025 00:11:31 GMT+0200 (Eastern European Standard Time)</time> |
+| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-11-17T20:19:44.300Z">Mon Nov 17 2025 22:19:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [turntablism]({{ "tags/turntablism" | relative_url }}) | <time datetime="2025-11-17T18:47:09.618Z">Mon Nov 17 2025 20:47:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [hard house]({{ "tags/hard-house" | relative_url }}) | <time datetime="2025-11-17T18:46:50.967Z">Mon Nov 17 2025 20:46:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [abstract hip hop]({{ "tags/abstract-hip-hop" | relative_url }}) | <time datetime="2025-11-17T18:45:06.142Z">Mon Nov 17 2025 20:45:06 GMT+0200 (Eastern European Standard Time)</time> |
@@ -370,10 +374,6 @@ Last updated: <time datetime="2025-11-17T18:47:09.618Z">Mon Nov 17 2025 20:47:09
 | [asian]({{ "tags/asian" | relative_url }}) | <time datetime="2025-11-14T20:41:00.795Z">Fri Nov 14 2025 22:41:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [blackgaze]({{ "tags/blackgaze" | relative_url }}) | <time datetime="2025-11-14T17:40:49.920Z">Fri Nov 14 2025 19:40:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-11-14T17:40:14.269Z">Fri Nov 14 2025 19:40:14 GMT+0200 (Eastern European Standard Time)</time> |
-| [southern hip hop]({{ "tags/southern-hip-hop" | relative_url }}) | <time datetime="2025-11-14T17:39:15.262Z">Fri Nov 14 2025 19:39:15 GMT+0200 (Eastern European Standard Time)</time> |
-| [folktronica]({{ "tags/folktronica" | relative_url }}) | <time datetime="2025-11-14T17:38:45.544Z">Fri Nov 14 2025 19:38:45 GMT+0200 (Eastern European Standard Time)</time> |
-| [emocore]({{ "tags/emocore" | relative_url }}) | <time datetime="2025-11-14T17:38:21.104Z">Fri Nov 14 2025 19:38:21 GMT+0200 (Eastern European Standard Time)</time> |
-| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-11-14T17:21:15.533Z">Fri Nov 14 2025 19:21:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [8-bit]({{ "tags/8-bit" | relative_url }}) | <time datetime="2025-11-14T16:37:32.760Z">Fri Nov 14 2025 18:37:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [anthem emo]({{ "tags/anthem-emo" | relative_url }}) | <time datetime="2025-11-14T16:05:32.628Z">Fri Nov 14 2025 18:05:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska punk]({{ "tags/ska-punk" | relative_url }}) | <time datetime="2025-11-14T14:58:00.744Z">Fri Nov 14 2025 16:58:00 GMT+0200 (Eastern European Standard Time)</time> |
