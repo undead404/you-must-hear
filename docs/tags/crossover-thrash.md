@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:50:02.974Z
+date: 2025-11-18T15:37:34.219Z
 permalink: tags/crossover-thrash
 title: crossover thrash
 ---
 
 ## crossover thrash
 
-Last updated: <time datetime="2025-10-28T04:50:02.974Z">Tue Oct 28 2025 06:50:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T15:37:34.219Z">Tue Nov 18 2025 17:37:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
   </thead>
   <tbody>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8debd4afaa257be1533ab760854d16ca.png" alt="Cover for Suicidal Tendencies" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-07-05</td>
       <td>Suicidal Tendencies</td>
@@ -42,12 +43,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 94</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/a9_jXBmq3mgnfk5WrmpXRdeHXBmioeYzvWGMaDq7dY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU3/MC0xMTgwOTAzMDk3/LmpwZWc.jpeg" alt="Cover for Eye for An Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +67,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d19449130b413ba72e24102696c856.png" alt="Cover for Carnivore" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +85,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1985-08</td>
@@ -140,7 +141,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1986-07-16</td>
@@ -157,7 +158,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/piDCtw5kZVEE-XkEYnqOxWKODi5X-G1nd2X1UtcZlrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTAy/NS0xMzY5NTg3OTA0/LTEwNTguanBlZw.jpeg" alt="Cover for Convicted" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +196,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg" alt="Cover for Crossover" style="max-width:120px; height:auto;" />
       </td>
@@ -215,6 +216,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b7958b1ba52b605a31c1d6b465e88dd.png" alt="Cover for Death Before Dishonour" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-04-15</td>
       <td>The Exploited</td>
@@ -229,7 +231,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 79</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +253,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 59</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -295,7 +297,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/1uTf9P43e1SbKx8JMqs__nHVXGBq5wllS035MoktElg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTI3/NC0xNTg4NTg4MzAw/LTU0MTQuanBlZw.jpeg" alt="Cover for How Will I Laugh Tomorrow When I Can&#39;t Even Smile Today" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +333,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1989-06-20</td>
@@ -349,25 +351,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/bLRHMRDNuAuAAh-9l1UW5T2dq8EJsnuN0JXkElcsxiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzc5/OC0xNjMzNDI3NDk4/LTI0NzEuanBlZw.jpeg" alt="Cover for Quickness" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989-09-14</td>
-      <td>Bad Brains</td>
-      <td>Quickness</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1990-06-30</td>
@@ -384,7 +368,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1990-06</td>
@@ -397,13 +381,14 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 11</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc902156f51ad8391b873acdff0c4150.png" alt="Cover for One Voice" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Agnostic Front</td>
@@ -419,7 +404,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Jof-qRYxDaq9JXzqF4JybpewRMaLF_Tgoqb06zCiIwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE0/MzQtMTMxNTc5Mzc1/OC5qcGVn.jpeg" alt="Cover for Alpha Omega" style="max-width:120px; height:auto;" />
       </td>
@@ -437,9 +422,9 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/yOY5YwarqYRgUhJ7eKeZfIh1fLbudaf2uMrERnSTDRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDE2/OC0xNjQzNTQ1NDU0/LTk3MTQuanBlZw.jpeg" alt="Cover for The Art Of Rebellion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b64ab3c68a6241eba3f40ce8cb0c4b35.png" alt="Cover for The Art Of Rebellion" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-30</td>
       <td>Suicidal Tendencies</td>
@@ -455,9 +440,9 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/JxmWxuRgrK-_z7VWfMzKMLDjapaa4McFsaIvVqDyx5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU5/MzEtMTMwNzEyMjI4/Ni5qcGVn.jpeg" alt="Cover for Don&#39;t Forget the Chaos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3972b77d73091c2b4e199777ef09905.png" alt="Cover for Don&#39;t Forget the Chaos" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-10-16</td>
       <td>The Exploited</td>
@@ -473,12 +458,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 32</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b5f6214dc9f1e3e974305823215128e.png" alt="Cover for Doomsday" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +490,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7afdc7deaa0f2725ffe4267f3728d927.png" alt="Cover for Daily Grind" style="max-width:120px; height:auto;" />
       </td>
@@ -526,13 +511,14 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 4</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e14316f319e180bb7b7c6ff4c227f547.png" alt="Cover for River Runs Red" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-10-12</td>
       <td>Life of Agony</td>
@@ -563,8 +549,8 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 25</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 55</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 29</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +575,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/E2XUUqUhxtrtA290_GounE6QKteBAl2mqBQFljLIKxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYx/MDctMTIzNDI5MTY3/OC5qcGVn.jpeg" alt="Cover for Ragnarök" style="max-width:120px; height:auto;" />
       </td>
@@ -609,7 +595,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/1ZvWLf61X18tBKyAfkWd_AZAG6nFEMglpu0b-yueLGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA1/Mjc0LTE1ODQ3NDYy/NzgtNTM5NS5qcGVn.jpeg" alt="Cover for Beat the Bastards" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acea079b5648449a242a3870261440a2.png" alt="Cover for Beat the Bastards" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-23</td>
       <td>The Exploited</td>
@@ -626,7 +612,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/toI6yY-RTcWCvd5RrMah8l8_ae0Q6HkitdocxKdd4OE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgy/My0xNjQ5MTQ5ODUw/LTk5NjkuanBlZw.jpeg" alt="Cover for Undisputed Attitude" style="max-width:120px; height:auto;" />
       </td>
@@ -640,12 +626,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 26</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/BroSpIHFuUqIFotIM8MPlX7IcmWSTUSPMimQQlQNH60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDIz/Mi0xMTI3NzUyNjcy/LmpwZWc.jpeg" alt="Cover for No Intente Hacer Esto En Su Casa" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +649,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/BJLTpe3_I3gCtUIFjZX1uhlgQT-o34V3oCflOZo2seI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA0/Ny0xMzUzNzM3MDM2/LTY4OTkuanBlZw.jpeg" alt="Cover for Violent Demise: The Last Days" style="max-width:120px; height:auto;" />
       </td>
@@ -679,12 +665,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 9</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1998-07-14</td>
@@ -698,13 +684,14 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 16</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 8</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 20</li>
             <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2000-08-20</td>
@@ -721,7 +708,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2001</td>
@@ -757,7 +744,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/vjXESnuMDlQVRQzVOPL-633eaEbcWdl95BAFPAgU-8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODIx/OS0xMTc2OTc2MzU5/LmpwZWc.jpeg" alt="Cover for Friends &amp; Family" style="max-width:120px; height:auto;" />
       </td>
@@ -776,7 +763,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/vjXESnuMDlQVRQzVOPL-633eaEbcWdl95BAFPAgU-8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODIx/OS0xMTc2OTc2MzU5/LmpwZWc.jpeg" alt="Cover for Friends &amp; Family 2" style="max-width:120px; height:auto;" />
       </td>
@@ -818,9 +805,9 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/1yIIy14ffM_jVqiTVnsJXqMkqElPukMYjyqg9KL3oic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzU3/NjAtMTM3ODc0NDc2/OS0yMDUyLmpwZWc.jpeg" alt="Cover for Toxic Waste" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea3106c1b118340bc5e73410aa69c44.png" alt="Cover for Toxic Waste" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Municipal Waste</td>
@@ -860,7 +847,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2003-07-22</td>
@@ -876,12 +863,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 28</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2005</td>
@@ -914,11 +901,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006-08-01</td>
@@ -966,12 +954,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 13</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/rYWngCILLIhOBcd19yhpNSyzqOfw_fTjFNyTue1Wghk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA0/NzUtMTMzNjA4ODE5/MS5qcGVn.jpeg" alt="Cover for Demo 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +979,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/zMC6jD4s6iusPKXdTse43KaHRMlkqnzNU2RHT3IOPXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTkw/MjUtMTY0NjQ1Njg3/MS02OTI1LmpwZWc.jpeg" alt="Cover for Armageddon Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +999,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/b_wc3EXLgqKReDh_hwxPN8xtjB3fD7-0khRq8E-Cz8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTAx/NTYtMTI5NDk0OTY0/Ni5qcGVn.jpeg" alt="Cover for Mala Sangre" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,7 +1017,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/My_DY90r9Oi8Pl-99WOg21054XzZ7RUpmOIIGhAsTlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzM0/MzMtMTUxMTA4NTY5/NC00NDI0LmpwZWc.jpeg" alt="Cover for Year of the Cycos" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1055,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/IcFM-7d5KkKq0V0HuZNlYMVn6dTf608jshYK-UwBYaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDM4/MzEtMTQ0MDc3OTA2/Ny01OTk2LmpwZWc.jpeg" alt="Cover for So Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,41 +1147,43 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 1</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2010-09-07</td>
@@ -1231,9 +1221,27 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2012-01-20</td>
+      <td>Iron Reagan</td>
+      <td>Demo 2012</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/fNxfzoEUFX2I5h82oCYrv1umQXHtUvAlZamfWzRcoj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg0/OTc0LTE2NzEyMjA2/OTQtODE2OS5qcGVn.jpeg" alt="Cover for The Fatal Feast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eca348c3846463b8e3c69e732b358b9.png" alt="Cover for The Fatal Feast" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-10</td>
       <td>Municipal Waste</td>
@@ -1251,7 +1259,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2012-05-01</td>
@@ -1268,7 +1276,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/m1_TSYVhz80uAlbZCUL-BW6JdLfUtdm--krQEvuAU00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzIx/NjItMTM0OTMwMTg5/NC00NDk3LmpwZWc.jpeg" alt="Cover for Failed States" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1314,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/5S6QmDTStw-sXnurzE4l72tEayU02x3xVLUI8Swbkyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDU2/NDgtMTM5MDExOTk2/OC04MjI5LmpwZWc.jpeg" alt="Cover for Speed Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1333,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2013-06-11</td>
@@ -1390,8 +1398,9 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1cbf1a1604fb634469d2b7a8253ddb3.png" alt="Cover for The Tyranny of Will" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-14</td>
       <td>Iron Reagan</td>
@@ -1407,7 +1416,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/6hRco2HVyGnuOCx-jG_wKzyBM5Bg5AFOUTNpA4cox48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDYx/NDYtMTQxMzcxMjg1/MS01NjA0LmpwZWc.jpeg" alt="Cover for Insanity Alert" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1437,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/vqX29qvVbrjXpmN0wGBujH9dZgKvJzSBRrx5v1KV7PA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjk2/NjktMTQzNTI2NTkz/MS00OTIxLmpwZWc.jpeg" alt="Cover for Illusions of Dominance" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1455,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg" alt="Cover for But Wait... There&#39;s More!" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1474,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/9kA3qXcDWkF3UZHt6TCrwJCGD89Kf4Cqt4uYQqIGbZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEy/NDU1LTE1OTYzOTYy/NTUtMjEzNC5qcGVn.jpeg" alt="Cover for Dead Heat &#x2F; Mindforce" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,12 +1509,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 29</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/BcYMh0xtiUnA80mQty4FQb0io9rxv-71gmS6L5_x8O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTUy/MzU5LTE1MjIzMTg4/NDItNTg0OS5qcGVn.jpeg" alt="Cover for Sacrament of Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1535,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/txBXp35GAK0DQ6My2ZV-ZjT1jr5HnzQlK1AGVm1rQ-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU0/NjM3LTE0OTk3OTkx/MjUtNjU2NS5qcGVn.jpeg" alt="Cover for The Future Of..." style="max-width:120px; height:auto;" />
       </td>
@@ -1549,7 +1558,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/mF8DRn9q1yVlZq05XJv6Z2YuJz5Fogiyl2WLJqwhJEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTAx/NTctMTQ4NTc3NTU1/NC04MDUxLmpwZWc.jpeg" alt="Cover for Crossover Ministry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b470ec52258434467653625ff34a71f4.png" alt="Cover for Crossover Ministry" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-03</td>
       <td>Iron Reagan</td>
@@ -1625,7 +1634,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/mZuniz1xtJaEdoKyNNaiFShJLix3SiIEBZzcrFebJNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUw/NDIyLTE1MjkzMjMz/ODgtNDM1My5qcGVn.jpeg" alt="Cover for The Primordial Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,7 +1674,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg" alt="Cover for Dirty Rotten Hitz" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,7 +1714,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/PoXs0VIW0N5zGPwKx3dplo49LwdpteSR7y9RKfsJbYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcw/MzIxLTE1NjkxNjky/MzAtMTc1OS5qcGVn.jpeg" alt="Cover for Beyond the Wall of Desolation" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,9 +1749,9 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/HEpLsFvywaWfS8oYUJ7JXZSODX6r7ZGFO2l031BOK2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc5/NjgyLTE1OTIyMjM1/MjktODc4Ni5qcGVn.jpeg" alt="Cover for In The Beginning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fb3e29937e4874bc24fdf8342312daa.png" alt="Cover for In The Beginning" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Cro-Mags</td>
@@ -1759,7 +1768,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/07lf71OZfDywOyDnF7KWpTK4ZHDG1A9eguzL5e1Rg4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc0/ODg1LTE2MDczNTk5/NzUtMzQyMy5qcGVn.jpeg" alt="Cover for Everlasting Torment" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,7 +1788,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/dRugfIE_aey4GMB_qnwZOO41m2wf63--WHRAOUbNT4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA4/NDYyLTE2Njk0MzM1/MTktNzI4MC5qcGVn.jpeg" alt="Cover for World At War" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,14 +1884,14 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/eawcO4PmIk_tQjE7EnnaIqBAHYKKYYGqIcfIJZsfYog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzQ5/ODc0LTE2NTY2NzU5/NzktMTg1Ny5qcGVn.jpeg" alt="Cover for Electrified Brain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd3e7f11558b2d3048ca446bde7d541f.png" alt="Cover for Electrified Brain" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-01</td>
       <td>Municipal Waste</td>
@@ -1898,7 +1907,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8585f67fcc01242f5203daf1710ee344.png" alt="Cover for Depictions of Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,7 +1925,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6002e863d77bb4c34080dac5cbf79ee8.png" alt="Cover for Eclipse of the Dual Moons" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1945,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/dNgX3u00cdSq_1BCyd66ffb6dXniNDV9F8KGZ3cCZEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzYx/MC0xMTA1MDkwNjU5/LmpwZw.jpeg" alt="Cover for DRAIN on Audiotree Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,9 +2003,9 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/HZhHw7gQpA9hgJkI72XnoOS4Ej8gr0lCxZk6WCPm8bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjM3/NjkwLTE2ODU0NzQ2/MTMtMjI1OS5qcGVn.jpeg" alt="Cover for Wicca Phase Springs Eternal &#x2F; Pillars Of Ivory Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a2ccaa005b54d6f2f347dcebb83e8a.png" alt="Cover for Wicca Phase Springs Eternal &#x2F; Pillars Of Ivory Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-02</td>
       <td>Wicca Phase Springs Eternal</td>
@@ -2016,12 +2025,12 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
         <ul>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 45</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 88</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/S6pbCfUtlMZ4Hqz9OAb5JEzYMRRGlNkwnL71fY2gNNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODE3/MDIwLTE2OTA2NDcx/MzUtNzU0Ny5qcGVn.jpeg" alt="Cover for Endless Torment" style="max-width:120px; height:auto;" />
       </td>

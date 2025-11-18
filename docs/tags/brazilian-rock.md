@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T13:57:51.817Z
+date: 2025-11-18T14:51:47.074Z
 permalink: tags/brazilian-rock
 title: brazilian rock
 ---
 
 ## brazilian rock
 
-Last updated: <time datetime="2025-11-13T13:57:51.817Z">Thu Nov 13 2025 15:57:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T14:51:47.074Z">Tue Nov 18 2025 16:51:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b491512262cb44088e5489cd25a432b6.png" alt="Cover for Um Passo A Frente" style="max-width:120px; height:auto;" />
       </td>
@@ -119,12 +119,12 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 32</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/474b1fe4e50a62c84cddf1dedad2e4b9.png" alt="Cover for Rita Lee" style="max-width:120px; height:auto;" />
       </td>
@@ -137,12 +137,12 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 71</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1981</td>
@@ -183,12 +183,12 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 84</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0e5d6c5e195426f9604dd447b3b4f22.png" alt="Cover for Roupa Nova (1983)" style="max-width:120px; height:auto;" />
       </td>
@@ -214,27 +214,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5251d8eb44c948ba8c6a1e98aa91cfff.png" alt="Cover for Roupa Nova - 1985" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Roupa Nova</td>
-      <td>Roupa Nova - 1985</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6244b568c7751b749cbc9a5bc666ffe.png" alt="Cover for Fullgás" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +227,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -295,7 +275,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b9e0df79a295df661205c506ff8cf01.png" alt="Cover for Legião Urbana" style="max-width:120px; height:auto;" />
       </td>
@@ -310,12 +290,12 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 44</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b4215ba7edb4b43a8a54419fc22ab5b.png" alt="Cover for Correndo Risco" style="max-width:120px; height:auto;" />
       </td>
@@ -367,12 +347,12 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 61</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a1311c3d5394301911e6fd3224e1d35.png" alt="Cover for Que País É Este" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +370,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>1987-11</td>
@@ -407,7 +387,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1988</td>
@@ -425,7 +405,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c770985c68e3e2cebb3e5a4ca0c498b.png" alt="Cover for Ideologia" style="max-width:120px; height:auto;" />
       </td>
@@ -443,7 +423,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/144fe1f381fbc6092f98c0789cd3be37.png" alt="Cover for Próxima Parada" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +463,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be8b9ed7b52ad3ad2dbc342afdb46e8f.png" alt="Cover for As Quatro Estações" style="max-width:120px; height:auto;" />
       </td>
@@ -520,6 +500,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eff4c904c3c9ad851b776aa68c27218.png" alt="Cover for Os Grandes Sucessos De Raul Seixas" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Raul Seixas</td>
@@ -543,9 +524,9 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 34</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 60</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 60</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 35</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 63</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +570,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/9Jv9wg4w2BP8pzGIjjPKy3NGmshiHHPQExNJQYYt--U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMz/NzItMTI3MjQ5NTQw/OC5qcGVn.jpeg" alt="Cover for Meus Momentos" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +606,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2564b1371b3e44359a70d23b2ff4564b.png" alt="Cover for Que País é Este 1978&#x2F;1987" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +644,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc61a91271bcac3857bff4a92949fab6.png" alt="Cover for Asa Morena" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +665,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3e7bb4ff63346bb97ad30eb1959f075.png" alt="Cover for Tem Mas Acabou" style="max-width:120px; height:auto;" />
       </td>
@@ -747,13 +728,13 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 39</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 39</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 40</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4859415197da457ea386f4803a47053c.png" alt="Cover for Mais Do Mesmo" style="max-width:120px; height:auto;" />
       </td>
@@ -762,8 +743,6 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       <td>Mais Do Mesmo</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
@@ -789,13 +768,13 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 41</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 42</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/yVUGF2klNi_uIGtvrkZsKcui2MPa_d4i_BOsNQ0EPLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTk1/NTktMTQyMzMzNjc0/OS0xNDU3LmpwZWc.jpeg" alt="Cover for Acustico Mtv" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +793,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/oykodf6s_7amARPRRIwx12cUOlp1xxDDrgvYNm8DePw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTU2/NjMtMTM3MzE5NTM2/OS0yNTQ2LmpwZWc.jpeg" alt="Cover for 100% Charlie Brown Jr." style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +829,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/baa6614653f8d955dd112fc1250f07b0.png" alt="Cover for Balada MTV" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +958,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/740635d4c4bb436c987063c924971eec.png" alt="Cover for O Corpo" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +981,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae1275e2d7feadaf2e2d0cb67b25c2eb.png" alt="Cover for Capital Inicial 4.0" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1002,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/104a76436ef26e157943648d24c814ab.png" alt="Cover for Acústico Capital Inicial" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1024,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2001</td>
@@ -1163,7 +1142,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14dc32c223e94e1d80e874b188fd9a78.png" alt="Cover for Outubro Ou Nada" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,7 +1181,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/St-Shl_OGN7b0aPkXviCRRKbcu_QGBwYaeg1M8ho8wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA2/ODgtMTMwMjk3Nzg2/Ni5qcGVn.jpeg" alt="Cover for Filmes de Guerra, Cancoes de Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,6 +1200,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/859ef49f50a4410bc101b845a75bc218.png" alt="Cover for Rosas E Vinho Tinto" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-14</td>
       <td>Capital Inicial</td>
@@ -1237,7 +1217,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e51d9b517ea442ac4ab0c06a845f88a.png" alt="Cover for Ventura" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,7 +1230,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 5</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1296,7 +1276,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/yRfUvxHQw13V7PndoqJEh_raRRTbzHSkrPrqThsfBjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MzUzLTE1Mjg5MDU5/MzctNzk0My5qcGVn.jpeg" alt="Cover for Kid Abelha" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1338,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/196703dcbe5b42ec8d0420eef0b41988.png" alt="Cover for Pista Livre" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,7 +1356,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2005-10-24</td>
@@ -1393,7 +1373,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d971cb22110f23b32015c2b5e17e24d.png" alt="Cover for Acústico (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1417,27 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1facfded79914265bf2924f2fa10500c.png" alt="Cover for Daqui Pro Futuro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-10</td>
+      <td>Pato Fu</td>
+      <td>Daqui Pro Futuro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cd24acc01c04540b8f5be31bee9fd7e.png" alt="Cover for Seu Cuca Ao Vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,7 +1477,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2d91adf0709860c308e97628a09bb2.png" alt="Cover for 7 Vezes" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,7 +1496,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5a3732ef003578eda1b8b3438316ccd.png" alt="Cover for 20 Anos - Acústico" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1518,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70dddc464d1a42cc85bc99a05f9cc23e.png" alt="Cover for Chiaroscuro" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,12 +1533,12 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 29</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37eddd0da8f7dee12484c8f00cb14d41.png" alt="Cover for Tudo É Permitido (Remasterizado)" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1554,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 18</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 17</li>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 51</li>
         </ul>
       </td>
@@ -1575,12 +1575,12 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 37</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca880885e1754864ae220ceb29297d32.png" alt="Cover for Hein? (Incluindo Faixa Bônus)" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1600,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/488dcc1ea7d74490b42d74e34cb9fc1b.png" alt="Cover for Greve das Navalhas" style="max-width:120px; height:auto;" />
       </td>
@@ -1657,7 +1657,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec6d359045599117f8f079a00e154c2.png" alt="Cover for Multishow Ao Vivo Paralamas Brasil Afora (Ao Vivo &#x2F; Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,15 +1699,15 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 16</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 19</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 20</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 26</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 27</li>
             <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d19b4f3cf9c4ddbb56e53126743b935.png" alt="Cover for A Trupe Delirante No Circo Voador (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1725,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39ef57a9fc34ac542d5bd7ee4250d2c9.png" alt="Cover for Dres" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,8 +1743,8 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 38</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 47</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 39</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 49</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 95</li>
         </ul>
       </td>
@@ -1789,7 +1789,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce06f7caa61a4cfaccfe9bb8bf51165f.png" alt="Cover for Come on feel the Riverbreeze" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,12 +1884,13 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 7</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2017</td>
@@ -1909,7 +1910,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/155f478fb51f6c877f2df3d91dfe37fc.png" alt="Cover for Álbum Laranja" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1929,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/787392502e0a88ed91c2c97de1f45fc7.png" alt="Cover for O Tempo Não Para - O Show Completo (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,7 +1950,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bd7cbdaf34ce51cb883d6aec4b15ef6.png" alt="Cover for O Verão Passou, Mas O Sol Continua Aqui" style="max-width:120px; height:auto;" />
       </td>
