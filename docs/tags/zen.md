@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T04:52:55.605Z
+date: 2025-11-18T05:41:03.682Z
 permalink: tags/zen
 title: zen
 ---
 
 ## zen
 
-Last updated: <time datetime="2025-11-16T04:52:55.605Z">Sun Nov 16 2025 06:52:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T05:41:03.682Z">Tue Nov 18 2025 07:41:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c276c68a2a6dff0e96c7c34e698434f.png" alt="Cover for Music For Zen Meditation" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Tony Scott</td>
@@ -341,7 +342,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/wKolvyWr4x3AMDEDSDyIcdwCfjm4kL530sa1YL9znWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUy/NzQwLTE1MjM0OTA1/NzUtODM1My5qcGVn.jpeg" alt="Cover for Koi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16aae8b271544f3ca18a12bf8b82b7d6.png" alt="Cover for Koi" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>PC Davidoff</td>
@@ -496,7 +497,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/6qFMZwfy8uDFyLeIH4RtWBM7gPDpGrMvmaoRH0aek4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTE1/MzctMTQ4NzM2OTUx/NC01ODgxLmpwZWc.jpeg" alt="Cover for Zen Breakfast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53d52f511ff1de9a575b4a8426052380.png" alt="Cover for Zen Breakfast" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-10</td>
       <td>Karunesh</td>
@@ -508,7 +509,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 50</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +673,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/akSlhWm4tkuw-tu6PGcDSuRe2fR0SDptb09eYSC6vJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ1/MTM3LTE2NDY4MzM1/MzctNzQ0Ny5qcGVn.jpeg" alt="Cover for Sage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264b58e88ae890126474053e8dfcbaba.png" alt="Cover for Sage" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-01</td>
       <td>PC Davidoff</td>
@@ -741,7 +742,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/o1JT8kpc9I0MkaAcgVmIXIQ1lxkb8F5_kXtAdQyUYWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDAx/NTItMTQyMDY3NDY5/My00OTA3LmpwZWc.jpeg" alt="Cover for Round And Around" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37b9bd75c9dcff76e579e2097f431d58.png" alt="Cover for Round And Around" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Homeless Balloon</td>
@@ -991,7 +992,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2012-06-22</td>
@@ -1126,26 +1127,6 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Zen Dub</td>
-      <td>Untitled Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>68</td>
       <td>
           <img src="https://i.discogs.com/-VXoh5MPI94VA3cThM-sbIZgLaQpd8p6Kpg5PKrbAps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTMx/Mzk4LTE2NTgyMjIw/OTctODQyNC5qcGVn.jpeg" alt="Cover for Zen Lounge (Chan Shi)" style="max-width:120px; height:auto;" />
@@ -1164,7 +1145,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Wh_m9tUfB76ZjqnbJzSgP5aEE0RLu5Jz2ce_z4eei0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/NjQtMTQyNjQzOTA3/OC0zNjYyLmpwZWc.jpeg" alt="Cover for Music for Zen Meditation:Shakuhachi Japanese flute" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1167,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg" alt="Cover for Zen Dub - The Journey EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,6 +1415,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a6b1c9dda041bbcaece09ba0fea86b.png" alt="Cover for A Corner Can Fasten Itself" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Carlo Yemen</td>
@@ -1485,25 +1467,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>5 minute dharma</td>
-      <td>5 Minute Dharma Podcast</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1516,6 +1480,48 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tu_tu</td>
+      <td>First</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>5 minute dharma</td>
+      <td>5 Minute Dharma Podcast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
@@ -1828,6 +1834,7 @@ Zen music creates contemplative soundscapes designed to facilitate meditation, m
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b531bec2504f0cb6a45e18d4930ee8.png" alt="Cover for Womanspirit Rising" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Thomma Lyn Grindstaff</td>
