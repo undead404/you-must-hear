@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-18T08:06:07.398Z
+date: 2025-11-18T08:14:08.312Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-18T08:06:07.398Z">Tue Nov 18 2025 10:06:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T08:14:08.312Z">Tue Nov 18 2025 10:14:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [brostep]({{ "tags/brostep" | relative_url }}) | <time datetime="2025-11-18T08:14:08.312Z">Tue Nov 18 2025 10:14:08 GMT+0200 (Eastern European Standard Time)</time> |
+| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-11-18T08:06:43.608Z">Tue Nov 18 2025 10:06:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-11-18T08:06:07.398Z">Tue Nov 18 2025 10:06:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [drone metal]({{ "tags/drone-metal" | relative_url }}) | <time datetime="2025-11-18T08:06:00.920Z">Tue Nov 18 2025 10:06:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental pop]({{ "tags/experimental-pop" | relative_url }}) | <time datetime="2025-11-18T08:05:31.734Z">Tue Nov 18 2025 10:05:31 GMT+0200 (Eastern European Standard Time)</time> |
@@ -382,7 +384,6 @@ Last updated: <time datetime="2025-11-18T08:06:07.398Z">Tue Nov 18 2025 10:06:07
 | [avant-pop]({{ "tags/avant-pop" | relative_url }}) | <time datetime="2025-11-14T23:02:30.643Z">Sat Nov 15 2025 01:02:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [glitch pop]({{ "tags/glitch-pop" | relative_url }}) | <time datetime="2025-11-14T23:01:13.446Z">Sat Nov 15 2025 01:01:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [asian pop]({{ "tags/asian-pop" | relative_url }}) | <time datetime="2025-11-14T22:59:47.666Z">Sat Nov 15 2025 00:59:47 GMT+0200 (Eastern European Standard Time)</time> |
-| [brostep]({{ "tags/brostep" | relative_url }}) | <time datetime="2025-11-14T22:51:43.368Z">Sat Nov 15 2025 00:51:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [southern rap]({{ "tags/southern-rap" | relative_url }}) | <time datetime="2025-11-14T22:51:37.311Z">Sat Nov 15 2025 00:51:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [synth rock]({{ "tags/synth-rock" | relative_url }}) | <time datetime="2025-11-14T22:42:55.657Z">Sat Nov 15 2025 00:42:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-rock]({{ "tags/j-rock" | relative_url }}) | <time datetime="2025-11-14T22:25:57.597Z">Sat Nov 15 2025 00:25:57 GMT+0200 (Eastern European Standard Time)</time> |
@@ -699,7 +700,6 @@ Last updated: <time datetime="2025-11-18T08:06:07.398Z">Tue Nov 18 2025 10:06:07
 | [symphonic metal]({{ "tags/symphonic-metal" | relative_url }}) | <time datetime="2025-11-03T17:59:51.080Z">Mon Nov 03 2025 19:59:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [traditional heavy metal]({{ "tags/traditional-heavy-metal" | relative_url }}) | <time datetime="2025-11-03T17:51:50.964Z">Mon Nov 03 2025 19:51:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [belarus]({{ "tags/belarus" | relative_url }}) | <time datetime="2025-11-03T17:48:51.061Z">Mon Nov 03 2025 19:48:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-11-03T17:45:51.054Z">Mon Nov 03 2025 19:45:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [latvian]({{ "tags/latvian" | relative_url }}) | <time datetime="2025-11-03T17:39:50.987Z">Mon Nov 03 2025 19:39:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [afro-cuban]({{ "tags/afro-cuban" | relative_url }}) | <time datetime="2025-11-03T17:25:40.825Z">Mon Nov 03 2025 19:25:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic hard rock]({{ "tags/melodic-hard-rock" | relative_url }}) | <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50 GMT+0200 (Eastern European Standard Time)</time> |
