@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T11:59:56.480Z
+date: 2025-11-18T11:59:29.421Z
 permalink: tags/album-rock
 title: album rock
 ---
 
 ## album rock
 
-Last updated: <time datetime="2025-11-16T11:59:56.480Z">Sun Nov 16 2025 13:59:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T11:59:29.421Z">Tue Nov 18 2025 13:59:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,40 +29,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
   </thead>
   <tbody>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://i.discogs.com/FlBvWLDnzhD1VmRxtFLwuUYqugcNjLh3eV34YkNjMvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDA0/NDktMTQxMjA4MTk4/Mi01Nzg5LmpwZWc.jpeg" alt="Cover for Estúpido Cupido" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1959</td>
-      <td>Celly Campello</td>
-      <td>Estúpido Cupido</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 49</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 71</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 74</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 74</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 74</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>41</td>
       <td>
       </td>
       <td>1965</td>
@@ -83,12 +50,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 44</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d8aa04ca84f4867b2b632606f101145.png" alt="Cover for Yesterday and Today" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +92,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/zWoBBXbISrm1qGyQWwz2Sseb4Nhcd_TbeFGhuZz5vRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTAz/ODEtMTMyNDIwNDU4/Mi5qcGVn.jpeg" alt="Cover for Motel Shot" style="max-width:120px; height:auto;" />
       </td>
@@ -142,33 +109,6 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/OHJtLthbSLruh4POdk7xILwjNLl6cCK4CDcchWHUa1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/NTU3LTE1NDEwODQ2/MTgtNTc2Ni5wbmc.jpeg" alt="Cover for Bandeira Branca" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1970</td>
-      <td>Dalva De Oliveira</td>
-      <td>Bandeira Branca</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -208,7 +148,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/FpNfU4Scdsx-MQ4n16CnnQ7afbJ1gBk3103nBpCPb_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODM5/My0xMTM2NzIwODEw/LmpwZWc.jpeg" alt="Cover for His Band and The Street Choir" style="max-width:120px; height:auto;" />
       </td>
@@ -225,12 +165,33 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 85</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/_axvDrjcJAzzu7Ps7sSWPmux0n0OWkePFgyV2Jf0FKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzI3/OTgtMTQ4MjIxODU3/NC02NjQxLmpwZWc.jpeg" alt="Cover for Stay With Me: The Faces Anthology" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Faces</td>
+      <td>Stay With Me: The Faces Anthology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73ccc953298449d4ac938309c30ca2f8.png" alt="Cover for Love Songs [1995]" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +212,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>29</td>
       <td>
       </td>
       <td>1971-02</td>
@@ -268,7 +229,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1805b08a7da2c6e26e04dd583208c47.png" alt="Cover for Future Games" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +248,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/R1r4ovqgNkUekz5eX4ak0CyJ-NA3UKayQ_rsLhVotX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM2/OS0xNTgxMjgzOTkx/LTg4OTQuanBlZw.jpeg" alt="Cover for Into the Purple Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -303,14 +264,14 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 49</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/56mhocW1HzAeUMbzMhu9OFIBAHw9ZjTfttcqr20-ZgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE5/MzQtMTMyOTI0NTg2/MC5qcGVn.jpeg" alt="Cover for Herra Mirandos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1a927f607ae40639ac990ba8976abf2.png" alt="Cover for Herra Mirandos" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Hector</td>
@@ -335,12 +296,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 46</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 66</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>45</td>
       <td>
       </td>
       <td>1974</td>
@@ -353,12 +314,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 34</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd4ffb6f549d4b7c95251766719c7f77.png" alt="Cover for Alice Cooper&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -372,7 +333,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 11</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 13</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 84</li>
         </ul>
       </td>
@@ -401,8 +362,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 28</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 32</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 91</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
@@ -413,7 +374,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5464c0dc415e4e84ce43f4124372fde5.png" alt="Cover for Nightmares...and Other Tales From the Vinyl Jungle" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +394,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/bITbqAMFGM-bd7S_g-zNGiDC2T9gQnhtbh-XkGgDJNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg1/NDgtMTM3ODM3MTU1/Ny03NTQyLmpwZWc.jpeg" alt="Cover for Feats Don&#39;t Fail Me Now" style="max-width:120px; height:auto;" />
       </td>
@@ -469,45 +430,34 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 14</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 29</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 36</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>10</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3790706718044da900df8a7bac7d8bf.png" alt="Cover for El Amor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/970b4e596d3442ed940db584aed4e731.png" alt="Cover for Beautiful Loser" style="max-width:120px; height:auto;" />
       </td>
-      <td>1975</td>
-      <td>Julio Iglesias</td>
-      <td>El Amor</td>
+      <td>1975-04</td>
+      <td>Bob Seger</td>
+      <td>Beautiful Loser</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 22</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 54</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 57</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 57</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97e59a52bf1c49ceb28cfa4d763e8520.png" alt="Cover for Fleetwood Mac" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +479,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/z8sXcvzgrQAaC8u1-HYfbk1gAE8B7-KDXorXpvpMNh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjU1/MDUtMTU0NDM2NDg5/My02MjAzLmpwZWc.jpeg" alt="Cover for White Punks on Dope" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +505,38 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afa356aabafc588d02bae701efcc0b95.png" alt="Cover for Doces Bárbaros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Doces Bárbaros</td>
+      <td>Doces Bárbaros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 24</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d36a4769bb1b4063974ead028691675d.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +559,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>16</td>
       <td>
       </td>
       <td>1976-05</td>
@@ -597,7 +578,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/BcN7iNrN1y7jw9Zk6BACbXBsH4t0VX6Us4Tg3YtdPkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTc0/NjQtMTYwNjUzMTkx/NC0zMzQyLmpwZWc.jpeg" alt="Cover for Flashback: The Best of .38 Special" style="max-width:120px; height:auto;" />
       </td>
@@ -621,39 +602,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b880f3e6a6bc74f8385619f4baf7ad7.png" alt="Cover for I Feel Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Donna Summer</td>
-      <td>I Feel Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 4</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 38</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 41</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 41</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 41</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/wNdAKJu6dO7bDD2ochSJlbE_Nmeal-b4bJvnZs0KS1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEy/MTQtMTYwNjUxMjI1/Ny05MTA3LmpwZWc.jpeg" alt="Cover for Get It" style="max-width:120px; height:auto;" />
       </td>
@@ -677,8 +626,9 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/338e1b37c393da73beaf6c75eb44bc96.png" alt="Cover for Disco Club" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Tim Maia</td>
@@ -708,7 +658,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4de2d3c92adb9e9d1d01e3a749082d5.png" alt="Cover for Street Hassle" style="max-width:120px; height:auto;" />
       </td>
@@ -727,9 +677,36 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/SrfhQUfw5tnaxqqvUt9u71w6_sDumREkrbvakqSFYR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDQ2/MjMtMTQwODU3NTcy/OC0yNDYzLmpwZWc.jpeg" alt="Cover for Sorriso de criança" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2efe74cdb928a72a17ea385cd718146.png" alt="Cover for My Name Is Gretchen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Gretchen</td>
+      <td>My Name Is Gretchen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a56167def1787b701be21d15ad1c707d.png" alt="Cover for Sorriso de criança" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Dona Ivone Lara</td>
@@ -749,39 +726,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 34</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4af7983a60ab8f05d2f1fb874fb5e3.png" alt="Cover for America" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Julio Iglesias</td>
-      <td>America</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7578e3c85e3b9539ab93415a92f18cd.png" alt="Cover for In The Beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -806,40 +756,9 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>69</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85191e966783bb8dce01af8ac00aa73.png" alt="Cover for Like An Eagle" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979-03-01</td>
-      <td>Dennis Parker</td>
-      <td>Like An Eagle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 32</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 61</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 64</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 64</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 64</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3948607fbd08e7ede0138b8baf26efda.png" alt="Cover for Hey!" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Julio Iglesias</td>
@@ -863,12 +782,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 32</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 32</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 32</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 60</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b9a13603b52449fc4b9b4690b4d8337.png" alt="Cover for So Far" style="max-width:120px; height:auto;" />
       </td>
@@ -885,9 +804,9 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/TWpPZpuWatm75xz8_KPgERH62eOcRZW5vlYcNMcofw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM3/My0xMTc1NzUyMzkw/LmpwZWc.jpeg" alt="Cover for Love Lives Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac10d32cf288e0d41ad992838e094182.png" alt="Cover for Love Lives Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-08-02</td>
       <td>Minnie Riperton</td>
@@ -912,12 +831,39 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 68</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75d276875d7d4c77b3f6b9b07039a129.png" alt="Cover for A Arte de Alcione" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Alcione</td>
+      <td>A Arte de Alcione</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9333f8bfa0f64705c769a454f8c627ef.png" alt="Cover for Freeze Frame" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +880,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png" alt="Cover for Toto IV" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +900,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f60232ef65624f928692375a0dc03131.png" alt="Cover for Good Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +917,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f2727220cab4beca48fe472bc79f182.png" alt="Cover for Modern Lifestyle" style="max-width:120px; height:auto;" />
       </td>
@@ -999,39 +945,14 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 28</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 28</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 28</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 59</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>59</td>
       <td>
-      </td>
-      <td>1983</td>
-      <td>Elba Ramalho</td>
-      <td>Coração Brasileiro</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 32</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df0a955fbf454783ba0694f3583d86a6.png" alt="Cover for Camisa de Vênus" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Camisa de Vênus</td>
@@ -1055,12 +976,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 12</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 12</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 13</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 55</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb0ec9417636faaa418f7748e5f0ed6d.png" alt="Cover for KEEP IT UP" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,7 +1003,24 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3ff5f5b8d714585b0a41895548d1e8f.png" alt="Cover for Vôo De Coração" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Ritchie</td>
+      <td>Vôo De Coração</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0007e122cfc44d3583f76b1cb2c291fa.png" alt="Cover for Legendary Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1039,27 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddde78c1ce1ef733b729b789718b4821.png" alt="Cover for Too Low For Zero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983-05-23</td>
+      <td>Elton John</td>
+      <td>Too Low For Zero</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 25</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 66</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a12d150c799c416daef11949670485c8.png" alt="Cover for An Innocent Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,15 +1074,15 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 31</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 42</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 32</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 44</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 48</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec1df4326f314a14ca82eaf101ca50e0.png" alt="Cover for Eyes That See in the Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,12 +1108,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 8</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 8</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 9</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 53</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/x-hgWBdK-kAPDX9bCpsno44BjDb4uXKDHpLrPEwjnGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzkz/LTEyMjk1NDU0Njgu/anBlZw.jpeg" alt="Cover for Only You" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1168,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/G6TLjib_-DaALswVtMTCPFx5P2zYw9Z5cp2tkjwM61U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjc3/NTctMTUxMzQ0ODA5/Ni0xOTE1LnBuZw.jpeg" alt="Cover for Collection of Great Dance Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,37 +1191,27 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>9</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79250ef530e43633c7428e7d03c1e2b7.png" alt="Cover for 21st Century Boys - The Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2568c1125f86207fbb1709e65b69d6.png" alt="Cover for The Doctor" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
-      <td>Sigue Sigue Sputnik</td>
-      <td>21st Century Boys - The Best Of</td>
+      <td>Cheap Trick</td>
+      <td>The Doctor</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 2</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 2</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 3</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42570bc1349844eac421dc7044cf99d4.png" alt="Cover for Live Peace in Toronto 1969" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,8 +1243,9 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b25b150c9014f21cf8ae28b0a19eabf.png" alt="Cover for Duplo Sentido" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Camisa de Vênus</td>
@@ -1316,12 +1265,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 31</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dc0d25407f7d81ea803cf5052a5b60c.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,12 +1294,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 39</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a3d9a15ca45a6527324aad591ee61.png" alt="Cover for Let&#39;s Start Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,12 +1323,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       <td>
         <ul>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 36</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 41</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a1796ce0a09476ac7a2746d355b1897.png" alt="Cover for Ready Or Not" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1346,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cc8acf870ed693571e96b338845f15.png" alt="Cover for Cloud Nine" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1365,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>52</td>
       <td>
       </td>
       <td>1989</td>
@@ -1441,12 +1390,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 5</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 5</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 6</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 52</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/YzWnfA-r2YRmLI15auK9R-nhDsFIGoxz0vvm3kzco4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTA1/ODktMTQ3MTI4NjM2/Ni04MTU3LmpwZWc.jpeg" alt="Cover for Live At Montreux 1982 &amp; 1985" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1414,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc5966205e2a7805cdadb9ce8612676b.png" alt="Cover for Downtown Train" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,34 +1435,21 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a14283e79de1370a9455fe69141f05a.png" alt="Cover for The Best of Bill Medley" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1f4d469322cf008967fe79ef3f48e35.png" alt="Cover for New York" style="max-width:120px; height:auto;" />
       </td>
-      <td>1990</td>
-      <td>Bill Medley</td>
-      <td>The Best of Bill Medley</td>
+      <td>1989-01-10</td>
+      <td>Lou Reed</td>
+      <td>New York</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 55</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 78</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 79</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 79</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 79</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 88</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1543,18 +1479,18 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 32</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 35</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 85</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e1b8861a32d17c3ad2dd2412194d0cc.png" alt="Cover for Diamond Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,8 +1509,9 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cdf1d3cccf0890a06caa807acf44c6d.png" alt="Cover for Hoodoo" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-04-22</td>
       <td>Alison Moyet</td>
@@ -1598,12 +1535,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 46</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cd80ec5cca54587c5043b8da3fba7e1.png" alt="Cover for Timespace: The Best of Stevie Nicks" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1559,28 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dbce2dcaa4b48169e2d5f0724b85e7a.png" alt="Cover for Very Best of Fleetwood Mac [Australia]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-10-30</td>
+      <td>Fleetwood Mac</td>
+      <td>Very Best of Fleetwood Mac [Australia]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37158b54e61c7fd685d5df9ec9ca075a.png" alt="Cover for Western Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1600,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f859f3f808d44de98c5e13401464a01.png" alt="Cover for Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1622,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Ao-tJy0K_z34j4fFkjmmAldSaPOCnaB5U6xfneclLfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQx/LTE0MjA5MzY0NDMt/NzkxMC5qcGVn.jpeg" alt="Cover for Baker Street" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,12 +1649,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 67</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/klNmFMluhVPkmz1dlzPz0JVzmgn60QK3z6VwXWbHep4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzYz/MzMtMTYwNjY5MDI4/MC00MjcwLmpwZWc.jpeg" alt="Cover for Greatest Hits [1993]" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1675,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/40v5duo9ZoZ2h1eiGFHQjb4iA3jSK49NgdQ3LNLrzDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQ0/MDMtMTYwNjQ4NDQx/MS04NDM3LmpwZWc.jpeg" alt="Cover for Give Peace a Chance" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,12 +1700,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 1</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 1</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 2</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 48</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/526a48188316478485f36fcd007ee2d8.png" alt="Cover for Elis, O Mito" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,13 +1722,14 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 13</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 13</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 14</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 56</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eff4c904c3c9ad851b776aa68c27218.png" alt="Cover for Os Grandes Sucessos De Raul Seixas" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Raul Seixas</td>
@@ -1796,14 +1755,37 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 34</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 62</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/T8YzLu22Wa1iB9pEGWwSc_lng1wJqwwLiz2G3UuIFGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU3/NjQtMTI5NTY1NDgy/MS5qcGVn.jpeg" alt="Cover for Sandra De Sá" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e51a8298314943118909001047006bd1.png" alt="Cover for At Their Best" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-04-27</td>
+      <td>Jefferson Starship</td>
+      <td>At Their Best</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f966c00709abff36ee1fe1d1d04f917.png" alt="Cover for Sandra De Sá" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-05-05</td>
       <td>Sandra De Sá</td>
@@ -1823,12 +1805,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 43</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fbeaa6e6f3c443eb0d54e927a37f7c1.png" alt="Cover for Highlights: The Very Best of Yes" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1833,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>43</td>
       <td>
       </td>
       <td>1994</td>
@@ -1874,7 +1856,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 45</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1902,7 +1884,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>25</td>
       <td>
       </td>
       <td>1995-06-06</td>
@@ -1922,27 +1904,34 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>7</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/166107697b3ee91d320d500869e3b87e.png" alt="Cover for Actual Miles: Henley&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c0c62e23bab3af2309f0fc4187d08f.png" alt="Cover for Tiririca" style="max-width:120px; height:auto;" />
       </td>
-      <td>1995-11-20</td>
-      <td>Don Henley</td>
-      <td>Actual Miles: Henley&#39;s Greatest Hits</td>
+      <td>1996</td>
+      <td>Tiririca</td>
+      <td>Tiririca</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 21</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>28</td>
       <td>
       </td>
       <td>1997-09-11</td>
@@ -1964,47 +1953,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f3c7c03446413bc1bcf9b0a1262f63.png" alt="Cover for Santa Rita De Sampa" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Rita Lee</td>
-      <td>Santa Rita De Sampa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 51</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 73</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 76</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 76</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 76</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af444c2581d4e16ce02ed25d1f70654.png" alt="Cover for Super Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -2023,7 +1977,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>65</td>
       <td>
       </td>
       <td>2000-09-26</td>
@@ -2041,7 +1995,25 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd077c237a1f8bb13ab57612f5d52c84.png" alt="Cover for Bend Me, Shape Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Gilla</td>
+      <td>Bend Me, Shape Me</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
       </td>
       <td>2001</td>
@@ -2063,7 +2035,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 40</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2090,7 +2062,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 15</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 19</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
@@ -2101,119 +2073,59 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>14</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59e2896bbc35833155e91fcb619123e.png" alt="Cover for Deixa A Vida Me Levar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8994dbb15a9b472c8dc241c900dabacc.png" alt="Cover for Voyeur" style="max-width:120px; height:auto;" />
       </td>
-      <td>2002</td>
-      <td>Zeca Pagodinho</td>
-      <td>Deixa A Vida Me Levar</td>
+      <td>2002-08-20</td>
+      <td>Berlin</td>
+      <td>Voyeur</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 50</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 68</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 86</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 87</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 93</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>6</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb0bc00d2b684fdadc0088ede30ac96.png" alt="Cover for The Essential Toto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1677f1c8d93110093cebcffc82f94b1.png" alt="Cover for The Official Unofficial Babys Album" style="max-width:120px; height:auto;" />
       </td>
-      <td>2003-09-30</td>
-      <td>Toto</td>
-      <td>The Essential Toto</td>
+      <td>2006-12-11</td>
+      <td>The Babys</td>
+      <td>The Official Unofficial Babys Album</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/Pyf1XSw9spR7vtyFOcf0iRbYO2clfXx-7thBow3pvJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mzg2/MjAtMTQ2NzcxNzAw/MC0zMzM1LmpwZWc.jpeg" alt="Cover for A Panela Do Diabo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Marcelo Nova</td>
-      <td>A Panela Do Diabo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://i.discogs.com/F-MH8OSIG7vTdWulJK3u_egT2WIXIwqQkccf4wEzwm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM4/NTgtMTQ3MDM0NTI2/NC00MDE4LmpwZWc.jpeg" alt="Cover for Eva 2001" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Evinha</td>
-      <td>Eva 2001</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 3</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 3</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 4</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/457cc799f6b1431abd65d7e9313f196a.png" alt="Cover for Find Your Own Way Home" style="max-width:120px; height:auto;" />
       </td>
@@ -2236,7 +2148,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46d51a32584f46b1a9a56e5704ba6a5d.png" alt="Cover for Somewhere Back In Time: The Best of 1980-1989" style="max-width:120px; height:auto;" />
       </td>
@@ -2268,7 +2180,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/TGPDtK-Bi93Qc3ltYiPHslyzv9GP0ul34YJufckJCDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTc2/NzgtMTQ1Njk1NTk5/OC0xNjk3LmpwZWc.jpeg" alt="Cover for As Quatro Estacoes" style="max-width:120px; height:auto;" />
       </td>
@@ -2288,39 +2200,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47a9e7f9bb42465bb17de9bb6443a20d.png" alt="Cover for Olindance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Academia da Berlinda</td>
-      <td>Olindance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 53</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 75</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 77</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 77</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 77</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/516e006677e0472bbb37d1395d138f1f.png" alt="Cover for Move Like This" style="max-width:120px; height:auto;" />
       </td>
@@ -2338,7 +2218,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e708072b2032439290d8b0a25b967ce.png" alt="Cover for Hair Of The Dog (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -2370,7 +2250,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37ef297b5836e1580e270b40eebe7940.png" alt="Cover for Night Moves" style="max-width:120px; height:auto;" />
       </td>
@@ -2387,7 +2267,35 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/kbQyp5JHtisolfywV_Lex-On3QlRu8JmyrMiyr1ioyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mjgy/MS0xMjY2OTQ0NDYy/LmpwZWc.jpeg" alt="Cover for Story (25 Years Of Hits)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Pet Shop Boys</td>
+      <td>Story (25 Years Of Hits)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/Bg7y9YW8zeE6uUwFthfm_Z2Kh_wJLKne5hS8KA6tyyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjI3/MzktMTUyMjU1NTk3/Ny04MjAxLmpwZWc.jpeg" alt="Cover for Blue Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -2405,7 +2313,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/FA4YGD7_Og6_-YAapirNKKqRD2vMXjYnsx4XxjAfP4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc1/NzAtMTUyNDA0NzQ3/MS05NzIzLmpwZWc.jpeg" alt="Cover for Cornell 5&#x2F;8&#x2F;77" style="max-width:120px; height:auto;" />
       </td>
@@ -2420,12 +2328,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 62</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/wqBNJh-WPZFrs0pspP-C6kW6l_ueFR8sWv6dYO-CqUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE4/ODgwLTE1MzA4Mjg3/MjQtODY0OS5qcGVn.jpeg" alt="Cover for Greatest Hits [1993]" style="max-width:120px; height:auto;" />
       </td>
@@ -2446,7 +2354,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3731ff95883e4a4cae372c7243f9396f.png" alt="Cover for La dolce vita" style="max-width:120px; height:auto;" />
       </td>
@@ -2468,12 +2376,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 30</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/QxRpG2VHsqvys1Bohhz_TIkMNuPSBypXzbm5X7WntwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/MTctMTIwMzYyMTk1/MS5qcGVn.jpeg" alt="Cover for Thump Pick Six Stacey Q" style="max-width:120px; height:auto;" />
       </td>
@@ -2499,12 +2407,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 16</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 16</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 17</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 57</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -2570,11 +2478,11 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
 
 - [california]({{ "/tags/california" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
-- [boa vista]({{ "/tags/boa-vista" | relative_url }})
-- [roraima]({{ "/tags/roraima" | relative_url }})
-- [caracarai]({{ "/tags/caracarai" | relative_url }})
-- [mucajai]({{ "/tags/mucajai" | relative_url }})
 - [disco]({{ "/tags/disco" | relative_url }})
+- [boa vista]({{ "/tags/boa-vista" | relative_url }})
+- [mucajai]({{ "/tags/mucajai" | relative_url }})
+- [caracarai]({{ "/tags/caracarai" | relative_url }})
 - [romance]({{ "/tags/romance" | relative_url }})
+- [roraima]({{ "/tags/roraima" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [classic rock]({{ "/tags/classic-rock" | relative_url }})

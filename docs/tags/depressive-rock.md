@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T03:13:54.231Z
+date: 2025-11-18T12:02:53.250Z
 permalink: tags/depressive-rock
 title: depressive rock
 ---
 
 ## depressive rock
 
-Last updated: <time datetime="2025-10-25T03:13:54.231Z">Sat Oct 25 2025 06:13:54 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-18T12:02:53.250Z">Tue Nov 18 2025 14:02:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb043018d12c68e170ef95037ea3ffbc.png" alt="Cover for Tip" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1997-09-16</td>
@@ -104,6 +104,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b3d8040fcc4220c22e85a0436d7e00.png" alt="Cover for Zmet" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Der Golem</td>
@@ -121,7 +122,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/_KxSkVtw_kuMESymFDSceGBWqBN3UmO7esN0U6V3x2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTgw/MTgtMTU0ODA4MjQ4/MC0yNzg2LmpwZWc.jpeg" alt="Cover for Tonight&#39;s Decision (Re-Issue)" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +181,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/w2QDiJ9gDgyJHACCEqP60CNohtblFDJb79yhv9E6n7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEz/MTktMTM0MjA5NjM0/MS03MjU4LmpwZWc.jpeg" alt="Cover for Where Pain Comes to Die" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +219,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19569b56fdbfb746cb1cc166f5f5aa08.png" alt="Cover for Wisdom &amp; Arrogance" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +260,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/XS6w7E-UhfZLKlD_m5D-IOnhUowjO3RRTVMSzd27iyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDUz/Mi0xNTkyMTUyNTA5/LTc3NTMuanBlZw.jpeg" alt="Cover for Bleak" style="max-width:120px; height:auto;" />
       </td>
@@ -277,9 +278,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/O51xX5gqYjYKOuvXp751OqrxC4Y2aZFcjwTm_2cqpUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDI2/NjYtMTQ2MTQwOTQy/Ny05MjQzLmpwZWc.jpeg" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af01fcac45c941f5b0b1450effa422df.png" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Katatonia</td>
@@ -299,7 +300,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 6</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +325,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2002-11</td>
@@ -343,7 +344,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3bad71e45e64c02acf804ed578f8fd5.png" alt="Cover for Viva Emptiness" style="max-width:120px; height:auto;" />
       </td>
@@ -385,6 +386,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f84a990ae3486ab379f2a0d3eab19f.png" alt="Cover for My Twin" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-13</td>
       <td>Katatonia</td>
@@ -398,14 +400,14 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 32</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/dyf9Y_Up9nweQ4-bOc0FUlWKQ8YpNkX9eOJg69RoV2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODM0/Ni0xNjIxNjgxNDU1/LTEyMTQuanBlZw.jpeg" alt="Cover for The Great Cold Distance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da469759803beb457286654ac471df72.png" alt="Cover for The Great Cold Distance" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-13</td>
       <td>Katatonia</td>
@@ -418,7 +420,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 29</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 35</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 100</li>
         </ul>
       </td>
@@ -426,6 +428,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9fe65d88d91473aad49f2d666813390.png" alt="Cover for Pulver" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-24</td>
       <td>Lifelover</td>
@@ -439,7 +442,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 24</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
             <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 71</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 96</li>
@@ -447,9 +450,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/axNY5c-ldLyQDwBV7Tdkgqg41RBLzFtCKsPr8Zm8pAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDA5/NC0xNDMzMDAyNDcw/LTMwMTcuanBlZw.jpeg" alt="Cover for The Kiss, The Hope" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5dcfbdf970e4fbebd25e8b672b4604b.png" alt="Cover for The Kiss, The Hope" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-01</td>
       <td>Lengsel</td>
@@ -483,9 +486,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/X_g1Gwpw5kqAkZe3Dz3nrTJ03AmA-PHQTTINilaIGQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTI1/OTMtMTQ2MjcwMTE0/OS0yMzk0LmpwZWc.jpeg" alt="Cover for Another Great Day On Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22fd9f28555d4a70bd25fb41e95f4d03.png" alt="Cover for Another Great Day On Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>This Misery Garden</td>
@@ -530,17 +533,18 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
         <ul>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 34</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 42</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 45</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 43</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/336a7a1c2d7b1c9103808c9086353c4b.png" alt="Cover for Seul dans l&#39;obsession" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-14</td>
       <td>Vision Éternel</td>
@@ -563,8 +567,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 37</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 22</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 36</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 82</li>
         </ul>
       </td>
@@ -585,14 +589,15 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 24</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/882202f7255d261b35683543fab9a26a.png" alt="Cover for Live Consternation" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-14</td>
       <td>Katatonia</td>
@@ -611,6 +616,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e4ca07e3351e883215a32deb325607d.png" alt="Cover for Orgamilk" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-05</td>
       <td>Fresh Body Shop</td>
@@ -637,10 +643,10 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
         <ul>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 31</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 38</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -672,19 +678,37 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 5</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 38</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 39</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 48</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 51</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 64</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd862041f4f2391a317f05556e73cdc.png" alt="Cover for Heir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Suis la lune</td>
+      <td>Heir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/4dW3CAzomodwM9A1lsP1Ctpg9-pXjd4P6bwZaXlg8ME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc0/MDQ1LTE2MjM5Mzkw/MzctNjcyOS5qcGVn.jpeg" alt="Cover for Kirmizi Kar" style="max-width:120px; height:auto;" />
       </td>
@@ -702,7 +726,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/s53b792TVtZZ20oxnJh_dsWDYplcYiHmPTAKLdStN1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcx/NDUyLTE2MDQ1MjIz/NDItNTAwNS5qcGVn.jpeg" alt="Cover for De Dekadentas Dikter" style="max-width:120px; height:auto;" />
       </td>
@@ -721,8 +745,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf287e1867cc06b2933f896d4f77341.png" alt="Cover for Un automne en solitude" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-14</td>
       <td>Vision Éternel</td>
@@ -746,14 +771,14 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 18</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 36</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 17</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 35</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/mcJ3CYLKL-XV8sXXg8T0GtyvLWKLRWll-mHcMBa-OCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTY4/OTctMTUwNzAzMTUz/Mi00NDMwLmpwZWc.jpeg" alt="Cover for Meanings" style="max-width:120px; height:auto;" />
       </td>
@@ -776,6 +801,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2e8cc6713ee2fd861936bc0fb81deab.png" alt="Cover for Konkurs" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-10</td>
       <td>Lifelover</td>
@@ -796,9 +822,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/nd5Vbq4mnmvo8giqJeYRYa-PrGjaBgGB1_CtLxe5qL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjUw/NTAtMTQ2NTM5NDUx/Ni0xMTE0LmpwZWc.jpeg" alt="Cover for Eine Momentaufnahme - Der Rest ist nur Einsamkeit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e68f8c7ad13435dbbacd3a982b9121c.png" alt="Cover for Eine Momentaufnahme - Der Rest ist nur Einsamkeit" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12</td>
       <td>Thränenkind</td>
@@ -814,9 +840,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/s53b792TVtZZ20oxnJh_dsWDYplcYiHmPTAKLdStN1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcx/NDUyLTE2MDQ1MjIz/NDItNTAwNS5qcGVn.jpeg" alt="Cover for Artificiell Gnosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Sancta Poenas</td>
@@ -850,8 +875,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ff8169318255cfe41c09c40aeb482a.png" alt="Cover for An Anthology Of Past Misfortunes" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-14</td>
       <td>Vision Éternel</td>
@@ -875,7 +901,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 12</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 10</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 55</li>
         </ul>
       </td>
@@ -896,7 +922,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -921,6 +947,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18a458f18eec4971c99dffba9cc118ae.png" alt="Cover for Dekadens" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-28</td>
       <td>Lifelover</td>
@@ -940,7 +967,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2009-11-02</td>
@@ -954,8 +981,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 37</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 54</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 68</li>
         </ul>
       </td>
@@ -1025,7 +1052,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2010</td>
@@ -1042,8 +1069,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd63924dced18c7f5ccb7a32ae2da56.png" alt="Cover for Abondance de périls" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-09</td>
       <td>Vision Éternel</td>
@@ -1067,8 +1095,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 25</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 39</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 24</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 38</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 84</li>
         </ul>
       </td>
@@ -1076,7 +1104,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/35UW6RhiKuoWA77MoYbRzXoTBxqEdsEpThtkhdcJrR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTEz/OTAtMTYyMDc2NDg3/Mi01NjIyLmpwZWc.jpeg" alt="Cover for The Great Cold Distance (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04bce3c33008deb63ab511dd7a8ee84d.png" alt="Cover for The Great Cold Distance (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-10</td>
       <td>Katatonia</td>
@@ -1149,20 +1177,17 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       <td>Audio Secrecy (Special Edition)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/7livV6xIGNY2h-ZLVewuYls2P3Boi3g1WD19HWEpdm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTM3/NjgtMTMzNTA0MjEw/Ny5qcGVn.jpeg" alt="Cover for Shadows of Tragedy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d42d798ee7d4516c5555c76b9dfc6ae.png" alt="Cover for Shadows of Tragedy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Black Hate</td>
@@ -1178,7 +1203,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/JoRcqO_IpwTeiwrVsJDbF_gm_t2qAWVLfwzLtQpQ6bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkx/NDgtMTMzODE5MzM0/NC05NzEyLmpwZWc.jpeg" alt="Cover for while you&#39;re still" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,30 +1222,28 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4e41a01a2b64993c95058978a14bdb9.png" alt="Cover for Sjukdom" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-11</td>
       <td>Lifelover</td>
       <td>Sjukdom</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 34</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 27</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/bS16QGAZ3Je0s9CgSXo9pY7z45Rn-VcSdSmcwAuOSIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAz/NjQtMTYzNjM2OTI1/OS02Mjg5LmpwZWc.jpeg" alt="Cover for The Inside Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd7e8e942bc5d1f7afbfc255fd6a0ff4.png" alt="Cover for The Inside Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-04</td>
       <td>40 Watt Sun</td>
@@ -1240,7 +1263,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/zZmmaU-A4TZFUiNdvg_U4kFE4FrGLXahBHNkpoSKcJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjM1/MDktMTM0NTgyNjAw/My05NzI1LmpwZWc.jpeg" alt="Cover for Dead End Kings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34919350d9c145c6a0fdbe7386b76f14.png" alt="Cover for Dead End Kings" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-01</td>
       <td>Katatonia</td>
@@ -1278,8 +1301,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac427b5cc0629bb051cf5f22813443aa.png" alt="Cover for The Last Great Torch Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-14</td>
       <td>Vision Éternel</td>
@@ -1303,7 +1327,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 20</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 18</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 70</li>
         </ul>
       </td>
@@ -1351,7 +1375,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2012-09</td>
@@ -1370,9 +1394,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/dnze8dKBAi440hg9BIaZmxx5hRatNBJO4gWCHtgGCEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDM5/NzYtMTQzNjA5ODEy/My0yMTYzLmpwZWc.jpeg" alt="Cover for Capela..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24bf471b888d4a31ad94ca74611d009e.png" alt="Cover for Capela..." style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Loveless</td>
@@ -1391,7 +1415,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2013-02-07</td>
@@ -1453,7 +1477,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/Dz7HX_izTQuBsAE3Mtmnj-SaaQnHNNVz0K0b7s6BeCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM0/OTg2LTE2NDIxNzk1/MTQtNDc0NS5qcGVn.jpeg" alt="Cover for Eternamente ao Fim" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,8 +1497,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67b1dc744ba44e04af1eae5fc0572a4a.png" alt="Cover for Dethroned &amp; Uncrowned" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-09</td>
       <td>Katatonia</td>
@@ -1490,28 +1515,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/4JwBfMQ_OzGt3VxVKZfNX1ZVIGz_-9lxSlDLjXikqgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODY1/ODktMTQxNTYxNzg2/My0xNzE0LmpwZWc.jpeg" alt="Cover for Marginal" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Detention</td>
-      <td>Marginal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/U3CatCL5sq2PxclDxTEbKoUxr_LsCgprrI49W8ww0Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDIy/NDAtMTM5MjU2Mzk4/NC05MjY1LmpwZWc.jpeg" alt="Cover for Iceberg Soul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f9c6f1a8c5b7af2eb34a4fb94fdf196.png" alt="Cover for Iceberg Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02</td>
       <td>Newspaperflyhunting</td>
@@ -1538,6 +1544,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b040eca1ecf74126c1f8fb09be3d65fe.png" alt="Cover for Kocytean" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-19</td>
       <td>Katatonia</td>
@@ -1555,7 +1562,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/_pwH-ThkGFS_uRNHvbMCkQxtBpq978aKPCEzXBPrfJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAx/MzQtMTU2NjIxNzE1/Ny05OTYyLmpwZWc.jpeg" alt="Cover for Hope(less)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/451916d2fd7b4faacfba816e415d8aa9.png" alt="Cover for Hope(less)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-18</td>
       <td>Thränenkind</td>
@@ -1597,7 +1604,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/33UGm6zgpb-fuAKW_PldCS7cBqT0k5Kyj9O5BszcO0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzg1/NTk0LTE1MTUzNjI0/OTUtNzAxMy5qcGVn.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae452f8420b2ac1e74ceb19c03acdc04.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-01</td>
       <td>Mal Etre</td>
@@ -1617,7 +1624,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2014-11-01</td>
@@ -1636,7 +1643,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/KP6AIHFBT0cHvpW888pV2thIRYK5xeCyEhJ8cYnr8pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE0/OTYyLTE2NzQxMjkw/NzYtNjA0Mi5qcGVn.jpeg" alt="Cover for Circles. EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/233f06ad84e3dd7823abfb5f4b634f3d.png" alt="Cover for Circles. EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Jointstereo</td>
@@ -1699,9 +1706,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/kSodibGzAJGlBeenB66TgLQq3T10v_M9QmthQXs1mEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjcy/MjEtMTUyMjgwODE2/NC0zMTY0LnBuZw.jpeg" alt="Cover for Echoes From Forgotten Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb09cd0bb7b5aa5f722a4322a521d583.png" alt="Cover for Echoes From Forgotten Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-14</td>
       <td>Vision Éternel</td>
@@ -1726,13 +1733,13 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 40</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 39</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/F7gO-PW901C-QYOSv_cN9yFuuxupFoLJhNME05_ciFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjI2/OTAtMTQ0MTk3NjIw/Ny0xMTcyLmpwZWc.jpeg" alt="Cover for Blod Eld Alfa" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,7 +1759,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/kSaU9gmscQqXfYBgmijbgyOGrIz2RGgJnc9QGnZixbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTQy/NDItMTU2NDg1MjY0/NS03NzgxLmpwZWc.jpeg" alt="Cover for The Fall of Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/870926d50ca402275ff0bdc334cd9594.png" alt="Cover for The Fall of Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-20</td>
       <td>Katatonia</td>
@@ -1846,7 +1853,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 28</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 81</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 84</li>
             <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 98</li>
@@ -1875,7 +1882,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/pmYJX0A5fF2M_fp4Rqel5z266_qEuzBmb_Hm_SXLcUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDE5/MDktMTQzMzc3NTIy/MC02OTU0LmpwZWc.jpeg" alt="Cover for Urban Negativism" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1921,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/mcbRd2qDUwwcpXC7Lafy9adlgszmPSH5pENdN4FHvNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODE3/MDItMTQzMDkzODA1/OC01NTA4LmpwZWc.jpeg" alt="Cover for Urban Negativism" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,7 +1941,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/gd-BUBs9nQnmjyyGZOftEeY2HezDlM6FP6cP5ILDHtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg3/ODExLTE1ODA2ODMw/MDgtMjA4My5wbmc.jpeg" alt="Cover for For Farewell Of Nostalgia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f102fd5450c8ec71444c28f3fc8b04a9.png" alt="Cover for For Farewell Of Nostalgia" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-31</td>
       <td>Vision Éternel</td>
@@ -1958,12 +1965,12 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 35</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/5rsdN_z6m6YF5sIPuFvSz1KFIH1VhCm50S6A2UztgRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ1/NDQzLTE2MTgxMTAz/NjQtOTQwOS5qcGVn.jpeg" alt="Cover for PopKill" style="max-width:120px; height:auto;" />
       </td>
@@ -2005,7 +2012,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/Yy7a0Yfypvq6TQkpM8cPSYNAV4uPt65EvWow33QvwlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ0/MDQzLTE1NDcwNDY4/ODYtNDIyMi5wbmc.jpeg" alt="Cover for Children of The Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01b06737df24dc0ddd6cde527a536750.png" alt="Cover for Children of The Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-14</td>
       <td>Psychonaut 4</td>
@@ -2019,14 +2026,14 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 57</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/zMYkPiWc8dfgk7rsdXE10cu5voUYkvpmuOup47MDZPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM4/NDkzLTE3MzI5NzYz/MTEtMzE1Mi5qcGVn.jpeg" alt="Cover for Emotion Wall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4ea4e8eef46489d88274263027dafea.png" alt="Cover for Emotion Wall" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-30</td>
       <td>belfalas</td>
@@ -2067,12 +2074,12 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 8</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
