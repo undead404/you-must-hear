@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:12:52.576Z
+date: 2025-11-18T15:40:03.819Z
 permalink: tags/indie-folk
 title: indie folk
 ---
 
 ## indie folk
 
-Last updated: <time datetime="2025-11-13T16:12:52.576Z">Thu Nov 13 2025 18:12:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T15:40:03.819Z">Tue Nov 18 2025 17:40:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
   </thead>
   <tbody>
     <tr>
-      <td>21</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b122e05ded2a780008d15d6fff45a6.png" alt="Cover for Elliott Smith" style="max-width:120px; height:auto;" />
       </td>
@@ -44,13 +44,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 23</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 52</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 54</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95051e07a714889c8f7fbbccf61bf8b.png" alt="Cover for In the Aeroplane Over the Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -64,14 +64,14 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 24</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 57</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02dbed3e2c6bdc65bd3639cd596f5244.png" alt="Cover for Tallahassee" style="max-width:120px; height:auto;" />
       </td>
@@ -85,35 +85,14 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 29</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>23</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/813e5b07239db7393de316fc04a6653e.png" alt="Cover for Michigan" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-07-01</td>
-      <td>Sufjan Stevens</td>
-      <td>Michigan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 61</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5439772c1d7a4bbaad81090e94d2debd.png" alt="Cover for Sunrise Over Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-08</td>
       <td>The John Butler Trio</td>
@@ -126,12 +105,31 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 35</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dd8fa56226971da26e908cb404bec5d.png" alt="Cover for Andrew Bird &amp; the Mysterious Production of Eggs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Andrew Bird</td>
+      <td>Andrew Bird &amp; the Mysterious Production of Eggs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb4862c27d5ff292b8846bb6468b3377.png" alt="Cover for I&#39;m Wide Awake, It&#39;s Morning" style="max-width:120px; height:auto;" />
       </td>
@@ -144,13 +142,31 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 8</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 46</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df84d9319664460badb2a2253683daca.png" alt="Cover for Beware of the Maniacs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The Dodos</td>
+      <td>Beware of the Maniacs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a94c3770e4754cd101c1d973f5c13ed0.png" alt="Cover for Birds in the Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -165,13 +181,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 21</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 30</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 82</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 31</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aab09766269f4f9fbe00ee8b433d7f6a.png" alt="Cover for Yellow House" style="max-width:120px; height:auto;" />
       </td>
@@ -185,49 +201,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 45</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7429b46f36d94bdcb207ad50e9da6b56.png" alt="Cover for Ghost" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-03-02</td>
-      <td>Radical Face</td>
-      <td>Ghost</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9326ff9158464348c356d9e1af975268.png" alt="Cover for In The Attic of The Universe" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-03-31</td>
-      <td>The Antlers</td>
-      <td>In The Attic of The Universe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b68dc1eaafb84ef5a4d2391adff775e4.png" alt="Cover for Leaves In The River" style="max-width:120px; height:auto;" />
       </td>
@@ -237,8 +216,6 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -247,7 +224,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dda4add39fc47b78d43d272e30ecce4.png" alt="Cover for The Flying Club Cup" style="max-width:120px; height:auto;" />
       </td>
@@ -261,34 +238,30 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 48</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff6a05ad775b4349be869190468bbf55.png" alt="Cover for The Recordings Of The Middle East" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c80b9471c17249ef9dbe651217c6a1af.png" alt="Cover for Yael Naïm" style="max-width:120px; height:auto;" />
       </td>
-      <td>2008</td>
-      <td>The Middle East</td>
-      <td>The Recordings Of The Middle East</td>
+      <td>2007-10-22</td>
+      <td>Yael Naim</td>
+      <td>Yael Naïm</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 18</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc4a32e382734b988e397e2c62940608.png" alt="Cover for Sun Giant" style="max-width:120px; height:auto;" />
       </td>
@@ -302,30 +275,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 52</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 17</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fc79ea54902054dd83edbb7d4b6717c.png" alt="Cover for Visiter" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-03-18</td>
-      <td>The Dodos</td>
-      <td>Visiter</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32bb6e3e98874006b7401811e9d44389.png" alt="Cover for Little Joy" style="max-width:120px; height:auto;" />
       </td>
@@ -335,19 +291,17 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 13</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 37</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 17</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/G_-hlZctGVtzEOA5yT-RXkSNUX9oTICd6FOPPDCAZJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE5/MzItMTI2MDM2ODA5/OC5qcGVn.jpeg" alt="Cover for A Crow Looked at Me" style="max-width:120px; height:auto;" />
       </td>
@@ -362,13 +316,36 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 9</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef777f8b7544dbbe1cf7e69594ba881.png" alt="Cover for Songs of Shame" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-14</td>
+      <td>Woods</td>
+      <td>Songs of Shame</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 8</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e625e75352914afbb62afb4d61de6ee.png" alt="Cover for Veckatimest" style="max-width:120px; height:auto;" />
       </td>
@@ -381,12 +358,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9e4cff2951b4fe9a579d77fdf50a099.png" alt="Cover for Dead Man&#39;s Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +384,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e65ece8c9ca047d6b2556cd1529818a9.png" alt="Cover for With Emperor Antarctica" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +409,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f83759a50360ff954861c223a5e777.png" alt="Cover for evermore" style="max-width:120px; height:auto;" />
       </td>
@@ -447,16 +424,16 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 7</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 35</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 79</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 80</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 94</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/wHwTD8fdqiIfSf9RViX0apehY-9H3SfZbQFbPaapCss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/ODMxLTE1OTU1ODY5/MzEtMzAxMy5qcGVn.jpeg" alt="Cover for FOlKlORE" style="max-width:120px; height:auto;" />
       </td>
@@ -471,6 +448,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 4</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 79</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 92</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 98</li>
@@ -479,7 +457,26 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e31a65c997564d19bb1949abebef7cb0.png" alt="Cover for The Head and The Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-29</td>
+      <td>The Head and the Heart</td>
+      <td>The Head and The Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/412785a2a1d34326b20b43c63b3a8266.png" alt="Cover for A Million Miles Out" style="max-width:120px; height:auto;" />
       </td>
@@ -496,12 +493,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 44</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 20</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22071f96af1a436c8fc728cddf38faf9.png" alt="Cover for No Rest" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +518,24 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76f5866bc3634532939c169c6906f200.png" alt="Cover for The Wild Youth EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Daughter</td>
+      <td>The Wild Youth EP</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8edf0e9253054aecaa0082b75650d44b.png" alt="Cover for The King Is Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -529,37 +544,17 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>The King Is Dead</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 26</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 91</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7d7c1e31024be789d934150955cf19.png" alt="Cover for Iron EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-03-28</td>
-      <td>Woodkid</td>
-      <td>Iron EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff20a3537d91409ca96dc8927d4f879f.png" alt="Cover for Helplessness Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -573,15 +568,15 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 40</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 41</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 68</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 83</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 84</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33fd55e93af24cbe9581849b205f698b.png" alt="Cover for Calgary" style="max-width:120px; height:auto;" />
       </td>
@@ -597,7 +592,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -611,37 +606,16 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>The Rip Tide</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26d58c60851a6678db3168991edd326b.png" alt="Cover for March of the Zapotec" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-08-30</td>
-      <td>Beirut</td>
-      <td>March of the Zapotec</td>
-      <td>
-        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d08fbb920e514f5c893d95552379d3fc.png" alt="Cover for +" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +631,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 60</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 73</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 96</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 97</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 98</li>
@@ -665,7 +639,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3699e505606456193e0971e6e7af6f4.png" alt="Cover for My Head Is an Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -680,33 +654,32 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 43</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 85</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 87</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 87</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/FHKVuNYp-4DJVr-5eEQEeOG7Xjoke82MRxRHckYno7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzA5/OTktMTMyMzI4MTI4/NS5qcGVn.jpeg" alt="Cover for Iron" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e0bce39e759447d929812185053edc0.png" alt="Cover for The Lumineers" style="max-width:120px; height:auto;" />
       </td>
-      <td>2011-12-02</td>
-      <td>Woodkid</td>
-      <td>Iron</td>
+      <td>2012-04-03</td>
+      <td>The Lumineers</td>
+      <td>The Lumineers</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 97</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24960601f04b4317b4d2c5432e77e1c9.png" alt="Cover for Fear Fun" style="max-width:120px; height:auto;" />
       </td>
@@ -722,12 +695,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 25</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a0dbffef331cad4d25c3778c4203f5f.png" alt="Cover for Half Way Home" style="max-width:120px; height:auto;" />
       </td>
@@ -746,7 +719,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b8520054cfd8af493b44a8bed0a2361.png" alt="Cover for TRICK" style="max-width:120px; height:auto;" />
       </td>
@@ -755,63 +728,37 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>TRICK</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 12</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 14</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 70</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 88</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>35</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19dd89d837c50bed8ed338f468d00326.png" alt="Cover for Seven + Mary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af88d68ed8b24310a83a9412184a11d2.png" alt="Cover for Pedestrian Verse" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013</td>
-      <td>Rainbow Kitten Surprise</td>
-      <td>Seven + Mary</td>
+      <td>2013-02-04</td>
+      <td>Frightened Rabbit</td>
+      <td>Pedestrian Verse</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7a7c2f172b544e4c4cd0291306ad472.png" alt="Cover for Muchacho" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-03-15</td>
-      <td>Phosphorescent</td>
-      <td>Muchacho</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/351f6aaba5ae60076b8fe70ca7e2a4e5.png" alt="Cover for If You Leave" style="max-width:120px; height:auto;" />
       </td>
@@ -820,18 +767,16 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>If You Leave</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 75</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a9d1214457c4103c16d960ceb19a1cc.png" alt="Cover for Sadnecessary" style="max-width:120px; height:auto;" />
       </td>
@@ -844,33 +789,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 71</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03337c9410154aa74af1e6b23bafa085.png" alt="Cover for RACE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-06-12</td>
-      <td>Alex G</td>
-      <td>RACE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 49</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 86</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a0e7c56cda41b094ff4aa5577e6442.png" alt="Cover for The Civil Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -891,15 +815,15 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 37</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 44</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 83</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 91</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>26</td>
       <td>
       </td>
       <td>2013-08-28</td>
@@ -914,11 +838,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/727a0bb5287f334bce2a05e6cef1e430.png" alt="Cover for The Double EP: A Sea of Split Peas" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +861,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/qDMegZ8RWil5k8tP6A3_wBORk0iA7K63BaWFetn0DDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjYx/OTktMTQxNzQ2MjA2/MS0yMjYzLmpwZWc.jpeg" alt="Cover for Little Giant" style="max-width:120px; height:auto;" />
       </td>
@@ -958,7 +883,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a457d8ab81347e3c7439ae4ce23639c.png" alt="Cover for Grow" style="max-width:120px; height:auto;" />
       </td>
@@ -980,17 +905,18 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 35</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 51</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 69</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 14</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 14</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ce69e0de08c4f37cf8288cde6eb3eb1.png" alt="Cover for Are We There" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,17 +926,40 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 20</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7c6566aab7f8c89bc79b581030cb70f.png" alt="Cover for Hozier" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-06-10</td>
+      <td>Hozier</td>
+      <td>Hozier</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 24</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 95</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e9b587a6f577478e9e6480235811f7d.png" alt="Cover for Dream Your Life Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,13 +973,14 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 74</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70eebd0f1f344fb3cfe71dfd87e89f8e.png" alt="Cover for Islands" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-20</td>
       <td>Bear&#39;s Den</td>
@@ -1046,7 +996,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18e6aec621b64f10cf5a99f8fcf234b0.png" alt="Cover for I Forget Where We Were" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1014,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff26bd7d5f9a356b61a9235c42a5fad8.png" alt="Cover for Haunts" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,7 +1033,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f3c07bb127efaf7ef5e6958a5ee0f59.png" alt="Cover for I Love You, Honeybear" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,33 +1046,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 57</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 61</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1e3b34df224066c04a36f1fdedb2cb.png" alt="Cover for Vestiges &amp; Claws" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-02-17</td>
-      <td>José González</td>
-      <td>Vestiges &amp; Claws</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7568c8fa48cc4fb6cf688fe89161f8a5.png" alt="Cover for Carrie &amp; Lowell" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,12 +1067,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d9f20f4d0c8f2ff3ae969b149ea683.png" alt="Cover for No No No" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,30 +1090,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecfb487accdceb0d9df2744d375a19b9.png" alt="Cover for Holdly" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-10-30</td>
-      <td>Florist</td>
-      <td>Holdly</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 58</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9cf9a458b08ab6d98bef14ee1b2bf13.png" alt="Cover for Miss You 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,13 +1109,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 16</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 26</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/140fbd4e75078c59a9a1552a8dfd1d85.png" alt="Cover for Masterpiece" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1133,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46bc3d5bcb6e18ea77f40395c360e8f1.png" alt="Cover for Not to Disappear" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1151,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea77f864eff0a4283fa30b8edade7ddb.png" alt="Cover for Cleopatra" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,14 +1168,14 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 80</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 81</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 89</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 98</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e83297b03e8700d314712b967874939d.png" alt="Cover for Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,9 +1194,9 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/TXh3syOtfRHOXAEvZbvzqKEpDyYeIUZ8Jmr6zwvt-Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjY5/NzEtMTUyNDM3NDQz/MC02MTg2LmpwZWc.jpeg" alt="Cover for Honey Bones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c89ec9148bef335a31d9816a1fc760c5.png" alt="Cover for Honey Bones" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-10</td>
       <td>Dope Lemon</td>
@@ -1303,12 +1210,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 87</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d16b9fa6f141234476d519cd791d8c61.png" alt="Cover for Question It All &#x2F; White Car" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,29 +1238,26 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/mIKpJAGEmdJLvAq-nj1N2n7ZxL-GKaNyZfjwBHr0ziY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU4/ODI4LTE0OTU5NTE0/MzctNTk1OC5qcGVn.jpeg" alt="Cover for Faye Webster" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a133a409f1012e24d2e9ca1613551f57.png" alt="Cover for Faye Webster" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-12</td>
       <td>Faye Webster</td>
       <td>Faye Webster</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 98</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da1abef9f05307110b46969196768164.png" alt="Cover for Rocket" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,28 +1282,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0aea7a85e09220b53070c08b66b9fe42.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-09-22</td>
-      <td>Ocie Elliott</td>
-      <td>EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/431f51f7525d2724d6f2e1eaf0867c7f.png" alt="Cover for Stranger in the Alps (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,14 +1296,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 72</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 83</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 93</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/531bdb172f66ee3500e344936f1f22bd.png" alt="Cover for Stranger in the Alps" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,12 +1315,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 11</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/562162c721d2ef39cbf67fe1a6d6fbb8.png" alt="Cover for Birdie" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1338,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca53e3717ef6532377d423c121e9605c.png" alt="Cover for Turn Out the Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1356,28 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65caa8feb38b6f10eb338af3e89a6be.png" alt="Cover for Come On Feel The Illinoise!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Sufjan Stevens</td>
+      <td>Come On Feel The Illinoise!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 25</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 43</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 48</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/Qf0QFX4c6s_iqHklqB-oYL8-7SMUdNSlkkisZRQWUFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIw/NTk0LTE1Mzg3NTQ2/NjctNjQ1Ny5qcGVn.jpeg" alt="Cover for abysskiss" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,12 +1393,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92da2f3aa6736aca5ed5f396b31d97e9.png" alt="Cover for Birthplace" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,27 +1408,6 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/492785768ac4b1e65ea5f9578bc99c11.png" alt="Cover for Alps" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-10-19</td>
-      <td>Novo Amor</td>
-      <td>Alps</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
@@ -1535,7 +1416,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61fd84247e5cc858a56ea6d4e433cf89.png" alt="Cover for Better Oblivion Community Center" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,15 +1431,15 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 34</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 62</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 38</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/fzJgdtZU2CGANsUCpO3pNBBmwjAlhuALYM5v4RDqRCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM4/NDg4LTE2OTM3MDIw/MTAtMjkyMC5qcGVn.jpeg" alt="Cover for On the Train Ride Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b9187afe386f24bb327a16f287aee3.png" alt="Cover for On the Train Ride Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-15</td>
       <td>The Paper Kites</td>
@@ -1574,27 +1455,127 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/4YpJYQ1dww4L_iwlqHM-KJFhDmX17ZsLX9OC4Jf_bus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUy/MzIwLTE1NTI2MDIx/MTEtMzgwMS5wbmc.jpeg" alt="Cover for M for Empathy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf4a4b21c8ce8ae8619dcd8c9736869e.png" alt="Cover for Crushing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-22</td>
+      <td>Julia Jacklin</td>
+      <td>Crushing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2250559abbd61df35e3ce8314f34c16.png" alt="Cover for M for Empathy" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-01</td>
       <td>Lomelda</td>
       <td>M for Empathy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36a0085d9aae35adb9992eb4f9606f7c.png" alt="Cover for Fade Into the Dawn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-19</td>
+      <td>Field Medic</td>
+      <td>Fade Into the Dawn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e406f4190982b1db943f47076a3c4f28.png" alt="Cover for U.F.O.F." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-03</td>
+      <td>Big Thief</td>
+      <td>U.F.O.F.</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/T63Ia7379YwA-iFGJn1PR_ldnooayqiceSJro7PnClM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjUw/MzM5LTE1NTgyNzg2/MzYtMTg5My5qcGVn.jpeg" alt="Cover for Reward" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-24</td>
+      <td>Cate le Bon</td>
+      <td>Reward</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75742b5f137e73e3157dd2499455ed7a.png" alt="Cover for i,i" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-09</td>
+      <td>Bon Iver</td>
+      <td>i,i</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 72</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 91</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0113cd6aaf5ff047d3426947b645be8.png" alt="Cover for The Archer" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,27 +1589,6 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb4bbc3d80c9837234b2d1acd829bd7d.png" alt="Cover for Rearrange Us" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-06-05</td>
-      <td>Mt. Joy</td>
-      <td>Rearrange Us</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1649,14 +1609,14 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 53</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 55</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 94</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/5aaOo1vbAwn0EpCvskbj6rV8Df0UIN-dhmRCAPm6St4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI3/NTU1LTE1OTMwNDQw/MTgtOTg1Mi5qcGVn.jpeg" alt="Cover for Women In Music Pt III (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,13 +1633,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 61</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 63</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3638eeb1bb4ffc5a8c12cf28e56ba0f.png" alt="Cover for Shore" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,12 +1653,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 57</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05dfe29899a91f2602d66a81f45722cb.png" alt="Cover for Give Me A Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,26 +1679,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35e4fce452d93323cb676d7eb0450daa.png" alt="Cover for Projections" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-16</td>
-      <td>Tomberlin</td>
-      <td>Projections</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/pGLDdn3lmerrZGv5YTZ52-ztzyZLKXxryyqL3eTajo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk1/MjYwLTE2MDk4Njg2/MTYtODE1MS5qcGVn.jpeg" alt="Cover for songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1754,13 +1695,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 90</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 91</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/730b84927a14d6dbea2f47871eaef3f8.png" alt="Cover for Your City Gave Me Asthma" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,18 +1710,15 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>Your City Gave Me Asthma</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/z0PRU7LgavLHLJGaX0XC34fbwmH9IhesoLaRw-CCx2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcy/NTM0LTE2OTU2NjU3/ODYtNDczNC5qcGVn.jpeg" alt="Cover for Cannot Be, Whatsoever" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1735,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b1ed6bdaba7aa57d94c1bdfb805e972.png" alt="Cover for evermore (deluxe version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,13 +1750,53 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 46</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 85</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 94</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 86</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6576b3c968cd6f239a22a26ccc029b9.png" alt="Cover for Bread Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-11</td>
+      <td>Black Country, New Road</td>
+      <td>Bread Song</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 37</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/5Pwjy6guIabTMLhK9jblHE0EhdkuIK-E15T7l30rJEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk2/ODE3LTE2MjQ4MTE1/MTAtNDg3My5qcGVn.jpeg" alt="Cover for Concorde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-11</td>
+      <td>Black Country, New Road</td>
+      <td>Concorde</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 60</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 67</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01bcdbc62f77f9011cb80acb9eada9bc.png" alt="Cover for An Overview On Phenomenal Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1817,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>34</td>
       <td>
       </td>
       <td>2021-06-11</td>
@@ -1853,12 +1831,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 40</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/708f941453e3f071547e34eaeeac9a4c.png" alt="Cover for Solar Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,13 +1852,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 55</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 72</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 81</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/9Tkr8Euzb4U1ogqtRMUyrE6N-9RV961yFCqcGASIxdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg" alt="Cover for Dragon New Warm Mountain I Believe In You" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,36 +1873,14 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 15</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 53</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 16</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 55</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a1b70c32850512e9c4b2ca17943ad7d.png" alt="Cover for (i would have followed you)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-12-16</td>
-      <td>Delaney Bailey</td>
-      <td>(i would have followed you)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1876f9f91df57eece4e55bb3c9365574.png" alt="Cover for I Need to Start a Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,12 +1894,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 42</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/rwO1b9-gFzDSLK14I9CtC-ASP_bCmCVtEDV-NO7Rh7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk5/NzE4LTE2ODQ1MjM3/ODItNzAyNy5qcGVn.jpeg" alt="Cover for The Record" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,13 +1914,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 58</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 71</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 60</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/788dfbc94a424d3b344aa97e68f68eed.png" alt="Cover for The Land Is Inhospitable and So Are We" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,9 +1929,6 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>The Land Is Inhospitable and So Are We</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
         </ul>
       </td>
       <td>
@@ -1986,7 +1939,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c04861341a86e2054772ba6783cb4ffc.png" alt="Cover for Javelin" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,40 +1954,14 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 39</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 83</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 56</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 87</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f5034e2badae773871f766fdf1e268.png" alt="Cover for The Wisp Sings" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-11-11</td>
-      <td>Winter Aid</td>
-      <td>The Wisp Sings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 59</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 70</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 82</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4131890a31cc39e50802d870e9851cc1.png" alt="Cover for Older" style="max-width:120px; height:auto;" />
       </td>
@@ -2048,12 +1975,11 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.png" alt="Cover for HIT ME HARD AND SOFT" style="max-width:120px; height:auto;" />
       </td>
@@ -2068,11 +1994,11 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 23</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 64</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 86</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 76</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 87</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 96</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
@@ -2080,13 +2006,52 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee1e704dd079d3d82bfe5e34d54978bf.png" alt="Cover for Cool Dry Place" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3898a90e2a13b2c9a19757096c87f842.png" alt="Cover for folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-07</td>
+      <td>Taylor Swift</td>
+      <td>folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
       </td>
       <td></td>
-      <td>Katy Kirby</td>
-      <td>Cool Dry Place</td>
+      <td>Tom Walker</td>
+      <td>What a Time To Be Alive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c73dd319ade5ae418508872e89abff74.png" alt="Cover for Roses" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Paper Kites</td>
+      <td>Roses</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:03:16.285Z
+date: 2025-11-18T15:57:03.515Z
 permalink: tags/polish-death-metal
 title: polish death metal
 ---
 
 ## polish death metal
 
-Last updated: <time datetime="2025-11-15T01:03:16.285Z">Sat Nov 15 2025 03:03:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T15:57:03.515Z">Tue Nov 18 2025 17:57:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -781,6 +781,24 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2005-02-25</td>
+      <td>BloodthirstPL</td>
+      <td>Hell Bestial Desecration (split w&#x2F;Ebola)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a></li>
         </ul>
       </td>
       <td>
@@ -1593,25 +1611,6 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 8</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2013-05-10</td>
-      <td>Mastema(PL)</td>
-      <td>The Murderer&#39;s Tale</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
