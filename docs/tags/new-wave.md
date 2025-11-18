@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T23:57:53.242Z
+date: 2025-11-18T11:58:11.396Z
 permalink: tags/new-wave
 title: new wave
 ---
 
 ## new wave
 
-Last updated: <time datetime="2025-11-14T23:57:53.242Z">Sat Nov 15 2025 01:57:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T11:58:11.396Z">Tue Nov 18 2025 13:58:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/169922c6f7bc871b74ac088ca759d71a.png" alt="Cover for More Songs About Buildings and Food" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21974d6299fdaa572e07a2b1d482025c.png" alt="Cover for Parallel Lines" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a3c30126bdc4ef2833dc57fb89ee25e.png" alt="Cover for Get The Knack" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a3c4f3610c1ed38d4b5fabddc37ed7b.png" alt="Cover for Three Imaginary Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -138,12 +138,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 99</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/111cdb5a93b6766bddca00d22db43250.png" alt="Cover for The B-52&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/o0toGnqP6EPpuNRnrZpwdDb8qPo8DuUxdc-nK9P570A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODcw/Ny0xMzM5NjIzMDI1/LTM4NzUuanBlZw.jpeg" alt="Cover for Drums And Wires" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +180,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/T6Y5C6a2QGw7D_OpqrZNrNMTovtbz8LSZoIZ1uuOH4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMz/OTktMTMzMTMyNjE5/NC5qcGVn.jpeg" alt="Cover for Reggatta De Blanc" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +234,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57ba66839e0046738404526a60bcbd36.png" alt="Cover for Freedom of Choice" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +252,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0aa01a2e59466ecba8657e93b9037b4d.png" alt="Cover for Wild Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -284,12 +284,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 11</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e1005a5fcf1479ec7691d8543a8fea6.png" alt="Cover for Tom Tom Club" style="max-width:120px; height:auto;" />
       </td>
@@ -325,7 +325,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/555282c1ed144d4018b8b39bbb2ca8ff.png" alt="Cover for Only A Lad" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ce97c43110366ed6f50a7fd282e414c.png" alt="Cover for Kim Wilde" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +361,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/454c1111928f40dec0e5baf4c502aa4e.png" alt="Cover for Dare!" style="max-width:120px; height:auto;" />
       </td>
@@ -375,12 +375,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 27</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07b1740d7cfcc9286ebaf7c6fbdd09fb.png" alt="Cover for La Folie" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +394,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 4</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -433,12 +433,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 13</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 74</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/727fdafdda4d4ce405e97205a1a54a77.png" alt="Cover for A Flock Of Seagulls" style="max-width:120px; height:auto;" />
       </td>
@@ -474,8 +474,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 30</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 66</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 34</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +516,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94a9562ee8f43a4b7f2be53b2ea7479.png" alt="Cover for The Damned Don&#39;t Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -535,7 +535,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f87dba9c727903dbea3f7b20102511c9.png" alt="Cover for Rio" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +553,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d471688a2e040f2c0c5ec166dcb04d3.png" alt="Cover for Billy Idol" style="max-width:120px; height:auto;" />
       </td>
@@ -572,7 +572,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d67dc2b9cc4120caaaddeba360a8cdc.png" alt="Cover for Speaking In Tongues (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -587,14 +587,14 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 5</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 8</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 16</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67b2ece6b0b249638ba0f8ee6d7ae0a5.png" alt="Cover for Soul Mining" style="max-width:120px; height:auto;" />
       </td>
@@ -613,7 +613,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d545a96b5f21aa48f5cdead6fdb4e319.png" alt="Cover for The Hurting" style="max-width:120px; height:auto;" />
       </td>
@@ -644,13 +644,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 23</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 66</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 22</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51e321194dc49e228db8b355239814a8.png" alt="Cover for Speaking in Tongues" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +668,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c98201c8cc944a939dd8e1e54abf69b3.png" alt="Cover for Synchronicity" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +687,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e630124918c8971b00fe7544f01d85e.png" alt="Cover for Colour By Numbers" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +725,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>1983-11-05</td>
@@ -745,7 +745,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50c6c6b667bca4c230f98f22267bab4c.png" alt="Cover for Japanese Whispers" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +763,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/3VAKXI29SNVUXYdz_nNtAXR8lZKtExCO4fwRrYKxTDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/My0xMTYyMzY2ODI2/LmpwZWc.jpeg" alt="Cover for &quot;Youthquake&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +783,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/942ac2c4be883d0f42e4f41a3bb877c9.png" alt="Cover for It&#39;s My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +802,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e25a301cf23c2b28b0ff1b77a852e1b.png" alt="Cover for The Smiths" style="max-width:120px; height:auto;" />
       </td>
@@ -820,14 +820,14 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 81</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 92</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 92</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 93</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90bba62b69e784f77daa41d94ad2eef6.png" alt="Cover for Stop Making Sense" style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +845,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>1984-10-29</td>
@@ -877,10 +877,10 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 23</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 46</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 48</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 51</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 76</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 99</li>
@@ -888,7 +888,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>1985</td>
@@ -905,7 +905,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dde13d9d5d0f8db3a16ab6301a236f9.png" alt="Cover for Dead Man&#39;s Party" style="max-width:120px; height:auto;" />
       </td>
@@ -937,8 +937,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 5</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 79</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 88</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 89</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 90</li>
         </ul>
@@ -959,12 +959,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcaa9fe253cbbe78289aebb742c77150.png" alt="Cover for Low-Life" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +978,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -999,13 +999,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 54</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 85</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 56</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a37156fbac2e4f0ecf7c7cdd6d8848b2.png" alt="Cover for Little Creatures" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1019,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 13</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1038,13 +1038,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 29</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 33</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e1bf99a207c4216c22b8abbf6b92e6c.png" alt="Cover for Songs From The Big Chair (Super Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1063,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40ce6f7085a948068530207947cf576b.png" alt="Cover for Broadcast" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1084,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a66070bc63524909c97f86f845b2101e.png" alt="Cover for If You Leave" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1121,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 1</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 4</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 68</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 84</li>
@@ -1134,7 +1134,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fa0a61fb585bb8fbcc5dbdd484f6c31.png" alt="Cover for Brotherhood" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1152,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b31a29d08d4457bc524f0c0b7886bae.png" alt="Cover for Let&#39;s Talk About Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1173,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/hvGRSs13_ONe7hgCR9HDiXq4nLYmRu_vJXH_9saruuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDM3/OTItMTI0NDM4Mjk2/My5qcGVn.jpeg" alt="Cover for Music For The Masses (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,13 +1189,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 34</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 35</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8107b191b710beac0a08ba94aea37ad.png" alt="Cover for Disintegration" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,12 +1211,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 60</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 94</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/834e926a004c99f5a2a432ffb55b2141.png" alt="Cover for Cosmic Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,9 +1248,9 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 18</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 41</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 66</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 85</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 86</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
@@ -1290,12 +1290,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 36</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 48</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/016e8182f5cf4bfdbb37acf833e412f0.png" alt="Cover for Greatest" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,7 +1315,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5e5e1d89ff35fb2f539ff45279027db.png" alt="Cover for Get Ready" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1333,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdbc60c4bab8cf280166d31716bc0fc8.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,12 +1347,11 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/P50mNk_ms7ksyrqpU_yGsX0xdYuFWH5zYqJ_FrGtj-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODcw/NC0xMzA1NDYxNjQ0/LmpwZWc.jpeg" alt="Cover for Best Of Talking Heads" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1370,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c099a506f5294bedb169044de76952a1.png" alt="Cover for The Head On The Door - Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,12 +1384,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 6</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/jNBucANm0XqH_xhXvMDJZ0gCBV4I9DdV4oHkl3puzPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA0/MDEtMTMwNjAwNTYz/OS5qcGVn.jpeg" alt="Cover for Kiss Me, Kiss Me, Kiss Me - Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,13 +1402,14 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 11</li>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 61</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 9</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 17</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91c32a27df1c3501dcb0c3e91c389947.png" alt="Cover for The Virgins" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1429,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30615180dc558e60902d5a521525e856.png" alt="Cover for Day &amp; Age (Bonus Tracks)" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,12 +1444,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 41</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce89a8fda4a049fe88cc4a568db5b8a4.png" alt="Cover for Talking Heads &#39;77" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,11 +1463,30 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5deb029191174a3796e94104ad45616c.png" alt="Cover for In Evening Air" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-04</td>
+      <td>Future Islands</td>
+      <td>In Evening Air</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ebe3f82ffcb4644918fede92ab7e35f.png" alt="Cover for The Wombats Proudly Present... This Modern Glitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,13 +1503,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 96</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1a5a1a5d55043049f0cfc75a2b1fb90.png" alt="Cover for Feel It Break" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,13 +1526,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 10</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd2377c538247acc47dca0c30962ee4.png" alt="Cover for On the Water" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,41 +1550,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7d52c58d1014adfa8e1a9825fd98a7a.png" alt="Cover for Forever EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>HAIM</td>
-      <td>Forever EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 47</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 64</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 93</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 94</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 100</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8433bbf1c08246ef9ef4051d07fb2254.png" alt="Cover for Master of My Make-Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1572,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77c157d89b0f341cd10065d95255b0a0.png" alt="Cover for Confess" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1590,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/afba03a3f9e9ec97100dc144dce61603.png" alt="Cover for Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,12 +1623,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 29</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e0ac9c9f3441b7dc798abb1eb372202.png" alt="Cover for Chinese Fountain" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,15 +1646,15 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 70</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 71</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 83</li>
             <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a888018398bf7b1909d0e3cb63f9f01f.png" alt="Cover for Youngblood (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,13 +1670,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 35</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 81</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 36</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a92f8fd5e6ba3d9e9beddd334e75607.png" alt="Cover for Spirit Phone" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,14 +1692,14 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 34</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 65</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 35</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 67</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Mu0rwYgc1aJHJ59-QckN2vtg2YXt72lVJgS5zK9n6n4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODUx/MzYtMTUyNDE3MzUz/My02NDU0LmpwZWc.jpeg" alt="Cover for About U" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,15 +1733,15 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 71</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 73</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 73</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/UBJFBkJz_bhyugp3WoiCysXB34zXT9CqkqCJrNQ-lag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcy/MzgwLTE1MDU4NDYy/MjktNzkwMi5qcGVn.jpeg" alt="Cover for American Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,35 +1756,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 83</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28700d076e5afb3bc0fba47ab8e71975.png" alt="Cover for Little Dark Age" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-02-09</td>
-      <td>MGMT</td>
-      <td>Little Dark Age</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 7</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2c2954f9637e2bfdf84267d99e39f87.png" alt="Cover for Do It All The Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1780,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fafd0580b3b4b013cf2b4a6b977d3d84.png" alt="Cover for 1981 Extended Play" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,7 +1798,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4583932b753c96d0d2f22fe9774e5ef3.png" alt="Cover for After Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,8 +1815,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 84</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
@@ -1921,15 +1884,15 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 32</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 62</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 80</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 35</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 63</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 81</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94f3583bf5a40e78c0da131a612437e0.png" alt="Cover for RAZZMATAZZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1910,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/aDBvXuviePagr72OMoHJBIaop3wTjrvSxWPG7m9BMYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgx/MjE5LTE2NzAyODk3/NTEtMTUzOC5qcGVn.jpeg" alt="Cover for Welcome to my Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,13 +1928,13 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 1</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 3</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32d1f1aaa8e038d36c10eec0dcd20225.png" alt="Cover for This Is Why" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,7 +1974,26 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15cf3a348c31608726653416209012d0.png" alt="Cover for Once Upon a Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Simple Minds</td>
+      <td>Once Upon a Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5221601dd61165ad9c12389ecd528280.png" alt="Cover for Like a Virgin (Reissue)" style="max-width:120px; height:auto;" />
       </td>

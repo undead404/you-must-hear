@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T02:10:07.965Z
+date: 2025-11-18T11:56:50.516Z
 permalink: tags/real-screamo
 title: real screamo
 ---
 
 ## real screamo
 
-Last updated: <time datetime="2025-10-28T02:10:07.965Z">Tue Oct 28 2025 04:10:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T11:56:50.516Z">Tue Nov 18 2025 13:56:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/_9Rqaz_GaS3WLtqdpB3MVAiOZVHEXutyy1f4Cn5vo9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDM0/OTUtMTQ5NjcwNDA5/Ny00OTYyLmpwZWc.jpeg" alt="Cover for Arroyo" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1991</td>
@@ -69,9 +69,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/H6R-4lrTvXCJ8j3Lpf7KylxYrJ8G9asAEaoqSO7-WOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzEx/OS0xMTUzNTYzOTMz/LmpwZWc.jpeg" alt="Cover for Orchid&#x2F;Encyclopedia of American Traitors" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b362a7760ee4f029a6c421361d00324.png" alt="Cover for Orchid&#x2F;Encyclopedia of American Traitors" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Orchid</td>
@@ -92,6 +92,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c83e012bb8510d9d21803fc546a14467.png" alt="Cover for The Killer was in the Government Blankets" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Yaphet Kotto</td>
@@ -107,7 +108,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/SN9ADp1a6giY9mksQ6YShXPl0JzBz3_YO7t9Z0s-qAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIx/MDUtMTMzMjUzMDc3/Ny5qcGVn.jpeg" alt="Cover for Violent Resignation: The Great American Teenage Suicide Rebellion 1992-1998" style="max-width:120px; height:auto;" />
       </td>
@@ -124,14 +125,14 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 7</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/E_JlTJZBi9mVk_XEaxtp25_93FP1vVxLyWEL7efVDi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzgy/MzYtMTQ4NjIwMjc3/My0xODM1LmpwZWc.jpeg" alt="Cover for Orchid&#x2F;The Red Scare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7622ca3b59e4cc8e5ea164bf733cb6ef.png" alt="Cover for Orchid&#x2F;The Red Scare" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Orchid</td>
@@ -168,7 +169,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2000</td>
@@ -185,7 +186,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/U_-xPtGDPQ5oAAX_S8IhLF5Ni3WSOJfjHoBM640pQQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTc5/NDktMTI0MjExMTg1/OC5qcGVn.jpeg" alt="Cover for Jeromes Dream&#x2F;Orchid" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +215,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/r1Pktu9lrsy10yW1z-Nl2nrC9NQfBt2brOuD7-gbjxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYy/MjQtMTM5OTM5NTQw/MC05Mzc1LmpwZWc.jpeg" alt="Cover for The Complete Discography 1993-1996" style="max-width:120px; height:auto;" />
       </td>
@@ -230,12 +231,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 40</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41f675f03bb44d7f9d1db4e7fb694d52.png" alt="Cover for Dance Tonight! Revolution Tomorrow!" style="max-width:120px; height:auto;" />
       </td>
@@ -244,19 +245,17 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>Dance Tonight! Revolution Tomorrow!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 65</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 13</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/p5bygAyXgfBuy7iXqlq5R4jNj9mkfX6_1v44KmdBWCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYz/NDktMTM2NTA2MTE0/My01NTgwLmpwZWc.jpeg" alt="Cover for Jeromes Dream&#x2F;Orchid" style="max-width:120px; height:auto;" />
       </td>
@@ -273,14 +272,14 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 5</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/w6H1FA9YfyFFPUHKSwdTxaVw7Fppt_b-yZ24qlmy6J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzkx/MjAtMTUyNjYwNTYz/Mi01MDg1LmpwZWc.jpeg" alt="Cover for The Ionic Spell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46d05441a544c8783f5a1c81cb2cdf9.png" alt="Cover for The Ionic Spell" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Standstill</td>
@@ -299,7 +298,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/2N_g74G27duNaa4Mz_5jDJTFAdXYuZ0BVLn8bWB5-18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzA0/MS0xNjA1NjMxMDIz/LTg3NDkuanBlZw.jpeg" alt="Cover for Syncopated Synthetic Laments For Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a9d33e66adde5da565bcb0031106369.png" alt="Cover for Syncopated Synthetic Laments For Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Yaphet Kotto</td>
@@ -334,7 +333,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 89</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -361,6 +360,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/801806b8f14cb652711515dd0335c509.png" alt="Cover for A Retrospective" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-01</td>
       <td>Saetia</td>
@@ -374,12 +374,13 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 87</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 12</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/SrAiMa2bKBo-PuRkpQqm0g3V4k71V3j_sbq2AbffGZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzU5/MS0xNTUwNDI3MTc3/LTU3MTMuanBlZw.jpeg" alt="Cover for Dogma" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +407,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/Kvb4d05TGE1WcLGcGKWiod8Cti3KhAaOOEfEMwBK53c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMx/MzE4LTE1ODcwODMw/NDEtMzAzOC5qcGVn.jpeg" alt="Cover for A Days Refrain&#x2F;Neil Perry Split" style="max-width:120px; height:auto;" />
       </td>
@@ -427,12 +428,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 27</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 55</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>2002</td>
@@ -449,9 +450,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/KLH4H6tjkjzekURZzWM6Dm6oNd56Y3sZzOr6tWaAkTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODk0/MjQtMTM0ODQ0MjY2/NC02MDg3LmpwZWc.jpeg" alt="Cover for Invasive&#x2F;&#x2F;Exotic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23e30ccc7b93358656c8c5169a14aa8b.png" alt="Cover for Invasive&#x2F;&#x2F;Exotic" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Hiretsukan</td>
@@ -470,8 +471,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b96b50bf7a375cae63b15d651510196.png" alt="Cover for The Heat Death Of The Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Off Minor</td>
@@ -487,8 +489,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a04c6eb796298ac929874034beab0cf2.png" alt="Cover for Raein" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Raein</td>
@@ -506,7 +509,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/642822fae0e14fa8853635a892bcda63.png" alt="Cover for Gatefold" style="max-width:120px; height:auto;" />
       </td>
@@ -521,12 +524,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/J1fYB22_JnGA3ITOjJ1uchkPnwLbEd9Wm8uNMLMjrWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcw/MTQtMTMyMTI3NTY5/NC5qcGVn.jpeg" alt="Cover for Document #13: Pyramids In Cloth" style="max-width:120px; height:auto;" />
       </td>
@@ -549,9 +552,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/_Y9gtjLJBq5Vho_bFlaeGgO7NnI1vjgCAl0RrHRKwH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTUw/MjMtMTU5NzcyMzk0/My0zNzY1LmpwZWc.jpeg" alt="Cover for Discography" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c60d6abebc116c7cc2cb3ae39906473.png" alt="Cover for Discography" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-16</td>
       <td>Maximillian Colby</td>
@@ -571,12 +574,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 46</li>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 59</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aff0ae327980f72ddaccd4da64b0639.png" alt="Cover for Disinformation Fix" style="max-width:120px; height:auto;" />
       </td>
@@ -590,15 +593,15 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 60</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 94</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 63</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/Jg0o4jFDHteYvNyFvuxap1BnKXTuhoiIYPrM29dmCUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA4/OTYxLTE1MzQ3MDE0/ODYtMzIyMy5qcGVn.jpeg" alt="Cover for As the Roots Undo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5430befacb02e2f58c1c488fb6b13e8.png" alt="Cover for As the Roots Undo" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Circle Takes the Square</td>
@@ -610,7 +613,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 66</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -668,9 +671,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/iHPiXUfLshA_QlkYYFU3UpAG0r1KrLwwNmuBI6lT_vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA2/MDctMTQzMDIzMzc1/MS00NzM5LmpwZWc.jpeg" alt="Cover for Lineage Situation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4c5c6e77d7e98f39cec74a91494f21d.png" alt="Cover for Lineage Situation" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-27</td>
       <td>Neil Perry</td>
@@ -686,8 +689,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4664ebbfe52d49ebb710d0839a99f605.png" alt="Cover for I Would Set Myself on Fire for You" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-27</td>
       <td>I Would Set Myself on Fire for You</td>
@@ -699,6 +703,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -725,7 +730,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/cxbCztHsLMnDSHelrKwlJ5jxfiNGZeMpLxrmxoH0jJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg5/MDExLTE2NDMyNjI1/MjYtNzk1MS5qcGVn.jpeg" alt="Cover for You Breathed Like Winter" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +750,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2004</td>
@@ -784,7 +789,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/545d967ce566c6486e0903b1229b7a97.png" alt="Cover for A Collection of Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -823,7 +828,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/hk_gCt9KSHkek6bXDvQCUoGBPcxe8N-pc3Ao_ZmoVuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/ODAtMTQzNDQyMjM2/OC02NDI0LmpwZWc.jpeg" alt="Cover for Vinyl Collections Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -847,7 +852,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/4pDJgqjj7fNeWzu55LGSq0cQUioWB-BN866MaRrngCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODk0/Mi0xNDg0MTE2MDI4/LTE5MzMuanBlZw.jpeg" alt="Cover for Gems of Masochism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8603c1b88b1fdbec9187c36e74140d8c.png" alt="Cover for Gems of Masochism" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Antioch Arrow</td>
@@ -865,10 +870,10 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 28</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 48</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 64</li>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 88</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 30</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 68</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -895,7 +900,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/jqPa3IFH22q_LnqHm71wWHQi3gc8EvjKGYAVQC7W0M0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODU2/NjUtMTY2NDY3MjM3/OC00MDYxLmpwZWc.jpeg" alt="Cover for &quot;Sex, Violence, Whatever&quot;: The Complete Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +917,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b17405e5b33f3f317c18fbfecc35abc.png" alt="Cover for Totality" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +955,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb515af12c6c80d4dce97b423f10bea1.png" alt="Cover for The Underdark" style="max-width:120px; height:auto;" />
       </td>
@@ -960,12 +965,10 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -987,8 +990,8 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 49</li>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 50</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1010,9 +1013,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/ALWQqpfCafAwv_ZkgHqW0xxFj22vzx0BPL1vJMV129I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI1/Nzc0LTE1NTc3Nzc4/MTQtNDI4OC5wbmc.jpeg" alt="Cover for Document #7" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82d9e46fa10667c5b51c7fa8b5c3571a.png" alt="Cover for Document #7" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-22</td>
       <td>Pg.99</td>
@@ -1026,12 +1029,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 54</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/En20La1y4g2VGngqbMUK-AZNBJUzy4HM7MjBizxm-PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTU4/NzgtMTQ2ODYyMjAw/Ni04NjUzLmpwZWc.jpeg" alt="Cover for Hidden Arithmetic" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,13 +1049,14 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 47</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f027b130f58bd069aeb4ea622b87438.png" alt="Cover for Time to Reflect" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>True North</td>
@@ -1073,7 +1077,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/9aiFqFrmMjqiAcOViVMQ9xmBgqqXEkNURNbHT_oIQxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzU2/MjUtMTM5MzI2MTAx/Ni0zNDU2LmpwZWc.jpeg" alt="Cover for 2007 ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,26 +1097,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>51</td>
       <td>
-      </td>
-      <td>2006-07-25</td>
-      <td>I Would Set Myself on Fire for You</td>
-      <td>Believes In Patterns</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/doyAiMMZLgAQ-Errj7AKQb8vFnFgc5RABGxbp20a0NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQz/MzgtMTI1OTY5OTQ2/NC5qcGVn.jpeg" alt="Cover for Ugly&#x2F;Heartless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bc986e169c5f6942d51c8006f06eab1.png" alt="Cover for Ugly&#x2F;Heartless" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-08</td>
       <td>The Jonbenét</td>
@@ -1127,12 +1114,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 46</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/d2vrYQRwBdXEV9joNLqwNFUQTtcZThM6djo9u3PEANU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mjk0/MTYtMTYxOTAzMTU5/My00MDk0LmpwZWc.jpeg" alt="Cover for demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1134,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 58</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1175,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Attention W***e - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1241,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 8</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 10</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 13</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 17</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 18</li>
@@ -1270,7 +1257,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,16 +1323,16 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 10</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 30</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 40</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 49</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
@@ -1367,7 +1354,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/kQiv5oOxNUCOWZpLR9DojYJJ5MT3Ed6kc6omCo1k3Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTky/NjItMTIzMTc2NDc4/MC5qcGVn.jpeg" alt="Cover for Some Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,12 +1371,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 59</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/-1ImsBAQpwdHlij7eUc28spzyVYcTBme3PGOTIoVx2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk2/ODYtMTY1NDc5OTE1/Ni03ODA4LmpwZWc.jpeg" alt="Cover for Suffix&#x2F;Beau Navire Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,8 +1398,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce32d20c5aa00dddcc71427a306810b1.png" alt="Cover for This Is Not an Erect, All-Red Neon Body" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-23</td>
       <td>Combatwoundedveteran</td>
@@ -1463,10 +1451,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 4</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
@@ -1480,11 +1470,10 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
@@ -1510,9 +1499,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/3ZziujpK29DdDWy_mEXMueIVLtcTTveDZ5AKVFVXXac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjcy/NDktMTQ2OTYxMzMx/MS03MzkwLmpwZWc.jpeg" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e21c711ca8445ee839f86a1594ac6c8.png" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Nasty Taste</td>
@@ -1649,16 +1638,18 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
             <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
@@ -1668,22 +1659,22 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b579947cbb744cfa89436515f2f000d.png" alt="Cover for My Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-22</td>
       <td>Justin Bieber</td>
@@ -1695,7 +1686,8 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 22</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 23</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
@@ -1711,20 +1703,19 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 83</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/D4RiyLhudsHIvtUtTIWNeim4wHUA3K-75WpX_qTUkR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/NTktMTIzNTQ4MTcx/OC5qcGVn.jpeg" alt="Cover for Grey Matter X Nuclear Moms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7071c5eff646aeba50e2d5451059771c.png" alt="Cover for Grey Matter X Nuclear Moms" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-10</td>
       <td>Grey Matter</td>
@@ -1753,9 +1744,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/TAEJG85TwciyhfDEqZSmSf4L0zie6_8oknW1ULUhdOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODE3/MDItMTQ0NDQ5ODAx/Ny0xMzcwLmpwZWc.jpeg" alt="Cover for Things Fall Apart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/021b9f0a0d5f419dc134ffcb1a8b1689.png" alt="Cover for Things Fall Apart" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Things Fall Apart</td>
@@ -1771,12 +1762,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 4</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ecb9b46ce84193f7d82bdaf62bf14c.png" alt="Cover for Like Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,6 +1782,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1809,7 +1801,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 51</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1837,14 +1829,14 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 4</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 5</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 18</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 49</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Ji63ITD6syAPj3gU5WQHaDR5U3P-P7BMW_0XT1GKau0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzE3/NjktMTM2NDcxMDUy/MS0yNDU1LmpwZWc.jpeg" alt="Cover for Emotional Blackmail" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1854,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/lpovRDonvccrs-w0VE6bbEyyASZRAZ1wU1hHQjPz9Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTk5/NDgtMTM1NzI4NjI0/MC0xMjg3LmpwZWc.jpeg" alt="Cover for Old Gray&#x2F;Girl Scouts Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1881,8 +1873,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -1978,19 +1971,19 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 27</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 37</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 28</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 73</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
@@ -2002,9 +1995,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/_Oa_0WDaJCneZWuApYC0DeOKXVA7xW1i0DAYaAJFKpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzI2/ODgtMTQxNDMzNzk0/OS0zMzA4LmpwZWc.jpeg" alt="Cover for För Alltid Var Bara Något Vi Sa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/922bc3966ee24291888ccbfa0b626901.png" alt="Cover for För Alltid Var Bara Något Vi Sa" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-14</td>
       <td>Young Mountain</td>
@@ -2026,7 +2019,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/zM6btI2DChurLOdUtDPDu7PkSnoG-YpY2qS5ub-Hljs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTA1/MzktMTM2OTI5Mjcx/NS05MzE2LmpwZWc.jpeg" alt="Cover for Lost Ships Sinking With The Sunset" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,9 +2039,9 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/XweFblP06qu23x-GUjtMXKGi3ZcC03JTjn7M6YQAXnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDkz/MzAtMTM3MTA0NTI4/My02NTYyLmpwZWc.jpeg" alt="Cover for Live At New Alliance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/812d0344dea14bf3bc9f7d65a715ab03.png" alt="Cover for Live At New Alliance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>The Saddest Landscape</td>
@@ -2065,12 +2058,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 24</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>2014-02-26</td>
@@ -2084,13 +2077,13 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 10</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 12</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 16</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
@@ -2099,14 +2092,14 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 86</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/rjMCGuT1-w7m_lPssmzksAMo8JT7NeAPWAL5m1AMYhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzE2/OTAtMTYyMzY1MDgy/NS0zMzg3LmpwZWc.jpeg" alt="Cover for Ruth" style="max-width:120px; height:auto;" />
       </td>
@@ -2126,7 +2119,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ID0oWi7RQ20KDWkNcbaWb_vIWtbmSXXA6jAkJPwh5KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTYx/ODAtMTQ1MDI2NTc1/OC04NzU0LmpwZWc.jpeg" alt="Cover for I Wish You Away" style="max-width:120px; height:auto;" />
       </td>
@@ -2145,7 +2138,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/_POdwFA6s1il1nxGg5-LAQShF_5G760h-D2Vd9dSQyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTAy/MTAtMTQyNzEwNTYw/NC01MzM4LmpwZWc.jpeg" alt="Cover for Le Voyageur Imprudent" style="max-width:120px; height:auto;" />
       </td>
@@ -2161,12 +2154,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 70</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91af045e904dc722d509901be785bfdc.png" alt="Cover for Collected" style="max-width:120px; height:auto;" />
       </td>
@@ -2180,9 +2173,8 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 12</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 55</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 66</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 24</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2207,7 +2199,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/W0SB8KbGnoFBJkjhEbIfwZ8v3epzyxz67-sXDf-Nv_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg5/NTQyLTE2MTU0NjA0/ODgtNzIzNy5qcGVn.jpeg" alt="Cover for сім сестер" style="max-width:120px; height:auto;" />
       </td>
@@ -2224,7 +2216,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/W0SB8KbGnoFBJkjhEbIfwZ8v3epzyxz67-sXDf-Nv_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg5/NTQyLTE2MTU0NjA0/ODgtNzIzNy5qcGVn.jpeg" alt="Cover for Oh, Deer!" style="max-width:120px; height:auto;" />
       </td>
@@ -2241,7 +2233,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/BGyM6NHdnFqX9vETGXTv5efoRZtHs7UTLh0wANIzdIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg3/MjkwLTE1NTE0Mjgw/OTMtNzc5Mi5qcGVn.jpeg" alt="Cover for In Various States of Disassembly" style="max-width:120px; height:auto;" />
       </td>
@@ -2263,12 +2255,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/yfYVohqB4kEtcSSkwBxijHpe5WfJ9vwWhdu2kF5dttU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzUw/MzYtMTQ2NTYwMTUx/NS0yMzY5LmpwZWc.jpeg" alt="Cover for Tired of Tomorrow&#39;s You" style="max-width:120px; height:auto;" />
       </td>
@@ -2288,7 +2280,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/LNJStVG4LSOzmS5FENd-3Ny37AymLXL1opkCOYS0csY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzIz/MTAtMTQ3NDI3Nzgy/OS02ODAxLmpwZWc.jpeg" alt="Cover for Drei Affen" style="max-width:120px; height:auto;" />
       </td>
@@ -2306,7 +2298,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Kmbrh469E7TXOI0G95dFN6XBm2Jtbqj_f6A8MXO6oFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMy/NjkyLTE1NDA5MTEx/MDYtNjgwOC5qcGVn.jpeg" alt="Cover for continuation afterwards" style="max-width:120px; height:auto;" />
       </td>
@@ -2325,7 +2317,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be83479f244793f76c0ab6dd3068bae7.png" alt="Cover for The Castle Builders (10th Anniversary)" style="max-width:120px; height:auto;" />
       </td>
@@ -2347,7 +2339,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/WTQKApkBoStLpClXKKIXJuXC_1M5HkA8B8Dmi4qlXpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIx/NjAxLTE2MDUyMjYx/NDUtNDcxNS5qcGVn.jpeg" alt="Cover for Lament" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29426fe633519211cee9819b55cbb88.png" alt="Cover for Lament" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-09</td>
       <td>Touché Amoré</td>
@@ -2363,13 +2355,13 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 97</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 54</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/KYpekbqUImWLVc9gfoyaBFH-AE1s3XGYrlQUXxjJ5jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg5/NDc3LTE2MDMyMzA5/NzEtNzU3MS5qcGVn.jpeg" alt="Cover for Ruminating" style="max-width:120px; height:auto;" />
       </td>
@@ -2389,7 +2381,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/xX28Ihnsw5yZGfFbsxL2QSaxdmsUK2zDC2anOCTKOJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjkw/ODA4LTE2MjQ3NjQy/NjAtODYzMC5qcGVn.jpeg" alt="Cover for Your Arms Are My Cocoon (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -2418,6 +2410,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe885751feb1c4604da79662aa51a52.png" alt="Cover for the truth about hatsune miku" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-31</td>
       <td>That Same Street</td>
@@ -2439,12 +2432,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
         <ul>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 65</li>
             <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 85</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 88</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4553a6fce8f63a270cf6e3878a60537b.png" alt="Cover for MMXXII" style="max-width:120px; height:auto;" />
       </td>
@@ -2458,14 +2451,14 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 13</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/uc4VYzeoQgceFVLg-3bc7CBvASU8dxi7TpwIgKudPQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU2/OTEzLTE2ODE5NzIw/OTgtODY4MS5wbmc.jpeg" alt="Cover for Only Eye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48a1f31afd49ef723036ec9f51eb318f.png" alt="Cover for Only Eye" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-05</td>
       <td>Keratin</td>
@@ -2486,7 +2479,7 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/m4bdMbFLRiHqSGZXKa8d7YV3WwMvqPsRCqVrDnV1mjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzA5/Nzk0LTE2MzIxODI0/NTItNzEwMS5qcGVn.jpeg" alt="Cover for セラ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3281bcc941cdda6bfdc368180492a96.png" alt="Cover for セラ" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-09</td>
       <td>That Same Street</td>
@@ -2506,12 +2499,12 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 70</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 78</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2533,6 +2526,25 @@ Real screamo is an emotionally raw subgenre of hardcore punk that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ache:emelie</td>
+      <td>Ache Emelie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T06:30:18.556Z
+date: 2025-11-18T11:55:52.619Z
 permalink: tags/protest
 title: protest
 ---
 
 ## protest
 
-Last updated: <time datetime="2025-11-13T06:30:18.556Z">Thu Nov 13 2025 08:30:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T11:55:52.619Z">Tue Nov 18 2025 13:55:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,6 +44,23 @@ Protest music uses song as a vehicle for social and political commentary, challe
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b159a699a0275812a87a1c5fce23b454.png" alt="Cover for War &amp; Peace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Edwin Starr</td>
+      <td>War &amp; Peace</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -131,7 +148,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd950cb5e3df4298b4060271eb914318.png" alt="Cover for Cantacronache 1" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +199,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       <td>
         <ul>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 19</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 27</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -224,7 +241,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
         <ul>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 6</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 23</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 31</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -264,7 +281,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 37</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 82</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +326,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/CURN7V74SQ3nw_VzoDoempaOtU61QmPzWz7j3vjwWgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzMx/ODItMTYyNjkxNjQx/Ni01NDQ3LmpwZWc.jpeg" alt="Cover for Puerto Rico 2013" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +346,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/iHu3eWssGbOTH7sSf4t_YBPLXK97h1om0NdSlrE27lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njgz/NzEtMTQ1NTk4MDE5/OC0yMzI0LmpwZWc.jpeg" alt="Cover for I Still Remember" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +383,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/3j3F-ltfHhohDk0dpg6U4HnU8xBTE_whNPiO0OFCUv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTYy/NzE3LTE2OTc5ODY5/MzItODI0OS5qcGVn.jpeg" alt="Cover for Songs of Innocence and Expedience" style="max-width:120px; height:auto;" />
       </td>
@@ -444,7 +461,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/gPrfleDl2SMIT_3DGj7qhQP7WGMWebbL0oDj_3zy11Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzkw/NTYtMTM4ODQzMjYz/MS01MzA5LmpwZWc.jpeg" alt="Cover for Ya Star" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +481,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/2g-mCyBK0OBXG7wXKmVDw0Wnnb-Vvv5CnxKmKZWEnw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODIx/MDg5LTE2MjE2MTk1/OTUtMzE2MC5wbmc.jpeg" alt="Cover for Oohs Ahhs and Nice Guitars" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +501,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f2a3cf3193443eac57d2e37b5e13e3.png" alt="Cover for Rob Lytle" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +538,6 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -542,7 +558,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 35</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +703,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f9be34268b5451bb9a0aeb5d076061c.png" alt="Cover for Manifesto" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +749,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/Zl2kxW_ZCWFC7oSJu03Vnc9cnW0WJXuv_nckU1SKEqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/Ni0xNTk5MzE5Nzc2/LTUzNjUuanBlZw.jpeg" alt="Cover for Steal This Double Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/babaa5538f2d38173539cd401e8bb324.png" alt="Cover for Steal This Double Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>The Coup</td>
@@ -753,14 +769,14 @@ Protest music uses song as a vehicle for social and political commentary, challe
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 14</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2004</td>
@@ -903,12 +919,12 @@ Protest music uses song as a vehicle for social and political commentary, challe
         <ul>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 47</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 66</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 72</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2006</td>
@@ -1011,6 +1027,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27ba7aa959984a68baa15b5219e6b3da.png" alt="Cover for Vitus Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06</td>
       <td>Gaia Consort</td>
@@ -1035,6 +1052,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76618922f65ae38c3653b5487fc1418f.png" alt="Cover for Rust" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-31</td>
       <td>No, Really</td>
@@ -1049,7 +1067,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/rtULTRPLQ0vmd1AdCLwIdr1fGVJDjJcgkBzdrNomzBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/OTA1LTE1OTU2MzI0/MDktMTEwNy5qcGVn.jpeg" alt="Cover for Gonna Take Us All" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1089,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2008</td>
@@ -1094,7 +1112,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2008-01-01</td>
@@ -1113,28 +1131,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64bad35405ae456aaa811748378dfda9.png" alt="Cover for Palestine Grove" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Kev Boyle</td>
-      <td>Palestine Grove</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e8fac2b6cea05a1ef837e04df83202.png" alt="Cover for South African Freedom Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,7 +1153,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ZXcGRuV2GG4jE7HDIfRi3coTUBbo_voJdoH9mfmxoz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE3/NTc1LTE1MjI4OTYy/OTctNzk0MS5qcGVn.jpeg" alt="Cover for Occupy This Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,11 +1184,12 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a81f68d0c1c643e28f9f33905db6b6eb.png" alt="Cover for Daniel Davies EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1209,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90f2401e7dfb4c4593ae79f618a8d00e.png" alt="Cover for The War On Terra" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1233,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/WhdEY2KK3qE_69i8TGw-bjByJR7keyWVjRAwWEoxOns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTU0/MDMtMTQwMTM1NjUw/Ny05MTczLmpwZWc.jpeg" alt="Cover for Il vespero vermiglio" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1252,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Y2CN2XWopUrIjThMYvKFbx40GHoFV394dv2YxvwM7_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE1/OTkzLTE1ODIxNDgw/NTctNTY2NC5qcGVn.jpeg" alt="Cover for Breaking Strings" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,9 +1317,9 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 48</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 53</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 63</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1347,7 +1345,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/2ic5-SWnUycl27x4Xem8lfuZoUSetK34khvtR6eAd40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDA2/NjktMTQxMjExMTEx/My04ODQ0LmpwZWc.jpeg" alt="Cover for Последний герой" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de8396d907514fc8aa9d2961948429bb.png" alt="Cover for Последний герой" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-01</td>
       <td>Kino</td>
@@ -1459,10 +1457,10 @@ Protest music uses song as a vehicle for social and political commentary, challe
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 56</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 62</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 63</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 63</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1485,12 +1483,12 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cedfa7a60f99bb0a744f2bd1b0d4f6.png" alt="Cover for Strange Fruit" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1529,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1576,7 +1574,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1595,7 +1593,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1615,7 +1613,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1632,7 +1630,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1651,7 +1649,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1671,7 +1669,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1689,7 +1687,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1706,7 +1704,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e28658735cd996bc7c4021cf1f14162c.png" alt="Cover for ¡Que Viva el Canto! Songs of Chile: Rafael Manríquez and Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1726,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1747,7 +1745,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1766,8 +1764,9 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60c22b47486b431899543ef5718c3364.png" alt="Cover for Bring Back the Old Last.fm Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ Infektial Blowjob!</td>
@@ -1783,7 +1782,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2020,6 +2019,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e741afba22804d639494c518abdb768c.png" alt="Cover for Songs Of Romance And Revolt" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>BrokenJaraFingers</td>
