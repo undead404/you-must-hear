@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-17T16:53:08.497Z
+date: 2025-11-17T17:10:54.390Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-17T16:53:08.497Z">Mon Nov 17 2025 18:53:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-17T17:10:54.390Z">Mon Nov 17 2025 19:10:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [emo rap]({{ "tags/emo-rap" | relative_url }}) | <time datetime="2025-11-17T17:10:54.390Z">Mon Nov 17 2025 19:10:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [chaotic hardcore]({{ "tags/chaotic-hardcore" | relative_url }}) | <time datetime="2025-11-17T16:53:08.497Z">Mon Nov 17 2025 18:53:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [manchester]({{ "tags/manchester" | relative_url }}) | <time datetime="2025-11-17T16:52:57.225Z">Mon Nov 17 2025 18:52:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-11-17T16:52:34.398Z">Mon Nov 17 2025 18:52:34 GMT+0200 (Eastern European Standard Time)</time> |
@@ -373,7 +374,6 @@ Last updated: <time datetime="2025-11-17T16:53:08.497Z">Mon Nov 17 2025 18:53:08
 | [emoviolence]({{ "tags/emoviolence" | relative_url }}) | <time datetime="2025-11-14T11:04:53.057Z">Fri Nov 14 2025 13:04:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [oriental]({{ "tags/oriental" | relative_url }}) | <time datetime="2025-11-14T10:25:32.819Z">Fri Nov 14 2025 12:25:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [los angeles]({{ "tags/los-angeles" | relative_url }}) | <time datetime="2025-11-14T10:23:41.485Z">Fri Nov 14 2025 12:23:41 GMT+0200 (Eastern European Standard Time)</time> |
-| [emo rap]({{ "tags/emo-rap" | relative_url }}) | <time datetime="2025-11-14T10:22:10.058Z">Fri Nov 14 2025 12:22:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [icelandic]({{ "tags/icelandic" | relative_url }}) | <time datetime="2025-11-14T10:21:24.077Z">Fri Nov 14 2025 12:21:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [suicidal black metal]({{ "tags/suicidal-black-metal" | relative_url }}) | <time datetime="2025-11-14T10:20:49.663Z">Fri Nov 14 2025 12:20:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [piano rock]({{ "tags/piano-rock" | relative_url }}) | <time datetime="2025-11-14T10:19:48.497Z">Fri Nov 14 2025 12:19:48 GMT+0200 (Eastern European Standard Time)</time> |
