@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:33:03.108Z
+date: 2025-11-18T20:27:23.316Z
 permalink: tags/dutch
 title: dutch
 ---
 
 ## dutch
 
-Last updated: <time datetime="2025-11-08T14:33:03.108Z">Sat Nov 08 2025 16:33:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T20:27:23.316Z">Tue Nov 18 2025 22:27:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>1970</td>
@@ -87,7 +87,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f4b2c53abba4f7a98cfaab047be6b67.png" alt="Cover for George Baker 25 Years" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
       </td>
       <td>1978</td>
@@ -144,7 +144,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bc6d6284e5f4ce469cd67e4a2d8b453.png" alt="Cover for Leuk" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +163,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
       </td>
       <td>1987</td>
@@ -180,7 +180,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f070f4ec861c46b5c625810d48f4d666.png" alt="Cover for Is dit nu later" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +237,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/486997a201502570bb0c20aa7e0d1b3f.png" alt="Cover for Warrior Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +278,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
       </td>
       <td>1998</td>
@@ -354,12 +354,12 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 82</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e62c76c0ece6f4d8166f6627d975f20.png" alt="Cover for The Platinum Album" style="max-width:120px; height:auto;" />
       </td>
@@ -378,15 +378,15 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 37</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 88</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 40</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/bQHrYufAi14BzE9K4PvdydUoyT9jZoX_4vp5G1JLt0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjQ4/LTE2ODk2MzE5OTQt/NTQ0NS5qcGVn.jpeg" alt="Cover for L.E.D. There Be Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01a323d4ad9441408d482f149c133261.png" alt="Cover for L.E.D. There Be Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Rank 1</td>
@@ -429,7 +429,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91aecd40082e4cf287ad07c83d62a008.png" alt="Cover for Lost Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -448,7 +448,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td>2002</td>
@@ -518,7 +518,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
       </td>
       <td>2002-11-19</td>
@@ -538,7 +538,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05e91537095c6f4fc2363ee5bf67051a.png" alt="Cover for Brandstof" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +577,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c57c770f75949bbb48e7f8c18ff47de.png" alt="Cover for Hotel New York Live Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -599,8 +599,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d41672584449ab977f123d5faf7b28.png" alt="Cover for India" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-27</td>
       <td>Jochen Miller</td>
@@ -623,8 +624,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/143f19f1f718d3ed1c4319d649c5d915.png" alt="Cover for Slimmer dan de zanger" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Bart Peeters</td>
@@ -641,7 +643,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d23a4649f0119422c1d3ab8cc25b1eac.png" alt="Cover for Greatest Hits No.1 Gold Selection" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +664,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2006-03-31</td>
@@ -704,7 +706,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81f460d35c17cfe354bc508f2dd291de.png" alt="Cover for The Beauty Around" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +726,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65d7866b3e5acc9c7a973dc6703f1b88.png" alt="Cover for Trauma" style="max-width:120px; height:auto;" />
       </td>
@@ -744,9 +746,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/HZvnwR0FXvqdooOqD7JEJvhVPGF1hNw4mY_QrbuJCbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/NTAtMTUzNDc0OTAw/NS0zMDU3LmpwZWc.jpeg" alt="Cover for Goochelaars en Geesten" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19db0e996006479503474af4c85cd2f2.png" alt="Cover for Goochelaars en Geesten" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-27</td>
       <td>Spinvis</td>
@@ -764,7 +766,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7941024f90394fdacf7140f464e15671.png" alt="Cover for Hemel nr. 7" style="max-width:120px; height:auto;" />
       </td>
@@ -783,8 +785,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/018ef5e8f3684cca80c3da69653ef274.png" alt="Cover for Life is Short" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-08</td>
       <td>Lucky Fonz III</td>
@@ -801,9 +804,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/k-WBg6tpiII_6gbRyio1kWqMnWOF5U_r_El1C6Pw7s0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUz/MjgtMTE5MTY3OTAy/NC5qcGVn.jpeg" alt="Cover for Alive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c693b58d616e1c6ceff39788ec4a3e3.png" alt="Cover for Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-12</td>
       <td>Jochen Miller</td>
@@ -845,7 +848,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007-11-23</td>
@@ -863,7 +866,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0e3f986b7d535c950571363350c15aa.png" alt="Cover for Jij Bent Zo" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +887,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1696047fcaf544db999b261d104df2f5.png" alt="Cover for Mmm... Gumbo?" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +908,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/_I8KABMcgNOyqUK-Rdy64hDhJl9T5VbrAQMDAaraM9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIw/OTctMTIyOTY4Mzc3/OC5qcGVn.jpeg" alt="Cover for Lost Connection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4450990ba58f494fb1fe42320616d5fe.png" alt="Cover for Lost Connection" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-27</td>
       <td>Jochen Miller</td>
@@ -965,7 +968,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59bc9509d6762009d392ce4292bade4b.png" alt="Cover for Rock &amp; Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,7 +1006,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/5-J2I-XhRTpOt7z3TB2V4vlXn1RDf1J4xlGHD1UxVns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjU3/NDgtMTQzNDI5NTE3/NS01OTYxLmpwZWc.jpeg" alt="Cover for Het beste van De Dijk" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,8 +1064,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/321bd521d967c07d68f1cd967b5abde5.png" alt="Cover for Tim Knol" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-25</td>
       <td>Tim Knol</td>
@@ -1121,7 +1125,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c72bb25b1878c0c7d356a15d5290646e.png" alt="Cover for Mazes" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,8 +1147,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e2e8b3d899f4cf3b27f67a465d6c068.png" alt="Cover for Wolf Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-10</td>
       <td>Omnia</td>
@@ -1162,7 +1167,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2011</td>
@@ -1198,9 +1203,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/ygOEgTOf9JH74FzVz6KwySB27-_BM2mF22_MOQBzLu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDgz/MjQtMTMwNjc0OTQ2/MS5qcGVn.jpeg" alt="Cover for Days" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd6d8f2ba7b464bda794bc3feef4cf03.png" alt="Cover for Days" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-20</td>
       <td>Tim Knol</td>
@@ -1218,7 +1223,26 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/794628af6d9846258bdfe002b5bae948.png" alt="Cover for The Rip Tide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-02</td>
+      <td>Beirut</td>
+      <td>The Rip Tide</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b316b2259fc2410082a7d1915ea26ebf.png" alt="Cover for Omdat ik dat wil" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,8 +1285,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/339c49728a2643aab62f5f9c53d9f598.png" alt="Cover for Invasion (ASOT 550 Anthem)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-27</td>
       <td>W&amp;W</td>
@@ -1364,7 +1389,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>2012-07-29</td>
@@ -1388,6 +1413,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/154d9e826ca643b9c3a0b1503d1c1b8a.png" alt="Cover for One Day (Vandaag)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-27</td>
       <td>Bakermat</td>
@@ -1404,13 +1430,15 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 40</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 37</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6ae11520e5d4390bd2dfa91db4580ed.png" alt="Cover for Vandaag" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-27</td>
       <td>Bakermat</td>
@@ -1460,8 +1488,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92dd27e5821a4b45baabb1c14ebb34f6.png" alt="Cover for Bright Companions" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-14</td>
       <td>John Coffey</td>
@@ -1482,7 +1511,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b098b0e52c440398aebb00baf97621c.png" alt="Cover for Elba" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1531,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/xQjjzfRlG0_HR89_e5aZpmJPlpC9l4zxPozJsH7VcJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzQ4/NzktMTM3MTg1NTA2/NC0yMzQ0LmpwZWc.jpeg" alt="Cover for Dance (The War Is Over)" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1587,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17b86f6253694db0cdbca51de397ebb3.png" alt="Cover for The Human Contradiction (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,9 +1612,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/0LagiCU5cYLZGQwp1oCLCYksibhEz05FkE50lyC3Alo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njg0/NTctMTQyMjE4NTM4/OS02OTE1LmpwZWc.jpeg" alt="Cover for The Great News" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31e66ff98d1b4ddecda89eefbe3ffd00.png" alt="Cover for The Great News" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-24</td>
       <td>John Coffey</td>
@@ -1622,7 +1651,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/OTru54gsCzzQPq1qq9dguiRJGhodRt3_M8yipS9C3Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjAw/NDMtMTQ0MzE4MTI2/NS0zMzg0LmpwZWc.jpeg" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1713,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/171a7e0a8a634012869857aa2036cc97.png" alt="Cover for Adem" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1731,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93d7f8da7182ea2f1f7141d6d2a30724.png" alt="Cover for Dakloos" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,7 +1795,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/cA-IoFT99kTgAjBOc9LZ4uY8g3lAhXzBC6QUqaazW4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg5/NDU4LTE2NDU2NzU2/NTctNTYzNy5qcGVn.jpeg" alt="Cover for Weeshuis Der Verloren Zielen" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1817,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65cf4ea5215c5ecb4faf1e62976d1ef0.png" alt="Cover for Scandinavian Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,7 +1837,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/LO-qy0kJLG23ep0wNXCXDuWWxfUQ5y_UTOrWbg49crM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA0/MTg4LTE1MDk5MTIz/MDAtOTYxNS5qcGVn.jpeg" alt="Cover for Matriarch" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,9 +1857,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/sIcNe9WgW5F1vrKwnkBQRUVUKCGei2Wv4jDXU-0FaeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUz/MDk0LTE1MTA4NDEw/NTgtOTQyNC5qcGVn.jpeg" alt="Cover for A Good Day For the Damned" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5965069adf1bf69d8b39c1fa694a43f5.png" alt="Cover for A Good Day For the Damned" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-17</td>
       <td>Jaya the Cat</td>
@@ -1871,7 +1900,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0d7b0b79cf8edd49c1d2f6aae68362b.png" alt="Cover for Cartier" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,7 +1983,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/sxBcMZLwtFoirl3PU1CQdM4akhZfouDyqsp4TXTgmNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzIw/NzY0LTE2MTUwNDk0/NzEtODI3MC5qcGVn.jpeg" alt="Cover for Menhir" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,7 +1999,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2013,25 +2042,6 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/UjiEO7WcPiF836P7Owelt73tDcs5pXptAcj-hEsTgpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM4/ODk5LTE3MDQ4MTg3/NTAtMTMwNy5qcGVn.jpeg" alt="Cover for Narcopop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-12-08</td>
-      <td>Mula B</td>
-      <td>Narcopop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>2</td>
       <td>
       </td>
@@ -2063,6 +2073,6 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
 - [nederlandstalig]({{ "/tags/nederlandstalig" | relative_url }})
 - [nederlands]({{ "/tags/nederlands" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
-- [alternative]({{ "/tags/alternative" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
 - [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
