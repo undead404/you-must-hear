@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:33:06.512Z
+date: 2025-11-19T07:36:54.339Z
 permalink: tags/harp
 title: harp
 ---
 
 ## harp
 
-Last updated: <time datetime="2025-11-14T01:33:06.512Z">Fri Nov 14 2025 03:33:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T07:36:54.339Z">Wed Nov 19 2025 09:36:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/rgYg21w4IjUgIVuIGofd1vW00VavigY6yb_tn8LM4ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODA5/ODEtMTQ4NDY2ODE3/MS05NTQ3LnBuZw.jpeg" alt="Cover for Songs Of Ireland" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 41</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 96</li>
         </ul>
@@ -158,7 +158,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +180,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f9969d4f4d94259b3fb5c1b3ea5334d.png" alt="Cover for Celtic Harp Airs And Dance Tunes" style="max-width:120px; height:auto;" />
       </td>
@@ -198,12 +198,12 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 36</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/aJwZdgQ4o-zUc-SQ5wID9ujsMBCvFTUfqItwyQA2fOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTQz/MC0xMTI0NDc0MzE2/LmpwZw.jpeg" alt="Cover for Celtic Harp 1: Music of Turlough O&#39;Carolan" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +300,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/uIemundBLUZ9h2UE2LOZ12aDxKVvVrziW1nehsqzgWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI0/MzAtMTMwMDM2NDgz/My5qcGVn.jpeg" alt="Cover for Caverna Magica" style="max-width:120px; height:auto;" />
       </td>
@@ -318,7 +318,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/BKBGNSnbLzc-4scPW6PaW_I-OKu7g4fk9UVy96E37Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTEw/MDYtMTQ2MTA4MDA5/OS04MDg5LmpwZWc.jpeg" alt="Cover for Night of the Mark VII" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +338,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/HL304kxQUW5P_us16tELYgRMh8433LRkRm_FL0AwTtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjg0/MTgtMTY3NjgwNTQ5/My04ODgzLmpwZWc.jpeg" alt="Cover for Traumgarten" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +358,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1993</td>
@@ -429,9 +429,9 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/xSbJ1yHpBISfCFEPLGcDEFd_KuUV81Bq6IcvOKGtXzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcy/NDAtMTIxNzkzMTk1/OC5qcGVn.jpeg" alt="Cover for Music For Harp, Flute And Cello" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91a81c6783b2a170c24197c220565c72.png" alt="Cover for Music For Harp, Flute And Cello" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Angels Of Venice</td>
@@ -466,7 +466,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/GpbeByfX4jg5VV_YDKd0CtdizzGVSBiUeV9o5wO1ogM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzA2/MzQtMTMxODk1MDU1/OS5qcGVn.jpeg" alt="Cover for O&#39;Carolan&#39;s Dream: Celtic Harp Vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +484,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/zJdtushm9JzrhtF9wmXcXNAJFVezeP1ttWeU-YUT0I0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI4/MjQ1LTE1NzAyODk0/MTItNDc4MC5qcGVn.jpeg" alt="Cover for Luz y Norte" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +504,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0598d1feace00efdfdac8ce0811e036e.png" alt="Cover for The Enchanted Isles" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +595,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 29</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -637,13 +637,13 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 21</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 35</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 57</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Be3AJ8llrY6idhvCJYtMPcvNWgQecuuLYxFsN63z0J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgz/MTQtMTMzMDM4MzEw/MS5qcGVn.jpeg" alt="Cover for Emerald Isles" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +682,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2001-10-02</td>
@@ -696,12 +696,12 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 28</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/eXiUBLeVbYwL1IThZVhTLIO9U_2tOUG9q-SwhXaAXbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTEx/MDEtMTQ1NjI0MDU1/OC03MDE0LmpwZWc.jpeg" alt="Cover for Станция Мир" style="max-width:120px; height:auto;" />
       </td>
@@ -779,12 +779,12 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 21</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/I29ryy0nwektgoi20SNSJGi3kMtbZcj-DYT1-LQakJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/NDE3LTE1MzQ2Mzgz/NTUtNjUxMC5qcGVn.jpeg" alt="Cover for Harpistry" style="max-width:120px; height:auto;" />
       </td>
@@ -842,7 +842,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/KCSZjutGW4Emb1CjQrlYI06OdMG7yrVbtE9-leD--r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYy/NzMtMTQ4NzMyNTcz/OS02MDIxLmpwZWc.jpeg" alt="Cover for Crossing the Stone" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +886,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Xocrklbuu6fFHo30Vk1Oc_SRpg9x8Mxsbh9Amp8jD0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/MDAwLTE1MDc1NDE4/NDktODk3NC5qcGVn.jpeg" alt="Cover for Total Overdrive" style="max-width:120px; height:auto;" />
       </td>
@@ -931,7 +931,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/CIoWUHjkgF2M_TJhJ_1znFx8HbPNNLlLiN3Zi2H-k2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDc2/NzItMTQ2NTg2MTY1/OS04MzM4LmpwZWc.jpeg" alt="Cover for Mermaids &amp; Mariners" style="max-width:120px; height:auto;" />
       </td>
@@ -966,26 +966,6 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/vPk6gAI8lk7m8xs84QIWRy7bnw4E0I4cNIE4MN1FGL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDk5/OS0xNTA3MTI3OTk3/LTY0ODMuanBlZw.jpeg" alt="Cover for Milk-Eyed Mender" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-03-23</td>
-      <td>Joanna Newsom</td>
-      <td>Milk-Eyed Mender</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 39</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1014,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/7byi-rcSwc8pI9FDNuAneX7i91KA_gGG9PFeTlr2X6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MjY5LTE1Mzc3MTU4/MDAtNzg5OS5qcGVn.jpeg" alt="Cover for cuarto de colores" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,7 +1033,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c705657342f440318427318d72b0016a.png" alt="Cover for Daydream Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1099,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Be3AJ8llrY6idhvCJYtMPcvNWgQecuuLYxFsN63z0J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgz/MTQtMTMzMDM4MzEw/MS5qcGVn.jpeg" alt="Cover for Winter Tales - Celtic Harp for Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1117,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/iZjYwWzRVvzNwHDORCNSMuxk7DjxZcrS4_EBE5VZIWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkz/NjE4LTE1MjYxODI0/NjctNjY0MS5wbmc.jpeg" alt="Cover for The Wild Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,7 +1136,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e3264701ce26b8d3504379e8efa90f3.png" alt="Cover for Hubcaps and Potholes - Scottish, Irish and Original Harp Muisc" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,13 +1166,34 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 53</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 79</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/rfFsBJQz8kzPitYDIP3BBFsIEwGpSyMkgkJ9yxr2eNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU3/OTQ1LTE1Mjk0NjI5/MzgtNTMxOS5qcGVn.jpeg" alt="Cover for A Light in the Forest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Anne Roos</td>
+      <td>A Light in the Forest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/wEBhKHmpEXXRavYkBUxcGdXFAhqaE8aSXo-c2Zl4XZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTAz/MDItMTQ0MTczMzU2/Ny05MTAwLmpwZWc.jpeg" alt="Cover for A Tribute" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,10 +1269,9 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 1</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 25</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 24</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 35</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
@@ -1280,7 +1280,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/726f1658fc33c3153cb4416ffdce2e8a.png" alt="Cover for Strange New Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1299,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/PQHRfb2crdR9rKYE8dgTchuSzD48SBRNWdAil0Phmys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjM4/MzQtMTM0OTM4NzA1/Mi05NjY4LmpwZWc.jpeg" alt="Cover for The Eternal Harp" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1334,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/QUwTa804lryGsiBdwdefCrkibkVh7VwyH37W7jL0YAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzc0/NDUtMTQ3MzU1ODM3/My04ODYxLmpwZWc.jpeg" alt="Cover for Treat Me Right" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,6 +1361,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/276f44e44a454bbda0e268264f12bba8.png" alt="Cover for You&#39;ve Got the Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-16</td>
       <td>Florence + the Machine</td>
@@ -1373,12 +1374,12 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 66</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e1ffc644f6bac6c6886426b26d1916.png" alt="Cover for Mairi Clairseach sings" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1397,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e95a9b893a8b4fe09a855b90f9ebcc93.png" alt="Cover for Seasons in Elfland: Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1419,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Xh6TQJEnKN_vj1jEteF28ghCJ-0UnBaGTLEfR02RjWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTEz/NjkzLTE2NTAyMTIw/NDgtMjg5MC5qcGVn.jpeg" alt="Cover for Shirka Demo 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1457,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2012-07-13</td>
@@ -1476,7 +1477,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/UZdVItd7V4jzMKgDRM9-9VA8zx0ak-u-kNfpwo2aCs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/MjI2LTE1MDc1NDQ5/OTctODE1MC5qcGVn.jpeg" alt="Cover for Ergo" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1596,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 84</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 87</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1661,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/bebT-3LGJjKGx6LQAKvfu51lnbV9tFBuIrJUmdeozuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg1/MTI1LTE1OTQwNTg3/MTEtNjc5My5qcGVn.jpeg" alt="Cover for Adenine" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1682,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/vj7iNlaO35nqjy1g2MG0ceuoLB5D6hToYmm_koxpL4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE1/ODA0LTE2NjU4NzQ5/ODYtNTg1MC5qcGVn.jpeg" alt="Cover for DUSSEK &#x2F; WAGENSEIL &#x2F; KRUMPHOLTZ: Harp Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1701,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/jzoZA_jWNOLafBuaIQ7q3qOyEbZx7mCoXjPlAEJf94A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYy/MDc3LTE2MzExMjE2/MjctMjYwNy5qcGVn.jpeg" alt="Cover for Quietude" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,7 +1721,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KNExv9bfes1HC9Ec-b--w8By8Ekato5_BS4jXGI5OVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIy/NTkwLTE2MzU4NTU4/NTAtMTIwOS5qcGVn.jpeg" alt="Cover for Celtic Harp&#x2F;O&#39;Carolan&#39;s Dream&#x2F;The Music of O&#39;Carolan" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,7 +1795,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1815,7 +1816,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -1843,7 +1844,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -1863,12 +1864,12 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       <td>
         <ul>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 33</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 36</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1885,7 +1886,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1903,7 +1904,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1922,7 +1923,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1939,7 +1940,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -1994,7 +1995,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>

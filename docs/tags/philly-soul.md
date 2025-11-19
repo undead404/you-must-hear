@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:39:17.128Z
+date: 2025-11-19T07:39:19.427Z
 permalink: tags/philly-soul
 title: philly soul
 ---
 
 ## philly soul
 
-Last updated: <time datetime="2025-11-08T19:39:17.128Z">Sat Nov 08 2025 21:39:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T07:39:19.427Z">Wed Nov 19 2025 09:39:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
   </thead>
   <tbody>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27a8380398269f7507ad46e6e9062bf8.png" alt="Cover for Back Stabbers" style="max-width:120px; height:auto;" />
       </td>
@@ -43,13 +43,13 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 21</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 20</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/YEpbvodmWo3xRbcf8fMxT1dqA_Q15gDmMk2IzRZ-1IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM3/MjItMTY0NzgxNzQw/My05NTM3LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/648ab695a941beea2e12f82db22bf308.png" alt="Cover for Philadelphia Roots" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68e7e262a56ed125e12fadef7e23431f.png" alt="Cover for 360 Degrees of Billy Paul" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +173,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 74</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -194,12 +194,12 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 39</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/QawMJ40XI6hPBci63ejQJsE12M-X4Dm0AHr4nJCLsT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDkz/ODYtMTMxMTU4NzE4/MC5qcGVn.jpeg" alt="Cover for Philadelphia Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/98MPOt4Y0A-OBXqX4xnKLRDRZpf2DxLdydb_5xAEJa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTEy/NzQtMTM2NzA1Njgx/OS0yODIxLmpwZWc.jpeg" alt="Cover for The Stylistics Greatest Love Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +235,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/tumy-X47hw29hBngNvJ7qpBwhM_dFL44VLvuMIqQO-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzcz/NC0xMTQzMDQzMjQw/LmpwZWc.jpeg" alt="Cover for Conquer The World: The Lost Soul Of Philadelphia International Records" style="max-width:120px; height:auto;" />
       </td>
@@ -353,7 +353,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/d-JBOS4LiQzI6ED0FL4R3ZCmzyDgMYD9mnWQzRrjmbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc0/ODgtMTMwMzg5MjQz/Mi5qcGVn.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -371,7 +371,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td>1974</td>
@@ -388,7 +388,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89bc85aad4804bc48284f6645a3fbffa.png" alt="Cover for Alive &amp; Kicking" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +407,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7a2c77a1e680c1fc8dc80b23bb550a.png" alt="Cover for The Stylistics" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +479,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1981474c67b0211836ef4bebf4282941.png" alt="Cover for Dance Your Troubles Away" style="max-width:120px; height:auto;" />
       </td>
@@ -499,7 +499,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Z8HSrlLMlt2GEHo80T17QQLgu25Hm9QPWxEXzsv4QVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI0/MDQtMTQwMzQ0Mzg5/Ni05ODIyLmpwZWc.jpeg" alt="Cover for Philadelphia Freedom" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +552,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59958f0e2dc33e7e3134f3820a11355c.png" alt="Cover for Essential Soul Collection vol. 6" style="max-width:120px; height:auto;" />
       </td>
@@ -570,7 +570,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/d-JBOS4LiQzI6ED0FL4R3ZCmzyDgMYD9mnWQzRrjmbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc0/ODgtMTMwMzg5MjQz/Mi5qcGVn.jpeg" alt="Cover for All-Time Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +588,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/JlDIXvapJWpcrE-obABs2OhIdVpmGK54vs1lE33Mdl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg1/OS0xMjE4NzA2Nzgz/LmpwZWc.jpeg" alt="Cover for Travelin&#39; In Heavy Traffic" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +679,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>1977</td>
@@ -699,7 +699,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/jOEWmXTurcMRq0GfFXgqOPTUDKUOfyRqNMs_zEhdqF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTk4/Mi0xMTcxODQ2OTUx/LmpwZWc.jpeg" alt="Cover for The Best Of Philly Soul - Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +771,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/pIvu4m6Px6t2VT6QKVsOPhfXxy6xeUf_korkvgBro_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjQz/NTMtMTQwNjI5Njg2/Mi0xNzYyLmpwZWc.jpeg" alt="Cover for The Greatest Hits Live" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +807,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>1978-01-17</td>
@@ -824,7 +824,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>1979</td>
@@ -838,12 +838,12 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 49</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ct9ylqHO0Y3kOj_e3u80GrvEtb9wl6hJD95Bsm3mzIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk4/Mi0xMzgxODYyODkw/LTQ3NTguanBlZw.jpeg" alt="Cover for Love Train" style="max-width:120px; height:auto;" />
       </td>
@@ -959,25 +959,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/ROEktYRONBz7fhrHF-ObzAUOxVgNJsxajkEpcqwXufA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzA2/OC0xMTQ1NjcwMjM3/LmpwZWc.jpeg" alt="Cover for Total Soul Classics - Here to Create Music" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1980</td>
-      <td>Leon Huff</td>
-      <td>Total Soul Classics - Here to Create Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55fc3721b52149309b4b658195072fb4.png" alt="Cover for Breakaway" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +981,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>1980</td>
@@ -1034,7 +1016,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Befsqf9llMtsSnYCPWAxXQ-qUaulkuWISHdm5njBvyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIy/MC0xMjgyODU2NDIz/LmpwZWc.jpeg" alt="Cover for Love And More" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1034,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>1988</td>
@@ -1087,7 +1069,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ZExHinopD_b3-WAYJ_ssqWInfF7s-Th1aXvqmS5U8Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjAw/MDQtMTQ1MTc5NjMy/NS05MDU5LmpwZWc.jpeg" alt="Cover for SUPER HITS" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1087,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/vjxpJp2ZGrahFzzQ6OZSnJiYYn9SYUucM1W-RmbL3X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODcz/NzEtMTI0MzI5NDQz/OC5qcGVn.jpeg" alt="Cover for The Very Best Of The Stylistics" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1105,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>1991</td>
@@ -1140,7 +1122,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>1992-02-25</td>
@@ -1157,7 +1139,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/_HXKdjsXOPFpaVPJrBjCtwqWMyNNAJ8QV15SJ6ggOx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDQ2/Ny0xMjU3NTYyNjQy/LmpwZWc.jpeg" alt="Cover for Total Soul Classics - 360 Degrees of Billy Paul" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,7 +1232,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/tUC8fpfuQL4IkprEwS-nfxBrmGYty_vPkZuODttD52k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYw/NjQyLTE1OTM2Mjky/NTYtODEzNi5qcGVn.jpeg" alt="Cover for The Best of the Three Degrees: When Will I See You Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d29dd7912a74bca814172406f98d4bb.png" alt="Cover for The Best of the Three Degrees: When Will I See You Again" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-04</td>
       <td>The Three Degrees</td>
@@ -1283,7 +1265,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/BX_elR3H0z-6ZgtD5oONFqF2k-WUvWEarfeZz0wuIN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI1/NTktMTY2ODI3MzUz/Ni02ODc4LnBuZw.jpeg" alt="Cover for Shake It Well: The Best of the Dramatics 1974-1980" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1284,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/RD22N5676sdH0PHQHkvJkukyA2PAe0fu-jgvT8brVgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzgw/MS0xNDUxMzAxMTU1/LTI5NzUuanBlZw.jpeg" alt="Cover for The Best of the O&#39;Jays: 1976-1991" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1302,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1998-02-17</td>
@@ -1337,7 +1319,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/-_zkbuFH6oBmyRTpiRZMvP0sFhoBQni8TcJxPvjxsu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc1/MTctMTU0OTIwMjIw/Ni0xMDI1LmpwZWc.jpeg" alt="Cover for All the Hits Plus More" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1355,24 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b4dc86cf4f24222c25d4a90086e33d7.png" alt="Cover for Deep Grooves" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-04-06</td>
+      <td>MFSB</td>
+      <td>Deep Grooves</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
       </td>
       <td>2001</td>
@@ -1447,7 +1446,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td>2003</td>
@@ -1463,7 +1462,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/bRQV68uZPItUH7rJl5WXjJRYfvkqdOYlA1U02GebW2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDA3/NDUtMTQzODM1NTEy/NS0zNjM3LmpwZWc.jpeg" alt="Cover for The Best of Philly Soul - Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,7 +1480,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/mQ4xzyiIArRSX6fmkGq8FIO--WIbsNdnsDC1XROCdAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDc1/NS0xMTMyMDg2Mjk4/LmpwZWc.jpeg" alt="Cover for Greatest Hits Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1517,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Dq78j44iE5FNIB7TZww2J4bbYLF61mzCJdHv_VmCOEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYx/Mi0xNjExMzkwODQ5/LTg5MzYuanBlZw.jpeg" alt="Cover for Stand Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1535,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/7q25oi9Mco-yLhnosR_XWRoj3fimvEhHPB5IlAw8cUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgy/ODQtMTI5NjY3ODE5/Ni5qcGVn.jpeg" alt="Cover for The Best of First Choice" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1553,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1ffbd1952828953578072eba0cb46c5.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1571,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>2006</td>
@@ -1592,7 +1591,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/Z6WtH0b1ItIbzv9AaD9BRYrCDi0xEUNDTN4KYlbYJ4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDc5/MTYtMTM3MjkyNzcw/My04NDc5LmpwZWc.jpeg" alt="Cover for The Antonelli Orchestra Loves Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,12 +1606,12 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 28</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2007</td>
@@ -1647,7 +1646,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24536532c5c85b558ad71754d33ad42.png" alt="Cover for Young Americans (2016 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1660,8 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 2</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1698,14 +1698,14 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 39</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 57</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 85</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 96</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/W_-ELamBA6JWVw-RyvreU_TOoaIfjCgeuUuTxUEL-Wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDc5/OTUtMTI5OTI1MTkw/Ny5qcGVn.jpeg" alt="Cover for The Best of - Cowboys to Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1723,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/7mYvJmv8P0OSg1qLKdjE3FRSX6NrV_4u8sxdkBpozw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcy/NDg5LTE2MzkyNDcw/MTAtOTgzMC5qcGVn.jpeg" alt="Cover for An Evening With Silk Sonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,7 +1742,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/7mYvJmv8P0OSg1qLKdjE3FRSX6NrV_4u8sxdkBpozw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcy/NDg5LTE2MzkyNDcw/MTAtOTgzMC5qcGVn.jpeg" alt="Cover for An Evening With Silk Sonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1761,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Love Train: The Sound of Philadelphia" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,7 +1779,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>2023</td>
@@ -1814,7 +1814,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1832,7 +1832,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1849,7 +1849,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
