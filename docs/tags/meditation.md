@@ -1,118 +1,1967 @@
 ---
 category: genre
-date: 2025-10-28T06:00:22.178Z
+date: 2025-11-19T03:06:46.692Z
 permalink: tags/meditation
 title: meditation
 ---
 
 ## meditation
 
-Last updated: <time datetime="2025-10-28T06:00:22.178Z">Tue Oct 28 2025 08:00:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T03:06:46.692Z">Wed Nov 19 2025 05:06:46 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Meditation music is a tranquil genre designed to facilitate relaxation, mindfulness, and spiritual contemplation through slow tempos and ambient soundscapes. It often incorporates natural sounds, soft synthesizers, gentle acoustic instruments, and influences from Eastern traditions. The music creates a peaceful atmosphere that helps listeners achieve calm mental states and inner focus.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 25 |  |  | Sounds of Nature White Noise for Mindfulness Meditation and Relaxation | Nature Sounds Relaxation and Tibetan Chakra Meditation - Music for Relaxation Meditation, Deep Sleep, Studying, Healing Massage, Spa, Sound Therapy, Chakra Balancing, Baby Sleep and Yoga |
-| 32 |  |  | Parasme | A Stream Meditation |
-| 45 |  |  | Chuck Jonkey &#x2F; Sonic Safari Productions | Tibetan Singing Bowls |
-| 99 | ![Cover](https://i.discogs.com/pPZqLt9cWCwvOhH1v3ZJF9IpyJsL4zAbAsYiehgImhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODk4/ODMtMTU0NDAxOTQx/Ny02MTAxLmpwZWc.jpeg) | 1958 | Miracle Tones | 528 Hz Transformation and Miracles (DNA Repair) |
-| 83 |  | 1965 | Tony Scott | Music For Zen Meditation |
-| 2 |  | 1974 | Various Artists | Shanti Project Collection 1 |
-| 79 | ![Cover](https://i.discogs.com/Vl1xHy-8kN7EB5uay1NKLPTAPojRhgeXCOxqEx8CQ-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg5/NTYtMTQ0OTg4NjQz/OC0zMDg1LmpwZWc.jpeg) | 1979-10 | Kitaro | Gaia - Onbashira |
-| 94 |  | 1980 | Laraaji | Ambient 3: Day Of Radiance |
-| 73 | ![Cover](https://i.discogs.com/rqnO2aRU-f5ePy3kQMrMQp0WfniCOmpV5WNad4ecEBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE3/Nzg3LTE2MDU0NDg4/MTgtMTY5OS5qcGVn.jpeg) | 1985 | Kitaro | Ancient |
-| 8 | ![Cover](https://i.discogs.com/LHqkxHOmB6g1lkcOSiNu3OA0WOFeEr0_BUC3TbQyfvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzM1/ODQtMTQwOTUzMjM3/Mi02NDMyLmpwZWc.jpeg) | 1987 | Meditation | Meditation |
-| 14 |  | 1989 | Dean Evenson | Ocean Dreams |
-| 34 |  | 1991 | Popol Vuh | Tantric Songs &#x2F; Hosianna Mantra |
-| 10 | ![Cover](https://i.discogs.com/4542dUvFfcB_0zOij2YnUW2OS7rBbtjBzjYhhmzJC58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjA4/ODktMTQwMTkwNzYz/Ni01MzMyLmpwZWc.jpeg) | 1992 | David Parsons | Dorje ling |
-| 87 | ![Cover](https://i.discogs.com/OUnIp6N1RhalTWWTDftKQxV7v__ZcimFhSUG81xIR_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ1/MTUtMTU0OTU0MjIw/My0xNzUwLmpwZWc.jpeg) | 1992 | Karunesh | Heart Chakra Meditation |
-| 61 |  | 1992-09 | Stephan Micus | To the evening child |
-| 42 |  | 1993 | Terry Oldfield | Out of the Depths |
-| 62 |  | 1993-09-01 | Oliver Shanti &amp; Friends | Tai Chi |
-| 6 |  | 1994-06-07 | Hilary Stagg | Feather Light |
-| 100 |  |  | Miraflor | Relaxing Rain Sounds |
-| 68 | ![Cover](https://i.discogs.com/3QM1rSVhYXpUQMA4r5pQibAexpz4v6qXQfxjbM0fJhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzQt/MTIzNDAxNzk1Ny5q/cGVn.jpeg) | 1994 | Meditation | FOOD OF LOVE |
-| 84 |  | 1994 | Suzanne Ciani | Dream Suite |
-| 58 |  | 1994-04-10 | Sheila Chandra | The Zen Kiss |
-| 26 | ![Cover](https://i.discogs.com/6WswrY25A03KOKPjaMweWFNjg5_1zsj81526EgHD_cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Njkw/Ni0xNjgxMjYwNzAw/LTU3NjYuanBlZw.jpeg) | 1995 | Aeoliah | Healing Music For Reiki 1 |
-| 33 |  | 1995 | Nawang Khechog | Karuna |
-| 36 |  | 1996 | Oliver Shanti &amp; Friends | Well Balanced |
-| 86 | ![Cover](https://i.discogs.com/LnqHsENoJHriVPelNw48ESY7IevzcaTkkY9XI_ShDXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA3/NDAtMTQ1NTI2OTc5/MS0yMzkwLmpwZWc.jpeg) | 1996 | Liquid Mind | Spirit |
-| 51 | ![Cover](https://i.discogs.com/UOOmGYGwoc-qmvtOY6PXm7zJMYl39vRqh4LLC13YdBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/OTMtMTI2Njc5MTk5/My5qcGVn.jpeg) | 1998 | Deuter | Reiki - Hands Of Light |
-| 37 |  | 1998-06-29 | Deuter | Nada Himalaya |
-| 50 |  | 1998-10-25 | Deuter | Reiki: Hands of Light |
-| 13 | ![Cover](https://i.discogs.com/BxqhtKbjUBM94rK9nqAs_9e9XSziTOSbrnGE98su4qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NDAtMTMwNzk0Mjkz/Mi5qcGVn.jpeg) | 1999 | Harvey Summers | Feng Shui For Gardens - Fountain Of Dreams |
-| 30 |  | 1999 | Prem Joshua | Sky Kisses Earth |
-| 59 | ![Cover](https://i.discogs.com/y_STQqoMIndzP3_oaQuyqSX_v1Z-jDZ0ta0UWfsiQiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDU1/NTU0LTE2OTMxNjMz/ODAtNTk1Mi5qcGVn.jpeg) | 1999 | Guna Sangah | The Spirit of Reiki |
-| 64 | ![Cover](https://i.discogs.com/VNSG9XsOylydPLmDmdzY2oZzChqAk1sBUtfRcHWEMac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIw/OTc4LTE2MDIwMTM2/MDctNzU1My5qcGVn.jpeg) | 1999 | Russill Paul | Nada Yoga |
-| 74 |  | 1999 | Liquid Mind | Liquid Mind III: Balance |
-| 48 | ![Cover](https://i.discogs.com/6poIvuniKasXUNawpVQCtKUC-_KjZMj47PN47lWJ_go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzE1/MC0xMzMwMzg0ODEz/LmpwZWc.jpeg) | 1999-12-06 | William Orbit | Barber&#39;s Adagio for Strings |
-| 21 | ![Cover](https://i.discogs.com/MKn4mUPdiv5pzxOrENR7nhM46sl0RWxjvo1BfMt97Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njgx/NDAtMTU0NzQ0NDQ5/MS02ODc2LmpwZWc.jpeg) | 2000 | Jonathan Goldman | The Lost Chord |
-| 28 |  | 2000 | Anugama | Shamanic Dream II |
-| 39 |  | 2000 | Anúna | Cynara |
-| 72 | ![Cover](https://i.discogs.com/sSs8ur14Z5XChG1NtlGFIBTDK0TWHiQBfbBU8oZQ4dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzQ3/NzUtMTQ0MzQ2Nzgy/OC02ODE5LmpwZWc.jpeg) | 2000 | Benjy Wertheimer | Soul of the Esraj |
-| 65 |  | 2000-03-28 | Dean Evenson &amp; Li Xiangting | Tao of Healing |
-| 22 |  | 2000-09-28 | Deuter | Sun Spirit |
-| 9 | ![Cover](https://i.discogs.com/IFwMmJmloacFFcyLwgFL-mLGM5M9B0wv9QTyNlYaQMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjgz/OTgtMTI4ODkxNTg2/MS5qcGVn.jpeg) | 2001 | Shastro &amp; Nadama | Reiki Offering |
-| 56 | ![Cover](https://i.discogs.com/kG9UvMib17vnuXI-QesUP46Vavl5nBlg4FKNZ5TBd04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQz/NTMtMTI5MjIzMjQ1/MC5qcGVn.jpeg) | 2001-05-27 | Kamal | Reiki Whale Song |
-| 95 |  | 2001-09-21 | Deuter | Buddha Nature |
-| 27 | ![Cover](https://i.discogs.com/5GRrU9ryZNzdi1Tda06Y7TFS0SPCLX1qRs4ONADEmyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTcy/MzIwLTE2MDExNDg4/ODgtOTEzNi5qcGVn.jpeg) | 2001-11-06 | Llewellyn | Pure Relaxation |
-| 31 | ![Cover](https://i.discogs.com/HwElFdXPfZVgZ8ZLBzXxYe8tsLllW4gweuHmwYhpklU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc3/MjUtMTI5NzcxMzgz/OC5qcGVn.jpeg) | 2001-11-09 | Dean Evenson | Desert Moon Song |
-| 5 | ![Cover](https://i.discogs.com/6pGhYIKaHHQSQchJZ0eXqT52zXvg637PEWc-MT8KZxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDI0/OC0xNjcwMTg5OTg2/LTE5OTQuanBlZw.jpeg) | 2002 | Alanis Morissette | the storm before the calm |
-| 20 | ![Cover](https://i.discogs.com/9jxPs99cWgscSy4Gnjgp7cRsJvtWjPK2acU_eYNqLME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI3/MjI2LTE1OTQ4MTY4/NTAtNDU4NS5qcGVn.jpeg) | 2002 | Dean Evenson &amp; Li Xiangting | Tao Of Peace |
-| 44 |  | 2002 | Chinmaya Dunster | Sacred Temples of India |
-| 57 | ![Cover](https://i.discogs.com/dImyg3C-7ejixOiPj4SO04ZYHAKU8WL5HCWGllJxAAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU4/MTEyLTE1Mjc0NzI1/NzUtNTMyMS5qcGVn.jpeg) | 2002-02-05 | Dean Evenson | Healing Sanctuary |
-| 77 |  | 2002-05-07 | Deva Premal | Embrace |
-| 81 |  | 2002-06 | Snatam Kaur | Prem |
-| 91 | ![Cover](https://i.discogs.com/3_KTvHkueQDbqfsuHMP683vth5NGgtsKXzcdFFlI1Ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDM1/OS0xMTA5ODY3OTQx/LmpwZw.jpeg) | 2002-08-06 | Deuter | Like the Wind in the Trees |
-| 35 | ![Cover](https://i.discogs.com/WvmEJG56W9pthnZqTtdS1D1tVX3n77hCc8WKoGNhAzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYz/MjAzLTE2MjMyNjM3/MzItNzEyOS5qcGVn.jpeg) | 2003 | Marc Antoine | Mediterraneo |
-| 66 | ![Cover](https://i.discogs.com/Oo0iLh9-q6hbMi3d_e5RzajslW5-1efmJ-WkTm7ALdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTY3/MDMzLTE2MjY4MjQ2/OTAtNjcwNC5qcGVn.jpeg) | 2003 | Dean Evenson &amp; Soundings Ensemble | Eagle River |
-| 71 | ![Cover](https://i.discogs.com/cqilbMlYGQVSzNZg_JT1gv0o3DSGZO24WgsXS4t14qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjMw/NDYtMTM0MTc4MTI0/NC05MjI5LmpwZWc.jpeg) | 2003 | Ben Leinbach | The Spirit of Yoga |
-| 23 |  | 2003-06-20 | Snatam Kaur | Shanti |
-| 43 |  | 2003-10-27 | Manish Vyas | Sattva - The Essence Of Being |
-| 89 | ![Cover](https://i.discogs.com/q-X84mikVXDDKURRnEb3Xnxx33wH5HCNOSo9PVAGzPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/MTk2LTE3MDc0NjQ2/MjYtNjk0MS5qcGVn.jpeg) | 2003-11-07 | Deuter | Earth Blue |
-| 12 | ![Cover](https://i.discogs.com/G0natbl-xVvo76RB_bKGfhE4r8_WU16pHJRx6q2WR6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ4/MTkzLTE1ODU5OTky/NjYtNjU3MS5qcGVn.jpeg) | 2004 | Gerald Jay Markoe | Meditation Music of Ancient Egypt |
-| 29 |  | 2004 | Terra Ambient | The Gate |
-| 90 | ![Cover](https://i.discogs.com/nK-2LUl3BNuSBhSkQW2sSD4TwtxodfYNqf3CAR5RCJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mzky/NDYtMTM5MzM3Nzk3/Ni0zOTEwLmpwZWc.jpeg) | 2004 | Shajan | The Healing Touch: Music for Reiki &amp; Meditation, Volume 2 |
-| 3 | ![Cover](https://i.discogs.com/8at6dTE7FqRQvdBg1zo-BxzmYt9b7sRWypnZKtybV8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIx/MDUtMTE4NzI4Mjc0/Ni5qcGVn.jpeg) | 2004-01-31 | Donna De Lory | The Lover &amp; the Beloved |
-| 85 | ![Cover](https://i.discogs.com/GSgDfhxq3gczHAM95g5O0fBcZCyG8p99o4DCELyQDUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA3/MzYtMTQ4OTkzMzg4/Mi02OTM4LmpwZWc.jpeg) | 2004-03-02 | Parijat | Buddha Garden |
-| 55 | ![Cover](https://i.discogs.com/a8DsIQQ9y4ADvYosxA2aS2kD3MkL_vsvuoWUBpCl4Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDky/MC0xMzk2MjAwNDU0/LTI3NTUuanBlZw.jpeg) | 2004-05-03 | Hagalaz&#39; Runedance | Volven &#x2F; Urd - That Witch Was |
-| 92 |  | 2004-05-11 | Karunesh | Call of the Mystic |
-| 70 | ![Cover](https://i.discogs.com/TtiLif169z5Hi2WLNxHvZfUsayBEim2SauiUvD-bTYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc5/MjEtMTI3OTkxNzYw/NS5qcGVn.jpeg) | 2004-06-08 | Terry Oldfield | Yoga Harmony |
-| 96 |  | 2004-10-03 | Snatam Kaur | Grace |
-| 76 |  | 2004-10-05 | Jami Sieber | Hidden Sky |
-| 49 | ![Cover](https://i.discogs.com/-3AW2dQfRKd_r1CgC0b5BddvW_DMGRkCaUkYKN0UWc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTg4/MDE5LTE2MjAxNDIx/MDQtOTkyNy5qcGVn.jpeg) | 2004-11-30 | Prem Joshua | Yatri |
-| 15 | ![Cover](https://i.discogs.com/6UhEO5d5y4lzNt5ObVaPLGoYGzJauN4smUyli0WkoXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTM1/NC0xNDA1NjI3ODkx/LTM3MjAuanBlZw.jpeg) | 2005 | Tony Scott | Music For Zen Meditation And Other Joys |
-| 4 | ![Cover](https://i.discogs.com/1Su3eifeRvVLFDmmxXj4QL5KZVt1FUz9Y3qifhCOYVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjI3/MTYtMTQwMDkxMjc0/OS00MDE4LmpwZWc.jpeg) | 2005-10-11 | Jonathan Goldman | Frequencies Sounds Of Healing |
-| 80 | ![Cover](https://i.discogs.com/C4AAGfHmXZTkV4BV7V0WOp1LX8ExD8QhI3RLcHoP_8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI2/ODItMTI3MDE1NTY2/My5qcGVn.jpeg) | 2005-10-18 | Deuter | East of the Full Moon |
-| 40 |  | 2006 | Rudy Adrian | MoonWater |
-| 67 |  | 2006 | Danny Becher | Touched By Sound |
-| 82 | ![Cover](https://i.discogs.com/OKUXWbhnvQprGWucAL9SUdTQZ4JUV5j8DhUV8NgYu3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA2/OTQwLTE2MjAyNjI1/NjMtMjM1Ni5wbmc.jpeg) | 2006 | Satkirin Kaur Khalsa | Lightness of Being |
-| 24 | ![Cover](https://i.discogs.com/EMgfGClsXY3VFhZB1uKp2gObeLiAtR61auj2gHK8djk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/MTg4LTE2MDAzNjM4/NzMtODY3Mi5qcGVn.jpeg) | 2006-02-06 | Akshara Weave | The 10 Minute Chakra |
-| 97 |  | 2007-02-20 | Anthony B | Higher Meditation |
-| 53 |  | 2007-03-12 | Aeoliah | Divinaura |
-| 54 |  | 2007-03-20 | Rasa | Saffron Blue |
-| 93 |  | 2007-04-10 | Chinmaya Dunster | Buddha Moon |
-| 52 |  | 2007-04-11 | Lou Reed | Hudson River Wind Meditations |
-| 18 | ![Cover](https://i.discogs.com/2uXVDPzstY_DWklTMnlDFFoMVpdJx4b62kVXVO540KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE0/Mjg0LTE3MjQ2Mjc4/ODQtODc1NC5qcGVn.jpeg) | 2007-05-21 | Monjes Budistas | Sakya Tashi Ling |
-| 16 | ![Cover](https://i.discogs.com/iE4zSe5kxG0xqjQ927oaM1qMNW4Ak2zpC0RbgOHNbRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk2/NTAtMTE5Mjc0MDM2/My5qcGVn.jpeg) | 2007-09-28 | Hexperos | Garden Of The Hesperides |
-| 19 | ![Cover](https://i.discogs.com/yuor-SUJ6Kiq4Wvju1TLLAjWMzpgF8nQWQSqRULwIo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/MzQtMTI4MDEzNDY0/OS5qcGVn.jpeg) | 2008-12-19 | Frozen Silence | Sky |
-| 60 |  |  | Om Hellenkamp | Rinzai Meets Rumi |
-| 78 |  | 2007-04-24 | Nawang Khechog | Tibetan Meditation Music |
-| 88 | ![Cover](https://i.discogs.com/dcyevlSGfOvd8q7_IDhAU1eXuQW74UQjW0ulJOVVRtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjk1/MzgtMTQ1Mzc3Mjcz/MC0yODE0LmpwZWc.jpeg) | 2008 | Dean Evenson | Chakra Healing |
-| 46 |  | 2009 | Deva Premal | Mantras for Precarious Times |
-| 38 | ![Cover](https://i.discogs.com/2mewyhR4oaEndWtY3uI4m4jUYAxwanBpoS9HAgk_n_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjEw/ODYtMTQzNjQ3NzMy/Ny02NDg0LmpwZWc.jpeg) | 2010-03-02 | Krishna Das | Heart As Wide As the World |
-| 63 | ![Cover](https://i.discogs.com/GzqUuItGufKFJn3gfZw5F-vNe-yWcqblHSOrBzl8OeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzA0/NDQtMTM1NjI5NDUw/OC05NzI2LmpwZWc.jpeg) | 2011 | Steven Halpern | Deep Theta : High Coherence Soundscapes for Meditation and Healing |
-| 17 | ![Cover](https://i.discogs.com/bFYuWidwnMGBvAy8rb8N_VY1lHamjO2MRHBadCDNnfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzIx/ODAtMTMwMzIxMDA0/MC5qcGVn.jpeg) | 2011-02-18 | Elane | Arcane |
-| 11 | ![Cover](https://i.discogs.com/yQB_4TTcZWtodPQpeYfaHtaltm1TXqryg0emkvuVGXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI3/NTc2LTE2MTM5NDgw/NjEtODUzOC5qcGVn.jpeg) | 2013 | Parijat | Offerings |
-| 7 | ![Cover](https://i.discogs.com/SuDpulFUUM0gAT31joo05DqdTop_Lu1poaHmjUB_DgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk3/MTAwLTE0OTE1NjAz/NDEtNjkxNS5qcGVn.jpeg) | 2013-06 | Steven Halpern | Deep Alpha: Brainwave Synchronization for Meditation and Healing |
-| 41 | ![Cover](https://i.discogs.com/5lVk7zOqiYkFNE7T_TMFTRTMNMKAJm9KfGpKXgx8RPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/OTQ1LTE2NjM1NzA2/ODUtMTYxOC5qcGVn.jpeg) | 2015 | Feng Shui | Sacred Space |
-| 47 |  | 2016 | Theo Croker | Escape Velocity |
-| 69 | ![Cover](https://i.discogs.com/IGJVPgLJuS0nYTF-SqlUf9gUlkNHY4iD7gcchiz4u4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE4/MDU1LTE2OTY3Njk0/ODktNDcyOS5qcGVn.jpeg) | 2023-10-06 | Mary Lattimore | Goodbye, Hotel Arkada |
-| 75 |  |  | Parasme | Chakra Meditation |
-| 1 | ![Cover](https://i.discogs.com/Y11sJ2jBK8bJFwCIqTODEkqKCBrmb3OxX6l1JiPEQ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAy/NjQ1LTE1NDYyNDEy/MTgtOTY3OS5qcGVn.jpeg) | 2017 | Corciolli | Yoga |
-| 98 | ![Cover](https://i.discogs.com/zVjcyJHU5ZFhfuEChQTeedgm9K3RKx-eWhP2ezC4OGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/MzM3LTE2MDQ2ODkw/NzMtMjkwMC5qcGVn.jpeg) | 2020-10-09 | Mary Lattimore | Silver Ladders |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/pPZqLt9cWCwvOhH1v3ZJF9IpyJsL4zAbAsYiehgImhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODk4/ODMtMTU0NDAxOTQx/Ny02MTAxLmpwZWc.jpeg" alt="Cover for 528 Hz Transformation and Miracles (DNA Repair)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1958</td>
+      <td>Miracle Tones</td>
+      <td>528 Hz Transformation and Miracles (DNA Repair)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c276c68a2a6dff0e96c7c34e698434f.png" alt="Cover for Music For Zen Meditation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>Tony Scott</td>
+      <td>Music For Zen Meditation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Various Artists</td>
+      <td>Shanti Project Collection 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/Vl1xHy-8kN7EB5uay1NKLPTAPojRhgeXCOxqEx8CQ-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg5/NTYtMTQ0OTg4NjQz/OC0zMDg1LmpwZWc.jpeg" alt="Cover for Gaia - Onbashira" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979-10</td>
+      <td>Kitaro</td>
+      <td>Gaia - Onbashira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed6f6e1c56d1476b8e216bde6b775f2d.png" alt="Cover for Ancient" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Kitaro</td>
+      <td>Ancient</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/LHqkxHOmB6g1lkcOSiNu3OA0WOFeEr0_BUC3TbQyfvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzM1/ODQtMTQwOTUzMjM3/Mi02NDMyLmpwZWc.jpeg" alt="Cover for Meditation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Meditation</td>
+      <td>Meditation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Dean Evenson</td>
+      <td>Ocean Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/124bf9dedc55eaffbb8d7001c9ee9f84.png" alt="Cover for Tantric Songs &#x2F; Hosianna Mantra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Popol Vuh</td>
+      <td>Tantric Songs &#x2F; Hosianna Mantra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/4542dUvFfcB_0zOij2YnUW2OS7rBbtjBzjYhhmzJC58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjA4/ODktMTQwMTkwNzYz/Ni01MzMyLmpwZWc.jpeg" alt="Cover for Dorje ling" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>David Parsons</td>
+      <td>Dorje ling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/OUnIp6N1RhalTWWTDftKQxV7v__ZcimFhSUG81xIR_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ1/MTUtMTU0OTU0MjIw/My0xNzUwLmpwZWc.jpeg" alt="Cover for Heart Chakra Meditation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Karunesh</td>
+      <td>Heart Chakra Meditation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f40bff51ae884a6ecac75935bd1a04fe.png" alt="Cover for To the evening child" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-09</td>
+      <td>Stephan Micus</td>
+      <td>To the evening child</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b0e5de3713c3dbb496545dfdac64725.png" alt="Cover for Out of the Depths" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Terry Oldfield</td>
+      <td>Out of the Depths</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1993-09-01</td>
+      <td>Oliver Shanti &amp; Friends</td>
+      <td>Tai Chi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/3QM1rSVhYXpUQMA4r5pQibAexpz4v6qXQfxjbM0fJhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzQt/MTIzNDAxNzk1Ny5q/cGVn.jpeg" alt="Cover for FOOD OF LOVE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Meditation</td>
+      <td>FOOD OF LOVE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Suzanne Ciani</td>
+      <td>Dream Suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1994-04-10</td>
+      <td>Sheila Chandra</td>
+      <td>The Zen Kiss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1994-06-07</td>
+      <td>Hilary Stagg</td>
+      <td>Feather Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/6WswrY25A03KOKPjaMweWFNjg5_1zsj81526EgHD_cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Njkw/Ni0xNjgxMjYwNzAw/LTU3NjYuanBlZw.jpeg" alt="Cover for Healing Music For Reiki 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Aeoliah</td>
+      <td>Healing Music For Reiki 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Nawang Khechog</td>
+      <td>Karuna</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Oliver Shanti &amp; Friends</td>
+      <td>Well Balanced</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17feff5cdfa46b94c1b98562bd13c8bd.png" alt="Cover for Spirit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Liquid Mind</td>
+      <td>Spirit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/UOOmGYGwoc-qmvtOY6PXm7zJMYl39vRqh4LLC13YdBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/OTMtMTI2Njc5MTk5/My5qcGVn.jpeg" alt="Cover for Reiki - Hands Of Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Deuter</td>
+      <td>Reiki - Hands Of Light</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>1998-06-29</td>
+      <td>Deuter</td>
+      <td>Nada Himalaya</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>1998-10-25</td>
+      <td>Deuter</td>
+      <td>Reiki: Hands of Light</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54e8f2bf4ebedfdd80884042a9e80510.png" alt="Cover for Sky Kisses Earth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Prem Joshua</td>
+      <td>Sky Kisses Earth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/BxqhtKbjUBM94rK9nqAs_9e9XSziTOSbrnGE98su4qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI1/NDAtMTMwNzk0Mjkz/Mi5qcGVn.jpeg" alt="Cover for Feng Shui For Gardens - Fountain Of Dreams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Harvey Summers</td>
+      <td>Feng Shui For Gardens - Fountain Of Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fd85a0433a00a284c7193a677f2fe80.png" alt="Cover for The Spirit of Reiki" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Guna Sangah</td>
+      <td>The Spirit of Reiki</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/VNSG9XsOylydPLmDmdzY2oZzChqAk1sBUtfRcHWEMac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIw/OTc4LTE2MDIwMTM2/MDctNzU1My5qcGVn.jpeg" alt="Cover for Nada Yoga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Russill Paul</td>
+      <td>Nada Yoga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Liquid Mind</td>
+      <td>Liquid Mind III: Balance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/6poIvuniKasXUNawpVQCtKUC-_KjZMj47PN47lWJ_go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzE1/MC0xMzMwMzg0ODEz/LmpwZWc.jpeg" alt="Cover for Barber&#39;s Adagio for Strings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-12-06</td>
+      <td>William Orbit</td>
+      <td>Barber&#39;s Adagio for Strings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Anugama</td>
+      <td>Shamanic Dream II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3977d45e0866c7abd17ecbd47dbb5d6f.png" alt="Cover for The Lost Chord" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Jonathan Goldman</td>
+      <td>The Lost Chord</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Anúna</td>
+      <td>Cynara</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be4607ce7c6145f2fb8e34a7dfd1869.png" alt="Cover for Soul of the Esraj" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Benjy Wertheimer</td>
+      <td>Soul of the Esraj</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2000-03-28</td>
+      <td>Dean Evenson &amp; Li Xiangting</td>
+      <td>Tao of Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2000-09-28</td>
+      <td>Deuter</td>
+      <td>Sun Spirit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/IFwMmJmloacFFcyLwgFL-mLGM5M9B0wv9QTyNlYaQMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjgz/OTgtMTI4ODkxNTg2/MS5qcGVn.jpeg" alt="Cover for Reiki Offering" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Shastro &amp; Nadama</td>
+      <td>Reiki Offering</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fabda7ea66d4cc32e9febb1592f0165.png" alt="Cover for Reiki Whale Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05-27</td>
+      <td>Kamal</td>
+      <td>Reiki Whale Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/481878cf6abe0c907c250a609bec00d4.png" alt="Cover for Buddha Nature" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-21</td>
+      <td>Deuter</td>
+      <td>Buddha Nature</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/5GRrU9ryZNzdi1Tda06Y7TFS0SPCLX1qRs4ONADEmyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTcy/MzIwLTE2MDExNDg4/ODgtOTEzNi5qcGVn.jpeg" alt="Cover for Pure Relaxation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-11-06</td>
+      <td>Llewellyn</td>
+      <td>Pure Relaxation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/HwElFdXPfZVgZ8ZLBzXxYe8tsLllW4gweuHmwYhpklU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc3/MjUtMTI5NzcxMzgz/OC5qcGVn.jpeg" alt="Cover for Desert Moon Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-11-09</td>
+      <td>Dean Evenson</td>
+      <td>Desert Moon Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Chinmaya Dunster</td>
+      <td>Sacred Temples of India</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 23</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/6pGhYIKaHHQSQchJZ0eXqT52zXvg637PEWc-MT8KZxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDI0/OC0xNjcwMTg5OTg2/LTE5OTQuanBlZw.jpeg" alt="Cover for the storm before the calm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Alanis Morissette</td>
+      <td>the storm before the calm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/9jxPs99cWgscSy4Gnjgp7cRsJvtWjPK2acU_eYNqLME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI3/MjI2LTE1OTQ4MTY4/NTAtNDU4NS5qcGVn.jpeg" alt="Cover for Tao Of Peace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Dean Evenson &amp; Li Xiangting</td>
+      <td>Tao Of Peace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/dImyg3C-7ejixOiPj4SO04ZYHAKU8WL5HCWGllJxAAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU4/MTEyLTE1Mjc0NzI1/NzUtNTMyMS5qcGVn.jpeg" alt="Cover for Healing Sanctuary" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-02-05</td>
+      <td>Dean Evenson</td>
+      <td>Healing Sanctuary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2002-05-07</td>
+      <td>Deva Premal</td>
+      <td>Embrace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2002-06</td>
+      <td>Snatam Kaur</td>
+      <td>Prem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11dacafa4cc506ec27fec2d5f746795f.png" alt="Cover for Like the Wind in the Trees" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-06</td>
+      <td>Deuter</td>
+      <td>Like the Wind in the Trees</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/WvmEJG56W9pthnZqTtdS1D1tVX3n77hCc8WKoGNhAzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYz/MjAzLTE2MjMyNjM3/MzItNzEyOS5qcGVn.jpeg" alt="Cover for Mediterraneo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Marc Antoine</td>
+      <td>Mediterraneo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 44</li>
+            <li> <a href="{{ "/tags/world-guitar" | relative_url }}">world guitar</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18f7b144e83340e090c948380f1a4ed5.png" alt="Cover for The Spirit of Yoga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Ben Leinbach</td>
+      <td>The Spirit of Yoga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/Oo0iLh9-q6hbMi3d_e5RzajslW5-1efmJ-WkTm7ALdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTY3/MDMzLTE2MjY4MjQ2/OTAtNjcwNC5qcGVn.jpeg" alt="Cover for Eagle River" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Dean Evenson &amp; Soundings Ensemble</td>
+      <td>Eagle River</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17767a7781274423af548e096c36c272.png" alt="Cover for Shanti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-06-20</td>
+      <td>Snatam Kaur</td>
+      <td>Shanti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2003-10-27</td>
+      <td>Manish Vyas</td>
+      <td>Sattva - The Essence Of Being</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f60be290fe5f4057b4a47fc9c464fe68.png" alt="Cover for Earth Blue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-07</td>
+      <td>Deuter</td>
+      <td>Earth Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Terra Ambient</td>
+      <td>The Gate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 20</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 69</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 78</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 84</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 89</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 92</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/G0natbl-xVvo76RB_bKGfhE4r8_WU16pHJRx6q2WR6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ4/MTkzLTE1ODU5OTky/NjYtNjU3MS5qcGVn.jpeg" alt="Cover for Meditation Music of Ancient Egypt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Gerald Jay Markoe</td>
+      <td>Meditation Music of Ancient Egypt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/nK-2LUl3BNuSBhSkQW2sSD4TwtxodfYNqf3CAR5RCJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mzky/NDYtMTM5MzM3Nzk3/Ni0zOTEwLmpwZWc.jpeg" alt="Cover for The Healing Touch: Music for Reiki &amp; Meditation, Volume 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Shajan</td>
+      <td>The Healing Touch: Music for Reiki &amp; Meditation, Volume 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/110d72343aa240f7c01d26293d28db07.png" alt="Cover for The Lover &amp; the Beloved" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-31</td>
+      <td>Donna De Lory</td>
+      <td>The Lover &amp; the Beloved</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66717ee6e1af407b8dc5a0bfa509a901.png" alt="Cover for Buddha Garden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-02</td>
+      <td>Parijat</td>
+      <td>Buddha Garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/a8DsIQQ9y4ADvYosxA2aS2kD3MkL_vsvuoWUBpCl4Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDky/MC0xMzk2MjAwNDU0/LTI3NTUuanBlZw.jpeg" alt="Cover for Volven &#x2F; Urd - That Witch Was" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-05-03</td>
+      <td>Hagalaz&#39; Runedance</td>
+      <td>Volven &#x2F; Urd - That Witch Was</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2004-05-11</td>
+      <td>Karunesh</td>
+      <td>Call of the Mystic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/TtiLif169z5Hi2WLNxHvZfUsayBEim2SauiUvD-bTYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc5/MjEtMTI3OTkxNzYw/NS5qcGVn.jpeg" alt="Cover for Yoga Harmony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-06-08</td>
+      <td>Terry Oldfield</td>
+      <td>Yoga Harmony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2004-10-03</td>
+      <td>Snatam Kaur</td>
+      <td>Grace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2004-10-05</td>
+      <td>Jami Sieber</td>
+      <td>Hidden Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b80f480b4cf25aa80700c58c305cd182.png" alt="Cover for Yatri" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11-30</td>
+      <td>Prem Joshua</td>
+      <td>Yatri</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/6UhEO5d5y4lzNt5ObVaPLGoYGzJauN4smUyli0WkoXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTM1/NC0xNDA1NjI3ODkx/LTM3MjAuanBlZw.jpeg" alt="Cover for Music For Zen Meditation And Other Joys" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Tony Scott</td>
+      <td>Music For Zen Meditation And Other Joys</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 95</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/1Su3eifeRvVLFDmmxXj4QL5KZVt1FUz9Y3qifhCOYVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjI3/MTYtMTQwMDkxMjc0/OS00MDE4LmpwZWc.jpeg" alt="Cover for Frequencies Sounds Of Healing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-11</td>
+      <td>Jonathan Goldman</td>
+      <td>Frequencies Sounds Of Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/C4AAGfHmXZTkV4BV7V0WOp1LX8ExD8QhI3RLcHoP_8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI2/ODItMTI3MDE1NTY2/My5qcGVn.jpeg" alt="Cover for East of the Full Moon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-18</td>
+      <td>Deuter</td>
+      <td>East of the Full Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a7c7d9777f2cf4b030b3b2189335975.png" alt="Cover for MoonWater" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Rudy Adrian</td>
+      <td>MoonWater</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Danny Becher</td>
+      <td>Touched By Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/OKUXWbhnvQprGWucAL9SUdTQZ4JUV5j8DhUV8NgYu3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA2/OTQwLTE2MjAyNjI1/NjMtMjM1Ni5wbmc.jpeg" alt="Cover for Lightness of Being" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Satkirin Kaur Khalsa</td>
+      <td>Lightness of Being</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e5dc4dfb6c4bc59541e7fb7c78c555.png" alt="Cover for The 10 Minute Chakra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-02-06</td>
+      <td>Akshara Weave</td>
+      <td>The 10 Minute Chakra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2007-02-20</td>
+      <td>Anthony B</td>
+      <td>Higher Meditation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 41</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 86</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2007-03-12</td>
+      <td>Aeoliah</td>
+      <td>Divinaura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2007-03-20</td>
+      <td>Rasa</td>
+      <td>Saffron Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56d12efad82f8677eac865f53eec1849.png" alt="Cover for Buddha Moon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-10</td>
+      <td>Chinmaya Dunster</td>
+      <td>Buddha Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9af68ad6891c98d9cdc6be2a9401d3ec.png" alt="Cover for Hudson River Wind Meditations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-11</td>
+      <td>Lou Reed</td>
+      <td>Hudson River Wind Meditations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2007-04-24</td>
+      <td>Nawang Khechog</td>
+      <td>Tibetan Meditation Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/2uXVDPzstY_DWklTMnlDFFoMVpdJx4b62kVXVO540KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE0/Mjg0LTE3MjQ2Mjc4/ODQtODc1NC5qcGVn.jpeg" alt="Cover for Sakya Tashi Ling" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-21</td>
+      <td>Monjes Budistas</td>
+      <td>Sakya Tashi Ling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/iE4zSe5kxG0xqjQ927oaM1qMNW4Ak2zpC0RbgOHNbRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk2/NTAtMTE5Mjc0MDM2/My5qcGVn.jpeg" alt="Cover for Garden Of The Hesperides" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-28</td>
+      <td>Hexperos</td>
+      <td>Garden Of The Hesperides</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 72</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/dcyevlSGfOvd8q7_IDhAU1eXuQW74UQjW0ulJOVVRtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjk1/MzgtMTQ1Mzc3Mjcz/MC0yODE0LmpwZWc.jpeg" alt="Cover for Chakra Healing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Dean Evenson</td>
+      <td>Chakra Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/yuor-SUJ6Kiq4Wvju1TLLAjWMzpgF8nQWQSqRULwIo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/MzQtMTI4MDEzNDY0/OS5qcGVn.jpeg" alt="Cover for Sky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12-19</td>
+      <td>Frozen Silence</td>
+      <td>Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 79</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 85</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 86</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Deva Premal</td>
+      <td>Mantras for Precarious Times</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3af29ce4cf7435bc37c4ec49c2d9edc.png" alt="Cover for Heart As Wide As the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-02</td>
+      <td>Krishna Das</td>
+      <td>Heart As Wide As the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/GzqUuItGufKFJn3gfZw5F-vNe-yWcqblHSOrBzl8OeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzA0/NDQtMTM1NjI5NDUw/OC05NzI2LmpwZWc.jpeg" alt="Cover for Deep Theta : High Coherence Soundscapes for Meditation and Healing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Steven Halpern</td>
+      <td>Deep Theta : High Coherence Soundscapes for Meditation and Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/bFYuWidwnMGBvAy8rb8N_VY1lHamjO2MRHBadCDNnfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzIx/ODAtMTMwMzIxMDA0/MC5qcGVn.jpeg" alt="Cover for Arcane" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-02-18</td>
+      <td>Elane</td>
+      <td>Arcane</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 33</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 63</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e5f1150c2634710b968ed63ddb46ca6.png" alt="Cover for Offerings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Parijat</td>
+      <td>Offerings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/SuDpulFUUM0gAT31joo05DqdTop_Lu1poaHmjUB_DgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk3/MTAwLTE0OTE1NjAz/NDEtNjkxNS5qcGVn.jpeg" alt="Cover for Deep Alpha: Brainwave Synchronization for Meditation and Healing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06</td>
+      <td>Steven Halpern</td>
+      <td>Deep Alpha: Brainwave Synchronization for Meditation and Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/5lVk7zOqiYkFNE7T_TMFTRTMNMKAJm9KfGpKXgx8RPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/OTQ1LTE2NjM1NzA2/ODUtMTYxOC5qcGVn.jpeg" alt="Cover for Sacred Space" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Feng Shui</td>
+      <td>Sacred Space</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2016</td>
+      <td>Theo Croker</td>
+      <td>Escape Velocity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 39</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 68</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 81</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/Y11sJ2jBK8bJFwCIqTODEkqKCBrmb3OxX6l1JiPEQ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAy/NjQ1LTE1NDYyNDEy/MTgtOTY3OS5qcGVn.jpeg" alt="Cover for Yoga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Corciolli</td>
+      <td>Yoga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21303c752b66e68cb0cf95fd8d76be59.png" alt="Cover for Silver Ladders" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-09</td>
+      <td>Mary Lattimore</td>
+      <td>Silver Ladders</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 59</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 73</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae16d035635912b40d64eab43650c56.png" alt="Cover for Goodbye, Hotel Arkada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-10-06</td>
+      <td>Mary Lattimore</td>
+      <td>Goodbye, Hotel Arkada</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcbaeb01b2821b2939770bc09fe7800b.png" alt="Cover for ジャングル" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>地球</td>
+      <td>ジャングル</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Om Hellenkamp</td>
+      <td>Rinzai Meets Rumi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Parasme</td>
+      <td>A Stream Meditation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Chuck Jonkey &#x2F; Sonic Safari Productions</td>
+      <td>Tibetan Singing Bowls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Parasme</td>
+      <td>Chakra Meditation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Miraflor</td>
+      <td>Relaxing Rain Sounds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sounds of Nature White Noise for Mindfulness Meditation and Relaxation</td>
+      <td>Nature Sounds Relaxation and Tibetan Chakra Meditation - Music for Relaxation Meditation, Deep Sleep, Studying, Healing Massage, Spa, Sound Therapy, Chakra Balancing, Baby Sleep and Yoga</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

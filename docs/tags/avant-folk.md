@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:42:07.171Z
+date: 2025-11-19T02:24:20.515Z
 permalink: tags/avant-folk
 title: avant-folk
 ---
 
 ## avant-folk
 
-Last updated: <time datetime="2025-11-15T01:42:07.171Z">Sat Nov 15 2025 03:42:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T02:24:20.515Z">Wed Nov 19 2025 04:24:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,12 +43,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 22</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54d97e4f2717582c9d8f468733443a57.png" alt="Cover for Starsailor" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/458bca87b19e5c69007a33153ee74333.png" alt="Cover for Lorca" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td>1973</td>
@@ -126,7 +126,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tVaJUgFaK6MH9ABLkbpBg5YwyIzbU88y7p4Romvm6rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY4/NTgtMTQ1Mzg0MzI2/NC01MTA2LmpwZWc.jpeg" alt="Cover for Zarthus" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/lDzoScb66aQWpQl7HVGV1dyElnR4V1HVLQ-36bKoAeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTU2/MDItMTYyMDY4MTkx/OS05Mjk2LmpwZWc.jpeg" alt="Cover for The End..." style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/5wfCE09u5delo-P5UgKFN9Tyw56Rcv-jZI3DMx64tU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMz/OS0xNjIyODkyOTQz/LTIyMTcuanBlZw.jpeg" alt="Cover for The End" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +183,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fa5124a300ffb5b33b7671e9fe7692c.png" alt="Cover for Maison rose" style="max-width:120px; height:auto;" />
       </td>
@@ -225,15 +225,15 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 50</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 52</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 64</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 76</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>1985</td>
@@ -271,13 +271,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 15</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 16</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1989-09-01</td>
@@ -296,13 +296,14 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       <td>
         <ul>
             <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 24</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/651dafe918304d4b55172b04940815c1.png" alt="Cover for Into the Heart Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Woo</td>
@@ -319,14 +320,14 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 14</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 30</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 19</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 33</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/m3Uv18EE5IsVhdLnTO5eRGtTopKwdWO9RbsvO0wO0b0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTI5/NC0xMzY3NzQ1ODI5/LTYwMTkuanBlZw.jpeg" alt="Cover for Thirteen Masks" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +348,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/421648c51cdbb4c8092340631a02a942.png" alt="Cover for Hi How Are You" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +365,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a4e779e56374524c5442e7e8d5049f6.png" alt="Cover for The Emotional Plague" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +388,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
       </td>
       <td>1996</td>
@@ -405,7 +406,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e61269a85d7c3f2d6817d91f910ba041.png" alt="Cover for Bad Timing" style="max-width:120px; height:auto;" />
       </td>
@@ -422,13 +423,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 27</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 96</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/MwnJ4hNmM0wT6VBTCnXn9qTAgkCwbfaVynhj3yM17V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY3/NTktMTI3NDcxNTQ3/MS5qcGVn.jpeg" alt="Cover for Hungry Ghosts - Self Titeld" style="max-width:120px; height:auto;" />
       </td>
@@ -446,12 +447,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 10</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/MwnJ4hNmM0wT6VBTCnXn9qTAgkCwbfaVynhj3yM17V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY3/NTktMTI3NDcxNTQ3/MS5qcGVn.jpeg" alt="Cover for Hungry Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -469,12 +470,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 11</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/-BVWbTTQ-MGTDwRkvIGtjh91LYVuoGOX2HnOZU1XLCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/Mi0xNTM2NzYzMDYw/LTI3NjUuanBlZw.jpeg" alt="Cover for Uniko" style="max-width:120px; height:auto;" />
       </td>
@@ -494,9 +495,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/w8TxvfUF2RYcjXHYwHRQefMUWS1XgnSBqp_AKFDKbig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTU1/NjItMTQ5NTg1NzM5/Mi02MDU2LmpwZWc.jpeg" alt="Cover for 1st Imaginary Symphony for Nomad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fb7bb52bb17f51a015b7a29285afcc8.png" alt="Cover for 1st Imaginary Symphony for Nomad" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-07-06</td>
       <td>The Music Tapes</td>
@@ -510,13 +511,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 59</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 78</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 60</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
       </td>
       <td>2000</td>
@@ -528,13 +529,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 25</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 26</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bd65c0d5c871a628f79171cba57816.png" alt="Cover for Myloveilove" style="max-width:120px; height:auto;" />
       </td>
@@ -555,14 +556,14 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 53</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 56</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 64</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/K-uG9omx43bLPTOLt7Gavfvi64HT0xpcUsvGUjLWnMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDEx/MS0xMTY1MDA4OTYz/LmpwZWc.jpeg" alt="Cover for Back Porch Hillbilly Blues Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +586,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc535cdf394b6494103c9785fe3ea2e8.png" alt="Cover for Black With Green Leaves" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +605,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a5742fb8f414d689ee889c7cd271ce3.png" alt="Cover for Kluster" style="max-width:120px; height:auto;" />
       </td>
@@ -636,12 +637,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 82</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
       </td>
       <td>2003-02-03</td>
@@ -661,8 +662,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2555228488c6ddd1aa7ac1623353bd74.png" alt="Cover for Fag Patrol" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-27</td>
       <td>Xiu Xiu</td>
@@ -678,7 +680,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>2003-09-03</td>
@@ -696,9 +698,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/767f651cb8fc3ebdeeb9ee167ff226ce.png" alt="Cover for Sung Tongs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b636decc2e8922887e0987373421e626.png" alt="Cover for Sung Tongs" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05-03</td>
       <td>Animal Collective</td>
@@ -710,7 +712,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 34</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 35</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 93</li>
         </ul>
@@ -741,7 +743,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6eaa80f53605ab912dcc1774af20fb0.png" alt="Cover for Stories for Owls" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +764,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
       </td>
       <td>2005-02-11</td>
@@ -776,10 +778,10 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 25</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 35</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 36</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 42</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -803,7 +805,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006</td>
@@ -842,7 +844,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006-06-27</td>
@@ -860,7 +862,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c46b35807fc441bfba653140e595b38e.png" alt="Cover for Failing songs" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +881,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/3xFLNA9EFjWHvawAijXJFYi9KEWf2goT4barOpO4Qng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkw/ODUtMTIzOTc5NTQ1/OS5qcGVn.jpeg" alt="Cover for David Thomas Broughton vs. 7 Hertz" style="max-width:120px; height:auto;" />
       </td>
@@ -897,13 +899,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 20</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 22</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/-ExlbfcBi6bYmGU_opeqh8ada_QuyW8wbS9vV5arPAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEz/NTEtMTIzODY4MDk2/OS5qcGVn.jpeg" alt="Cover for Red State" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +924,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
       </td>
       <td>2007-01</td>
@@ -936,12 +938,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 14</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/6wRBE9-IrqosW_Gu5o5nKvaRe48m_4yoS7jIuynoORk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI2/NDYtMTUwOTUzMjQ0/OC0zNTU4LmpwZWc.jpeg" alt="Cover for Pullhair Rubeye" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +961,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
       </td>
       <td>2007-05-23</td>
@@ -977,7 +979,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/GzuTQZEjKIGRIMUpUubfAxhvezlZFWdrjRQQLRTpH7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ3/NDctMTIxMzE0NDcz/My5qcGVn.jpeg" alt="Cover for The Door Into Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +1001,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/7cEOfznc4IHPiiMfn4NChu627Lh7_HVjj3hktOkawyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU0/MDctMTM1NzA2Nzcz/Ny01OTM4LmpwZWc.jpeg" alt="Cover for Knell" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1020,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/RFYfvwXFVvD2hQxAx-ejIzSlxX56GpIPNsDu8kqDbRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjk0/OTctMTI4MzU4MjA4/MC5qcGVn.jpeg" alt="Cover for Sushi &amp; Coca" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1038,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
       </td>
       <td>2008-11</td>
@@ -1053,7 +1055,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/BtkA_XSkzM345JnS7qzE1t-UdPcwgdsKklJNR1dSuh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA5/NjQtMTI2NTcxNjg2/OS5qcGVn.jpeg" alt="Cover for Wooden Veil" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1078,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a181b391646ae6f86164c1cd4a770fcd.png" alt="Cover for Sung Tongs (Live at the Theatre at Ace Hotel)" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1101,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d519d9d23b24f72ddde0b4bb49faa6.png" alt="Cover for Daughter of Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1122,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/416afe11bef827b71f0a0af9f934ef60.png" alt="Cover for Divorce Lawyers I Shaved My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,10 +1131,6 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       <td>Divorce Lawyers I Shaved My Head</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
@@ -1143,7 +1141,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa32b619fb264aa0ad63115bc1bacefd.png" alt="Cover for Strange Tourist" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1162,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53547bef95db4f0acf999af55210a984.png" alt="Cover for No Becoming" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1201,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/NgAnOXE_Th5F4uDexyq8z2YEwDxAebKGFsNBHuFVXDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUx/MzEtMTMyMzc5NTUx/OC5qcGVn.jpeg" alt="Cover for Pacarina" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,7 +1223,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/E2dF_blhF7dlrMX5OozlfZH95uU-WbJFp5duZjdLQNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA0/OTktMTM1MDIzMDE5/MC04NzE2LmpwZWc.jpeg" alt="Cover for Ancient Patience Wills It Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,12 +1240,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca10d9d3b586fad465db183f93acf6c.png" alt="Cover for 2012" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,8 +1264,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa529262626f9a61f5ffb489ea388899.png" alt="Cover for Verse of Birds" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-01</td>
       <td>Richard Skelton</td>
@@ -1285,7 +1284,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc02a27a80c43aec30c94a9d847eff4.png" alt="Cover for For The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,7 +1306,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7494c9ce6859b64cddb71a6768bec012.png" alt="Cover for 0" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,9 +1327,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/55tidP2SQAu3uzlNf5EiEdxRlpa6gGduHlBJuRIPW94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTI4/OTktMTQxMzg1OTcz/OS0xOTQ5LmpwZWc.jpeg" alt="Cover for The Outside Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa96dd83891b4bfca3abccd181f52e9c.png" alt="Cover for The Outside Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-21</td>
       <td>Weyes Blood</td>
@@ -1342,12 +1341,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83a9336af4ba4b4bcb3a9ddc42111655.png" alt="Cover for Nothing Important" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1364,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec80425c272649b4c9ceac414749eb55.png" alt="Cover for Sauna" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,9 +1384,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/9bdvRuxd-OsRG5hgcaTp9yjGRkhRY0gOdFATIJwHr98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODgz/ODYtMTQyNjYzMzA4/Mi04MzEwLmpwZWc.jpeg" alt="Cover for Metalepsis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/310d6e7e3f5be2943c64c7ab702afee0.png" alt="Cover for Metalepsis" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-24</td>
       <td>Eartheater</td>
@@ -1405,14 +1404,14 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 55</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 57</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 57</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0578a8ad88d845acac795a47a0423a72.png" alt="Cover for Crippling Lack" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,12 +1427,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 7</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/6BPp8hP05BSOuyoHVrlpHlfD5wfuw3h_w9yuDlGO0d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzY3/My0xNDEzNDgzMTg4/LTMyMzUuanBlZw.jpeg" alt="Cover for Born Into The Waves" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1451,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbada71ff1b507cde53b28a9fb18000e.png" alt="Cover for Peasant" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1471,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/S81PuJFtFLR4UFs-umTyIvMLqRxWQeHvpkm8kUe41EI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/NjQzLTE1MzE5MTgw/OTgtODIzOS5qcGVn.jpeg" alt="Cover for Konata Kanata" style="max-width:120px; height:auto;" />
       </td>
@@ -1490,29 +1489,30 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/GPKoEo7nYiciFfr3ZDllabOdUEK3ytMGPx0lbPBmvBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY5/NDYwLTE1NDM1MjE4/NjItNzkwNC5qcGVn.jpeg" alt="Cover for Kagayaki" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21dd5ebf6bf8e77a59a04022a5fdcbc2.png" alt="Cover for Mahoroboshiya" style="max-width:120px; height:auto;" />
       </td>
-      <td>2018-11-21</td>
-      <td>Masakatsu Takagi</td>
-      <td>Kagayaki</td>
+      <td>2018-10-24</td>
+      <td>Ichiko Aoba</td>
+      <td>Mahoroboshiya</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 55</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 77</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/mWLBjCUiIvsTtHMwPxTMMGnG6vm2nofiMZedR2MFB_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI3/MDQ1LTE1NDg2MDE3/MTEtODI0MS5qcGVn.jpeg" alt="Cover for Eat Men Eat" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,9 +1532,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/efC0BKpBF7kVcJcDaIvxlLDpZYqStUdPZPZx3UkDZSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE1/NzEyLTE1NjgxMzQ4/NTQtMjAwMi5qcGVn.jpeg" alt="Cover for Valley Of The Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69735555535cecae6f1d44840b268f87.png" alt="Cover for Valley Of The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-19</td>
       <td>Hayden Pedigo</td>
@@ -1552,7 +1552,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/mOhrrtuJM8vRo6_Gosw33VMVInfRipBrHWc7w59x728/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk4/MTM2LTE1ODc5ODMy/ODYtMzQ0MS5wbmc.jpeg" alt="Cover for Pies sobre la tierra" style="max-width:120px; height:auto;" />
       </td>
@@ -1571,14 +1571,14 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 9</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 49</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e6dedf21881c3730ed2ca6ac0602bd1.png" alt="Cover for Origens Da Luz" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,18 +1619,18 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 80</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 90</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a082034857ba296ecad420d805c6f0.png" alt="Cover for Phoenix: Flames Are Dew Upon My Skin" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,7 +1649,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/v5-rTYT5MHbYjUfcdd61klgilmuuSmBGGK3S_f_qT3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk3/NDU3LTE2MzI4MjY1/MzMtMzc0Mi5qcGVn.jpeg" alt="Cover for eduardo" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1698,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/e5EEH0nj_kTGj-gw9ZanT9hqxi6i0EpqjGZjrBmdVgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc0/NTEzLTE2MjYxNjEy/NzItMTg5My5qcGVn.jpeg" alt="Cover for Será que ahora podremos entendernos" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,16 +1718,16 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 11</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 51</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/R0eky-JE7D0oAyVmZjJOzdNsLwN9SOFHKBobYE64UX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMw/ODE0LTE2NDUzNDQz/MzAtMTEwNS5qcGVn.jpeg" alt="Cover for The Long Count" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a42bc9a26b8a68ef1cf07a897580c8cc.png" alt="Cover for The Long Count" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-16</td>
       <td>Debit</td>
@@ -1744,7 +1744,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/DUQJqCaxkicy9vbb-9k26VqyP1Z3bu5Rq9zQYlqSz-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzgz/MTAzLTE2NDY0MDMz/MzYtMzAyMi5qcGVn.jpeg" alt="Cover for Eyeline" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,14 +1784,14 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 74</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 97</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e44391edb5146647de8a3865917bf2e6.png" alt="Cover for Pripyat" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1809,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/DI1AGULWzOHci6osVEua60Ka5zYZJn3fl5BmcRIiLYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk4/MDIyLTE2NjYzNzE5/MzAtNTYxMy5qcGVn.jpeg" alt="Cover for Se ve desde aquí" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,13 +1826,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 12</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/l1muCzyY1Mpd2s25o77Ze3x-Ahc-SG-Ws0CoYX2uVsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY0/MTg2LTE1NDIxOTc5/OTEtNjU2Mi5qcGVn.jpeg" alt="Cover for If a City Is Set Upon a Hill" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1851,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/sFE76BT2HUDEqHwe56o1Y76k-huMmfGyX_zgZNr7JT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTI2/MTM0LTE2Nzk2NTY1/MDgtNjQwNC5qcGVn.jpeg" alt="Cover for False Lankum" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,7 +1869,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f28be0310c42b0b73b37089b045d05.png" alt="Cover for SAVED!" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,7 +1890,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1234b3683b4e340370ffe3bac476a26e.png" alt="Cover for Nekkuja" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1909,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/2nf381z2qKP4fa-bzEz0bNZJWkDetZi1IDul6aaboaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQw/NTIwLTE3MDExMTgz/NTgtNjYzNC5qcGVn.jpeg" alt="Cover for A time to love, a time to die" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,13 +1922,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 63</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 64</li>
             <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/916da24b5971f7cb3eb03f2d95b63f42.png" alt="Cover for Look Over The Wall, See The Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1946,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/0l2tWBtGZi8QroHt3ZMt7xO8jGzWGx42FP1P_fJckFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTAy/OTQwLTE3MjA1ODA2/NjctNzM2My5qcGVn.jpeg" alt="Cover for Sentir Que No Sabes" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,7 +1966,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4429b9599f03d900be11be7c71ebc301.png" alt="Cover for untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1988,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31bfb9c860a50183ff80f829e04842cd.png" alt="Cover for Night Palace" style="max-width:120px; height:auto;" />
       </td>
@@ -2006,8 +2006,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a9571e56d2bd7873abd7625c999450.png" alt="Cover for The Dance of the Moon and the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>NSB Archive</td>
@@ -2029,7 +2030,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a151a26c2b98a3d9e9774999f8e5bc4.png" alt="Cover for Gongjoong Doduk" style="max-width:120px; height:auto;" />
       </td>
@@ -2043,13 +2044,14 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 37</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 83</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 4</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 40</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22eaec8a53b26e64d91b16e6d453b747.png" alt="Cover for EXCELSIOR" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,12 +2066,12 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/708402b64443bd42fff4d35de1fa4033.png" alt="Cover for Nordic Flora Series, Pt. 6: Outlaw Music" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,13 +2084,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 59</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -2106,7 +2108,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad05c50a09c681023844403147eb18eb.png" alt="Cover for Microphones in 2020" style="max-width:120px; height:auto;" />
       </td>
@@ -2115,9 +2117,6 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       <td>Microphones in 2020</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -2133,8 +2132,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
 - [folk]({{ "/tags/folk" | relative_url }})
 - [psychedelic folk]({{ "/tags/psychedelic-folk" | relative_url }})
 - [drone]({{ "/tags/drone" | relative_url }})
-- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [freak folk]({{ "/tags/freak-folk" | relative_url }})
+- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [experimental folk]({{ "/tags/experimental-folk" | relative_url }})
 - [indie folk]({{ "/tags/indie-folk" | relative_url }})
