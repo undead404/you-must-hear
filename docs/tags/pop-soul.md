@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:49:26.854Z
+date: 2025-11-19T11:01:02.651Z
 permalink: tags/pop-soul
 title: pop soul
 ---
 
 ## pop soul
 
-Last updated: <time datetime="2025-11-17T05:49:26.854Z">Mon Nov 17 2025 07:49:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T11:01:02.651Z">Wed Nov 19 2025 13:01:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
   </thead>
   <tbody>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c21e7cd59326db0841fde058b36fd75.png" alt="Cover for Good Timin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -47,12 +47,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 64</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>1964-10-16</td>
@@ -69,7 +69,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4211ea604651da778dee49c3081da53a.png" alt="Cover for Merry Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5db7a6ac37348dcc83eacf7426b615d.png" alt="Cover for Stoned Soul Picnic" style="max-width:120px; height:auto;" />
       </td>
@@ -120,11 +120,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Dt4lmizZPa-AyOhl8nvEe-hiufi7PQMBPOnO5Ppghs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjI0/MjEtMTMyMjg5NTI0/MS5qcGVn.jpeg" alt="Cover for Come To My Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -156,12 +157,31 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 15</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0a21d509e204fb0e8da58e46761cb50.png" alt="Cover for Children of the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Bee Gees</td>
+      <td>Children of the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
       </td>
       <td>1976</td>
@@ -179,7 +199,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/998b8bc4687edb5ad306019c9de62da1.png" alt="Cover for Something &#x2F; Anything?" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +234,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0665b6a59fc80a67fe07e5c58d5a8e5.png" alt="Cover for Compact Command Performances: 18 Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +254,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/aMnFp7ITPzBYXOJRuK_BV7KjaFdgL3u6V2dwbnOG8kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODY5/NTMtMTM3NTUxOTM4/MC0yMjI3LmpwZWc.jpeg" alt="Cover for Ray Parker Jr. Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +272,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7ffe64829d12551ba606bd7d66d5fb1.png" alt="Cover for Lionel Richie" style="max-width:120px; height:auto;" />
       </td>
@@ -267,13 +287,13 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 43</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b26ea06f11c60d10be0f26517265d1.png" alt="Cover for True" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +307,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 3</li>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 35</li>
         </ul>
       </td>
@@ -307,12 +327,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 21</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc9a2ff910fd5401c7aff3c289af3adb.png" alt="Cover for Make It Last Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +349,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4ea3ff684c4770a9b7803ab998c4b34.png" alt="Cover for Older (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -350,12 +370,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 7</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td>1988</td>
@@ -393,7 +413,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/tIqwoW7Jl3Oz685QDjOC4mbw3Km35OrYMwcERspzNBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjM0/NS0xNTIxMTYwODE4/LTE3MzUuanBlZw.jpeg" alt="Cover for Breakaway" style="max-width:120px; height:auto;" />
       </td>
@@ -411,7 +431,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94276c1eaadd869b7b9c74f3e702efc7.png" alt="Cover for The Sound Of... McAlmont &amp; Butler" style="max-width:120px; height:auto;" />
       </td>
@@ -430,7 +450,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d2fa8a7f8e515d95af521c5a5e426d5.png" alt="Cover for Naked" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +473,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fabff4142633848dfbb9783fa9670ba.png" alt="Cover for Nobody Else (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -466,15 +486,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 46</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 73</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 78</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td>1997-02-18</td>
@@ -491,7 +508,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>1997-09</td>
@@ -508,24 +525,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/5Urcm_TJv9Atv8icelk9ZZx7cTB_D2fh5iEv3xGouAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI3/MjMtMTUxNDA1MzE2/MS02NTYzLmpwZWc.jpeg" alt="Cover for The Best of Renée Geyer 1973-1998" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Geyer, Renée</td>
-      <td>The Best of Renée Geyer 1973-1998</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/70zBmC6TSUPdvaiKIcJx20UybxWgKPc0ad-ydvQkwBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE5/NDQtMTM1NDk3Mjk2/NC05MTEzLmpwZWc.jpeg" alt="Cover for Quinteto Ternura" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +543,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fef975b2cf4c416eadee5f765f49ec34.png" alt="Cover for Speakerboxxx&#x2F;The Love Below" style="max-width:120px; height:auto;" />
       </td>
@@ -558,12 +558,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 34</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/qE4JksV6qJn9pA-w5Bv36PAvPeJ_UanzGPHV_wSKbSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDQw/OTgtMTU2MzgyNTMz/MS00MTc0LnBuZw.jpeg" alt="Cover for On" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +582,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Z6WtH0b1ItIbzv9AaD9BRYrCDi0xEUNDTN4KYlbYJ4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDc5/MTYtMTM3MjkyNzcw/My04NDc5LmpwZWc.jpeg" alt="Cover for The Antonelli Orchestra Loves Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -597,12 +597,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 2</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24536532c5c85b558ad71754d33ad42.png" alt="Cover for Young Americans (2016 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -616,13 +616,13 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 2</li>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 10</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 4</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/-HyJ_MqXjdHxgIRj3RVODM9KjiE9p4VPOQuEipEaEpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzEz/NzAtMTU4ODYxNDYy/NS04NjM4LmpwZWc.jpeg" alt="Cover for Sol-Angel &amp; the Hadley St. Dreams (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +671,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a497054df0546eab5053d2c1f26c97f.png" alt="Cover for Incondicional" style="max-width:120px; height:auto;" />
       </td>
@@ -691,7 +691,24 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34aff72699004649a53e78410fc56d6f.png" alt="Cover for Confetti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-08</td>
+      <td>Little Birdy</td>
+      <td>Confetti</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34e04c5626c42a53fd7c0515bef4879e.png" alt="Cover for A Strange Arrangement" style="max-width:120px; height:auto;" />
       </td>
@@ -725,13 +742,13 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 13</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 14</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ec8a5d809164404960003a508587065.png" alt="Cover for Still Here" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +768,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef0fe5aeae8a4e1ccdfc7c9b1b2d9314.png" alt="Cover for The ArchAndroid" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +781,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 30</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -810,6 +827,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 5</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 66</li>
         </ul>
       </td>
@@ -831,7 +849,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 70</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 73</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 83</li>
         </ul>
       </td>
@@ -860,7 +878,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/029e5498e92fae040149ecc67fddf15c.png" alt="Cover for Vows" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +896,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a91e51aa92cd6d547fb04dd81d2b290.png" alt="Cover for Queen of Disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -913,30 +931,13 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       <td>
         <ul>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 57</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 98</li>
             <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 99</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/ocl4MqhcCsyPnQBFVwrOM9GzdKppQLrm-pSB2AGkMSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzAy/NS0xMjUyMzk1NjIz/LmpwZWc.jpeg" alt="Cover for Stay Awhile: I Only Want to Be With You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Springfield, Dusty</td>
-      <td>Stay Awhile: I Only Want to Be With You</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd80b8f9d5ee09c16f1063e27f00699.png" alt="Cover for The Electric Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -952,14 +953,14 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 24</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 37</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 39</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 51</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
       </td>
       <td>2013-09-16</td>
@@ -996,7 +997,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56658ac676244ab6cab3730b88d9a158.png" alt="Cover for Natalie Prass" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1016,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
       </td>
       <td>2015-10-16</td>
@@ -1034,7 +1035,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/eyVNBgdOCozTAtxfiajem9q5GgGl19phEJ_e0PFUvP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzYy/MTMtMTQ3MzY1OTgz/Ny0yMTIwLnBuZw.jpeg" alt="Cover for In Loving Memory of When I Gave a Shit" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1053,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ac8d2aa2fb85f3ea7ad67ac6e381bc.png" alt="Cover for Tonight (2018 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,12 +1068,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 53</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f643880579e4453cad6e5bb6c65662f1.png" alt="Cover for Eccentric Soul: The Capsoul Label" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1161,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/G3a5PEjHVcMSwlubbWxK6FdMjeEFvAjcM5zFtQFlXuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzY3/NjU0LTE1ODEyMDE5/ODItNTA3OS5qcGVn.jpeg" alt="Cover for Transgender Street Legend Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,14 +1198,14 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 43</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 73</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 47</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ODd7DgHFXwdhCUMIg8VwG78OTkMPhnB_cCOEtDYVx1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTY3/NzUtMTQwODkwNDA3/OS04Njk5LmpwZWc.jpeg" alt="Cover for Greatest Hits (Le Cose Non Vanno Mai come Credi)" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1249,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/JftIWDe0fYAO1M0u2EPeC2vs6IxdpsodOITz6kqjwKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg0/MTQ0LTE2Mjc2ODAz/ODgtNTIyNS5qcGVn.jpeg" alt="Cover for Stand For Myself" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1266,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/tcRX0c8LpgyCcBmHo2jN_6M_4yvplkxHwNu0nk8uOiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI2/NzM2LTE2Njk4MDA4/MzctNDgwMi5qcGVn.jpeg" alt="Cover for ingredients" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1284,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/7mYvJmv8P0OSg1qLKdjE3FRSX6NrV_4u8sxdkBpozw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcy/NDg5LTE2MzkyNDcw/MTAtOTgzMC5qcGVn.jpeg" alt="Cover for An Evening With Silk Sonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,12 +1298,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 44</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/7mYvJmv8P0OSg1qLKdjE3FRSX6NrV_4u8sxdkBpozw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcy/NDg5LTE2MzkyNDcw/MTAtOTgzMC5qcGVn.jpeg" alt="Cover for An Evening With Silk Sonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,12 +1317,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 48</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfbc61b2998e287d471663362614b8c6.png" alt="Cover for Play Your Games (feat. Nicole Musoni)" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1349,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/kDcnUGnYdJDcrB5ucshwXIetE06DpkbA8yWTrEbstPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/Njc2LTE3MDE5MDIz/MzQtNjg1MS5qcGVn.jpeg" alt="Cover for Patrona (feat. Rick Ross)" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1376,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/KLWjjL-N1_Lo-1g8i8U6gjBTHxdHyYCGIo1LXZwN8IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/MTM2LTE3MDE4OTg2/MTktNjQ1MS5qcGVn.jpeg" alt="Cover for Patrona" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1403,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/YRjUle4_Fu2HRlwow0Oc1p_TRnZELAkoRjK-4456CQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/ODU5LTE3MDE5MDI3/NDMtNTUzNi5qcGVn.jpeg" alt="Cover for Bills" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1430,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/YRjUle4_Fu2HRlwow0Oc1p_TRnZELAkoRjK-4456CQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/ODU5LTE3MDE5MDI3/NDMtNTUzNi5qcGVn.jpeg" alt="Cover for CEO" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1457,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/kDcnUGnYdJDcrB5ucshwXIetE06DpkbA8yWTrEbstPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/Njc2LTE3MDE5MDIz/MzQtNjg1MS5qcGVn.jpeg" alt="Cover for CEO (feat. Gucci Mane)" style="max-width:120px; height:auto;" />
       </td>
@@ -1483,7 +1484,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/kDcnUGnYdJDcrB5ucshwXIetE06DpkbA8yWTrEbstPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/Njc2LTE3MDE5MDIz/MzQtNjg1MS5qcGVn.jpeg" alt="Cover for Judge Me (feat. A Boogie Wit Da Hoodie)" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,7 +1511,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/7eZzdD3PhFs7wB9xXkDoSno8y3bZdnmova53fyhQXjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/ODk4LTE3MDE5MDI5/NzUtODAxMS5qcGVn.jpeg" alt="Cover for Judge Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1538,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/7eZzdD3PhFs7wB9xXkDoSno8y3bZdnmova53fyhQXjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/ODk4LTE3MDE5MDI5/NzUtODAxMS5qcGVn.jpeg" alt="Cover for Come Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1565,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/kDcnUGnYdJDcrB5ucshwXIetE06DpkbA8yWTrEbstPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMw/Njc2LTE3MDE5MDIz/MzQtNjg1MS5qcGVn.jpeg" alt="Cover for Come Up (feat. Lil Baby)" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1592,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96e78cf4df8819d2ce316819a8d75960.png" alt="Cover for Day Off (feat. Gunna)" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1643,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0b165dd1ce2a736955cd138cfcc0443.png" alt="Cover for I Am Controlled By Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,7 +1663,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/ApFwECaf-J06YHMiZkRvPR70PdWtqGSzX-94YPeYohE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQw/MzM4LTE2ODM3Njc3/NjQtNTI0MC5qcGVn.jpeg" alt="Cover for Form Follows Function" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1685,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1030c109fda7817de00e581aeb0b5f.png" alt="Cover for 4 (The Pink Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,8 +1704,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 27</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 71</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 72</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 96</li>
         </ul>
       </td>
@@ -1725,10 +1726,10 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 19</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 21</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 25</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1748,7 +1749,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 42</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1773,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/qyRYB_ovr0zaJSQXDfPwqQtonjdfX8FVaL2m703kTjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA2/MDg0LTE2ODkxMTI1/NzUtODE5Mi5qcGVn.jpeg" alt="Cover for My Back Was a Bridge For You To Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,34 +1808,31 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 49</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/DMeJq-XE-IRz4IYKf7aUvKOdWSezc7mRPR8ibz4woNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTA3/NDAyLTE3MTA1Mjkx/ODItOTEwMS5qcGVn.jpeg" alt="Cover for In Your Hands" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/859285606b5b72255ad0f5d5a7f68a0f.png" alt="Cover for In Your Hands" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-15</td>
       <td>Halle</td>
       <td>In Your Hands</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 82</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b770b5793b04e3ce835f414e54fc34f.png" alt="Cover for Glovemaker" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,7 +1842,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -1893,7 +1891,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5006fa38494b1cbedbeea45c4732c170.png" alt="Cover for Sensation" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,7 +1910,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1938,7 +1936,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1964,8 +1962,9 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53f17f8e66a7d1ba1e702b4089ddeec1.png" alt="Cover for From the Heart" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gloria Bare</td>
@@ -1982,7 +1981,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1999,7 +1998,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e8a5540595cb10301052f2eb669ac8b.png" alt="Cover for Meaning of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -2017,7 +2016,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2033,7 +2032,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20a49b473ba2cf874bec18ba3971fe8b.png" alt="Cover for Compact Command Performances: 18 Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,7 +2049,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2066,7 +2065,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2082,7 +2081,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>

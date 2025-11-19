@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:34:07.692Z
+date: 2025-11-19T11:00:20.497Z
 permalink: tags/oldies
 title: oldies
 ---
 
 ## oldies
 
-Last updated: <time datetime="2025-11-11T19:34:07.692Z">Tue Nov 11 2025 21:34:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T11:00:20.497Z">Wed Nov 19 2025 13:00:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c18ce10b85d4fddcfc4e190efee9fad.png" alt="Cover for You Made Me Love You" style="max-width:120px; height:auto;" />
       </td>
@@ -47,28 +47,28 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d72d5e4b8e6b15f4d7cc1c587268d34.png" alt="Cover for That&#39;s All" style="max-width:120px; height:auto;" />
       </td>
       <td>1959-03</td>
       <td>Bobby Darin</td>
       <td>That&#39;s All</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 14</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a176905c24a640dfbdf426e5c7b6f29d.png" alt="Cover for Stand by Me" style="max-width:120px; height:auto;" />
       </td>
@@ -82,12 +82,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 64</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e98ae8633274506e2e70ccc470ed31cb.png" alt="Cover for Don&#39;t Play That Song (Mono)" style="max-width:120px; height:auto;" />
       </td>
@@ -105,15 +105,15 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 8</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 10</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 86</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 96</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 12</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 88</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>94</td>
       <td>
       </td>
       <td>1963</td>
@@ -132,7 +132,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91e91a9636604c5194ee71ec4fc48b90.png" alt="Cover for I Will Follow Him" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b209975932eca903275fa6d84f222b5c.png" alt="Cover for Under the Boardwalk" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1af6ace4bf55519c5f1d65440a89ba04.png" alt="Cover for The Very Best of the Everly Brothers" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32107e64da77aaf0ec04487f479b461d.png" alt="Cover for You Don&#39;t Have To Say You Love Me" style="max-width:120px; height:auto;" />
       </td>
@@ -227,7 +227,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a23d55c161fcab7a48ae0bce6f4eb1a.png" alt="Cover for How Does That Grab You?" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +246,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/Z2jlQVDWN8_XsLx3lo6gZltrdDcFFNffDZxvOzPsZFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI3/MzItMTYxMDk5ODU1/OC0yMjI0LmpwZWc.jpeg" alt="Cover for If You Can Believe Your Eyes And Ears" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/SPx6RYHHdpKEheBErMm3GvgwXtQ62Mb0eG69YyNY_QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/MDktMTQ4MDE4Mzcx/Ni0yMjExLmpwZWc.jpeg" alt="Cover for Mercy, Mercy, Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -283,16 +283,15 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/3AU3UULBOrkLr0wSep6GJam7kHBfuzgbWi7QXCtPXuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ1/OTQ3LTE1MTA2OTA5/MzQtOTIzOS5qcGVn.jpeg" alt="Cover for San Francisco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d88f2026985d294d7766f0e84c05696.png" alt="Cover for San Francisco" style="max-width:120px; height:auto;" />
       </td>
       <td>1967-05-04</td>
       <td>Scott McKenzie</td>
       <td>San Francisco</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
         </ul>
       </td>
       <td>
@@ -301,7 +300,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
       </td>
       <td>1967-05</td>
@@ -316,13 +315,13 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 54</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 53</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a039ac4d9ce4d6dcda5f2e48d633592.png" alt="Cover for The Letter" style="max-width:120px; height:auto;" />
       </td>
@@ -341,28 +340,9 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>33</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b12c3094e9ac073eb6e5a101a02f8d82.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1968</td>
-      <td>The Association</td>
-      <td>Greatest Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/4wRpagX8paSYsLT7u2nvjCBnQdZPujjY70JpqnhDXMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njg5/MTQtMTQ1NDYyOTk3/Ni02OTkyLmpwZWc.jpeg" alt="Cover for Snowfall - The Tony Bennett Christmas Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c25b25c24e4a30b5f5a6d050e151e8.png" alt="Cover for Snowfall - The Tony Bennett Christmas Album" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Tony Bennett</td>
@@ -381,7 +361,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15961aa427e44d660c4d22f7d29249df.png" alt="Cover for Dusty... Definitely" style="max-width:120px; height:auto;" />
       </td>
@@ -401,9 +381,9 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/dBLgUNFRGNTZ2zZd2wypDM2B_bXpyaffWaGUSu9Ir5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY0/NDkzLTE1NzkxOTIy/NjktNzU4Mi5qcGVn.jpeg" alt="Cover for If You Can Believe Your Eyes &amp; Ears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb966abda80c2e8211df4e07d1513ab.png" alt="Cover for If You Can Believe Your Eyes &amp; Ears" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>The Mamas &amp; the Papas</td>
@@ -421,7 +401,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/fiQLulx9dGNAlUJ5pL9eDzL9Z14Es4KUNE4Fg_w0tp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY2/NDE5LTE1MjM3NDkx/NzctNDg3Ny5qcGVn.jpeg" alt="Cover for Rhino Hi-Five: Arthur Conley" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +419,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3905f29af9d54b11cb460b551c0bc855.png" alt="Cover for A Christmas Gift for You From Phil Spector" style="max-width:120px; height:auto;" />
       </td>
@@ -461,7 +441,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>1970-03</td>
@@ -478,13 +458,13 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 35</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 83</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 37</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96457f9992614b288a83e3e7cce9765c.png" alt="Cover for Naturally" style="max-width:120px; height:auto;" />
       </td>
@@ -502,7 +482,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/AAEhRXzNAc6qWSnf50DaKdrJU8feEo5ViAeCwLcFM3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDAy/MS0xNTYwMDA3NDk2/LTE5MjAuanBlZw.jpeg" alt="Cover for People Like Us" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +500,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ou2ZR2-Mor3T-V2FEjeAI89wnfeAlG93uDhu2N27mRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTMy/OTgzLTE1MTA0Nzkw/NzQtNDI3OC5qcGVn.jpeg" alt="Cover for Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +520,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a151f2c8ce5b94ae47a7f83721d7f26.png" alt="Cover for Stealers Wheel" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +538,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f46fe8ac8dde30e7d4492b881e63e01a.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +547,6 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       <td>Greatest Hits</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
         </ul>
       </td>
       <td>
@@ -576,7 +555,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/AcaYostr9JtzlhT03ekCUgkvJNS1vFgAbyrWUK8bwFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjIx/MDQtMTQ4MzQ3Njcy/OS0xNzYyLmpwZWc.jpeg" alt="Cover for Dynamite" style="max-width:120px; height:auto;" />
       </td>
@@ -596,7 +575,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f9a3f90c89242e486de42a5b35f7a12.png" alt="Cover for The Hollies&#39; Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +594,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f967cffcebbf4a34ba97cb928704d32e.png" alt="Cover for The Definitive 70&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +612,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Only Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -653,7 +632,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/MARZZVTQHAed-_t-V_E6qtnrzFN88ID0Z44CGhYphGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM4/NTYtMTMwNjMzOTQ4/Ni5qcGVn.jpeg" alt="Cover for Hot Child In The City" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +651,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/4Sofgsz_qQqmGoTNCfG8BJaE7FCfXi_1uroJAf2eRrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzE3/MDItMTIzNTkwODA2/MC5qcGVn.jpeg" alt="Cover for Mary&#39;s Boy Child" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +671,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/DDKCC--wKBT1YOqr5fhFfEY5M7y0E08P_nUbLsEd61E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDQ3/MTMtMTMyNjY2MjM2/My5qcGVn.jpeg" alt="Cover for The World of Nat King Cole" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1188eb75abfa9f5d42ba5202b144845.png" alt="Cover for The World of Nat King Cole" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Nat King Cole</td>
@@ -710,7 +689,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/2mwVl0L2ZVqUahuYVFyfeYFmlONDz5WzCfDAPHkJtD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYy/OTctMTI0OTQ5OTc1/OS5qcGVn.jpeg" alt="Cover for Oh Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +709,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edc6653da57742d6c2bcae0fa5f8d4fd.png" alt="Cover for Needles and Pins" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +750,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1984</td>
@@ -789,13 +768,13 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 21</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 42</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b91f416cd1f4321a0af09de1310f7b6.png" alt="Cover for Greatest Hits (Dutch)" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +793,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1986</td>
@@ -868,6 +847,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +889,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/rYm-V6mAGXZHgZ7e1EsIEvPIBn_0cfk76PDMubt069Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTQ1/MjItMTM3MzE0NjE2/NS05Nzk0LmpwZWc.jpeg" alt="Cover for Good Golly, Miss Molly" style="max-width:120px; height:auto;" />
       </td>
@@ -923,12 +903,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 92</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8db4fd02fc57ed5e60598b425f8d91ca.png" alt="Cover for A Portrait Of..." style="max-width:120px; height:auto;" />
       </td>
@@ -946,7 +926,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cebc7b52d308768ce712a7b91269282f.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +944,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2ad80b696e061a1bb06acbbc589ea77.png" alt="Cover for Come a Little Bit Closer: The Best of Jay &amp; the Americans" style="max-width:120px; height:auto;" />
       </td>
@@ -979,12 +959,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 42</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a55d946f86cabca8dda72f3ff87533a.png" alt="Cover for King of the Road" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,12 +981,32 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 70</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17463b7ea6794ea7b8ef02e7445492ac.png" alt="Cover for The Very Best of the Righteous Brothers: Unchained Melody" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>The Righteous Brothers</td>
+      <td>The Very Best of the Righteous Brothers: Unchained Melody</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
       </td>
       <td>1990</td>
@@ -1023,7 +1023,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5644866f9d4affbdabb538762ce85e.png" alt="Cover for Unchained Melody" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1041,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1de2c43428f4c4e8f3fc1b3ae4d88f0.png" alt="Cover for Summer Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,7 +1078,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22e6a07955b6fc928b3ba76f0286ed43.png" alt="Cover for Daddy Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,21 +1087,17 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       <td>Daddy Cool</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 95</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 53</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2b1b088dcd44449a3234d137f497035.png" alt="Cover for It&#39;s My Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1115,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/wzJ5na9MkKx8vpXY3hFWlREnIGHzhC9TLWAluw46Ez0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODAx/NjEtMTQ2MDgyNTA2/MS02NTQzLmpwZWc.jpeg" alt="Cover for Driving Home for Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1133,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
       </td>
       <td>1992</td>
@@ -1193,7 +1189,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/cQsRUaAFoS3i7DUgVPZlQH6yutxq_YtUdkvbwDPLoO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDU2/MS0xMjA4ODg3NDEw/LmpwZWc.jpeg" alt="Cover for Coverdale &amp; Page" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,12 +1206,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 26</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/SLqe_O2L_gCiO0ONSmJwdMP_iEYi5dicrwGWrdbkS7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU5/ODEtMTM0NTUzNDYz/My03NzE0LmpwZWc.jpeg" alt="Cover for Coverdale &amp; Page" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,12 +1228,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 27</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/vBlE4JIG-ZgMlyzXEIWTiYtGtL6wjpUPJOqxg3OpRio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg2/NjUtMTQyMTM4OTc0/Ni05MTkxLmpwZWc.jpeg" alt="Cover for Maluco Beleza" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,8 +1254,8 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 97</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 97</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 97</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 99</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 99</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 99</li>
@@ -1268,7 +1264,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Ukv0JGATgUPXqEpn05Rh-QZSE7VGlNzULOarnk1LGQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzk4/Ni0xNTM2MTU5Nzk1/LTYzMDguanBlZw.jpeg" alt="Cover for Sugar Sugar" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,7 +1283,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
       </td>
       <td>1994</td>
@@ -1304,7 +1300,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
       </td>
       <td>1995</td>
@@ -1323,7 +1319,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/caa6c293e4014a73ac16e5ff70ab50d3.png" alt="Cover for The Very Best of Roy Orbison" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1356,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04abeae1907888184c4e7873f6f7f603.png" alt="Cover for The Best Of The Shangri-Las" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1374,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/959e38abd7c74ba1540c8086c9a21c90.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1393,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc900579592b46998e7602909b3ed4df.png" alt="Cover for The Very Best of - 24 Great Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,7 +1411,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/528f4f90c0afdbb2b6d7c071beae527a.png" alt="Cover for I Heard It Through The Grapevine" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1429,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/J-UCSCx_bIdKQzHEe97DBxMQxbNcwumkg1IrM4Yp4hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzM1/NTMtMTQzMzA4NzIy/MS0xMzgyLmpwZWc.jpeg" alt="Cover for The Best Of Little Richard" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1484,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8ee35d52117a524d7973a378de1f5ee.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1502,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>1999</td>
@@ -1519,11 +1515,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/k-0bFdvfJ8NvISw_0wO6DlmUubzEC-BAJjyMu5SBsfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzI3/MzYtMTYzMjEzNTI4/NC04ODM0LmpwZWc.jpeg" alt="Cover for Save The Last Dance For Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1560,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
       </td>
       <td>2002</td>
@@ -1578,12 +1575,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/cNBkyg8qPrE4NJ0S1rteg1PJg8QI438wAl7Bd_Xbbp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA2/NTQtMTQyMTM1NDky/OC01MDY2LmpwZWc.jpeg" alt="Cover for New York New York" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1598,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c639935048d84a1c92df0b7e6d2421a9.png" alt="Cover for Elvis: 30 #1 Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,7 +1617,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1131f0c7008fec304c3740427d184b0.png" alt="Cover for Greatest Hits (And More)" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1635,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/NBGfEmiG68yVDBtWhvc338n-x5g1_kGAbpToBZRU-XQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTEy/NTAtMTM5ODk3MTc0/OC03MDIxLmpwZWc.jpeg" alt="Cover for Black Horse And The Cherry Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,6 +1660,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fec21b5a4bb4b37a4fc6267e95445d3.png" alt="Cover for Dino: The Essential Dean Martin" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-06</td>
       <td>Dean Martin</td>
@@ -1703,7 +1701,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/3TLjZLH-iBoMzNry7TQvr4Y2wcmknVjUqJNFvpHglu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzg4/MDAtMTU1MzYzMjE5/My02ODYwLmpwZWc.jpeg" alt="Cover for The Definitive 60&#39;s (sixties)" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,7 +1719,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007</td>
@@ -1734,12 +1732,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 27</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2008</td>
@@ -1759,7 +1757,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>98</td>
       <td>
       </td>
       <td>2008-01-01</td>
@@ -1774,14 +1772,15 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 60</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 79</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 61</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ba98f199de646da8cbcdaa4dbb2f3c2.png" alt="Cover for Unclear Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-01</td>
       <td>Joshua Radin</td>
@@ -1796,7 +1795,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 40</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1821,7 +1820,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2009</td>
@@ -1838,7 +1837,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/bAz2QMlvT8cpTpO5dXlaiFr4WLUAeZXiSrcsH1W6ABo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgy/ODM3LTE1OTQwMTk3/MjEtNTk1Mi5qcGVn.jpeg" alt="Cover for A Swingin&#39; Christmas Featuring The Count Basie Big Band" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1856,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a52adc0e60534135c1c0241898fa9851.png" alt="Cover for Elvis 75" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1930,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/2nI9DwYZKpGaL8RM5Cu6C9COQOOuUY3WQgzbPRYjZr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAy/MDMwLTE1NzM4MjU4/NDgtNzAzNC5qcGVn.jpeg" alt="Cover for Peel Session 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1950,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/D3TWoHIJJOwRL6OCYxw_tIGi5wgMjcHNZ4fZVThrWok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/NDgtMTQ3NzU2NDQx/OC03ODM2LmpwZWc.jpeg" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/830749d8d79bf137f9c64960e102e690.png" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Nina Simone</td>
@@ -1971,8 +1970,8 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 30</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 47</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 34</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 48</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 87</li>
         </ul>
       </td>

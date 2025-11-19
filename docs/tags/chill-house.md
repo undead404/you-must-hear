@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:50:17.578Z
+date: 2025-11-19T13:43:02.695Z
 permalink: tags/chill-house
 title: chill house
 ---
 
 ## chill house
 
-Last updated: <time datetime="2025-11-17T05:50:17.578Z">Mon Nov 17 2025 07:50:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T13:43:02.695Z">Wed Nov 19 2025 15:43:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 38</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -114,7 +114,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 8</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 16</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 28</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
@@ -125,7 +125,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c27824a20794b1e08c6dae8ac5243fb.png" alt="Cover for Blue Monday Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/cN40xjiIToiuTooxjgZFVQqMtXgMusyWthPWdo8JhmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODAz/OC0xNDkxNzc2Mzk2/LTUxMDkuanBlZw.jpeg" alt="Cover for Relight" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +319,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe51873bf6b24b88cb16c18820386494.png" alt="Cover for Feel Free Live Good" style="max-width:120px; height:auto;" />
       </td>
@@ -468,10 +468,10 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 72</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 86</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 86</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 93</li>
         </ul>
       </td>
@@ -492,14 +492,14 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 51</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/yi2Zhpn2W5mMELDS0j0vkAJxAbzaUQ4lYfu-rqyaIoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQy/NzgtMTIzNzU1NTY4/MC5qcGVn.jpeg" alt="Cover for Faxing Berlin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9adb486ec5353ea0f64143e1606b79b.png" alt="Cover for Faxing Berlin" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>deadmau5</td>
@@ -512,7 +512,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -589,6 +589,26 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f0bb87cc9c3c2bb6a4ae6818024ee50.png" alt="Cover for Midnight City" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-27</td>
+      <td>M83</td>
+      <td>Midnight City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 69</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +691,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92faa66237ae24241d1b598c10738a54.png" alt="Cover for Your Beautiful Lies" style="max-width:120px; height:auto;" />
       </td>
@@ -705,8 +725,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -750,6 +769,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -817,6 +837,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 3</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 92</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 98</li>
         </ul>
@@ -859,15 +880,16 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 3</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 14</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 19</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 61</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 85</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
@@ -930,7 +952,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 7</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 15</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 95</li>
         </ul>
       </td>
@@ -1116,6 +1138,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 4</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 94</li>
         </ul>
       </td>
@@ -1137,7 +1160,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 55</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1180,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 21</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1198,7 +1221,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 44</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1218,7 +1241,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 9</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1325,7 +1348,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/vnpVTasGiVyUUkkX_H0gEUTQpbOhOQQt_yCOk1wrF8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTI1/OTUtMTQ4NzM5Njgy/OC04ODExLmpwZWc.jpeg" alt="Cover for Conquer Yosemite - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1424,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/301c30eef619c1d48c57163cce832cd0.png" alt="Cover for Burning Bridges (Crush Club Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,9 +1463,9 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 78</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 84</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1485,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 84</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1507,8 +1530,8 @@ Chill house is a relaxed electronic dance music style that combines smooth house
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 89</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 92</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 90</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 93</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 93</li>
         </ul>
       </td>
@@ -1626,7 +1649,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 27</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1648,12 +1671,12 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 35</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf90bdf0ab5f46279b2be7b57e754c47.png" alt="Cover for Love Goes On" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,26 +1754,6 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b3e2c29a1dd2ad818b2ca239f35e81.png" alt="Cover for Mirror (Maliboux Remix)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-06-18</td>
-      <td>Sigrid</td>
-      <td>Mirror (Maliboux Remix)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/650651e9edcab2ae1e70775fe0914630.png" alt="Cover for Good Girls (The Remixes)" style="max-width:120px; height:auto;" />
@@ -1790,7 +1793,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b127ecec25fa9b6f03e856892a0d0b8a.png" alt="Cover for Knockin&#39; On Heaven&#39;s Door" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1852,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cca58c3365ef0e4a549c7dfbe5ba8e93.png" alt="Cover for froge.mp3" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1885,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 61</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1965,7 +1968,7 @@ Chill house is a relaxed electronic dance music style that combines smooth house
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/uhD-eRVvLDko5swsCs7C9CJQtQapKd8dqGIHK6YahlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQz/MjMzLTE3MjMyNDMw/MDItMTU3OS5qcGVn.jpeg" alt="Cover for Sun is Dark" style="max-width:120px; height:auto;" />
       </td>
