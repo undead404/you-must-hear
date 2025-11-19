@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T17:57:37.922Z
+date: 2025-11-18T16:24:33.121Z
 permalink: tags/country
 title: country
 ---
 
 ## country
 
-Last updated: <time datetime="2025-11-16T17:57:37.922Z">Sun Nov 16 2025 19:57:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T16:24:33.121Z">Tue Nov 18 2025 18:24:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
   </thead>
   <tbody>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/6cEsYgX6bfLKPoMhNHrXfjq09jSXcycuCVLQktp03tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTg4/MTYtMTMzMzk4MTI2/Ni5qcGVn.jpeg" alt="Cover for Gunfighter Ballads and Trail Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>1963</td>
@@ -67,7 +67,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>1968</td>
@@ -103,7 +103,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td>1969-06-17</td>
@@ -117,13 +117,13 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 29</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 31</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9337d8992cb242a1c2c24eaa6f324ce8.png" alt="Cover for Townes Van Zandt" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad2d125c8db89da058cdd2568c96ad0.png" alt="Cover for Jolene" style="max-width:120px; height:auto;" />
       </td>
@@ -162,32 +162,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td>1977-02</td>
-      <td>Glen Campbell</td>
-      <td>Southern Nights</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 27</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 95</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 99</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>1978</td>
@@ -204,7 +179,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/JmfgJQFGtr4ANnXnqSLLI-Dz8mxXTlEo9B-lBGvK1gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/MzctMTI4OTA1Nzkw/MC5qcGVn.jpeg" alt="Cover for 9 To 5 And Odd Jobs" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +197,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07e58f4baa67fe6ffa3adc6525b1a1e4.png" alt="Cover for American Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +215,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2743fb4bc2f9400bbb720eedf879303f.png" alt="Cover for Super Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +233,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28f10cf43e62bca4bd47d254cf621eb3.png" alt="Cover for The Essential Skeeter Davis" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +251,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b126d3d411d5fa010ec3e4788591119.png" alt="Cover for Come on Over" style="max-width:120px; height:auto;" />
       </td>
@@ -293,7 +268,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ead6c05631ff4d5f8c0294df9f389831.png" alt="Cover for American III: Solitary Man" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +286,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/v5Mz0jczL-Rx_FJ1fcDKNQEHEt9dATNbd9lRjvR-sI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTAw/NjItMTM5OTQ4NzMz/NC0zNDU2LmpwZWc.jpeg" alt="Cover for Highwayman" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +304,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>2001-07-31</td>
@@ -365,7 +340,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4351398e2844092aa45ab5c56ab4cc8.png" alt="Cover for Unleashed" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +358,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2002-08-26</td>
@@ -396,12 +371,12 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 26</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>2002-10-08</td>
@@ -454,7 +429,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>2003</td>
@@ -471,7 +446,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2003-07-22</td>
@@ -488,7 +463,24 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2003-08-19</td>
+      <td>Dierks Bentley</td>
+      <td>Dierks Bentley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/PEuqO19Scl7OQPuvRRvy9Dv3QQD_TxtG68K84SkLQP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjQ0/Ny0xMTMzNDkwNTI2/LmpwZWc.jpeg" alt="Cover for Be Here" style="max-width:120px; height:auto;" />
       </td>
@@ -506,8 +498,9 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d94c2f76624f41cfc535ca710ae611.png" alt="Cover for Feels Like Today" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-28</td>
       <td>Rascal Flatts</td>
@@ -523,7 +516,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2005-07-26</td>
@@ -540,7 +533,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td>2005-10-18</td>
@@ -557,7 +550,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a350b753e9ff4702c72a78fbb3977151.png" alt="Cover for The Legend of Johnny Cash" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +568,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7caaf35b42fe4b458dedc3dec6e58a3b.png" alt="Cover for Some Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +588,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
       </td>
       <td>2006-01-24</td>
@@ -612,7 +605,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/d4jz55IBo0u7lqN_FlmD5FS8_uL2Y1EugE9U0QfxRoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTQy/Mi0xNDk1Nzk4MjU3/LTQxODYuanBlZw.jpeg" alt="Cover for Taking The Long Way" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +623,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2006-04-04</td>
@@ -647,7 +640,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c595791ea078d76385ca7e994f921084.png" alt="Cover for American V: A Hundred Highways" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +658,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>2006-07-18</td>
@@ -719,7 +712,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c3ccd6e066d4eec8b1acff9b6cedd19.png" alt="Cover for Long Trip Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +730,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>2006-11-07</td>
@@ -754,7 +747,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>2007-05-01</td>
@@ -772,7 +765,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>2007-08-14</td>
@@ -789,7 +782,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8034761756b405f885ccc8c2563909a.png" alt="Cover for Carnival Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -808,7 +801,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/w29spRnE_-RTxjOP-hjju_JW8muCYIKiXkD54OITH_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjY0/NDctMTMyOTk0MTgw/OS5qcGVn.jpeg" alt="Cover for Lady Antebellum" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +819,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/GN59fARaFjmPw2yOnSX0atnbJVYANVH-nLirZw-i7iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA1/OTctMTMyMTMwMzA4/My5qcGVn.jpeg" alt="Cover for Love Story" style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +838,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>2008-10-14</td>
@@ -881,7 +874,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Cars (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +896,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/GEWOKAluDni4aPsi-zWQckhr1MFFzUKOi4-4uMzFqvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQw/MzgtMTU5NTY4Mzg1/My05NzY4LmpwZWc.jpeg" alt="Cover for Doin&#39; My Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +914,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>2009-03-31</td>
@@ -938,7 +931,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2009-04-07</td>
@@ -955,7 +948,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/FLOdEfPsayepMGtnKjsEHJEOtS004aA3HCjzr6hZbGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE4/MzkyLTE2MzY1MDc0/NDQtNDI3OC5qcGVn.jpeg" alt="Cover for She&#39;s Country" style="max-width:120px; height:auto;" />
       </td>
@@ -973,7 +966,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2009-08-11</td>
@@ -990,7 +983,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-08-31</td>
@@ -1007,7 +1000,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b628f3b29714a10ab77682592a03325.png" alt="Cover for Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1018,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>2009-10-20</td>
@@ -1042,7 +1035,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc2119838d1689b4ad65c47c829f967.png" alt="Cover for Play On" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,28 +1053,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/388662d19544edecc966d5147a738e4d.png" alt="Cover for Speak Now (Deluxe Package)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Taylor Swift</td>
-      <td>Speak Now (Deluxe Package)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 53</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e055c85aecbc445ca7a083897ef63dd8.png" alt="Cover for American VI: Ain&#39;t No Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1071,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e693b627d4bc40c6a149883ca8e69d4d.png" alt="Cover for Need You Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,7 +1090,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08e1c049ca5f4ca1a985c5c91308bf08.png" alt="Cover for The Band Perry EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1109,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a32b64e415377eedf80237b27c3c48de.png" alt="Cover for The Band Perry" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1145,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88b646daa5e6626399ccd002ba67e50d.png" alt="Cover for Speak Now (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1163,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>2010-11-02</td>
@@ -1210,7 +1182,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/MAOdJcKFlyySdMv2VQmSMj_YADgXZQjfCB9ke8J5HB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQz/NTEtMTY3NTA0NTQy/NC02MDg1LmpwZWc.jpeg" alt="Cover for JOANNE (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1201,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
       </td>
       <td>2011-07-22</td>
@@ -1247,7 +1219,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2011-08-09</td>
@@ -1265,7 +1237,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011-08-26</td>
@@ -1284,7 +1256,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011-09-13</td>
@@ -1301,7 +1273,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3727b95c9ccb4b9a894ae15fe3db1319.png" alt="Cover for Speak Now World Tour Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1292,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/978150f141d968173232ae7d2ed7615f.png" alt="Cover for Blown Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1330,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f86f7ae6b696182dca49318423f71144.png" alt="Cover for We Are Never Ever Getting Back Together" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,12 +1344,12 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 12</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
       </td>
       <td>2013-03-19</td>
@@ -1394,7 +1366,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>2013-04-08</td>
@@ -1411,7 +1383,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2013-05-17</td>
@@ -1428,7 +1400,24 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2014-05-12</td>
+      <td>Sturgill Simpson</td>
+      <td>Metamodern Sounds In Country Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/oRJy2mbZchwPGoOMJHogsR2-rQ6HIfCE9Y72_vZ870o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODc3/MjgtMTUyNDY5MzUy/NS03MjIxLmpwZWc.jpeg" alt="Cover for Traveller" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1453,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef5d6cf8102d955c49d01b86de4dffc7.png" alt="Cover for Hotel California (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1475,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/MNTBgFTWcBU-SYAS0wdGpyhrE8mBIhFwOv97uZ_5uLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM5/My0xNTc0NDU0NDEy/LTYyOTYuanBlZw.jpeg" alt="Cover for 16 caRriAGeS" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1511,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7742916ba7f05db0caf8f715757ded5.png" alt="Cover for Fearless (Platinum Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1529,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5780bd96fb954fb8db340b7299679a58.png" alt="Cover for Tequila" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1547,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       <td>
         <ul>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 68</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 87</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 88</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 96</li>
         </ul>
       </td>
@@ -1584,7 +1573,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9683a9156e85b5c1d7cd06ea823fb36d.png" alt="Cover for Man of the Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,7 +1592,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/010b2d7d5791836d72544fbe41f59440.png" alt="Cover for Golden Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1611,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56a3dc32cdceee45a49b20cf5a97313a.png" alt="Cover for Ram (Archive Collection)" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,7 +1632,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/iIVbiWm8uCR22hntsJ5Qc8BMK6jqXY2I9OOywSzVCd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY5/MTIzLTE1OTc3ODgx/NjctOTI3MC5qcGVn.jpeg" alt="Cover for a star is born soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,7 +1651,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86dd1a58128dcd06ec14ad78517f6ffd.png" alt="Cover for Pony" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,7 +1677,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/634310fe6132b419ae59b0a832b65e68.png" alt="Cover for The Taylor Swift Holiday Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1696,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a922abcb8bb0858c0d603e53c2ed52.png" alt="Cover for The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1714,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 9</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 76</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 95</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
@@ -1733,7 +1722,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/191adf8abb015054473562220d813fe7.png" alt="Cover for If This Was a Movie (Taylor’s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1762,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/eZHasrE8LkIOSY-PBzIRN5eusy_4uvO43Ea5Oc-xo_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc3/MDE2LTE2NjExNTYw/ODQtMTEwNi5qcGVn.jpeg" alt="Cover for Summertime Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1780,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Bm7868uFw_hMScxYPwZ_0rFODgx5IS2PaX-nSxciens/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc5/MzczLTE2Njg1NzQ0/MTMtODE4Ni5qcGVn.jpeg" alt="Cover for Funhouse (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,16 +1801,16 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 78</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 79</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 88</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 90</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 97</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/caa5a586b599869e10542593928b5fdf.png" alt="Cover for Speak Now (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,7 +1852,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2003714981df86c07fefbe62f98f7b6a.png" alt="Cover for From Elvis in Memphis" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,7 +1872,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55be76f23e745b72d6c0cb1474fb2a4b.png" alt="Cover for The Man I Want to Be" style="max-width:120px; height:auto;" />
       </td>

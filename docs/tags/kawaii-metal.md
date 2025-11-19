@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T23:57:23.004Z
+date: 2025-11-18T16:03:03.472Z
 permalink: tags/kawaii-metal
 title: kawaii metal
 ---
 
 ## kawaii metal
 
-Last updated: <time datetime="2025-10-28T23:57:23.004Z">Wed Oct 29 2025 01:57:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T16:03:03.472Z">Tue Nov 18 2025 18:03:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -98,7 +98,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/pMWfa5JALI6fl9Y4bYu-GT1D8koK67qg1Kfc5wHewX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODkw/MjMtMTI0MjgyMzU0/NS5qcGVn.jpeg" alt="Cover for クライノイド - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +142,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/7zE7lmfvLD_JNfAtGKy6aWGIyjFAs67oWr_iih_Qjo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI5/NTYxLTE2MTk3OTY2/ODQtMTE0NC5qcGVn.jpeg" alt="Cover for It all begins here" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 7</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -223,7 +223,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/oCctgQOt7YKa0rxEn-DUe6zH6KimPbm17x6A0y_xJPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk1/NzktMTIwMjI1NTM3/MC5qcGVn.jpeg" alt="Cover for Start" style="max-width:120px; height:auto;" />
       </td>
@@ -352,14 +352,14 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 9</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 12</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 16</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 40</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
@@ -368,7 +368,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 86</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
         </ul>
       </td>
@@ -512,7 +512,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/SubekuPUXgZERBglpq5UNIuDUFA7oFno38CjkbuVuTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODg5/MzQtMTQ1ODcwNjc0/Mi03MTgxLmpwZWc.jpeg" alt="Cover for NEMESIS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cf7e1ea1b3f7cd3d3fbc86fab54d7e0.png" alt="Cover for NEMESIS" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>NECRONOMIDOL</td>
@@ -567,15 +567,15 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 71</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 9</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 67</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 73</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8956de1746142d29bbeef444b726362d.png" alt="Cover for METAL RESISTANCE - THE ONE LIMITED EDITION -" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +614,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ac8d1321f2def400643b55348c9a8b7.png" alt="Cover for Maid In Japan" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +679,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/jMaB60IEHAW6qz_sh3sq4jrSEpdLgwBYGfS_2bj20uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAw/NDg2LTE1MTE3Mjk1/MTQtMTc4Ny5qcGVn.jpeg" alt="Cover for Kimi Terasu Sairiumu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de47f3cef272b580d05de5af2f56152d.png" alt="Cover for Kimi Terasu Sairiumu" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-24</td>
       <td>DEADLIFT LOLITA</td>
@@ -876,7 +876,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/0IJKslCLOnqJ-U4lLnUJxYbR2FCMUI33Ea5wCvyvd4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI1/NTY5LTE2MDE2OTQy/NTUtODE5MC5qcGVn.jpeg" alt="Cover for Pump Up JAPAN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b108074e3902351bf8ecc9ba94fe330a.png" alt="Cover for Pump Up JAPAN" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-10</td>
       <td>DEADLIFT LOLITA</td>
@@ -923,8 +923,8 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 34</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 95</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 40</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 96</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 99</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 100</li>
         </ul>
@@ -933,7 +933,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/ylLTNMYqKCFnq7N8BLf4EKLrLhCVXz-5LY_F0LlqCP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU3/NTEwLTE1Mjc0NDIw/ODctNTA3My5qcGVn.jpeg" alt="Cover for ZENITH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/580662fd9ffce7415f00c9130fc3d816.png" alt="Cover for ZENITH" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-23</td>
       <td>PassCode</td>
@@ -1024,7 +1024,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/bYTUW4E9keNHokKlFj5qNmyQhZlVUj-u8ri5pfToIfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU0/NjgxLTE1NTY0MTUy/MjQtODU3My5qcGVn.jpeg" alt="Cover for Renge Chance!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5039e970b4c4ddf88c33fe9f9c243111.png" alt="Cover for Renge Chance!" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-08</td>
       <td>Ladybaby</td>
@@ -1083,8 +1083,8 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 41</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 48</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1276,30 +1276,8 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 9</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 15</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/cQhCA3T3E2P6bUMrGc_ypcqxi6988fxwLgYYkoFowi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/MTYzLTE2MTk3NTQ1/NzUtNzczNy5qcGVn.jpeg" alt="Cover for 灼熱ECSTASY (TYPE A)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-08</td>
-      <td>Underbeasty</td>
-      <td>灼熱ECSTASY (TYPE A)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1326,7 +1304,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/teLxzgl56-Ga7fEK2X5f443aPA-Hr0TQ4BB3Uc3dW4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI2/OTc0LTE2MTY4MTQz/MzItNjY1OS5qcGVn.jpeg" alt="Cover for Ultra Heroine - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1385,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/zSZkg06Mcepf3t4GqHpQn3OfZBqp-_xHJwvfn7-NXP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ0/ODg2LTE2MjUxNjg5/NDQtMzY2Ni5qcGVn.jpeg" alt="Cover for BEGGiNG&#x2F;STUPiD - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1514,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/QFEnN0BsuafnQlmJN2shiA1BuYmBtcEFuBrPAywMtCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUx/ODQ1LTE2NDk3NDg2/MTktNjgwNC5qcGVn.jpeg" alt="Cover for MiiS-2024ver.-" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1532,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/QFEnN0BsuafnQlmJN2shiA1BuYmBtcEFuBrPAywMtCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODUx/ODQ1LTE2NDk3NDg2/MTktNjgwNC5qcGVn.jpeg" alt="Cover for AS I AM" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,6 +1588,25 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09822dea9da351fb9e9a8a379e4a45b1.png" alt="Cover for The Other One" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-03-24</td>
+      <td>BABYMETAL</td>
+      <td>The Other One</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 15</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1697,7 +1694,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/YZvGNvsZfqWHbJvPaShLFapsmUmABNPwUhaYxeV8uBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcz/ODM3LTE3MjU2OTkw/NDctOTU1OC5qcGVn.jpeg" alt="Cover for aLiVE - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1748,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1772,7 +1769,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1793,7 +1790,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1814,7 +1811,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1829,7 +1826,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 2</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1912,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1934,7 +1931,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1953,7 +1950,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1970,7 +1967,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2024,7 +2021,7 @@ Kawaii metal fuses the aggressive intensity of heavy metal with Japanese pop cul
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>

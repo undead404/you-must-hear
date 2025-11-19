@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T08:35:06.624Z
+date: 2025-11-18T15:58:55.829Z
 permalink: tags/jam-band
 title: jam band
 ---
 
 ## jam band
 
-Last updated: <time datetime="2025-11-08T08:35:06.624Z">Sat Nov 08 2025 10:35:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T15:58:55.829Z">Tue Nov 18 2025 17:58:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -190,7 +190,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/iN5kgpdqpYOp10FvATDGT-vCZTA1kRkLM5Y3f7vNs1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Njkz/My0xMjk1NDYyODE3/LmpwZWc.jpeg" alt="Cover for Joe&#39;s XMasage" style="max-width:120px; height:auto;" />
       </td>
@@ -215,7 +215,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 54</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -239,7 +239,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1989-01-01</td>
@@ -287,7 +287,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 58</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -329,7 +329,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 2</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 6</li>
             <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 78</li>
         </ul>
       </td>
@@ -337,6 +337,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/626fc2993463ad6e0575d8593d9beb65.png" alt="Cover for A Picture of Nectar" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-02-18</td>
       <td>Phish</td>
@@ -356,7 +357,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/sc_Xaz8O6yOidAEaPBVxa6vWxaJyrXPY-hIXr8XrjkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzMy/NC0xMzQzNjg4NTI3/LTk2MTQuanBlZw.jpeg" alt="Cover for Waiting For The Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35a035697af42bfca255911414abea96.png" alt="Cover for Waiting For The Night" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-09-28</td>
       <td>The Freddy Jones Band</td>
@@ -395,7 +396,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/XPShb0a0cGU_9Kya-4NPZtZLMk6yNaw91RSt2SA67NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzk4/NzUxLTE2Nzg2NDkz/OTktODI5Mi5qcGVn.jpeg" alt="Cover for Bright Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d22ab21e2e3263e3f980c0e69eed487.png" alt="Cover for Bright Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Ripe</td>
@@ -404,24 +405,6 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b71afceaff741b2ae6e5b3301434ded.png" alt="Cover for Soup" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-08-07</td>
-      <td>Blind Melon</td>
-      <td>Soup</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
       <td>
@@ -484,7 +467,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 54</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -507,7 +490,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/DWvyiZ6fFc4TgHwf4Nah8HlC8ld_Nuxh1IbfSQ9masE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/NzA4LTE1ODcwNjEz/MTMtNjYyMS5qcGVn.jpeg" alt="Cover for The Man Who Stepped Into Yeste" style="max-width:120px; height:auto;" />
       </td>
@@ -563,6 +546,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5256a5f064fc414eac93e1da1e4a5f9c.png" alt="Cover for Good Dog, Happy Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Bill Frisell</td>
@@ -594,7 +578,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 15</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -724,7 +708,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 21</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 26</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 99</li>
         </ul>
       </td>
@@ -751,7 +735,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2003</td>
@@ -930,7 +914,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/J6r1pQHSzErjQSCQw7zCxiahT5btk43KOBcMZNZ5zkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDA0/NDEtMTQwMzAyMDY0/My05NTI2LmpwZWc.jpeg" alt="Cover for All Things Must Pass (2014 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5ea297ba288af2d1515f615b5a559fa.png" alt="Cover for All Things Must Pass (2014 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>George Harrison</td>
@@ -942,7 +926,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 4</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1048,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 60</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 63</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 92</li>
         </ul>
       </td>
@@ -1147,15 +1131,16 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 28</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 54</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 55</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 56</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 81</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2536914defb947c9a35e20256a9945b8.png" alt="Cover for Blue Plate Special" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-30</td>
       <td>Will Bernard</td>
@@ -1233,13 +1218,13 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 47</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 49</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/WOLxrH2iGCbNMp8FY4O5rTXN6u09TGlTM5WVrnhjVhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY0/ODUtMTQ5ODM5NzEy/OC0zODI5LmpwZWc.jpeg" alt="Cover for Illegal, Immoral and Fattening" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1237,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 31</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1289,12 +1274,12 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 5</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2010-09-28</td>
@@ -1370,7 +1355,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 4</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 8</li>
             <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 80</li>
         </ul>
       </td>
@@ -1478,7 +1463,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2013-06-04</td>
@@ -1494,7 +1479,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013-10-01</td>
@@ -1507,16 +1492,14 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 7</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 24</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 56</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/ICjAA2HMjOCAh1v4qxFVNjSDCzB2Wa6D6e3cDL_fDzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDIw/NTUtMTYzODc5ODIz/NS04NDgxLmpwZWc.jpeg" alt="Cover for Last.fm&#x2F;Presents Live at Offset" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/600f0391424e4258ba599eb04ca9b42b.png" alt="Cover for Last.fm&#x2F;Presents Live at Offset" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-10</td>
       <td>Metronomy</td>
@@ -1532,7 +1515,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 74</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1543,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Ez_Yjut-G5_dkh3giFDw0zclM4BCdCSB8amMqlSdIro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/NTIzLTE1MTQyMjc1/NjktNTQ4MC5qcGVn.jpeg" alt="Cover for Psychology" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/189c866e1b6546eac626ecd53c5e0c10.png" alt="Cover for Psychology" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-03</td>
       <td>Pigeons Playing Ping Pong</td>
@@ -1592,7 +1575,6 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1615,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 49</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 71</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1697,7 +1679,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2017</td>
@@ -1715,7 +1697,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/CTp4X6dCyR9EVQ4MikdIQdfk7u-njSDWAzBRMR06w2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTU1/ODctMTQ4NTIyMDE3/Mi05ODU1LmpwZWc.jpeg" alt="Cover for Laws of Gravity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/150b171192dce90abf2ef0018beee92f.png" alt="Cover for Laws of Gravity" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-13</td>
       <td>The Infamous Stringdusters</td>
@@ -1799,6 +1781,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 14</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 100</li>
         </ul>
       </td>
@@ -1806,6 +1789,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce2d6dd01b3da42dde99ffc71caad20d.png" alt="Cover for Where the Spirits Are" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-13</td>
       <td>Suishou No Fune</td>
@@ -1826,13 +1810,14 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 6</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 60</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2021</td>
@@ -1878,14 +1863,14 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 21</li>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 65</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8f1070179f70b7c63bad6574d57e1ba.png" alt="Cover for Dick&#39;s Picks Vol. 8: Harpur College, Binghamton, NY 5&#x2F;2&#x2F;70 (Live)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-19</td>
       <td>Grateful Dead</td>
@@ -1939,9 +1924,25 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Dead &amp; Company</td>
+      <td>Madison Square Garden, New York, NY, 10&#x2F;31&#x2F;2019 (Live)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/7ss-os5VyWJUBIfRAW8JmW37kexnq8qHyOKLyAANcKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTEx/NDMtMTM5Nzk1MDEy/Mi0xNzk3LmpwZWc.jpeg" alt="Cover for The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e82446e096e89b9d9aa52b2b797192f.png" alt="Cover for The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-24</td>
       <td>BADBADNOTGOOD</td>
@@ -1959,17 +1960,17 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 71</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 71</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 94</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 81</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aa4584f650e61b5052da08e6596f375.png" alt="Cover for Pocket Full of Kryptonite" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,13 +1985,14 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 80</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/360179f0302b1536961800601aa9a485.png" alt="Cover for The Universe Inside" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>STS9</td>
@@ -2024,7 +2026,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 25</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2046,7 +2048,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 56</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 58</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T17:39:11.760Z
+date: 2025-11-18T16:01:24.872Z
 permalink: tags/argentina
 title: argentina
 ---
 
 ## argentina
 
-Last updated: <time datetime="2025-11-16T17:39:11.760Z">Sun Nov 16 2025 19:39:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T16:01:24.872Z">Tue Nov 18 2025 18:01:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1970-12-09</td>
@@ -187,6 +187,25 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fda57d6890c42b20334f1ce2d4d7ad4c.png" alt="Cover for Vasos Y Besos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Los Abuelos de la Nada</td>
+      <td>Vasos Y Besos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>24</td>
       <td>
           <img src="https://i.discogs.com/GruT-qfJ3R55iUhsM9jXUAI8FSVKD2zeVtzcbEwviZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY1/NTktMTMxMzY2MDY1/OC5qcGVn.jpeg" alt="Cover for La Dicha En Movimiento" style="max-width:120px; height:auto;" />
@@ -222,13 +241,13 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 3</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 5</li>
             <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/UgV_zOWyBH1ePr3gy54vYwqPmI15TVYz_CvAM3K4-jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTI4/NTctMTU1NzA3NzE4/NS00MzY1LmpwZWc.jpeg" alt="Cover for Del 63" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +287,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5135d64c9a7f0bd948d073548a1fcecb.png" alt="Cover for Superficies de Placer" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +407,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e08b5fe29d330187c1393f56ea1f11bd.png" alt="Cover for Pequenas Anécdotas Sobre Las Instituciones" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +489,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a67dda125fb88119741f9daa0f5c0e69.png" alt="Cover for Dynamo (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +507,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/NxVAXy45VTEi1YXVB79sKggCQgX0i0WD4CnRwG9xpFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjYx/MDc4LTE2NDE2ODk3/NjEtNzI3Ny5qcGVn.jpeg" alt="Cover for Mensajes Del Alma" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +542,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1994</td>
@@ -599,7 +618,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7854bd23969414d9fe10e9821fadb2a.png" alt="Cover for Gracias A La Vida" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +715,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/-D3dDd6aTxAyuG9DlysmMPetYOsnMue9tjMdicTrTSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzkz/NzAtMTQ3MTQ5Njcw/NS02MzQ2LmpwZWc.jpeg" alt="Cover for Abre" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +756,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57262b9393cf40e5a7b64ad7817986c5.png" alt="Cover for Miami" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +891,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 29</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 44</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 99</li>
         </ul>
       </td>
@@ -913,7 +932,8 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 45</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 4</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 59</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 100</li>
         </ul>
       </td>
@@ -977,7 +997,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/l9rQ-0UsqiwccsuUMQ91HJI5yBGhu3ILWtjU3USOdnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQw/MDItMTM4MjA5Mzcx/My02Nzc0LmpwZWc.jpeg" alt="Cover for Los guachos" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1021,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/MImUPK3__o71Y-SPn8lig2lLp4BYmvbeLAKv9pf56Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDIw/MDgtMTQ2NjkzMDI4/OS04MTE1LmpwZWc.jpeg" alt="Cover for Naturaleza Sangre" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,7 +1097,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9986e93775a420bf306bceef9c4741.png" alt="Cover for Excursiones" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1175,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c17eb579235b9ea4bfc48a316f1a59.png" alt="Cover for Colores Santos" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,7 +1192,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1199,7 +1219,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2006</td>
@@ -1217,7 +1237,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2006-05-22</td>
@@ -1236,7 +1256,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d450e163a084d81bd5a68ccc425ed6d.png" alt="Cover for Civilización" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1337,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/tR5JKoMogEw8ctpwmCoqYbMX0cnqUdvRimbsfefxDMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjQz/NDUtMTM4ODAyNTQy/OS0zMjY5LmpwZWc.jpeg" alt="Cover for GUAU!" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1358,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/GReeAX_RwPAY4fXHZ-jq1f4H-N65VyttUgO1Nh2e5CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzkw/NTQtMTQxNTczODY3/MS0xMTM2LmpwZWc.jpeg" alt="Cover for Humo del Cairo" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,7 +1399,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2008-01-01</td>
@@ -1438,7 +1458,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7fa2c29459546f68f7e40352a2c541b.png" alt="Cover for Desesperanza" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1517,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b62efbbb41f6343826fd765dc7abb85.png" alt="Cover for Cuervos" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,7 +1536,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e9c65f94f2e4bf1cb68b05c87fe5a06.png" alt="Cover for S.O.S." style="max-width:120px; height:auto;" />
       </td>
@@ -1535,7 +1555,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2014-05-05</td>
@@ -1593,12 +1613,12 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       <td>
         <ul>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 76</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 89</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c43ca32588ec43f8c3a2edca47aa18e0.png" alt="Cover for Seru Giran" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1637,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe5f21b12503c58157de55e1d17e3d16.png" alt="Cover for Soy" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,7 +1659,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/V12yShxkrdepwBTx3IGBwcSzyrUiRuTAshlG-5_MjKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIx/NzcyLTE1Mzg3NzAz/NDEtODY2MS5qcGVn.jpeg" alt="Cover for Fiesta Nacional (MTV Unplugged)" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1727,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/E2b7w-n3bKG3xtnVYbARhlVNqssPQ10DghtjGoG9ie4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ3/MTg2LTE1NTA2NzUw/NjUtOTY0NS5qcGVn.jpeg" alt="Cover for El Otro" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1768,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/JC0JixO5Hr2DRwEIGTmSaUCjhOORqhg158m_UxA4in4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njc3/NjA2LTE2NjQ1NTA2/NTMtNjU4My5qcGVn.jpeg" alt="Cover for City Zen" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,7 +1821,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1823,33 +1843,6 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       <td>
         <ul>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a01cb68c8957430f491e4024aa36936.png" alt="Cover for ¿Qué Se Siente Estar Mejor?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>WRRN</td>
-      <td>¿Qué Se Siente Estar Mejor?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 7</li>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1982,7 +1975,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/901c4a1e5ebf84764596afb4e89f16f4.png" alt="Cover for #Anonimato" style="max-width:120px; height:auto;" />
       </td>
