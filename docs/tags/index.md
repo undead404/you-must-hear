@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-18T22:18:43.836Z
+date: 2025-11-18T22:51:41.499Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-18T22:18:43.836Z">Wed Nov 19 2025 00:18:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T22:51:41.499Z">Wed Nov 19 2025 00:51:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [post-punk revival]({{ "tags/post-punk-revival" | relative_url }}) | <time datetime="2025-11-18T22:51:41.499Z">Wed Nov 19 2025 00:51:41 GMT+0200 (Eastern European Standard Time)</time> |
+| [sound collage]({{ "tags/sound-collage" | relative_url }}) | <time datetime="2025-11-18T22:35:23.750Z">Wed Nov 19 2025 00:35:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [brazilian pop]({{ "tags/brazilian-pop" | relative_url }}) | <time datetime="2025-11-18T22:18:43.836Z">Wed Nov 19 2025 00:18:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [atmospheric drum and bass]({{ "tags/atmospheric-drum-and-bass" | relative_url }}) | <time datetime="2025-11-18T22:18:20.921Z">Wed Nov 19 2025 00:18:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [dutch]({{ "tags/dutch" | relative_url }}) | <time datetime="2025-11-18T20:27:23.316Z">Tue Nov 18 2025 22:27:23 GMT+0200 (Eastern European Standard Time)</time> |
@@ -304,7 +306,6 @@ Last updated: <time datetime="2025-11-18T22:18:43.836Z">Wed Nov 19 2025 00:18:43
 | [mexico]({{ "tags/mexico" | relative_url }}) | <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [korean]({{ "tags/korean" | relative_url }}) | <time datetime="2025-11-16T20:08:15.364Z">Sun Nov 16 2025 22:08:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [soft rock]({{ "tags/soft-rock" | relative_url }}) | <time datetime="2025-11-16T20:07:49.198Z">Sun Nov 16 2025 22:07:49 GMT+0200 (Eastern European Standard Time)</time> |
-| [post-punk revival]({{ "tags/post-punk-revival" | relative_url }}) | <time datetime="2025-11-16T20:07:24.927Z">Sun Nov 16 2025 22:07:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [psychill]({{ "tags/psychill" | relative_url }}) | <time datetime="2025-11-16T20:07:16.895Z">Sun Nov 16 2025 22:07:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [latin jazz]({{ "tags/latin-jazz" | relative_url }}) | <time datetime="2025-11-16T20:06:55.054Z">Sun Nov 16 2025 22:06:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [footwork]({{ "tags/footwork" | relative_url }}) | <time datetime="2025-11-16T20:05:36.779Z">Sun Nov 16 2025 22:05:36 GMT+0200 (Eastern European Standard Time)</time> |
@@ -401,7 +402,6 @@ Last updated: <time datetime="2025-11-18T22:18:43.836Z">Wed Nov 19 2025 00:18:43
 | [drill and bass]({{ "tags/drill-and-bass" | relative_url }}) | <time datetime="2025-11-15T01:55:32.706Z">Sat Nov 15 2025 03:55:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [avant-folk]({{ "tags/avant-folk" | relative_url }}) | <time datetime="2025-11-15T01:42:07.171Z">Sat Nov 15 2025 03:42:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [shibuya-kei]({{ "tags/shibuya-kei" | relative_url }}) | <time datetime="2025-11-15T01:40:54.589Z">Sat Nov 15 2025 03:40:54 GMT+0200 (Eastern European Standard Time)</time> |
-| [sound collage]({{ "tags/sound-collage" | relative_url }}) | <time datetime="2025-11-15T01:36:21.105Z">Sat Nov 15 2025 03:36:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [dream folk]({{ "tags/dream-folk" | relative_url }}) | <time datetime="2025-11-15T01:36:10.902Z">Sat Nov 15 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [street punk]({{ "tags/street-punk" | relative_url }}) | <time datetime="2025-11-15T01:35:12.494Z">Sat Nov 15 2025 03:35:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [girlgroup]({{ "tags/girlgroup" | relative_url }}) | <time datetime="2025-11-15T01:25:49.243Z">Sat Nov 15 2025 03:25:49 GMT+0200 (Eastern European Standard Time)</time> |
