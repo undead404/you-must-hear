@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:40:26.325Z
+date: 2025-11-19T09:34:48.883Z
 permalink: tags/blues
 title: blues
 ---
 
 ## blues
 
-Last updated: <time datetime="2025-11-14T01:40:26.325Z">Fri Nov 14 2025 03:40:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T09:34:48.883Z">Wed Nov 19 2025 11:34:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,14 +42,14 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 76</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 77</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 82</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/85-QfPrlT08ZVSw_dfcmfItTUq9ikLt_4o19jQsBmkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjEx/Mi0xNDgyNDc2OTY0/LTk4OTQuanBlZw.jpeg" alt="Cover for Moanin&#39; In The Moonlight" style="max-width:120px; height:auto;" />
       </td>
@@ -105,8 +105,8 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 10</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 12</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 12</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 15</li>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 89</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 97</li>
         </ul>
@@ -134,7 +134,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05a8ae094a2a49ecbd9d0ede77a73b7c.png" alt="Cover for Heart Full of Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +153,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Xj2QR73mvF7sIjV0BdazRJef-vdBmW3w8VcpU3RJwn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTQ2/My0xMTczMDQwNTEy/LmpwZWc.jpeg" alt="Cover for Moanin in The Moonlight" style="max-width:120px; height:auto;" />
       </td>
@@ -191,14 +191,14 @@ Blues music is a genre of music that originated in African American communities 
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 89</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 98</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 98</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 98</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c090bda00850c432aec9d62d21d8bd.png" alt="Cover for Taj Mahal" style="max-width:120px; height:auto;" />
       </td>
@@ -216,7 +216,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2875a948a5fe4c16398cffadc5fbb55.png" alt="Cover for King Of The Blues Guitar" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +235,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2101ed7bc04149cd928d99fbda539d2f.png" alt="Cover for English Rose" style="max-width:120px; height:auto;" />
       </td>
@@ -274,7 +274,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>1969-12</td>
@@ -330,7 +330,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a869fc6368444866a5f4328b7402c430.png" alt="Cover for Pearl" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +345,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 18</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 21</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 87</li>
         </ul>
       </td>
@@ -390,7 +390,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5189615ae115835d12f110b460dbe9f2.png" alt="Cover for Eric Clapton&#39;s Rainbow Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1322a9e692ce4483c4e58a3d84c75e0f.png" alt="Cover for Closing Time" style="max-width:120px; height:auto;" />
       </td>
@@ -447,6 +447,7 @@ Blues music is a genre of music that originated in African American communities 
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b0027e9efb84650c6998734ba7eadd5.png" alt="Cover for The Heart of Saturday Night" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-10-15</td>
       <td>Tom Waits</td>
@@ -458,26 +459,6 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/xfUfWgYS-p0LP4ImSrtZhOI61FjG_8ca39LwIEIw0KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQw/OTItMTM5NzE1MjAz/My04OTY2LmpwZWc.jpeg" alt="Cover for Billie Holiday" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1975</td>
-      <td>Billie Holiday</td>
-      <td>Billie Holiday</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 62</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -516,14 +497,14 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 34</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 47</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 88</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>1975-12</td>
@@ -596,13 +577,13 @@ Blues music is a genre of music that originated in African American communities 
       <td>
         <ul>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 86</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 92</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d43ebb5067b79007a66b2f087cbf0bc4.png" alt="Cover for Heartattack and Vine" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +677,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/105d5d8d95e64886c80af404ebcfdbe9.png" alt="Cover for Rain Dogs" style="max-width:120px; height:auto;" />
       </td>
@@ -710,8 +691,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 40</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 82</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +754,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/bhKeeuUH1kaKl42WcuZIlluQPclT6UI2ozv3muPmCgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/NDEtMTE4MzI5MTAw/My5qcGVn.jpeg" alt="Cover for Box_Disc 2 (1955 - 1962)" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +772,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3268b4128f078bd7d678ac2c18f1c32c.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +830,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/CKQqZA_jLaHN6r_tcdhn7irJB9fkp5r1z-sgwQW4hjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI3/NjQtMTUzNTYyNzAx/Mi05NDMxLmpwZWc.jpeg" alt="Cover for Luck Of The Draw" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +866,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 70</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 73</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 97</li>
         </ul>
       </td>
@@ -910,7 +890,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4438994675c1ce24f0b42b672d4e8644.png" alt="Cover for The Black Rider" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +908,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31104006a1dec923a516a1d58157ef62.png" alt="Cover for The Cream of Clapton" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1004,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>1996-02-02</td>
@@ -1041,7 +1021,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56e84eee0477e4dcf2a017ccefc05505.png" alt="Cover for Deuces Wild" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1039,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a794db2aaab1319c2a7bf7e8d2ff0ca.png" alt="Cover for The Best Of Muddy Waters" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,7 +1076,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ee26b91c989bb66f8147ccceab84596.png" alt="Cover for Reload" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,14 +1132,32 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 24</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 27</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 70</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 72</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/SPs7iSp5xQB9VopHTkvelJXf_T-twbpB6ULZWFEhuQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE4/ODE5LTE2ODYxOTA1/MzItNzcyNS5qcGVn.jpeg" alt="Cover for New York City" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>The Peter Malick Group</td>
+      <td>New York City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/GjJLfBH8tuCm7VBDz0MPur0NDJK0yxw1PYkDSyOCJ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzU0/MzItMTMxNDgyNzU1/NC5qcGVn.jpeg" alt="Cover for Blues Deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,8 +1176,9 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5439772c1d7a4bbaad81090e94d2debd.png" alt="Cover for Sunrise Over Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-08</td>
       <td>The John Butler Trio</td>
@@ -1192,12 +1191,12 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48b35e2c42444a0587c6abfd930d5cea.png" alt="Cover for Genius Loves Company" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1217,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31b7ebd3cc7cf79c3882e40d280b11ef.png" alt="Cover for Georgia On My Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1252,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/696807228d184065a4c24053a7a5f89d.png" alt="Cover for Passing Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1270,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/tipYIZKMZlWwPGN9eTm_ghujhrKSsyN-zr81F_CKYbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk1/ODgtMTQzOTY1NTQ4/Ni04ODg3LmpwZWc.jpeg" alt="Cover for Riding With the King" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1309,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/afkirM3nthTRb9nNAuJAFbzYB_Gtd7cfFvMLqZO30oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU0/MzAtMTM3Mjk1MDY3/OC03NDczLmpwZWc.jpeg" alt="Cover for Who Says" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,8 +1361,9 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 36</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 37</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 2</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 37</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1411,7 +1411,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>2011-04-11</td>
@@ -1432,24 +1432,6 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdc2574573f148dd901edf316b18221d.png" alt="Cover for Let Them Talk" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-04-29</td>
-      <td>Hugh Laurie</td>
-      <td>Let Them Talk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df3fc4d3ca4841eb8e6a76c0cabae10a.png" alt="Cover for Lonely Boy" style="max-width:120px; height:auto;" />
@@ -1465,12 +1447,12 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/o-bMbdikqizzb4ZW0wq6gOWJk7_JFdvsdRCG9dkghnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI1/MzItMTYyNjEwNzQ4/NC0xNTA3LmpwZWc.jpeg" alt="Cover for On The Road Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,7 +1485,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 35</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1527,6 +1509,25 @@ Blues music is a genre of music that originated in African American communities 
     </tr>
     <tr>
       <td>2</td>
+      <td>
+      </td>
+      <td>2012-10-19</td>
+      <td>Gary Clark Jr.</td>
+      <td>Blak and Blu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
       </td>
       <td>2013-03-12</td>
@@ -1598,8 +1599,9 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 23</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 24</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 95</li>
         </ul>
       </td>
@@ -1624,7 +1626,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d7572bfe49e29506d80212adb2919a5.png" alt="Cover for Cru" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,12 +1642,12 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 55</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e0bda37be4089d5833f678733c6c5e6.png" alt="Cover for Dying Surfer Meets His Maker" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1686,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 72</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1733,7 +1735,7 @@ Blues music is a genre of music that originated in African American communities 
       <td>
         <ul>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 51</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1759,7 +1761,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc1047cdce15bd019f9112643f4f5e72.png" alt="Cover for Remonta" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1779,7 @@ Blues music is a genre of music that originated in African American communities 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 55</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 57</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1799,12 +1801,12 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 75</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/521925bf0c191aebf24030f9bb7f7300.png" alt="Cover for The Search for Everything - Wave One" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1825,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/o6aYE8Km9mNlbtghs4ht3sMHPednvR7UeXrID616dG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTc3/OTEtMTMwMjM4OTg5/My5qcGVn.jpeg" alt="Cover for Both Sides Of The Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1841,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 14</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1861,8 +1863,8 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1886,7 @@ Blues music is a genre of music that originated in African American communities 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Hq9EJzR0ueFFZCPjBqnSCBTN-eE1EuxfT6cwPpBiaY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUw/MDgwLTE2MTIwMDQz/ODQtMjY2Mi5qcGVn.jpeg" alt="Cover for Brothers (Deluxe Remastered Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,8 +1923,8 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 14</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 42</li>
             <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 100</li>
         </ul>
       </td>
@@ -1950,11 +1952,11 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 46</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 84</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 74</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 81</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 87</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
         </ul>
@@ -1975,14 +1977,14 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 72</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 73</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 77</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6ec51ae814148acc8b6949121482f83.png" alt="Cover for Christmas Songs by Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,14 +1998,14 @@ Blues music is a genre of music that originated in African American communities 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 80</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 81</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 85</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8eb189af20dd743d96d46e128918a44.png" alt="Cover for Sound &amp; Color" style="max-width:120px; height:auto;" />
       </td>

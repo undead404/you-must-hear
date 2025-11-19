@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:43:45.955Z
+date: 2025-11-19T09:34:43.502Z
 permalink: tags/soul-jazz
 title: soul jazz
 ---
 
 ## soul jazz
 
-Last updated: <time datetime="2025-11-08T19:43:45.955Z">Sat Nov 08 2025 21:43:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T09:34:43.502Z">Wed Nov 19 2025 11:34:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,8 +65,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b041843fff0fe2f4ad67e6187b0b28b.png" alt="Cover for Grantstand" style="max-width:120px; height:auto;" />
       </td>
       <td>1961</td>
       <td>Grant Green</td>
@@ -82,7 +83,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/-LoE_RAw-kDxy-r2tdB0x5ynWFlEvZ5TgvI3nPHL5HI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM4/MTgtMTMyNzI4MzE3/Mi5qcGVn.jpeg" alt="Cover for Hootin&#39; &#39;n Tootin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -137,7 +138,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1963</td>
@@ -157,6 +158,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7dfa0ef7be9ad4ada2f71248dd81afe.png" alt="Cover for Idle Moments" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Grant Green</td>
@@ -168,7 +170,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 23</li>
             <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 85</li>
         </ul>
       </td>
@@ -194,9 +196,8 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/6wMfJNcN8rrRxZ169y29nc5sykozYB7cffw_wROQuz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI3/MS0xNDU1MTM3Mjc5/LTE1NTAuanBlZw.jpeg" alt="Cover for The Blue Note Collection - Empyrean Isles" style="max-width:120px; height:auto;" />
       </td>
       <td>1964-11</td>
       <td>Herbie Hancock</td>
@@ -231,6 +232,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/674691a12f73880ccbb0a168b3a7d250.png" alt="Cover for Cornbread" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Lee Morgan</td>
@@ -247,7 +249,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/hwhUy4IYxqrKLbDsQOSh66woURLyBY7SFPlfEk6UNw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgx/MjEtMTQyOTM5MzEz/Ny0zOTk3LmpwZWc.jpeg" alt="Cover for Shirley Scott &amp; the Soul Saxes" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +290,25 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8bffa4d113b0495511405c9d804bd10.png" alt="Cover for Wild Is The Wind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Nina Simone</td>
+      <td>Wild Is The Wind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/cURw8_W5TMpo5adHScmoomfEO76jEQ2tLbEQjTodZIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTUw/NTItMTQ2NzU5MjQw/OS05ODk1LmpwZWc.jpeg" alt="Cover for Mercy, Mercy, Mercy (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -305,8 +325,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c51d0da46ceec1e31a926dfb2d5069ce.png" alt="Cover for Afro-Harping" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Dorothy Ashby</td>
@@ -320,12 +341,12 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
         <ul>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 68</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 95</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
       </td>
       <td>1968-03-14</td>
@@ -341,6 +362,26 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37984282d2a148ee7ace8ce2929a344e.png" alt="Cover for Karma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Pharoah Sanders</td>
+      <td>Karma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -423,9 +464,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 28</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 58</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 80</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 83</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 90</li>
         </ul>
       </td>
@@ -433,7 +474,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/38SkKd_uySIwTUlQ-YYN92zhXm8Tzsiu3G5XSJjlWNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzI5/ODItMTM2Mzg2MjI2/MC02OTA1LmpwZWc.jpeg" alt="Cover for Sure &#39;Nuff" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/647a196e9626427cc21279e587c628c2.png" alt="Cover for Sure &#39;Nuff" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Sonny Phillips</td>
@@ -451,7 +492,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/vEMONNoJRnEeXKvO0gv5d44iR-8HQr-bPvZ4SwWxL0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYx/NTM4LTE0OTQ1MzUy/MTctNDI0NS5qcGVn.jpeg" alt="Cover for Compared To What" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +510,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>1972</td>
@@ -506,7 +547,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +572,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 40</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
@@ -557,7 +598,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1974</td>
@@ -576,7 +617,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/dNC6IoekhHC_AzIXZbR6RlYnakhQRkhe2meI9h_r3hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDIx/NzAtMTM0ODAxNzE4/Ni00NTAzLmpwZWc.jpeg" alt="Cover for Hustlin&#39; (The Rudy Van Gelder Edition) [feat. Bob Cranshaw, Kenny Burrell, Otis Finch &amp; Shirley Scott] [Remastered]" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +634,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/DVVDINcLqzvJKxjgP1cjG_9dUNPHumN0GcmY27E4WNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NjMtMTQ2NTM1MDAz/MC01MDI1LmpwZWc.jpeg" alt="Cover for Mercy, Mercy, Mercy! Live at &#39;The Club&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +653,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/BRUNRDuJ8wzLxMhfcuR2tI1dZdKXZVrg0hUwUWRJXyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUy/My0xNDcyNTUyMTU3/LTM3NDguanBlZw.jpeg" alt="Cover for Vista" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b612923d16cad11d3fd27d990fd3555.png" alt="Cover for Vista" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Marion Brown</td>
@@ -630,7 +671,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 55</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
@@ -638,8 +679,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94461397c369abb0589f3599163eed2c.png" alt="Cover for Mister Magic" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Grover Washington, Jr.</td>
@@ -654,7 +696,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/3MPe5CdETYGdmNAUPF91ZcyB_SCVVeLMMGRnoSjrQaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTA5/NjgtMTQ1MzQ4ODg4/Ni01NDQ1LmpwZWc.jpeg" alt="Cover for Can You Feel It?" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +732,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/_LaBuWRziE713I1RgPP-rRM8s4BDXOUre87GlxbhAkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTQx/ODUtMTU4MDU0MjAz/MS00NjIwLmpwZWc.jpeg" alt="Cover for Noor Bersaudara" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +771,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Right on!" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +849,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/i9viSga866KDHNR6VhvbCdRrkzYhzpypahgryeLhi7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTQ3/MzItMTQzMjY0Nzg0/Ny01MDE0LmpwZWc.jpeg" alt="Cover for Dance of Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +868,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/i62LKdKVH2JcCFD81Te5sXODYQubYIZroUQ_5HdnG5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIw/MTAtMTI5MTIyODcz/Ni5qcGVn.jpeg" alt="Cover for Legends of Acid Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +887,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/cKOZ68kdUZpRLrRu0MenaIjBUTZPD2tuh31JfIia3WE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MzgwLTE1ODcxMzk3/MjMtMjQ4MC5qcGVn.jpeg" alt="Cover for Royal Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -863,7 +905,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/9QBiCZtfghkcylMSv0fNPJOi5MyqzEj330SGU9ASe9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQx/MjM3LTE2MzY2NjU1/ODgtMjY3Ni5qcGVn.jpeg" alt="Cover for Off the Top" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +924,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/joa2d2_t0ZjMWJkd_UKLAVM9T3lNPpv_RTRjZ_9otuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY3/OTAtMTM2NTQzMjQ5/NC03NDc0LmpwZWc.jpeg" alt="Cover for Soul Jazz Records Presents Punk 45: Burn, Rubber City, Burn - Akron, Ohio: Punk and the Decline of the Mid-West 1975-80" style="max-width:120px; height:auto;" />
       </td>
@@ -922,25 +964,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/C0CHK2yeAEqBGtHPzu--pSpcAJtWFHL6rNm8ZzC997E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTky/ODA0LTE3MjA3MDY1/NjItMzQyMS5qcGVn.jpeg" alt="Cover for Hidden Beach Recordings presents: Unwrapped Vol. 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985</td>
-      <td>Various Artists</td>
-      <td>Hidden Beach Recordings presents: Unwrapped Vol. 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KmDk72aIi3jPezKLjgJ67gHz7LfVPhufoTJABgv90Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjU4/MDUtMTM1NDE5NDYz/Mi04NTU4LmpwZWc.jpeg" alt="Cover for Sugar (40th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +983,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
       </td>
       <td>1986</td>
@@ -1018,7 +1042,27 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ce8d02b77ef674d05fb4cca94a2706.png" alt="Cover for I Put a Spell on You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Nina Simone</td>
+      <td>I Put a Spell on You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 81</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/jCSmwcoTfvmntiWZODyNv3NRXh9G-5VIKwx5LTCAqsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTUy/MjMtMTI5NDE2OTE2/My5qcGVn.jpeg" alt="Cover for Song For My Father" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,12 +1098,12 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>10</td>
       <td>
       </td>
       <td>1990-06-22</td>
@@ -1105,9 +1149,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/8cw81eQhl_BMvjDmKqaeBvldO5crh1_GnNUgkuqEe2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTI3/LTE0MzUzMjYwMzgt/OTMyNy5qcGVn.jpeg" alt="Cover for Street Funk &amp; Jazz Grooves: The Best of Grant Green" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca7121c2fa8b322412ca67189e7fe2b.png" alt="Cover for Street Funk &amp; Jazz Grooves: The Best of Grant Green" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Grant Green</td>
@@ -1143,8 +1187,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f36f24de9bed35bcd90c708662a7c02d.png" alt="Cover for Let &#39;Em Roll" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Big John Patton</td>
@@ -1160,7 +1205,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
       </td>
       <td>1997-01-07</td>
@@ -1180,7 +1225,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Ob_Xuwt9W-w3esrPvDfeS0zH2edCQIOwaI4kqOseiLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA3/LTExNTc5Njk4NDku/anBlZw.jpeg" alt="Cover for Sex Lounge (Sensual Foreplay)" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1248,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/vt6HPMqEvKqDv0gVX7WcZ1Rw7HbB_WoboK-FOkVVq14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk1/NjUtMTQ1Mzk2MDI2/My02NzYwLmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c240584b097a4188b8532e5219d0aab0.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-17</td>
       <td>Jimmy McGriff</td>
@@ -1220,8 +1265,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d2750201ec31c3a20edcd868ff1345d.png" alt="Cover for The Complete Quartets With Sonny Clark" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-07-15</td>
       <td>Grant Green</td>
@@ -1237,9 +1283,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/IVmpvH28-CjBt8vwQdCYV-uMy5CgkCHt5Lp9v1_9bqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM5/MDktMTIyNjYxODQx/NC5qcGVn.jpeg" alt="Cover for Blue Note Rare Grooves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96240da157724faa9566b1dabdc19c99.png" alt="Cover for Blue Note Rare Grooves" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-06-16</td>
       <td>Reuben Wilson</td>
@@ -1258,7 +1304,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/YSzb00DCqaeVs5Ym8_gwkYFT6rCyna4mpZiKYBxIqh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQz/MjE1LTE1Mzg3MDU0/NTktMjI5MS5qcGVn.jpeg" alt="Cover for Classic Moments From The Bill Gaither Trio, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1338,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/LQkgWFeDiWR5KdqDyRU0Odbf7DbcFWgA2TUn-YXb5BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM5/ODQ1LTE2MjM1OTY0/NTEtNjQ1My5qcGVn.jpeg" alt="Cover for Wide Meadow Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,7 +1459,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/oiWcYbDIIwb8j-BYfnZsqYOiBDil04FlCkpSSCGxmMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMz/MzktMTI4NDkxMzAx/OS5qcGVn.jpeg" alt="Cover for Anodyne Holiday" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1477,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/y8tQa4s7YOCh8hNxwG_0Asi4JFw6x9Ts4Y4HIhT7gvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/MTY4LTE1NDM0MDU0/MjItNDk3Mi5qcGVn.jpeg" alt="Cover for One" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,24 +1487,6 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51aae33f1f5649748ea15adb213ebf13.png" alt="Cover for Naturalmente" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-06-23</td>
-      <td>Margareth Menezes</td>
-      <td>Naturalmente</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1487,23 +1515,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>Deep Throat Anthology, Parts I &amp; II</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2009-10-27</td>
@@ -1522,7 +1534,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2010</td>
@@ -1543,7 +1555,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/nxbo3-jPm0gyjyj7aNipc9os9fLJ2sZ855uUym3mMe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM5/NzQ0LTE1NDI5NzAx/NDgtNzIxMy5qcGVn.jpeg" alt="Cover for Soulful stew" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,7 +1572,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/R8heTZnPV8LwTDzazpjLTqo33kZVrjxPg6VqCfsA3eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/MTAxLTE1MDk5MDA2/NjUtNDAxMS5qcGVn.jpeg" alt="Cover for Hollywood is on fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1592,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2012</td>
@@ -1598,9 +1610,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/DCccE967QtQd_sd1YGWoEOBoIB4of-5-Tm53KOj4mZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg5/OTMtMTQwNjc1MzIw/OC00Njc5LmpwZWc.jpeg" alt="Cover for Up The Junction (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26be3c8de1e3a59512fc8f28604787e4.png" alt="Cover for Up The Junction (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-30</td>
       <td>Manfred Mann</td>
@@ -1652,12 +1664,12 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3938b3936f2f4027c039edf4eab00b58.png" alt="Cover for Classic Album Selection" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1719,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/Q9cZCYy-PI3kept4XRMCjU2GsJcXyQzDrHcQtd8WeJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQz/NDUtMTMwNzE0Nzk1/OS5qcGVn.jpeg" alt="Cover for Back At The Chicken Shack (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,7 +1778,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/648cd00cee4d489a04a190aa20112a4f.png" alt="Cover for Choose Your Weapon" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,6 +1791,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1801,15 +1814,15 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 34</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 47</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 39</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 48</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 68</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/Ey6jIJOzBslD01uOoSnMBmcufGFZZR5t31fpJ4wvTg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODk1/MTgtMTQ2NDYzMTU2/Mi04MDMwLmpwZWc.jpeg" alt="Cover for Jukka Eskola Soul Trio" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1859,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/AaWwnax3mb9wKWviT1vJc4zQ9x-TNlae2eqTaPw_rZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzkw/MDU1LTE2MzU2MjMz/MzEtNTU2OS5qcGVn.jpeg" alt="Cover for Dance Awhile With Doggett" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1879,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/E33FnjZ58qSMwkN_yWAymdNkebQV6AjIBmQC5YXkVzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMy/MTctMTMyMjgxMTk3/My5qcGVn.jpeg" alt="Cover for Peace and Rhythm" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1920,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/S7awDppH2jY4626DRrcJ7zZNH2SAvHaDKQWWazkd4PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NTc3LTE3MTQ4OTk5/NTUtNDUyNC5qcGVn.jpeg" alt="Cover for Fearless Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/357674ba00e83e21f4a0d2eb2204cd1d.png" alt="Cover for Fearless Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Kamasi Washington</td>
@@ -1920,14 +1933,14 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 4</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 35</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0373bac521c1ac3a1ec7673fb062cb04.png" alt="Cover for Float!" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,7 +1989,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1993,7 +2006,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>

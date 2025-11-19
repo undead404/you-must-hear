@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:41:48.600Z
+date: 2025-11-19T08:29:19.223Z
 permalink: tags/acoustic-guitar
 title: acoustic guitar
 ---
 
 ## acoustic guitar
 
-Last updated: <time datetime="2025-11-08T19:41:48.600Z">Sat Nov 08 2025 21:41:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T08:29:19.223Z">Wed Nov 19 2025 10:29:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/kotRGJv3qDe1u6M4sARUeR3anaMu8jJDzrjCih4aA4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ0/NjUtMTQyMzA4Mjc1/My05NDI5LmpwZWc.jpeg" alt="Cover for The Yellow Princess" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9404f486a259173f13a368dbce735556.png" alt="Cover for The Yellow Princess" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>John Fahey</td>
@@ -49,6 +49,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f389d6962da341a0c181eed0a1be9e37.png" alt="Cover for 6- And 12-String Guitar" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Leo Kottke</td>
@@ -67,7 +68,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/xX9HbUfH3pHpbsLZmYXkW5wNj-B-DU5qaVwhdNbtebw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzQw/MDEtMTM4MTQzOTQz/NC0xNTIwLmpwZWc.jpeg" alt="Cover for 6- and 12- String Guitar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8be00b49ac83dce9e8699a0ff8a95690.png" alt="Cover for 6- and 12- String Guitar" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Leo Kottke</td>
@@ -123,9 +124,28 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9a79d6ff3be62e3e155441e6b77876d.png" alt="Cover for Elegant Gypsy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Al Di Meola</td>
+      <td>Elegant Gypsy</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 81</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/h8FqCoInF3sXf24jOQ7_8Z11_4do3q1bQNjnq0cAkks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTM1/MDktMTUyODgzNjQ3/Ni0zNzg5LmpwZWc.jpeg" alt="Cover for Uncorked" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9db35a5b13d42f48d6e1575fb9bb57c.png" alt="Cover for Uncorked" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-03-11</td>
       <td>Al Stewart</td>
@@ -239,6 +259,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec2f6ed360af4c0185f244876f79956e.png" alt="Cover for Spanish Guitar Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>John Williams</td>
@@ -252,24 +273,6 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
         <ul>
             <li> <a href="{{ "/tags/classical-guitar" | relative_url }}">classical guitar</a> # 36</li>
             <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/3jRM_fVxxJjClMxXvhoGyypgQf69WWJAXhpUh8hyVFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY4/NTYtMTMyMzA4ODQ2/NS5qcGVn.jpeg" alt="Cover for No Hurry" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>Scott Nygaard</td>
-      <td>No Hurry</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -327,7 +330,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/HsODfXvpwWxUrRrJJKHUgZoCkCep8QO-Gpp3cRfNjQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEz/NTc4LTE2NDUxMzc0/MzUtODA5Ny5wbmc.jpeg" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +351,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/QAzt-v96Du2FhMNpDt7SCtAhgrprJjIJ5-bRupJuuTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjM2/MzgtMTUyMjc2NTM0/My0xMzEyLmpwZWc.jpeg" alt="Cover for Early Alchemy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9239bf898d94d59b1a262631e1c2081.png" alt="Cover for Early Alchemy" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-03-16</td>
       <td>Acoustic Alchemy</td>
@@ -470,6 +473,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66346b18c1074c01cc1b1f87459f0aa1.png" alt="Cover for Peculiaroso" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Leo Kottke</td>
@@ -503,7 +507,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/r6gBcVffckTl1BQEnqVhxXe_xkJwkwDpmnCexGWUMII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk3/NDItMTI1MDM3MTY5/NC5qcGVn.jpeg" alt="Cover for Porgy And Bess" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +546,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/uMXEZ5UE8nf7g2j2bUSr2LRksnP_SfpH8cWeJIZQWxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mzg5/NTgtMTQyMzYxNjg0/Mi0xMTMzLmpwZWc.jpeg" alt="Cover for First Touch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee93c35b8f1543ef9115010b0c49cc65.png" alt="Cover for First Touch" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Dominic Miller</td>
@@ -561,6 +565,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc30a0b180332a6b7ec9a9b013dadb62.png" alt="Cover for Dedicato" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Antonio Forcione</td>
@@ -579,7 +584,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/04TfG8vSM-ZyrY4Zdy4ddO733xH8QxnekBMxaQoEY7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzY3/OTAtMTYwNjE4NzQ4/MC05MDI4LmpwZWc.jpeg" alt="Cover for Fingerdance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cabc8111c5ae435c95ca04a0d1a62dc9.png" alt="Cover for Fingerdance" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Billy McLaughlin</td>
@@ -642,6 +647,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7150c3186d74def268647ed587f9ba51.png" alt="Cover for Guitar Soli" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-07-19</td>
       <td>Robbie Basho</td>
@@ -711,14 +717,14 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 82</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/caDrP_idtRbsOvuGO3k3FW3YyTKwaRJRlW-ocREO910/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzgy/ODMtMTY0MjcwNTQ5/NS0xMzk3LmpwZWc.jpeg" alt="Cover for Ana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9b9b0e535e5975526bf69141808de74.png" alt="Cover for Ana" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-01</td>
       <td>Ralph Towner</td>
@@ -807,7 +813,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/xu1dlJzQRovpQ4HA8C1iMLS8V3RlOJLkz1yy28TzojA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjQ4/NjMtMTQzOTg3MTU3/Ny03Nzg1LmpwZWc.jpeg" alt="Cover for Guitarra Romantica" style="max-width:120px; height:auto;" />
       </td>
@@ -829,7 +835,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4263ca38adcf5a0ce4be998ae9df09f9.png" alt="Cover for Tilt" style="max-width:120px; height:auto;" />
       </td>
@@ -919,14 +925,14 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 46</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/xsTeavGFefDpErc07TfBiLyTckbREJZ4vOxpfzJKdqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMz/NjctMTM4MDI5Nzg0/OC01MTcyLmpwZWc.jpeg" alt="Cover for Area 52" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27492b081944949b23852439c39492c.png" alt="Cover for Area 52" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Rodrigo y Gabriela</td>
@@ -944,7 +950,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/43KJwe7wD760gqQ3mVV5vBg-YF2OfBAKLiFQX0mpjzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDA1/MzctMTQ3MTg4ODI2/My0zMDQyLmpwZWc.jpeg" alt="Cover for Sur Vesdre" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1061,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/uoIjLKyi9a7wKkKk_pYMkdeiIKR60qFyIDzBbKAJmFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcw/ODUwLTE0OTQ0Nzg4/OTctNDkwOS5qcGVn.jpeg" alt="Cover for Returning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c9dde13f8004de7aba5aa67404e5da9.png" alt="Cover for Returning" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>William Ackerman</td>
@@ -1104,8 +1110,8 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 16</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 26</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 77</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 96</li>
             <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 99</li>
         </ul>
@@ -1114,7 +1120,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/eHRNA4f40p-FJFehJLw4PEmJPdstXJ83yJgVmqAEBrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDgx/ODgtMTIzNDQ0MDQy/Ny5qcGVn.jpeg" alt="Cover for Endless Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0c80ddd788631c295bd8fbf3c18bb75.png" alt="Cover for Endless Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-08</td>
       <td>Tommy Emmanuel</td>
@@ -1246,7 +1252,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/nn34SfeOMsa7kn5-r2gYQHT1guJeh2OrAG848oQ9vhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjky/NDEyLTE1ODkyODgy/MDktNTYzOS5qcGVn.jpeg" alt="Cover for Grateful" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,13 +1287,14 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 50</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3da96c6f5cd4871852f7ca3034fa3e8.png" alt="Cover for The Fox and the Monk" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>John Smith</td>
@@ -1324,6 +1331,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54fbd72858b2b45ab95283f7f39bca18.png" alt="Cover for Art of Motion" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-06</td>
       <td>Andy McKee</td>
@@ -1335,12 +1343,12 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 18</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2006-04-15</td>
@@ -1358,7 +1366,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2007</td>
@@ -1377,7 +1385,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2007</td>
@@ -1405,7 +1413,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
         <ul>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 52</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 53</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 71</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1435,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 23</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1500,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/c0iRx3Bvw34JDAeyhoVW0iQz8RRa4XOk6ICBMTdVbCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDU1/NDAtMTQ0NTgyMzMx/OS05NjIyLnBuZw.jpeg" alt="Cover for Greetings From Lafayette Park" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daeac1452a7d7ad16cb96467255bb90c.png" alt="Cover for Greetings From Lafayette Park" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-01</td>
       <td>X-Patriate (Alan J. Lipman)</td>
@@ -1511,7 +1519,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 27</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 31</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 86</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 95</li>
         </ul>
@@ -1520,7 +1528,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/sbSUfMTRUmT2N9JihnWcKiFWk0OWXlWh7HL5IZT9jio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDEz/NjEtMTI4OTU3OTYy/Mi5qcGVn.jpeg" alt="Cover for Live At Radio City Music Hall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3293967fa2f24218a0a72f50d01f8119.png" alt="Cover for Live At Radio City Music Hall" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-13</td>
       <td>Dave Matthews &amp; Tim Reynolds</td>
@@ -1551,7 +1559,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 84</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1602,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 47</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 46</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 68</li>
         </ul>
       </td>
@@ -1602,7 +1610,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/X9qdVns9UZ4hkuRFd6f0nQ2haguKnxY5Z_bEAGpWeio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYw/MDAtMTIzNDI4NjQ3/MS5qcGVn.jpeg" alt="Cover for Equilibrium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee6c6a6306f4cd89af66328c235be30.png" alt="Cover for Equilibrium" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-28</td>
       <td>Erik Mongrain</td>
@@ -1666,9 +1674,9 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 66</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 73</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1701,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/kke3GtqN2z9R_ggSHO27wP1ItyI44g7GW216NVq2iA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjM3/MjctMTM0OTk3ODI1/OC0zMDMyLmpwZWc.jpeg" alt="Cover for Joyland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b2d4d833f84a98bc701c061759bf32.png" alt="Cover for Joyland" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-15</td>
       <td>Andy McKee</td>
@@ -1712,7 +1720,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/gDKGUArz3e3-F4X2n7cW3Yf8FkcYKR9U1tXi_amAq54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDU4/NDUtMTM0MjY3MTU3/OC0zMTEyLmpwZWc.jpeg" alt="Cover for Early Demos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f1605c7c3f47e9c70813ca0de87169.png" alt="Cover for Early Demos" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>The Head and the Heart</td>
@@ -1749,15 +1757,15 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 71</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 72</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 70</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/zh7BkeiPnmtt21LvS__l6ncM6ffSIpKjnOrbJSg_E2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE0/NjI3LTE2NzMyNzI2/MDItMjY3Mi5qcGVn.jpeg" alt="Cover for The Ziur Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/771257e7b0e8d9373dda193653e6c8eb.png" alt="Cover for The Ziur Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Maneli Jamal</td>
@@ -1773,14 +1781,14 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 48</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/bq3xbKjI3CRvovbq_GICSD0f3HvGLoNw4mKQ5N8QEfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTIw/NTctMTQ0NTEyODg5/OC0yNDA1LmpwZWc.jpeg" alt="Cover for Modern Times - Epilogue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0c6c0663a0829a1d2279c60264fd7f3.png" alt="Cover for Modern Times - Epilogue" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-24</td>
       <td>IU</td>
@@ -1808,7 +1816,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       <td>
         <ul>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 57</li>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 61</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1834,7 +1842,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/RYjGMhpD33ivg_hqGVh3su1czztniOncoMr808vF240/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU2/ODkwLTE2MjY3NTc1/NTctNjEyMS5qcGVn.jpeg" alt="Cover for Kiss" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,7 +1900,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/JNW5wmj1dIFeJSMCSX9J1OAMmJ6f-IrU0L1SZ3Bd6Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk4/NDg4LTE1NzU3Njgy/OTQtNTM5OC5qcGVn.jpeg" alt="Cover for Mood Swing (even moodier)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c369059270180e26859c231ea6f5c36d.png" alt="Cover for Mood Swing (even moodier)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>CYN</td>
@@ -1914,6 +1922,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3338ce647acd9d0ceb65baf15392ca7a.png" alt="Cover for Memories" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tobias Rauscher</td>
@@ -1956,6 +1965,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e06b8156ff44ea3aa9bb3d1748bb53cc.png" alt="Cover for Unfurl" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nik Davies</td>
@@ -1997,6 +2007,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ed8097e6b6e6148cac9898bd0a5b720.png" alt="Cover for The Lamaj Movement" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Maneli Jamal</td>
@@ -2019,7 +2030,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
