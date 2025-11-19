@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T02:12:22.322Z
+date: 2025-11-19T07:42:26.981Z
 permalink: tags/boogie
 title: boogie
 ---
 
 ## boogie
 
-Last updated: <time datetime="2025-11-15T02:12:22.322Z">Sat Nov 15 2025 04:12:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T07:42:26.981Z">Wed Nov 19 2025 09:42:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9a660b8656147d1ad9a85bbeb2eca6b.png" alt="Cover for Picturesque Matchstickable Messages From The Status Quo" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-09</td>
       <td>Status Quo</td>
@@ -59,14 +60,14 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/Qf8nZZ88sB7n1jikGtT4dDl2WMSflaxbOnxLD5_2YOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/MDAxLTE2MTM2MzUx/OTctMzc4MC5qcGVn.jpeg" alt="Cover for Jazzanova presents Paz E Futebol 3 - Compiled by Junior Santos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/194fdd892cd1ea4acb963c8713d620f1.png" alt="Cover for Jazzanova presents Paz E Futebol 3 - Compiled by Junior Santos" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Junior Santos</td>
@@ -84,7 +85,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/IE1VP-ggaWoOV3KYbeDy00yhZxbaQa9RwMjuQrJJJ6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQx/MDctMTI3Mzc5NzU1/OC5qcGVn.jpeg" alt="Cover for Party" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +103,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12aa0cd11510416abad9720e6306173f.png" alt="Cover for Quo" style="max-width:120px; height:auto;" />
       </td>
@@ -119,7 +120,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0814f993db06672ccbfd8d637e0113a8.png" alt="Cover for Beauty: A Journey Through Jeremy Underground&#39;s Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +144,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/w4yWjO63X--aOQWPvEauqYrpp7Hn0HLbJP54LhXmfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/NzgtMTUwMDg2MTk0/Ni0yNjI3LmpwZWc.jpeg" alt="Cover for Robson Jorge e Lincoln Olivetti" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +181,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/1VKoXblHDM22jyo0WW_qKsfcV052iiyGlN7ksaNiER4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ0/My0xMzI0MjYxNzk0/LmpwZWc.jpeg" alt="Cover for Lots of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +201,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td>1979</td>
@@ -214,12 +215,12 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 43</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0feb96bffac941aa86b5fe316a1bb582.png" alt="Cover for Roughriders" style="max-width:120px; height:auto;" />
       </td>
@@ -238,9 +239,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/1NrLHsnSmzqPj1AA5DrhKFqADk3zpscY-zSVQKFufZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA0/OS0xMzgwODgxNDg1/LTcyODEuanBlZw.jpeg" alt="Cover for Instant Funk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e204db5567b1e0f8ef3855191078d06c.png" alt="Cover for Instant Funk" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-01-25</td>
       <td>Instant Funk</td>
@@ -258,7 +259,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6226f3d22b8219d3a0658a056ff61f.png" alt="Cover for In the Purest Form" style="max-width:120px; height:auto;" />
       </td>
@@ -280,8 +281,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4f1fbcfa6589cf30be2556ee4ee3a43.png" alt="Cover for Five Special" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-07-05</td>
       <td>Five Special</td>
@@ -298,7 +300,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f0f591c4e840d280db70f213e09c4f4.png" alt="Cover for Rough Riders" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +319,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d43724f5d6431eb3f42f98597b056c.png" alt="Cover for The Whispers" style="max-width:120px; height:auto;" />
       </td>
@@ -377,9 +379,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/q0KGkl3Ob8PtWWqrCrMJc6hiXGB7fd643vJkAnH8bFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMw/NzItMTQ1ODE2MzIw/OS0zMjk1LmpwZWc.jpeg" alt="Cover for Nights (Feel Like Getting Down)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86fbc00ff575443f2f080d80adb2377f.png" alt="Cover for Nights (Feel Like Getting Down)" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Billy Ocean</td>
@@ -396,7 +398,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2acdfa4c06f743f0071e0254e941db0.png" alt="Cover for Unlimited Touch" style="max-width:120px; height:auto;" />
       </td>
@@ -417,8 +419,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f656227975cb4351b92a33d05d426669.png" alt="Cover for The Main Attraction" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-03-18</td>
       <td>Bobby Thurston</td>
@@ -436,7 +439,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Umo7N8dj3-oJk-0Ouy9MygAUdyw5dYJcveuwSry6h6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjgz/LTE1ODI2Njc1Mjgt/NTA2NC5qcGVn.jpeg" alt="Cover for You&#39;re The Best" style="max-width:120px; height:auto;" />
       </td>
@@ -457,8 +460,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eab5fcee79529218d9acd72dd2426c91.png" alt="Cover for I&#39;m In Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-06-29</td>
       <td>Evelyn &quot;Champagne&quot; King</td>
@@ -474,7 +478,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce1005313befd280ffa46e8ac85745c5.png" alt="Cover for Go for It" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +501,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
       </td>
       <td>1981-09-24</td>
@@ -510,12 +514,12 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 36</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>1981-11-18</td>
@@ -533,7 +537,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/J3vfyLoNcvyNg1bndRz3eX9nwNu8BSuSa8S23l-hsxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTEx/Mi0xNjg0OTE1MTgy/LTQ0NTUuanBlZw.jpeg" alt="Cover for Street Level" style="max-width:120px; height:auto;" />
       </td>
@@ -555,9 +559,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/QmxaHxBvNXqGoIBB6D0bM7WsBRYdNJ7Fp62R54_in0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU2/NjYtMTMxNjMwNDY4/My5qcGVn.jpeg" alt="Cover for Love Don&#39;t Grow On Trees" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/955bed23bf474af49a05fad763150d2d.png" alt="Cover for Love Don&#39;t Grow On Trees" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Waldo</td>
@@ -574,8 +578,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2379435eaf848d0b3c0e25a196e190f.png" alt="Cover for Inner Feelings" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Billy Ocean</td>
@@ -593,7 +598,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Z2dUPCl_wBrA5NhCDeUPxO6BMb5zx4fOsD5WSC6eNzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzcx/NjItMTM2MTgzMTky/Ni00NDA1LmpwZWc.jpeg" alt="Cover for Reachin&#39; For It" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +619,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67bf9dc1fb9cc6f996863db17c46ad54.png" alt="Cover for Give It Up" style="max-width:120px; height:auto;" />
       </td>
@@ -633,8 +638,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b448fe4a131b6ff8ed046d0889999cff.png" alt="Cover for Confidence" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Narada Michael Walden</td>
@@ -652,7 +658,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a725e5a1b74897c76ffe02290d8a4c0d.png" alt="Cover for First Flight" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +678,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07aa1c9e7a5f4a05bd3f2a4f47364b6f.png" alt="Cover for Keepin&#39; Love New" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +698,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d31465c83684d34a1bd07d49b2cc9d5.png" alt="Cover for I&#39;ll Do My Best" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +719,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a81d0aec3a7e4260925e4b6ccd8fd94e.png" alt="Cover for You&#39;re the One for Me" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +737,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/cUvCixXkAaJ-J-Mzfhwva5xRhjWee0uyfA7TNsGWSwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDIz/MC0xNTQxNjcwNjg5/LTMxOTUuanBlZw.jpeg" alt="Cover for Tropical Gangsters" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +755,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92db87eb1517451e88ae406a24ffb11c.png" alt="Cover for Hot Fun" style="max-width:120px; height:auto;" />
       </td>
@@ -769,7 +775,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/535429822e6b49a0af53d0d84e31c12f.png" alt="Cover for Redd Hott" style="max-width:120px; height:auto;" />
       </td>
@@ -790,7 +796,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b92df2a3f29e56e72f38441434df3c9f.png" alt="Cover for Get Loose" style="max-width:120px; height:auto;" />
       </td>
@@ -799,23 +805,16 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       <td>Get Loose</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 6</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e22c72158af9b83034f37ea6030adbd.png" alt="Cover for Aerobics" style="max-width:120px; height:auto;" />
       </td>
@@ -854,14 +853,14 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 28</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 30</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 78</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf9348a84b7b4167617c73dcbb2775ac.png" alt="Cover for Love How You Feel" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +884,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64b4ada716214fbeb7d7a6f80de204f3.png" alt="Cover for O Ritmo Do Momento" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +903,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/mx6xBnHxGYmgHk9zhkqkmrjvG9FZsF4vOyegM6qgo7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM1/Ni0xNDE5ODQ3MTE1/LTkzNTkuanBlZw.jpeg" alt="Cover for On The Rise" style="max-width:120px; height:auto;" />
       </td>
@@ -923,7 +922,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52850a8d73a55227b4952aeabe1b573.png" alt="Cover for Portrait" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +942,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90c2ce630a29969cccfa775fa4791f9.png" alt="Cover for Would You Like to Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -963,7 +962,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01d1ce65da29338c43aff790521425c7.png" alt="Cover for The Look" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +985,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1983-09-06</td>
@@ -1004,7 +1003,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75d863097dcd071a7593c45f515e2b94.png" alt="Cover for Feel the Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1023,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8233715059b46ed085d8b5e429b68eb6.png" alt="Cover for The Controllers" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1044,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a823c86f6a2c97c2d4819acc8afa35ea.png" alt="Cover for Heartbreak" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,7 +1068,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/5Mfj2cqgcu9sdlw-n53PtY_Riucqf07DnrKWwTg8Q78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDA5/MzYtMTQ2MDc0MjQ5/My0xODI0LmpwZWc.jpeg" alt="Cover for Lately" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1086,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/700waoYIxal8TMSWxuO5qivsrfa28nhlR4zfp1ixaRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUy/MDcyLTE2NTA0OTU5/NDUtNTM0OS5qcGVn.jpeg" alt="Cover for I Know That&#39;s Right" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,9 +1130,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/xaKCSHl1SQGuzEB8Gxj1tq3sMOyhTZXgauWBuOgHdxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEx/ODU4LTE3MTI1MDY5/MDQtMjA0My5wbmc.jpeg" alt="Cover for Tokyo 1980s Victor Edition (The Compilation) Boogie, Funk &amp; Modern Soul From Japan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e16d4005906a32c054212d395a25dad.png" alt="Cover for Tokyo 1980s Victor Edition (The Compilation) Boogie, Funk &amp; Modern Soul From Japan" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-11-05</td>
       <td>Reiko Takahashi</td>
@@ -1148,7 +1147,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/hUisl4i_-izJ0fC2sQ69j7ogWxk0oB_KLoLk5wnBfoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDE3/OC0xMTI4NTkyNTQ1/LmpwZWc.jpeg" alt="Cover for Circumstantial Evidence" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1193,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/797b025805edb48d7866d1493ca8406e.png" alt="Cover for Sla Radical Dance Disco Club" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1212,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/jKFw83ZMv6-KOMYwVXx9MfOc3x_L6YnLX6mO4qY1McM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ3/NzU0LTE1OTQ4ODMx/MTctNTk3My5qcGVn.jpeg" alt="Cover for The Incredible Dorothy Donegan Trio - Live at the 1991 Floating Jazz Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1231,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd9d946614c42ddb843275ac6c879b2.png" alt="Cover for Folk Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,16 +1254,16 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 10</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 22</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 48</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>1996</td>
@@ -1283,7 +1282,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/ILKmHRt2-UR9cixPMGg7R984df8AMvdo4DDt7zGOpO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/LTEzMzAwMzgzOTMu/anBlZw.jpeg" alt="Cover for Plans &amp; Designs" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1302,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/203e9112138e430da280cd9b577494a9.png" alt="Cover for The Boogie" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1324,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48db9fb16c696a55b2842c3f22c88b49.png" alt="Cover for 50th Anniversary Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,25 +1346,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/toou8eGA1C1AOuzwkG3fgjQ3Oq06g36MPzMslsHGqj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDgy/NS0xNDE3NDYzMjUx/LTU3NjYuanBlZw.jpeg" alt="Cover for Frame !" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Freeez</td>
-      <td>Frame !</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>1999</td>
@@ -1383,7 +1364,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/f-RgvJVi_wPslSRBvN0VGDvPfAg_tDSGGIw_pQ7la7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEz/MTEtMTMxMTE1OTAw/Ni5qcGVn.jpeg" alt="Cover for After School Special" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1383,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/sbYuNzSdBCzslzNMa6QIjxmlEUklYHu-lXCB_BOaRgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzE5/NzMtMTQxOTE3NjU1/MC04MDAyLmpwZWc.jpeg" alt="Cover for Seelenkrank" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,7 +1405,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/BQtuI6bLobE1KR8Hv_LI-988TAZ8W2lk7r2I8B3pXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU3/MTMtMTMwMjc1NDA4/Ni5qcGVn.jpeg" alt="Cover for The Richmond Sluts" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1430,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/l_2pY1yd6q6w7FZ0Ef6hM5Fk0qoztlXZexO3NrHqtKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzc1/NTYtMTI0MjY2OTUw/MS5qcGVn.jpeg" alt="Cover for Tired Of Being A Nice Guy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4468106d25d4460eb8f6ce74c6c07cd4.png" alt="Cover for Tired Of Being A Nice Guy" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Gene Dunlap</td>
@@ -1466,7 +1447,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/aaKcqnVhRxXW-AGySFrK8NoQi09sFwIlyBB0cGp0uGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDU0/OTQtMTM4OTU1NDMy/MS0xMzkyLmpwZWc.jpeg" alt="Cover for Direct Hit" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1466,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/UvE4uxViR-4uKkPgM-D2P8ewLk5JSiP8Mi1z9MIN8Ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODgy/MjYtMTQzNTY5OTQ1/My01MTgwLmpwZWc.jpeg" alt="Cover for Nothing But Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1485,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
       </td>
       <td>2005</td>
@@ -1521,7 +1502,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
       </td>
       <td>2006-04-28</td>
@@ -1544,7 +1525,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Stwj713uQwKRwaKBG7rjgtYTvSw261axU_01wL_jVoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDc4/NjYtMTI3NTg4NzE0/NS5qcGVn.jpeg" alt="Cover for Todos los Ocasos" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1543,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/xCxP7yuG-DfWPNxdRckuK_66oVYeDX0t1QwIVU3oAzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDcx/MTItMTQxODQ4NjQ0/Ny03OTAzLmpwZWc.jpeg" alt="Cover for The Beat Bandit" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,32 +1572,11 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       <td>We No Speak Americano</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d176953fc04f4d6286ac80804733bda5.png" alt="Cover for Voltage Controlled Feelings" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-12-03</td>
-      <td>Opolopo</td>
-      <td>Voltage Controlled Feelings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1642,9 +1602,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/zm_fOWj988JtTJDHMaDKz2PEaVXwoZiyC2rUJs7mtVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzcz/MjctMTM1MzE1OTY2/OS0xMDYzLmpwZWc.jpeg" alt="Cover for Scion A&#x2F;V Presents: Sound Pellegrino - Straight From The Spring" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7bb9d08f5c44cc990e2be8c2385b25.png" alt="Cover for Scion A&#x2F;V Presents: Sound Pellegrino - Straight From The Spring" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-19</td>
       <td>Gucci Vump</td>
@@ -1696,32 +1656,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/219911f43d6040e49eb8fe51cf7f7e0b.png" alt="Cover for The Kotten Fields Sessions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-02-17</td>
-      <td>The Backcorner Boogie Band</td>
-      <td>The Kotten Fields Sessions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8c8e79dfceb49c19021aa5cfba17509.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1680,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7fb81402e844c0b82745137068ea494.png" alt="Cover for Talkin 2 U" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1704,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
       </td>
       <td>2013-07-29</td>
@@ -1785,7 +1720,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 27</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1807,12 +1742,12 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 44</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/B-LrdnlW1qHIMNkvVhLPAJ85VSh346YZH8ZGVb4zQ74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDU3/MjMtMTQ0NTAwNTYw/NC02MDg0LmpwZWc.jpeg" alt="Cover for Synthetic Highway" style="max-width:120px; height:auto;" />
       </td>
@@ -1840,9 +1775,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/QelJdm8o7FYkjd4Sx3vyymFyKPta9P5wsjzrXkcs6WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg0/MDgzLTE1MzIxMzM3/NjMtMjUwOS5qcGVn.jpeg" alt="Cover for Privé" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c382ff01b86baac67ac9d058e59ea466.png" alt="Cover for Privé" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-19</td>
       <td>Tuuwa</td>
@@ -1861,7 +1796,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f842924d495ca87c47528453f3de8ad7.png" alt="Cover for So Good to You" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1817,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e846eff0d1054bd606659272c4915c6a.png" alt="Cover for Boogie Naipe" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,11 +1830,12 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bfd30e1ec7f9cf6695c9e6ee87192ef.png" alt="Cover for Today Is the Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,7 +1856,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/WAhUEcm-C2RP9iETBNkjDn4foO-VIH_T_nxJQJ0O9uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTc2/NzQtMTQ4NTI2MzQ4/My00ODIxLmpwZWc.jpeg" alt="Cover for La Diferencia" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,7 +1874,25 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bfec767d008bda467a78e9543e50110.png" alt="Cover for Parcels" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-12</td>
+      <td>Parcels</td>
+      <td>Parcels</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62285f38408c811c9366dd45e7095e83.png" alt="Cover for Aquarium Nightclub" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1913,25 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2befeac85cd26b21b4b6bc57fbfd2ed.png" alt="Cover for Live Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-19</td>
+      <td>Parcels</td>
+      <td>Live Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/501f8aaeaffe46ff586df7806847a3a7.png" alt="Cover for What&#39;s Your Pleasure?" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,16 +1945,36 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 17</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 75</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 81</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 77</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/ikPsZoJ3MSMVmLcM-tpWI6kj5kh9Xo_TDYq0w-4zl8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ5/ODA1LTE3MDM5NTYz/NzUtMzUyNS5qcGVn.jpeg" alt="Cover for O Amor, O Perdão e a Tecnologia Irão Nos levar Para Outro Planeta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f724f12da9805b8c5828dfc7aa79f070.png" alt="Cover for That! Feels Good!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-28</td>
+      <td>Jessie Ware</td>
+      <td>That! Feels Good!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeb2b08d2a2e8d5d91bc2e32313bc63c.png" alt="Cover for O Amor, O Perdão e a Tecnologia Irão Nos levar Para Outro Planeta" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-28</td>
       <td>FBC</td>
@@ -1993,6 +1985,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2015,16 +2008,16 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 37</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 45</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 62</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 93</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 45</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 73</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a273cf169703a3a1e38832225da0b9.png" alt="Cover for Elige Qué Decir" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,7 +2037,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2066,8 +2059,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71c74bfba9220b49059101d0fed8c4e7.png" alt="Cover for KANA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>和田加奈子</td>
@@ -2085,7 +2079,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
