@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-18T20:27:23.316Z
+date: 2025-11-18T22:18:43.836Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-18T20:27:23.316Z">Tue Nov 18 2025 22:27:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T22:18:43.836Z">Wed Nov 19 2025 00:18:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [brazilian pop]({{ "tags/brazilian-pop" | relative_url }}) | <time datetime="2025-11-18T22:18:43.836Z">Wed Nov 19 2025 00:18:43 GMT+0200 (Eastern European Standard Time)</time> |
+| [atmospheric drum and bass]({{ "tags/atmospheric-drum-and-bass" | relative_url }}) | <time datetime="2025-11-18T22:18:20.921Z">Wed Nov 19 2025 00:18:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [dutch]({{ "tags/dutch" | relative_url }}) | <time datetime="2025-11-18T20:27:23.316Z">Tue Nov 18 2025 22:27:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [san francisco]({{ "tags/san-francisco" | relative_url }}) | <time datetime="2025-11-18T20:24:26.439Z">Tue Nov 18 2025 22:24:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [baroque pop]({{ "tags/baroque-pop" | relative_url }}) | <time datetime="2025-11-18T20:08:22.331Z">Tue Nov 18 2025 22:08:22 GMT+0200 (Eastern European Standard Time)</time> |
@@ -305,7 +307,6 @@ Last updated: <time datetime="2025-11-18T20:27:23.316Z">Tue Nov 18 2025 22:27:23
 | [post-punk revival]({{ "tags/post-punk-revival" | relative_url }}) | <time datetime="2025-11-16T20:07:24.927Z">Sun Nov 16 2025 22:07:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [psychill]({{ "tags/psychill" | relative_url }}) | <time datetime="2025-11-16T20:07:16.895Z">Sun Nov 16 2025 22:07:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [latin jazz]({{ "tags/latin-jazz" | relative_url }}) | <time datetime="2025-11-16T20:06:55.054Z">Sun Nov 16 2025 22:06:55 GMT+0200 (Eastern European Standard Time)</time> |
-| [atmospheric drum and bass]({{ "tags/atmospheric-drum-and-bass" | relative_url }}) | <time datetime="2025-11-16T20:06:02.585Z">Sun Nov 16 2025 22:06:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [footwork]({{ "tags/footwork" | relative_url }}) | <time datetime="2025-11-16T20:05:36.779Z">Sun Nov 16 2025 22:05:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [london]({{ "tags/london" | relative_url }}) | <time datetime="2025-11-16T18:41:22.636Z">Sun Nov 16 2025 20:41:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [phonk]({{ "tags/phonk" | relative_url }}) | <time datetime="2025-11-16T18:17:09.440Z">Sun Nov 16 2025 20:17:09 GMT+0200 (Eastern European Standard Time)</time> |
@@ -518,7 +519,6 @@ Last updated: <time datetime="2025-11-18T20:27:23.316Z">Tue Nov 18 2025 22:27:23
 | [aussie]({{ "tags/aussie" | relative_url }}) | <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [miami bass]({{ "tags/miami-bass" | relative_url }}) | <time datetime="2025-11-14T00:19:19.593Z">Fri Nov 14 2025 02:19:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie emo]({{ "tags/indie-emo" | relative_url }}) | <time datetime="2025-11-14T00:19:14.482Z">Fri Nov 14 2025 02:19:14 GMT+0200 (Eastern European Standard Time)</time> |
-| [brazilian pop]({{ "tags/brazilian-pop" | relative_url }}) | <time datetime="2025-11-14T00:17:28.550Z">Fri Nov 14 2025 02:17:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie punk]({{ "tags/indie-punk" | relative_url }}) | <time datetime="2025-11-13T23:57:57.024Z">Fri Nov 14 2025 01:57:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [crooners]({{ "tags/crooners" | relative_url }}) | <time datetime="2025-11-13T23:57:52.630Z">Fri Nov 14 2025 01:57:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [blues rock]({{ "tags/blues-rock" | relative_url }}) | <time datetime="2025-11-13T23:41:29.644Z">Fri Nov 14 2025 01:41:29 GMT+0200 (Eastern European Standard Time)</time> |
