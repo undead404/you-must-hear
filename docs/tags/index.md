@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-18T17:15:45.131Z
+date: 2025-11-18T18:54:47.992Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-18T17:15:45.131Z">Tue Nov 18 2025 19:15:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-18T18:54:47.992Z">Tue Nov 18 2025 20:54:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [french pop]({{ "tags/french-pop" | relative_url }}) | <time datetime="2025-11-18T18:54:47.992Z">Tue Nov 18 2025 20:54:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [dark folk]({{ "tags/dark-folk" | relative_url }}) | <time datetime="2025-11-18T17:15:45.131Z">Tue Nov 18 2025 19:15:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [country]({{ "tags/country" | relative_url }}) | <time datetime="2025-11-18T16:24:33.121Z">Tue Nov 18 2025 18:24:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [kawaii metal]({{ "tags/kawaii-metal" | relative_url }}) | <time datetime="2025-11-18T16:03:03.472Z">Tue Nov 18 2025 18:03:03 GMT+0200 (Eastern European Standard Time)</time> |
@@ -592,7 +593,6 @@ Last updated: <time datetime="2025-11-18T17:15:45.131Z">Tue Nov 18 2025 19:15:45
 | [glasgow]({{ "tags/glasgow" | relative_url }}) | <time datetime="2025-11-11T10:22:30.869Z">Tue Nov 11 2025 12:22:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [berlin]({{ "tags/berlin" | relative_url }}) | <time datetime="2025-11-11T10:20:15.330Z">Tue Nov 11 2025 12:20:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [slow jams]({{ "tags/slow-jams" | relative_url }}) | <time datetime="2025-11-11T10:17:58.700Z">Tue Nov 11 2025 12:17:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [french pop]({{ "tags/french-pop" | relative_url }}) | <time datetime="2025-11-11T10:17:42.867Z">Tue Nov 11 2025 12:17:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [chanson francaise]({{ "tags/chanson-francaise" | relative_url }}) | <time datetime="2025-11-11T10:14:40.245Z">Tue Nov 11 2025 12:14:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [dreamwave]({{ "tags/dreamwave" | relative_url }}) | <time datetime="2025-11-11T08:16:07.450Z">Tue Nov 11 2025 10:16:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [moombahton]({{ "tags/moombahton" | relative_url }}) | <time datetime="2025-11-11T05:03:40.486Z">Tue Nov 11 2025 07:03:40 GMT+0200 (Eastern European Standard Time)</time> |
