@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-19T03:26:58.520Z
+date: 2025-11-19T04:32:06.937Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-19T03:26:58.520Z">Wed Nov 19 2025 05:26:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T04:32:06.937Z">Wed Nov 19 2025 06:32:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [hi-nrg]({{ "tags/hi-nrg" | relative_url }}) | <time datetime="2025-11-19T04:32:06.937Z">Wed Nov 19 2025 06:32:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-11-19T03:26:58.520Z">Wed Nov 19 2025 05:26:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [meditation]({{ "tags/meditation" | relative_url }}) | <time datetime="2025-11-19T03:06:46.692Z">Wed Nov 19 2025 05:06:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [sertanejo]({{ "tags/sertanejo" | relative_url }}) | <time datetime="2025-11-19T02:51:37.944Z">Wed Nov 19 2025 04:51:37 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1315,7 +1316,6 @@ Last updated: <time datetime="2025-11-19T03:26:58.520Z">Wed Nov 19 2025 05:26:58
 | [quebec]({{ "tags/quebec" | relative_url }}) | <time datetime="2025-10-18T15:52:17.536Z">Sat Oct 18 2025 18:52:17 GMT+0300 (Eastern European Summer Time)</time> |
 | [svenskt]({{ "tags/svenskt" | relative_url }}) | <time datetime="2025-10-18T14:42:09.552Z">Sat Oct 18 2025 17:42:09 GMT+0300 (Eastern European Summer Time)</time> |
 | [south africa]({{ "tags/south-africa" | relative_url }}) | <time datetime="2025-10-18T14:27:01.764Z">Sat Oct 18 2025 17:27:01 GMT+0300 (Eastern European Summer Time)</time> |
-| [hi-nrg]({{ "tags/hi-nrg" | relative_url }}) | <time datetime="2025-10-18T14:08:20.965Z">Sat Oct 18 2025 17:08:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [avantgarde pop]({{ "tags/avantgarde-pop" | relative_url }}) | <time datetime="2025-10-18T12:05:20.494Z">Sat Oct 18 2025 15:05:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [classic country]({{ "tags/classic-country" | relative_url }}) | <time datetime="2025-10-18T11:53:05.505Z">Sat Oct 18 2025 14:53:05 GMT+0300 (Eastern European Summer Time)</time> |
 | [chillstep]({{ "tags/chillstep" | relative_url }}) | <time datetime="2025-10-18T10:14:31.174Z">Sat Oct 18 2025 13:14:31 GMT+0300 (Eastern European Summer Time)</time> |
