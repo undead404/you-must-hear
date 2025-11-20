@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T05:11:33.989Z
+date: 2025-11-19T20:38:39.185Z
 permalink: tags/hardcore-hip-hop
 title: hardcore hip hop
 ---
 
 ## hardcore hip hop
 
-Last updated: <time datetime="2025-11-14T05:11:33.989Z">Fri Nov 14 2025 07:11:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:38:39.185Z">Wed Nov 19 2025 22:38:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,28 +29,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/_f3MnAkftCRDdb4GcDJpoQtjWj-_RP3DDvX0B7Z2JtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODk4/NjQtMTQzMTEzMjM5/MS04NDU5LmpwZWc.jpeg" alt="Cover for Rhyme Pays (Explicit Version)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Ice-T</td>
-      <td>Rhyme Pays (Explicit Version)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0f4e8a48c9d4a4785a0f9b1ec3ef41f.png" alt="Cover for Greatest Misses" style="max-width:120px; height:auto;" />
       </td>
@@ -70,28 +49,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22cd48a13d1b4609c6d9dabc22186ef4.png" alt="Cover for Tical" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-11-15</td>
-      <td>Method Man</td>
-      <td>Tical</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18c196c218f56bfb3e920da70ba59ca6.png" alt="Cover for Return To The 36 Chambers: The Dirty Version" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +70,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25c92211a1744a4d8a2d7854dd1d5fae.png" alt="Cover for The Infamous" style="max-width:120px; height:auto;" />
       </td>
@@ -127,33 +85,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 6</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 41</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 56</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 12</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 40</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 62</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/ItnmePoLdhlAJO-FyWaoRm5qAHq4VTVqfVvD1b2CscA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQx/OC0xNjA5NTg5OTky/LTExNzguanBlZw.jpeg" alt="Cover for Sex Style" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-11-01</td>
-      <td>Kool Keith</td>
-      <td>Sex Style</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for ElCamino 2" style="max-width:120px; height:auto;" />
       </td>
@@ -172,14 +113,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 12</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 19</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 15</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for Don&#39;t Eat the Fruit" style="max-width:120px; height:auto;" />
       </td>
@@ -198,15 +139,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 23</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 19</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 31</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b71796a5a734c2f97a0daddd12115fe.png" alt="Cover for The Slim Shady LP" style="max-width:120px; height:auto;" />
       </td>
@@ -220,13 +161,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 24</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e66b5f1d4158b14bfdd36413f3719.png" alt="Cover for The Marshall Mathers LP" style="max-width:120px; height:auto;" />
       </td>
@@ -241,14 +182,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 62</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 75</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/Zl2kxW_ZCWFC7oSJu03Vnc9cnW0WJXuv_nckU1SKEqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/Ni0xNTk5MzE5Nzc2/LTUzNjUuanBlZw.jpeg" alt="Cover for Steal This Double Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/babaa5538f2d38173539cd401e8bb324.png" alt="Cover for Steal This Double Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>The Coup</td>
@@ -267,15 +208,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 14</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 32</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/LZFzN31YEFO4JYSoGHnTiKKEkQs-u_pMA60JVUPzzaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDAy/LTEzMTA1NDE4Mzku/anBlZw.jpeg" alt="Cover for From Filthy Tongue of Gods and" style="max-width:120px; height:auto;" />
       </td>
@@ -291,14 +232,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 56</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
       </td>
       <td>2002-08-05</td>
@@ -313,14 +254,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003-09-15</td>
@@ -333,14 +274,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 34</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 37</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 55</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/EI0bkTrspTLPDfwI7v2ASN4JGp4SK1_sqFPuiUZdAX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTI5/Ny0xNjkwNTI3OTk3/LTc5NzYuanBlZw.jpeg" alt="Cover for D-12 World" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +302,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54b253f559f2e5fae3ab89a8a947cfa6.png" alt="Cover for D12 World" style="max-width:120px; height:auto;" />
       </td>
@@ -383,28 +324,9 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d765d5a61159ed2dd0701284149c9bb.png" alt="Cover for Devil&#39;s Night" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-10-21</td>
-      <td>D12</td>
-      <td>Devil&#39;s Night</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/oagYMawz7YwT3aZzvBwOI7rSPwS8cyDvnx6EZJMEBw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMy/NDEtMTI3ODAzNzI2/NS5qcGVn.jpeg" alt="Cover for Black and brown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b3975529cfc651c378e8829908b980d.png" alt="Cover for Black and brown" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-11</td>
       <td>Black Milk</td>
@@ -419,13 +341,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 29</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 69</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 31</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/602216c84d194685a57778acd2c170b0.png" alt="Cover for How You Sell Soul To A Soulless People Who Sold Their Soul???" style="max-width:120px; height:auto;" />
       </td>
@@ -443,7 +365,26 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/222d429a9ff44883b45b5e8d96e4ca05.png" alt="Cover for Hot Soup" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07-01</td>
+      <td>Danny Brown</td>
+      <td>Hot Soup</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 2</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
       </td>
       <td>2009-12-25</td>
@@ -456,13 +397,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c83b00d3aa3411ac1f92b8c2f3ae88b.png" alt="Cover for EARL" style="max-width:120px; height:auto;" />
       </td>
@@ -476,13 +417,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 53</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9c62e69cc995d38207e09e7da95c4ad.png" alt="Cover for The Hybrid" style="max-width:120px; height:auto;" />
       </td>
@@ -497,42 +438,12 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/771cb5b912d14122b34f29c104a5e32d.png" alt="Cover for Red Flame" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-11-09</td>
-      <td>Lil B</td>
-      <td>Red Flame</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 48</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
       <td>
           <img src="https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg" alt="Cover for Life After Death (2014 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -552,15 +463,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 18</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 21</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 22</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 24</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d82e6c5e63474aa9b6eacf2ccc87f8.png" alt="Cover for Death Grips" style="max-width:120px; height:auto;" />
       </td>
@@ -595,13 +506,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 44</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 47</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -613,10 +524,10 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 1</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 7</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 34</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 60</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 62</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 84</li>
         </ul>
       </td>
@@ -643,8 +554,9 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa1fed510a74fb9cf1954182169789c.png" alt="Cover for Live From Death Valley" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-28</td>
       <td>Death Grips</td>
@@ -663,18 +575,18 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 60</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2011-08-03</td>
@@ -693,7 +605,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 91</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 94</li>
@@ -701,7 +613,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c32cd109176d4241b2b68183b631a47c.png" alt="Cover for XXX" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +627,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -736,12 +648,12 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
       </td>
       <td>2012-03-20</td>
@@ -753,12 +665,12 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ef0d3d35720910529fe026a2d2fe7c.png" alt="Cover for The Money Store" style="max-width:120px; height:auto;" />
       </td>
@@ -771,15 +683,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/ag1Ca1MB7Uw6-GfCSF_YTWUU_cJCwr2TFoZej3WW3Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA5/NjQzLTE2Mjg1ODkx/NjMtMTEwNi5qcGVn.jpeg" alt="Cover for MACHETE MIXTAPE 4" style="max-width:120px; height:auto;" />
       </td>
@@ -801,13 +713,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 55</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 61</li>
             <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c3464e002eebb52d76d6c5c65b2c8f5.png" alt="Cover for R.A.P. Music" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +737,26 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db735ffd94d410d77cd71fa12b6a09a0.png" alt="Cover for Swimming Pools (Drank)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-30</td>
+      <td>Kendrick Lamar</td>
+      <td>Swimming Pools (Drank)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3bf939762c4ca58430c8db55cf4c05.png" alt="Cover for No Love Deep Web" style="max-width:120px; height:auto;" />
       </td>
@@ -839,15 +770,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 29</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 48</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63632d97e1a24bb9a5d63be4d8c6623e.png" alt="Cover for Numbers" style="max-width:120px; height:auto;" />
       </td>
@@ -856,19 +787,37 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>Numbers</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48628c6af67db437b0b9ff156b2c1085.png" alt="Cover for good kid, m.A.A.d city" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-21</td>
+      <td>Kendrick Lamar</td>
+      <td>good kid, m.A.A.d city</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 1</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 22</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0de576a486344cbfe3fa52a1d14bf47.png" alt="Cover for good kid, m.A.A.d city (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -881,10 +830,9 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 10</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 93</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 98</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 55</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -901,15 +849,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 55</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 30</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 57</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 60</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d8c1f84d67e60c5dda039d6fb3653f.png" alt="Cover for Yeezus" style="max-width:120px; height:auto;" />
       </td>
@@ -925,15 +873,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 74</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 80</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 81</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 93</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f387bd28c0e42a9c243c0f6e5441e31.png" alt="Cover for Run the Jewels" style="max-width:120px; height:auto;" />
       </td>
@@ -951,7 +899,26 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b786192cd8fe4831a998946f3a5cb33b.png" alt="Cover for Doris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-16</td>
+      <td>Earl Sweatshirt</td>
+      <td>Doris</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 26</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/czPnH8b37TIgeIXgyDaatFgaJsV6EHmEM-Xgd7TAhLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzM4/NjQtMTM3Njk2MDE3/NS02NjI5LmpwZWc.jpeg" alt="Cover for Key to the Kuffs (Butter Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -970,13 +937,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 23</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 37</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 26</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2015faa98b754dbccd370cbd0e589783.png" alt="Cover for Old" style="max-width:120px; height:auto;" />
       </td>
@@ -990,28 +957,6 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>2013-10-22</td>
-      <td>Armand Hammer</td>
-      <td>RACE MUSIC</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1032,12 +977,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 3</li>
             <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>2014-12-09</td>
@@ -1054,8 +1000,8 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 63</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1074,10 +1020,10 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 84</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 89</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
         </ul>
       </td>
@@ -1102,15 +1048,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 9</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 28</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 92</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 94</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86b35c4eb3c479da49c915d8771bbd1a.png" alt="Cover for To Pimp a Butterfly" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,23 +1065,22 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>To Pimp a Butterfly</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 38</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 58</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 73</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 75</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg" alt="Cover for the powers that b" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,13 +1096,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 31</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 33</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 91</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
         </ul>
       </td>
@@ -1179,8 +1124,8 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 84</li>
         </ul>
       </td>
@@ -1204,7 +1149,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 87</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 90</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1224,8 +1169,8 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 60</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1247,14 +1192,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 75</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15bb2e6f96f7e852f5cf61375e724f7e.png" alt="Cover for SATURATION" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,7 +1217,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85540f3f9e225b93de5972556ceb97d6.png" alt="Cover for Big Fish Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,20 +1226,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>Big Fish Theory</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 2</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 6</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 88</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 92</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1312,16 +1253,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 4</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 10</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 91</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 94</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15df301898a48aa2a8c13632e38f6ca9.png" alt="Cover for DAYTONA" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1276,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 58</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1358,7 +1299,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/ZWKEbn8XxrLgIQS17W6Dkhtg5O2q2VhKQSTr9Oh6mpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/MTc3LTE1MzAxODE3/NjQtMjQzMS5qcGVn.jpeg" alt="Cover for SUPREME BLIENTELE" style="max-width:120px; height:auto;" />
       </td>
@@ -1377,16 +1318,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 19</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 18</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 78</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb08998bcef5c46fc1aaec14be568d86.png" alt="Cover for TA13OO" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,32 +1340,8 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 2</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 13</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 37</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 4</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7398b011303786537859aa00a10cadb6.png" alt="Cover for iridescence" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-09-21</td>
-      <td>BROCKHAMPTON</td>
-      <td>iridescence</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 14</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1448,15 +1365,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 55</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 68</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 59</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9241b022aa2774956c42b0e50c1b09.png" alt="Cover for ROADRUNNER: NEW LIGHT, NEW MACHINE" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,16 +1386,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 62</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 78</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 81</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/XaeoayS9wkPBMdnYwES6IyX8ojabNua7rROJiTE-R00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI5/NTIyLTE1NzAzMDY2/ODAtMjkxMS5qcGVn.jpeg" alt="Cover for uknowhatimsayin¿" style="max-width:120px; height:auto;" />
       </td>
@@ -1495,16 +1412,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 22</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 80</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/9EBO0iX4m8FK202ZfJgqb95iqfgj1AsKR50wI9QWDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/OTc2LTE1OTczNTIw/MDEtOTM1OC5qcGVn.jpeg" alt="Cover for 1998 TRUMAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,16 +1446,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 92</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 96</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/o-C-LHvRxGKf6xEKDmDBRKcvzInbL5KZrrHOlClAREk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE0/OTI1LTE1NTU2NjUw/NjItNzE5My5qcGVn.jpeg" alt="Cover for It Wasn&#39;t Even Close" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/934489219ce529357ca9c451c8145d49.png" alt="Cover for It Wasn&#39;t Even Close" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-19</td>
       <td>Your Old Droog</td>
@@ -1555,10 +1472,10 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 11</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 40</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 12</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 45</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 57</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 76</li>
         </ul>
       </td>
@@ -1583,16 +1500,16 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 30</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 87</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab73a2ef85ff757e616cdbd991301859.png" alt="Cover for All My Heroes Are Cornballs" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,10 +1524,10 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 79</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 97</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1631,10 +1548,10 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 99</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1654,12 +1571,12 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 92</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/J0og1BX-c7UTQBnP28Rn_0onnQOrYGl4rwCNFfVeSmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE4/NjUtMTM2MzY2ODcw/NS03NDYwLmpwZWc.jpeg" alt="Cover for Marcielago" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,14 +1594,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 37</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/8QheY_w8eZE7_29FeJ7Tcj17rZqKEGQcIHIh0US1bXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ0/OTgxLTE1ODcyNTM3/OTMtODkyNi5qcGVn.jpeg" alt="Cover for Pray For Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1615,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 53</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 96</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 96</li>
@@ -1706,7 +1623,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f3dbc36c619eff33b27186679d4a0fd.png" alt="Cover for THE LIZ 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1645,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0db2bb3f8dcebb4279db97dc7608d090.png" alt="Cover for Whole Lotta Red" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,24 +1654,21 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>Whole Lotta Red</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 58</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 49</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 81</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/-5Q4JCdFJALL8kM8KQjuGaqmNqI-oSSzP7zaDZiEXck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc2/NTI5LTE1MzYwNTMz/MjQtNjM1OS5qcGVn.jpeg" alt="Cover for Dollar Menu 4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73fa731f1c00e61046be081d64653a84.png" alt="Cover for Dollar Menu 4" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Mach-Hommy</td>
@@ -1771,13 +1685,31 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       <td>
         <ul>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 28</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 39</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 48</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1ad42128e367623348c96f9b0ce70e2.png" alt="Cover for OFFLINE!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>JPEGMAFIA</td>
+      <td>OFFLINE!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/037b23a0412996806a14d24ff1fcf763.png" alt="Cover for LP!" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,38 +1727,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 30</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 92</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/68TYCbqkzs7O4xSXmvbuL-45pOg5DnnRePJHPOaj59M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/MjMyLTE2NjU3Njcy/NzItNDI0Ni5qcGVn.jpeg" alt="Cover for OFFLINE!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>JPEGMAFIA</td>
-      <td>OFFLINE!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 69</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 91</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/pw8Dl_WsUkbMwIkyaJRVHLBAz-NryOffrNXasHKhSxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzc2/MzY2LTE2MTg5MDY2/MjgtNjQwNS5qcGVn.jpeg" alt="Cover for VETERAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1840,14 +1749,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 53</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/8ZSRc8fvkdkhEUjtrB_Xsl7XFP_l5WOkJpOQt_gKS7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDMz/MjIwLTE3MDQ3Njc3/NTktOTY0Ny5qcGVn.jpeg" alt="Cover for TV62" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,13 +1772,13 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 17</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/xXyT95_v-mmkNeCu84MmC4EhMSA5sMR8RfBJlP9FskA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDMw/OTc0LTE2NTM2Njkx/NDQtOTc5NS5qcGVn.jpeg" alt="Cover for Family Ties - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1795,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 89</li>
         </ul>
       </td>
@@ -1910,14 +1819,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 30</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 39</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 48</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e8b0ee8b3e5a5d491190939168ea9c.png" alt="Cover for The Color Blu(e)" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1844,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 42</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1961,8 +1870,8 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 42</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 74</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
@@ -1970,7 +1879,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/HApYKJT_Q09Q8C1PkEIyYI-AreQzL_Hl0pezMGQqnpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTEw/NzEtMTQ1Njg0NTEw/OC03ODU3LmpwZWc.jpeg" alt="Cover for FlyGod" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,9 +1893,9 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 48</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 80</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 82</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2004,8 +1913,8 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 5</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 90</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 12</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2024,38 +1933,12 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 41</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2191034bb72b953cf42246728c99902e.png" alt="Cover for PEACE &quot;FLY&quot; GOD" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-07-08</td>
-      <td>Westside Gunn</td>
-      <td>PEACE &quot;FLY&quot; GOD</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 28</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 52</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24874fdc4d4903af6f9138551379f42d.png" alt="Cover for Screensavers Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2074,39 +1957,34 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 36</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 36</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/UAgKkT5wnDfCWAjCs0k2JTLlxdA5c4ZIzmkViBtu_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE2/NzYxLTE2NjU3MjM2/NjItNTY0NS5qcGVn.jpeg" alt="Cover for Gunsmith tha Mixtape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c56bc8ec52c7945ba457aaef28353a.png" alt="Cover for Gunsmith tha Mixtape" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-12</td>
       <td>Hackle</td>
       <td>Gunsmith tha Mixtape</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 3</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 66</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9baafad65ef86a8fcd4fdfa7eb718109.png" alt="Cover for 4NEM" style="max-width:120px; height:auto;" />
       </td>
@@ -2122,12 +2000,12 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 64</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/PFO970ybmBBCiZz0VhyAD9bZOcZz4ZV8ramTEsgAGcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/Mjk2LTE2MDk2MzYz/MDctODc3Ni5qcGVn.jpeg" alt="Cover for BORN LIKE THIS (Redux)" style="max-width:120px; height:auto;" />
       </td>
@@ -2145,15 +2023,15 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 32</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 64</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 34</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 67</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/AAj2R_Z5PQpJzMxK-e_RidPCpn0MMb2P52RvEkFzY34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM1/MjUxLTE2OTM1NjQw/NDAtOTY2MS5qcGVn.jpeg" alt="Cover for Scaring The Hoes" style="max-width:120px; height:auto;" />
       </td>
@@ -2166,12 +2044,12 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 22</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d37ebf99e77aeabec42305f4310fe76.png" alt="Cover for A Great Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -2186,9 +2064,9 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 1</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 23</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 46</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2211,14 +2089,14 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae8849105e2fb70f8bfb04cb5ab26479.png" alt="Cover for Flex Musix" style="max-width:120px; height:auto;" />
       </td>
@@ -2235,7 +2113,8 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 15</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2259,7 +2138,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/570ee7d85195dba85556225dc81ebb74.png" alt="Cover for King Of The Mischievous South Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -2273,7 +2152,7 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 91</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2293,10 +2172,79 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 28</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 79</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 95</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a79564a9768d05272682b252deb02079.png" alt="Cover for GNX" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Kendrick Lamar</td>
+      <td>GNX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0b389bb4cbf522bc5a2b58e15b6620.png" alt="Cover for Chromakopia" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>Chromakopia</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874304f6869f3db52ad965650ed5b85d.png" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>Cherry Bomb</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bed6cc4a2f68d3bb2228fbe6654b887.png" alt="Cover for CALL ME IF YOU GET LOST" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>CALL ME IF YOU GET LOST</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2307,11 +2255,11 @@ Hardcore hip hop is a subgenre of hip hop music that is characterized by aggress
 
 - [trap]({{ "/tags/trap" | relative_url }})
 - [experimental hip hop]({{ "/tags/experimental-hip-hop" | relative_url }})
-- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
-- [boom bap]({{ "/tags/boom-bap" | relative_url }})
 - [sampling]({{ "/tags/sampling" | relative_url }})
+- [boom bap]({{ "/tags/boom-bap" | relative_url }})
+- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
 - [east coast hip hop]({{ "/tags/east-coast-hip-hop" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
 - [abstract hip hop]({{ "/tags/abstract-hip-hop" | relative_url }})
-- [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
 - [industrial hip hop]({{ "/tags/industrial-hip-hop" | relative_url }})
+- [cloud rap]({{ "/tags/cloud-rap" | relative_url }})

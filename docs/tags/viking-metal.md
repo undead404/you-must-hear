@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T01:58:11.403Z
+date: 2025-11-19T20:40:44.876Z
 permalink: tags/viking-metal
 title: viking metal
 ---
 
 ## viking metal
 
-Last updated: <time datetime="2025-11-12T01:58:11.403Z">Wed Nov 12 2025 03:58:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:40:44.876Z">Wed Nov 19 2025 22:40:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/9MN7BdB-aBX8co2boT2iJJ9-Kh2-gjDSP3EqGTNuaWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU5/MC0xNjA0NTU5MjY0/LTQ5MzUuanBlZw.jpeg" alt="Cover for Blood Fire Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58e8819bbcd98de3fc59f634bcf6bf46.png" alt="Cover for Blood Fire Death" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-10-08</td>
       <td>Bathory</td>
@@ -43,13 +43,14 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70d2b8b882a551ef3f3e0dad084155f7.png" alt="Cover for Hammerheart" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-04-16</td>
       <td>Bathory</td>
@@ -83,7 +84,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1994</td>
@@ -102,8 +103,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b4c2e5fdee68bef3a14167aa6a98d70.png" alt="Cover for Aurora Borealis" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Einherjer</td>
@@ -137,7 +139,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1994-08-04</td>
@@ -227,9 +229,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/Hgg02fFd_JqwTH6Z7rytyASbVMCgnEWaxoet75U4lF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc5/OTctMTM5MTcyNTQx/OC00MjUzLmpwZWc.jpeg" alt="Cover for The Olden Domain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1445f27ce289e7123435dd190ee4724f.png" alt="Cover for The Olden Domain" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-18</td>
       <td>Borknagar</td>
@@ -245,8 +247,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a707f724288d4de78608ea602993760b.png" alt="Cover for Far Far North" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-12-01</td>
       <td>Einherjer</td>
@@ -262,7 +265,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/baFJgUSUIc88XaduAwOhLAiOH2M8p4L2U7nCRnvq4yA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg2/MDYtMTI4NzI3MDU0/Ny5qcGVn.jpeg" alt="Cover for King Of A Distant Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -283,7 +286,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/C7SAC6yxjqA0IidF6cn4N2PTEV2Htr4iPyljir1AUc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk5/NDAtMTU0NjI0Njcw/MC0xNDk2LmpwZWc.jpeg" alt="Cover for Till Fjälls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04c0d85e0dab8a555bdf3bc6ef226437.png" alt="Cover for Till Fjälls" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Vintersorg</td>
@@ -299,9 +302,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f430f1f762d0d1978ebb4875002becf6.png" alt="Cover for Once Sent From The Golden Hall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd106beea7010885b539bd2e0e064f1.png" alt="Cover for Once Sent From The Golden Hall" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-10</td>
       <td>Amon Amarth</td>
@@ -353,7 +356,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>1998-06-01</td>
@@ -371,7 +374,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/y5LIuZYBiGpZtqM5a0f07pwbRDiYTc28KmDZq7ZgGpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDMy/MC0xMjU5NTE3Mzk3/LmpwZWc.jpeg" alt="Cover for Hedniskhjärtad" style="max-width:120px; height:auto;" />
       </td>
@@ -389,8 +392,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ace1b3e9501477ec7d4f9e4ca0963b5.png" alt="Cover for King of the Distant Forest" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-06</td>
       <td>Mithotyn</td>
@@ -444,7 +448,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/UpiQSde295nlTTQrjH9Oq-r4TXDx4Qad7KT9MGifahI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODk3/NS0xMTEzODA1MDIx/LmpwZw.jpeg" alt="Cover for Valdr Galga" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6051c1ef71247b9a6aae54a03db430a.png" alt="Cover for Valdr Galga" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-03-15</td>
       <td>Thyrfing</td>
@@ -462,7 +466,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/frBoA3i9I_NBi_kkrvDfKgrh6blQbJVXBU7I6IDY5zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUy/NjItMTI3MzMyMzY3/MS5qcGVn.jpeg" alt="Cover for Gathered Around the Oaken Table" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b03898ba0316584349a7ad6e81023c55.png" alt="Cover for Gathered Around the Oaken Table" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-26</td>
       <td>Mithotyn</td>
@@ -493,7 +497,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 39</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 43</li>
         </ul>
       </td>
@@ -554,6 +558,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/587eee432a1d81735724bd2131ceb620.png" alt="Cover for The Crusher" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-28</td>
       <td>Amon Amarth</td>
@@ -614,7 +619,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/f1s4EkUl5xCZ7tymARwRx-ieq3o7Yz54gV8jUrhmBUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODYy/NS0xMTM3OTMxODg3/LmpwZWc.jpeg" alt="Cover for Destroyer of Worlds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08143267c2f149398ce5378f23954e61.png" alt="Cover for Destroyer of Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-23</td>
       <td>Bathory</td>
@@ -647,7 +652,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 45</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 49</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 87</li>
         </ul>
       </td>
@@ -675,7 +680,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>31</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/068ec71c38224795b07a22305db52edb.png" alt="Cover for How Far to Asgaard" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/597d09be106e64fc8a10d66c60bba454.png" alt="Cover for How Far to Asgaard" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-12-31</td>
       <td>Týr</td>
@@ -747,6 +752,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/954bf9daadb39d54e2171ada83e1911e.png" alt="Cover for Versus The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-18</td>
       <td>Amon Amarth</td>
@@ -821,7 +827,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/2tO3GtcaDTtw_P01Ob2SS_WX9p9y-zVOsJ8U-HutDMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTUz/Ni0xNDkwNDYwNTA5/LTk1NDkuanBlZw.jpeg" alt="Cover for Nordland II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd90465c9f86442aad809ed54c7884f5.png" alt="Cover for Nordland II" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-31</td>
       <td>Bathory</td>
@@ -837,7 +843,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003-05-05</td>
@@ -852,7 +858,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 34</li>
             <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 100</li>
         </ul>
       </td>
@@ -893,8 +899,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cbc594a80434b329d7873703ab1ec09.png" alt="Cover for Hin Vordende Sod &amp; Sø" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-25</td>
       <td>Ásmegin</td>
@@ -913,6 +920,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/213a1d9c99634294af62798ba6acafa1.png" alt="Cover for Ok Nefna Tysvar Ty" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-03</td>
       <td>Falkenbach</td>
@@ -930,7 +938,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/laujIcWleToUWqWUgGSPFUbnFA3c-8OFZCrbi8R_dMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTMz/NS0xMTQ1NjI2MjU5/LmpwZWc.jpeg" alt="Cover for Eric The Red" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aac4c187cddf44948553f87a196779e.png" alt="Cover for Eric The Red" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-11</td>
       <td>Týr</td>
@@ -949,6 +957,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81eecd7931493d26955d39cde9249931.png" alt="Cover for Blot" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-21</td>
       <td>Einherjer</td>
@@ -964,8 +973,9 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fe9a7736be84cbccc749a8fb534ec2f.png" alt="Cover for Trollhammaren" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-15</td>
       <td>Finntroll</td>
@@ -984,6 +994,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d67ee92398ef49de47353b6f2de052.png" alt="Cover for Iron" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-15</td>
       <td>Ensiferum</td>
@@ -1021,7 +1032,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2004-09-03</td>
@@ -1039,6 +1050,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46da87d414cb12168874f963f16e900f.png" alt="Cover for Fate of Norns" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-06</td>
       <td>Amon Amarth</td>
@@ -1073,7 +1085,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2005-02-14</td>
@@ -1117,7 +1129,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/wkVt4UYn5vfXWlHQZSRWh5ZdW4P-WAFlgdpwIvjxUEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDUw/Ny0xMjA5MDAwMTA5/LmpwZWc.jpeg" alt="Cover for Vredens tid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ce2a8be37c9f1165ba19782c12348c.png" alt="Cover for Vredens tid" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-28</td>
       <td>Månegarm</td>
@@ -1130,6 +1142,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1167,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/VJTnB26LHIXWwhFpN2Z83V9hEpOshWvRXTn94CeTYLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTIw/MS0xMTU0NzMxNTQ4/LmpwZWc.jpeg" alt="Cover for Heralding The Fireblade" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2dfcdb0928148cebb06f8fdf49a1578.png" alt="Cover for Heralding The Fireblade" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-25</td>
       <td>Falkenbach</td>
@@ -1185,12 +1198,12 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 31</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>2006-06-01</td>
@@ -1209,6 +1222,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/030a41a12e6e47db9eb6102fde584ffe.png" alt="Cover for With Oden On Our Side" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-20</td>
       <td>Amon Amarth</td>
@@ -1240,7 +1254,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 34</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1281,6 +1295,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d2937390da7467b97d88c8ab93d2979.png" alt="Cover for Strange Rumours... distant Tremors" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-16</td>
       <td>Kromlek</td>
@@ -1304,6 +1319,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/137b569d2e4849609f163119498a69c6.png" alt="Cover for Victory Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-23</td>
       <td>Ensiferum</td>
@@ -1376,7 +1392,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2007-07-06</td>
@@ -1397,7 +1413,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/ZhL7pGT0QV5UzLRtVrVRp5mJTmFXGZTi1dpSJiixXeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDU0/ODktMTMxNzg1ODk0/MC5qcGVn.jpeg" alt="Cover for Rasputin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8987b857abe04357bd4a5627c70b50f1.png" alt="Cover for Rasputin" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-31</td>
       <td>Turisas</td>
@@ -1476,6 +1492,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/452a220c6c6d41a4a651aa5da2e3d07b.png" alt="Cover for Twilight of the Thunder God" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-17</td>
       <td>Amon Amarth</td>
@@ -1511,7 +1528,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Ss5lRAjckNaWVHzHXSgRI6kvI6qGpgNL8CFMBXNNR50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ5/MjQtMTYwMzY0MzMz/Ny04MDc3LmpwZWc.jpeg" alt="Cover for Iron (2009 Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f8413d50dd24d61aa3383a5ae81ef0.png" alt="Cover for Iron (2009 Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Ensiferum</td>
@@ -1529,12 +1546,12 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 21</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 44</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/nSMy0VOhYkjnw9uZil27DONJkdr92doy8Ik75Rif6rQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE3/OTgtMTI2MTAwOTIy/Ny5qcGVn.jpeg" alt="Cover for Одиночка" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,6 +1592,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1cac59f4b7f41dd82d691897dae0770.png" alt="Cover for From Afar" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-09</td>
       <td>Ensiferum</td>
@@ -1609,7 +1627,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/q8jVF-kUx5C-LWeGCww8Mb5QRWE2xLBSfbFs-gSdF6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDUw/ODctMTM0ODc0NTA3/NC04MjUwLmpwZWc.jpeg" alt="Cover for Baldur" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,6 +1649,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c2f872f1e1049ae80a39cdf28a2a713.png" alt="Cover for Tiurida" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-28</td>
       <td>Falkenbach</td>
@@ -1688,6 +1707,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29407341289f4cbcb88addfa9b5bd910.png" alt="Cover for Surtur Rising" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-25</td>
       <td>Amon Amarth</td>
@@ -1775,31 +1795,31 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 21</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 64</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f483c1816f545cbc58d059e72ecac33.png" alt="Cover for Valkyrja" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1833,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 39</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1832,7 +1852,7 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 15</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1934,16 +1954,15 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 7</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 38</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 39</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 57</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 66</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
@@ -1951,41 +1970,61 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c1d50ee921cc6b4d95405fb59a41f74.png" alt="Cover for You&#39;re Losing Me (From the Vault)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-05</td>
+      <td>Taylor Swift</td>
+      <td>You&#39;re Losing Me (From the Vault)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2069,67 +2108,67 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 13</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 20</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 27</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 28</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 29</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2147,25 +2186,6 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffc9aba021d2d388de8a12ca5592a186.png" alt="Cover for Urminnes Hävd - The Forest Sessions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-06-25</td>
-      <td>Månegarm</td>
-      <td>Urminnes Hävd - The Forest Sessions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
         </ul>
       </td>
@@ -2253,62 +2273,63 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 4</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 4</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 17</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 8</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 45</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 46</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 64</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2392,26 +2413,25 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 40</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 49</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 87</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
@@ -2421,43 +2441,44 @@ Viking metal is a subgenre of heavy metal music that draws its lyrical and visua
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
         </ul>
       </td>
     </tr>

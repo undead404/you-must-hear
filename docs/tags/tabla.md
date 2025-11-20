@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T01:55:39.098Z
+date: 2025-11-19T20:37:15.396Z
 permalink: tags/tabla
 title: tabla
 ---
 
 ## tabla
 
-Last updated: <time datetime="2025-11-12T01:55:39.098Z">Wed Nov 12 2025 03:55:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:37:15.396Z">Wed Nov 19 2025 22:37:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -142,7 +142,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
         <ul>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 58</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 87</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 89</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,6 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/lzXsC9wkSWQ6cFbx68937UQ1v1wfoJ13WJyMJoh-XWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU0/NzEtMTUwNDU5MzI3/Ni05ODQzLmpwZWc.jpeg" alt="Cover for Zakharafa" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Helm</td>
@@ -306,7 +305,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 33</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 34</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 68</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 74</li>
         </ul>
@@ -378,6 +377,23 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg" alt="Cover for Morning Ragas, Bombay 1965 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Nikhil Banerjee, Nikhil Ghosh</td>
+      <td>Morning Ragas, Bombay 1965 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>2</td>
       <td>
           <img src="https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg" alt="Cover for Morning Ragas, Bombay 1965 2" style="max-width:120px; height:auto;" />
@@ -430,7 +446,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 84</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 85</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 94</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 97</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 100</li>
@@ -458,6 +474,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/579fe7574ad3cf3ed4b17e84c0153659.png" alt="Cover for Tala Matrix" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-12</td>
       <td>Tabla Beat Science</td>
@@ -469,7 +486,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 4</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 5</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 60</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 86</li>
         </ul>
@@ -637,7 +654,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/cQXTcnYWEHpwe9IJdni8J5T9ZXzhy4RLQtt35guNgqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUw/NzQtMTMwMDkxMTg4/Ni5qcGVn.jpeg" alt="Cover for Taaliqa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb944c132b394754b371023cca46028e.png" alt="Cover for Taaliqa" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-02</td>
       <td>Taaliqa</td>
@@ -785,7 +802,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/CcsngsfZlb-L9x-WhYaJwKLTzOyv0W5p-rt9WuenJss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUx/NTItMTMwMDkxNDMx/My5qcGVn.jpeg" alt="Cover for Matramaqam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e5fdbe5eced4bcd9d22d5be00ab4ba3.png" alt="Cover for Matramaqam" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Taaliqa</td>
@@ -831,7 +848,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/dn2H2RLt_KiLzDt5DB3Ul8MPcOhrn4WyQ-p4RYhgfaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM1/NDY1LTE1MjMxOTUw/OTktNTU4NC5qcGVn.jpeg" alt="Cover for Unregulated" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/339ca4e22ba34515b899d94522f5d067.png" alt="Cover for Unregulated" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Turbo Tabla</td>
@@ -873,7 +890,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/dn2H2RLt_KiLzDt5DB3Ul8MPcOhrn4WyQ-p4RYhgfaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM1/NDY1LTE1MjMxOTUw/OTktNTU4NC5qcGVn.jpeg" alt="Cover for The Belly and The Beat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/034d142916650c3b5d58966f3d272191.png" alt="Cover for The Belly and The Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Turbo Tabla</td>
@@ -1116,7 +1133,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/XgRa0plSzopCVs2k38pNkrQVZncH33ynZVbDw6ZiA2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODcw/MDAtMTM3NTUyMDYz/MS01Mjg1LmpwZWc.jpeg" alt="Cover for Mizna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77948377820c4658b2bc38bf7f7543f7.png" alt="Cover for Mizna" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Mizna</td>
@@ -1163,6 +1180,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83fd124ca79984d8da1b90d3a31497b1.png" alt="Cover for Re:sonate" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-23</td>
       <td>Pete Namlook &amp; Gaudi</td>
@@ -1180,7 +1198,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 43</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 61</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 63</li>
         </ul>
@@ -1254,12 +1272,12 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 36</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 35</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 69</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
@@ -1400,10 +1418,10 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1486,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 37</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2085,6 +2103,7 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ad7fe0dfff143c395681354489c61be.png" alt="Cover for Asian Massive" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Six Degrees Collection</td>
@@ -2092,22 +2111,6 @@ Tabla music is a fundamental part of Hindustani music from northern India, Pakis
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Imrat Khan, Vajahat Khan, Shafaatullah Khan</td>
-      <td>Rāg Jhiñjoṭī &#x2F; Rāg Pīlū</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>

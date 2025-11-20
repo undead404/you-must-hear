@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T05:09:43.501Z
+date: 2025-11-19T20:36:34.742Z
 permalink: tags/rhythm-and-blues
 title: rhythm and blues
 ---
 
 ## rhythm and blues
 
-Last updated: <time datetime="2025-11-14T05:09:43.501Z">Fri Nov 14 2025 07:09:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:36:34.742Z">Wed Nov 19 2025 22:36:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1cd0e62da4989163501c680c34beac.png" alt="Cover for Sam Cooke" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7337982c45004de0adbb8c0dd5b0ff92.png" alt="Cover for The Genius Sings The Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -164,15 +164,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 10</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 12</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 19</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 88</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 89</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb613e0ab55c4ca4a324fe923779cc14.png" alt="Cover for Blowin&#39; Your Mind!" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 99</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +290,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2d4a5c1993edf9f604c049a38c71795.png" alt="Cover for Snatching It Back" style="max-width:120px; height:auto;" />
       </td>
@@ -370,19 +370,20 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce217c9ec3574297c28bda1a9b501b5c.png" alt="Cover for In the Right Place" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-02-25</td>
       <td>Dr. John</td>
       <td>In the Right Place</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 100</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -426,7 +427,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>1975</td>
@@ -547,7 +548,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1980</td>
@@ -621,7 +622,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2708b0bf69e722d953b51e11627fba77.png" alt="Cover for High Priority" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +718,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>1988</td>
@@ -735,7 +736,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b307f4df0bb888ecb4001630bb0dbf95.png" alt="Cover for Original Musiquarium" style="max-width:120px; height:auto;" />
       </td>
@@ -754,6 +755,25 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40dac4d3389349e54ac7258a4736ff2b.png" alt="Cover for The Lo-Fis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Steve Lacy</td>
+      <td>The Lo-Fis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>94</td>
       <td>
           <img src="https://i.discogs.com/rYm-V6mAGXZHgZ7e1EsIEvPIBn_0cfk76PDMubt069Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTQ1/MjItMTM3MzE0NjE2/NS05Nzk0LmpwZWc.jpeg" alt="Cover for Good Golly, Miss Molly" style="max-width:120px; height:auto;" />
@@ -768,7 +788,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 95</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -886,7 +906,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/isPY8DREh5TzgCt6t3b3l3rZR5w8PA8qJcQ40q-Pncs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcy/ODctMTI5NjExNzAx/NS5qcGVn.jpeg" alt="Cover for Flesh Eating Zombies vs. The Bionic Hooker from Mars" style="max-width:120px; height:auto;" />
       </td>
@@ -904,14 +924,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 51</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 55</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ed24e6778ec4ce896e933425cd145ec.png" alt="Cover for Flesh Eating Disco Zombies versus The Bionic Hookers From Mars" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-01</td>
       <td>London Funk Allstars</td>
@@ -927,7 +948,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 34</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 80</li>
         </ul>
       </td>
@@ -1009,7 +1030,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/uu29wqkyotnQ8BVzTcZWJf51xgrs2wwmu6PyxsT_jxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjg1/My0xNTg2OTc2ODQ2/LTgwOTIucG5n.jpeg" alt="Cover for Stutter" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,7 +1068,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2001</td>
@@ -1086,7 +1107,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8867343c5865b7d7008006aa6e78fa1.png" alt="Cover for Se Eu Não Te Amasse Tanto Assim" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,6 +1136,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 2</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 10</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 43</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 70</li>
@@ -1251,7 +1273,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 85</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1366,7 +1388,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/328fc7d86f294a0aca90de10533a53d9.png" alt="Cover for Tell &#39;Em What Your Name Is!" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1406,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/sWGseguxOCB2e74yQ-6VSouiGI8WLT0gcpNZ-FFqLIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDgy/ODEtMTMwMzgyMTg0/MS5qcGVn.jpeg" alt="Cover for Signs &amp; Signifiers" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1422,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 62</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 67</li>
             <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 67</li>
         </ul>
       </td>
@@ -1461,7 +1483,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3efabf9ec1c24bb2cb474aa97c8cc073.png" alt="Cover for Pulse" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,11 +1541,12 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd039d1948a0e4e146c87dc97176d9d.png" alt="Cover for The Blues Brothers: Original Soundtrack Recording" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1645,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 18</li>
             <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 83</li>
         </ul>
       </td>
@@ -1668,7 +1691,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/87yIb0B4iIhS1YfJemZh19s5DwKgNfofUJEtKYh65tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODU1/NzMtMTQ1NDg1NzU2/NS02NDQyLnBuZw.jpeg" alt="Cover for Formation" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,9 +1732,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 67</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 68</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 87</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
@@ -1729,26 +1753,6 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>Durand Jones &amp; The Indications</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4c1733f49e61f8a548fb2c60a5d0d0e.png" alt="Cover for Voyager" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-05-26</td>
-      <td>Moonchild</td>
-      <td>Voyager</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
@@ -1844,7 +1848,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b7982002379b61c62c04f3ec2190127.png" alt="Cover for Rose in the Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1882,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 91</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1962,14 +1966,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 56</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 68</li>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 71</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/127ada340a7b6b96cda7a7712fa043d7.png" alt="Cover for To Be Eaten Alive" style="max-width:120px; height:auto;" />
       </td>

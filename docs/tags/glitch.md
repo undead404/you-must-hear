@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T13:04:34.919Z
+date: 2025-11-19T20:38:25.076Z
 permalink: tags/glitch
 title: glitch
 ---
 
 ## glitch
 
-Last updated: <time datetime="2025-11-17T13:04:34.919Z">Mon Nov 17 2025 15:04:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:38:25.076Z">Wed Nov 19 2025 22:38:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1994-12</td>
@@ -54,7 +54,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7bfafbc78dbd365a660c15b11f24c1d.png" alt="Cover for 94 Diskont" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +92,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>1998-07-27</td>
@@ -111,7 +111,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31d8d529fa6443f1b7568929757ea327.png" alt="Cover for Yesterday Was Dramatic – Today Is OK" style="max-width:120px; height:auto;" />
       </td>
@@ -131,8 +131,8 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 33</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 36</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 46</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 63</li>
         </ul>
       </td>
@@ -155,13 +155,14 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 2</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 2</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/084795e979df45b3b11021edec4ac297.png" alt="Cover for Multila" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +184,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a1513b8bbda4e0ca249bc42a15a19d8.png" alt="Cover for Vapaa muurari" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +245,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/lnS0cJhUrXpv9huje2o48lVgSwAm7kOI_LrU3OphAJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDAt/MTE0NjE5OTI2NS5q/cGVn.jpeg" alt="Cover for Clarence Park" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +302,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9781bfa7a04b6ea769dc573f691d77.png" alt="Cover for Life Is Full of Possibilities" style="max-width:120px; height:auto;" />
       </td>
@@ -316,13 +317,13 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 52</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 53</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2002-03-26</td>
@@ -357,10 +358,10 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 5</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 12</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 56</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 77</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 57</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 81</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 83</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
         </ul>
@@ -387,26 +388,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eb05fb1cd726cc4ea9c2aaf3e1f3866.png" alt="Cover for Re.Sort" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-09-21</td>
-      <td>Sora</td>
-      <td>Re.Sort</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/LAkph2H3t2H0dbeClPfFEXPxUB1oK5BscZWp0EFtfh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI4/MC0xNTY4NTQ4ODI5/LTcyMDQuanBlZw.jpeg" alt="Cover for Resort" style="max-width:120px; height:auto;" />
       </td>
@@ -417,25 +399,6 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/063210090e36008c7801356d9627f16d.png" alt="Cover for Venice" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-03</td>
-      <td>Fennesz</td>
-      <td>Venice</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
         </ul>
       </td>
       <td>
@@ -464,7 +427,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f39ca7878ab525ecead955625bb61cb3.png" alt="Cover for Huge Chrome Cylinder Box Unfolding" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +445,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c86697cdfbff471f8e9fd8d711733b98.png" alt="Cover for Cendre" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +468,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/251d76e97565686bc97a4b3a56e2d735.png" alt="Cover for Chessa" style="max-width:120px; height:auto;" />
       </td>
@@ -522,12 +485,12 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 20</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92f0659e1b8073b2bd0a7478740cf8eb.png" alt="Cover for grievances and dead malls" style="max-width:120px; height:auto;" />
       </td>
@@ -542,12 +505,12 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 37</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46fe79589d5f96f63b1465e40f5c5aa8.png" alt="Cover for Dataplex" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +547,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/373777d3654a4496c40c699321620179.png" alt="Cover for Smash" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +584,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c610216c18b7f83f6729dfd500a73a2a.png" alt="Cover for Stabil" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +621,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e6416c3afb04265b9c6d9d4c4976cbd.png" alt="Cover for Certified Air Raid Material" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +640,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/542967303be6402db036bdee35cf490f.png" alt="Cover for Emergence" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +716,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/9LiL2PmDNSxmvMQCqS4tD4WnDElF-YjZ7PWIxmauy_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQy/ODItMTI3MzEyMjkz/Ni5qcGVn.jpeg" alt="Cover for Agnus Dei &#x2F; Harmony - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -772,7 +735,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/353d5e73c151d7448891b3a20de553a9.png" alt="Cover for The Nothings of The North" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +755,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-04-07</td>
@@ -826,7 +789,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 58</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 60</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 75</li>
         </ul>
       </td>
@@ -851,6 +814,30 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/225a5bd8aa75c4a3af50adb21ef2731b.png" alt="Cover for Shlo-Fi EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10</td>
+      <td>Shlohmo</td>
+      <td>Shlo-Fi EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 19</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>80</td>
       <td>
       </td>
@@ -865,12 +852,12 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 95</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88bb8a87d7f54c7ca022153ebad307b5.png" alt="Cover for Shlomoshun Deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -891,7 +878,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/817fbdbabbe444022a972e61dd59776d.png" alt="Cover for Say Goodbye To Useless" style="max-width:120px; height:auto;" />
       </td>
@@ -931,7 +918,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72da80b44d774ba2bcf570cc12ea49c5.png" alt="Cover for Camping - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +939,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8d1177138e942a29f072a0aa98608d6.png" alt="Cover for Slurp And Giggle" style="max-width:120px; height:auto;" />
       </td>
@@ -988,12 +975,13 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 92</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 6</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/8C2jBH1oozn9WpOvxjKoA3UtokqV9fDuR-BlyAs868I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzky/ODUtMTI4NjMwNDg0/NS5qcGVn.jpeg" alt="Cover for Silver Lining" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +1000,24 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f28c0879c84c16fd546243fa9f2a86d.png" alt="Cover for Eskmo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-04</td>
+      <td>Eskmo</td>
+      <td>Eskmo</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/3ce241AsRJZ9k9JPjHMkWQzjPkhjjhShHdiMPdBRKbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk4/MDItMTM4ODgyNjcz/NC01Nzc3LmpwZWc.jpeg" alt="Cover for 58 Degrees" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,7 +1038,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d7a7f35135441dbd744b81e0343bde.png" alt="Cover for +Dome" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,13 +1093,13 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 2</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2011-10-05</td>
@@ -1115,6 +1120,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba9ca4e9a5ffa57e02b07802f785f98.png" alt="Cover for The Other Side" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-07</td>
       <td>Robot Koch</td>
@@ -1132,7 +1138,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0565fcb27a941e89df0d11b1371b81e.png" alt="Cover for Collections 01" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1155,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b639ed7cc8a471da86d256d443ded48.png" alt="Cover for Vacation (Remixes) - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,12 +1194,12 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 12</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2012-03-28</td>
@@ -1229,7 +1235,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/hm-eXjmmXJ77G1AlihYOBxjbxRN7S39BFGlhIE8jpO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDgx/NTctMTM0Njc1ODMy/Ni00MzAyLmpwZWc.jpeg" alt="Cover for The Adventures of Mr. Fox EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1257,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/338334f284f4a41081304a810887dd76.png" alt="Cover for Stunt Rhythms" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1314,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02185b1c26fd4e4eab6b2eff74aaa8df.png" alt="Cover for If It Were You, We&#39;d Never Leave" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1331,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b8fa938e366457bb7081feb231a7a6e.png" alt="Cover for Show Your Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1354,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e4c173b09f24b2f82fbf720ef207d67.png" alt="Cover for Obsidian" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1368,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1432,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed6e84627d3d46f5c6d9a0e576983ad7.png" alt="Cover for Bécs" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1472,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bc8159c3e8109b73bbe255c9ede60fe.png" alt="Cover for Xen" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,7 +1487,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 18</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1526,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 8</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 12</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 51</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 61</li>
         </ul>
@@ -1563,7 +1569,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 22</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 24</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 50</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 96</li>
         </ul>
@@ -1588,7 +1594,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/YMwmQbdDroWX91lf8_lel6kQpbvIkEZESkkWnx6EWmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjEx/NTMtMTQ2NjExMjU3/Ny0zNDgwLmpwZWc.jpeg" alt="Cover for Unlimited" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1636,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/U_QoG0Y2fhBba78NAr1xNJ1O5cKRH6wIXXHU8VEAj3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/NTM1LTE1MjUzNTY4/MDYtNjk2OS5qcGVn.jpeg" alt="Cover for See Without Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1657,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/bvMofXQ4dqyvaHDSVlEs_uu1qNZ2YyOyaX_jJmYKA94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIy/NTk2LTE1MzA4MTk1/OTgtNDg2My5qcGVn.jpeg" alt="Cover for The Hurt Will Go On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/569dab1fda29c35b3b628b1712ca4d32.png" alt="Cover for The Hurt Will Go On" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-21</td>
       <td>Code Orange</td>
@@ -1672,7 +1678,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/l4u_sUYCuzV-f3XfscG-QRDXIllv-V16aoId2SIOZDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/Mjg1LTE1MTI2MDU2/NTUtMjYzNS5qcGVn.jpeg" alt="Cover for Love In The Time Of Lexapro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a9fe5c544efd965f7d37022cc1f9cc.png" alt="Cover for Love In The Time Of Lexapro" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-23</td>
       <td>Oneohtrix Point Never</td>
@@ -1687,7 +1693,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 89</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 100</li>
         </ul>
       </td>
@@ -1709,15 +1715,15 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 27</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 41</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 32</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/sSkixMYYd1VkIxcqZHEsxDCl6OJtX1WevnXL37fA1g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk0/MzcyLTE1NzM2NDY0/NzctMzgyNy5qcGVn.jpeg" alt="Cover for H.A.Q.Q." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/291f61ac93eff5d2ac42e601332c594a.png" alt="Cover for H.A.Q.Q." style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-12</td>
       <td>Liturgy</td>
@@ -1759,12 +1765,12 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 50</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 51</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 70</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 72</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 75</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 80</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1808,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 97</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1828,10 +1834,10 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 92</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 87</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 92</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 95</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 96</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
         </ul>
       </td>
@@ -1860,11 +1866,11 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 81</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 90</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 93</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1890,7 +1896,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/-9sTia7iBS2t_0IoVADyAUkwkbSpYnFsSL0KPzBMScg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzI5/OTMzLTE2MzIzMzYy/NDktNDU2MC5wbmc.jpeg" alt="Cover for By the Time I Get to Phoenix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f605ea6f6dc065b79d53924d8971272.png" alt="Cover for By the Time I Get to Phoenix" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-01</td>
       <td>Injury Reserve</td>
@@ -1903,17 +1909,18 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 39</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 84</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ncsDvOuP0CJufwYOJAnmh-eNGDG707I2XiQcYqgwr0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAx/OTExLTE2NTczNjYz/NjEtNDk1My5qcGVn.jpeg" alt="Cover for GLITCH PRINCESS" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,8 +1937,10 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 43</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 46</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
         </ul>
@@ -1958,9 +1967,9 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 49</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 55</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 97</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 98</li>
         </ul>
@@ -1969,7 +1978,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/iRMI2LmoIV5y6gKQcMfMJRpPGp8vcuil9uK5Q9ujcio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/ODAzLTE2NTU0MjM5/ODQtNzc2OC5qcGVn.jpeg" alt="Cover for Small Winters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1941637f0d1b25fac81531fecf6b686.png" alt="Cover for Small Winters" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-14</td>
       <td>Taylor Deupree</td>
@@ -1986,15 +1995,15 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 48</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 60</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 72</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 94</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 95</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42080c2f251c98ed9360acaa41766a0e.png" alt="Cover for Darklife" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,9 +2024,9 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 57</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 59</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 82</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 81</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 83</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
         </ul>
@@ -2026,7 +2035,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/jCR8wmn3M9TUjDPOw5AUx-_2iuM11U5KQ09BJVpfYKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MzQwLTE2OTU5OTg1/NzItOTU2Ny5qcGVn.jpeg" alt="Cover for Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/597f318dea06071efea53411061f9e0e.png" alt="Cover for Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-29</td>
       <td>Oneohtrix Point Never</td>
@@ -2041,8 +2050,8 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 90</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2066,7 +2075,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 97</li>
@@ -2075,7 +2084,7 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/535a6f2019690e8e0e5269269c5a7279.png" alt="Cover for Flood Format" style="max-width:120px; height:auto;" />
       </td>
@@ -2096,15 +2105,16 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 77</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 78</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 86</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/851130b6849df61cf4ce951c3f4fb028.png" alt="Cover for Reflection" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Father2006</td>
@@ -2119,8 +2129,8 @@ Glitch music is a subgenre of electronic music that incorporates the sounds of e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 5</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 51</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 20</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 53</li>
         </ul>
       </td>
     </tr>
