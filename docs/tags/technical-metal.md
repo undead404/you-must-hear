@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T15:43:38.702Z
+date: 2025-11-20T03:30:53.564Z
 permalink: tags/technical-metal
 title: technical metal
 ---
 
 ## technical metal
 
-Last updated: <time datetime="2025-10-27T15:43:38.702Z">Mon Oct 27 2025 17:43:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T03:30:53.564Z">Thu Nov 20 2025 05:30:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -96,6 +96,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c6e2c7461584284096d21580a702b87.png" alt="Cover for Destroy Erase Improve" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-05</td>
       <td>Meshuggah</td>
@@ -108,6 +109,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 4</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 92</li>
         </ul>
       </td>
@@ -131,7 +133,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b23f5328cd22bafef7a897b4731f42b5.png" alt="Cover for Something Wicked This Way Comes" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +169,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 24</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 36</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 50</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 97</li>
         </ul>
@@ -293,7 +295,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/hPZCaiXMFbQu6Wbj53FW6aZuU8xFQtm8siViO78bcnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg4/OS0xNDQ2NDY1MDAy/LTk4NjUuanBlZw.jpeg" alt="Cover for The Berzerker" style="max-width:120px; height:auto;" />
       </td>
@@ -315,9 +317,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/C-Ig8p9PkYArz97wy3kzO20v76QBq46tN64Sv-tQCV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTc5/OC0xNTg1NjY5ODk1/LTgwMjMuanBlZw.jpeg" alt="Cover for Undeceived" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7abc26d05f4b1acbea2abac5371473.png" alt="Cover for Undeceived" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-06-20</td>
       <td>Extol</td>
@@ -335,7 +337,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>3</td>
       <td>
       </td>
       <td>2001-02</td>
@@ -354,7 +356,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/qtlxABdyrSdKtlJGagSJbjipSReVKactPfCSPZi8upo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE3/MzEtMTY1MDc5NDM5/OS0zODYwLmpwZWc.jpeg" alt="Cover for This Day All Gods Die" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96db1007270f59f5e3122eebbb5409b1.png" alt="Cover for This Day All Gods Die" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-08</td>
       <td>Undying</td>
@@ -415,7 +417,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>95</td>
       <td>
-          <img src="http://coverartarchive.org/release/27c299ba-0ab1-3d2f-81ed-c0e5508fe475/33383214197-250.jpg" alt="Cover for Nothing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/124ebef46e38cf0e436e6c94cd8bd3ce.png" alt="Cover for Nothing" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-06</td>
       <td>Meshuggah</td>
@@ -427,7 +429,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 56</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 89</li>
         </ul>
       </td>
@@ -435,6 +437,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b3f7a50b2914f92ad5c94ca539520dc.png" alt="Cover for Breathing Is Irrelevant" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-02</td>
       <td>Ion Dissonance</td>
@@ -451,26 +454,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Ipp-TaD-lcb5jhkD3ie-dkq-oMSMI1XRd9oq-XZzcQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTgw/NTUtMTMwMjQyNzky/My5qcGVn.jpeg" alt="Cover for Extension Of The Wish - Final Extension" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Andromeda</td>
-      <td>Extension Of The Wish - Final Extension</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e9d6291d74f099f358c68857c18e43.png" alt="Cover for Ink Compatible" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-21</td>
       <td>Spastic Ink</td>
@@ -501,16 +487,17 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 36</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 36</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 43</li>
             <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 54</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9fbf551c2657c5bbfc7d38cc6ae811a.png" alt="Cover for Hiatus" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Fragments of Sentience</td>
@@ -536,6 +523,24 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7ffa37afd490493f5e8cb506e8befd6.png" alt="Cover for Alaska" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-06</td>
+      <td>Between the Buried and Me</td>
+      <td>Alaska</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>28</td>
       <td>
           <img src="https://i.discogs.com/Zg_Jeoh76_4I1-KoCxbuC8zL5e-db7_xZsKjEPekhPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODIy/ODYtMTMwMDgwMjUw/NS5qcGVn.jpeg" alt="Cover for Solace" style="max-width:120px; height:auto;" />
@@ -557,7 +562,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/kU4Rs5ilo3f9xynCaalEKmbG2UCWjASXT0pvMgwYKTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEz/MjktMTY4Nzk4MjY5/OS01NjUwLmpwZWc.jpeg" alt="Cover for Royal Beggars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd2639e708348aec0b66c55d11f5c88e.png" alt="Cover for Royal Beggars" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Architects</td>
@@ -576,12 +581,12 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 58</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12c672918c169b4d7146b74290d76bf6.png" alt="Cover for Heartburn - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -601,14 +606,13 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/800099e20e9741b4b542ba662724be53.png" alt="Cover for Nightmares" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-01</td>
       <td>Architects</td>
       <td>Nightmares</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
@@ -620,6 +624,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/507430d58a7e4ccdb78d4d8a2ee41f8a.png" alt="Cover for Call of the Mastodon" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-11</td>
       <td>Mastodon</td>
@@ -671,9 +676,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/95b9Jp5ROwGH0dzHBQCSn-P2ALEpe4ixIkg_E4NMbUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE1/MzgtMTYxNDM4MjQ1/MS0yODQ4LmpwZWc.jpeg" alt="Cover for Formless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bb3a8ce6dff4f3db011fca457af3840.png" alt="Cover for Formless" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-21</td>
       <td>Aghora</td>
@@ -728,7 +733,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
       </td>
       <td>2007-05-09</td>
@@ -753,6 +758,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aef3d4a8db20ed7aae26e929e247e234.png" alt="Cover for Minus The Herd" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-05</td>
       <td>Ion Dissonance</td>
@@ -772,7 +778,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/vrrxLb_dew6cdhdLbO-uHahPKBvLKzmEj9hEzqHPTCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NjgtMTE5MTA2NjMx/My5wbmc.jpeg" alt="Cover for Bleed The Fifth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a305373e7944f3eb27fffebbd3f4027.png" alt="Cover for Bleed The Fifth" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-27</td>
       <td>Divine Heresy</td>
@@ -785,7 +791,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 33</li>
             <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 33</li>
         </ul>
       </td>
@@ -806,7 +812,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 9</li>
             <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 27</li>
         </ul>
       </td>
@@ -892,9 +898,46 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 29</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 86</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 90</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d3599fbdaa34d50ad22fc1a769e5585.png" alt="Cover for Silhouettes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-21</td>
+      <td>Textures</td>
+      <td>Silhouettes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dc11fecdd734edea90a439ff3b963b4.png" alt="Cover for Ruin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-02</td>
+      <td>Architects</td>
+      <td>Ruin</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -918,7 +961,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/cnJnncRA4EsEBs_Dj0Tbk24R_jx3mhpjlBGpGjwfOiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzYx/MjQtMTI3NzgzMDkx/Mi5qcGVn.jpeg" alt="Cover for The Campaign" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8e7490f7dd24869aef197ba349b9fb8.png" alt="Cover for The Campaign" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Into The Moat</td>
@@ -967,7 +1010,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 35</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 66</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1017,8 +1060,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 68</li>
             <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 68</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
             <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 72</li>
             <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 97</li>
@@ -1066,8 +1109,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 10</li>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 50</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 53</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1089,34 +1132,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/w9K8lSSJxiiReXN5mv2XPeMDTFfEUFBT2g52SO7P-6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTcy/NTctMTQ1NDMxNzA5/My0yNTIwLmpwZWc.jpeg" alt="Cover for Random Perspectives of Reality (FULL LENGTH)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Torture of Hypocrisy</td>
-      <td>Random Perspectives of Reality (FULL LENGTH)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/2JDB3ixmHCtbvwJSuQ_wvjmPo4qqOdzK5cEHcm7Boo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE4/MTUtMTI3OTA0MzAy/NC5qcGVn.jpeg" alt="Cover for Periphery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08d76faf629f4fc694eab01b06626979.png" alt="Cover for Periphery" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-16</td>
       <td>Periphery</td>
@@ -1128,7 +1146,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 17</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 29</li>
         </ul>
@@ -1153,7 +1171,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 33</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1172,13 +1190,14 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 13</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b89a16631ec24497068160b551f01fa.png" alt="Cover for Alpha: The Ypres Months" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-04</td>
       <td>Returning We Hear the Larks</td>
@@ -1250,7 +1269,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/PMbf-rS2sB_n-DvwYjahDk4gDdvd0qi6q1n-_tDbO6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDAy/MjEtMTcwMTE0MTQ2/Mi00NjI2LmpwZWc.jpeg" alt="Cover for The Parallax I: Hypersleep Dialogues" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,6 +1292,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fbcccba770947bbc7865d001b21d204.png" alt="Cover for Edge of the Obscure" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-05</td>
       <td>The Interbeing</td>
@@ -1296,7 +1316,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/z0diRrJPhiNnCMirJxD51khSk_X_p-KR_N3D7OFYhdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODc0/MjQtMTU3ODQ0NDgw/Ni0zNzU5LmpwZWc.jpeg" alt="Cover for One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34ff00e2e01a3c613a1eacfa77c95374.png" alt="Cover for One" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-21</td>
       <td>TesseracT</td>
@@ -1309,7 +1329,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 68</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 75</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 96</li>
         </ul>
@@ -1393,7 +1413,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 8</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 63</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 74</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
         </ul>
@@ -1410,26 +1430,6 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/W2wzyLWDkVGdg1sLQExyI8z0X22nJebwT6sfuBFbP9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDgz/MDMzLTE2MzA1NjE0/NjYtMjEwOS5qcGVn.jpeg" alt="Cover for Line-Trap [Single]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-04-09</td>
-      <td>Returning We Hear the Larks</td>
-      <td>Line-Trap [Single]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a></li>
         </ul>
       </td>
@@ -1464,7 +1464,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/RarT65V5eRc31__CJML78qX1cz1MZjM5d9BJmGKBOyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAx/NzgyLTE1NzM3ODkx/OTItMzQ1Ny5qcGVn.jpeg" alt="Cover for The Inhuman Use of Human Beings" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1527,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71dab55e3a75ddbc05c99519c9a96c5b.png" alt="Cover for LMNTS" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,8 +1545,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046813b6aa1748b6a4e5bd35c20ff87c.png" alt="Cover for Broken Beyond Repair" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-19</td>
       <td>Red Horizons</td>
@@ -1568,6 +1569,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaccfd2523064f4ba286e05f159d39c0.png" alt="Cover for Pitch Black" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-04</td>
       <td>Meshuggah</td>
@@ -1585,6 +1587,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41088a68f96e4fa891d133d08b9d1609.png" alt="Cover for Exposition" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-15</td>
       <td>Red Seas Fire</td>
@@ -1608,6 +1611,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8c342ed0bcc4e368cd8f28aea0a2540.png" alt="Cover for The Migration" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>Scale the Summit</td>
@@ -1626,6 +1630,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/464a4e35a11b4224846e2b4221c87ca5.png" alt="Cover for Far-Stepper&#x2F;Of Wide Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-25</td>
       <td>Returning We Hear the Larks</td>
@@ -1663,7 +1668,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/XtUH6Z5i4OkOczePjVLz7RfMFzXHRwP5FNjQqvk1YHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc3/MTI1LTE1NDkzOTQy/MjgtOTQyNS5qcGVn.jpeg" alt="Cover for Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1720,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 42</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 60</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 73</li>
         </ul>
@@ -1724,6 +1729,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e608b2599e404fcecf55993e5d5bc9ef.png" alt="Cover for The Amanuensis" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-20</td>
       <td>Monuments</td>
@@ -1784,7 +1790,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/6xpNhnZ_twYZngY1r6MlgmB_6QmdRF-6u68IB1KSw8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTIw/NDQtMTQ1OTEzMzgw/NS0yMDM0LmpwZWc.jpeg" alt="Cover for Unmasked" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,9 +1865,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/69ocftq46ozkRg3Hc6oKefPw_cCisB98s9nKbUCyasQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA2/MzUwLTE0OTAwMjU3/OTAtODMxMy5qcGVn.jpeg" alt="Cover for Random Rants of Repressed Relevance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/197c4ab899b2751c2eb847344532e852.png" alt="Cover for Random Rants of Repressed Relevance" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-17</td>
       <td>Roast Dog</td>
@@ -1888,7 +1894,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/jIn151s--enLzmyfnAKKtnGcdlKfqtSC_HaISWVs23o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjEy/NzA1LTE1MzkwMTI4/NzEtOTgzNi5qcGVn.jpeg" alt="Cover for Em9t2ness of van2s1ing &#x2F; V34ish6ng 0f emptiness" style="max-width:120px; height:auto;" />
       </td>
@@ -1913,7 +1919,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/kU4Rs5ilo3f9xynCaalEKmbG2UCWjASXT0pvMgwYKTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEz/MjktMTY4Nzk4MjY5/OS01NjUwLmpwZWc.jpeg" alt="Cover for Modern Misery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a67028813ef87997fb8a30006c6642bf.png" alt="Cover for Modern Misery" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-29</td>
       <td>Architects</td>
@@ -1931,14 +1937,14 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 38</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/AsFHumjsYywAUckmOTNfzv0fhoVPIoC7r44fmnhL-Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDEwLTE1NDIyODQ3/MDEtODMzMC5qcGVn.jpeg" alt="Cover for Holy Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d25cfa8c12349c9acf03b90a397858a2.png" alt="Cover for Holy Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-09</td>
       <td>Architects</td>
@@ -1951,15 +1957,15 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 89</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/TZiasEZiZlwVkJB8qeJP9VxGiNkyWk6yJPSSNvsglmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/MTA0LTE1NjU5NzU5/NDQtMTE1OS5qcGVn.jpeg" alt="Cover for Grinding Gears, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/604a31e2becccf65e3e071c304fbd417.png" alt="Cover for Grinding Gears, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Rabea Massaad</td>
@@ -1975,7 +1981,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/AcjnsGtOy-4LExaHBf_NvbnNyST6C2Wyg-mkAvvsl44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAx/NzAyLTE1OTI1ODk5/MDQtMTAwNi5qcGVn.jpeg" alt="Cover for Circle&#39;s End" style="max-width:120px; height:auto;" />
       </td>
@@ -2003,7 +2009,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/bffv5Fpe1K8NIqb0lnAcuZTVbxfrmBP1Zb1pUEb_A04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDAy/MjAwLTE3MDUxODM3/MDktNTI0NS5qcGVn.jpeg" alt="Cover for Theory Of Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c4ac2dccd6a6fd42171028a8ed46a55.png" alt="Cover for Theory Of Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-02</td>
       <td>AEffect</td>
@@ -2027,6 +2033,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb81af9abbb7bd3ada826f73c84f1de.png" alt="Cover for The Ever​-​Crushing Weight of Stagnance" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-12-13</td>
       <td>Misanthropy</td>
@@ -2061,12 +2068,12 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2087,7 +2094,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2115,6 +2122,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61493f028fc0755d5d0be33dcf83632a.png" alt="Cover for Colonize Mars" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Simulation Defect</td>

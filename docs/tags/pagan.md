@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T11:36:11.771Z
+date: 2025-11-20T03:51:56.932Z
 permalink: tags/pagan
 title: pagan
 ---
 
 ## pagan
 
-Last updated: <time datetime="2025-11-12T11:36:11.771Z">Wed Nov 12 2025 13:36:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T03:51:56.932Z">Thu Nov 20 2025 05:51:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,15 +51,15 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 49</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 52</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 76</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 93</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 64</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e56df643a8188cf2118e11de046111f.png" alt="Cover for A Circle is Cast" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +84,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/-xl0-_dfzk00sALgMnNmKMp-qkuWrw8-4v5t3ebV_EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzc1/NTAtMTQwMzE2NjYw/OS0yNTAzLmpwZWc.jpeg" alt="Cover for Poetry of Wonder" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1992</td>
@@ -175,17 +175,18 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 7</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 17</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 22</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 29</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a83774e3712a46e9b86cffcff1a5f22e.png" alt="Cover for God&#39;s Death" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-01</td>
       <td>Absurd</td>
@@ -202,7 +203,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd907c819c6b872efe1dff00a1ff6368.png" alt="Cover for Mother Wisdom" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +304,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1996-06</td>
@@ -320,7 +321,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1997</td>
@@ -375,7 +376,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/8wZ42QPP8KXpqtd6p6oYokIndl_NPEaH3TTkkXy_sUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcw/NjMtMTI3MDMyNTY0/Mi5qcGVn.jpeg" alt="Cover for Edda - Myths from Medieval Iceland" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +394,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1999</td>
@@ -412,8 +413,9 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c853381d29f241928a9ee43f683f3947.png" alt="Cover for Gaia Circles" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Gaia Consort</td>
@@ -463,12 +465,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 16</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/eI2Rrc81ZLEuCDfGvJKLCRusqCQJuhDZmtsu86bvV9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY1/ODAtMTI1NzU0MTE4/OS5qcGVn.jpeg" alt="Cover for Отчизна" style="max-width:120px; height:auto;" />
       </td>
@@ -561,31 +563,31 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 52</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/wvC4Fg5ris55nbCdOLW5_QYZ-1m8eC2HXsLrwb6NKZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDE1/NTItMTY5NzgwMjg0/Ni0zMTA0LmpwZWc.jpeg" alt="Cover for Rite the First Time" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +605,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8ef2ea3209c4862a48a724652d00a57.png" alt="Cover for Secret Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +642,27 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8efba891e5e0463fa74985b9c59c15be.png" alt="Cover for Daemonia Nymphe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-09</td>
+      <td>Daemonia Nymphe</td>
+      <td>Daemonia Nymphe</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 16</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/Z1dKGBAMY20P1-qemPhv1F2-z22xjDHH2AQj4vxq6sQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTUw/NDAtMTI4MTU2MTc4/NS5qcGVn.jpeg" alt="Cover for Правь" style="max-width:120px; height:auto;" />
       </td>
@@ -659,7 +681,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/WGIVh21vDVr2gi-_VlE29Np1DhGwJqBE2riq6O5ES0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODYz/NTAtMTQ2NjYwNDU4/MS00NDc3Lm1wbw.jpeg" alt="Cover for The Year Is A Dancing Woman, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +733,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2003-09-03</td>
@@ -735,32 +757,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/UqX2SXgnf57hcLcjH5AOB0dWdRK6VSVcGO1wdH_OoGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTIz/MS0xMzc4Mjk0NzM2/LTM5NjkuanBlZw.jpeg" alt="Cover for When the Spirit of War Will Rise Above Me" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Wojnar</td>
-      <td>When the Spirit of War Will Rise Above Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 1</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1616e93fe8c1e07eae5f9111452cd249.png" alt="Cover for Hear the Voice" style="max-width:120px; height:auto;" />
       </td>
@@ -777,8 +774,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 30</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 78</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -803,7 +800,31 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53d19b384983403dba5127cbec3fda21.png" alt="Cover for When the Spirit of War Will Rise Above Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Wojnar</td>
+      <td>When the Spirit of War Will Rise Above Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/89z2qH2nLOvXCbTXwR0VMAwgpBHpFl29bdOtzuaDupo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEw/Mi0xNTIwNjIwNDQy/LTYzMDQuanBlZw.jpeg" alt="Cover for Laguz - Within the Lake" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +882,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2004-01-01</td>
@@ -880,12 +901,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
         <ul>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 48</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 75</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 76</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2004-12</td>
@@ -900,7 +921,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 70</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -926,7 +947,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="http://coverartarchive.org/release/eed8a036-2a54-4f72-9d77-e522245be88f/4541781199-250.jpg" alt="Cover for Raw Years 1993-95" style="max-width:120px; height:auto;" />
       </td>
@@ -950,14 +971,14 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 19</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 18</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 70</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/kw9dDwwZstw-iH0ak1fxzxd_8eEuaaiRc-c6RDRjpr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjI4/MTEtMTQ4NTk2ODg3/Ni01ODk2LmpwZWc.jpeg" alt="Cover for Противление" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +998,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/hRuVVPqnUNOpFhDcfNyj98s3MxmNaDWmmHGhNVcEUDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzU5/MjAtMTMzNDUxOTg0/Ni5qcGVn.jpeg" alt="Cover for От Сердца к Солнцу" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1036,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/S-vmjIGqdUyCBpVxozXafCqd3ePjsleF5KspAnCWDUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQw/NDMtMTI5ODE0Njk4/NS5qcGVn.jpeg" alt="Cover for Равновесие" style="max-width:120px; height:auto;" />
       </td>
@@ -1035,7 +1056,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/hO0CXGim9kxC_hx9nUHJbXx7gbTEDib_PzMvEgor2ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzU2/MzQtMTM2NTk0MzM5/MC0xNDk1LmdpZg.jpeg" alt="Cover for Tormentation" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1078,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/IwY8cMCfpXFHtsZCm6awhrFQVLh0lBfpHA_VcFoKmYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/MjgtMTIxODE5Mjk0/OS5qcGVn.jpeg" alt="Cover for Symbols of Forefathers &amp; Inexploratus Saltus" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,7 +1100,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2006</td>
@@ -1097,7 +1118,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02a1925687746c2e16aba4d01bd0227c.png" alt="Cover for Essensual" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1154,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/P7gIPY7iOBn85mKWiqoUvvY6nlCqMIXzSG-SABVgqCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODE1/My0xNDI2Mjg5MTg4/LTE4MzkuanBlZw.jpeg" alt="Cover for Bite Lingo" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1175,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2006-01-25</td>
@@ -1208,13 +1229,13 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 5</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
@@ -1224,7 +1245,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/cPYcKpbP_ZtoYjI9KEs_tX_jOf3saa1L5FrGH_45jF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk3/MzY4LTE2NDA1NzE1/MTEtODc2Ny5qcGVn.jpeg" alt="Cover for Sirens" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1263,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/z8rz_FErqcbjSlIgp7LfhX2eULBEal7btz_OfCANyUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM3/NTI0LTE1ODA2MDcx/NzQtOTQ0Ny5qcGVn.jpeg" alt="Cover for I Walk with the Goddess" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,14 +1296,15 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 55</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 85</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 60</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f68738c353220f223037d13d5c636340.png" alt="Cover for Esoterica" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-15</td>
       <td>Xyla</td>
@@ -1303,8 +1325,9 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27ba7aa959984a68baa15b5219e6b3da.png" alt="Cover for Vitus Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06</td>
       <td>Gaia Consort</td>
@@ -1322,12 +1345,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 82</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2007-10-09</td>
@@ -1343,7 +1366,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c32cbcec79f83586f85e4c06d97faeb.png" alt="Cover for Istoria～Musa～" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,15 +1387,15 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 5</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 37</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 42</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 46</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 6</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 36</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/3_g5f_kKeDBQEszhzq-XHSuqSZJbVq1P7fO6385o_Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQw/MzItMTQyMTc2NjIw/Mi02NDU5LmpwZWc.jpeg" alt="Cover for Ступени" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1426,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/LG7fbFcZN0psL_GNyfvBy5Ct5uLg754RObJxsJ66g1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkw/MDUtMTQ5NzEzMTY3/NS05OTYyLmpwZWc.jpeg" alt="Cover for Pagano" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1478,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 36</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 35</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
@@ -1486,7 +1509,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7e3cea2ec239739d1e2e81a80dea0a3.png" alt="Cover for The White EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,12 +1523,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 93</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-03-19</td>
@@ -1548,9 +1571,9 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/GDnJ9gkMAhSNhXTyWOr41FN1h1_B9rcTf9Y4rb-sG34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg1/OTAtMTU5ODI2MDEy/NS0yNTkzLmpwZWc.jpeg" alt="Cover for Solidarity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fad9988a57f074e531f22eb81b49da32.png" alt="Cover for Solidarity" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06</td>
       <td>Pagan Hellfire</td>
@@ -1572,7 +1595,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/AOnvf2uIGt0JeQzmJcODvHmZZLpMNAdaOxbHVWHb2EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY5/NzctMTI4ODgwNTQz/My5qcGVn.jpeg" alt="Cover for Fran Marder (2009 Reissue)" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,12 +1640,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 97</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/DntteQAuA5cOZZmdX9k4HQ1zY_pjFOXBLZw29jb-1VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTY4/NzktMTU2OTE3OTAx/OS03MDc0LmpwZWc.jpeg" alt="Cover for Происки Богов" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,14 +1702,14 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9acb6000ee464bcea3189e2f83e47dd4.png" alt="Cover for Children Of The Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1738,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/MeONsUEUKejJV1Q8XcEZlELGwC_2YX0hVPEEzRvcZAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTA0/OTAtMTM1MTU5MDQ0/MC03NDI3LmpwZWc.jpeg" alt="Cover for Янтарное сердце Арктиды" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,26 +1758,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/OR8Y3IZt4vMKfB5Rj9IP-bfoHteaegftmahdhaktaMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/Mjg5LTE1ODc5Njgx/MjItOTI5MC5qcGVn.jpeg" alt="Cover for Thulêan Mysteries" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Burzum</td>
-      <td>Thulêan Mysteries</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 7</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/lKW54G7l18Oe2GFXkCvm-qiuKnsyeveRSDnx3q2HPXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTky/NTctMTMxNjY4NTQz/MS5qcGVn.jpeg" alt="Cover for Zabobon" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1778,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52821701ec564997a06c4133cb52e281.png" alt="Cover for Last Autumn tears" style="max-width:120px; height:auto;" />
       </td>
@@ -1796,6 +1800,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed40b91a97fa41ff8f1970cfd55abc8b.png" alt="Cover for Tenkterra" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Obscurity</td>
@@ -1819,7 +1824,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/7L827gRZhj4PhYHglJ_xIkLqMuKcG6tXG4tUfABERUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzQ3/NDgtMTM2MzE5NDYz/NC05NzI2LmpwZWc.jpeg" alt="Cover for Воля" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1852,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cce3fd0ff904fd490a6dcf3cfd9500b.png" alt="Cover for Naiades" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1872,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/6aA3xsxb3P43_5s250GfIM5gqh6lBfv0sbYuuLRSNyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzQ5/OTEtMTQzNTQwNjQx/OC05OTIxLmpwZWc.jpeg" alt="Cover for Gryningen" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,7 +1893,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 74</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1908,13 +1913,13 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 58</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 62</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c7d3c5471723525088d36c07e6938e.png" alt="Cover for Tie" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1941,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cd49476364449e0ab175188a1337cbe.png" alt="Cover for Tierra de Andanzas" style="max-width:120px; height:auto;" />
       </td>
@@ -1962,7 +1967,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/pKcFn2NjBtYGdZ-V5ITGudNt_h0Tu-PIagrXAXCJ8GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTU4/MDMtMTQzMDA5ODYy/NC0xMjc5LmpwZWc.jpeg" alt="Cover for Age of Pandora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10131cac8b0f4a67cadadc294b722944.png" alt="Cover for Age of Pandora" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-12</td>
       <td>Nothgard</td>
@@ -2003,8 +2008,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 86</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 87</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 87</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2030,7 +2035,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/bRclYCDCpCv8FfC2vMy847Vqt9b4xaKSt2SG0rI6RNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjM2/OTktMTQ3NTE3ODg2/OS00NjMxLmpwZWc.jpeg" alt="Cover for Vögguvísur Yggdrasils" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29c580fcb8460f9f1d0447def33fa67.png" alt="Cover for Vögguvísur Yggdrasils" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-30</td>
       <td>Skálmöld</td>
@@ -2101,14 +2106,14 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 24</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 53</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 77</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 76</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 83</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/085e4fa23dd6496cb0747d2c15633aee.png" alt="Cover for Sine Missione II" style="max-width:120px; height:auto;" />
       </td>
@@ -2131,7 +2136,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 51</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2154,12 +2159,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 88</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/0Wv8W-GLsqZVLW5zQr9HbN0WFjl1XhThRtYJaoFXkPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/NDc0LTE1ODgwMTky/NDMtMzczOC5qcGVn.jpeg" alt="Cover for Вайдэлот" style="max-width:120px; height:auto;" />
       </td>
@@ -2200,7 +2205,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/xZePdMkv66V-yJ8nARf1Ozh9JD_VovFVwTOYquWQWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI3/ODUtMTQ3OTkzNDk0/Ny01NDg2LmpwZWc.jpeg" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04350bca604884809895156cc9930f64.png" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-15</td>
       <td>Arkona</td>
@@ -2224,14 +2229,14 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 73</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 79</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 89</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 92</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 92</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 93</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2247,12 +2252,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 56</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38c50e6764324632a307cc86e4935523.png" alt="Cover for Revel Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -2273,12 +2278,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
         <ul>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 47</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 73</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 75</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -2298,14 +2303,14 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 30</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 38</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 39</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -2323,12 +2328,12 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 67</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
@@ -2345,7 +2350,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>

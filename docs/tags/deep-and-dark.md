@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:32:16.329Z
+date: 2025-11-20T05:03:21.219Z
 permalink: tags/deep-and-dark
 title: deep and dark
 ---
 
 ## deep and dark
 
-Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -78,14 +78,10 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       <td>Nightclubbing</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 29</li>
             <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 66</li>
         </ul>
       </td>
@@ -107,7 +103,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 3</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -147,7 +143,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 14</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -169,8 +165,8 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 13</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 88</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +266,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/o6acrS91fSpvB0v9s83WuLJHz2BX8uuiDg_76gZkbaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODcw/LTExODU0NjYzMDMu/anBlZw.jpeg" alt="Cover for B50 Lab Experiment" style="max-width:120px; height:auto;" />
       </td>
@@ -344,6 +340,23 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf783e14240a7b242c9b59db2268cb7.png" alt="Cover for Zauberberg" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02-26</td>
+      <td>Gas</td>
+      <td>Zauberberg</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>59</td>
       <td>
       </td>
@@ -393,7 +406,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -436,7 +449,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 69</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +544,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 49</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -591,14 +604,14 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 77</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/-qmIe1W47B1F4RJiow1bbqCcfqw08RbTMaW4faeN5GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTEw/NjktMTQyNTg2MTYy/MC0zNjQ2LmpwZWc.jpeg" alt="Cover for Manhattan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65a88cfdf1864f50cf0b62feaac9210d.png" alt="Cover for Manhattan" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Lawrence</td>
@@ -638,7 +651,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/xMg3HIm9pDGWRWvjwOpWHRPFBNgXWnF0RoXIlFrzs1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIw/ODczLTE1NzkzODgz/MzAtMTI5Ni5qcGVn.jpeg" alt="Cover for Part Two - The Endless Not (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -734,9 +747,9 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/98Xs_7js1JGnxHcZJ7wZd5ZXV_Pb-XL8DCtWzFqG-gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA4/MDEtMTMwMjUzMjMx/NC5qcGVn.jpeg" alt="Cover for Shoedrift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aed36c4c16eab8471cfebee5138225c0.png" alt="Cover for Shoedrift" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Sıfır</td>
@@ -756,7 +769,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/uLvauhPuPANugKn87s1VC84eFHWRoHK1Ioohjwh1CFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTEw/ODUtMTI0MTIzMjUw/Mi5qcGVn.jpeg" alt="Cover for Grand Glam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/056d594ab19f4e058cd9d7aad303cb1a.png" alt="Cover for Grand Glam" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-01</td>
       <td>Remute</td>
@@ -789,13 +802,14 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/joLgyC8SmSqyVenfer8hAl8ctn1jgPredsvczvtP5Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MTMtMTI4MDY3Mjgw/MS5qcGVn.jpeg" alt="Cover for Bandjo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10496f77974466da1344cdcbf28eb8c.png" alt="Cover for Bandjo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-02</td>
       <td>Bandjo</td>
@@ -855,7 +869,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/rFKvFFjnUPNloHpyUFAerjwEkA-015bsgl1qZQClr7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDQ4/MzgtMTMyOTMyNDIz/NC5qcGVn.jpeg" alt="Cover for Streetlands EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff20973b35111a9beee9dd55e5e48d34.png" alt="Cover for Streetlands EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-25</td>
       <td>Burial</td>
@@ -891,7 +905,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 62</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 63</li>
             <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 100</li>
         </ul>
       </td>
@@ -985,24 +999,6 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/fa6JOEHai2lwdceIcGJqh-BtQRfCrT3wMrcr8vlvlTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzAx/NzktMTM3NDk1NzMy/OS05NTA3LmpwZWc.jpeg" alt="Cover for Secret Thirteen Mix 078" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-07-17</td>
-      <td>Quinoline Yellow</td>
-      <td>Secret Thirteen Mix 078</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a></li>
         </ul>
       </td>
       <td>
@@ -1179,7 +1175,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 50</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1199,7 +1195,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1237,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/h1B_wAjgIwPNF7DM4eyd8ETBBLmiUbGT6ftsfNkhMMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzAx/MDgtMTQ2NjI4MDQy/Ni0zMjQ2LmpwZWc.jpeg" alt="Cover for Groove DJ Mix" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,7 +1333,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2882f1fb49c2477dcf1398f51c1d5ebd.png" alt="Cover for Anima Mundi" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,8 +1347,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 74</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 91</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1411,7 +1406,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/zje7F3cmEaQ9flXFpvtE6EJi9-qRl0d9hyrTqx8BCu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE5/ODI2LTE1MTIxMzM0/MzEtMTA5OS5qcGVn.jpeg" alt="Cover for Urgence" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1463,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/2qoaGcUUkZPXz8MDjnHKmfLuWK7q-nF9CpmiOEndD64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE1/NzY3LTE1NTYyNjI1/OTQtODM1Mi5qcGVn.jpeg" alt="Cover for Sol Laude: Mercury Rising 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,7 +1484,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/uCUeYYkkm0lQA2hPwJCayQurH8z6vG9Qmmx_rqKZKzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/NDM1LTE1NTgyNjY4/OTctNDc0OS5qcGVn.jpeg" alt="Cover for Noctilucent" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1521,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d0b3e1eaea900b6d528698d16f2b73.png" alt="Cover for Space Techno" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1534,6 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1597,14 +1591,14 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 83</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/hnQv9MnWVx5rj-rdsDVlMdO5zgeC0ZlJizpf84WGtO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc3/MzAwLTE1ODkwNjM0/ODItMTYwMC5qcGVn.jpeg" alt="Cover for MOOD" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98a1bdbcdef9da14a74af1f567238548.png" alt="Cover for MOOD" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-07</td>
       <td>Rødhåd</td>
@@ -1642,7 +1636,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 82</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 89</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 97</li>
         </ul>
@@ -1738,7 +1732,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for Nor Lighter" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,7 +1753,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for To Voltaire" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1775,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for Bedouin Monk Bike - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,7 +1795,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for Rest To See You Soon" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1917,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/r00h5U0_HfkkRXBb2g4F9LWrrlmX_hy6nnLlUIF3khU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA1/NTg5LTE2NzIzNDA2/MzItNjc5OS5qcGVn.jpeg" alt="Cover for Fearless" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1953,7 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 26</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 79</li>
         </ul>
       </td>
@@ -1996,6 +1990,6 @@ Last updated: <time datetime="2025-11-11T03:32:16.329Z">Tue Nov 11 2025 05:32:16
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [techno]({{ "/tags/techno" | relative_url }})
 - [minimal house]({{ "/tags/minimal-house" | relative_url }})
-- [glitch]({{ "/tags/glitch" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
+- [glitch]({{ "/tags/glitch" | relative_url }})
 - [experimental techno]({{ "/tags/experimental-techno" | relative_url }})
