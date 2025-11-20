@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T06:05:09.731Z
+date: 2025-11-19T20:21:20.793Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-11-17T06:05:09.731Z">Mon Nov 17 2025 08:05:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:21:20.793Z">Wed Nov 19 2025 22:21:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,7 +105,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 24</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -130,6 +130,22 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Antonín Dvořák</td>
+      <td>String Quartet No.13, Waltz No.1 (Pavel Haas Quartet in Adelaide)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>26</td>
       <td>
           <img src="https://i.discogs.com/6wLf50rLSILr-45byjqOiUzAkwsDZ0fFvWtvshCNLIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTQ0/MDEtMTQxOTY1NDE5/OC0zODU1LmpwZWc.jpeg" alt="Cover for Dance The Viennese Waltz" style="max-width:120px; height:auto;" />
@@ -150,7 +166,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/2WtZCQs91tatJr_a_Dps-rOIOrutN4SJ4r-j3bB7Cwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY4/OTUtMTYyNDE4Mzcw/OS0zODUyLmpwZWc.jpeg" alt="Cover for The Best Of Peter Sarstedt: Where Do You Go My Lovely?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f315de339ce0d405ea1c28ad491cd7.png" alt="Cover for The Best Of Peter Sarstedt: Where Do You Go My Lovely?" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-10</td>
       <td>Peter Sarstedt</td>
@@ -676,7 +692,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       <td>
         <ul>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 7</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 9</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +746,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 48</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -807,7 +823,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/6rWYfWO_Q0UUaMfrsuE3_6XxEi-nCyVC8lMVzHb2VkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NDMyLTE1MDMwMDgy/MDctNDk4Ni5qcGVn.jpeg" alt="Cover for Shostakovich: The Jazz Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/162f1327b183a8f020fed9a1ae9bae01.png" alt="Cover for Shostakovich: The Jazz Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Dmitri Shostakovich</td>
@@ -892,7 +908,6 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/MdweR41xj0iiD46ZEmiUGKF2aafu7I_6A80KuvbW3BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY5/MTMtMTM0Njk5NTAw/NC04MzIzLnBuZw.jpeg" alt="Cover for bubblo" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-27</td>
       <td>BUBBLESAURUSREX</td>
@@ -1367,6 +1382,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4156fbd8d5f443b189f5439e12e16252.png" alt="Cover for Taiga" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wouter Bruys</td>
@@ -1468,38 +1484,14 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Florian Behnsen</td>
-      <td>At the end of the world</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>2</td>
       <td>
       </td>
       <td></td>
-      <td>Dzedenz</td>
-      <td>ElectroClassic 1. Midnight of Cinderella - EP</td>
+      <td>Larrysmusic</td>
+      <td>Electric Accordion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T06:02:33.329Z
+date: 2025-11-19T20:18:57.556Z
 permalink: tags/pop
 title: pop
 ---
 
 ## pop
 
-Last updated: <time datetime="2025-11-17T06:02:33.329Z">Mon Nov 17 2025 08:02:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:18:57.556Z">Wed Nov 19 2025 22:18:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85fdc23b75d77d4cf789fd1904d06863.png" alt="Cover for Thriller" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b4e7025d2217c85044064c984ff68d.png" alt="Cover for FANCY YOU" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c39efcb97b907a9de0a4f2428019232.png" alt="Cover for On the Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2a3a7adea2c2ccea9ec521b09f88d54.png" alt="Cover for Cure For Me" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82319aa62c8ffc147a31fae6c0cdb370.png" alt="Cover for Breakaway" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3aa2afa43dc94eb79562be7a23ce876.png" alt="Cover for Loose" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e80e729a9cdcc98ddd7d1a3052142c37.png" alt="Cover for FutureSex&#x2F;LoveSounds" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/eZTX1Kkj9pjMoW71hNj9fuZ0YQBVOAajXWaTQ6LqmGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODQx/Mi0xNTc4ODU5MjM4/LTMxNDAuanBlZw.jpeg" alt="Cover for FutureSex&#x2F;LoveSounds Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f384363de8f9fac4950e13e0d391514.png" alt="Cover for Life in Cartoon Motion" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +200,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa254b77897ce330348b1be77edfe6bf.png" alt="Cover for Good Girl Gone Bad" style="max-width:120px; height:auto;" />
       </td>
@@ -220,7 +220,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ba6843d054b4f449948bdb13957248c.png" alt="Cover for Good Girl Gone Bad: Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9a14a64aed91932f0f45708d6b20a74.png" alt="Cover for Blackout" style="max-width:120px; height:auto;" />
       </td>
@@ -252,12 +252,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 55</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/317a50a1835182082e8df461a9cfd78f.png" alt="Cover for One of the Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +276,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/212041a78d1b07d481404936f57314fb.png" alt="Cover for The Fame" style="max-width:120px; height:auto;" />
       </td>
@@ -291,12 +291,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 41</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 70</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7dc977b7a53d3e898f86eaee644aba7.png" alt="Cover for The Middle" style="max-width:120px; height:auto;" />
       </td>
@@ -320,7 +320,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7cd5b2046514a52ba359e06743693f9.png" alt="Cover for Loud" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +338,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a9141d83ebd9056e7a212b3bb493ac3.png" alt="Cover for Teenage Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +356,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3c4dde679eb3436694c2411fe0ff15c.png" alt="Cover for Doo-Wops &amp; Hooligans" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +374,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/6XPG9rfVwj32TJ9eWEmBj0oijeaCbMlSMCLGien5hdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTM4/NDctMTQ2MDc1NTk3/My0zNjAwLmpwZWc.jpeg" alt="Cover for Anti (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +394,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80daaf62c7fbbf6ddaa143030b684e12.png" alt="Cover for Shape of You" style="max-width:120px; height:auto;" />
       </td>
@@ -412,15 +412,15 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 98</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 98</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 98</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 99</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f403f8f345f08b8aaba47a1be32b1c11.png" alt="Cover for Born This Way" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10fe8debe55741888392ea782b032a7e.png" alt="Cover for Moves Like Jagger" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +456,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/564bbd82660e9f6b8bf556c3ad537d25.png" alt="Cover for We Found Love" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +474,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/024eb3bcbf13bef347800a18c2c61f3b.png" alt="Cover for Talk That Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -489,12 +489,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 49</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/lftCDxPNntfHQ4p89BjgNPyx6-DGcR0jwW58jW4YH60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MTY1LTE1NTgwODMy/MjMtODY4OC5qcGVn.jpeg" alt="Cover for Doin&#39; Time" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +516,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/574db9d1528b064ca2faaf557f564bda.png" alt="Cover for 1989 (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +534,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3024ebb9ffd9e4b9e9d6e411c674be3.png" alt="Cover for Take My Breath" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +552,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f86f7ae6b696182dca49318423f71144.png" alt="Cover for We Are Never Ever Getting Back Together" style="max-width:120px; height:auto;" />
       </td>
@@ -566,12 +566,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 85</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f99e0bb8fee4447e84b40fc9166e75a.png" alt="Cover for Skyfall" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +590,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cf0cd2fcd6efb0a33e063a8d82ff0e.png" alt="Cover for Unorthodox Jukebox" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +608,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc9ec9026e229cfdfffd2ccf318a07bf.png" alt="Cover for 13 Reasons Why (Season 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -632,7 +632,24 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2013-06-03</td>
+      <td>Miley Cyrus</td>
+      <td>We Can&#39;t Stop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b49d5d53345bc9fec05cbbb9722f8f4.png" alt="Cover for Retired from Sad, New Career in Business" style="max-width:120px; height:auto;" />
       </td>
@@ -645,14 +662,14 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 79</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 80</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 97</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7544db3bb4b366967a76b464c6e8bb42.png" alt="Cover for Roar" style="max-width:120px; height:auto;" />
       </td>
@@ -670,7 +687,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93aeef1e401fe3266157cb416fd3d42b.png" alt="Cover for Wake Me Up" style="max-width:120px; height:auto;" />
       </td>
@@ -684,12 +701,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 23</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/uiZGYiBGNiy5QD6BouYPO37bf0NPLmKrkVAcOooiObc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTQ0/OTUtMTQ3ODQ0MzI0/My03MzQ0LmpwZWc.jpeg" alt="Cover for Timber" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +724,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74b5a9142de44d40b592a323f0c57738.png" alt="Cover for Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +746,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2013-11-22</td>
@@ -754,7 +771,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24118ac383447dcc7a728c2ca1dd61f.png" alt="Cover for Chandelier" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +791,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/caa48c00926adfd0ba9040b2d5fc876b.png" alt="Cover for Boys Don&#39;t Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -800,7 +817,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f651d079d72eb44d58dfa85c7b49d0b.png" alt="Cover for I Will Never Let You Down" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +837,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/mfEMi5oo53Rv5_LUkzDBb7a4i-5cCnIQ7ilHhgYMkUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYx/NDU2LTE1OTU4MjU0/ODEtMTM4MS5qcGVn.jpeg" alt="Cover for Back To You (From 13 Reasons Why – Season 2 Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +895,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22536db392e4b02c18afad418af53700.png" alt="Cover for Symphony (feat. Zara Larsson)" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +939,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/TTZpA5v7QIs2X0MFZ4fFEw8awCenM9dD_g6-vQvXayY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAy/Nzk3LTE2MDM0NzAy/OTctMTc0MS5qcGVn.jpeg" alt="Cover for Focus" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +957,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/257fe11067041f5b10e758f64afb601e.png" alt="Cover for Death of a Bachelor" style="max-width:120px; height:auto;" />
       </td>
@@ -956,13 +973,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 3</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/DSFLx1iu9SxcCba1TNfzMpsqjMRCUFTt1cRQztXHiX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzA3/NjYtMTQ1NjQ3OTYx/OC02MDc0LmpwZWc.jpeg" alt="Cover for Vroom Vroom EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +1024,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/DJ9aM1-SxTO3Z5_P3-jNNEF9YMP-62_WZ9EPKEiYlFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE1/OTY1LTE1MTQwNTQz/MDMtNjUxOC5qcGVn.jpeg" alt="Cover for Can&#39;t Stop The Feeling! (Original Song From Dreamworks Animation&#39;s &quot;Trolls&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,7 +1046,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51b8cd76546763550af19d0937cae80a.png" alt="Cover for Dangerous Woman" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,7 +1064,29 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/4FrAHDSkIbBJCSYa_NgIpXB2KJXbCKDLNZbICSSW5Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE5/OTk3LTE2NzMzMTEy/NzUtNTQ4NS5qcGVn.jpeg" alt="Cover for Get With U" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-15</td>
+      <td>Clairo</td>
+      <td>Get With U</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9382980139a311bc01514e37095844c6.png" alt="Cover for Bad Liar" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1104,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdef4c7536c03d0a5a6689e4b1fa9b42.png" alt="Cover for Melodrama" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1128,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa0cc28717131fb40092775c9b1f2213.png" alt="Cover for dont smile at me" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,7 +1146,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/WUpmiC8VBnKc2iLpaLftEmK8GpgLGSa88Odx1UrHD1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/NzEyLTE1MTAyNzkx/OTgtODk3Ni5qcGVn.jpeg" alt="Cover for Reputation" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,8 +1161,8 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 6</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 100</li>
         </ul>
       </td>
@@ -1171,7 +1210,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd8c5ce4dad43c822c00dec987d295ca.png" alt="Cover for Sweetener" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,13 +1225,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 7</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 8</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f879ed062c70fcc567a9793fccd610f.png" alt="Cover for Sweet but Psycho" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1251,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/JJh4rCDnhGAHHw_i9HvdPrYNU70xiZ_PMp57qhigWk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAz/Nzk5LTE2MjYzODUz/MjAtMTU3Mi5qcGVn.jpeg" alt="Cover for Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1273,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/OqUd-VhKjXImjDxWkNiSXVmrvSwv48Usiy7oYNigJPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkw/MDU2LTE1MjA3MDg2/MDAtMTQ2OC5qcGVn.jpeg" alt="Cover for I&#39;ve Been Waiting (w&#x2F; ILoveMakonnen &amp; Fall Out Boy)" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,7 +1299,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/FBK7wHfB9qHwG-lWbwdO3nsoi-lfUbv5_KaDxjjyFC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/NDUwLTE1Mzk3MjMz/NDItNjQwOS5qcGVn.jpeg" alt="Cover for When The Party&#39;s Over" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,27 +1323,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c60ed98aff5a45fd9e7c928ee948d9ac.png" alt="Cover for Nightmare" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Halsey</td>
-      <td>Nightmare</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/rtKma0jh_WqUX_sAzRdTK2_GE9vbM7G17N8pcawMqfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk5/MjkwLTE1NTkyNzkz/MjktNjMzOS5qcGVn.jpeg" alt="Cover for never really over" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1341,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/sLBvROZgTjgReWEATa-iTwSv9Wi9ICttJMWkKgVkMrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTkw/NDU0LTE1NDk2NTI1/NTUtNTQ2OC5qcGVn.jpeg" alt="Cover for Thank U, Next" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,13 +1354,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 44</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 45</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d36c1cffba188a1a29a88262f8ec34de.png" alt="Cover for Sucker" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1378,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/PLPyGkVBrC8q7AVOxDnPS9eCwL3FsbgeQ7gq3jPbY3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/MDcxLTE1NTY4MTU1/MzItNDg0My5qcGVn.jpeg" alt="Cover for when we all fall asleep, where do we go?" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,17 +1391,17 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 2</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 46</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 59</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 49</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 75</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 76</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4172cfad0e4900cd93c961c33133ff1d.png" alt="Cover for MAP OF THE SOUL : PERSONA" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,12 +1417,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 33</li>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f083370c371a3ba1cddafaf193c27d.png" alt="Cover for Lover" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,13 +1436,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 18</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be2aca67c96a044ec6e2726d7de50d94.png" alt="Cover for Hot Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,7 +1462,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7940fbb1df766b4683951aed490a8b5a.png" alt="Cover for Fine Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,33 +1485,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41b15d8a0ad6a81323b598bfb19cede9.png" alt="Cover for Dynamite" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>BTS</td>
-      <td>Dynamite</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 92</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 99</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 99</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/POGI9u7Wzb_2MLodMKY_UCs95qeD8jTZ0eyrcSnxgNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMw/NTI4LTE1ODA0ODMy/MjktNTU1Mi5qcGVn.jpeg" alt="Cover for pHysicAl" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,12 +1500,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 99</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/AK9xkDK1ipBnSbfKWSqU4UZQhkzQEsNTQHWwmFr_pYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTIz/ODctMTMyNzg1OTA2/OS5qcGVn.jpeg" alt="Cover for Young and Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1520,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 100</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 100</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 100</li>
@@ -1535,7 +1528,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/fHaEjxj3iqj8q5SmiUeJxEXd9i5du5zqDzOmPMrI3ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEx/MzE3LTE2MjAzMDA2/MzAtMzczMS5qcGVn.jpeg" alt="Cover for no time to die" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1548,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7017c94ef74a476838e751b0cee1f014.png" alt="Cover for Future Nostalgia" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1563,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 20</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 94</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 97</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 97</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 98</li>
         </ul>
@@ -1597,7 +1590,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/j3oTBzErj51x5-bGswRnhsqfyR7-lrBrnEK4oWDRxw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM4/NDYyLTE1OTMyNTI3/ODctMjY1Ni5qcGVn.jpeg" alt="Cover for Phone Numbers" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,13 +1628,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 100</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 100</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f14944a5f6bb6a70a0d1256524da9fc2.png" alt="Cover for Butter &#x2F; Permission to Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1674,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/uFqOq09y6-d9aTXm9SHb9Mdr0anVRfjijCEhwJ6ckwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg1/NDMyLTE1NDc4NjUz/OTYtMjk2OC5qcGVn.jpeg" alt="Cover for 7 Rings" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,7 +1692,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/XdvPRl7NniNNZdQq2_imTJ2SeEpoxudh4dmnumV0SLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcw/NDQ0LTE1ODEzNjU3/ODEtNjU4OC5qcGVn.jpeg" alt="Cover for Monopoly" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1718,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/H3-8GbHLwyDxb0neQ5bNSOWhGZvUqvsSjAQY8WO6KPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/Mzk3LTE2MjA2ODg3/NTYtMzQxMC5qcGVn.jpeg" alt="Cover for greedy" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,7 +1768,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d145c84ab66ac6932547783726691c59.png" alt="Cover for Mi Gente" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1788,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/p5R_cd5m589QEjrExGukg-HLl9SeqPjb_7tR3C1VDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/NjQ5LTE2MTk3Njg4/MzItOTIzNC5qcGVn.jpeg" alt="Cover for come out and play" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1810,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/p5R_cd5m589QEjrExGukg-HLl9SeqPjb_7tR3C1VDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/NjQ5LTE2MTk3Njg4/MzItOTIzNC5qcGVn.jpeg" alt="Cover for Six Feet Under" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1854,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.png" alt="Cover for Harry&#39;s House" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,13 +1872,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 90</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 91</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 92</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ycHYhSI6ZmfRCfexBga7ZbiAZKJNUO5hD1a0z6t4f8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODE4/NzA2LTE2NTcyNjgy/NzItNjkwMy5qcGVn.jpeg" alt="Cover for Emails I Can&#39;t Send" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,7 +1896,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb32a72112c54968c4bd3a57e6785325.png" alt="Cover for NewJeans 2nd EP &#39;Get Up&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,12 +1911,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 87</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/KmO77xiaUQ2dJGAfW7kLXMMLL_SuHguRhVSKhnN_d1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMy/NjA0LTE2NjQ0NjA1/MDYtNTI2My5qcGVn.jpeg" alt="Cover for bOrN pInK" style="max-width:120px; height:auto;" />
       </td>
@@ -1939,13 +1932,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 78</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 83</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 79</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/370510f1781a9bd351389b6633c517ed.png" alt="Cover for Stick Season" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,7 +1958,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/d98XI8RrJWHJ4acC3uUsQdYwnygLoIEoSII2o84Ono8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ1/NDc3LTE2Njc1MzUx/NjgtMTY4My5wbmc.jpeg" alt="Cover for Smithereens" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,7 +1976,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/435df1115d62cb892f28dcc1ee10a3e4.png" alt="Cover for SHOOTING STAR" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +2000,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/BM1tqeuFcSKTrIShr9O0R1VUzcJPHvBtK7QHirJ3Ybc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE5/ODcwLTE3MzQ3MTMz/MTItOTAzNC5qcGVn.jpeg" alt="Cover for Golden" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,7 +2018,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcf22ccb315a4cf7ccb4e13346f2519b.png" alt="Cover for Back to Basics" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,13 +2035,13 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       <td>
         <ul>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 27</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 44</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00ee634028a0df7d7c789e44b1a37600.png" alt="Cover for The Name Chapter: TEMPTATION" style="max-width:120px; height:auto;" />
       </td>
@@ -2063,12 +2056,12 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05df79341035d53b68eb846764365e02.png" alt="Cover for reputation" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,7 +2075,7 @@ Pop music is a commercially-oriented genre characterized by catchy melodies, rep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 25</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 24</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 88</li>
         </ul>
       </td>

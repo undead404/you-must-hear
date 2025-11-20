@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T06:00:31.554Z
+date: 2025-11-19T20:16:52.347Z
 permalink: tags/psychedelic-rock
 title: psychedelic rock
 ---
 
 ## psychedelic rock
 
-Last updated: <time datetime="2025-11-17T06:00:31.554Z">Mon Nov 17 2025 08:00:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:16:52.347Z">Wed Nov 19 2025 22:16:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
   </thead>
   <tbody>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1966-08-15</td>
@@ -113,7 +113,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -133,7 +133,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       <td>
         <ul>
             <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 92</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +204,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 72</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +258,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -279,7 +279,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       <td>
         <ul>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 34</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 76</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +298,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 7</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +351,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -402,9 +402,9 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 52</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 86</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 99</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -422,7 +422,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 60</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 73</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +475,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 5</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 4</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 16</li>
         </ul>
       </td>
@@ -513,7 +513,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 1</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -532,7 +532,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 49</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 50</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 80</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 93</li>
         </ul>
@@ -556,7 +556,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1971-10</td>
@@ -589,9 +589,9 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 49</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 78</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 100</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 58</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 79</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +613,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 86</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 87</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 95</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 100</li>
         </ul>
@@ -638,8 +638,8 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 63</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 80</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 82</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 81</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 84</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 96</li>
         </ul>
       </td>
@@ -677,7 +677,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 79</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -714,12 +714,12 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1995</td>
@@ -731,7 +731,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 45</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -750,13 +750,13 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 11</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2000</td>
@@ -815,9 +815,9 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 8</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 59</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 95</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 99</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 100</li>
         </ul>
       </td>
@@ -860,7 +860,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2003</td>
@@ -916,7 +916,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c0cbbfe317b46f8a51ef23ae92359d8.png" alt="Cover for Refried Ectoplasm [Switched On Volume 2]" style="max-width:120px; height:auto;" />
       </td>
@@ -940,8 +940,8 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 68</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 53</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 73</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 79</li>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 92</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 100</li>
@@ -998,12 +998,12 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dbf6637904d4777c72090a235914d96.png" alt="Cover for Directions to See a Ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,6 +1041,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ce16790ef43cfd7f8a962b14dee393a.png" alt="Cover for Tame Impala" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08</td>
       <td>Tame Impala</td>
@@ -1089,17 +1090,17 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 22</li>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 42</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 55</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 70</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 71</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 75</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2010</td>
@@ -1131,7 +1132,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 73</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1188,16 +1189,17 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 13</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 18</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 19</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 23</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 34</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 99</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1236,7 +1238,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2012-07-24</td>
@@ -1249,7 +1251,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 98</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1268,13 +1270,14 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 54</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f7b56bbd591489ea8b7faaae7e3d90f.png" alt="Cover for Hobo Rocket" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Pond</td>
@@ -1362,7 +1365,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 5</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1399,7 +1402,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 27</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1441,8 +1444,8 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 6</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 8</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 36</li>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 53</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 94</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 98</li>
@@ -1450,7 +1453,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2014-07-01</td>
@@ -1486,8 +1489,8 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 46</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 71</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 47</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 79</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 83</li>
             <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 100</li>
         </ul>
@@ -1525,31 +1528,6 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f402cb04cfa7d59f94fc4bc7e82e1e5.png" alt="Cover for Moonlust" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-05-12</td>
-      <td>The Holydrug Couple</td>
-      <td>Moonlust</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 40</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 79</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1592,7 +1570,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/xkdyDXSgOgaV5-jw1IjptjCalWexl_IkAy-uQXdlzR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE0/ODgtMTY4MzkwMTI1/NS0xNTYxLmpwZWc.jpeg" alt="Cover for L.A.Woman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19d034b26cae0bbbe3d2524a9579617c.png" alt="Cover for L.A.Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>The Doors</td>
@@ -1605,9 +1583,29 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 50</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 51</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 81</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/4VD9cF_I276Z5JGica4CJxWZ_meAW0wy6UrsNfnzmKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzg3/MDMtMTQ4NjIwODU2/Ni0yOTI5LmpwZWc.jpeg" alt="Cover for Sleeping Through The War" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-24</td>
+      <td>All Them Witches</td>
+      <td>Sleeping Through The War</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1652,7 +1650,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/JoZVb2H7_3j6Ske0cP4YJft1Tg6lXOvbnYcly72qJ5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjAwLTE0OTc1NjU0/MjctNjAwNi5qcGVn.jpeg" alt="Cover for Murder of The Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1683,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 24</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1741,7 +1739,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 24</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1758,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 6</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1912,7 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 63</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1932,8 +1930,8 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 56</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 71</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 57</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1951,8 +1949,8 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 15</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 19</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1969,5 +1967,5 @@ Psychedelic rock emerged in the 1960s counterculture, using experimental sounds,
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [garage rock]({{ "/tags/garage-rock" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
-- [krautrock]({{ "/tags/krautrock" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
+- [krautrock]({{ "/tags/krautrock" | relative_url }})

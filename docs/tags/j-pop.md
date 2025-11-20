@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T08:55:55.143Z
+date: 2025-11-19T20:24:18.622Z
 permalink: tags/j-pop
 title: j-pop
 ---
 
 ## j-pop
 
-Last updated: <time datetime="2025-11-17T08:55:55.143Z">Mon Nov 17 2025 10:55:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:24:18.622Z">Wed Nov 19 2025 22:24:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,25 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee24239308b55e33aeefaa6f06fb5419.png" alt="Cover for 無罪モラトリアム" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-02-24</td>
+      <td>椎名林檎</td>
+      <td>無罪モラトリアム</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1af05f65408796cda71c53dc845e28d2.png" alt="Cover for First Love" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +164,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 51</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 54</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 94</li>
         </ul>
       </td>
@@ -169,7 +187,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 61</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 62</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 89</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 89</li>
         </ul>
@@ -210,7 +228,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 88</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 90</li>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 98</li>
             <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 100</li>
         </ul>
@@ -250,7 +268,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 31</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -327,14 +345,14 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 8</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 10</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2006-12-06</td>
@@ -353,11 +371,11 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 31</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 33</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 60</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 61</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 88</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -427,9 +445,9 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 11</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 65</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 13</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 66</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -449,7 +467,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 55</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -492,14 +510,14 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 23</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 70</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 25</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 71</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2010-03-03</td>
@@ -553,7 +571,6 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
@@ -562,8 +579,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 12</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 14</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 65</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 78</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
@@ -591,7 +607,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       <td>
         <ul>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 94</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 96</li>
             <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 97</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 98</li>
         </ul>
@@ -660,9 +676,9 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 62</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -683,13 +699,13 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 27</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 29</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f99de2bc02d737125022771e12690fa.png" alt="Cover for Spring of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +723,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e081b152a0058d239ea23c7d7630a880.png" alt="Cover for Crossing Field" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +760,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/4sHwAgq8Lr-NArz1fM3232sODwxHUUULsNg0fUv-BS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjAx/OTItMTQ0NjE1MjQx/Ny0xODMyLmpwZWc.jpeg" alt="Cover for Extra terrestrial Biological Entities" style="max-width:120px; height:auto;" />
       </td>
@@ -778,8 +794,8 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 9</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 41</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 11</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 65</li>
         </ul>
       </td>
@@ -800,7 +816,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 24</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 26</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 72</li>
         </ul>
       </td>
@@ -830,10 +846,10 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 41</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 62</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 79</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 63</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 79</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 80</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 98</li>
         </ul>
@@ -859,6 +875,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>BABYMETAL</td>
@@ -877,11 +894,11 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 40</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 54</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
@@ -933,7 +950,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 25</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 27</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 73</li>
         </ul>
       </td>
@@ -964,9 +981,9 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 12</li>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 51</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 52</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 86</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 87</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
         </ul>
       </td>
@@ -991,7 +1008,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
         <ul>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 39</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 47</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 47</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1040,10 +1057,10 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 17</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 19</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 64</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 68</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1072,9 +1089,9 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 6</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 83</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 85</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 86</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 95</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 100</li>
         </ul>
@@ -1103,9 +1120,9 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 34</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 36</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 61</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 77</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 78</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 79</li>
         </ul>
       </td>
@@ -1130,8 +1147,8 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 21</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 69</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 23</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 70</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 77</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 98</li>
         </ul>
@@ -1154,8 +1171,8 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 6</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 67</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 9</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 78</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 97</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 99</li>
         </ul>
@@ -1207,7 +1224,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Ep7ZYLUIOmmoMGftcPjI0FH5sGKWUrQJf7tNG3qKfpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc1/NTAyLTE2Mzc1NTIz/NDEtNzE4OS5qcGVn.jpeg" alt="Cover for JOJO&#39;S BIZARRE ADVENTURE -Diamond is unbreakable O.S.T Vol.1 -Good Morning Morioh Cho- Music by Yugo Kanno" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,15 +1291,15 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 19</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 68</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 21</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 69</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 70</li>
             <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/846070980e16195ea9e7f7db575bf8ae.png" alt="Cover for Miracle Milk" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,12 +1354,12 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 15</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/5RZuJ-6tHRyQrVazUreqC89If2dexNAn_DdsSQyGLxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/MDU5LTE1NjUzMTU2/MDItNDMyMy5qcGVn.jpeg" alt="Cover for eye&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1473,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 46</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 48</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 83</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 85</li>
         </ul>
@@ -1482,8 +1499,8 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 33</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 76</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 35</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 77</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 80</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 99</li>
         </ul>
@@ -1562,7 +1579,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 45</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 45</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 47</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
         </ul>
       </td>
@@ -1585,15 +1602,15 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 10</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 12</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/ziodS435X2uhaMfh9HCreOE3iEBuaHti5jQtgRe5vXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQy/ODQyLTE1NzIyMDc1/NzItOTY0Ni5qcGVn.jpeg" alt="Cover for METAL GALAXY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b91937d6a0de5a0d3cd5eefb4a425121.png" alt="Cover for METAL GALAXY" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-11</td>
       <td>BABYMETAL</td>
@@ -1606,7 +1623,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 48</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 60</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 98</li>
         </ul>
       </td>
@@ -1669,8 +1686,8 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 73</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 31</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 74</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 76</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 100</li>
         </ul>
@@ -1692,7 +1709,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 18</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1734,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 13</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 15</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 85</li>
         </ul>
       </td>
@@ -1856,16 +1873,17 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 69</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
@@ -1913,7 +1931,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 75</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 77</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 87</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 98</li>
         </ul>
@@ -1953,7 +1971,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 51</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2032,7 +2050,7 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 38</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2054,8 +2072,8 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 31</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 80</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 33</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 82</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 98</li>
         </ul>
       </td>
@@ -2220,23 +2238,6 @@ J-pop is a genre of popular music originating from Japan, characterized by catch
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
-      <td>TOMORROW X TOGETHER</td>
-      <td>SWEET</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>

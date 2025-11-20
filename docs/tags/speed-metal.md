@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T01:01:14.068Z
+date: 2025-11-19T20:23:35.002Z
 permalink: tags/speed-metal
 title: speed metal
 ---
 
 ## speed metal
 
-Last updated: <time datetime="2025-10-31T01:01:14.068Z">Fri Oct 31 2025 03:01:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:23:35.002Z">Wed Nov 19 2025 22:23:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4ddb3fd9ad3248a92eb89d527c5e97e.png" alt="Cover for Overkill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8d3a418652e4638c6ad30e3af319c49.png" alt="Cover for Overkill" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-03-24</td>
       <td>Motörhead</td>
@@ -63,13 +63,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 83</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 57</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef32299b27c7f599c9af706b16c155f.png" alt="Cover for Black Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -84,13 +84,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 81</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0915bf8e6c90df8c2c9110b16b493271.png" alt="Cover for Restless and Wild" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4b9e72299f445dd8268b7b865dffae3.png" alt="Cover for Metal On Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ac5ae0ee3b61ed99ef0a399d884734f.png" alt="Cover for Heavy Metal Maniac" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9849e2dc2f048cc92a87e29a3a3298db.png" alt="Cover for Kill &#39;Em All" style="max-width:120px; height:auto;" />
       </td>
@@ -159,12 +159,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 92</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1300963833066a410b75427ed1fb29b0.png" alt="Cover for Show No Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -178,12 +178,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 77</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79a061379d2dae17d79e8c8b204e20cf.png" alt="Cover for Kill &#39;em All (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -197,12 +197,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 50</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 1</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57cf34c36786a9ea701cc3ee8f988645.png" alt="Cover for Gates to Purgatory" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +223,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d43c2b6775941bc8c18964658570757.png" alt="Cover for Violence and Force" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +241,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>1984</td>
@@ -257,7 +258,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3cb260124c7308aff2fe19916130e1a.png" alt="Cover for Fistful of Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -272,12 +273,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 34</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/bbGAQYMNGumTN5PHbyWBS531eY1l9aDsCMunotazy8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjA3/Ny0xNDY3MjQxNjc0/LTczMjAuanBlZw.jpeg" alt="Cover for Long Live the Loud" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +315,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f41fb69c0b91b3f25fce094b65c1e18c.png" alt="Cover for Feel the Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +333,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b7cd6e6f1e0d5ccf658526c8b3cd4cc.png" alt="Cover for Killing Is My Business...And Business Is Good!" style="max-width:120px; height:auto;" />
       </td>
@@ -346,12 +347,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e7b1ecb548ec1cf166006bfdb1f0eb4.png" alt="Cover for Skeptics Apocalypse" style="max-width:120px; height:auto;" />
       </td>
@@ -369,7 +370,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c30d74a40dc0133b80e0b48b4fadaa7d.png" alt="Cover for Spreading the Disease" style="max-width:120px; height:auto;" />
       </td>
@@ -383,12 +384,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 82</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/MijvCkNx9Fhr2_w-KhcPlX2bvk1olJdLI7yhTPZUdFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTkz/My0xNjI5NTYxNzkx/LTkzMDIuanBlZw.jpeg" alt="Cover for Walls Of Jericho" style="max-width:120px; height:auto;" />
       </td>
@@ -399,6 +400,24 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Exciter</td>
+      <td>Unveiling the Wicked</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -478,12 +497,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 40</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/282f0d61a586b9feaddfc3a8d2e3b7bf.png" alt="Cover for The Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -515,12 +534,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 97</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26c53cc19e02d488642737aafdeff1a.png" alt="Cover for Speed Metal Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +558,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d28da88088014b88ccdee66efe6b2165.png" alt="Cover for Among the Living" style="max-width:120px; height:auto;" />
       </td>
@@ -553,13 +572,14 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 88</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc38c4f5d700f532df96fac44e0d8eb6.png" alt="Cover for Unstoppable Force" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-05-21</td>
       <td>Agent Steel</td>
@@ -575,7 +595,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b735e5552ca709d2226b95f5bebe5c3b.png" alt="Cover for Power Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -589,12 +609,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 24</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2834172387e7338f2fed8d3ef7846a6a.png" alt="Cover for So Far, So Good...So What!" style="max-width:120px; height:auto;" />
       </td>
@@ -611,7 +631,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0725ce985c654c009784f24aa47be37b.png" alt="Cover for Thundersteel" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +668,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>96</td>
       <td>
           <img src="http://coverartarchive.org/release/7365bb36-ce85-4472-9cd2-8aaf6e793e6e/7844379965-250.jpg" alt="Cover for Battalions Of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +687,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d6504bf0b92ec3e2c183243b21bcfbc.png" alt="Cover for Perfect Man" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +705,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e03a357e71c02c82c6d1161a9e0fe94.png" alt="Cover for Master Control" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +723,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/Gyzgu4O50oX98KjIJ5pwR7B_O9YnLf_lr1ZpXajgMVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjkx/OS0xNDU1NjIwMzQ3/LTIxODQuanBlZw.jpeg" alt="Cover for Fistfull of Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -717,12 +737,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 9</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>95</td>
       <td>
       </td>
       <td>1989-04-14</td>
@@ -740,7 +760,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28ef13535cfc2a870486966586c20a2.png" alt="Cover for Alice in Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -754,13 +774,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 11</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 31</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 12</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44784097386b462ec69b9f113b42573c.png" alt="Cover for Prime Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +799,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbffe605180fb682bb92fd1ef3257e91.png" alt="Cover for Painkiller" style="max-width:120px; height:auto;" />
       </td>
@@ -793,13 +813,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 49</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 89</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 60</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1990-09-21</td>
@@ -812,12 +832,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 48</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95f90daf3aecb78c029dcf8bacb502c2.png" alt="Cover for Rust In Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +852,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 29</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 93</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -851,12 +871,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 75</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f39abded10eff8d0859c81b8c3d9dd9.png" alt="Cover for Pile of Skulls" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +895,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbb3197591934210c299b4c15b5fd288.png" alt="Cover for The Missing Link" style="max-width:120px; height:auto;" />
       </td>
@@ -913,12 +933,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 57</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6c02e62e04728bfa2377341e29cbe5a.png" alt="Cover for Heart of Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -951,13 +971,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 64</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 64</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/U1DC2tMTjZmho5aORhmkdPZK0UJLLazdP8_4QA1WQhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njgz/MjMtMTM0NzQ3NTk4/My05OTc3LmpwZWc.jpeg" alt="Cover for Fistfull Of Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -971,12 +991,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 4</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef6ebbb4ce634d457906e674a7e5f86.png" alt="Cover for Alive &#39;95" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +1016,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85acb5fe4a65f9743926fd49cc592d53.png" alt="Cover for The Rivalry" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,9 +1035,9 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/EmgEwPuDYs6VOeVyC-9QLu5cClUuJWacA4OlW55SsHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTA4/MC0xMzcwMTA1MzMw/LTQ2NTcuanBlZw.jpeg" alt="Cover for Ecliptica (2008 Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/493d9f7a8c6c7d2734950eda3e290451.png" alt="Cover for Ecliptica (2008 Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Sonata Arctica</td>
@@ -1033,13 +1053,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 88</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 89</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f838c22c2c419304035ca5ae3598d74.png" alt="Cover for Blast from the Past" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,26 +1079,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c791a0196599950c042eadb5948ebae.png" alt="Cover for Power Plant" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Gamma Ray</td>
-      <td>Power Plant</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83b1f0641592bfbe15913a3e28b4f6b2.png" alt="Cover for Valley of the Damned" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1093,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 62</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1118,7 +1119,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac83821b4378608a6cccfda76c40692.png" alt="Cover for Sonic Firestorm (2010 Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,7 +1140,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a932b6d5a5d4ca58b7c70e1bcf0a311.png" alt="Cover for Sonic Firestorm" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1159,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Hx4Y8x1Zuz91Iv151MRApjFmx5nors5sHFs6unEIjzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY5/MjI0LTE1MDAwNjg0/NzMtOTE1Mi5qcGVn.jpeg" alt="Cover for Rust In Peace (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,8 +1194,8 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 42</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 86</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 72</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1218,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/RlaygRJOXiCqnKLh0xKzGuqPxm44mkQ2tKLMXkyPEWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzM2/OTctMTQ3OTM5OTQ5/MS04Mjk5LmpwZWc.jpeg" alt="Cover for The Best (Of)" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1275,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14da2bdcdc2e4d7a83ed16e756aaab48.png" alt="Cover for Inhuman Rampage" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,8 +1284,6 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       <td>Inhuman Rampage</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
         </ul>
       </td>
       <td>
@@ -1313,7 +1312,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c098e010eb7c93013a39dde8aa83935.png" alt="Cover for Somewhere Far Beyond (Remastered 2007)" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,13 +1329,13 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 73</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 90</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 59</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/735d3eaf8186a2bc952420456144b1a3.png" alt="Cover for Imaginations From The Other Side (Remastered 2007)" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1354,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ea0c732f0135e630cbf70d11a04bf3.png" alt="Cover for The Forgotten Tales (Remastered 2007)" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,12 +1374,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 92</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,16 +1444,16 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 11</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 22</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 49</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
@@ -1462,7 +1461,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 80</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 81</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
@@ -1477,7 +1476,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/nJELRy7gPovvNpVQ2wKBs0J7l_Cryjs2hyXY_SuLiaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDg3/NzMtMTQ1ODA3NTIy/MC05NTI3LmpwZWc.jpeg" alt="Cover for Angels Fall First (Official Collector&#39;s Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1496,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb4f3483401b7afa45a709d9c5b910eb.png" alt="Cover for Ultra Beatdown" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,12 +1510,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 50</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/020320a9ac3b66ca15de599cc8ac5430.png" alt="Cover for Into the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1535,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e17747f292a4f5c10a93e8399781fa4.png" alt="Cover for Undergrounded Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1556,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/CFxTwy94YDHWsEPNWSNH2qyThCNEfka3Ei_wZI245Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTM4/OTItMTIzNzM5ODg0/MS5qcGVn.jpeg" alt="Cover for Adios… Puta Madres" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1576,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7c76d393d9433898de11434765c2ca.png" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1594,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2010-10-29</td>
@@ -1630,7 +1629,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d8d5c11dfd54297ac744eece57e35ad.png" alt="Cover for TH1RT3EN" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,12 +1643,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 24</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2f03a3badd690b4020ec089750797c9.png" alt="Cover for Ride With Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1686,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5168c23e9fdf4a028687a99d2dcac668.png" alt="Cover for Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1706,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f65541f9086e4236a0a8fdc72d8b333e.png" alt="Cover for The Underground Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1761,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f95aa192e6104a92ca2de9b1ccc94389.png" alt="Cover for Chasing The Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1780,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/865ced0776d34af4ca285658c983708d.png" alt="Cover for Maximum Overload" style="max-width:120px; height:auto;" />
       </td>
@@ -1818,7 +1817,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/e2WxV9QMgEOHEhRrFB4yqs2wj--rNRJRR22vuwjzFkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjU0/MjAtMTQ2NjE5MTcw/Ni03Mzg0LmpwZWc.jpeg" alt="Cover for Victim To The Blade" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,9 +1836,9 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/h0rfy5Ud9B2TEhjDO4q2w_fVK0BN0YcJwB_d4YoodR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEw/NzcxLTE2MTg1MDk3/NDAtOTQzOC5qcGVn.jpeg" alt="Cover for PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c82a8fb339ad4906f1195fec753cef1f.png" alt="Cover for PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -1850,15 +1849,15 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 34</li>
             <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 56</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 58</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/agQd0LkC5d3a_Rn-89oYQ0RTJwdV7NfVhBThogwJG4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg4/ODUxLTE1MDI0NDU5/ODgtNTE3Ni5qcGVn.jpeg" alt="Cover for The Guillotine" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,9 +1876,9 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/i8BJcBgExMgnaYyg_5Se-fG_F2udkqgb-qsR4kR6OGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQx/NTI2LTE1MzI2MDY3/MTQtMzUxMC5wbmc.jpeg" alt="Cover for Coagulating Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87f1d6167281b0c23ede4cb1c57c3cee.png" alt="Cover for Coagulating Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-24</td>
       <td>Hellripper</td>
@@ -1898,7 +1897,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/fwJiqqpSJK5mY3N_KDtkeSKpvQb4bgCVC8vD-dD9Nqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/Mjg4LTE1MDEzMDQ5/MTctMjAyMy5qcGVn.jpeg" alt="Cover for BLUE BLOOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,15 +1916,15 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 23</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 27</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 64</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 78</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 79</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c329ec3577ffb7b8313ae188a2c5ff2b.png" alt="Cover for Follow the Blind (Remastered 2017)" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,12 +1944,12 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 91</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/d8H29P2GHQC2YeZbADHa8fZZaaX4OSQX7NJbAoDRhrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA2/OTM1LTE1MzI2MDY4/MTQtNjIyOC5qcGVn.jpeg" alt="Cover for Hellkvlt Warfare Kommando" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1987,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/hbnxIyZeMqlIEtlCPbcvEGnqn3hDKI-yU-ohF73qIeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcw/MDgwLTE1NTQ4MTk4/MTctMzE0MS5qcGVn.jpeg" alt="Cover for Black Arts &amp; Alchemy" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,7 +2007,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/9B5hpE_pJxhjr_BSB5sB4xC8rKBaZqIs71CULIVK7S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM0/MDE5LTE1ODA1NzQw/NzEtODc1OS5qcGVn.jpeg" alt="Cover for 666 Goats Carry My Chariot" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,7 +2031,7 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b470bb9d6f1d9aa31ca5d031db8d830.png" alt="Cover for The World Needs a Hero" style="max-width:120px; height:auto;" />
       </td>
@@ -2041,14 +2040,10 @@ Speed metal is a subgenre of heavy metal music that emerged in the late 1970s an
       <td>The World Needs a Hero</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 89 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 23</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 67</li>
         </ul>
       </td>
     </tr>
