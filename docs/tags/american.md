@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T13:11:09.351Z
+date: 2025-11-19T20:46:46.914Z
 permalink: tags/american
 title: american
 ---
 
 ## american
 
-Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:46:46.914Z">Wed Nov 19 2025 22:46:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,36 +29,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30c2e252415f45e9c584879a1c47a562.png" alt="Cover for Good Vibrations" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1966-10-10</td>
-      <td>The Beach Boys</td>
-      <td>Good Vibrations</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 42</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 79</li>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 87</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3800a09ce5c24143a3249a7316aeaee6.png" alt="Cover for Just Another Diamond Day" style="max-width:120px; height:auto;" />
       </td>
@@ -75,13 +46,13 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 4</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 15</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 73</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 92</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3955b4a92fe43b0c35c359a63f042af.png" alt="Cover for Can&#39;t Stop the Music (Original Soundtrack 1980)" style="max-width:120px; height:auto;" />
       </td>
@@ -98,12 +69,12 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 49</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1219d0221897872a781379cf6dbe590.png" alt="Cover for Arista Heritage Series: Ray Parker" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +96,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/csptpH-mwu0pXEHU88bExOQO-kzbQVoTCgpls6uy5HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDgz/NzAtMTM5MDMyMjA0/OC00MTkyLmpwZWc.jpeg" alt="Cover for Brenda Lee" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +115,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/SbEC7ZkEIWqzl2isQLQamRio-FIzYDFF47sMM9h-wog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDE0/NTUtMTM4MTc5ODMz/MC02NzI1LnBuZw.jpeg" alt="Cover for Screaming Suicide" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +134,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43c2dd06a6854cd34cb4a147e9f75895.png" alt="Cover for Return of the Dream Canteen" style="max-width:120px; height:auto;" />
       </td>
@@ -179,12 +150,12 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 69</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/DmYTJ_NbULIm6CUtdDpA4E66U8uqwUvHwpmkXpuJc8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/MjMtMTMwNzg4ODkw/NS5qcGVn.jpeg" alt="Cover for Sleater-Kinney (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -199,12 +170,12 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 68</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b768d7ceb684170b98c68ba52a7ae9d.png" alt="Cover for What Would the Community Think" style="max-width:120px; height:auto;" />
       </td>
@@ -223,17 +194,18 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 3</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 10</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 71</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 93</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/QmmlSchpr5-wX3rQYxyRB7IUEnxPICd1H-Fi9yMEh4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDIw/MS0xNjg1NzI5NDA5/LTc5OTkuanBlZw.jpeg" alt="Cover for Bone Church" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cae8dfd982ff4e7ad531e7e937e0a1a2.png" alt="Cover for Bone Church" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Slipknot</td>
@@ -252,7 +224,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55acfdff363ae8ebf8242b1834e21453.png" alt="Cover for Dig Me Out (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -275,7 +247,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 85</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 90</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 90</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 95</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 96</li>
@@ -284,7 +256,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Xp0gymRqdJN-qzpDZ1euqkdfqa3s98j3SZEBkASLa6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDkw/NC0xNDczNDQxNDc3/LTE0NTUuanBlZw.jpeg" alt="Cover for Hanadriel" style="max-width:120px; height:auto;" />
       </td>
@@ -301,12 +273,12 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 73</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72611a193fb3221f26c6ebfbeb7ef03d.png" alt="Cover for hover like a GODDESS" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +299,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a667b765d9a4838800463cc1b5b73e0.png" alt="Cover for Time for Annihilation" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +319,39 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/OWsUIfILQCPWLEUhHYhlTfZL7s3sg49Rymzv_gRIeLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/Ny0xMTEzNDAwNTU1/LmpwZw.jpeg" alt="Cover for Transitory Mini EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-20</td>
+      <td>Karmacoda</td>
+      <td>Transitory Mini EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 60</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 70</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 97</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 100</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/3QoPJO9u53v2fan2B5wqTiofo6UET1Ocsz6kXRCVigg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk5/ODUtMTM4ODMzMTQw/OS00MTQ0LmpwZWc.jpeg" alt="Cover for Open Arms" style="max-width:120px; height:auto;" />
       </td>
@@ -365,7 +369,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/8aACMYRTOMOYZjoZsQUGwIvANTycygpW10zEuBfaLbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY1/MzAtMTM0MjIxMjg4/MC0xNjAwLmpwZWc.jpeg" alt="Cover for Mr Brightside" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +410,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005-06-14</td>
@@ -428,7 +432,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06434c34ebaf4112ba1ad69d9c418dff.png" alt="Cover for Black Sheep Boy Appendix" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +451,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e9e2aa56fe8f82a2f645de2d567b573.png" alt="Cover for Black Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +472,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1955855d9f954285d78c1f6e4f6f7794.png" alt="Cover for All for You (DVD edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +494,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c098672a13f25747741b89a7882bbc3.png" alt="Cover for Begin to Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -504,18 +508,18 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 5</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 8</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 33</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 66</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 67</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 91</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 93</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 69</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 90</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 90</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb537061481842e488a6425e2940c8a8.png" alt="Cover for The Trials Of Van Occupanther" style="max-width:120px; height:auto;" />
       </td>
@@ -531,14 +535,14 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 51</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 61</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 99</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd7ec1c7cc646cca1ec1e68304ccdda.png" alt="Cover for Ta-Dah" style="max-width:120px; height:auto;" />
       </td>
@@ -554,13 +558,13 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 21</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 24</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58f7e41b010487ad1be35178c41eec29.png" alt="Cover for The American Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +583,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bd6618cae0cd412dfb52758377815f7.png" alt="Cover for I Am... Sasha Fierce (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -599,7 +603,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75b2264ac72f4756be1068afe2b591ac.png" alt="Cover for Move for Me" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +628,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b54afd7c2774b769ae37531e25bd989.png" alt="Cover for Rook" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +647,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8701ebd813b461596fd2cc9a52d298a.png" alt="Cover for Dear Science," style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +665,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/PHeUngw2UdpFNlhhmBnKZuijbhj-tZ3Gbxe0PlsKU9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjY5/NTEtMTQ1MzM3MDQ2/OC04OTA4LmpwZWc.jpeg" alt="Cover for The E.N.D. (The Energy Never Dies) [International Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +687,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b223c60007a3edf8d67514d9646380ed.png" alt="Cover for Con Law" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +707,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2c8247844444018c0583f04139698f6.png" alt="Cover for Rhythm Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -721,12 +725,31 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       <td>
         <ul>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 86</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 92</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28c942d48be549f993d34cc6ee5d06bf.png" alt="Cover for Personal Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-09-07</td>
+      <td>The Thermals</td>
+      <td>Personal Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/lsmZBIzeil8ziL2VLqoRYqidfWk5Tyo8xwFs9wtIHPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM1/NTI2LTE1NDY4ODQw/MzAtNDQ3NS5wbmc.jpeg" alt="Cover for Rise (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +767,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b0d91eadca845318266f643d022f986.png" alt="Cover for In Light" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +786,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7869dbef2e64f81aa19236c002b3625.png" alt="Cover for I Am Very Far" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +805,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/vWIqp25Bykih-30UodhL87M8mzqKfyiO3X4eZpA4ryk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzY0/MzEtMTU4OTAyMzIz/OS02MTkwLmpwZWc.jpeg" alt="Cover for Victorious: Music From The Hit TV Show (feat. Victoria Justice)" style="max-width:120px; height:auto;" />
       </td>
@@ -798,7 +821,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 53</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 56</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 83</li>
         </ul>
       </td>
@@ -819,9 +842,9 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 52</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 73</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 74</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 74</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 78</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 95</li>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 99</li>
@@ -829,7 +852,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32abe5d086e9405084ef660b102b9c1c.png" alt="Cover for Amor Fati" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +871,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0265d31413ad60b13329d56adba16955.png" alt="Cover for September EP" style="max-width:120px; height:auto;" />
       </td>
@@ -869,7 +892,24 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2012-10-16</td>
+      <td>Ben Harper</td>
+      <td>By My Side</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
       </td>
       <td>2013-06-18</td>
@@ -887,7 +927,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a9ec60c4912c715ce7d78dec5b60196.png" alt="Cover for Close Your Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -920,15 +960,15 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 63</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 78</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 65</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 84</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 95</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 100</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dc0f2764d20a5b139093fc1186f86d5.png" alt="Cover for Run and Tell" style="max-width:120px; height:auto;" />
       </td>
@@ -949,14 +989,14 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 33</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 34</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 87</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 95</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>
       </td>
       <td>2014</td>
@@ -973,7 +1013,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
       </td>
       <td>2014-04-22</td>
@@ -990,7 +1030,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aea05a0034254272c249dc34a6938a3a.png" alt="Cover for Dollhouse EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,7 +1049,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f1038f88fe2d08ec69c33ab428a5ffb.png" alt="Cover for Dollhouse - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1070,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/379ebc92279ba5124e3430b9cd4dbdee.png" alt="Cover for Dollhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,6 +1084,29 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85407f4a22d231482843a55d72936cbe.png" alt="Cover for Disgusting (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-09-23</td>
+      <td>Beartooth</td>
+      <td>Disgusting (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1066,14 +1129,14 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 12</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 46</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2014-10-29</td>
@@ -1090,7 +1153,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/ufFaSEDhx5O8gkHy5EaAS1VGBXxhvgm9et2alVNDOnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzUz/MDYtMTY1NDAyNjI2/NS01MjY1LmpwZWc.jpeg" alt="Cover for Using You" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,7 +1174,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ddbf80049214a75ca3aaf15e4abe872.png" alt="Cover for Before The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,13 +1191,13 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 98</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 99</li>
             <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/AIAUg7ryVPv11lfHmswah0SZoOrmCnv0IOyiWHwUeY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODQ0/NjEtMTQ2NjU2MDk1/My00ODIzLmpwZWc.jpeg" alt="Cover for Pity Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,6 +1235,27 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2015-03-20</td>
+      <td>Too Close To Touch</td>
+      <td>Nerve Endings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>90</td>
       <td>
           <img src="https://i.discogs.com/iN06f6aa8pelm4QzBN5KZPaiea6WZcnzG1lzUeJTHpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjg3/NzAtMTQyOTcyMjI4/OS02NTg2LmpwZWc.jpeg" alt="Cover for Ghost Town" style="max-width:120px; height:auto;" />
@@ -1192,7 +1276,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8087800dacd5452ee25aa3caa711ef3a.png" alt="Cover for The Fool" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1294,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/WnGv_yUbUM4Zdjlap7hvrq7FFIRmtHln31ke2-KESB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTkw/MTgtMTQzNTk2ODQz/MS0zMDM5LmpwZWc.jpeg" alt="Cover for Cool for the Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1331,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d3ccd9a460c4bcae9e4ed58d52b34f.png" alt="Cover for Good Will Prevail" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1346,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 72</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1367,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 54</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1307,7 +1391,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f189d15458e5f24735937059b3426f1.png" alt="Cover for DNCE" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1409,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18437bb93f1bb7392f849ad9cd0bf74.png" alt="Cover for Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,8 +1422,8 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 20</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1449,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/K_fzgO56TDEgxY8JjkHw1x_MSdkCuLLjt_RMFpfoRZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/Nzc2LTE1MTA1OTkx/MTUtNzgzMS5qcGVn.jpeg" alt="Cover for Ocean Park Standoff" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1467,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/s_Ba3LuhNFalT5NyuAPT9iceK-yS2MpLX098zw4HLlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUz/Njg2LTE1MzQ5OTI0/MjktMzc4Mi5qcGVn.jpeg" alt="Cover for Chapter Two: Red" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1486,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aca1be2ec7eb7ac0e683d8ed53906aa7.png" alt="Cover for Locket" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,26 +1500,6 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8372ee7b3a19f2aa26a7de26a11a3c6.png" alt="Cover for Collection" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-08-04</td>
-      <td>Soccer Mommy</td>
-      <td>Collection</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1461,7 +1525,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/qFj4wLEBHTRCfhMkCRaLRTP6t5tMbPxi3uDqDUP4Yoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk4/MDM5LTE1Njc4MDMx/MTItNjgxMS5qcGVn.jpeg" alt="Cover for Cat Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,10 +1566,10 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 20</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 22</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 46</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 91</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1527,14 +1591,14 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 68</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 80</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 69</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 81</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35b142e3a22504dacbded50c761edc11.png" alt="Cover for Disease &#x2F; Bad Listener" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,13 +1617,13 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 12</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 54</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 13</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/fI4ezBjcVIjSuM4Apt272BB496_odC9E_OXFEiaTYpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/NTU2LTE1Mzg5NjQ5/NjctODI5OC5qcGVn.jpeg" alt="Cover for trench" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1669,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61fd84247e5cc858a56ea6d4e433cf89.png" alt="Cover for Better Oblivion Community Center" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,15 +1684,15 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 38</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 75</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/wWi7KLdxF_x5d4mzJflRh8N8l1i7tEfcI43RsXXUC-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDg1/NjktMTU5NDk2NTM2/My02NTgyLmpwZWc.jpeg" alt="Cover for The Dying Song (Time To Sing)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb584d72f6d872ac310615b9e71ae4aa.png" alt="Cover for The Dying Song (Time To Sing)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-09</td>
       <td>Slipknot</td>
@@ -1646,7 +1710,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/481c034483f54482c5ac5ae55fd632eb.png" alt="Cover for B-Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,7 +1729,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/999294992c1a480d3c06724081be187e.png" alt="Cover for Flower Of Devotion" style="max-width:120px; height:auto;" />
       </td>
@@ -1689,7 +1753,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/8eb36Ux3rcfpntohLme0SUyMLaX11wj5NEZ0eg6D3ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/MTMxLTE1ODY1NjQx/MTctNTM4My5qcGVn.jpeg" alt="Cover for reputation (Big Machine Radio Release Special)" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1773,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/gO_ub7TqgkQpbOUsbelLhxvEHXHSD-ZqWocmPo-G6Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/ODU3LTE1OTc5NTY0/MTgtNzkwMi5qcGVn.jpeg" alt="Cover for Blush" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,9 +1809,9 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/D3TWoHIJJOwRL6OCYxw_tIGi5wgMjcHNZ4fZVThrWok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/NDgtMTQ3NzU2NDQx/OC03ODM2LmpwZWc.jpeg" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/830749d8d79bf137f9c64960e102e690.png" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Nina Simone</td>
@@ -1774,27 +1838,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/5Yz50HVLK9aIparQFuYzpSXszvn3j0aMLF570BE5x8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc0/NDA1LTE2MjYxNTk4/NjAtOTI4MC5qcGVn.jpeg" alt="Cover for Fear of Dying" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-05-26</td>
-      <td>Poppy</td>
-      <td>Fear of Dying</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bbf7aa21c5232bbee229d239db56b6c.png" alt="Cover for Scout" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1857,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8832f6e14b9035e9c744beb09195059e.png" alt="Cover for Dandelion" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1876,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/SLyiIQfJ7ozY_woRRyT_uPXpWRd-oEL3J9wMOZwa0Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQy/NDAzLTE2NDE1Nzg3/NzUtNjAxMi5qcGVn.jpeg" alt="Cover for Hayday" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1891,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 87</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1888,13 +1932,13 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 19</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 98</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 21</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/aFcydVVwuDJTFLlag_DxvOQJnWrimTkNnOz-b6F_lDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzIx/ODA3LTE2NDk3NTYx/NTctNTc3MC5qcGVn.jpeg" alt="Cover for Torches [Best Buy Exclusive]" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1958,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f4f2bd56238723b79cd471923401fc5.png" alt="Cover for Angry" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,7 +1978,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6acdaff0b437fb311333df4574f4adf6.png" alt="Cover for Slab" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,7 +1998,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/Bm7868uFw_hMScxYPwZ_0rFODgx5IS2PaX-nSxciens/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc5/MzczLTE2Njg1NzQ0/MTMtODE4Ni5qcGVn.jpeg" alt="Cover for Funhouse (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,16 +2019,16 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 64</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 88</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 66</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 89</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 90</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 97</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 99</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
       <td>
       </td>
       <td>2022-09-21</td>
@@ -2028,7 +2072,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46de2a6a46967306bc6b24c252eaacdb.png" alt="Cover for I Can Only Be Me" style="max-width:120px; height:auto;" />
       </td>
@@ -2048,7 +2092,7 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/rwO1b9-gFzDSLK14I9CtC-ASP_bCmCVtEDV-NO7Rh7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk5/NzE4LTE2ODQ1MjM3/ODItNzAyNy5qcGVn.jpeg" alt="Cover for The Record" style="max-width:120px; height:auto;" />
       </td>
@@ -2063,41 +2107,13 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 72</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 73</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/746e5334fd06624ad03fa025c5cf371b.png" alt="Cover for Spit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-05-03</td>
-      <td>Poppy</td>
-      <td>Spit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 24</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 59</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 65</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5378f0836943668cc39b9bc1a68763b.png" alt="Cover for curious&#x2F;furious" style="max-width:120px; height:auto;" />
       </td>
@@ -2109,26 +2125,6 @@ Last updated: <time datetime="2025-11-17T13:11:09.351Z">Mon Nov 17 2025 15:11:09
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0430c1ef6ba1a7e1d9c149ec66139661.png" alt="Cover for The Act" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>The Devil Wears Prada</td>
-      <td>The Act</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>

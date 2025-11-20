@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T13:13:01.564Z
+date: 2025-11-19T22:32:20.314Z
 permalink: tags/ambient-electronic
 title: ambient electronic
 ---
 
 ## ambient electronic
 
-Last updated: <time datetime="2025-11-17T13:13:01.564Z">Mon Nov 17 2025 15:13:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T22:32:20.314Z">Thu Nov 20 2025 00:32:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,6 +49,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13254d29d8c2965ee5017ec56181b4b0.png" alt="Cover for Mosaic" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Richard Burmer</td>
@@ -145,7 +146,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/nMZYCEg1EJKdin_RsZrKosMXJWJ9zIIjXgpb0mqSMoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzAy/LTExOTY2MzA1NzIu/anBlZw.jpeg" alt="Cover for Seasons Greetings - Spring" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +164,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>1994-10-03</td>
@@ -181,7 +182,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/zBA505uWQKsyVQcCGhl3qm2_4akRHJYpRsvsdha9aKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODg1/LTExODM2NTY4MzEu/anBlZw.jpeg" alt="Cover for The Dark Side of the Moog V" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +238,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/SkwzMKgmsl1wA_ZvMng-IG-2P3LEnshXQV25aE9XdQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTYw/NDEtMTYxNDU4NzU0/MC01MTU2LmpwZWc.jpeg" alt="Cover for Trans&#x2F;Mute" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +280,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/zBA505uWQKsyVQcCGhl3qm2_4akRHJYpRsvsdha9aKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODg1/LTExODM2NTY4MzEu/anBlZw.jpeg" alt="Cover for The Dark Side of the Moog VII" style="max-width:120px; height:auto;" />
       </td>
@@ -297,7 +298,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/wTPs7bojJmRt9jIkkEpW7jJ877XsoVG5cbLZwN0KuXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ5/ODg5LTE2MDU5Nzc1/NTMtODU4MS5qcGVn.jpeg" alt="Cover for The Inevitability of Pain (and the stupidity of those who don&#39;t expect it)" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +448,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/PB5VosSde7UiFfA7ivcJl5E1Hqi9BzLnk3uoz8kPVqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTUw/NzktMTE5MTQ1NjQx/MC5qcGVn.jpeg" alt="Cover for Calm Before Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +470,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/cXEBdFr1UkGdP26rHjA9iqMET89oKGcbCCr3Wabkcgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY5/MjE4LTE0OTYxMjM2/NjMtNDc1MC5qcGVn.jpeg" alt="Cover for Nightshade in Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +485,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 58</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +527,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0916611c447f10c8d584664314c06749.png" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
       </td>
@@ -549,7 +550,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 4</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 48</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -573,7 +574,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009</td>
@@ -646,7 +647,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/vTvQljH5IOJ-23CHqwbQQCOkGhNShRtCCZtb6bbFEYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQw/NTgtMTMxNTQxODU5/Mi5qcGVn.jpeg" alt="Cover for Mick Mangles" style="max-width:120px; height:auto;" />
       </td>
@@ -708,7 +709,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 77</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 88</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 93</li>
@@ -789,6 +790,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9289964c382e4d0185e372a8885a01e6.png" alt="Cover for Visiting This World" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-23</td>
       <td>Jefre Cantu-Ledesma</td>
@@ -797,6 +799,24 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dd41518c75352fa140b3994e37c519e.png" alt="Cover for Black Soma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-14</td>
+      <td>36</td>
+      <td>Black Soma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
@@ -939,7 +959,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 66</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 68</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
             <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 86</li>
@@ -983,7 +1003,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/jrXgrTEtx73MR9r97lFlSqiTAHr4X9iZhXnwy7GV6zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDc5/NTctMTQ2NTAzNzk1/MS04NjMwLmpwZWc.jpeg" alt="Cover for A703 (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +1042,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/VJIj_UJMtbzDWqfhGy_g6CixSEBu8rxF-9KEX4q8J9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDEy/MTctMTQyNzc0MjU4/NC01MjYwLmpwZWc.jpeg" alt="Cover for Sonnet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf5bcdcf250f78be0508b709e223dd8b.png" alt="Cover for Sonnet" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-30</td>
       <td>Benoît Pioulard</td>
@@ -1040,7 +1060,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/tvcreOqQ_BasfVO5MUUPJ3HHyJWd5S8zw6InzCv_C38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDI4/MjgtMTQyNzgzNTk2/My05MDI2LmpwZWc.jpeg" alt="Cover for Helluland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e1bc05bfdf1e3d00564f70441d2603e.png" alt="Cover for Helluland" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-31</td>
       <td>Northumbria</td>
@@ -1057,7 +1077,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97967b14014fa5ed8523fba6b0fa0054.png" alt="Cover for Neon Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1101,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/mlRThqkv5zKeQp5vIAGsZ1zXgycuMaE-2Uh6ej4Mh_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQ0/NzUtMTUwMDIyMjU3/MC0yNDg4LmpwZWc.jpeg" alt="Cover for Theia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b23d8447738c4c06535fff346b9013.png" alt="Cover for Theia" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-09</td>
       <td>Markus Guentner</td>
@@ -1124,7 +1144,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/jkYotn3z-4Cjda7aNRG-ZVJidCiw9GR04wse7CnDXvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzEy/ODQtMTQ1MTkwMTg3/MC05NzczLmpwZWc.jpeg" alt="Cover for Thirty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf70a9e4074710ed546813b3adb7066.png" alt="Cover for Thirty" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-04</td>
       <td>Irezumi</td>
@@ -1145,7 +1165,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/bTzoCbZ4q__tufdL3vLm6dxBwO-MxMsYiBdXyZclRTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQx/ODIzLTE1MzUzNjY3/NzQtMzAyMy5qcGVn.jpeg" alt="Cover for RAS" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1203,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/jOodDYp8vtR58r_ydFk6nW7i_qku6u5S53nsx-h5R_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjIy/MDYzLTE0OTM2NDYx/NzEtODAwMC5qcGVn.jpeg" alt="Cover for Context" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/627482a4a8a0c9c9677e5311cba488c0.png" alt="Cover for Context" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-01</td>
       <td>Hotel Neon</td>
@@ -1215,7 +1235,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 16</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1349,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/bJ1IegybVDl2wYlAaDleBY9e7rirrkHcXaYNHm_IKIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk1/MTMwLTE1NDUyOTIz/NzQtNDEwMy5qcGVn.jpeg" alt="Cover for Strange Parentheses" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1369,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/dEz5Xc9MW4aGk8KLR5uuPPefo5h0pG6tf12KAnD5Bzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk0/MDIxLTE1NDIwNjEw/NDItMjY1OS5qcGVn.jpeg" alt="Cover for A Seasons Past" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84a819ac63018a2ec56979674665793f.png" alt="Cover for A Seasons Past" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-08</td>
       <td>Hirotaka Shirotsubaki</td>
@@ -1555,25 +1575,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/m4WI0N4V2wGHWtqA1Whm09iFp_u5ddFlzxJeNg_FbKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIx/MzYxLTE1NzYyNTc0/MzYtNTE5Ny5qcGVn.jpeg" alt="Cover for Painted Skies" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-12-12</td>
-      <td>State Azure</td>
-      <td>Painted Skies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/bLgE9N_UiahrrhfqN2Ail13xM5zV6cuT9DXNnXrqy7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk2/MTYzLTE1ODM2NTg0/MjYtNjk4Ny5wbmc.jpeg" alt="Cover for The Dark Side of the Moog VI" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,12 +1607,12 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 68</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/UuFBw8q2E8qY3TD-l6NadJy-VX6kBGrWd9p7Guzk3Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM0/NDgzLTE1MzcxMzY1/MjktODc4NS5qcGVn.jpeg" alt="Cover for Shadows EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1648,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b377c537a770b2ea43d89264d2f0e231.png" alt="Cover for Elixir" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1671,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Fw1yrPrXr9z0WpTbXYZXddBhwXY9CV5RBrOpL-ex1_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA0/MzM3LTE2MjM0MzMy/NzUtMzg0Ni5qcGVn.jpeg" alt="Cover for Ii" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1686,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1726,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbcacfd8713bfee3dc29f4794f1dfda3.png" alt="Cover for Wing Theory Part I" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,7 +1768,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/dJsCqNrRe16_iFarm_G4awQEP8q3FqvwH6vFoP75C5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY5/NTkyLTE2NTA2MzQ4/NzYtNjc2OC5qcGVn.jpeg" alt="Cover for Cepheus Origin" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1804,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/373c162f4ce313fcac5bdb1e9f3d6e76.png" alt="Cover for Stellar Descent" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1822,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/fCaRrD8jdYxf-zRej75hghKudodOY9PLLsbU1_bXXbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjIz/MDM2LTE2Mzg2MTU4/ODUtMTgzMy5qcGVn.jpeg" alt="Cover for Cacophony of Notes in a Silent World" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1840,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1868,8 +1870,9 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daf142d60f6944f5a4903a0f58a5c3fc.png" alt="Cover for Time Mapped Time V2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Martin Budd Mono Input</td>
@@ -1895,7 +1898,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1931,7 +1934,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53c3aab3b4ac4142a2a0c3d41af11f46.png" alt="Cover for Closed Book" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1962,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1989,7 +1992,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2045,6 +2048,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2e5bf099fb1f40f89d762f0ded68e44.png" alt="Cover for The Sameness of Phosphorus and Hesperus" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ave Air</td>
@@ -2058,12 +2062,12 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 30</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T00:58:21.719Z
+date: 2025-11-19T22:49:59.922Z
 permalink: tags/spiritual-jazz
 title: spiritual jazz
 ---
 
 ## spiritual jazz
 
-Last updated: <time datetime="2025-10-21T00:58:21.719Z">Tue Oct 21 2025 03:58:21 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-19T22:49:59.922Z">Thu Nov 20 2025 00:49:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c199f459fac3c46430cb96d79cd7d668.png" alt="Cover for Eastern Sounds" style="max-width:120px; height:auto;" />
       </td>
       <td>1961</td>
       <td>Yusef Lateef</td>
@@ -42,16 +43,15 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 15</li>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 45</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/SkRk8M6bSXBnivcgsNxJhKm2a3GP75k4r3DOYBSUDpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ5/MTctMTE5NDAzMDQ1/MC5qcGVn.jpeg" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef9d51dad155988610bffe34b81a5f3f.png" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>John Coltrane</td>
@@ -63,13 +63,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29555acae2ed44eea3882de43a606fd9.png" alt="Cover for A Love Supreme" style="max-width:120px; height:auto;" />
       </td>
       <td>1965-01</td>
       <td>John Coltrane</td>
@@ -81,17 +82,17 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 73</li>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 80</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 83</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/2_FlVweTdwiEdQ8EXLtn1J92qSEBTiB9Evf6ECxQvpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjE4/NzYtMTMxMzkzNDAw/My5qcGVn.jpeg" alt="Cover for Meditations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2fb9ff8d071c5052c9d1e5e2b4169ce.png" alt="Cover for Meditations" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>John Coltrane</td>
@@ -107,7 +108,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/4pj438TmO7Oe2WRoMHnjg3jA0Czm3vp-AtRDh0T6Rh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTItMTI0ODI1NDEx/NC5qcGVn.jpeg" alt="Cover for discipline 27-II" style="max-width:120px; height:auto;" />
       </td>
@@ -125,9 +126,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/WI7ckn6QYUbw4BsFQ4Ad_8Y83pqou2Hgm-OK6We0d9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjMx/Mi0xMzg5MDY3NjY0/LTc2NjguanBlZw.jpeg" alt="Cover for Om" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/377e4374da10a2f49ffd5f622674fa47.png" alt="Cover for Om" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>John Coltrane</td>
@@ -145,7 +146,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/iYzC1gEM9MyY0c7HB-pX0-yPd885QdtqJaZnb405chw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkz/MzEtMTMxNTM4MTY5/Mi5qcGVn.jpeg" alt="Cover for The Jazz Mass" style="max-width:120px; height:auto;" />
       </td>
@@ -164,9 +165,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/SXtjtM4z8x8zDsS_gBM278_kMH_lwAoeMWH1kXLU2fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODUy/ODMtMTM5Mzk2MDQw/MC05NDMwLmpwZWc.jpeg" alt="Cover for A Monastic Trio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89185ccd0d5d0b6a561dc771388dcc53.png" alt="Cover for A Monastic Trio" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Alice Coltrane</td>
@@ -182,9 +183,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/9bw5aUaW2YHgSWEsfOCbTSe1eG3B4HIpu2gwzhgq6yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTIx/MS0xMzEzODE4MTAy/LmpwZWc.jpeg" alt="Cover for Black Woman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de8d6a2e3fba426364d66b5335f9baa1.png" alt="Cover for Black Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Sonny Sharrock</td>
@@ -196,13 +197,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 76</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37984282d2a148ee7ace8ce2929a344e.png" alt="Cover for Karma" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Pharoah Sanders</td>
@@ -214,12 +216,13 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/tCuNzA2QWxFwICpRCx8fENxKT39rN5D6Xg7qhOm1nCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU0/MjctMTU3MDAyNDQ4/MS0zNTczLmpwZWc.jpeg" alt="Cover for Echoes of Prayer" style="max-width:120px; height:auto;" />
       </td>
@@ -237,7 +240,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/bowYSuKFLaTBoDcdLe6wn4H5THuSXrFpDhLHOq4ntc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzM3/OC0xNDMwNzQ5MTcy/LTk1NDQuanBlZw.jpeg" alt="Cover for Ketchaoua" style="max-width:120px; height:auto;" />
       </td>
@@ -255,8 +258,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8da12390e66663922fde5ca58176a88.png" alt="Cover for Huntington Ashram Monastery" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Alice Coltrane</td>
@@ -274,6 +278,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b32736e8b092465ab6a3a67abf134a66.png" alt="Cover for Jewels Of Thought" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Pharoah Sanders</td>
@@ -289,7 +294,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/CsnCP0kT0uY0IwMj-d7burY-g1g8ea9DVVytoc_wW54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/NTktMTMzODcwMTAw/Mi05MzA0LmpwZWc.jpeg" alt="Cover for The Rubáiyát of Dorothy Ashby" style="max-width:120px; height:auto;" />
       </td>
@@ -310,15 +315,35 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 29</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 58</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 83</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5071429ee83290d7cdfda3b80c707958.png" alt="Cover for Thembi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Pharoah Sanders</td>
+      <td>Thembi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e926e3986f1d00dc3d2b5536b80414b5.png" alt="Cover for Journey in Satchidananda" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Alice Coltrane</td>
@@ -330,14 +355,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 26</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 61</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>1972</td>
@@ -349,7 +374,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 76</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -373,6 +398,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46b23e307edb4bb2818e9fd6b9b25786.png" alt="Cover for Wisdom Through Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Pharoah Sanders</td>
@@ -389,7 +415,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>1973</td>
@@ -408,7 +434,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1973</td>
@@ -427,7 +453,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1973</td>
@@ -482,7 +508,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/PwChGnmQl6kDR-KhYDRd1GhfPyUTAh_QTFepifDxQ7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzA4/MS0xNTIzMzQyMzU0/LTYxMzIuanBlZw.jpeg" alt="Cover for The Skipper at Home" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +566,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/BRUNRDuJ8wzLxMhfcuR2tI1dZdKXZVrg0hUwUWRJXyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUy/My0xNDcyNTUyMTU3/LTM3NDguanBlZw.jpeg" alt="Cover for Vista" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b612923d16cad11d3fd27d990fd3555.png" alt="Cover for Vista" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Marion Brown</td>
@@ -558,9 +584,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 55</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 53</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 86</li>
         </ul>
       </td>
@@ -584,7 +610,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/8uzGhvRJcanqhmS8Ip4zFFxuU7v3ZQTv82rA2ydj6fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEy/MDYtMTIwMjM4OTUy/MS5qcGVn.jpeg" alt="Cover for Electronic Sonata For Souls Loved By Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -601,8 +627,8 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 21</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 35</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -628,6 +654,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59999eed4eb61736bfbfd299735d48c9.png" alt="Cover for Pharoah" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Pharoah Sanders</td>
@@ -643,7 +670,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
       </td>
       <td>1977</td>
@@ -662,7 +689,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/DGANtSg-MJRbmhJD-ETzFh0AB_K2kuR4A7aOFneM4zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzY3/OTUtMTQ0NzcyNDc1/MS04MTI4LmpwZWc.jpeg" alt="Cover for Don Cherry" style="max-width:120px; height:auto;" />
       </td>
@@ -680,8 +707,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cf3b61b988f7cc99594e7322669c3ef.png" alt="Cover for The Pavilion Of Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Harold Budd</td>
@@ -695,15 +723,16 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 12</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 19</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 22</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 23</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 27</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 31</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 48</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 85</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -740,12 +769,12 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 50</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/_Mey8DUn6xkeq1s9sr5lfEmRpBVCxJgRlnZ2Q0Dotac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzc5/MjMtMTQ4MjMyMjIy/My04MTgzLmpwZWc.jpeg" alt="Cover for Revelations (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +794,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>1981</td>
@@ -782,7 +811,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/gzFWMRzXJ5Mx5Hh-aOU-fHwruykoicI-YpfA7IbJ4pY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjEy/NzgtMTQwNDc2MzA5/Ny01MTI5LmpwZWc.jpeg" alt="Cover for The Spiritual Side of Wynton Marsalis" style="max-width:120px; height:auto;" />
       </td>
@@ -800,7 +829,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/_yJjurpT5TCyc3p9BeGtM67VLsKnfXuCmcz9lN7vKfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjM3/MzEtMTI4MzI3Nzc5/Ny5qcGVn.jpeg" alt="Cover for Jazz Meets India" style="max-width:120px; height:auto;" />
       </td>
@@ -818,8 +847,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a72799171e394bd4b0c06a46e1999942.png" alt="Cover for Divine Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Alice Coltrane</td>
@@ -840,7 +870,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>1990</td>
@@ -858,7 +888,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/mdxEsTEeztp1V7_Nw2lL0PLInJCQhdysW9tJi2AlYCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA2/MjktMTM3MzIxOTIz/Mi04MjQyLmpwZWc.jpeg" alt="Cover for Kulture Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +907,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/3Zr2ZOWnd0x_mybPl6pN9MFm4hg5YeT9j8DSohDTkvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY4/MTAzLTE2MTQxODU1/MzItNDg4OS5qcGVn.jpeg" alt="Cover for Virbrations In Time" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +925,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1996-10-21</td>
@@ -912,7 +942,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/3LqjicqCrxuAasluKB0iew0F7QCL2q8WPz0WtumM724/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzEw/MjktMTQ3NDI0NDE2/Ni0zNzU3LmpwZWc.jpeg" alt="Cover for Afro Futuristic Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -934,6 +964,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81bf909f634312e532e275dcc04ac8b0.png" alt="Cover for The Olatunji Concert: The Last Live Recording" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-25</td>
       <td>John Coltrane</td>
@@ -945,13 +976,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83217b4d53f34f58a407f5b5cfe1a625.png" alt="Cover for Translinear Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-28</td>
       <td>Alice Coltrane</td>
@@ -967,7 +999,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/ImOfgKRTtLbQTd9Lh-7bBa_mj6cZ7t_hUgkhmC9sf7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzk3/OC0xMTU4OTE4NjAy/LmpwZWc.jpeg" alt="Cover for Eastern Sounds (Rudy Van Gelder Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -986,14 +1018,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 11</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 12</li>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 18</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 39</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/e46vrh7MPBcZQUCeZFAnEzgW5o5zE2ygpaYwJFMMG1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYy/ODItMTI4NTA3MDc5/NC5qcGVn.jpeg" alt="Cover for Live in Egypt 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +1044,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -1025,12 +1057,12 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/gmZPBS3gIZPr6fwDhgleVKfXBLCUyrtb5W3dJaBYO4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQ4/MTEtMTMxOTk4ODk4/MS5qcGVn.jpeg" alt="Cover for Sacred Dimension" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,6 +1082,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9783633d5e9344dfaf1f4af11fe6e496.png" alt="Cover for They Shall Inherit" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Menagerie</td>
@@ -1069,7 +1102,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/EnpVYJgAmQFBsaUK1GmkfZqgUBQU4oIU9tAsi6XzNTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjI2/MTgtMTM4NjIyNjQw/Ny00MDMxLmpwZWc.jpeg" alt="Cover for Counting The Ways" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,12 +1119,12 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 36</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Akd1_t_sG3hohnzuIej9u1e8uKLHnF7n4hZWCbakgoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ4/Njg1LTE1NjQ2OTU0/NDAtMTk1Ni5qcGVn.jpeg" alt="Cover for IN QUIET WATERS" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,6 +1147,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e08d4c37c444cc4b197b85fa93c0f.png" alt="Cover for Follow The Path" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-08</td>
       <td>The Shaolin Afronauts</td>
@@ -1128,13 +1162,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 68</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9715f15b9c7646f7c6bd919cb029fa7c.png" alt="Cover for You&#39;re Dead!" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-06</td>
       <td>Flying Lotus</td>
@@ -1146,7 +1181,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1206,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Pv9WBGPC0H9dtjMzI3En9qdX4TULqb7MkJBt3Zej5kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MDQtMTQ0NTUzNzE4/OS0yOTAwLmpwZWc.jpeg" alt="Cover for Humility in the Light of the Creator" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1224,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/dimeg8zCEs5ZeF61DiwZsjBgjgWFWBHxgz3pO5DETbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ3/MTYtMTQyNjE1NDg3/Ny05OTQ3LmpwZWc.jpeg" alt="Cover for Israel Suite &#x2F; Dominante En Bleu" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,9 +1243,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/FDIATbQWsmN4xaGuZvVXdo3DehoAgfzZOmFkzpkNyeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg1/NjctMTQ2NTQ3MDM1/Mi0xMTk5LmpwZWc.jpeg" alt="Cover for Healing Rituals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9b7433e73a64d27964fa9a62b9b177d.png" alt="Cover for Healing Rituals" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-30</td>
       <td>NAÏSSAM JALAL</td>
@@ -1228,7 +1263,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/dnN5eahuUjXsyNugiM_D-J8BOU4sMLwhpQiBSFhixJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDAz/MTMtMTM2MTMxNTk1/Mi03Mzk1LmpwZWc.jpeg" alt="Cover for Sleeping Beauty (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,16 +1281,16 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 84</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 87</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 88</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Ta-aPHGP_E2U9eZzBRCIghcRIX51F0qE9MYI2qWdBK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODAx/MDAtMTQzMDkwMTEx/My0zNDYyLmpwZWc.jpeg" alt="Cover for The Epic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e31e35a94208561b1c2b0dca53beaf56.png" alt="Cover for The Epic" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-04</td>
       <td>Kamasi Washington</td>
@@ -1271,9 +1306,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/b2fEoprREcPieFtbin3gWo5lo5C0-jehV09NndywOtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQy/NjYzLTE1NzE3MzMw/MTctMzk0Mi5qcGVn.jpeg" alt="Cover for Ford Pliner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8ab6a7ab163c93456f4215cd94d7643.png" alt="Cover for Ford Pliner" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-22</td>
       <td>Bentley</td>
@@ -1295,7 +1330,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/fOjEh1Mr818RTiBmwd3hKcI23SLeEklMmhYMVWs9Wq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzAy/NDEtMTM5NDc3OTAy/MS03ODkwLmpwZWc.jpeg" alt="Cover for Promises" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e834b2176d7592462feb0a5dd583a206.png" alt="Cover for Promises" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-05</td>
       <td>Floating Points</td>
@@ -1307,14 +1342,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
             <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 79</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/gEupb-Av_M3KvKqawVkZ7VZ-yIkVX_z_zmKSoopONrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEz/MjY0LTE1MzMwNzM2/MDctOTA5MS5qcGVn.jpeg" alt="Cover for Live At The Crypt" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1369,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/cAITCP-0z76z8-JVt4VfrJM4mXP357lhnVbIOu0-xyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE2/ODUwLTE1ODAyMjUz/MDAtNjkyOS5qcGVn.jpeg" alt="Cover for The Conference Of The Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1394,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/giWpeqWgremeMOqwoCW74yeXMm6yHQa2DusOUmgoLMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE0/NjE0LTE1Mzg2Mzg3/MzgtOTU5OC5qcGVn.jpeg" alt="Cover for Ill Considered Live In Nantes (Fr)" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1413,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Z90fZOSW7N_ULSMRBYBojmuaQ-Knf4ArECA9_h7ZU0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ3/MjU2LTE1NzI3MDMz/MjAtNzkyMi5qcGVn.jpeg" alt="Cover for Gris Gris" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1440,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/A1rDv5vyNbDtDF-VDYMG3HTcmv0DTN1jsQg162QJPxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUw/MzA5LTE1NTI1NzUw/MjgtODM1OC5qcGVn.jpeg" alt="Cover for Trust In The Lifeforce Of The Deep Mystery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa611731e1cbc8cc6e57ffbe30853d4d.png" alt="Cover for Trust In The Lifeforce Of The Deep Mystery" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>The Comet Is Coming</td>
@@ -1419,13 +1454,13 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 74</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 80</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Ie9NB5ObTjTlsIhHa0ENCok78FtjodmeVXSPrTaKRTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgy/MDYzLTE1NTUwNDM5/ODgtNjg5MC5qcGVn.jpeg" alt="Cover for From Untruth" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,7 +1498,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/ryQw_N4U3C4WqV7EsyNaBUeAuYEw4H9GTOD45hasZsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk2/ODQzLTE1NzM2ODE0/MjAtOTAyMy5qcGVn.jpeg" alt="Cover for Live in Larissa" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,9 +1516,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/8Eqk14SLFM4UKgF2rNi3ugznL2hRyV39ys7C_8DJjkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODYw/NzMtMTQxNzk2MzYz/Mi00ODI2LmpwZWc.jpeg" alt="Cover for Live In Paris (1975) [Lost ORTF Recordings]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c78ddf30fa91f1641c4e3c5369b8ed3.png" alt="Cover for Live In Paris (1975) [Lost ORTF Recordings]" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-13</td>
       <td>Pharoah Sanders</td>
@@ -1519,14 +1554,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 36</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 37</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 43</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2020-08-28</td>
@@ -1569,7 +1604,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/n-DBFgGg_BxocFB6xVSPIyFJ6hGGugIf4-0eN5e_2Vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTk0/MDgyLTE2NDU0ODEy/NDAtNzE5Ni5qcGVn.jpeg" alt="Cover for Potomitan" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,9 +1622,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/jcP4wLp_R3Vdib6IFmJuW34U58jirB7ajd0yWOoREvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzE2/MzM4LTE2NTMyMjky/MzItMTgyNi5qcGVn.jpeg" alt="Cover for Afrikan Culture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d3b34fef41726ffad495b10026db9dc.png" alt="Cover for Afrikan Culture" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-20</td>
       <td>Shabaka</td>
@@ -1607,7 +1642,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/E33FnjZ58qSMwkN_yWAymdNkebQV6AjIBmQC5YXkVzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMy/MTctMTMyMjgxMTk3/My5qcGVn.jpeg" alt="Cover for Peace and Rhythm" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,12 +1657,12 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Jazz Meets India" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1680,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/3SikkY4b3TEDgcSsQPyjZmvvGbXoGIBlDf2pcfgyPwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDQ0/MDU3LTE2ODczMDQy/MTEtNjA1Ni5qcGVn.jpeg" alt="Cover for A Sublime Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1698,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Z1dLPXp1OuMD7TamaY4lvLOV2JFCKX80fbFH3nM09YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI1/MzY0LTE2ODQ0OTYz/MjQtMTQxNi5qcGVn.jpeg" alt="Cover for In Search of a Better Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,7 +1718,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Ng4fEu74i663cNPwV_DnYj-BKhMIkSwHQ7VZh8II3aI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzA2/NjcyLTE2MjQ4OTM4/NzctNjQ4Ny5qcGVn.jpeg" alt="Cover for 60 Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,23 +1737,20 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/1YDHwssTjL9kGx4q02S1Xm5Y2r9c0FIHGPp-IOjMFHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQx/NjYxLTE3MDAyMjY5/NjAtMTEwNC5qcGVn.jpeg" alt="Cover for New Blue Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a062a16a19944f402c2884dd2ae7247.png" alt="Cover for New Blue Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-17</td>
       <td>André 3000</td>
       <td>New Blue Sun</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 81</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1774,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/S7awDppH2jY4626DRrcJ7zZNH2SAvHaDKQWWazkd4PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NTc3LTE3MTQ4OTk5/NTUtNDUyNC5qcGVn.jpeg" alt="Cover for Fearless Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/357674ba00e83e21f4a0d2eb2204cd1d.png" alt="Cover for Fearless Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Kamasi Washington</td>
@@ -1755,14 +1787,14 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 4</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 39</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/gCw-xsVAJ97c085A4rqFwejTeSkwTx7zF4GqeuT4RVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIw/NzQ2LTE3MTMzNDEy/MTgtOTg4Mi5qcGVn.jpeg" alt="Cover for Into the wild" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1854,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/kLLzFS_mSx1K776sgG4myxf-3Pxcoxmc5Ne1JHrLmMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjUx/ODk4LTE3MjU0NjQw/NTctNDgxNy5qcGVn.jpeg" alt="Cover for Endlessness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9dd460be6b0a7ee2b46acb93422c5cf.png" alt="Cover for Endlessness" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-09-06</td>
       <td>Nala Sinephro</td>
@@ -1839,34 +1871,15 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 54</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 71</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 87</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>김오키</td>
-      <td>For My Angel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1883,7 +1896,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1919,7 +1932,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1936,7 +1949,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1954,7 +1967,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -1973,7 +1986,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -2003,5 +2016,5 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
 - [post-bop]({{ "/tags/post-bop" | relative_url }})
 - [improvisation]({{ "/tags/improvisation" | relative_url }})
 - [jazz-funk]({{ "/tags/jazz-funk" | relative_url }})
-- [ambient]({{ "/tags/ambient" | relative_url }})
 - [spiritual]({{ "/tags/spiritual" | relative_url }})
+- [fusion]({{ "/tags/fusion" | relative_url }})
