@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T14:31:10.324Z
+date: 2025-11-20T03:27:53.118Z
 permalink: tags/modern-melodic-death-metal
 title: modern melodic death metal
 ---
 
 ## modern melodic death metal
 
-Last updated: <time datetime="2025-10-28T14:31:10.324Z">Tue Oct 28 2025 16:31:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T03:27:53.118Z">Thu Nov 20 2025 05:27:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/cqrd9sg4s_5I75FOaNpSCBQ79dUkC0Y3IemA-qF7UiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI2/Njk3LTE1OTkzMDU4/OTgtMjg3MS5qcGVn.jpeg" alt="Cover for Pendular" style="max-width:120px; height:auto;" />
       </td>
@@ -48,9 +48,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/wyBjeVneofqvKUwl3CWyiP1xBLJOaybIlN_FowmziGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA4/NDA4LTE2ODA0Mzk5/MDgtNzgyMC5qcGVn.jpeg" alt="Cover for Phoenix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae899cdff823495f8b4d8b62799473be.png" alt="Cover for Phoenix" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Room</td>
@@ -69,29 +69,65 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/uoa-uiawjP0IjCiGxXZrmzsRMvIr3QaFNvh1NVlMk3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTg1/MS0xMzA4MjgyMjI2/LmpwZWc.jpeg" alt="Cover for DevilDriver" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d45a95a1f3bd8239cb57cef05504e9d6.png" alt="Cover for Figure Number Five" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-04-21</td>
+      <td>Soilwork</td>
+      <td>Figure Number Five</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 79</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2daaa41aeb7b5a28510d99c37a8f737.png" alt="Cover for DevilDriver" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-20</td>
       <td>DevilDriver</td>
       <td>DevilDriver</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 48</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4f32e38521d6bca317bca29babc0389.png" alt="Cover for Soundtrack to Your Escape" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-17</td>
+      <td>In Flames</td>
+      <td>Soundtrack to Your Escape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 46</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/ENkTcUiL4AaaWmcJNbq4FwOb-qxCzb2ipzsgjESTiA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDQ2/NzItMTMyMDM5OTk1/MC5qcGVn.jpeg" alt="Cover for One Bullet Left" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +145,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/kM3-zfcC4w-Y7VAUZM7gTGUPABvAzrAGWiBHqhBejBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTcy/NDMtMTY0NzYyMzY4/OS00MTExLmpwZWc.jpeg" alt="Cover for Cognitive Note of Discord" style="max-width:120px; height:auto;" />
       </td>
@@ -131,9 +167,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/UHLJ_AvcYcaycGkyqBbRoLh3CwwXIBdg7jXltF-8a6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzIw/OTUtMTI1NTkwODI3/My5qcGVn.jpeg" alt="Cover for The Hours That Remain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4e9f5d219b4afaaab2e1d95fd7aa03.png" alt="Cover for The Hours That Remain" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-18</td>
       <td>Mercenary</td>
@@ -149,7 +185,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/6tpWOkSS4llEElv3_TQEPUbGX_cQPheTHHMWK-mZzO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzgy/ODEtMTI3NDAyNDE3/Ny5qcGVn.jpeg" alt="Cover for Театр Военных Действий. Акт II" style="max-width:120px; height:auto;" />
       </td>
@@ -189,8 +225,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b14d25e350a747999a5d73ab79d20ae5.png" alt="Cover for Bedtime Prayers" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-20</td>
       <td>Blinded Colony</td>
@@ -208,27 +245,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/ocD48QGePSf5U6_XDnlpsPu7VFtIiRBAXhZVEVFg2xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjA5/NTItMTYyMDc2Nzg4/Ni00MjQxLmpwZWc.jpeg" alt="Cover for Wolves" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-04-13</td>
-      <td>DeadLock</td>
-      <td>Wolves</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/wrxSMM11ha9dz9lWzKZyN6UavxT7BbkmAhKGjc1TefI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQw/OTUtMTM0Mzg4NDk2/Mi05Mzc4LmpwZWc.jpeg" alt="Cover for Крик Мертвой Свободы" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d999cbba124b4647b22b4aa009139a96.png" alt="Cover for Крик Мертвой Свободы" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Scartown</td>
@@ -250,7 +269,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/UEvBjpZrTImF-lWwKZugRF5u_3t6UeeGKGaXNJ8P3uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDkz/MjQtMTQzNDgyNDA2/Ny01MjIyLmpwZWc.jpeg" alt="Cover for Restore The Balance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d5ee48ba1764eadce6f4d51cade62a0.png" alt="Cover for Restore The Balance" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Rise to Fall</td>
@@ -302,7 +321,45 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e17f6fe94a9d4a78bd102b09b4aade30.png" alt="Cover for A Sense of Purpose" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-26</td>
+      <td>In Flames</td>
+      <td>A Sense of Purpose</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 14</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 51</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ced3f682426b4a558d6c953ca2d13859.png" alt="Cover for Wasteland Discotheque" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-27</td>
+      <td>Raunchy</td>
+      <td>Wasteland Discotheque</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f63d4a84f48c45cabc8973b56e3ff6b6.png" alt="Cover for Love and Other Disasters" style="max-width:120px; height:auto;" />
       </td>
@@ -311,8 +368,6 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       <td>Love and Other Disasters</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
         </ul>
       </td>
       <td>
@@ -322,28 +377,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/1FrmfRfTeUNomArilSrPkZyJaQWPOmorMJbvjFBUt9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzg4/NDgtMTI4MDU3MjEz/OC5qcGVn.jpeg" alt="Cover for Into The Void" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-10-10</td>
-      <td>Posthuman</td>
-      <td>Into The Void</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Y4x8lJKOhU4hQM05eV_1dLdfoBYorcUD-aljG9eZqfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjI1/NDktMTQwMzY0OTQw/MS0xOTg3LmpwZWc.jpeg" alt="Cover for Only the Beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -380,9 +414,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/fZ1s6zXt_fq4Z2tohxMCMm2yGljUXOcd0c_J7E-dk3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTY5/MTgtMTQ3OTgzNTkx/NC05NTYyLmpwZWc.jpeg" alt="Cover for Я - Бог" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6dc986ccdc849bc8299c9a3ba3b335c.png" alt="Cover for Я - Бог" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02</td>
       <td>Viper inc.</td>
@@ -424,7 +458,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/PoIs60uXAa6SWTuQdoVUQAoKUnKXfcKyZZ9Qhu__qGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM3/ODAzLTE1NTgwMjg0/NzAtNTUzOC5qcGVn.jpeg" alt="Cover for Divisions" style="max-width:120px; height:auto;" />
       </td>
@@ -443,7 +477,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/qe7LeXYffUUpaVefvTfgRK9VXmCp9OcBiem7_pdElSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzA3/ODEtMTIzOTcwMzkx/NS5qcGVn.jpeg" alt="Cover for From the Wrong Side of the Aperture" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +522,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/17I70VDQRTCRY4JknP4Ff6xvxJ8BeltzSRfyVc3WC-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc2/NTYtMTI3ODE3ODM2/NS5qcGVn.jpeg" alt="Cover for Dark Matter Dimensions" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +540,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/xAFqfH7lmQt9elAj7Ai6DDDpzFTh41VayxGpvaWqO8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTcy/OTUtMTQ0OTQwOTky/MC00MDMxLmpwZWc.jpeg" alt="Cover for Promo" style="max-width:120px; height:auto;" />
       </td>
@@ -544,7 +578,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/JxGorjDWcfD2aQNWDo1U9O421DdtOAWlYwcmGYRotww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzc0/ODItMTMwMDU3Mzk4/OS5qcGVn.jpeg" alt="Cover for The Nemesis Construct" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23f1fdd1f819581a272677f307aaf1b7.png" alt="Cover for The Nemesis Construct" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Emergency Gate</td>
@@ -562,7 +596,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 9</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +624,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/c76pSj39UcLrJtmLX7DI8p8q8Wh68J_dHJ2NC3MFdcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDU2/OTctMTQwMjY3ODc5/MS03MDkwLmpwZWc.jpeg" alt="Cover for Obliteration Of The Weak" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +648,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7e5981a2b4946f6a914dca6cbead6d8.png" alt="Cover for We Rule The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +658,6 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
         </ul>
       </td>
       <td>
@@ -635,7 +668,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/LAF2wNZbytVP4z1zCo71P-GH5mQTfl68_XJWgygAwHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTE1/NTItMTM5MzcwMzU3/MS03NTUwLmpwZWc.jpeg" alt="Cover for The King Is Fat&#39;N&#39;Old" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a182fb936204b02b711b761149779af.png" alt="Cover for The King Is Fat&#39;N&#39;Old" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-04</td>
       <td>Destrage</td>
@@ -653,7 +686,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/9PIEDXBLuvISoyfgJHmwzZsQFEa8EIhkdb5kcQDg5tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDUw/OTQtMTQyMTY4MjQ1/Ni0yMDUyLmpwZWc.jpeg" alt="Cover for Mortuus Machina" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +706,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/J2xIJECIwm5Fk-yL-lJs_PLt2OGA22fMU9k8mVrvXwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/OTU1LTE1MzYxODc2/OTItMTY3NC5qcGVn.jpeg" alt="Cover for EP2010" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/065f5190a69a484c8cd7e8a4826e27f4.png" alt="Cover for EP2010" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-22</td>
       <td>The Blinded</td>
@@ -689,7 +722,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/IfHCzid5XkP_Ne3ZBHuPK8j7H61gN3KkJM3_nr64_C4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mjkw/NDgtMTQ0NzU4NTI0/Mi03NzE2LmpwZWc.jpeg" alt="Cover for Lost Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +740,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/lX2L9d-v1lCqaDYIQsPjEWrTwchX0YkxHdXmvlZ-OaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDg2/NDktMTQ1OTA3ODE4/OC02MTk5LmpwZWc.jpeg" alt="Cover for The Embodied" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +761,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/EfKqOUUxWA_Rtf2FumY6D5yBEN5daajEs-vo01lzHfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzIz/MTUtMTMzNTc3Mjgy/MC5qcGVn.jpeg" alt="Cover for Bizarro World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52c666601eefc94c2d6269b2b059fb8e.png" alt="Cover for Bizarro World" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-25</td>
       <td>DeadLock</td>
@@ -746,9 +779,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/uhzc4ZIqVYdr3bQ_2UGNglrYXfLQjNPcgAWKXRmAqYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDU2/OTM2LTE2NTQyODQ5/NzItNjE2NS5qcGVn.jpeg" alt="Cover for The Miracle Of Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3387aac4bb0c2b13b5d2c9fff8d2b40.png" alt="Cover for The Miracle Of Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-01</td>
       <td>The Unguided</td>
@@ -769,9 +802,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/7XwHFlklq4sCAK_thd2-YmOixaGq_5L0hRmgF-kp6z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDYz/NTMtMTMyNDk5NzM0/MC5qcGVn.jpeg" alt="Cover for The Heartbleed Bug" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9467625477abbb3d403f9076c0307699.png" alt="Cover for The Heartbleed Bug" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-01</td>
       <td>The Unguided</td>
@@ -794,6 +827,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66dbc48fa40c40098f011a92900dee03.png" alt="Cover for The Unseen Empire" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-15</td>
       <td>Scar Symmetry</td>
@@ -805,12 +839,12 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 74</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cdf6ad30c87420f92a4b3476d899cd8.png" alt="Cover for Sounds of a Playground Fading" style="max-width:120px; height:auto;" />
       </td>
@@ -820,21 +854,20 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 62</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 29</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/nB-3M4OfCb-MVYGt2BjHMAN3mzqIbaP_zJR6MnlX34o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc1/NjctMTY2MTIwNTk0/OC05NjMxLmpwZWc.jpeg" alt="Cover for Tactical" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/843462b87edb442d868584057a6ec165.png" alt="Cover for Tactical" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-26</td>
       <td>World Under Blood</td>
@@ -874,26 +907,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee928457d7164cdba982489b58f486e8.png" alt="Cover for Hell Frost" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-11-30</td>
-      <td>The Unguided</td>
-      <td>Hell Frost</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/tJfkk2DSqPTaf-HxPp0IQfxTQnnSK4kos8R-cIcyJWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU5/NTA5LTE1NDkwOTQ1/NDEtODM2OS5tcG8.jpeg" alt="Cover for The Rebuild" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +925,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/L1u0th-1xGmGaSXlw-ri5z1jUijNbSXKrbpBZ1b4bm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODA0/NTAtMTQyNzY0OTM2/OS0zNDIyLmpwZWc.jpeg" alt="Cover for Eyes World Shut" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +968,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Wpm3ChUZdaiCOtrtLK0lhDkQ298yhtfU_7XjyYLhFBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ1/NjYtMTYwMDQ2MTM3/Ny0zODAyLmdpZg.jpeg" alt="Cover for Mind Games" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07722a4d988b4214bf41bf92c6ec3978.png" alt="Cover for Mind Games" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-11</td>
       <td>Silent Descent</td>
@@ -992,6 +1006,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30a5962c7c2e4dc09c868f2e81afcfad.png" alt="Cover for Princess Ghibli II" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-14</td>
       <td>Imaginary Flying Machines</td>
@@ -1011,9 +1026,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/Wpm3ChUZdaiCOtrtLK0lhDkQ298yhtfU_7XjyYLhFBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ1/NjYtMTYwMDQ2MTM3/Ny0zODAyLmdpZg.jpeg" alt="Cover for Remind Games" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/686ab09eaae505e88883150e52eb6730.png" alt="Cover for Remind Games" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-07</td>
       <td>Silent Descent</td>
@@ -1033,7 +1048,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/gwTXih2AiroPbp29zqxWbJwGmIKGk6GKyTOaY3Wo3oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODAy/MjMtMTQ2MjQ0Mzc3/Ni0zNzQyLmpwZWc.jpeg" alt="Cover for Meridian" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,9 +1104,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/6u8pJJEEmBMm6V-YEU57_HoF0ghYr7LD4tt7Mds4A80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDkz/ODQtMTQ2MTgzNjYx/MS04NjEwLmpwZWc.jpeg" alt="Cover for Inhaling Blackness - Reflecting Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/244a43362dce4f278d20fe420d70b121.png" alt="Cover for Inhaling Blackness - Reflecting Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-24</td>
       <td>I Spit Ashes</td>
@@ -1111,9 +1126,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/P1aGH8hINYoOUYk1FhtyPaS69rsWj1flnNUQYiUv-W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjk4/MTUtMTM1NjI4Mjcw/OC04ODgwLmpwZWc.jpeg" alt="Cover for Legendary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f10856d6c2f343bef5d45214677391.png" alt="Cover for Legendary" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-21</td>
       <td>The Unguided</td>
@@ -1134,7 +1149,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Nsr6yaHH_t1HTkAHSpc4AGUS5eYvUl8vk59DRERzDVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDcy/NzktMTQ2OTE4NzEy/NC03MDIzLmpwZWc.jpeg" alt="Cover for Field of Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1184,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/CrX7CDx7Rd6pn5fe7ucVGeKJyaT_l_xQYYSklpAUp7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjM3/NjctMTQwNjA0NDgy/OS05MDQzLmpwZWc.jpeg" alt="Cover for Architect" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1238,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/HHnHfCX5h6i_5mVBn8Z4yvA30Zhw8P-fTEEiVHaKp14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc2/MDgwLTE1MTMyNTAx/OTAtNjA0MS5qcGVn.jpeg" alt="Cover for Chooser Of The Slain" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1256,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2013-12-20</td>
@@ -1258,7 +1273,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/IyVGzs_uVpwcLSwNtivuqOPC8PajQotz3fy_S7MKJ4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTY4/NDU4LTE2MzI1MDYy/MDgtNzkwMS5qcGVn.jpeg" alt="Cover for Gates of Insanity" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,9 +1294,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/R55fpzCPNVhRMpp2MgoCO0YKhKdxWIlKNQXx76IBQ2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ4/NDYzLTE1MDcwMzA5/MzItNjQ1Ny5qcGVn.jpeg" alt="Cover for This Is Not Goodbye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43a74ce3493e49d7c90107be51e97460.png" alt="Cover for This Is Not Goodbye" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Sarea</td>
@@ -1335,8 +1350,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a98cafe36f8413fc123502882e5aa14.png" alt="Cover for Ghost Town" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-24</td>
       <td>Rain Of Acid</td>
@@ -1355,7 +1371,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/bDCVM4o4vKOcsPzuiL25gaw6olJOAAbbnTuSg8b8wKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjY1/NTYtMTM5MTYxNDIz/MS0zNjgzLmpwZWc.jpeg" alt="Cover for Fragile Immortality" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c1e1c6f172439ec36816862cee5a20.png" alt="Cover for Fragile Immortality" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-31</td>
       <td>The Unguided</td>
@@ -1372,7 +1388,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
       </td>
       <td>2014-04-24</td>
@@ -1393,27 +1409,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/k9A2UC6JHApgndi4rCZFGNNOMqCnUrsL5ftB972WAE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY4/NTg3LTE2MjI1MzUy/MzItNDI0NC5qcGVn.jpeg" alt="Cover for Living For The Moment" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-09-01</td>
-      <td>Wasted Heroes</td>
-      <td>Living For The Moment</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/O7PpxEOeZbivihgBkEaSgz8boG63yqKwd3twb_ssmXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODgx/MjQtMTQyNjYyODcz/OC0xMTc3LmpwZWc.jpeg" alt="Cover for Shutdown" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1449,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/wALR5VchY0HFpatTwRCqvIoCS4xZek0evVt2vkUN-LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzExLTE1MDAzNzQy/OTktNDY0MS5qcGVn.jpeg" alt="Cover for Dreamers Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbdfcbe9c0f875a6378c9fd97bf71aa8.png" alt="Cover for Dreamers Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-28</td>
       <td>Demotional</td>
@@ -1477,7 +1473,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/wALR5VchY0HFpatTwRCqvIoCS4xZek0evVt2vkUN-LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzExLTE1MDAzNzQy/OTktNDY0MS5qcGVn.jpeg" alt="Cover for Tarassis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaa8b50988874d9bcda89e8703aabac7.png" alt="Cover for Tarassis" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-28</td>
       <td>Demotional</td>
@@ -1515,7 +1511,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/287laMOfgsvn3WgxD2A_RvdlOTKH6bQSkuMZtvTXwD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTcz/NTEtMTQzMzY3MDQ0/Mi01NjkyLmpwZWc.jpeg" alt="Cover for End vs. Beginning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4db6ef7556c9497fe1001bcf2356f8d3.png" alt="Cover for End vs. Beginning" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-09</td>
       <td>Rise to Fall</td>
@@ -1538,7 +1534,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/p95y8koXWKTUrK_8QjRMLvU81opHy1U5pI0UhUgvis8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDY1/NDAtMTQ2NTg0MTM2/My05MjU0LmpwZWc.jpeg" alt="Cover for The Mirror&#39;s Principle" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1572,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/qFIA-PM6prmK1tRbm60FAWJVPVT3HyLVCvF6DiAsnbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzUw/NTctMTQ1NjU1NTgw/Mi0zNjU2LmpwZWc.jpeg" alt="Cover for Lust And Loathing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95091ab7f261e8a9b4b72e5692e5f2fe.png" alt="Cover for Lust And Loathing" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-24</td>
       <td>The Unguided</td>
@@ -1657,7 +1653,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/tQs9IpoI35lYdq6KPtEAlEfNkcSVJUAAiAhHf3gEvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzYxLTE1MDAzNzUw/ODAtNTI2Mi5qcGVn.jpeg" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c942a9894cdfa27753aa45d83a6ea133.png" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-27</td>
       <td>Demotional</td>
@@ -1680,7 +1676,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/tQs9IpoI35lYdq6KPtEAlEfNkcSVJUAAiAhHf3gEvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzYxLTE1MDAzNzUw/ODAtNTI2Mi5qcGVn.jpeg" alt="Cover for Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1696,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/tQs9IpoI35lYdq6KPtEAlEfNkcSVJUAAiAhHf3gEvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzYxLTE1MDAzNzUw/ODAtNTI2Mi5qcGVn.jpeg" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43ff03e0deb48636a1cb5b06677b5ca1.png" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-27</td>
       <td>Demotional</td>
@@ -1722,7 +1718,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/1rKGyMmtAfbdkjmvbMmMPZ727g-RyF1xQNmghfp0-sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/NjI5LTE1MDAwMzYy/OTQtOTQ1Mi5qcGVn.jpeg" alt="Cover for The Interbeing" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,7 +1738,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>10</td>
       <td>
       </td>
       <td>2018</td>
@@ -1765,9 +1761,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/mKudFeVsmW-sNYmA6Fm1mN1BDBV7YaUGyJlaSfJW3pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE1/NDIxLTE1NDA1ODk1/ODMtMjA3MC5qcGVn.jpeg" alt="Cover for In the Wrong Hands" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce4a58ce6d805f445679e3747056384b.png" alt="Cover for In the Wrong Hands" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Rise to Fall</td>
@@ -1791,7 +1787,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/mKudFeVsmW-sNYmA6Fm1mN1BDBV7YaUGyJlaSfJW3pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE1/NDIxLTE1NDA1ODk1/ODMtMjA3MC5qcGVn.jpeg" alt="Cover for Acid Drops" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a44e4e81b51dd4725881413edf44943.png" alt="Cover for Acid Drops" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Rise to Fall</td>
@@ -1849,7 +1845,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/gZtHjqde57Nb2Be0sO20nmvRisja5RDvLBT5u_SC_GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc2/NzAtMTY3MDg4MjA5/MS02NzY0LmpwZWc.jpeg" alt="Cover for Legion" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1863,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56bdaa5a642544a1a447b6e6ec15aa6a.png" alt="Cover for We Are Divinity" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,9 +1886,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/j87kbA1SePFxK2lpfPrnznQLgTXbE_4KsMbLqSDjh-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE5/MjExLTE2MTE3ODQ0/MDktNzY5NS5qcGVn.jpeg" alt="Cover for Built to Resist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6435b19b5991cfc4cc959e29183cc102.png" alt="Cover for Built to Resist" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-17</td>
       <td>Tragedy Of Mine</td>
@@ -1913,9 +1909,9 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/j87kbA1SePFxK2lpfPrnznQLgTXbE_4KsMbLqSDjh-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE5/MjExLTE2MTE3ODQ0/MDktNzY5NS5qcGVn.jpeg" alt="Cover for Tenebris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ce7f813ed90dacff5f9030a77d5008.png" alt="Cover for Tenebris" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-17</td>
       <td>Tragedy Of Mine</td>
@@ -1956,7 +1952,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1973,7 +1969,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1990,7 +1986,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2011,7 +2007,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>

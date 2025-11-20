@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T10:21:24.077Z
+date: 2025-11-20T03:26:07.722Z
 permalink: tags/icelandic
 title: icelandic
 ---
 
 ## icelandic
 
-Last updated: <time datetime="2025-11-14T10:21:24.077Z">Fri Nov 14 2025 12:21:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T03:26:07.722Z">Thu Nov 20 2025 05:26:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,24 @@ Icelandic music refers to the music created and performed by artists from Icelan
   </thead>
   <tbody>
     <tr>
-      <td>84</td>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Iceland Airwaves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
       </td>
       <td>1992-02-18</td>
@@ -46,7 +63,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7098faeeba40a168cea952f95204a89a.png" alt="Cover for Debut" style="max-width:120px; height:auto;" />
       </td>
@@ -61,15 +78,15 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 7</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 28</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 31</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 64</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/KrncKZlqD4Y0W5_nnTAsjHGRIg-kjmLkz0Vu6HcWll0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTg4/MDAtMTQyMDY1MjY5/Mi0zNTM4LmpwZWc.jpeg" alt="Cover for Violently Happy" style="max-width:120px; height:auto;" />
       </td>
@@ -92,13 +109,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 41</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 82</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/_BTEex1i5MuuihH4zWEolpTjQcdenE9nYFd7t6GOcOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA3/NDctMTQ2MDc1Nzc0/MS03OTQ3LnBuZw.jpeg" alt="Cover for Crouie d&#39;o l" style="max-width:120px; height:auto;" />
       </td>
@@ -117,7 +134,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef2b4e3f6399166bee68b27f875a5cb.png" alt="Cover for Post" style="max-width:120px; height:auto;" />
       </td>
@@ -132,33 +149,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       <td>
         <ul>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 34</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/oaHcIjxbCSOwSiPspO_4kVwJ2blbhpIwUpZOpE6fNFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLXJfMTIy/NTkzLTAwMS5qcGc.jpeg" alt="Cover for Von" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Sigur Rós</td>
-      <td>Von</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 47</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/851aebdd70c3a1498518f7e8fc532c6b.png" alt="Cover for Homogenic" style="max-width:120px; height:auto;" />
       </td>
@@ -171,12 +167,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 50</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6269b08eea7dc143fe93752435592bc.png" alt="Cover for You" style="max-width:120px; height:auto;" />
       </td>
@@ -195,8 +191,9 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd354d2979e94eb099447847e0880d80.png" alt="Cover for Von Brigði" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Sigur Rós</td>
@@ -213,7 +210,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/_9UJjrxxGpNVr-MMpwL6j2qiNQDsd0wwKYrFBsCLOxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ0/NDMtMTU0MDU4MzA1/NC0yOTcwLmpwZWc.jpeg" alt="Cover for AnimaminA" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +228,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ea4f4b490b4e288c9247e2b4ecb58c.png" alt="Cover for ágætis byrjun" style="max-width:120px; height:auto;" />
       </td>
@@ -245,13 +242,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 88</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 91</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/URaROAqV0-xp34eifxHwyoiPIM52xJXWSrYKaZajix8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/MjktMTMyNjM4MzI1/OC5qcGVn.jpeg" alt="Cover for Sven-g-englar" style="max-width:120px; height:auto;" />
       </td>
@@ -266,12 +263,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 11</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/G2QIzGAeA7-DdJ9rqbx0MccPY89gzUFlM24ADhfMsm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ0/LTE2OTYyMjU1MTIt/ODE4MC5qcGVn.jpeg" alt="Cover for Svefn-G-Englar" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +288,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6f17b083094d2bad967709aad08e3f.png" alt="Cover for Yesterday Was Dramatic - Today Is OK" style="max-width:120px; height:auto;" />
       </td>
@@ -308,12 +305,14 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 89</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 2</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d7fceb33e0445aa9f63a7f2f25abc9b.png" alt="Cover for Yesterday Was Dramatic - Today" style="max-width:120px; height:auto;" />
       </td>
@@ -330,12 +329,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 84</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/672116cb65de42eface9d5b0b0ddcd74.png" alt="Cover for Vespertine" style="max-width:120px; height:auto;" />
       </td>
@@ -349,13 +348,33 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 43</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 11</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>3</td>
       <td>
+      </td>
+      <td>2001-09-10</td>
+      <td>Hilmar Örn Hilmarsson &amp; Sigur Rós</td>
+      <td>Englar Alheimsins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2511420d191345b18e93d4da2c90ce6b.png" alt="Cover for Angels of the Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-10</td>
       <td>Hilmar Örn Hilmarsson &amp; Sigur Rós</td>
@@ -372,7 +391,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abf2f92b17db8cef3df7da0a60830299.png" alt="Cover for Please Smile My Noise Bleed" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +409,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/SXHcjJyGGZlKUs2i9wJ4ReLyHDGe4Ssyq_4z57vCGIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mjg5/LTEzNzkyMTE2MTct/NDIyNy5qcGVn.jpeg" alt="Cover for Attention" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +427,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/630lx7OkNihy8f9iDlXP4rRnBR_UUgEQIL9wgj4kmBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA4/Ni0xMjU0ODQzMDM1/LmpwZWc.jpeg" alt="Cover for Jinx" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +445,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>31</td>
       <td>
       </td>
       <td>2002-04-29</td>
@@ -443,7 +462,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/1A7hkYQsKPyL6dKG3_bplA63779OkGQO65A1bgl-DHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODAz/LTE1OTU0MDYwMDkt/MjgyMi5qcGVn.jpeg" alt="Cover for Finally We are No One" style="max-width:120px; height:auto;" />
       </td>
@@ -457,13 +476,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 6</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 11</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca5cec59456a4d1ecd6efd7bb519abb6.png" alt="Cover for Breathe" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +501,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5c3645727914ef3d73cf1556b60077b.png" alt="Cover for ( )" style="max-width:120px; height:auto;" />
       </td>
@@ -496,13 +515,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 69</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5494cba89a46566a84314a051db28444.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +541,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/ivbHm6Injbp465zjRrNs27mTJnKSHGZ0uGvSCJR--0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU0/NDUtMTIwOTA2NDY1/NC5qcGVn.jpeg" alt="Cover for Sigur 1 - Sigur 9" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +559,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2724280d850476bb1d30cc5d5103850.png" alt="Cover for Something Wrong" style="max-width:120px; height:auto;" />
       </td>
@@ -553,14 +572,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 15</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e6915d1c165dd3744b2c99287842f5a.png" alt="Cover for Hlemmur" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-20</td>
       <td>Sigur Rós</td>
@@ -579,7 +597,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54fd7e8595179c56783125ef496cd40d.png" alt="Cover for Björk" style="max-width:120px; height:auto;" />
       </td>
@@ -599,9 +617,9 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/46hgMENAyms1DxDxohsIPdrz_o6daDoHjdmIDExUTFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjMx/MDUtMTU4MTg4MDI0/OS04NzU1LmpwZWc.jpeg" alt="Cover for And the Slow Songs About the Dead Calm In Your Arms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7fbea1e7b364765bc15a7ba74beaa8f.png" alt="Cover for And the Slow Songs About the Dead Calm In Your Arms" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Pornopop</td>
@@ -618,9 +636,9 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/fFSAJI48PkAounD28zoRfS5nkXmGBe1RR6Nha2lVU3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg5/MC0xMTMyOTU2MjUx/LmpwZWc.jpeg" alt="Cover for Ba Ba Ti Ki Di Do" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6e4647dbd53c62c1643338fef447a8a.png" alt="Cover for Ba Ba Ti Ki Di Do" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-23</td>
       <td>Sigur Rós</td>
@@ -636,7 +654,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
       </td>
       <td>2004-07-13</td>
@@ -654,7 +672,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12badc176d9ecbd84cafb5552a8301e4.png" alt="Cover for Medúlla" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +692,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/m75sbuoWIu9ECbPZ0-LSUUqyiqb4Tz2xZ5alN4xXJFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk0/MTQtMTI5MDk4Mzg1/Mi5qcGVn.jpeg" alt="Cover for Yesterday Was Dramatic, Today Is Okay" style="max-width:120px; height:auto;" />
       </td>
@@ -687,12 +705,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc1ad0be507a2bd1ddb49fbb52980a39.png" alt="Cover for Hunting For Happiness" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +728,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>47</td>
       <td>
       </td>
       <td>2005</td>
@@ -727,7 +745,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/m75sbuoWIu9ECbPZ0-LSUUqyiqb4Tz2xZ5alN4xXJFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk0/MTQtMTI5MDk4Mzg1/Mi5qcGVn.jpeg" alt="Cover for Yesterday Was Dramatic, Today is Ok" style="max-width:120px; height:auto;" />
       </td>
@@ -744,8 +762,9 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/514ee2ab45cb48b796416288a8633c10.png" alt="Cover for Takk..." style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-22</td>
       <td>Sigur Rós</td>
@@ -757,15 +776,15 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 77</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 97</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 86</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/zmMY9O-lO9Kdhk5jc9E0eu0tledYZOjiz0Ri6R1n1XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjA4/NS0xMzQzNzcxMzM5/LTczNjIuanBlZw.jpeg" alt="Cover for Hoppípolla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1855de244434204c28e4b418097873a.png" alt="Cover for Hoppípolla" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-25</td>
       <td>Sigur Rós</td>
@@ -782,7 +801,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
       </td>
       <td>2006</td>
@@ -797,15 +816,15 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 23</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 26</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/6c7uZ63k5jCmoe03AWqAJziXeq6IrDFuqXbS2dEviaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzA2/OS0xMTUxOTg2MTQ4/LmpwZWc.jpeg" alt="Cover for Sæglópur" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/284649cdb34d322b90ac9be6363dbaa1.png" alt="Cover for Sæglópur" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-19</td>
       <td>Sigur Rós</td>
@@ -821,7 +840,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/Yijz7w84XjjzsT1ke0qJlQ6Hp7klAwrg_Y8X3hcQyyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzkw/OC0xMTYzNTExOTA5/LmpwZWc.jpeg" alt="Cover for Seoul" style="max-width:120px; height:auto;" />
       </td>
@@ -836,12 +855,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 17</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/qrTGAvjKVxo36uWu2Gr9pKgZIT_LRuu-5Ak8Jtz8mu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzM3/Mi0xNTE2NTcwNjM3/LTU0MDUuanBlZw.jpeg" alt="Cover for The Peel Session" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +878,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/iZU3nefbYaJdPBEvUcnYi3vHatLQFWDPwJKgqou9itU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI2/NDQtMTUzMTEzMTQx/My01OTg0LmpwZWc.jpeg" alt="Cover for The Temple of Deformation" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +899,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>25</td>
       <td>
       </td>
       <td>2007</td>
@@ -900,7 +919,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c89dc996334b0ba1cd435b96f3b0d5.png" alt="Cover for The Ghost That Carried Us Away (Offical Morr Music Upload)" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +937,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>41</td>
       <td>
       </td>
       <td>2007-02-28</td>
@@ -938,25 +957,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>2007-03-21</td>
-      <td>Amiina</td>
-      <td>Kurr</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f453bb69bff5d4e85d3e491d26fcbc01.png" alt="Cover for Volta" style="max-width:120px; height:auto;" />
       </td>
@@ -971,14 +972,14 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 7</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/pftQAScCXOG9Mq56HTBQgDFQxRYg4TC7gEtGbMCl6Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgw/MDYtMTMwMzA1NTE3/MC5qcGVn.jpeg" alt="Cover for Ekvílibríum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/726ecb3951c5db3206a940cb92d72ca1.png" alt="Cover for Ekvílibríum" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-27</td>
       <td>Valgeir Sigurðsson</td>
@@ -1001,25 +1002,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cf4f224c5a14effa6161ad5104f0d17.png" alt="Cover for The Ghost That Carried Us Away" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-08-17</td>
-      <td>Seabear</td>
-      <td>The Ghost That Carried Us Away</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc57f16bf4fa4a0185e33cbff3033bee.png" alt="Cover for Go Go Smear the Poison Ivy" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,7 +1021,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/IrEkd-9swneTyK2dcltNPWezd4zWHHxxo9UDkgZhbxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA2/MzcwLTE2MzI4ODQx/ODMtMzQwMi5qcGVn.jpeg" alt="Cover for Hauf&#x2F;Heim" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,8 +1039,9 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/450be63a8bbd4348b9eb33a64b6dc094.png" alt="Cover for Hvarf - Heim" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-05</td>
       <td>Sigur Rós</td>
@@ -1074,7 +1058,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/ILL2q1R4Dfn1BHmR_Ndqtwj9adH22NC7MyAm6EIxmnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgx/MzktMTIzMzkzNzEz/NS5qcGVn.jpeg" alt="Cover for Me And Armini" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,8 +1075,8 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 54</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 69</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 98</li>
         </ul>
       </td>
@@ -1100,7 +1084,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/HcBC1LvBNsGvg39TElfXOlhQBOH6x47WUDmjbymiXTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/NjEtMTIyODI0OTk5/MC5qcGVn.jpeg" alt="Cover for Við spilum endalaust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/507e37fd8ebe48cb9d80dd3e6eddcead.png" alt="Cover for Við spilum endalaust" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Sigur Rós</td>
@@ -1119,9 +1103,9 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/GR7SvlxTF989K8a1n2dXpWUQ21bK0cPf5dKDOYTvTco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI2/NzgtMTIxODk5MjAw/NS5qcGVn.jpeg" alt="Cover for Med Sud I Eyrum Vid Spilum Endalaust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db6abf7cfdae4c9783c502bfb8bc1c71.png" alt="Cover for Med Sud I Eyrum Vid Spilum Endalaust" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Sigur Rós</td>
@@ -1137,7 +1121,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f46bac4e2214fd3b24e0bd9762342d2.png" alt="Cover for Agaetis Byrjun" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,33 +1135,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 79</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 96</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/099f96beb7f143798c8546ebada70d75.png" alt="Cover for Með suð í eyrum við spilum endalaust" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-06-23</td>
-      <td>Sigur Rós</td>
-      <td>Með suð í eyrum við spilum endalaust</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 17</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/108e7f7da4b042cf8018d39ce522d061.png" alt="Cover for Vespertine (EU Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,15 +1163,15 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 32</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 76</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 34</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 83</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc5d9ade3484c52a14bfdf45c1c9901.png" alt="Cover for Clangour" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1190,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
       </td>
       <td>2009-03-17</td>
@@ -1251,6 +1215,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbefe1098aaf43c5b057a3c0bf6179d1.png" alt="Cover for Riceboy Sleeps" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-06</td>
       <td>Jónsi &amp; Alex</td>
@@ -1263,12 +1228,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdc2919ec23f416ea61eb68a87e9c1f8.png" alt="Cover for Árstíðir" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,12 +1249,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 2</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/MTmw8xFEdtWHO8NyYv53wxHy0irdiiydQHJr5cFw9XQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIz/ODEtMTI0Nzg2NDU5/MS5qcGVn.jpeg" alt="Cover for Is It True?" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,7 +1272,28 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/_o7BUlfTYRTbzzCJXSbChQEvjTCd1-8IodKkQCxI-RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDI5/MTAtMTY0NjQ5NjQw/NC0xNjA3LmpwZWc.jpeg" alt="Cover for Crazy Car" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Ólöf Arnalds</td>
+      <td>Crazy Car</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43268be3b3ca1ac982b523d114089ff8.png" alt="Cover for Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,12 +1308,12 @@ Icelandic music refers to the music created and performed by artists from Icelan
       <td>
         <ul>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 31</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 81</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/D1ijyLbMF1UjP2HT8lQ9nGrVLvd7oKOtjIyN8p_g6yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTQz/ODcwLTE2NDM0ODI2/OTQtODQ2MC5qcGVn.jpeg" alt="Cover for Don&#39;t Be a Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1331,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8b2a0efdc2946988f07626e9119333d.png" alt="Cover for Innundir Skinni" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1349,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e6b2181c9ca4d9cbb7c7bd102dfd081.png" alt="Cover for We Sink" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1368,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011-09-06</td>
@@ -1399,7 +1385,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3699e505606456193e0971e6e7af6f4.png" alt="Cover for My Head Is an Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,13 +1400,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       <td>
         <ul>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 69</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011-09-29</td>
@@ -1440,7 +1426,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>14</td>
       <td>
       </td>
       <td>2011-10-14</td>
@@ -1461,7 +1447,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/5wW5_T1qkiwLbHn_VOHl-7pbv2yaisoAmfux1vzXvPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTg4/MjktMTY1NDgzODU5/OS0yMzMwLmpwZWc.jpeg" alt="Cover for Ólöf Sings" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,13 +1464,13 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 83</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 83</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00cb0a9a65ee4076a7f099c237cfc57b.png" alt="Cover for Into The Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1488,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>
       </td>
       <td>2012-05-14</td>
@@ -1519,7 +1505,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Oa43iw76eFneZXqiWiYxaSSsTAP0KqzRewBxxeE9Xqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDg5/MjEtMTM1MDIxODY5/OS00OTExLmpwZWc.jpeg" alt="Cover for Thrown" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1523,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
       </td>
       <td>2013-01-18</td>
@@ -1554,7 +1540,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31f25b09988d4989a1e9b3fea073c6ff.png" alt="Cover for Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1558,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ImT_14c_yZbqwU-3Cjv_RkX9BUkInB6G0xiJ1ZobUrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDQx/ODYtMTM2MzQ0NDM2/NS0zMzc2LmpwZWc.jpeg" alt="Cover for Sudden Elevation" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,7 +1579,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Lvu17kkoyHACks8WtFGWeosfdMLgE3OAnBVYweStznk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODUy/NTAtMTM4MDIxNjc0/OS01MDU0LmpwZWc.jpeg" alt="Cover for Merman" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,7 +1597,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44bce2e69f754f78cf9fbdb1bb0d0403.png" alt="Cover for Live From Vatnagarðar" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1620,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b4e6208a2064bd9cb9a32b48b6935fc.png" alt="Cover for Mexico" style="max-width:120px; height:auto;" />
       </td>
@@ -1657,7 +1643,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ZYsP-V6r9Pvu0T_2zg1Vvgax99OT-rPA6WzztKQIrlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODE1/MDItMTQwNjcyODI1/Mi01NzAwLmpwZWc.jpeg" alt="Cover for Saman" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,7 +1664,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/sGeWkYZlVl6HGYbrLYDND93c2dvEfbKCPKkigyZh8P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTY3/OTctMTQxODY3NTI4/OC03MDQ1LmpwZWc.jpeg" alt="Cover for Palme" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,7 +1685,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fa97cff292ca7899692f9f59adccbe3.png" alt="Cover for Kiasmos" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,18 +1694,16 @@ Icelandic music refers to the music created and performed by artists from Icelan
       <td>Kiasmos</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 86</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/j1SYUU1jLpTFXeqtkSmx2uppF4xZG4E7vPID0-OtJdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY2/MTg2LTE2MDg2ODAw/ODktODM3NC5qcGVn.jpeg" alt="Cover for We Contain Multitudes (from home)" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1723,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 19</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 24</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 61</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 94</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 97</li>
@@ -1747,7 +1731,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/6ncrfxG0-s1Kki5nUhfb7qmCJ77ljkPZojEPHr4aRJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgw/ODYtMTQzMDQwNDEz/OS0yNDU1LmpwZWc.jpeg" alt="Cover for Ask the Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,7 +1749,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/UlguyZepW6_5QzPyuJohFYYz38TgwY7Z0Ys7sI2tmh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE3/MDMtMTQ3MTEwNzY0/Ny0yMjA3LmpwZWc.jpeg" alt="Cover for S&#x2F;T" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1767,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/kZU8xPLor5mEcJY40SU7-c78TWuQlxtbTyxRIWJhIYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTk3/OTItMTQ3MTA4MDUy/OC00OTU4LmpwZWc.jpeg" alt="Cover for Island Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,14 +1786,14 @@ Icelandic music refers to the music created and performed by artists from Icelan
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 84</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 89</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 89</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/2XGYz6BRSfxaygLHrl6CqIbX9sa8ienVQpS_hwtj_5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM5/OTItMTQ3OTEyOTc0/NC05OTc2LmpwZWc.jpeg" alt="Cover for Fantômas" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,7 +1812,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>37</td>
       <td>
       </td>
       <td>2018-02-02</td>
@@ -1846,7 +1830,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6dec815ba575cfff512e8d4f1697bc3.png" alt="Cover for Lies Are More Flexible" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1851,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/4mt8tWR4uGFGiTBfXv4dVlUmtYqnZE2x7HwwdTx4_zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODMw/OTAxLTE1MjMxMTcw/MDEtMzYyMi5qcGVn.jpeg" alt="Cover for re:member" style="max-width:120px; height:auto;" />
       </td>
@@ -1881,14 +1865,14 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 28</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 33</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 86</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Jj7Q_Y7HqjNG9KgY4-bGaOPBlfpYo3dpJRRF6_FWlxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY4/OTItMTM0OTgxMTQ2/OC0zOTI3LmpwZWc.jpeg" alt="Cover for Say My Name (feat. Arnór Dan)" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,7 +1899,32 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/r5TeTBu3dPMdGshVx7rTxzMDNfjf_I6g8ZSN-IDOoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTYy/MTA5LTE2MTc2MjI3/MDAtMzIxMi5qcGVn.jpeg" alt="Cover for Brotin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-23</td>
+      <td>Eydís Evensen</td>
+      <td>Brotin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 44</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/r5TeTBu3dPMdGshVx7rTxzMDNfjf_I6g8ZSN-IDOoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTYy/MTA5LTE2MTc2MjI3/MDAtMzIxMi5qcGVn.jpeg" alt="Cover for Bylur" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1949,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ZXeEGP5z_WHqUwH_2dRGqsQG_jsSUJ9SWXOkc7Y3yLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY1/Njc4LTE0OTEwMjc4/OTktMjIwNy5qcGVn.jpeg" alt="Cover for saman" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,7 +1975,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/H42Ptb2jlyGS_IK46n3jq9qftI4JfzQQ1E1Xh1KYZco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTIz/NzAtMTY3MTQ3Njg2/NS05NDcwLmpwZWc.jpeg" alt="Cover for Trance Frendz" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,14 +1992,14 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 75</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 76</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 76</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 80</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/nAcntJcM5wU4CDWJDAYVYlKLpWXfTdJcx-PTXVYl9d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM4/OTEzLTE2MzgwMDc3/ODktODg2OC5qcGVn.jpeg" alt="Cover for The Colorist &amp; Emiliana Torrini" style="max-width:120px; height:auto;" />
       </td>
@@ -2010,7 +2019,7 @@ Icelandic music refers to the music created and performed by artists from Icelan
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/9NP63OxaiBJ_051aEe_hJ2Gk_NQ0HEUGyJxDHcqY37E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI2/NjQtMTE5OTU1NzUz/MS5qcGVn.jpeg" alt="Cover for Eulogy for Evolution 2017 (Remastered 10th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -2049,5 +2058,5 @@ Icelandic music refers to the music created and performed by artists from Icelan
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [composer]({{ "/tags/composer" | relative_url }})
 - [piano]({{ "/tags/piano" | relative_url }})
-- [post-rock]({{ "/tags/post-rock" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
+- [nordic]({{ "/tags/nordic" | relative_url }})
