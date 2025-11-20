@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:55:13.815Z
+date: 2025-11-19T20:11:28.306Z
 permalink: tags/indie-electronic
 title: indie electronic
 ---
 
 ## indie electronic
 
-Last updated: <time datetime="2025-11-17T05:55:13.815Z">Mon Nov 17 2025 07:55:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:11:28.306Z">Wed Nov 19 2025 22:11:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Softcore Jukebox" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Is-XyzW48K98z258BdgQCfnhnVdb2aDErq6gQ9SkDL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzEt/MTY2MzQ4NTI3Mi02/NTQ3LmpwZWc.jpeg" alt="Cover for Mars Audiac Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -67,13 +67,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 8</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 16</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 11</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b93899d1096f519beed21f1bdaa1af.png" alt="Cover for Mars Audiac Quintet" style="max-width:120px; height:auto;" />
       </td>
@@ -86,12 +86,12 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 12</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c32842dd23334495ae2d481b4ecec4cb.png" alt="Cover for Iaora Tahiti" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a92fae2ac1594a2bb1044848a328fc8f.png" alt="Cover for Work and Non Work" style="max-width:120px; height:auto;" />
       </td>
@@ -125,14 +125,14 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 79</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d466a3c0c9daa0805acdaf985b610327.png" alt="Cover for Solex vs. The Hitmeister" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ec1e942eaad4eeeaced001af6b66c56.png" alt="Cover for Shrink" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +168,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/KLXn0Wicj72rME7NFxxiEJCSy5qQo0lmFK1O8-qrYM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDkw/My0xNDk3MTk4OTY1/LTgyODMuanBlZw.jpeg" alt="Cover for ANIMA!" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/014d3f118964f0db66cbfdff130feabd.png" alt="Cover for Home Is Where You Hang Yourself 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45cdba1dd1fb4fd28d0ca8770b88c9e9.png" alt="Cover for No Solace in Sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -240,14 +240,15 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 70</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c86144d7748a6f47a002f74d220892c.png" alt="Cover for lemonjelly.ky" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +320,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa97ad9045b54a8694d7c6f465203587.png" alt="Cover for Unrest" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +339,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c15892b07145e2beb960c264c6ad9974.png" alt="Cover for Give Up" style="max-width:120px; height:auto;" />
       </td>
@@ -352,8 +353,8 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 60</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -378,7 +379,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 16</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 23</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 67</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 84</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 98</li>
@@ -386,7 +387,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c14e3a3364bfd4c45d5f07f4e77767a.png" alt="Cover for Heroes To Zeros" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +407,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
       </td>
       <td>2004-05-04</td>
@@ -423,7 +424,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/JtoX-HGgLpYpv63Y6egl9n5vyE_MButBOyvytHjRx38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzA1/MC0xMTU4ODY5NTMy/LmpwZWc.jpeg" alt="Cover for Miami (official morr music upload)" style="max-width:120px; height:auto;" />
       </td>
@@ -442,7 +443,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bf92c71726b4117dad9f78fd1d00e70.png" alt="Cover for CLASS XIX" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +464,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/824df6bad69f6f1bd74deb9c093d92d0.png" alt="Cover for LCD Soundsystem" style="max-width:120px; height:auto;" />
       </td>
@@ -476,13 +477,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 1</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 8</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e590e8f326426606396f68f2d31eaf02.png" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
       </td>
@@ -500,18 +501,18 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 57</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 60</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 61</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 63</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 61</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48842e4fd0b84e55bc66d3a2fdac057e.png" alt="Cover for Isolation Loops" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +535,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f62543a0688bd0c3378b4ceab3e47e41.png" alt="Cover for The Electricity in Your House Wants to Sing" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +552,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/YksKX8z5oeRhB0wJ_mQEWl3e-NzoclxGDZlTq_HdNSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTEz/Ny0xMTQ5MjU4MTQ2/LmpwZWc.jpeg" alt="Cover for Burning Palace" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +570,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/3dj20PFgW-f1baUu4MNQ9equxyQYue7gZYD0v3Nk1Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTY2/OC0xMTU0MDIzNjMy/LmpwZWc.jpeg" alt="Cover for Figur 5 (official morr music upload)" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +590,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2006-10-18</td>
@@ -608,7 +609,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b70bb14c6ae4b46b16963c6924b9378.png" alt="Cover for The Third Hand Instrumentals" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +628,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b5641a2ba64bbcab52c0c2f6a6490a.png" alt="Cover for Andorra" style="max-width:120px; height:auto;" />
       </td>
@@ -645,9 +646,9 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Ce6zBzhcmZtnognt_ADsY4etH-UNsMH68jAK4-WAP7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY3/NDUtMTE5MDk0NDM3/MS5qcGVn.jpeg" alt="Cover for Level Live Wires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c8abd2875724d3e9e225575f4516136.png" alt="Cover for Level Live Wires" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-28</td>
       <td>Odd Nosdam</td>
@@ -664,7 +665,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/536f95b66f5697ba18367d345a04f4e8.png" alt="Cover for Dystopia Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +712,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/692a8e2c4cef4022b988fe80f134d3c9.png" alt="Cover for Softbo EP" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +732,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/oL2gWK7uweLRXgMzngvu83MNI_atdIPFzSkdo02oCmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/MjctMTMzMzE4Njg5/Mi5qcGVn.jpeg" alt="Cover for Deltitnu EP" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +783,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>2009-03-03</td>
@@ -800,7 +801,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb19296a66194ad1b1d36f83d121980a.png" alt="Cover for My Electric Family" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +820,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/651a5eb723f64cd6cc31bb1039f5c8fd.png" alt="Cover for Manners" style="max-width:120px; height:auto;" />
       </td>
@@ -832,12 +833,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 2</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/xGgR5hkdbvDq1CXJgKs7T6MoLVmCL0uxZqKXqtIFPfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ3/MzEtMTI4NjU4Mjkw/OS5qcGVn.jpeg" alt="Cover for Quicker" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +862,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/953b43cae9a74749b28215386822be5a.png" alt="Cover for Everybody Knows It&#39;s Gonna Happen Only Not Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +883,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b292fc4d535047858899d237f849983d.png" alt="Cover for Quadron" style="max-width:120px; height:auto;" />
       </td>
@@ -931,12 +933,12 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 47</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26976894a1844d23a22a34b993e77455.png" alt="Cover for Am I Real?" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +957,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>2010-10-25</td>
@@ -969,8 +971,8 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 76</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 77</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 77</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 88</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 93</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 97</li>
@@ -978,7 +980,27 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2011</td>
+      <td>Noah Wall</td>
+      <td>Hèloïse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad105bc918341c1851ed99cc936422c.png" alt="Cover for Aabenbaringen over aaskammen" style="max-width:120px; height:auto;" />
       </td>
@@ -994,12 +1016,12 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7f6d50fe57fad3dcb08613d546ead60.png" alt="Cover for Passive Me, Aggressive You (Remixes &amp; B-Sides)" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,8 +1055,8 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 9</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 17</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1060,13 +1082,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 2</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 19</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 26</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8259fc9cc9394662aba5b65683fbcaad.png" alt="Cover for The Devil&#39;s Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,12 +1098,11 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1101,8 +1122,8 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 59</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1124,13 +1145,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 37</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 39</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adee74149dc946ed804fe702dfcf3334.png" alt="Cover for Era Extraña" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1171,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2011-09-26</td>
@@ -1172,7 +1193,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/0xvDV1e_LQErwQijbdfzlBSAB1LrrV1UweK04oL8BBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE3/NzAtMTM0MTc0MTI4/NC0yMDI5LmpwZWc.jpeg" alt="Cover for Jared&#39;s Lot" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1228,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94cfdb5f36a7f935b6837f5fe8840ed6.png" alt="Cover for Visions" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,14 +1241,14 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 25</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 74</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 28</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a2a8f3d116840248807b5ff43462224.png" alt="Cover for Parastrophics" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,12 +1310,12 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf374a7e77b54eb1b65b27556bb853ae.png" alt="Cover for Unearth" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,7 +1335,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/XgPZZY28cz_qU5LqTnFwxgMAINZaRMUNucRXeIxTUN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njgz/MTUtMTM0NDAyODQw/OC02MjE5LmpwZWc.jpeg" alt="Cover for Never" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1354,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb17fa6210f046d2ad6a0bd74ae93619.png" alt="Cover for Partygoing" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,8 +1372,8 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 50</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 77</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 51</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 78</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 90</li>
         </ul>
       </td>
@@ -1399,12 +1420,12 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35071298781ffa59c5dcac373186428f.png" alt="Cover for Overgrown" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,12 +1439,12 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 60</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 99</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/sC8qQxGFARbT3yCqqIKhD8malD3w54PxxYKxouObScw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzI4/ODQtMTM1MzA1OTkw/OC01MTY3LmpwZWc.jpeg" alt="Cover for Ultraviolet Catastrophe" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,7 +1463,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/097dd60213af4ab2a135f19745110c15.png" alt="Cover for Kids In L.A." style="max-width:120px; height:auto;" />
       </td>
@@ -1462,7 +1483,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44ef188de96373fdeb560be12886d8bc.png" alt="Cover for Endless Fantasy" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,13 +1500,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 57</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 86</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 87</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/478435042b57471abb6d844a74855fcc.png" alt="Cover for Infinity Pool" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1530,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e4c173b09f24b2f82fbf720ef207d67.png" alt="Cover for Obsidian" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1544,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 8</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1568,7 +1589,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa5bc04946ee43579ed10b441f247033.png" alt="Cover for ilp." style="max-width:120px; height:auto;" />
       </td>
@@ -1625,7 +1646,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b046c10c98d44ecc414f5f38bedcc47.png" alt="Cover for Human Voice" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1714,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 31</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 33</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 93</li>
         </ul>
       </td>
@@ -1715,7 +1736,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1741,7 +1762,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30df8edf5f77f3a5b8e86ad35eacd171.png" alt="Cover for Everything Is Burning (Metanoia Addendum)" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,13 +1858,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee531e54a6617a29e6c459fdcb286f82.png" alt="Cover for Losing Touch EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1885,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/kNLXbynizbx2UtIKYfLeiHntl29PH7L6Z1E8ICm-9sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk5/MTk4LTE1MTkxNzY5/NDEtNDA4Ni5qcGVn.jpeg" alt="Cover for IIII+IIII" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1903,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1678109a09f96e11a265983b046dcb54.png" alt="Cover for Empty Words" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1943,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6974f20622c1d76efd826bdf947d948.png" alt="Cover for Squaring the Circle" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,7 +1976,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b70580fd105117bc722d0b259e53b934.png" alt="Cover for ABOMINATION" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,7 +2005,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ab79f5d4d6936936984de39a882f99b.png" alt="Cover for Limerence" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,8 +2029,8 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 51</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 53</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 58</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 78</li>
         </ul>
       </td>
@@ -2033,37 +2054,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eabf9d7f322d0cf38e5930efe73fd5eb.png" alt="Cover for One More Thing" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-16</td>
-      <td>Lime Garden</td>
-      <td>One More Thing</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 61</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb9fc857cdbb904a8cb05bc299be9784.png" alt="Cover for nothing or something to die for" style="max-width:120px; height:auto;" />
       </td>
@@ -2088,13 +2079,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 36</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 41</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 39</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59a138a5421edd3185f8da7f0cb23e10.png" alt="Cover for Gemelo" style="max-width:120px; height:auto;" />
       </td>
@@ -2117,13 +2108,13 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 63</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 72</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 65</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2144,7 +2135,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2163,7 +2154,7 @@ Indie electronic music is a genre of music that combines elements of indie rock 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>

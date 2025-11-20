@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T03:59:36.246Z
+date: 2025-11-19T20:12:00.635Z
 permalink: tags/post-bop
 title: post-bop
 ---
 
 ## post-bop
 
-Last updated: <time datetime="2025-10-20T03:59:36.246Z">Mon Oct 20 2025 06:59:36 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-19T20:12:00.635Z">Wed Nov 19 2025 22:12:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,24 +29,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
   </thead>
   <tbody>
     <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td>1956-07</td>
-      <td>Charles Mingus</td>
-      <td>Pithecanthropus Erectus</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/8AzY14kHP7hVYNQMcpFz4jT6Sv_ow8HJf9d29s-98mY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTIz/NzMtMTUzMDIwOTM3/MC02MTA3LmpwZWc.jpeg" alt="Cover for New Jazz Conceptions" style="max-width:120px; height:auto;" />
       </td>
@@ -64,27 +47,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/mczeAg8ZoeNKsoI0Zhy4PkWJifCqv3TFa-lVy5fFabg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTgy/MTctMTU4OTc3MDcx/MS00MDg1LmpwZWc.jpeg" alt="Cover for The Clown" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1957-08</td>
-      <td>Charles Mingus</td>
-      <td>The Clown</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/JngXvAQerOiS3SnmCg3W-FtdB000XuQLf1Ja6USirGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njgx/My0xMzE3MjIyOTI4/LmpwZWc.jpeg" alt="Cover for Blues &amp; Roots" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95593ebe5b8b41999ad09886a5c0df6c.png" alt="Cover for Blues &amp; Roots" style="max-width:120px; height:auto;" />
       </td>
       <td>1960-04-04</td>
       <td>Charles Mingus</td>
@@ -100,28 +65,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>67</td>
       <td>
-      </td>
-      <td>1961</td>
-      <td>Yusef Lateef</td>
-      <td>Eastern Sounds</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 45</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 48</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eccb629d0197bcdbed1ebbf6c0410a81.png" alt="Cover for The Blues and the Abstract Truth" style="max-width:120px; height:auto;" />
       </td>
       <td>1961-08</td>
       <td>Oliver Nelson</td>
@@ -133,13 +79,13 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 13</li>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>93</td>
       <td>
       </td>
       <td>1962</td>
@@ -154,13 +100,14 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       <td>
         <ul>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 10</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c260cc8e6bc12c281ffe47c019ac521.png" alt="Cover for My Point of View" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Herbie Hancock</td>
@@ -176,8 +123,46 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f6a23cb944454b295d0e1c64823d52.png" alt="Cover for JuJu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Wayne Shorter</td>
+      <td>JuJu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17ea9e6cf87d4c04a622b5bf7ba241be.png" alt="Cover for Mingus Mingus Mingus Mingus Mingus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Charles Mingus</td>
+      <td>Mingus Mingus Mingus Mingus Mingus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65f28fd91e46abc4e01ea6175c8e6c68.png" alt="Cover for Crescent" style="max-width:120px; height:auto;" />
       </td>
       <td>1964-06-01</td>
       <td>John Coltrane Quartet</td>
@@ -193,8 +178,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9072e332e59487b967317bbe8eddbb77.png" alt="Cover for Components" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Bobby Hutcherson</td>
@@ -212,8 +198,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/254f8e6ecb5fc5fb63a65fa387090e4f.png" alt="Cover for Speak No Evil" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Wayne Shorter</td>
@@ -225,14 +212,15 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 35</li>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3082dff4965a9d7bf53d83e5cd3324b2.png" alt="Cover for E.S.P." style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Miles Davis</td>
@@ -248,8 +236,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29555acae2ed44eea3882de43a606fd9.png" alt="Cover for A Love Supreme" style="max-width:120px; height:auto;" />
       </td>
       <td>1965-01</td>
       <td>John Coltrane</td>
@@ -269,8 +258,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26049565ca2b4f7aa82452f85f1efe8e.png" alt="Cover for Maiden Voyage" style="max-width:120px; height:auto;" />
       </td>
       <td>1965-05-17</td>
       <td>Herbie Hancock</td>
@@ -282,13 +272,34 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 43</li>
             <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c08b372fb39ad5973658bab0726070b2.png" alt="Cover for Duke Ellington &amp; John Coltrane" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965-10-03</td>
+      <td>Duke Ellington</td>
+      <td>Duke Ellington &amp; John Coltrane</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 81</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
       </td>
       <td>1966</td>
@@ -308,7 +319,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/AYmR8xbiNFqZ9tnwxjOXijDl0Qr_odbYlkqB0IhrV90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDc1/MS0xMjU2NzU2ODA4/LmpwZWc.jpeg" alt="Cover for Drums Unlimited" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +340,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/B96db5rtU-37nzQDwbSIV7H33eQ--m1RCp2avaJ6NO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NjQtMTM2Mzk5MzAw/MS01ODc0LmpwZWc.jpeg" alt="Cover for A Night In Tunisia (Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +363,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/oCH6CL0Bh7DDCdXk24vRkdXh2emKjhHhnWZ34Dk6DUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzU1/MzgtMTQ3NzEyMzc0/Mi03MTA4LmpwZWc.jpeg" alt="Cover for Empyrean Isles (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/182856a187d4e7b41b7c03d876f7436e.png" alt="Cover for Empyrean Isles (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Herbie Hancock</td>
@@ -372,7 +383,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32ee17e667c34d1fcd9a765e4f20eaa8.png" alt="Cover for The Real McCoy" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +401,25 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca141e26e10f8ee0543ee593cee1e435.png" alt="Cover for Sorcerer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>Miles Davis</td>
+      <td>Sorcerer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/829cf9e60294a205eed2ed0b1449c88f.png" alt="Cover for Happenings" style="max-width:120px; height:auto;" />
       </td>
@@ -409,8 +438,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1549015e17c941119f8ead9714a789e5.png" alt="Cover for Nefertiti" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Miles Davis</td>
@@ -426,7 +456,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
       </td>
       <td>1968</td>
@@ -444,8 +474,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f62800f9b3bddcec2694ba213f15a45.png" alt="Cover for The Inflated Tear" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-06-14</td>
       <td>Rahsaan Roland Kirk</td>
@@ -464,8 +495,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbf409fd13103bca25e319736c41dd7c.png" alt="Cover for Yusef Lateef&#39;s Detroit Latitude 42º 30º Longitude 83º" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Yusef Lateef</td>
@@ -483,14 +515,14 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 76</li>
             <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 88</li>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac44adf1eaec1778113806d7202ef51b.png" alt="Cover for Coryell" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +541,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>25</td>
       <td>
       </td>
       <td>1969</td>
@@ -526,9 +558,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/noqTaKabYlILeJ_s01WXZ_IRofi7hLQKfD8ZuZNq5Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjYy/Mi0xMjk2NDExNjI3/LmpwZWc.jpeg" alt="Cover for Miles Smiles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4530dc3c78d5514024bf635857f38e.png" alt="Cover for Miles Smiles" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Miles Davis</td>
@@ -544,7 +576,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/jVnF0FMXGvGY4MLpRNKPaDxMABuT93AnfT86QXT1Lmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMw/NjEtMTQ2NjAxMTg1/Mi05NzgyLmpwZWc.jpeg" alt="Cover for The Great Concert of Charles Mingus" style="max-width:120px; height:auto;" />
       </td>
@@ -567,8 +599,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91474d93e41d63d9db6b245480cbbb1b.png" alt="Cover for Space Is The Place" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Sun Ra</td>
@@ -585,7 +618,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td>1973</td>
@@ -605,7 +638,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/eWcirQrfoTyAyXYznGLXdv2YolrZquytjXLOeHlAPNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDUz/MzktMTI4MDg2MzA5/MS5wbmc.jpeg" alt="Cover for Electric Bath" style="max-width:120px; height:auto;" />
       </td>
@@ -623,9 +656,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/BRUNRDuJ8wzLxMhfcuR2tI1dZdKXZVrg0hUwUWRJXyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUy/My0xNDcyNTUyMTU3/LTM3NDguanBlZw.jpeg" alt="Cover for Vista" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b612923d16cad11d3fd27d990fd3555.png" alt="Cover for Vista" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Marion Brown</td>
@@ -643,7 +676,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 86</li>
@@ -651,7 +684,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/D0UfSo3Gw0cIPhJpvWB7skX87OufiDAAtfGAZJbLQLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTY3/NzMtMTMwMTc0MjI4/OC5qcGVn.jpeg" alt="Cover for E.S.P." style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +705,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/PEgjIHN6y5qpaZkWUEmtcAtFh1O_RTynfqWIeX3bWuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTc4/MTYtMTM4NjA2ODE4/NC0xNjk0LmpwZWc.jpeg" alt="Cover for E.S.P. (2022 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +726,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/8uzGhvRJcanqhmS8Ip4zFFxuU7v3ZQTv82rA2ydj6fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEy/MDYtMTIwMjM4OTUy/MS5qcGVn.jpeg" alt="Cover for Electronic Sonata For Souls Loved By Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -716,7 +749,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>56</td>
       <td>
       </td>
       <td>1976</td>
@@ -736,8 +769,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/679dc63fb018a046394e3275547e4f95.png" alt="Cover for Impressions" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>John Coltrane</td>
@@ -753,7 +787,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>30</td>
       <td>
       </td>
       <td>1980</td>
@@ -772,7 +806,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>21</td>
       <td>
       </td>
       <td>1981</td>
@@ -793,7 +827,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/66yX0oCjoruA1iyYKiA7D8IkhPOhBaF36avk48FDV90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTMy/ODctMTUwNjQxMDIw/My04NjMwLnBuZw.jpeg" alt="Cover for Interstellar Low Ways" style="max-width:120px; height:auto;" />
       </td>
@@ -811,9 +845,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/MbjZbYntsVaX-cLSUTWSkCguvTy7D8ZZ3UGLIEgmp3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQy/NDA5LTE2ODU1MzY2/MDMtODM1Ny5qcGVn.jpeg" alt="Cover for Speak Like A Child (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e3dd1fa68228e33784f80414077a7f1.png" alt="Cover for Speak Like A Child (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Herbie Hancock</td>
@@ -832,7 +866,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/o-c944M8-L944J0KC9M03MWRR4ukYsQySYl6HPYIuD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjM0/Ni0xMzI2Mzg1MTg5/LmpwZWc.jpeg" alt="Cover for Royal Garden Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +885,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/U04N9X0uYP2aIsJV2Tc0xyiW4nejN_RU_VKHYXQRS08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQx/NDMtMTI5NTczMjkx/OC5qcGVn.jpeg" alt="Cover for Night Dreamer (The Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -871,29 +905,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/r9aZ9oIxiLFiI-QukGHZGJjf2x6EBWWo8TPqULZ0Tug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDY3/OTEtMTMwODU4MjUz/OC5qcGVn.jpeg" alt="Cover for Brazilian Adventure" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>Hermeto Pascoal</td>
-      <td>Brazilian Adventure</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-          <img src="https://i.discogs.com/MSj5CTvG4KnbZMlTi5QMrY5I7BQY2yOnTVJqQfzvwRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM2/NzctMTI1ODA2MDA3/OS5qcGVn.jpeg" alt="Cover for Bela Fleck And The Flecktones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/128c04f13bd854c0eccbb0146c80f786.png" alt="Cover for Bela Fleck And The Flecktones" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Béla Fleck and the Flecktones</td>
@@ -908,12 +922,12 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 35</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
       </td>
       <td>1990</td>
@@ -931,7 +945,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/YY2thsYsXUx-K9Rd3FlVZxl8th-1dRXfTqQVBEoTi-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDc2/NzgtMTUxODE1NDky/My05MDI3LmpwZWc.jpeg" alt="Cover for Reflections: Steve Lacy Plays Thelonious Monk" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +964,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/mCMvndERHX5ZPezD9RIsxpaUILJ9TlOWKnB2yfJ4IyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTc5/MDQtMTQyODEyNDgx/Ni04ODI1LmpwZWc.jpeg" alt="Cover for I Talk With The Spirits" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +982,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>24</td>
       <td>
       </td>
       <td>1991</td>
@@ -988,7 +1002,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>66</td>
       <td>
       </td>
       <td>1991-08-06</td>
@@ -1006,7 +1020,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>77</td>
       <td>
       </td>
       <td>1993-02-16</td>
@@ -1023,8 +1037,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70456da468c048d0856f414c86e61374.png" alt="Cover for My Favorite Things" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>John Coltrane</td>
@@ -1036,14 +1051,13 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/sQy7-wssi9UcAl31vDEp_TDWQdtdYP9dHoMul-Ud_qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjIz/ODItMTI2ODY2NjM5/MC5qcGVn.jpeg" alt="Cover for Expression (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84eec79932bfdde9894583b3f3a97fbd.png" alt="Cover for Expression (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>John Coltrane</td>
@@ -1061,14 +1075,14 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 1</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 71</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/s2_VyO24Y81wn7-nL25WPps3bXtMYqWAz2LJQHksE_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzU2/My0xNDEwODA0ODg4/LTI3MTIuanBlZw.jpeg" alt="Cover for In Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a56692fd3413340800ab60308f978d98.png" alt="Cover for In Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Jack DeJohnette</td>
@@ -1084,7 +1098,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/6zcLFhJ4QGwVvSRbBZhQh2lu0BOt62dbyWkIuJXPvyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDIx/NC0xMzE3ODc3MjI2/LmpwZWc.jpeg" alt="Cover for Joe Henderson In Japan" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1119,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf16ef0bcca4309aa4bf7d83bde73b8.png" alt="Cover for The Illinois Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1140,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/8mRa68EIRKUiDyxKzsXe2E0k8fi63xF9Osy-XAC2F7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg2/ODktMTU4MzM5NzU0/OS05Nzk2LmpwZWc.jpeg" alt="Cover for You Must Believe In Spring (Remastered Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b66cdcb259f6a5ee9f9e43eda4844637.png" alt="Cover for You Must Believe In Spring (Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Bill Evans</td>
@@ -1145,9 +1159,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/U_jBOWgaZVTd6Ti4MTLHdlibkCNYq1CmPsxjKg1n7nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDY4/MjQtMTI3ODU1MzQ0/MS5qcGVn.jpeg" alt="Cover for Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f07f53e4f98943a91ac9dc16d8296f.png" alt="Cover for Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>John Coltrane</td>
@@ -1169,7 +1183,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>79</td>
       <td>
       </td>
       <td>2003-03</td>
@@ -1187,7 +1201,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/3uGxdffeDSaz7QZ5hu4JCutXbDAhuBDIQL7qF4Yd6tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIy/NjM1LTE0OTUzMDYy/NjEtMTk0Ny5qcGVn.jpeg" alt="Cover for Destination Out!" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1219,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/pgKQm-B_MuDOcmlVI1Ak7oNt2EzXFzcatT0hqtmwipg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjQ5/OTAtMTI2MzU5Mzgw/Ni5qcGVn.jpeg" alt="Cover for Cannonball Plays Zawinul" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1241,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/3c6rJPC7gum7ey27yJxYJIScP4E0YodXa7s_es0gXFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTAz/MjEtMTUxNjY4MTkz/My02Njc3LmpwZWc.jpeg" alt="Cover for Blunt Object Live In Tokyo" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1267,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>71</td>
       <td>
       </td>
       <td>2005-10-11</td>
@@ -1269,7 +1283,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/OhxgX5FlrT4gn2LVXtRtDZk8iQyqplD8isM2HNSCPqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA4/MTAtMTI4ODMzNDUx/OC5qcGVn.jpeg" alt="Cover for Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,9 +1302,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/SMN4E2dz5D5HsuN7RGsE19-VGBRaRDydFchGO36n66U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDkx/MDktMTI3ODcwNTc5/OS5qcGVn.jpeg" alt="Cover for I&#39;ve Forgotten Everything" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e32ece49487d01bbe0e46cccf81f907.png" alt="Cover for I&#39;ve Forgotten Everything" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Lee Feldman</td>
@@ -1309,7 +1323,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>26</td>
       <td>
       </td>
       <td>2007-04-24</td>
@@ -1327,7 +1341,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ZYrBRd8ET2iUH5PbFghMDtEH6tBS6PsdylsnXyk5eb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/MTAtMTE4NDM5NDQw/MS5qcGVn.jpeg" alt="Cover for Head On" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1359,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Tpi8SdeWClcb3q3AWo5Ps1KFnWFDekROChj84uNuEv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDE3/NDMtMTI5NzE4MjIx/OC5qcGVn.jpeg" alt="Cover for We Remember Krzeselko" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1378,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ImOfgKRTtLbQTd9Lh-7bBa_mj6cZ7t_hUgkhmC9sf7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzk3/OC0xMTU4OTE4NjAy/LmpwZWc.jpeg" alt="Cover for Eastern Sounds (Rudy Van Gelder Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1397,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 11</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 12</li>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 18</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 71</li>
         </ul>
@@ -1411,9 +1425,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/12qkT1lH6EIXcQeVDM-M6MTqHrwW_k2yMwV0V8LGVcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzI2/NDQtMTQ5MDEyNTI2/NC05MDc3LmpwZWc.jpeg" alt="Cover for Out There" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f1077a1dd794f1a86c6dbc702624741.png" alt="Cover for Out There" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Eric Dolphy</td>
@@ -1430,9 +1444,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/SGXI8NdKmcotgDD7qafRbsfHDrwxOMFyInlz9KTBPOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTMy/MjgtMTQ5ODMyMzM2/NC05MzAxLmpwZWc.jpeg" alt="Cover for Out To Lunch (The Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/858adb4518ed2a19d6cd2a7ce2cabce1.png" alt="Cover for Out To Lunch (The Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Eric Dolphy</td>
@@ -1450,8 +1464,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e5fdbc3873c438fa307b4034cfe375d.png" alt="Cover for BBNG2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-03</td>
       <td>BADBADNOTGOOD</td>
@@ -1467,7 +1482,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>18</td>
       <td>
       </td>
       <td>2012-11-08</td>
@@ -1487,8 +1502,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5843d31e1300e1b2735b33336ebad9a.png" alt="Cover for Special Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-30</td>
       <td>Jack DeJohnette</td>
@@ -1508,7 +1524,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>17</td>
       <td>
       </td>
       <td>2013-05-28</td>
@@ -1526,8 +1542,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4517bde1e29a3f48afbd4f6c8d4ddf.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-03</td>
       <td>BADBADNOTGOOD</td>
@@ -1539,13 +1556,14 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 55</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/U0eD3swkuAI7oATIpaaJMRBKcuaQYFLUetEol3HwwFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzM2/NjQtMTQyMTQzMDU4/OC0zODcwLmpwZWc.jpeg" alt="Cover for Break Stuff" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,7 +1583,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/CSErhzpxc-dkzL95ubiLizSyMeriGVqcVYhboBqevkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQ5/NzItMTI3MjcyMDUy/Ny5qcGVn.jpeg" alt="Cover for Visits Planet Earth&#x2F;Interstellar Low Ways" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,7 +1604,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>75</td>
       <td>
       </td>
       <td>2016</td>
@@ -1604,17 +1622,17 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 34</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 47</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 39</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 48</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 68</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/MX85QIpJ0P191g8byq51Y7MAbKt-QyW5znxgc4OeAMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzMx/MzktMTMyNzI0NDE1/NS5qcGVn.jpeg" alt="Cover for Speak No Evil (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9919258d99f29f724809259f6badc2f.png" alt="Cover for Speak No Evil (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Wayne Shorter</td>
@@ -1630,12 +1648,12 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 72</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/JdMXhf2VjXTfqpimxKkpCehkcIKCLQg8tbrd3b3DzNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjIw/MjgtMTQ4NDM4ODQ0/OC0zMDMxLmpwZWc.jpeg" alt="Cover for The Invariant" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1671,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/6dljNyaVgGDopAiWQp5NowSQcUKgJsRB8_ohPDvk3Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTgx/OTQtMTQ4NDMzMjA4/OS03MzMzLmpwZWc.jpeg" alt="Cover for Up and Coming" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1689,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/vvy5DtwONsfNvnZOYldozCRbMfTByYuZ4maBxFHWcVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/MTMzLTE0OTU5NjQ4/NTQtMTc5OS5qcGVn.jpeg" alt="Cover for GUZUGUZU" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1708,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/rKs9bgO7pNluL_ntXfo7H6JhZCPEwPXfIrXaoovHnlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYw/Mjg4LTE0OTc4ODc5/NzQtNjE3OS5qcGVn.jpeg" alt="Cover for Serenade for Horace" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1727,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/KdNU27_yeKtZNlrgyi9z3lS8VYNAxIAnCPgQxGQxzKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/ODgyLTE1MDk4ODc5/NTgtNjI0Mi5qcGVn.jpeg" alt="Cover for Unloved" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1747,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/34dSzmDpZGDgwJMZGC2VfzU_Dlrqd1uneKVX0bRUHuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA0/NDY3LTE1MzY1OTI1/MzUtODU4Ny5qcGVn.jpeg" alt="Cover for NY Standard" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1766,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/PnkmdNgOGuEvon4JvoD5SF5XF-JmzImMUACCER876AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE0/MzcyLTE1MTc2ODk2/NzMtNTU0NS5qcGVn.jpeg" alt="Cover for Sand Woman" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1786,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/B9DvbOQHpM_rq9V0KwnfRiOvy_FlfGpKr8i_QiiGT8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk4/NTgzLTE1MjYyODY1/ODMtMzk0OS5qcGVn.jpeg" alt="Cover for Bijou Voyou Caillou" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1806,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/B9iXb1ThNihX7lqVVZa_EN77ecE7aVmJ9ABVR2xElzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk1/Njk4LTE1MzgyNzk5/NTQtOTQzMy5wbmc.jpeg" alt="Cover for Combo 66" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1825,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/wyG35ra0LDTbBDd-DFE2rnnuHbRH2lea6F4SDMwYO-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQx/NzIwLTE1ODExNDAw/NjItMzY0OC5qcGVn.jpeg" alt="Cover for Anatomy Of Angels: Live At The Village Vanguard" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,12 +1842,12 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 60</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/i6VCYCRR6ysZ9srnLKvkMIdcD_4GAF4V4YyH-H57toI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDgz/OTkyLTE2MzgyMjE0/NjQtNzU1Ni5qcGVn.jpeg" alt="Cover for Relations" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1867,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/Bb3wzVRrVrgn7av9OB0JlNU_cq0feTwRinR0CusXOlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEz/MTUwLTE1NTU2MjE2/NDktNjcwNy5qcGVn.jpeg" alt="Cover for Songs of the Degrees" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1888,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/2cElhG09aDyn46L2aZ6ehVHAzadKLUENB2mCmBkMPn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMw/NTQwLTE1NzgzMTA4/MjctMTY0OS5qcGVn.jpeg" alt="Cover for Some Other Time: The Lost Session from the Black Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,7 +1909,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/zTB-Un4-BPVBSW3PZAk5uv_GD95pzgr65wtmnC4kvSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc3/OTI5LTE1ODMzMTgx/NzMtNzE3Mi5qcGVn.jpeg" alt="Cover for Jazz Sabbath" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,7 +1928,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/TNQjm_qZPuKGYYHDRY5zaAedReRf8Ytz756DiiMcQsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI2/NzUwLTE1OTEzNjIw/MjQtNTIzOS5wbmc.jpeg" alt="Cover for on the tender spot of every calloused moment" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,14 +1946,14 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 80</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 81</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 84</li>
             <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/peopu1OR0t-tVH3fMVzqx9UNeOz9wtENAH-f3U-TtOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODky/NDIwLTE2NDMxNzIw/NTktNDMzOS5qcGVn.jpeg" alt="Cover for Hiromi&#39;s Sonicbloom: Beyond Standard" style="max-width:120px; height:auto;" />
       </td>
@@ -1956,9 +1974,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/3x8pNB7-K7dqa6fZEkwuKlNjb5_lI7s-b3PXyfrsYww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjgx/OTU1LTE2NDg1MTI1/NDYtNzYxMi5qcGVn.jpeg" alt="Cover for Jacob&#39;s Ladder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fb6526f92c60f51a3cff0a0617b3a0a.png" alt="Cover for Jacob&#39;s Ladder" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-17</td>
       <td>Brad Mehldau</td>
@@ -1977,7 +1995,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/fPEqdaU-IadIUB6ZmzqJsRLbNHVV1MdGDoRbW_9UF7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA1/OTc4LTE2NDk0MTY2/NjEtNDQ2Mi5qcGVn.jpeg" alt="Cover for Dimensions" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,9 +2014,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/OcW8jPK0aE2U5AiMRFQLdGYaoKqi4W6zip3pKzr9gIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjI3/NzU0LTE2OTQ4ODI2/MjktOTY1Mi5qcGVn.jpeg" alt="Cover for KARPEH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0dce0c861d4dde9fce30bf0a9d10e72.png" alt="Cover for KARPEH" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-18</td>
       <td>Cautious Clay</td>
