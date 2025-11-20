@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T12:47:00.182Z
+date: 2025-11-20T02:41:12.632Z
 permalink: tags/thrashcore
 title: thrashcore
 ---
 
 ## thrashcore
 
-Last updated: <time datetime="2025-10-28T12:47:00.182Z">Tue Oct 28 2025 14:47:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T02:41:12.632Z">Thu Nov 20 2025 04:41:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/4rHj-DRgmIvgooDuI0A7hOK_GiS5jPOxyqdheUxbRzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mjcx/NS0xNjY1MjE5MDMz/LTkwNDUuanBlZw.jpeg" alt="Cover for Slang" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/DNkPLFYKYP9v-XobvKw7kL2Wh8HnoybOFQB192m79i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjY5/MjItMTI4NTY1NDQ2/MS5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/_QdmGuKDOciZpPrsS4l-P8-KrNqndmUjUIxoarEpUEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ0/MTItMTI4OTczNDEy/MC5qcGVn.jpeg" alt="Cover for Killing Babies Is Tight" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/piDCtw5kZVEE-XkEYnqOxWKODi5X-G1nd2X1UtcZlrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTAy/NS0xMzY5NTg3OTA0/LTEwNTguanBlZw.jpeg" alt="Cover for Convicted" style="max-width:120px; height:auto;" />
       </td>
@@ -141,12 +141,12 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 12</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/qphm8V64fR1uhQDzufr5VWlnidBP7Qgfu9jwc2yYWMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzI0/MDYtMTQ3NjE3OTQ2/OC0yMDc1LmpwZWc.jpeg" alt="Cover for Olho Por Olho" style="max-width:120px; height:auto;" />
       </td>
@@ -166,8 +166,9 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed1c58f551ac7d8cde9ad50c2c7cbb0.png" alt="Cover for 限界は何処だ" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-10-05</td>
       <td>Gauze</td>
@@ -186,9 +187,9 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/1X8IHZBkt4fUJC5Mii3WT6aU7Gyb7rGdirkCIGhOml4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc3/ODktMTM1Nzc2MzI4/OS0xNzc0LmpwZWc.jpeg" alt="Cover for Отторжение" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56e2ec84e5384ed698bdc682ef6cf22b.png" alt="Cover for Отторжение" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Paranoid</td>
@@ -227,7 +228,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/7--SWIItRW0cz4KnwHDG8mzyXXhHMtn9GH2lROu5czc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc2/LTE0ODUzMjczODQt/MTYyMi5qcGVn.jpeg" alt="Cover for Thrash Night" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +248,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>1997</td>
@@ -264,7 +265,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
       </td>
       <td>1998-01</td>
@@ -308,7 +309,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/8_-WBJ0647rE_mqsfB1ehGDNxXFziTbVLclYANxL5Xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEx/Ni0xNjQ4MjIyNzMx/LTM3OTguanBlZw.jpeg" alt="Cover for Slipknot EP" style="max-width:120px; height:auto;" />
       </td>
@@ -344,7 +345,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/9Z5GNGo0tZ4lFB7iLAk7qiGya3aF1BeSG3MT1qElbMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTU3/NDExLTE2NjM1MzA0/MjgtMTI5My5qcGVn.jpeg" alt="Cover for Dub Grind" style="max-width:120px; height:auto;" />
       </td>
@@ -365,7 +366,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/yJglpQbKMDTQ0a8nAbzzdjpXHun8ZP3uwZGTCVE2OhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDE4/OS0xMTI3NDIwNDE4/LmpwZWc.jpeg" alt="Cover for Fucked Up Mess" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +386,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/-EJRdxjyCmz-7jf2F0DcXTmi3M1CdBlQBXgyy6mXIUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/MTEtMTMxMjgwNDM0/Ny5qcGVn.jpeg" alt="Cover for Taken By Force" style="max-width:120px; height:auto;" />
       </td>
@@ -405,7 +406,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/4S1i4DN1ZjITQJ3QGJiWHBHiy6b1uE3L7ORjm9teMAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTA0/OTAtMTM3ODYwOTgx/NS0xMzcwLmpwZWc.jpeg" alt="Cover for Thrashing Goes Lovely" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +489,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/j7DZAa326rPom4C-zlHDwSxGrW0rY-bheswOhgwLMNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMw/MDgtMTIxMzg5ODYy/Ni5qcGVn.jpeg" alt="Cover for I Shot Cyrus &amp; Discarga - Split LP" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +528,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/uZoy4_6fwDDLlIlsyOChbCmVNU15OnNv3DNV9NcGjKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTAx/OTUtMTYzMTU2OTIw/NC00MTc1LmpwZWc.jpeg" alt="Cover for Outsiders" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +547,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/HCWHVL3cIjAX8YI6Hf1iB78cR-v2YZc0gO2yRFRCsVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjc1/ODktMTUyODg0MTky/Ni05NDc0LmpwZWc.jpeg" alt="Cover for Zen And The Art Of Beating Your Ass" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +584,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Bfpbc-KqzXg71VydtfZgwKZgDWLqu2Y4-1aOuA3z5mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI4/MzUtMTM3NzgwNTQ0/MS0yMDM3LmpwZWc.jpeg" alt="Cover for The Gipsy Hill" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +603,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 1</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +626,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/lAN9CU4Fb0w6hFamuMO8vJuOytoIJZYpYmWYIHEIDl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQw/Ni0xMTc3Njc4NjE5/LmpwZWc.jpeg" alt="Cover for Waste &#39;em All" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +645,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/02_pN6ukMQ4WKE-eiUzkJA_zm5gsNOllMg2rmIFz0dA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYy/MTEtMTUzNzEzNjcz/OS00NTgzLmpwZWc.jpeg" alt="Cover for Tiranus" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +666,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/pDahIZk76WomybJroM_r1-8pKZn09l2XmttBs3r5Txg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTMz/NjItMTI1MjA2NjU2/NC5qcGVn.jpeg" alt="Cover for These Colors Get The Runs" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +685,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/KbjyWK-RxH4GMavSQ6FjUZinrMA0QLAqxqmKXvyUgTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM0/MDAtMTI4OTE3MzMw/Ny5qcGVn.jpeg" alt="Cover for Anti Everything EP" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +743,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2004</td>
@@ -778,7 +779,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/oNjx42YdUZU94DP8n1eDjIu48jx_r-VhPZ9jDAkGsMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYy/MTctMTMxODMwMTIz/Ni5qcGVn.jpeg" alt="Cover for Assassinicus" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +815,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 14</li>
+            <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -844,6 +845,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da5b54ecdc3247248c3ae53c530f8acb.png" alt="Cover for Down Low" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-06</td>
       <td>Betzefer</td>
@@ -860,7 +862,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/7oeqdMOa-PxZaDD-BNMrN_O_fbBBZ4hFlOnxVvXSh14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTMx/NjMtMTQ1ODc3OTU4/NC05NjcwLnBuZw.jpeg" alt="Cover for 26 Beers" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +882,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/2KD1QsHRuqCObP_D9m7NHT-IaKhsuAb6hthYKdsw3TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NDItMTYxNjAxOTEy/Mi02MzQ2LmpwZWc.jpeg" alt="Cover for T.U.I." style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +993,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/8M27UyLj6PGt2zS3emvawplzOZm8XoL1e1Li_5SaLlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA4/OTUtMTMzODQ5MDI1/My0yODc1LmpwZWc.jpeg" alt="Cover for Deus Ex Machina" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,7 +1076,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/EeC07xVVBqnEvWI1Ku_h0VFEkEYBxdrLG5-b8TcWvXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjE4/NTEtMTQyOTU1ODI2/OC02NzgyLmpwZWc.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,24 +1106,6 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/S_LYWfEWpuFkzqx3FjTEx3Y6NYrxsw2Xo259yZOmLsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg0/OTEyLTE2NzAzMzI0/MTAtMTU1NC5qcGVn.jpeg" alt="Cover for These Wheels Roll For Victory!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Razors Edge</td>
-      <td>These Wheels Roll For Victory!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>13</td>
       <td>
           <img src="https://i.discogs.com/d4f8IST06eIEdrHOEsiv4A-YFhcPPO3xRLVqtztIM-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ1/MjQ1LTE1ODU5NDI4/NzQtMTQ1NC5qcGVn.jpeg" alt="Cover for Abstract" style="max-width:120px; height:auto;" />
@@ -1142,7 +1126,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/T5i86Z9ypZQX8l3riy9mk0mgZh3mYOQWeoS3EoCpzqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQw/MjM0LTE1ODMxNTU4/MTEtNTU1My5qcGVn.jpeg" alt="Cover for Начало Пути" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1145,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/ZTIZfFl6GvDenfpr4L2s7q9aJpqSmDtdoLGsvec7NZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI1/MTYtMTI5OTc4NzEx/OS5qcGVn.jpeg" alt="Cover for Eyeless E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1180,7 +1164,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/zIGGvQcdwZlX4A5nJDYEUwNB1-z5gqVjcc35CoyNyrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTE5/MTYtMTMzMjc4NjMw/OC5qcGVn.jpeg" alt="Cover for 14 Rockets From W4X" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1236,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/tEuV2V_Nn0fsdtrHU_i2avpTjiqHmZGJFUjJm0JRU0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDk3/OTAtMTQ2NDk5MDM2/NS03MzI1LmpwZWc.jpeg" alt="Cover for Headbanger&#39;s Karaoke Club Dangerous Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,7 +1299,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/6Wt4mxguwFeG4ssJS_KvAZq7Hoto8DGei2ZR-OWEvNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQ1/NTMtMTMyODcxMTI3/MS5qcGVn.jpeg" alt="Cover for Naifa e Morto Pela Escola" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,9 +1339,9 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/JhJSMl7ZUcwaOQaMmT1NRFSmxX4HZ8R660MfQc9wfag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQ5/OTEtMTMzNzgzMTU1/Ni03OTU1LmpwZWc.jpeg" alt="Cover for This Means War" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a12e0128c2495ea3a779cb5f0aa683.png" alt="Cover for This Means War" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Blackened</td>
@@ -1376,7 +1360,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/KoclcUrTIQqDmrIjlQ8VcFslYgcDFWP53UK9PqnQn34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE4/NjAtMTI5NDU5MTQ5/Ni5naWY.jpeg" alt="Cover for Living the Dream?" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,7 +1401,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2009-04-14</td>
@@ -1435,7 +1419,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/M3jUoGT51_6dXHTdSsfZpPHehGBmpbk0roKdt2hjbZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc3/NTItMTYyMzc3MDA3/MC03NTM4LmpwZWc.jpeg" alt="Cover for Show Us The Meaning Of Haste" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1443,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/Gpt-VhGuxWdwKMSh8WckkZoh79x3aXmWmqTZzsZ2M5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzkz/ODgtMTI4OTQ4NjU3/Mi5qcGVn.jpeg" alt="Cover for Split 7&#39;&#39; with Fanzui Xiangfa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6d37ed25a04f0e981936844f523daa.png" alt="Cover for Split 7&#39;&#39; with Fanzui Xiangfa" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04</td>
       <td>SS20</td>
@@ -1481,6 +1465,26 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
         <ul>
             <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 33</li>
             <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b4886b05f681bc530e78bf20f16a3b.png" alt="Cover for The Powerless Rise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-07</td>
+      <td>As I Lay Dying</td>
+      <td>The Powerless Rise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 26</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1523,7 +1527,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/GRnUMyFwkgbIi0a84YQfJhpmSpOUWgx6ipBdh0jsJac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ3/NTctMTUwMzY2Mzgz/My0zNTkwLmpwZWc.jpeg" alt="Cover for Deprogrammed" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1548,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/KMVhm7AW2SXghxNpRcAwPMU8pQQwlZpVerkbRJ3cROA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTA0/MTAtMTMyOTMyODkw/My5qcGVn.jpeg" alt="Cover for Отъебись!" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,9 +1568,9 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/fNxfzoEUFX2I5h82oCYrv1umQXHtUvAlZamfWzRcoj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg0/OTc0LTE2NzEyMjA2/OTQtODE2OS5qcGVn.jpeg" alt="Cover for The Fatal Feast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eca348c3846463b8e3c69e732b358b9.png" alt="Cover for The Fatal Feast" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-10</td>
       <td>Municipal Waste</td>
@@ -1584,16 +1588,15 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/vy9q1dFe26yVeNuqWAObL5SPNGnY_S7xFywqLVPzNEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjE5/NTktMTM0NTc2MzM0/OS0zNDE4LmpwZWc.jpeg" alt="Cover for Product Of Waste" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d34c86b6ee591c71e5a438987bab9dee.png" alt="Cover for Product Of Waste" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08</td>
       <td>Product of Waste</td>
       <td>Product Of Waste</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
         </ul>
       </td>
       <td>
@@ -1669,7 +1672,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 51</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1696,7 +1699,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/6hRco2HVyGnuOCx-jG_wKzyBM5Bg5AFOUTNpA4cox48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDYx/NDYtMTQxMzcxMjg1/MS01NjA0LmpwZWc.jpeg" alt="Cover for Insanity Alert" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1715,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 1</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1743,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/AA8y6Yt63SiK2MCPQa_JE1G2b1ZQlMiaIWI5b6mbBbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI2/MTUzLTE1MTIyNTA4/MjMtNzU5NS5wbmc.jpeg" alt="Cover for Forbidden Techniques" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1765,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/MgFUCJhDQwi8VWEU8NEAvWNQgXglzjL7wRsHLwRRRGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQy/MzgxLTE2MjUxNTYx/NTUtNDQ1MS5qcGVn.jpeg" alt="Cover for Bastard" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1783,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/1TyYmbcbo1oNFvcdrdhI8LkldFbNiGrlkq0p4I1plgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA5/MTU5LTE1NzU5OTA0/NjAtMTIwMC5qcGVn.jpeg" alt="Cover for Sociedades Secretas" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,7 +1802,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/KfNnW_OvxghaExXRtx-XNajMRlk-vfz59d0JEBl7_Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMx/ODYyLTE2MTM4NjQ4/NzgtNjA5OS5wbmc.jpeg" alt="Cover for Unrest Eternal" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,26 +1813,6 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg" alt="Cover for Dealing With It!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>D.R.I.</td>
-      <td>Dealing With It!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
         </ul>
       </td>
@@ -1858,7 +1841,24 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4dabd1e3dbee33e1fb1a598261c82aa.png" alt="Cover for Dealing With It!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>D.R.I.</td>
+      <td>Dealing With It!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/CAeCw-ngaIpSi2gFgnEEVh0xOGV6END3f19fTNI3tcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI4/Njk4LTE1ODIzOTA1/NDgtNjY2MS5qcGVn.jpeg" alt="Cover for From Enslavement to Obliteration (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1877,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/4HM6mfJrg48WyiGpTKLgNAVx8jR42gk3hxaNsCzUVGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDM1/MDkyLTE2MTEyNTI1/MzMtMzE2OS5qcGVn.jpeg" alt="Cover for 9 Shocks Terror" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1895,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/t_-5y7F5HTotV1CEXLv8DJzXmR5bUd5CM5Dc7DsXI9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU2/MjQ3LTE2NTEyNTYy/MjEtNTEwOS5qcGVn.jpeg" alt="Cover for Bad Songs Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1922,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66a14fd7a9ffba038e7b63b77304ce55.png" alt="Cover for Радісно й класно" style="max-width:120px; height:auto;" />
       </td>
@@ -2019,7 +2019,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       <td>
         <ul>
             <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 27</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 48</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 48</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 55</li>
@@ -2027,7 +2027,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2071,7 +2071,7 @@ Thrashcore fuses the breakneck speed of hardcore punk with the aggressive riffin
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T09:22:51.035Z
+date: 2025-11-20T02:44:27.460Z
 permalink: tags/beatdown-hardcore
 title: beatdown hardcore
 ---
 
 ## beatdown hardcore
 
-Last updated: <time datetime="2025-11-03T09:22:51.035Z">Mon Nov 03 2025 11:22:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T02:44:27.460Z">Thu Nov 20 2025 04:44:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/I4-BnsgUeANsEjwTTNd8kp9KzOyYRDJ_78ab5D9pni4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/NS0xMjUzMDk2ODA5/LmpwZWc.jpeg" alt="Cover for The Beginning to the End" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,26 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08067250d04e46bda798e3273084d5e3.png" alt="Cover for Satisfaction Is the Death of Desire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-11</td>
+      <td>Hatebreed</td>
+      <td>Satisfaction Is the Death of Desire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/DmzvOAaLcPQ9uhStnJ-ej9fR1eErOdg4n90ZEKjwfII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcy/MTMtMTIxNjE5MTA4/OC5qcGVn.jpeg" alt="Cover for Together As None" style="max-width:120px; height:auto;" />
       </td>
@@ -67,9 +86,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/U1PfryVElNn9SOiMIFB9jKIH1UD9WO7fVg2uXF-azrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDUz/MDUtMTM1ODUwNjY4/MC0zOTc5LmpwZWc.jpeg" alt="Cover for Self Inflicted" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/843d022328afbac25f82a37de9387a7f.png" alt="Cover for Self Inflicted" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>One Second Thought</td>
@@ -88,6 +107,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba72d077f0cc81f32d0d6325f280aaa.png" alt="Cover for Declination of Independence" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Cold as Life</td>
@@ -108,7 +128,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/OAgLkQzSqDEFiW7SOeGdzo0JGwFAMMUnCBLtjIwbHoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg4/Ni0xNjk1MjA5Mzc4/LTQ2ODAuanBlZw.jpeg" alt="Cover for DISCIPLE" style="max-width:120px; height:auto;" />
       </td>
@@ -186,9 +206,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/4EdrDtNCw7pZzzz50pkfit0NpYUmjqAYkbPcRgjMyYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ2/NTYtMTIzOTM2OTU5/MS5qcGVn.jpeg" alt="Cover for The Final Beatdown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c63908796ace3e1fd683bc890d2dac0d.png" alt="Cover for The Final Beatdown" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Bulldoze</td>
@@ -288,15 +308,15 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 10</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 11</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 37</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 49</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 51</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
@@ -305,8 +325,8 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 80</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 87</li>
@@ -320,9 +340,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/NU6-f_kOwF6B71H7tsc3JyDjzXMCcvrdciYM9EPpBAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTA3/NjctMTQ0ODAyNDk2/Ni03Mjk3LmpwZWc.jpeg" alt="Cover for Recognition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6042422fcd7cb38a1fc2a8f24b8b0e74.png" alt="Cover for Recognition" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Demolisher</td>
@@ -364,7 +384,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Zgt7z6EG6W-5dDY7ChvXqjkt89v37epg8RI0LnDv6b8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMy/OTYyLTE2NDIxNzY1/NDktOTU1OS5qcGVn.jpeg" alt="Cover for Fear Profits Man Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -420,24 +440,25 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 11</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
@@ -449,9 +470,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/e2G5--TcBCm6n61vjf2EjtoPtEar4qo25nUM6b8FURI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk1/NTYxLTE0OTMyMTE1/OTUtOTI5Ni5qcGVn.jpeg" alt="Cover for Time Of Defeats" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b62ba965302145d8bad375136e179c8e.png" alt="Cover for Time Of Defeats" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Time Of Defeats</td>
@@ -471,7 +492,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/FagOwZAUhOVVlBEaKN5v6HuMKpUSb7kpKUjCeb5zNC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTk4/NzItMTMzOTI1NDYx/Ny00OTgzLmpwZWc.jpeg" alt="Cover for Adherence" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +514,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/96uQ62hfMV2xniwBDs8kjZXdnOvxRmB_jnUTjqIzoxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA0/MTk1LTE0ODk5ODg1/MTctODkxMC5qcGVn.jpeg" alt="Cover for We Can&#39;t Be Saved" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/015acded525a47688b2546cf3f16dd7d.png" alt="Cover for We Can&#39;t Be Saved" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Shinto Katana</td>
@@ -532,7 +553,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/HoXbm-14DFqbSm2q9WM01VgH_anMsWjfQufRL4ZhZZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM3/MzctMTM1NTM3OTM4/OS0xMDYxLmpwZWc.jpeg" alt="Cover for Madre Mia Gracias Por Los Dias" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10ec96110d16b5ee7e01082324ca736e.png" alt="Cover for Madre Mia Gracias Por Los Dias" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Xibalba</td>
@@ -569,6 +590,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b579947cbb744cfa89436515f2f000d.png" alt="Cover for My Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-22</td>
       <td>Justin Bieber</td>
@@ -580,29 +602,29 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 52</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 54</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 56</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 62</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 82</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 83</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +647,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Nm5hVxtwNTuOL3i8RAW5IslXadB8w2vtwNK-b-UtFnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTY4/NDItMTQ1MzE1MTUw/Ny05OTU3LmpwZWc.jpeg" alt="Cover for Enough Is Enough" style="max-width:120px; height:auto;" />
       </td>
@@ -643,9 +665,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/89Xrmp3iwYu1Br1-g3s5LvL9nOvLom3sr_cbywN2tDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTEw/MjUtMTM4MzE1ODk3/OC01MDQ0LmpwZWc.jpeg" alt="Cover for Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a8d2e8fe2cc28186a173ecee6f84844.png" alt="Cover for Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-22</td>
       <td>Recon</td>
@@ -722,6 +744,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6745659314e4fd0cf52a055f6473519.png" alt="Cover for Give a Shit" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Nasty</td>
@@ -738,7 +761,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/_a7Mcb8kymLjZygzNsj6chfwBNYisHaxPHlMAZy6Wr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTkz/MDctMTI5Nzk2Mzc4/NC5qcGVn.jpeg" alt="Cover for Split" style="max-width:120px; height:auto;" />
       </td>
@@ -818,6 +841,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5881222e3c744e52ce9a5b51a869aab0.png" alt="Cover for Demonstrating My Saiya Style" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Rise Of The Northstar</td>
@@ -894,7 +918,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/NB7EKleL6BC9jeQrhnX_L1R0yi_hPkMO6IYDgxswBPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDM2/MjItMTM4Mjk2OTc4/OC00ODQxLmpwZWc.jpeg" alt="Cover for Spit On Authority" style="max-width:120px; height:auto;" />
       </td>
@@ -927,14 +951,14 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 2</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/9i_o_WdIMcbnZ0G09K1e3-8poxtDiTIahcsXoYsQ1Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODI2/NTUtMTY4MzY3NzY2/MS03MjEwLmpwZWc.jpeg" alt="Cover for Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbffeaa767f5c0557c4c75ae5bcdbc88.png" alt="Cover for Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-27</td>
       <td>Knocked Loose</td>
@@ -950,14 +974,14 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 20</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 96</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td>2013-09-23</td>
@@ -1013,7 +1037,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93809633376642edc220ccb4099d34f2.png" alt="Cover for Pop Culture" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,14 +1051,14 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 27</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/M4jtb41CNNRSYJAGVv3_og6GYfUMygck1-59bkNxep0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzk1/NjctMTQxNTQ2NTIx/Mi0yMjA0LmpwZWc.jpeg" alt="Cover for Ruffnecks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b31c4c1258e4e09ce929dd4a97b0f06.png" alt="Cover for Ruffnecks" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-13</td>
       <td>Ruffiction</td>
@@ -1057,6 +1081,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d55bf80b7735031625fa9828e525b757.png" alt="Cover for Welcame" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-21</td>
       <td>Rise Of The Northstar</td>
@@ -1076,7 +1101,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/6Bo96E7XHKbhegtcKiX2U03pi9vcrOtASvbEfD3CBBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTIw/MjItMTU4ODQyMDkz/Mi0yMTg1LmpwZWc.jpeg" alt="Cover for Dance with the Devil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92b972da061d4fedcfedffedfa4d18cf.png" alt="Cover for Dance with the Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-28</td>
       <td>Born from Pain</td>
@@ -1097,7 +1122,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/35RhIFTzUCt-5fspS3XaNRAAS7asw7342cpR6yjRhLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY3/MTQ3LTE1Mzc3NDE1/MjEtNTk1Ny5qcGVn.jpeg" alt="Cover for Infinite II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6c9a6af6dd50c457df8f40b350d7338.png" alt="Cover for Infinite II" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Rooks</td>
@@ -1114,7 +1139,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/35RhIFTzUCt-5fspS3XaNRAAS7asw7342cpR6yjRhLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY3/MTQ3LTE1Mzc3NDE1/MjEtNTk1Ny5qcGVn.jpeg" alt="Cover for Infinite I" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,7 +1160,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/9XTD1EAJalYQXnPz8mVppn-by7I-s7WTm0PtVndMaYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTk1/ODUtMTQyMjAwNDM3/OS03ODA2LmpwZWc.jpeg" alt="Cover for Tierra y Libertad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d983d097836829a01fc2758b050936b3.png" alt="Cover for Tierra y Libertad" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-26</td>
       <td>Xibalba</td>
@@ -1174,7 +1199,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/lXsunP-6ELYtdIKDyPsVN_j8XAlQ7kzSu8uIrc74b6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQ1/MjAtMTQ1NDY0OTkx/NC05ODkxLmpwZWc.jpeg" alt="Cover for The End" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69d65c9b1fbd4d65edba40ba6ed34634.png" alt="Cover for The End" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Desolated</td>
@@ -1192,7 +1217,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/6dwVkJFmD-W-mtPYrKfq76cFQwMOnIOSnSdiMzTppfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzY2/NjItMTQ1NjU4Mzg2/Ni00NjkzLmpwZWc.jpeg" alt="Cover for Egotrip" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1239,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/-IS-DD5SjCozxVu5SGtVZ1H2LRHY6ZuZMcapBO3j26Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzE1/NzItMTQ2MjI2NTU5/NS05NTI3LmpwZWc.jpeg" alt="Cover for XXIV" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/535309ad00ab2f88ab2f05c78b5ad090.png" alt="Cover for XXIV" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-23</td>
       <td>xViciousx</td>
@@ -1235,7 +1260,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/orSVx18QTVZRemm6pzDj7oD9SrVVd9xT8KlErnGnAkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDY3/OTEtMTQ4NDE0MTE3/NS0xMDI2LmpwZWc.jpeg" alt="Cover for Paycheck" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2aa7137b8a92561c4d9e04af70d897b.png" alt="Cover for Paycheck" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-24</td>
       <td>Harm&#x2F;Shelter</td>
@@ -1254,9 +1279,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/FpItErl3EmKR6L5B4kFVsmwlsyVyOpoEyrrALmlBDcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODc1/MTEtMTUwODk3Nzky/My02NDgzLmpwZWc.jpeg" alt="Cover for Laugh Tracks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0428795b6f6d10cc11e93d918728a4ed.png" alt="Cover for Laugh Tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-16</td>
       <td>Knocked Loose</td>
@@ -1268,8 +1293,8 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 47</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1294,9 +1319,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/ZMvFvA4vtrabN83HKEv3mQUg45u97NcQacisdIgIFIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc0/NzEtMTQ4NzI5ODU4/OS05OTUxLmpwZWc.jpeg" alt="Cover for Diablo, Con Amor.. Adios." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efcb11b3c23a99cc4df100b6aad6d73a.png" alt="Cover for Diablo, Con Amor.. Adios." style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Xibalba</td>
@@ -1369,7 +1394,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/B6UoWTqmblAAhp-LgGC-7noOQ9viQMk0bqYiU4VbwL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM5/MDc0LTE0OTU2MDE0/ODUtNTM3Ni5qcGVn.jpeg" alt="Cover for Unholy" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1511,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/FDbcPKhSRouLBl8Z7U1VFsVrwWNAuB4x3Nk7X5z0sAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU3/ODA1LTE1MjMzNTgy/OTUtODMxOC5qcGVn.jpeg" alt="Cover for Realigion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eb61853153277b394cb8028159bfa2b.png" alt="Cover for Realigion" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Nasty</td>
@@ -1507,28 +1532,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/v0jXb9mIeudLEgViUmdGtoDsaTbFnZBvaBIHb7MF_wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYx/NTU5LTE1MjA2MzYw/NDgtOTY4MS5qcGVn.jpeg" alt="Cover for South German Brutality" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-12-29</td>
-      <td>world of tomorrow</td>
-      <td>South German Brutality</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/rx0fn5b2TFJJWysg5akh8BwReRNmH8QIETfUGszfNkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU4/NTgwLTE2NTIwMzU3/OTYtODM1Ni5qcGVn.jpeg" alt="Cover for 68 Undercover" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7381a4bb209c6d6bd3ee326fbfd8d39f.png" alt="Cover for 68 Undercover" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>The Butcher Sisters</td>
@@ -1565,28 +1571,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/qNtnrNFOauZsI1VVqncibHqb8ZN94MGrAwFvH25EpUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQz/ODkyLTE2OTU3MTA4/MjAtODA3Mi5qcGVn.jpeg" alt="Cover for STAY ONE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-01-25</td>
-      <td>Deathsquad</td>
-      <td>STAY ONE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/g9-LFVFClvDsVxfe4UAxvba8Y5xNvaKlLIXeU5ZOpmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMy/MzExLTE1Njg0MzU2/MDQtMzg5MS5qcGVn.jpeg" alt="Cover for Dog Eat Dog" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/903ae9562e71924708fed9d03462ef01.png" alt="Cover for Dog Eat Dog" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Nailwound</td>
@@ -1621,7 +1608,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/NdKm4JnWYUgs5h2q9XPXx3eTw_0Dnd109Lfi_ftn8q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/NzI0LTE1ODk4MzY0/NzAtMTk2MC5qcGVn.jpeg" alt="Cover for Showtime" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,7 +1667,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/GdSecPJFpXbR2YSFOisM4gB2p7_V6j7-RP7M0d41jv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ3/NjIyLTE1ODcyOTgz/MzYtNDE2OS5qcGVn.jpeg" alt="Cover for The Other Side" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6129db1e0769edd9366d81ee9355fe66.png" alt="Cover for The Other Side" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-24</td>
       <td>Malevolence</td>
@@ -1695,7 +1682,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 53</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 54</li>
             <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 99</li>
         </ul>
       </td>
@@ -1703,7 +1690,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/3-2VJxnpKrolsx6JkRiS2K-QiZTBk8zTMTC4klFFnRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE5/NjQ3LTE2Mzg4NDEy/ODYtNTEzOC5qcGVn.jpeg" alt="Cover for Your Receding Warmth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35cd3ddb13b2889a223d723c32c61fbd.png" alt="Cover for Your Receding Warmth" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-13</td>
       <td>Boundaries</td>
@@ -1711,6 +1698,24 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce737cd1d80126b18e2c5c7d51ef5935.png" alt="Cover for Weight Of The False Self" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-27</td>
+      <td>Hatebreed</td>
+      <td>Weight Of The False Self</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
@@ -1739,7 +1744,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bea40c8e98d5f34ab2076cc5543dd457.png" alt="Cover for WINTER PROMO 2021" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,9 +1806,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/YC-ZldPDJDQwiZlu1OcUL0Uwfw4S2SY5pZQl9aRLxNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTkx/MzQwLTE2NDUwOTE4/MDktNjEyOS5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fccfbac4f766f9a722cabc17f10c233.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-11</td>
       <td>Apex Predator</td>
@@ -1827,7 +1832,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/crMtpN-1hi-hX-6nQ_MFlkR7pJ7b4JXTYDqVaDbRJXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjc5/MjczLTE2NDU4MDU3/OTQtODIxNi5qcGVn.jpeg" alt="Cover for Obsession" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/189bd019de5d788311f9d6fc9b7f42f9.png" alt="Cover for Obsession" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-18</td>
       <td>CONSVMER</td>
@@ -1862,7 +1867,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/P68j7VnVz0b3J50fya_88UIkWfxHTyBCYV9SKVFSHXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODI2/NDE2LTE2NTczMTcy/OTgtMjk0Ny5qcGVn.jpeg" alt="Cover for Behind The Curtain" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1887,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/B2CIP2XCTSqyIB6C2hDWbSAdrMlsQnZA58KK8CyUZ48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM4/MTM5LTE2NjU4OTM4/MTQtNzg1NC5qcGVn.jpeg" alt="Cover for Burying Brightness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/691833254adfc8ef89ab7957e01eb571.png" alt="Cover for Burying Brightness" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-14</td>
       <td>Boundaries</td>
@@ -1899,9 +1904,9 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/-Pi_C_ijTOdFYhMG0qkLU2QJYTbOldtY_byb43mW0Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDIy/Mzc5LTE2NzA2NzQ1/NTAtMjU3MC5qcGVn.jpeg" alt="Cover for Welcome to the West Coast III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f826a03db1f6a5b690afce560d79bf48.png" alt="Cover for Welcome to the West Coast III" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-09</td>
       <td>Lionheart</td>
@@ -1917,7 +1922,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/EaKjvev5MUy25wUjBQhUo5-Wuj4ITQ_hYwwemsYdxM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzM0/MDkxLTE2Nzk0MjU0/MDYtNjI4Ni5qcGVn.jpeg" alt="Cover for Blood River" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,7 +1943,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/2PyCklA-iUIL8j3xHwBNmxGPkNS5IkgLYsQPRu9igDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU1/MzgzLTE2ODA2ODc4/MDItMzYyNy5qcGVn.jpeg" alt="Cover for Showdown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59763fb1dfbdb8e29c3a9343e28a6622.png" alt="Cover for Showdown" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-07</td>
       <td>Rise Of The Northstar</td>
@@ -1956,7 +1961,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/WiQwMoEhKQ9qKUqGJNhVnK8xC9toFHnjwCDKjy9h0LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc4/MTQ3LTE2ODY3Mjc3/MTAtMzQ0Ny5qcGVn.jpeg" alt="Cover for Upon Loss Singles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9db8457b652ea012241115fc0d4bad9.png" alt="Cover for Upon Loss Singles" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-14</td>
       <td>Knocked Loose</td>
@@ -1969,7 +1974,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 82</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2014,7 +2019,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/uqKy6ztQLtfsmxkvE2a9d6Tg6_HaBKQmWp8OdA4RjqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg0/MDg0LTE2OTMwNjYx/OTctOTYxNC5wbmc.jpeg" alt="Cover for Reality Check" style="max-width:120px; height:auto;" />
       </td>
@@ -2033,7 +2038,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/VP_ycaCbDoWvvgNBtQeGiKYZZsEcKFb_ZmOICpIHHEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMy/MTc1LTE3MDU2NTAz/NDgtOTQ1NS5qcGVn.jpeg" alt="Cover for Touch" style="max-width:120px; height:auto;" />
       </td>
@@ -2072,7 +2077,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/pHUQ_mHhxn-Vj5lCIC_STxicCcuJI1ZJapUEKSuhbR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM3/Mjg4LTE3MTUzMDE3/MDMtMzA1MS5qcGVn.jpeg" alt="Cover for You Won&#39;t Go Before You&#39;re Supposed To" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a2415031849936ecfece68a99da257e.png" alt="Cover for You Won&#39;t Go Before You&#39;re Supposed To" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-10</td>
       <td>Knocked Loose</td>
@@ -2085,12 +2090,12 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>

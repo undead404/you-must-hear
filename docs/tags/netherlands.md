@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:11:08.523Z
+date: 2025-11-20T01:43:20.134Z
 permalink: tags/netherlands
 title: netherlands
 ---
 
 ## netherlands
 
-Last updated: <time datetime="2025-10-21T01:11:08.523Z">Tue Oct 21 2025 04:11:08 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-20T01:43:20.134Z">Thu Nov 20 2025 03:43:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
   </thead>
   <tbody>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>1970</td>
@@ -46,8 +46,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23b42bef25184616823dd628d8a497af.png" alt="Cover for Divergence" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Solution</td>
@@ -66,7 +67,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1977</td>
@@ -96,15 +97,16 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 6</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 7</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 23</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51b6d214429c443b9fbfd34583a28da8.png" alt="Cover for Fully Interlocking" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Solution</td>
@@ -141,8 +143,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cb85c5555a0c7ce8db469371864e110.png" alt="Cover for Exploded view" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>The Actor</td>
@@ -159,14 +162,14 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 5</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/MSWOByCRl8roGmip3iyChBajlE0M5cXqVW6PTI6SLUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUw/ODItMTMwODY0Njk1/NC5qcGVn.jpeg" alt="Cover for Titan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bfc7e4602fa4f5d91b7cc7394812f8d.png" alt="Cover for Titan" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Tower</td>
@@ -187,6 +190,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3b15c11d2d5efbfcc9832ff322d410e.png" alt="Cover for Spectral Display" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Spectral Display</td>
@@ -204,7 +208,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/DpxQEix2ysVTyQx_dXzOUSb3kTfy5uiVeZadiZhm_FA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODgtMTY1MjcyNTEx/Mi03NDk0LmpwZWc.jpeg" alt="Cover for Walks" style="max-width:120px; height:auto;" />
       </td>
@@ -225,29 +229,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/PUOVoHnAdTmm3OqmWkvkV2KENIPYnI4lGmNRSxXYVQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgz/NTMtMTYwMjMzOTIx/Mi05NTI2LmpwZWc.jpeg" alt="Cover for A Dutch Feast: The Complete Works" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>B.G.K.</td>
-      <td>A Dutch Feast: The Complete Works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/XvUgmYU0aZC2gZRNBkHHTwBzljOXcyLKVdzsGLD1AFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDgz/NDQtMTI5NjU4MTU3/NC5qcGVn.jpeg" alt="Cover for A Day In The Land Of Lost Horizons" style="max-width:120px; height:auto;" />
       </td>
@@ -282,14 +264,15 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 38</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 40</li>
             <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be6bed804be64d40a10d3401d426f96f.png" alt="Cover for Sedalia" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Tol &amp; Tol</td>
@@ -325,13 +308,13 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 68</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 66</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/opc5tysf9i98m8sXAYg0eEZkX4M56uwNbCiovmv5J8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc4/LTEyNDY3MDg0NDUu/anBlZw.jpeg" alt="Cover for Poing" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +333,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/aXiKM5DgcHuRuzHnMsMicrNxbE4HjE8NrWKuKMJ-h8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY2/LTEyMjMzNjI3MDEu/anBlZw.jpeg" alt="Cover for No Woman allowed" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +351,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/m2ADWRG3Lh6IbvYRyENkvJBQ25PMmfVmeKtlKoCOP1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQx/MzUtMTMwNDA5ODM1/NC5qcGVn.jpeg" alt="Cover for Human Atrocity" style="max-width:120px; height:auto;" />
       </td>
@@ -407,8 +390,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/147d0fea894ecee5425785fb0f7cb605.png" alt="Cover for Nine Circles" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Nine Circles</td>
@@ -426,7 +410,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/DZJyCEkCVjre-oskcsN4L8ApuY1XKBy-ujOyb5GS9WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYz/OTgtMTU4MzYyOTE0/Ny0xNDI3LmpwZWc.jpeg" alt="Cover for 50 The Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +430,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ymzHs9B1YkhSQ-xccuOCIIgIunQ0LD08DljtaIkpVnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkz/MDAtMTMyNjU4MjA5/OC5qcGVn.jpeg" alt="Cover for Qué Mas" style="max-width:120px; height:auto;" />
       </td>
@@ -466,7 +450,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ao8XvAm9iooHlU-mn3PiFohOM39nxMag9DHHd5-q7_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTIz/MjYtMTYxNzYzMjYx/My0zODc2LmpwZWc.jpeg" alt="Cover for Tserko" style="max-width:120px; height:auto;" />
       </td>
@@ -488,9 +472,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/QBhfXmkqfLxt8LhEiYel1d_J-hDt3KLHynkQHYuB7XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQ0/NS0xMzc3OTg3MDc5/LTQyNjIuanBlZw.jpeg" alt="Cover for A Dutch Feast... the Complete Works of Balthasar Gerards Kommando" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d947a91297708fa88cbe4217fd8277ac.png" alt="Cover for A Dutch Feast... the Complete Works of Balthasar Gerards Kommando" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-10</td>
       <td>B.G.K.</td>
@@ -510,7 +494,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/iBBQh77OCEOMfsB-E_-M8NH-ozG8XSIikDxPA2Od24M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTU3/MzItMTYxODgyNDMy/Ny05ODg5LmpwZWc.jpeg" alt="Cover for Kurk" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +515,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/O7Wk035rzZ3n3qCsSrxatkkfKSQRMazCFaT6XvvgzLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA5/NTEyLTE2MzAwNDcz/OTYtNDQ1Ni5qcGVn.jpeg" alt="Cover for Dusra" style="max-width:120px; height:auto;" />
       </td>
@@ -553,8 +537,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc0c7e35e1e2d0e239f9c81a24a71299.png" alt="Cover for Running Up That Hill" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Within Temptation</td>
@@ -575,7 +560,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2003</td>
@@ -591,7 +576,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2003</td>
@@ -607,7 +592,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2003-11-03</td>
@@ -625,7 +610,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/mqZ-fet9lxg2dl02QyxmnkAUvHfMEuVGLfToUZJtUy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDM0/Mi0xMTI5NjQ3NTI3/LmpwZWc.jpeg" alt="Cover for Escape To Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +630,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2004</td>
@@ -664,7 +649,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/o38cKPsiBvsozAld6CodtZ9jsT4R_aDUtp6mG9h6V64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTMy/NDEtMTM1NTY3MTIz/Ny05NDcxLmpwZWc.jpeg" alt="Cover for Black Scenery Avatar" style="max-width:120px; height:auto;" />
       </td>
@@ -706,7 +691,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/18j_0M56Nl_Jo5dnENhNvsKqq7NxUlPmu8dmLBhjYDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTY2/OS0xMTk1NjUyODY3/LmpwZWc.jpeg" alt="Cover for Whaa !" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +729,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/VKg-t61B0BYW_3igxMgN1lNdUWFbqyPRIvL22xuxzbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg3/ODA1LTE1NTkwNDU2/OTEtMjUxNy5wbmc.jpeg" alt="Cover for Bathtub" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +750,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/dBhI2OJqZKwnblIrkRq88jMpcNGXxSG-dgOY5WQQhbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzI5/MDItMTM2NDc0MjAz/Mi03Nzk1LmpwZWc.jpeg" alt="Cover for 2007 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -790,7 +775,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/6BGdPv9ZGAgVDnD4xiS04S0pgCQ42A3ofyAysSqO9uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM5/NzUtMTI2MTUxMzM4/MS5qcGVn.jpeg" alt="Cover for issei sagawa" style="max-width:120px; height:auto;" />
       </td>
@@ -810,7 +795,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/EvMJujghduCt_v-e-mikjxvMz2A4ffshdJDCp4eJqSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE4/OTctMTQ3ODYxMjc5/Ny0yODkyLmpwZWc.jpeg" alt="Cover for Holy Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -828,7 +813,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/uuTWfwvOjAmjb1weJyI7WsugUjrrL622akB2mSd-RmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM5/NDItMTI0NzMwODM5/NC5qcGVn.jpeg" alt="Cover for Deathdrone 3" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +833,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/-I3Z3AQw69XHSsQ7EsmO09fIvC5HuaYBfBfhAMCb72Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYz/NTMtMTIwNDE5NjAw/Ny5qcGVn.jpeg" alt="Cover for Dawn Breaks Open Like A Wound That Bleeds Afresh" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +853,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/WsPw7MwnWVOBwPHCnigVZUQiTJSI7DWzrwfeL1A6hHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/NTYtMTIwNzc1NDA5/Mi5qcGVn.jpeg" alt="Cover for ...Prefering Human Skin Over Animal Fur..." style="max-width:120px; height:auto;" />
       </td>
@@ -888,7 +873,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/5u9BtVc3bVT9w0fqcSkzhPhvmxo4IOQbS-3gFNlE2Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/OTMyLTE1ODUzMzMz/NjQtODk4My5qcGVn.jpeg" alt="Cover for Of A Hermaphroditic Enema &amp; an Urophilic Pissparty Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -935,7 +920,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Ur19j3iM9J5I0hJ7twpYUxfkLzkqywg81ln4M6LAQ6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ2/OTItMTIwMTk1MjI1/NS5wbmc.jpeg" alt="Cover for AvoidAudio promotion tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +944,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/brH1v19_2y-h_k72LKF9zpYa4MlS_xEs3RytJSGNgJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI3/NDktMTI2NDE1OTcy/NS5qcGVn.jpeg" alt="Cover for More Late Night Transmissions With..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edbf2062a0cf46aec6fadabe06768006.png" alt="Cover for More Late Night Transmissions With..." style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-16</td>
       <td>Jaya the Cat</td>
@@ -977,7 +962,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2008</td>
@@ -996,7 +981,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-03-21</td>
@@ -1015,7 +1000,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/1t4rQzI4H4tjRPo6PFkJiAKqu0GLFFQyHvbDPJlEQOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTg1/MTEtMTMwNzI3OTcz/NC5qcGVn.jpeg" alt="Cover for Mei Ti Sera Foun" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1022,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2008-07-24</td>
@@ -1075,7 +1060,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/dCbgYoQOYDWddKbVmPePos6TggKg03kY47SyR4T84Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ4/NjYtMTQzMDY4MjIx/NC02MTE3LmpwZWc.jpeg" alt="Cover for Finite Horizon &#x2F; Crevice" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,9 +1078,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/mJ9daaExk_EndRQA6T0s4fWJn2Md1nI57XJBP3B52Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjU0/NDAtMTI2MTg3MDg3/NS5qcGVn.jpeg" alt="Cover for H.S.T.A." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1cbde7b96da474c93aadfb4dc6249df.png" alt="Cover for H.S.T.A." style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Das Ding</td>
@@ -1113,7 +1098,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/8SgFJMc0ScPfe3DFBWNw8TxweuOS4Zntw0QGDs7zAbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQw/NjEtMTI3MjU1MTk3/Ni5qcGVn.jpeg" alt="Cover for Piani EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,9 +1116,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/UQARYQpnewJblvAC3WG2Ki9dnpncE-Fi5Kz8p6W_1KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY1/MTQtMTIzNTU3OTA0/OC5qcGVn.jpeg" alt="Cover for Hiatus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a7d85178d496450da7123513fea0d13.png" alt="Cover for Hiatus" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-27</td>
       <td>Kismet</td>
@@ -1151,7 +1136,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2009-05</td>
@@ -1167,9 +1152,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/oMk3DbxMhCWDnNxkvGLr69qafXxlmqM3wGIic88UCE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUz/NDYtMTI1NDgzMTMy/OS5qcGVn.jpeg" alt="Cover for Have Courage Funny Thing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04ef94e6c61252e71625878a107b8c9b.png" alt="Cover for Have Courage Funny Thing" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-03</td>
       <td>Julien Mier</td>
@@ -1192,7 +1177,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/dMbkrEf4pB_TZ0h-790G0HXGD3XhTvO9_zQWepi3-u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM3/NzIxLTE2NDY3Njcz/MjMtOTc4NS5qcGVn.jpeg" alt="Cover for Dyodyo Asema" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1197,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2010</td>
@@ -1233,7 +1218,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/eg2kSvDr0CDhH1c4YfPiHMFC6BP7-sXoLnx6RDMrb0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYy/NjUtMTQ4NDc2NjY2/Ni02MDU5LmpwZWc.jpeg" alt="Cover for Lunacy Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1237,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/UZ-oU3j9DiAHwyn2-XMFBikz0-vKrrJHh4ymKpLagnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTc1/MjAtMTQ2NzI0NjUy/OC02NTcyLmpwZWc.jpeg" alt="Cover for Uit Liefde" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1255,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2010-02</td>
@@ -1292,9 +1277,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/jgkJEqI4x9KAFZMcFN9MzIoWFKXtlsikjmhnpn8k6lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgw/MjYtMTMzMDM3NjQw/OC5qcGVn.jpeg" alt="Cover for Songs To Forget" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45971354388c877dcb08477f392b647d.png" alt="Cover for Songs To Forget" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-23</td>
       <td>Fourteen Twentysix</td>
@@ -1318,7 +1303,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/jgkJEqI4x9KAFZMcFN9MzIoWFKXtlsikjmhnpn8k6lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgw/MjYtMTMzMDM3NjQw/OC5qcGVn.jpeg" alt="Cover for Lighttown Closure" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1321,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2010-04-27</td>
@@ -1404,14 +1389,14 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 67</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 75</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 85</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2011-05-01</td>
@@ -1466,7 +1451,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/NDwDnmtojbOpSRko5tXPjvllQtH0kgnc_WlY8-diPys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIx/MjgtMTI2OTU0MzAy/OS5qcGVn.jpeg" alt="Cover for LM6iX" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,8 +1470,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04f7d8d5c3484145a1f203428c26ea4c.png" alt="Cover for The Damned and Dirty" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-01</td>
       <td>The Damned and Dirty</td>
@@ -1503,9 +1489,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 6</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 4</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 16</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 42</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1536,14 +1522,15 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 23</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 82</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 80</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd1ba506bef2486f9120bc743e290ddc.png" alt="Cover for Ik Zal Er Zijn" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-27</td>
       <td>Sela</td>
@@ -1563,9 +1550,8 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>10</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3173479bfea20e91cc282fb5b6b291ba.png" alt="Cover for Boca do Inferno" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-23</td>
       <td>Ditch</td>
@@ -1580,7 +1566,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/HqMVCAod7xE_T6P0hQNXvNOPKIFJbURSHHIzDi267co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTYz/MDEtMTYyNjI4ODY0/OC00ODQ0LmpwZWc.jpeg" alt="Cover for Sprakeloos" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1585,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2014-01-22</td>
@@ -1617,7 +1603,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2014-11-01</td>
@@ -1633,14 +1619,14 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/rQrhT7np-vKY7PNQ6kw291njBb3Hkkf37KQqWhyskEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDM5/NzgtMTQyNDk3NDky/OS03NDAyLmpwZWc.jpeg" alt="Cover for Cycles of Disappointment" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58f2767c0b7e4420c4bcc7d8cecd7385.png" alt="Cover for Cycles of Disappointment" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-03</td>
       <td>Second Guessing</td>
@@ -1662,7 +1648,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/fQN9qaJrdJTSRBPmh6pRNnEvOFifE5O4DylRA4AKciA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTcz/NzMtMTQzNzMzMzA2/Mi02OTEzLmpwZWc.jpeg" alt="Cover for Somebody" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e5322d3d960c6a6150195f425b46e19.png" alt="Cover for Somebody" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Natalie La Rose</td>
@@ -1679,9 +1665,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/NEdUxUtq8AhwRdgr3d0NomvLgxTnCS-X9sESMzeQ-T4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDc5/MzYtMTQ0NzE1ODcz/My04NTE2LmpwZWc.jpeg" alt="Cover for Woudloper" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5df9a2fdb7086671cdd02c67c79d058f.png" alt="Cover for Woudloper" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-01</td>
       <td>Woudloper</td>
@@ -1704,7 +1690,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/yOyd_V8Ui6-4a6-4GuhWr1kYfjGloSg2FY4i3HFf9DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDcw/NjctMTM1NTQ1NTQ5/OC0zNzMyLmpwZWc.jpeg" alt="Cover for Constructing Enochian Temples" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1730,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/O0WCxS1r9bk75ekAUGeN65YGYaDqRaX6-2udTvqiJ8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTA4/MzAtMTQ2Mzg3MTEz/OS0xNDg2LmpwZWc.jpeg" alt="Cover for vision simulation" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1769,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/J1UZ_8nYwWZDP5uK_v-gZIwqXclFJw3m-F-32XXKCsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzUw/MTAtMTQ4MjI2MTY2/My04MjY4LmpwZWc.jpeg" alt="Cover for Hymns for the Broken, Swollen And Silent" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1786,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Xk2reExowCL0Zp53vcJ8U5d9t_jilaq88YCFQuSWQZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjQx/NzktMTUwNTM1OTAx/Ni0xMjY2LmpwZWc.jpeg" alt="Cover for Aristocracy of Twilight" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1810,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/vWrXJQI4HtRYNudIeWqcrYkRqHHOlgUn4EuGYGVbV2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDU3/MDctMTQ4OTAwNTg4/OS05NjAxLnBuZw.jpeg" alt="Cover for Dragonball Wave II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53f413526e2990736cde67d50b94b154.png" alt="Cover for Dragonball Wave II" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-22</td>
       <td>Maitro</td>
@@ -1843,7 +1829,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Fy1PsL6kZ0YY5yEQWqbsQ1x1PxUG_eWPjjSq5JfBIDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM1/MDQ2LTE0OTU1Mjk4/NDAtNjY0My5qcGVn.jpeg" alt="Cover for Rays of Brilliance" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,9 +1869,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/UuCipY1BggQlNQrVxHC0xdUesr8QsOc1HW02z7DJJJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA4/NzIwLTE1NDQzMDE1/NjctNTA3Ni5qcGVn.jpeg" alt="Cover for Verlies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82cffd3565c5c61de4d4e9807e0711e9.png" alt="Cover for Verlies" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Nachtvorst</td>
@@ -1931,7 +1917,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/JOZ0UUUzRFjw0O3ztL4gY8JfXpdJrZ_KAFgCE0hJngY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc0/NzE2LTE1NTQ5MDg0/NzMtNzQ2My5qcGVn.jpeg" alt="Cover for An eternity of suffering, an eternity of pain" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1936,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/ZMQINANAjMrP0S9tOcRtcxiycO14jtxS7nHb38ZU9GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ3/MDQ3LTE1ODcyOTMx/MzctMzkwNC5qcGVn.jpeg" alt="Cover for Stoff und Schnaps" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f23ca5f5116715e8830c54a3968dcb3.png" alt="Cover for Stoff und Schnaps" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-03</td>
       <td>Lil&#39; Kleine</td>
@@ -1973,7 +1959,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ZMQINANAjMrP0S9tOcRtcxiycO14jtxS7nHb38ZU9GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ3/MDQ3LTE1ODcyOTMx/MzctMzkwNC5qcGVn.jpeg" alt="Cover for Jongen Van De Straat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8c6670c1d8a3532d23b9f5ff3aca061.png" alt="Cover for Jongen Van De Straat" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-03</td>
       <td>Lil Kleine</td>
@@ -1992,9 +1978,8 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/ZMQINANAjMrP0S9tOcRtcxiycO14jtxS7nHb38ZU9GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ3/MDQ3LTE1ODcyOTMx/MzctMzkwNC5qcGVn.jpeg" alt="Cover for 1, 2, 3 (Auf Deutsch!)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-03</td>
       <td>Lil&#39; Kleine</td>
@@ -2026,7 +2011,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/Xkk7OvaTj0Je9ZFYzwv4Fpr6MOuJLX3XnhcHlxFJnCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgz/OTQxLTE2Mzk3NTI1/MTktODQ1OS5qcGVn.jpeg" alt="Cover for Voor Ajax" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,7 +2031,25 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e25217fd812c5b6597845af2c880dc69.png" alt="Cover for Aşk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-03-31</td>
+      <td>Altin Gün</td>
+      <td>Aşk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/QZYruQXDhsjDLsrPR2eTblCWfp25P65WjDLGtqrIwmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTc0/NDMtMTQ2NjA1Mjg0/MC01NTk4LmpwZWc.jpeg" alt="Cover for Rewind Reverse" style="max-width:120px; height:auto;" />
       </td>
@@ -2065,7 +2068,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2085,7 +2088,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
