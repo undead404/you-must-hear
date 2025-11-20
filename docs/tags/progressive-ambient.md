@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:50:12.580Z
+date: 2025-11-20T06:13:57.047Z
 permalink: tags/progressive-ambient
 title: progressive ambient
 ---
 
 ## progressive ambient
 
-Last updated: <time datetime="2025-10-22T00:50:12.580Z">Wed Oct 22 2025 03:50:12 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-20T06:13:57.047Z">Thu Nov 20 2025 08:13:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/rWkwR25a_TL9pP84b04AlwOcF1xa9IT6Bn8ekemgtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/ODMtMTUzNzUzNzgz/Ni0xMjE1LmpwZWc.jpeg" alt="Cover for Quiet Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -48,9 +48,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/rWkwR25a_TL9pP84b04AlwOcF1xa9IT6Bn8ekemgtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/ODMtMTUzNzUzNzgz/Ni0xMjE1LmpwZWc.jpeg" alt="Cover for Pier &amp; Loft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b30261d7b2479a62e3493f30b4ddde32.png" alt="Cover for Pier &amp; Loft" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Hiroshi Yoshimura</td>
@@ -68,29 +68,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>19</td>
       <td>
-      </td>
-      <td>1986</td>
-      <td>Hiroshi Yoshimura</td>
-      <td>Green</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/nhIM_HZkv1BdQq9Gc2008ybTHGh-ckwGm9G_VCi9Hto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTQ2/MS0xMTYwNjA0ODAx/LmpwZWc.jpeg" alt="Cover for Five Days" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdac01350ced4753da7a9bf450d8b7e4.png" alt="Cover for Five Days" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>The Legendary Pink Dots</td>
@@ -110,8 +90,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5554c8ded11ebda557e251c8feb623b.png" alt="Cover for Angels Embrace" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Jon Anderson</td>
@@ -129,9 +110,26 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/eX1gbHRr7pw7roofVxkzHN94M4HucZqAP82KOGfo9XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzIw/OC0xMjcwODg2MDYz/LmpwZWc.jpeg" alt="Cover for Between Green and Blue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>A Produce</td>
+      <td>Inscape &amp; Landscape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/345cb7961fe87f7dad0f9257b19d8528.png" alt="Cover for Between Green and Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>David Helpling</td>
@@ -147,7 +145,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/aG76eB2xIhOz-VFt4q-IitJf-qo2MnA4N2b2Ympjcmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjEtMTM5MjY5OTE0/Ni04NzUwLmpwZWc.jpeg" alt="Cover for Upon a Midnight Clear" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +163,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Gc8BYPEY6z082tmgOuTJQbHYqJyf3EsgS_HQEtO5_MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE2/MC0xMzEwOTE0OTQ4/LmpwZWc.jpeg" alt="Cover for Alphawavez" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +181,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1998</td>
@@ -200,7 +198,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/JD0XXIZVycZ7gP7r0TDiV-WDuI3bdlCAEZkkxwJPO_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/MS0xNjI2MTU3NjA0/LTEyMzMuanBlZw.jpeg" alt="Cover for Classic and Unreleased Works 1995" style="max-width:120px; height:auto;" />
       </td>
@@ -218,9 +216,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/89nGmRFDaWU8fwSis3AM77fYNH_0UzUooCpW4RozJV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODAz/MS0xMjg5MzUxMjY0/LmpwZWc.jpeg" alt="Cover for Vibrant Water" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf0f874eb89030bffb835ad966630393.png" alt="Cover for Vibrant Water" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Thom Brennan</td>
@@ -237,7 +235,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/2iL9onIJF82VlunrjfRWXlEr5gnSe4CGJIIO9aFAmHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzYx/LTE2NzE4MDUxNTEt/OTYxMC5qcGVn.jpeg" alt="Cover for Skintone Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -255,7 +253,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/1N8iHUxH6plv6_MWAXYPqebTEEq3uyQr6l5we7oEsgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkx/OTU3LTE1NzY4MDUy/NTQtODY0NS5qcGVn.jpeg" alt="Cover for Cloud Hidden" style="max-width:120px; height:auto;" />
       </td>
@@ -273,7 +271,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/fJFNo73EsPYHV5V3OP0LxPOiZewvpo0_4QR7JYKKB68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODU5/My0xMTIyODk3Mzgw/LmpwZw.jpeg" alt="Cover for Fiction And Fires EP" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +289,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004</td>
@@ -310,7 +308,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2004-03</td>
@@ -327,8 +325,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1012736255e231be1d4a1d92ff1d1d94.png" alt="Cover for Autumn&#39;s Apple" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12</td>
       <td>Darshan Ambient</td>
@@ -346,7 +345,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>2005</td>
@@ -363,7 +362,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/VnRphhjL57Z95ZPizsnMleQXpGMx7eebKQPjCsD_Jlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzE0/NzUtMTI1MzI3ODA4/NS5qcGVn.jpeg" alt="Cover for Moderato" style="max-width:120px; height:auto;" />
       </td>
@@ -384,7 +383,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2005-10-31</td>
@@ -401,8 +400,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0609e53b1b884f5faf63ff21fa0707c2.png" alt="Cover for Infinite garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-13</td>
       <td>Elve</td>
@@ -417,12 +417,12 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2006-03-22</td>
@@ -440,7 +440,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2006-10-23</td>
@@ -457,7 +457,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/5uJeTvg35mnflmPJRjmuN_gMbMqgtNQ49ea-FqUS5ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NzAtMTI5Nzk2ODc5/Mi5qcGVn.jpeg" alt="Cover for Apollo: Atmospheres &amp; Soundtracks (with Daniel Lanois &amp; Roger Eno)" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +475,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/EOS3r1o7dopix6k-7WeGAeduCAzNk8xxoj2H6OBeeek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/NDgtMTIyMDM3ODAx/MS5qcGVn.jpeg" alt="Cover for Amorphous Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -496,7 +496,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/i58brdyEM71TsU2sWPXX3aAUAjeEztfF7kQ3ktFVBPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ0/NTktMTE5Mzk5NTQ0/NC5qcGVn.jpeg" alt="Cover for addSensor009_Medicamentosa" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +516,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Fd5RCh6MlGmAzFIZ7fpON8InCnSlIOsl0qLjUH9qRWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk3/NTYtMTU0NzczMTgx/Ny03MzU0LmpwZWc.jpeg" alt="Cover for Thermals: Sonic-Carousels, Tonesheets, Loopstrata, And Slo-Wave Microsymphonies 1993-2000" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +533,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/-oj5qZhS9XJaLoCoLguxKt5XZLU1BMu4RCC_-mldGPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/ODUtMTIxOTE4MjY2/Ni5qcGVn.jpeg" alt="Cover for Timelapse In Mercury" style="max-width:120px; height:auto;" />
       </td>
@@ -551,13 +551,13 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 69</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 52</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
       </td>
       <td>2008-11-07</td>
@@ -575,8 +575,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc0e0e371c2672522ae29cfb93ffccb5.png" alt="Cover for Thousand Star" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Jonn Serrie</td>
@@ -593,9 +594,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8cc45d17eb5f99d161c2815c85203a.png" alt="Cover for Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -610,7 +611,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2009-02-16</td>
@@ -627,7 +628,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/DWQRU8mFA1PdeSrq6fAlPFbjnQL8tjs8eLdKeI0pwc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEz/ODc5LTE2MTExMzgz/ODYtNjkzNC5qcGVn.jpeg" alt="Cover for Behind Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +646,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/w5-BrNniOpi-9uO1fswmvcTq3Uev8R6tHnsPv3BRXUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM1/NDkzLTE1NjAwMjQ2/MjctMjE1Ny5qcGVn.jpeg" alt="Cover for I Am A Man Who Will Fight For Your Honor" style="max-width:120px; height:auto;" />
       </td>
@@ -663,8 +664,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/649778dd22f3491fb055eea57a2689be.png" alt="Cover for Autumn Reflections" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-21</td>
       <td>Orange Crush</td>
@@ -684,7 +686,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/q4iyifjWL_oK6HbGfI2wJsZRmqp2Wk6GBAElEly2zbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA5/MDgtMTIzOTEyMTEw/My5qcGVn.jpeg" alt="Cover for The Jaguar EP" style="max-width:120px; height:auto;" />
       </td>
@@ -702,8 +704,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/caf180e4ae7748db9f0005efd41e86a0.png" alt="Cover for Triosphere" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-03</td>
       <td>Project Divinity</td>
@@ -727,13 +730,13 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 38</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 39</li>
             <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/4-J1QkmrU3_rwjv5ViDVDP64gHBatbPmHBOnlPk_0sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzgy/MTAtMTI0OTYzMzM0/NC5qcGVn.jpeg" alt="Cover for Darkness And The Light" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +754,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2009-12-04</td>
@@ -768,7 +771,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/c08IA8EBBCe7YFy5nJOFgqEnHvxxs9M94-aNRNqtcnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA2/MDMtMTI2MzQ1MTQx/My5qcGVn.jpeg" alt="Cover for Colonial Spa EP" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +789,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/oqCQ6zoA-e2tgJ80_93UXHRyD9EGVJQ3AEgu1NMhxhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjEx/ODMtMTI3Njc2ODc1/OC5qcGVn.jpeg" alt="Cover for [escala 1:6] Last Membrane" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +807,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/kSdR4moidfdP6zUmQcSa40lD-b11udhCIFn0-SXXkOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODY4/ODItMTI4Mzc5NDg1/NC5qcGVn.jpeg" alt="Cover for Emerald" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +825,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2010-10-04</td>
@@ -839,7 +842,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/saNNq95RIJGZXJaf9Hr_4dux9tnvc2ddk-nDGxFoKDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEy/ODUtMTI5MDEwNDA5/Mi5qcGVn.jpeg" alt="Cover for Ambient Pieces Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -857,7 +860,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/zQokh-J_0EIzUOLnOgD6wMn_ThHwZq1ST6l_ovvWwOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTk3/OTAtMTQxMDgzMDg2/NC0yNTQwLmpwZWc.jpeg" alt="Cover for Tunguska Chillout Grooves Vol. 7" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +879,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/V_nsyOt92VH7bujmW1OEV9_t9zic5QYb1SjPebQuCPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODky/OTU2LTE2NTc4OTQ1/MzEtNjg1Mi5qcGVn.jpeg" alt="Cover for AUSTRAL" style="max-width:120px; height:auto;" />
       </td>
@@ -896,7 +899,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/zQokh-J_0EIzUOLnOgD6wMn_ThHwZq1ST6l_ovvWwOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTk3/OTAtMTQxMDgzMDg2/NC0yNTQwLmpwZWc.jpeg" alt="Cover for Tunguska Chillout Grooves vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +917,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/9Jk48RBqHjlEj8GqqvBxV8j57CHUh5lE3V4twpPvhOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/NTUtMTQ4MzA2OTQx/MS0yOTM4LmpwZWc.jpeg" alt="Cover for Zeus &amp; Apollo" style="max-width:120px; height:auto;" />
       </td>
@@ -935,9 +938,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/rPyMHCc1Y2uJHJ2-Q7OGPFnht9OSkeU76wG1FRD9ACo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTkw/NTctMTMwOTE4NjYz/Ny5qcGVn.jpeg" alt="Cover for Dream Catcher" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84b23cbaccd2680e540529aa68e60757.png" alt="Cover for Dream Catcher" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-21</td>
       <td>Waterplea</td>
@@ -955,7 +958,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/HKAqU1dguqYbedTFqfVDM9ctNzNg9NqHBf2bypGqgoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE4/NDMtMTMxMDMyNDMx/OC5qcGVn.jpeg" alt="Cover for Headwind &#x2F; Tailwind - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -973,9 +976,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/gMkDBH70JxMpDM3XoU1n5FzIP0FEJeE-KbWCdtef9ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkz/NzEtMTMzMTIxMDkw/Ny5qcGVn.jpeg" alt="Cover for Not Alone In Kyoto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1afb5aa00ede27f5883e058296fe0ae6.png" alt="Cover for Not Alone In Kyoto" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-03</td>
       <td>Project Divinity</td>
@@ -995,13 +998,13 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 13</li>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 39</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 14</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/MrqlXfLKim6SJb39jRww_Crqk0sTNaWc9Xsacq1MnjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQ3/NTUtMTMzNDY3MzQx/Ni5qcGVn.jpeg" alt="Cover for Synthetic Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1022,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/derSKV-Hb1w6YevnwQKB2zGgl8kV60f2uodu5pCFfC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/MTcxLTE2NDM0MTkw/MTMtNDU0My5qcGVn.jpeg" alt="Cover for Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,8 +1039,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10e92fc1a105e2e006f8e308799f0588.png" alt="Cover for Undercover Vampire Policeman" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-27</td>
       <td>Chris Zabriskie</td>
@@ -1053,7 +1057,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/U_F_IF6y5GWoYUaDBZlMkpajt3ARN0AcOYgnjxUlf7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDk2/MDAtMTMzMDgyMDIz/Mi5qcGVn.jpeg" alt="Cover for Deep Space Objects" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,12 +1072,12 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 15</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2012-06-17</td>
@@ -1090,8 +1094,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/698c6b46bea6947445d61a6cecf4cbb3.png" alt="Cover for Laterna Magica" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-04</td>
       <td>Slow Dancing Society</td>
@@ -1109,7 +1114,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2013</td>
@@ -1126,7 +1131,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/BMBJnLuqR3_I1r-9gd29wo8xGli-g0Et9mjiNaj8c9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM3/OTc1LTE3MTUzMTI5/MjQtNjI3NS5qcGVn.jpeg" alt="Cover for In Blackout Cities" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1149,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/MDMxf2cSioCyITkhE4OjLJQH6wTgwJO4WoiTWEuz5q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/Nzg1LTE1NzA5NTE0/MjEtNTg1OC5qcGVn.jpeg" alt="Cover for Natural Born Chillers" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1167,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/gWCbDYoGQlVXf4vRn5Cn81WNPN5WrCzdxLb1-WsY5Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzUy/ODMtMTQ0MTQ2NDEz/MS05Mjg2LmpwZWc.jpeg" alt="Cover for Ambient Network III" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,7 +1185,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/eESRdd-vyvtkaZAkEgS-z0oqPyvpUB6-6Qw_ZYCq92E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzgyLTE1MzQ5Nzcw/MTEtODc0Ni5qcGVn.jpeg" alt="Cover for Anomaly (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,9 +1203,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/_MNfcMSVEfEOIDWus4jvTeSD-2pGbQvlQJTFsbCPhBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NjUxLTE1ODI3Nzg2/NDUtMTcyNy5qcGVn.jpeg" alt="Cover for Four Post Cards" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/774a1573f16c53b3045d07ba2c74c749.png" alt="Cover for Four Post Cards" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Hiroshi Yoshimura</td>
@@ -1219,7 +1224,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/0FECp4iBrnabwC2OP2cAxw-acPUgQ-TVVF82xLuCowg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTY2/MS0xNTkxMDE1NzMx/LTk2OTkuanBlZw.jpeg" alt="Cover for A・I・R (Air In Resort)" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1243,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/2ntbzcVw5O-VBIp3_VvTqyWwrD2SF5lcx_GTmtFqtGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDk5/MzgtMTQ1OTg3OTQ0/OS05ODc4LmpwZWc.jpeg" alt="Cover for Sunflower" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,9 +1262,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/2oxob74vkcAOKmbcxE8yYWrwVRunQrd6VaDwD5hSZGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjcw/NTgtMTQ1OTQzMDIy/NS02OTQ5LmpwZWc.jpeg" alt="Cover for The Ocean Palace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/139eacd19a14526593a6fa3ac088c16c.png" alt="Cover for The Ocean Palace" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-31</td>
       <td>One Arc Degree</td>
@@ -1276,7 +1281,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/UT3ZWFsXZr9BSFlJOvKjI4aBY4q6lRs2q98ipFWPTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY3/NjMzLTE1MTExMDc1/NTUtNTE4Ny5qcGVn.jpeg" alt="Cover for The Wagers of Love and Their Songs from the Witching Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1299,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/MaBjdo-_iColJ5hdSzEtFVtnty9flgDX_lRDpFzUhTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjI5/MjMtMTQ4MDI5NzU4/MS03Mjk0LmpwZWc.jpeg" alt="Cover for Stars and Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1317,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/pD2dZfzOiTET59OCY7ub0ewxC5pC3akexjhpwU_evVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzA5LTE1MzQ5NzU0/MTAtODg5Mi5qcGVn.jpeg" alt="Cover for Score: A Film Music Documentary (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1335,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for Fool" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1353,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1371,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for Fable" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,9 +1389,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for LUX" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ce1c677f2d24b368dc2826d442170c2.png" alt="Cover for LUX" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-04</td>
       <td>Ryan Taubert</td>
@@ -1402,7 +1407,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/B3N5jzy2A-fn6uxP7CFDvwS8XmhYotR9BN48Ivdd2ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYy/NDcyLTE1MjU1NjI5/NDUtNzMwNS5qcGVn.jpeg" alt="Cover for Climbing Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,9 +1425,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/B3N5jzy2A-fn6uxP7CFDvwS8XmhYotR9BN48Ivdd2ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYy/NDcyLTE1MjU1NjI5/NDUtNzMwNS5qcGVn.jpeg" alt="Cover for Sharing Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9f63d04de8d7c1d2af770d9d3ed3857.png" alt="Cover for Sharing Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Cool Maritime</td>
@@ -1440,7 +1445,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/M3hmbLf7oGiw7yCwrd5PMGKPZ6def3FQ0XKFsumHcQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk3/MzI1LTE1MzgzMTM0/MTEtNjUwMC5qcGVn.jpeg" alt="Cover for Year Of The Dragon" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,9 +1464,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/DMydDznLF0UDY6rdiwPBAvCjF4M--5pSIy7x7f-kBqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzg3/NTctMTYyOTAzMTQ5/MC0yMzgxLmpwZWc.jpeg" alt="Cover for Soft Wave for Automatic Music Box" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f488549d0916db66fa35ddc731f71cdf.png" alt="Cover for Soft Wave for Automatic Music Box" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Hiroshi Yoshimura</td>
@@ -1479,9 +1484,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/hRo1pfXSsUJyiV7XDVLzIvMym34MAXIumMJOcILscug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkw/MDE3LTE1NjMzOTY1/NTUtNzg1Ni5qcGVn.jpeg" alt="Cover for Forgotten Works" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82301f3919ff766adf2bfa77e422e22.png" alt="Cover for Forgotten Works" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-12</td>
       <td>øjeRum</td>
@@ -1510,15 +1515,16 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 2</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 10</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 39</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/pMOs5lF6glMSUdjrOZSrxlkn9oJOdOZwRL6y-fSgUww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY2/Njk2LTE2MzAwNzU4/NjQtMjM0NC5qcGVn.jpeg" alt="Cover for Selected Organ Works" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ce55610c6082a6bab9351bc8510cb1.png" alt="Cover for Selected Organ Works" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-12</td>
       <td>øjeRum</td>
@@ -1547,14 +1553,14 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 29</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 49</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 30</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/j9eDoPzGyn9hepsyGhFGI-vVxATPKyj15Bp96QFZ0bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjIx/Mjg1LTE2MTIyNTg1/MjMtNjE2My5qcGVn.jpeg" alt="Cover for IV. Ballads for the Boudoir" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1578,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/sBaFpOeacwXyqHM94E8No0yC8GMhi-d8aWMwFtByXGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/Njg1LTE1ODIwOTE1/NDMtOTgyMS5qcGVn.jpeg" alt="Cover for Albedo" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1597,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/sC8RxQz_s2Kpyx-af-qdrAu1MSbeqiYGDUGc8wc76Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjE5LTE0OTc1NjU0/ODUtMjYzNi5qcGVn.jpeg" alt="Cover for he remembers there were gardens" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,12 +1629,12 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 4</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 35</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg" alt="Cover for Garland" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1652,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg" alt="Cover for Failing Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,9 +1670,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/-RgTvNTaPBOsPTxMK6VGrQlrZfEfnMc5uGwrJIvaXDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEw/NzY3LTE1OTYzNzQx/NzAtMjcwNy5qcGVn.jpeg" alt="Cover for Selected Percussive Works 1998 - 2001 Vol. I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80c8348e75a81040cac1ccb4b448a5f8.png" alt="Cover for Selected Percussive Works 1998 - 2001 Vol. I" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-03</td>
       <td>øjeRum</td>
@@ -1695,12 +1701,12 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/15FFsBxuuP8JjD-vK2CWd39GvGTVU0zgS3YmloXDgm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzg4/MTc0LTE2Mzk3NzI5/NDktODUzMy5qcGVn.jpeg" alt="Cover for Inert" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1724,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/gLsgknl1HBMf4M5oyEVwZmP9G-D18PgYwml-UTghGU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE2/MDYzLTE2Nzg4MTIz/NTUtNzczNS5qcGVn.jpeg" alt="Cover for MonoLogs" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1742,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/lZ2BJZKcpAeCqpfFDsGpDMRUz0nghDc3OwyRpAVIqRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY4/MDQzLTE1ODg5NDU5/MDYtNDEzMS5qcGVn.jpeg" alt="Cover for Fraværsminder" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,12 +1773,12 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 29</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/8nju0D145I4hIInNhph10IDzdASrVqb9GneNa7BvokI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjkz/MDcyLTE2NjEyODUy/MTktOTQyNy5qcGVn.jpeg" alt="Cover for Sonic Incense, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,12 +1791,12 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 74</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1807,7 +1813,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1825,7 +1831,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -1844,7 +1850,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -1866,7 +1872,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -1883,7 +1889,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td></td>
@@ -1900,7 +1906,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -1917,7 +1923,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td></td>
@@ -1934,7 +1940,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
@@ -1951,7 +1957,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
       </td>
       <td></td>
@@ -1968,8 +1974,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/052f28d0d0e3f19a713831bbc82a140d.png" alt="Cover for Water Memory" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Emily A. Sprague</td>
@@ -1990,13 +1997,13 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
 
 ### Related genres
 
-- [ambient]({{ "/tags/ambient" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
 - [new age]({{ "/tags/new-age" | relative_url }})
 - [psybient]({{ "/tags/psybient" | relative_url }})
 - [drone]({{ "/tags/drone" | relative_url }})
-- [electronica]({{ "/tags/electronica" | relative_url }})
 - [idm]({{ "/tags/idm" | relative_url }})
-- [piano]({{ "/tags/piano" | relative_url }})
-- [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
 - [minimalism]({{ "/tags/minimalism" | relative_url }})
+- [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
+- [piano]({{ "/tags/piano" | relative_url }})
