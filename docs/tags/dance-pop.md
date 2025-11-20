@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T11:28:48.004Z
+date: 2025-11-19T20:27:25.834Z
 permalink: tags/dance-pop
 title: dance-pop
 ---
 
 ## dance-pop
 
-Last updated: <time datetime="2025-11-17T11:28:48.004Z">Mon Nov 17 2025 13:28:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:27:25.834Z">Wed Nov 19 2025 22:27:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/915c1d98f55d341626c3f87e1f522815.png" alt="Cover for W.A.Y" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/454c1111928f40dec0e5baf4c502aa4e.png" alt="Cover for Dare!" style="max-width:120px; height:auto;" />
       </td>
@@ -64,37 +64,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 53</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b92df2a3f29e56e72f38441434df3c9f.png" alt="Cover for Get Loose" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982-08-11</td>
-      <td>Evelyn &quot;Champagne&quot; King</td>
-      <td>Get Loose</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f02fe130044bb3a802839505232bb87.png" alt="Cover for Can&#39;t Slow Down" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +88,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/289a4b1915e48bb7259330a842378a13.png" alt="Cover for Spit it Out" style="max-width:120px; height:auto;" />
       </td>
@@ -133,15 +108,15 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 11</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 28</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 13</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 33</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 95</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c9ae4bc75ecffbe3f16b7d962637f18.png" alt="Cover for III." style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +135,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ffac081c5c513cac9e880261c6b1621.png" alt="Cover for Beautiful Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +154,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8857b3e39f43b8992042f6a67299df5.png" alt="Cover for NINETEEN" style="max-width:120px; height:auto;" />
       </td>
@@ -198,12 +173,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 55</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed1eff73537f1c590764e885147e1b02.png" alt="Cover for The Introduction" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +201,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2004-02-11</td>
@@ -245,7 +220,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/858201a4b8f134ef7e860f2a768c80df.png" alt="Cover for Love.Angel.Music.Baby." style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +238,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>2005-07-25</td>
@@ -277,12 +252,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 89</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ybT-fjUkw5zBxn-RJCHCynkmEwi0enbmBHKKm-Qzl9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODQ3/Ny0xNjQ5Njc5MjE0/LTYyOTYuanBlZw.jpeg" alt="Cover for Boten Anna" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +275,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006-09-13</td>
@@ -317,7 +292,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31aed30cf097fcd58357cfa79cf65ae8.png" alt="Cover for Dancing Shoes" style="max-width:120px; height:auto;" />
       </td>
@@ -336,7 +311,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86f3bd3c87e4d8427cac31541213aa81.png" alt="Cover for Love.Angel.Music.Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +329,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c8cfe1cdfc2975ff222019bd3b41ca5.png" alt="Cover for No Lie" style="max-width:120px; height:auto;" />
       </td>
@@ -369,13 +344,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 74</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 75</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2bb887a25a51d0e47f1e5155d4684fd.png" alt="Cover for Doll Domination (Revised International Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +370,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8504f8b6a728694e9985169e97c82990.png" alt="Cover for Chromatica" style="max-width:120px; height:auto;" />
       </td>
@@ -413,8 +388,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 28</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 33</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 45</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 93</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 99</li>
@@ -422,7 +397,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9ff37be91a1222b8ab4d40ff83219e8.png" alt="Cover for 3 Words" style="max-width:120px; height:auto;" />
       </td>
@@ -444,7 +419,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>2010-09-13</td>
@@ -458,12 +433,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 81</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/458ce617a3262ed06fbc64cb505edf07.png" alt="Cover for Rock Dust Light Star" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +458,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ec8844068ca052a493c2ca11806597d.png" alt="Cover for Freedom Child" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +478,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/B7rSGGaFhfj_bTmgJLIyQEvkPOx1aAp3bSPJIAwZosA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA1/MzQyLTE2Njc5ODg0/NzYtMzAzNi5qcGVn.jpeg" alt="Cover for A Year Without Rain (International Standard Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +496,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca9f3621277a4d9eb1352347c61b9e75.png" alt="Cover for Love CPR" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +517,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c346d536ab405cbb1f9177b14b6bb8.png" alt="Cover for Beat of My Drum" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +537,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/508a58e513cf4086b379b9828fae6fb7.png" alt="Cover for Something New" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +563,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a43f8fc4ab6ac2d06bf2af610c55e8.png" alt="Cover for Amygdala - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -609,15 +584,15 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 29</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 34</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 35</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 41</li>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 75</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 92</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22db5a9dd87ce3313840e23d3c666b0e.png" alt="Cover for Stars Dance (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -636,14 +611,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 44</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 84</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 86</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 86</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/055cc5aa4d1fda578e2cecd211f7235f.png" alt="Cover for Rare (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +638,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca40e893ae5997f4ac75b2b1499a6428.png" alt="Cover for American Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +657,27 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f75dcd312a814421c49b92c344e2b93c.png" alt="Cover for Heartbreak Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-02-18</td>
+      <td>Betty Who</td>
+      <td>Heartbreak Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fb16dd01b354624c6c8c73b824068f4.png" alt="Cover for Pop It" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +702,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>2014-08-26</td>
@@ -729,7 +724,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d9ccbf7bd97937241301e216d550a58.png" alt="Cover for Motion" style="max-width:120px; height:auto;" />
       </td>
@@ -748,15 +743,15 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 60</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 93</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 98</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
       </td>
       <td>2015-01-19</td>
@@ -772,14 +767,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 58</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 72</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 60</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 73</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb8b421e5adacd2884c2b5523c4cb445.png" alt="Cover for Ice Cream Cake - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +799,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ab4e4abc09e6d2357e45a13edbe1113.png" alt="Cover for Ruin My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +817,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78cb63b6e87d9d3a998bdfedcb1e002d.png" alt="Cover for Good Luck (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +841,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2aa1266215542d3c6bf77576150ff211.png" alt="Cover for Perfect Velvet - The 2nd Album" style="max-width:120px; height:auto;" />
       </td>
@@ -861,12 +856,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 32</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f937fa5739affb54f6a1534a79d707fb.png" alt="Cover for Miku" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +888,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td>2016-06-24</td>
@@ -910,7 +905,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/698662ec36e0a324d4be8f7fac7247c4.png" alt="Cover for Funk Wav Bounces Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -927,13 +922,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 60</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e85b5c91ba9692d83d6482b47956ffc6.png" alt="Cover for Menage A Trois" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +947,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a85f939d537365aea8b2a0422128f64.png" alt="Cover for Zombies on Broadway" style="max-width:120px; height:auto;" />
       </td>
@@ -970,7 +965,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e9c8d0e8e34786f0ac4c439b70fc86a.png" alt="Cover for S&#x2F;S17" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +992,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b678140a31be9e7b83f650b98c5abc5b.png" alt="Cover for Dua Lipa (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1010,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/iiiAMQ-FJTnssVV6_wIM4jhfUxlN_ZOax91HbVoKzwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE2/NDYzLTE1NzYxNTQ1/ODUtNTAxNi5qcGVn.jpeg" alt="Cover for #thatPOWER" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1031,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/i_D2eSOPZEajZr4aGJ6J0yXn46KJ46pPMyrm1tq3Xcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM2/MzM1LTE1MDE0MDc5/NjAtNzE4OS5qcGVn.jpeg" alt="Cover for BRAT" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,16 +1048,16 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 69</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 75</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 70</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0252fe5687b76ff636430b1976250f7.png" alt="Cover for One of Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,7 +1078,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf7ef5245ed3a19598eac508ba0690d.png" alt="Cover for Camila" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,13 +1092,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 74</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 75</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86269e8cd4f97272e669a41f0e72f7bc.png" alt="Cover for Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,13 +1114,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 28</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 54</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 20</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 34</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f22bb44e352905cfa52635fac8c6a92.png" alt="Cover for Singular Act I" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1140,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/ScCCFIvApyx8tGKmTVBUflOlw1RA1LnDg3QhbpgTpg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjYy/MzQ2LTE3MDMxMzYx/NDAtMTAxNi5qcGVn.jpeg" alt="Cover for STARFUCKER (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,12 +1157,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 78</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8e8eb1fab348cff53beb038f0a05210.png" alt="Cover for Emotion" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,14 +1178,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 44</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 43</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 71</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af31a783ede9676743e85db2efb2d4c.png" alt="Cover for Dedicated" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,12 +1201,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 34</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fe6babe1620582b61fb5cd0c93c203d.png" alt="Cover for Nirvana" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1235,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21351401b1eaf0ec5c844b6d2304dd86.png" alt="Cover for DOA" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,7 +1256,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a832d0ca242fd375150649643b09493e.png" alt="Cover for Singular Act II" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1274,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71c3bb221ed90d23667954e5f6054336.png" alt="Cover for Inflorescent" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,12 +1293,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 86</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/nXfm1GevPIIKLoT3vxrbQC90hHN3WG0qVn1-HcPWOf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE2/MDQwLTE1NzAwMzQ3/NDItNjg1My5qcGVn.jpeg" alt="Cover for Turn Off The Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,17 +1318,15 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/U_XJanulr2s-h6m-vB1zMKaUpUHmluL1A7kFG7ptBMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ3/MTc4LTE1NzI2OTc5/MTEtMzA1My5qcGVn.jpeg" alt="Cover for Don&#39;t Start Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00be9afbae08099dc43a43f1a0359636.png" alt="Cover for Don&#39;t Start Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-01</td>
       <td>Dua Lipa</td>
       <td>Don&#39;t Start Now</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a></li>
         </ul>
       </td>
       <td>
@@ -1342,7 +1336,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa61f609215cc93a03f63e8b116001fd.png" alt="Cover for Get Your Wish" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,13 +1354,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 9</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 84</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 18</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7017c94ef74a476838e751b0cee1f014.png" alt="Cover for Future Nostalgia" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,14 +1375,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 20</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 74</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 94</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 97</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/501f8aaeaffe46ff586df7806847a3a7.png" alt="Cover for What&#39;s Your Pleasure?" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,14 +1396,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 28</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 75</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 83</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 26</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 77</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee457ab022faf24f4d9b86d81dac0593.png" alt="Cover for its hard :&#x2F;" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1429,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90651a84738cd15cd08b8cd73adfa4a.png" alt="Cover for Heaven &amp; Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1447,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/TJuRaub-cJJG9zI225fiBEgfc6_--uLMvrcgT9GqWQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk4/MzE4LTE2MDE2NDU3/NDAtMjc3OC5wbmc.jpeg" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,35 +1461,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 31</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 36</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 50</li>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 82</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0033c68034b500698cb342eb59b9766a.png" alt="Cover for Disco (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-11-06</td>
-      <td>Kylie Minogue</td>
-      <td>Disco (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a2023967dc070bd22642e33bb3da73a.png" alt="Cover for Future Nostalgia (The Moonlight Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,8 +1482,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 69</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 82</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 75</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1532,14 +1505,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 18</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 20</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 80</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
       </td>
       <td>2021-02-14</td>
@@ -1559,7 +1532,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96a9274db2022f46a53343a2a86eeac2.png" alt="Cover for Poster Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1550,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40e49db4e73838815d11f0d7e933cbd1.png" alt="Cover for Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1578,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a547356735603b832dbf1d540c1045ee.png" alt="Cover for IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1602,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/6p6_ls9-TqNkF3BHo02cm16Jy9Wk8lPiar_bBqqWbKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM0/ODMyLTE2NDg5MTI2/MDctMzA4Ni5qcGVn.jpeg" alt="Cover for ONLY HONEST ON THE WEEKEND" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1627,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/5sLsNj-BLJZy7USjNv56Pdka1WfEiw1Bu57mSLorscI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg5/MzU0LTE2MzA2MDU3/OTAtOTUxMS5qcGVn.jpeg" alt="Cover for besitos, cuídate" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,13 +1641,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 51</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a607c16ce26acf9cf16d76d1cdc9d3.png" alt="Cover for Walker Racing League" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1675,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td>2021-10-29</td>
@@ -1721,13 +1694,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 28</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 30</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acdd5652d7cdca1d21c6ba82c6b4287a.png" alt="Cover for Between Us (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1719,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff7e03760da28fdea702b71b1f13b760.png" alt="Cover for World of Walker" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1756,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/fTEMcALiC9V_gqMKg9YX64hVGNDZpMV2RGg0iqJ3PtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM1/MTUyLTE2NDcyODUz/MDctMjkxOC5qcGVn.jpeg" alt="Cover for dawn FM" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1778,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/xEeCpgSMNuVpQCfFA6xJ9ORlOlVIMhZ-sxWnA8z1QBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE0/NDUyLTE2NTI0NjI4/MTMtNzQ5OS5qcGVn.jpeg" alt="Cover for Maze" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,7 +1806,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/70a32ERUwX5zTszx_ZSwnzQbbDsrU9iFtALxzAGmXC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/Nzc5LTE2NTU3MTY5/ODEtMjUxNy5qcGVn.jpeg" alt="Cover for Renaissance" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,15 +1821,15 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 59</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 95</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b35a08b1e046d837fa9b9ba09c485df.png" alt="Cover for Versions Of Me (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,7 +1852,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb227b595800b045ad69c5402200bd0.png" alt="Cover for Icebreaker" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,12 +1869,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 19</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png" alt="Cover for Faith in Persona" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,12 +1893,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
         <ul>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 86</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 89</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 90</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/aDBvXuviePagr72OMoHJBIaop3wTjrvSxWPG7m9BMYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgx/MjE5LTE2NzAyODk3/NTEtMTUzOC5qcGVn.jpeg" alt="Cover for Welcome to my Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,13 +1916,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 1</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 3</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 13</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26646eb9c9ad213d6e997ac4350b35ac.png" alt="Cover for E poi siamo finiti nel vortice" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,7 +1944,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46db61628af99705a9613e7ffccacde7.png" alt="Cover for ColoRise" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,13 +1962,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 58</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 59</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/2CV1kMChdAjQK16XzKrPAx4g3LAhbvnr-g9gPA07O5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzc2/Nzg4LTE3MjY3ODEx/MDctNTk5Ni5qcGVn.jpeg" alt="Cover for Nimbasa CORE" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +1994,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca85d3f90d082056adfcf56b82056bd6.png" alt="Cover for Diamonds &amp; Dancefloors" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,13 +2008,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 81</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 98</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 82</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6ae145428bde533606e5cf89912c0fd.png" alt="Cover for AR" style="max-width:120px; height:auto;" />
       </td>
@@ -2055,14 +2028,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 26</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 54</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd4dcd1ffdc64da01273b1e3512a708.png" alt="Cover for The Rise and Fall of a Midwest Princess" style="max-width:120px; height:auto;" />
       </td>
@@ -2079,7 +2052,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/XP1UoO8bQ_y_S9pJ3UVQXxXwsJD4F4Qr_pUWima_IW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcx/Mzc3LTE2OTc3Mzk1/NzYtMTkxNC5qcGVn.jpeg" alt="Cover for Something To Give Each Other" style="max-width:120px; height:auto;" />
       </td>
@@ -2104,7 +2077,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/rx4vrceBPgWrIC3zDKBegk5lqxykL_OL2NyRR_qcO68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzg4/MTMwLTE3MDI5OTEz/OTQtMzg0My5qcGVn.jpeg" alt="Cover for Starfucker" style="max-width:120px; height:auto;" />
       </td>
@@ -2125,7 +2098,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/evNriU-yU2JstTXHm8mLCF4LxEGZr7F-Lm5sLjk6UaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTAw/MjA0LTE2OTEzNzEy/NDQtMTQzMy5qcGVn.jpeg" alt="Cover for FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM" style="max-width:120px; height:auto;" />
       </td>
@@ -2147,7 +2120,33 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg" alt="Cover for orquídeas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-01-12</td>
+      <td>Kali Uchis</td>
+      <td>orquídeas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 47</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 76</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 82</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/Nv5_W3Csrvoe4Q0gfWnuusHY_Xn7idXR_pNbxG-jhAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYz/OTg1LTE3Mjg1ODMw/MjctODY3MS5wbmc.jpeg" alt="Cover for Brat and it’s completely different but also still brat" style="max-width:120px; height:auto;" />
       </td>
@@ -2163,14 +2162,14 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 63</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 65</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 90</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/w2EkMD0LvBu9fUQcRUVTn7QHifaSXU2bvetUw4KDQ1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEx/MjAzLTE1ODgyMzM0/NTMtODg0My5qcGVn.jpeg" alt="Cover for ALGORHYTHM" style="max-width:120px; height:auto;" />
       </td>
@@ -2191,7 +2190,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ce2f0cad9c2a2de68ab9f6bb520cd6d.png" alt="Cover for Halo (feat. PIA MARIA)" style="max-width:120px; height:auto;" />
       </td>
@@ -2212,7 +2211,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b0d772ac7b9587ed44ed10c481f832.png" alt="Cover for Rain on Me (with Ariana Grande)" style="max-width:120px; height:auto;" />
       </td>

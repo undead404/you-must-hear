@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T20:41:49.250Z
+date: 2025-11-19T20:24:44.830Z
 permalink: tags/industrial
 title: industrial
 ---
 
 ## industrial
 
-Last updated: <time datetime="2025-11-11T20:41:49.250Z">Tue Nov 11 2025 22:41:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:24:44.830Z">Wed Nov 19 2025 22:24:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f06da33ca6452f0f781c6b1614521162.png" alt="Cover for 20 Jazz Funk Greats" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9981188746a1ee63ea5601cd1adeab58.png" alt="Cover for Remission" style="max-width:120px; height:auto;" />
       </td>
@@ -65,8 +65,9 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d55d5866c66b74d5577b3f6a7b56d890.png" alt="Cover for Halber Mensch" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Einstürzende Neubauten</td>
@@ -82,7 +83,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce1f39632192308188a5e3f23d60c7c3.png" alt="Cover for Bites" style="max-width:120px; height:auto;" />
       </td>
@@ -100,7 +101,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d854d4480049ceb81c9bbc0cf925e3.png" alt="Cover for Horse Rotorvator" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +119,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/73vOtmjW-PIjk4QOYCbjd0yd4QRnlv8G3BcZBEM601w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjI4/LTE0NjIwNzE1MTEt/ODMzMS5qcGVn.jpeg" alt="Cover for The Land of Rape and Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +151,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -175,8 +176,9 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91b08a7348a86fb992e275dcdb1c5545.png" alt="Cover for The Mind Is a Terrible Thing to Taste" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-11-10</td>
       <td>Ministry</td>
@@ -189,12 +191,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 59</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e65d6bd07faf839f59f9d90966563376.png" alt="Cover for Rabies" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +215,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>1990</td>
@@ -230,28 +232,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e76460c6f593c075ef69252a9ec9079.png" alt="Cover for Broken" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992-09-21</td>
-      <td>Nine Inch Nails</td>
-      <td>Broken</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 97 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 93</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
       </td>
       <td>1992-12-01</td>
@@ -268,8 +249,9 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cc91feff4c5ca5061ec3c218c6b0ddd.png" alt="Cover for Tabula Rasa" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-02-01</td>
       <td>Einstürzende Neubauten</td>
@@ -285,7 +267,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86f03627a387cbbc540ea24cee9cda45.png" alt="Cover for Angst" style="max-width:120px; height:auto;" />
       </td>
@@ -300,13 +282,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3582e43943d4725c82968e5bfe835a1.png" alt="Cover for The Downward Spiral (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f258150143f4c0166aa2e5ce7736fd.png" alt="Cover for The Downward Spiral (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Nine Inch Nails</td>
@@ -319,7 +302,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -339,15 +322,15 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 80</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/JGCSbJTFfmWhGgj6MrT13F60WmOn4AIGs7pnf-6SXoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIz/OS0xNDg2MDc5MDIx/LTMwNjYuanBlZw.jpeg" alt="Cover for Use Your Brain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32b413cc98a9c5b3d433a72e68aedc99.png" alt="Cover for Use Your Brain" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03-23</td>
       <td>Clawfinger</td>
@@ -363,7 +346,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70e1e7a5097548a68a02d105d83b6ddd.png" alt="Cover for Nihil" style="max-width:120px; height:auto;" />
       </td>
@@ -378,12 +361,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51c79ee82b25ba69177c712e570e3116.png" alt="Cover for Short Bus" style="max-width:120px; height:auto;" />
       </td>
@@ -392,17 +375,16 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       <td>Short Bus</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 68</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/vKY1uDd4inPhA9H4Q54XUPWpvKoDK2AXcLQqTyAsU9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjgt/MTQ4NDYyMzcxOC02/MzIwLmpwZWc.jpeg" alt="Cover for Further Down the Spiral" style="max-width:120px; height:auto;" />
       </td>
@@ -416,13 +398,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8212d44056724f8cb953953e940b467a.png" alt="Cover for The Perfect Drug" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Nine Inch Nails</td>
@@ -434,13 +417,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 71</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d51ddf4b15914649b972854afe537786.png" alt="Cover for Ende Neu" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Einstürzende Neubauten</td>
@@ -456,7 +440,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f70d9eb6eaa3c8f4a514e31f3f73432.png" alt="Cover for The Process" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +458,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4873afc32a34e33bdbc23e99e30c691.png" alt="Cover for Xtort" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +476,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/137bbec9c551a38a94bab790ff7d64a7.png" alt="Cover for Antichrist Superstar" style="max-width:120px; height:auto;" />
       </td>
@@ -505,13 +489,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dac5b8cff0b2cabc2b2ce7248da214df.png" alt="Cover for Sehnsucht" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-22</td>
       <td>Rammstein</td>
@@ -523,13 +508,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 91</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 15</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63be26f6509346738d057cfb3731979f.png" alt="Cover for Darkest Days" style="max-width:120px; height:auto;" />
       </td>
@@ -544,13 +530,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 49</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dc1c92b394db36e06c28c69801731cb.png" alt="Cover for Candyass" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-17</td>
       <td>Orgy</td>
@@ -563,13 +550,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 78</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/691c026193e6e7a638965c1f6165d15e.png" alt="Cover for Mechanical Animals" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-14</td>
       <td>Marilyn Manson</td>
@@ -584,17 +572,17 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 37</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 51</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 85</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 90</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 91</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/bSf8sJQVNQo9WZOXcrLmwbHMDEJoeZkdRqCFoASh4jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDU5/LTE3MjY1MjE5OTQt/NjYzOC5qcGVn.jpeg" alt="Cover for Frankenstein Girls Will Seem Strangely Sexy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffca6e5e6a1d4e589d5a399e0bf1897f.png" alt="Cover for Frankenstein Girls Will Seem Strangely Sexy" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Mindless Self Indulgence</td>
@@ -606,14 +594,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 5</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/zXmQHicneNVBeg_vXtWot5KGTqSYxNZZdHGIBFdddeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg0/MjYtMTYwNTE2MjYy/MS05MDM5LmpwZWc.jpeg" alt="Cover for Liebe Ist für Alle Da (Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea8e8d938260f70bedfeb516c6c48195.png" alt="Cover for Liebe Ist für Alle Da (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-08-31</td>
       <td>Rammstein</td>
@@ -625,13 +613,13 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 49</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 76</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 53</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eaa9146fbad4b62bd5a489fc0651ec0.png" alt="Cover for The Fragile" style="max-width:120px; height:auto;" />
       </td>
@@ -645,12 +633,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 94</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
       </td>
       <td>1999-10-26</td>
@@ -668,7 +656,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
       </td>
       <td>1999-11-15</td>
@@ -682,12 +670,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2000-03-13</td>
@@ -701,12 +689,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dcabdd1b0e74df68c6607fde19897e5.png" alt="Cover for MDFMK" style="max-width:120px; height:auto;" />
       </td>
@@ -724,8 +712,9 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04c712dad964d7d32a8608fb4d8e787f.png" alt="Cover for Silence Is Sexy" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-03</td>
       <td>Einstürzende Neubauten</td>
@@ -741,7 +730,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/127dba15b72bf42caa53feb8f0ff59eb.png" alt="Cover for Sonic Jihad" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +749,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2550d83c18fb1cda2cc9e3f37334e78c.png" alt="Cover for Vapor Transmission" style="max-width:120px; height:auto;" />
       </td>
@@ -776,12 +765,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/trT6ccwuvi3caVlkDvVvl447I8boHGOTrzfBmIgCGSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTgw/LTE2MDExMzUxNjQt/MzA4Ni5qcGVn.jpeg" alt="Cover for Things Falling Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -796,12 +785,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 43</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2001-01-22</td>
@@ -818,7 +807,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/35kEfChsTLDqnLoq8X0h8WIi9IKQTv7uQDOZNMn7VFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQw/Ny0xNDYxNDM4NzIx/LTIwNzQuanBlZw.jpeg" alt="Cover for Welt" style="max-width:120px; height:auto;" />
       </td>
@@ -838,6 +827,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c275c90c66f4f4ef3f880864b2c4d62.png" alt="Cover for Mutter" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-27</td>
       <td>Rammstein</td>
@@ -849,16 +839,16 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 68</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 79</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 99</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/lIjL1QkYyIv73WN90Q3R5rfESkncvsnNGTOJh9pvUqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA4/OS0wMDIuanBn.jpeg" alt="Cover for The Smell Of Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55be2672cff8075f0192591bd2788d1d.png" alt="Cover for The Smell Of Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-22</td>
       <td>Mortiis</td>
@@ -870,11 +860,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/yYAM-SNmpt1BljA4amYBRB9WtoROcfBEU5GdahLDHR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDE5/MTctMTMxMzAwNDkz/Ny5qcGVn.jpeg" alt="Cover for Divine Infekt" style="max-width:120px; height:auto;" />
       </td>
@@ -890,14 +881,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 1</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 4</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 94</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2002-01-22</td>
@@ -914,7 +905,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb3af6b062274aebca8636e28cfc4718.png" alt="Cover for Futureperfect" style="max-width:120px; height:auto;" />
       </td>
@@ -930,12 +921,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 90</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75f2014d3a5d81fe7c564b4c6844a0c4.png" alt="Cover for Not the Actual Events" style="max-width:120px; height:auto;" />
       </td>
@@ -949,12 +940,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a56f601a934b96994d186ff3ebde72.png" alt="Cover for The Golden Age of Grotesque" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-07</td>
       <td>Marilyn Manson</td>
@@ -966,12 +959,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae3254a4c8ed6ddadd29454b35766af8.png" alt="Cover for WAT" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +982,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bbcb5eb2dd244fab080d692910572c6.png" alt="Cover for WWIII" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,13 +997,13 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 27</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/aQmsHQMkdaFsO79ux-8vjZ3fw_S0PuTj1QVuaNXa2JM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDE2/NC0xMjQ0NDkyOTMx/LmpwZWc.jpeg" alt="Cover for Perpetuum Mobile" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1021,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/NENvNxVOjuVfFpjKANKWjrU6P62VGz7P_t9zuEPtgX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI3/MS0xNTU4OTU5NTkx/LTIwMDAuanBlZw.jpeg" alt="Cover for Personal Jesus" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,13 +1053,37 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 46</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>1</td>
       <td>
+          <img src="https://i.discogs.com/cx82pbGPttFdf_FWbD-b5p04bYcTP6krQXVi9So-SxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/NC0xMTc0NDExOTY2/LmpwZWc.jpeg" alt="Cover for Eurotrash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08-03</td>
+      <td>Zeromancer</td>
+      <td>Eurotrash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 72</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 73</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c1202153130a0f3b4d1bb301f1f189.png" alt="Cover for Reise, Reise" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-27</td>
       <td>Rammstein</td>
@@ -1082,7 +1099,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b185794f602429ebc40b3c1771feb83.png" alt="Cover for Everybody Hates You" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1119,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/Evznj-2k9OAKAkRCGhP3jzrHyF0iLBoTZxOqFTgNLiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTA3/MS0xNjMxNDgyNzY1/LTk5NjAuanBlZw.jpeg" alt="Cover for You&#39;ll Rebel to Anything (Expanded and Remastered 2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,7 +1135,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 93</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 99</li>
         </ul>
       </td>
@@ -1163,7 +1180,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d07323ba795e9c715d2ff1a62aa7c6a8.png" alt="Cover for Hau Ruck" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,12 +1195,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 65</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cf9b684dad34f7f83f5bceed2aaebd1.png" alt="Cover for Shapeshifter (Digital Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1220,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f212534c7f0548e4a38d12eac7aaa573.png" alt="Cover for Every Day Is Exactly the Same" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,12 +1235,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/AR5RwvXqczEzgqJxFaZK5I0o5zJ35tx2MRlONu2L9ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTkz/MjAtMTMyMTU5Njkz/OC5qcGVn.jpeg" alt="Cover for The Golden Age of The Grotesque" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,12 +1254,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d87e3245d73ce4eb3ff7747f3fb8700c.png" alt="Cover for Krankhaus" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,7 +1278,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e04881c3e04e0559471622721d0eb3.png" alt="Cover for Gigahearts" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,12 +1294,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 19</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c85d92701f5f29b706eef6238165e6b.png" alt="Cover for Mythmaker" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,9 +1317,9 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/DJzbo2QNmzx7vZ200TmRaVV367W5khIKmLR1IadfoW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDE5/NS0xMzg1NDkzNTkx/LTM5MDUuanBlZw.jpeg" alt="Cover for What The F&#39;&#39;k Is Wrong With You People?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7e7ba207d01b47b205aed78d220c4b4.png" alt="Cover for What The F&#39;&#39;k Is Wrong With You People?" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-02</td>
       <td>Combichrist</td>
@@ -1318,7 +1335,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/DJzbo2QNmzx7vZ200TmRaVV367W5khIKmLR1IadfoW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDE5/NS0xMzg1NDkzNTkx/LTM5MDUuanBlZw.jpeg" alt="Cover for What the Fuck Is Wrong With You People? (bonus disc)" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1353,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90e4bda05f14bd28978b5fffba59afa.png" alt="Cover for Year Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,12 +1366,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 72</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d449fd763564d669e2dd95e11ef7ea7.png" alt="Cover for Nothing and Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1389,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/C0Liy17h1UasdCysGx7bObhXSXaDj1EacbOIY2PsoSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/MjctMTE4ODU2MTY5/MS5qcGVn.jpeg" alt="Cover for Alles Wieder Offen" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1425,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5bc07e355524e68999d99bf65700516.png" alt="Cover for Ghosts I-IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,14 +1441,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 20</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 47</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 49</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bf0aab05704d2e880dc37384485c32.png" alt="Cover for The Slip" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,12 +1461,29 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2008-05-05</td>
+      <td>The Naked and Famous</td>
+      <td>This Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ba9a513a9d647a7926f855be61fadb5.png" alt="Cover for No Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1502,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f73cc6d98b4a4aab9fa6bcf2fff31492.png" alt="Cover for Antisleep Vol. 01" style="max-width:120px; height:auto;" />
       </td>
@@ -1483,12 +1517,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
       </td>
       <td>2009-06-05</td>
@@ -1505,7 +1539,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/rytVjOdHi2o15Xfs4Qu51WAmWV-mEmoHp5VW7HqLZpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk5/MDctMTI4NTgxODc0/NS5qcGVn.jpeg" alt="Cover for Wish Upon a Blackstar Chapter 02" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,12 +1571,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2010-08-27</td>
@@ -1562,28 +1596,9 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>21</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/669063adbbb2e170b329811c530e4537.png" alt="Cover for Blue Stahli" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-03-02</td>
-      <td>Blue Stahli</td>
-      <td>Blue Stahli</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/ZeBeI5YSnUJ15bECIzBS7QYBueP4TSJFesNyLU8EOGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDEy/NDQtMTM1NTI1Njg4/MC0yMzU4LmpwZWc.jpeg" alt="Cover for Celldweller (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d151785bc0dd7fc0c998392082fffb27.png" alt="Cover for Celldweller (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-11</td>
       <td>Celldweller</td>
@@ -1596,14 +1611,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 55</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/5b12-qWnTMoxuArxGQwvkNcQaOxOh1wGzJ74LT9n5Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODMx/Njk5LTE2Mjg3NDU1/NDUtNzI4NC5qcGVn.jpeg" alt="Cover for We Appreciate Power" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c17686c3cfea9ebbea34c4ce7a26c0d.png" alt="Cover for We Appreciate Power" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Grimes</td>
@@ -1619,7 +1634,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfe32f726a80487c98808d8698cb280c.png" alt="Cover for Symbols" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,12 +1649,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 82</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ab20a07835ba61ef2f926bdd1e4ce29.png" alt="Cover for Welcome Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,12 +1668,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d747d92154d4255a0ae6d37d542caa0.png" alt="Cover for Hesitation Marks" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,12 +1688,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/9dCFLsrNhECUCglORG_XWyNcK8e3ky5CwYHrCUjwJHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTkw/ODQ1LTE1MDA1MTE1/NTItODcwOC5qcGVn.jpeg" alt="Cover for ADD VIOLENCE" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1711,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d2355e5e6ef5074b10809ac70c5dbcb.png" alt="Cover for New Model" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,7 +1729,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8648dc423724a688bd91568dfaa297.png" alt="Cover for Bad Witch" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1745,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 75</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 85</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1768,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/eaW7mH-mtSYgaEBekEvjsK-sejtey2aV07-g8Yttwz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE3/NjU2LTE2MzA4MDA2/NDYtNzc2Ny5qcGVn.jpeg" alt="Cover for VOL. 4 :: SLAVES OF FEAR" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,7 +1786,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10a826e28ca9cba4e0502b10e03a6d2f.png" alt="Cover for Choke" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,12 +1800,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 66</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/-MiB6pbmC0w0swmtQZFKpQAUu4Ub5QALL9zxZOGr0iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMy/OTM4LTE1Nzg1Nzkw/MzUtNjUxNi5qcGVn.jpeg" alt="Cover for Sex, Drogen und Industrial - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,7 +1823,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/7mjjGuyIsoEJN5H8CC-gWdf-WWoTEGzKnPNENIWEVcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/NzczLTE2MDU5NTM2/OTAtMTQ3OC5qcGVn.jpeg" alt="Cover for Vampire Fitness" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,14 +1846,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 32</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 44</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 48</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 54</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 87</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 98</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1879,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/HfO-UaTTcJhOvkIvEkRIYSoH0m545hDUbCGeloLXuoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjMw/MjUwLTE2NTEwODM2/NzMtMzAyOS5qcGVn.jpeg" alt="Cover for I Hate People On The Internet" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,7 +1899,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a74a3430e9ea9747b2e216eb857c5a66.png" alt="Cover for CONCRETE JUNGLE [THE OST]" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,8 +1917,9 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff70588f25cc28064b7b4f4cc84c7300.png" alt="Cover for Pink" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mindless Self Indulgence</td>
@@ -1916,12 +1932,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 74</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/007761d122d75d12c03305238399cab5.png" alt="Cover for Outside" style="max-width:120px; height:auto;" />
       </td>

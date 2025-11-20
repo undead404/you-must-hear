@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T10:37:39.123Z
+date: 2025-11-19T20:26:48.069Z
 permalink: tags/alternative-dance
 title: alternative dance
 ---
 
 ## alternative dance
 
-Last updated: <time datetime="2025-11-17T10:37:39.123Z">Mon Nov 17 2025 12:37:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:26:48.069Z">Wed Nov 19 2025 22:26:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67cc0202be6e3043005f5c917ff79f49.png" alt="Cover for A Broken Frame (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cce401a25744d7cbc765bbb668040e4.png" alt="Cover for Low-Life [Collector&#39;s Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcaa9fe253cbbe78289aebb742c77150.png" alt="Cover for Low-Life" style="max-width:120px; height:auto;" />
       </td>
@@ -83,12 +83,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 55</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d84c11859c3046f382b8f733b8f7e5b5.png" alt="Cover for Colourbox" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/aB_Prnr216tEUArs10f3bnFU1_caAmm4p0rnRkqhiXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkz/MzYtMTY3NzA2NDYx/Ni02NDE4LmpwZWc.jpeg" alt="Cover for No. 10, Upping St." style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5078801aed03ec9bc933a736349f143.png" alt="Cover for Technique" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/b_CYP775uX44Bnql37l8Itprhc2aJNrAYBwaGKYI2Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODQ3/LTE1NjU3ODA5ODgt/NTYzNi5qcGVn.jpeg" alt="Cover for Pills &#39;N&#39; Thrills And Bellyaches (Collector&#39;s Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0a374fbcf38d5da3031dc5c03963d8a.png" alt="Cover for Pills &#39;N&#39; Thrills And Bellyaches (Collector&#39;s Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Happy Mondays</td>
@@ -157,11 +157,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffa46d4e58464abdcad96e2e1e52660b.png" alt="Cover for Schubert Dip" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +180,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59db16e23d7fd923bd085585b866367.png" alt="Cover for Screamadelica" style="max-width:120px; height:auto;" />
       </td>
@@ -197,7 +198,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/551d6eaa8f157062ca9d7dc61f341471.png" alt="Cover for Foxbase Alpha" style="max-width:120px; height:auto;" />
       </td>
@@ -211,12 +212,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 39</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/hDpXKXXLoh7in5Or50YLv-sxKLTrJziKIJLo-2KFEqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzAx/NDctMTQ1NjI1MTA3/OC03NjMyLmpwZWc.jpeg" alt="Cover for Girl At The End Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -236,7 +237,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf0409c592814a19cafe6f5618496d24.png" alt="Cover for Love See No Colour" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +255,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7098faeeba40a168cea952f95204a89a.png" alt="Cover for Debut" style="max-width:120px; height:auto;" />
       </td>
@@ -272,12 +273,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 28</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 31</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 62</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d1ea826430346dbc4b4fff74c950f6e.png" alt="Cover for Chaosmosis" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +297,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fce39e0a7f7d449abcce9c4010abc8a4.png" alt="Cover for Polydistortion" style="max-width:120px; height:auto;" />
       </td>
@@ -320,7 +321,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d055ba91144546c5db9f30cf4bea8f.png" alt="Cover for Music For Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +339,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adb3def8cd734ef4afd03c3d760935b6.png" alt="Cover for Vanishing Point" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +359,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c70b1c20b9d04c535de45e7050477dd.png" alt="Cover for Goodbye" style="max-width:120px; height:auto;" />
       </td>
@@ -376,7 +377,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/k-nryYiKvEzRqfjahImVA2dOdBDg3HMXGW6UA9Ku1nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDg3/OC0xMTcyMzUxMjk2/LmpwZWc.jpeg" alt="Cover for AUSLÄNDER (REMIXES)" style="max-width:120px; height:auto;" />
       </td>
@@ -416,31 +417,25 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd9d5521b202a637db5cc48f28816ad1.png" alt="Cover for Bocanada" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a4390f3588be32ab668e499151637ba.png" alt="Cover for XTRMNTR" style="max-width:120px; height:auto;" />
       </td>
-      <td>1999-06-28</td>
-      <td>Gustavo Cerati</td>
-      <td>Bocanada</td>
+      <td>2000-01-19</td>
+      <td>Primal Scream</td>
+      <td>XTRMNTR</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 75.9493670886076 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 16</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 66</li>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 82</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21a882e9859712382fa0e41335e8922d.png" alt="Cover for United" style="max-width:120px; height:auto;" />
       </td>
@@ -456,13 +451,13 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 6</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 10</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/507c3f4c1863a05626a445057871b56e.png" alt="Cover for Cracker Island" style="max-width:120px; height:auto;" />
       </td>
@@ -477,14 +472,14 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 11</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 28</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/038db6d71f1bdc4b7bc5c6f1b73e783d.png" alt="Cover for Beautiful Garbage (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +499,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d122f95ec52c1fb75b843d09e45d28bf.png" alt="Cover for Brotherhood (Collector&#39;s Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -528,7 +523,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb77368807457b448d2b4e92d33419e1.png" alt="Cover for Complete Music" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +579,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 16</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 23</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 84</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 92</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 98</li>
@@ -592,7 +587,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c17eb579235b9ea4bfc48a316f1a59.png" alt="Cover for Colores Santos" style="max-width:120px; height:auto;" />
       </td>
@@ -609,12 +604,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 6</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MkyHgwjgso4ZINQ8OsDi2YbF2gR2XuY471S_15YIrWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjYx/OC0xNjAyNTM1MDE1/LTExOTIuanBlZw.jpeg" alt="Cover for Sound Of Silver" style="max-width:120px; height:auto;" />
       </td>
@@ -629,13 +624,13 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 24</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 76</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 76</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a07f7c6658139d17ca702962ee6a3be0.png" alt="Cover for Insomniatic" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +669,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/108e7f7da4b042cf8018d39ce522d061.png" alt="Cover for Vespertine (EU Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -697,14 +692,14 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 36</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 77</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 82</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 83</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b1d4497a8ffbcaef138a87d927c473.png" alt="Cover for No You Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +719,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e361cdd13244747a1897a1df6270c9d.png" alt="Cover for The Future Will Come" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +736,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f1a5b6026346749f478ad6356b9ff7.png" alt="Cover for One More Chance" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +775,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa58b1879270488694531dc0635e7693.png" alt="Cover for Blue Eyed Black Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -812,14 +807,14 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 15</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 64</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 14</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18a17c6bd4324ee0b3452be921de39d3.png" alt="Cover for Sex Dreams and Denim Jeans" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +833,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f784ef3a7bbe4c8b847a875a57e98d44.png" alt="Cover for The Boxer" style="max-width:120px; height:auto;" />
       </td>
@@ -875,13 +870,13 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 76</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 77</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5c899a52d2cfd06a81f489afeaeaff4.png" alt="Cover for Body Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +893,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebcbf5e036a250d73d3ee38f8ed08616.png" alt="Cover for Can&#39;t Do" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +916,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad105bc918341c1851ed99cc936422c.png" alt="Cover for Aabenbaringen over aaskammen" style="max-width:120px; height:auto;" />
       </td>
@@ -937,12 +932,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e2fa9207abce2e4972afbcb2007f098.png" alt="Cover for Zonoscope" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +975,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/PtWkzku5YxdGBKJ8Yc0gtOo-qRTzmYLb2TB2YjnDvIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU0/NDAzLTE2Mjg5MDg3/OTUtNTc4NS5wbmc.jpeg" alt="Cover for The Golden Age - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1014,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 38</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 39</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 59</li>
         </ul>
       </td>
@@ -1043,7 +1038,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af29e149b06245e19ecb31a1871cc4c8.png" alt="Cover for Torches" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1057,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/383182a804444acca899161200f52fab.png" alt="Cover for It&#39;s All True" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,13 +1078,13 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 2</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 19</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 26</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2011-10-18</td>
@@ -1123,12 +1118,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 52</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30074a5958afb0818a24b9e1c3e5479e.png" alt="Cover for Version 2.0 (20th Anniversary Deluxe Edition &#x2F; Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1164,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 57</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 92</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 97</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 100</li>
@@ -1177,7 +1172,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24055c59c0e24b8799b6577aa61859bd.png" alt="Cover for World, You Need a Change of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1207,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8433bbf1c08246ef9ef4051d07fb2254.png" alt="Cover for Master of My Make-Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,13 +1223,13 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 31</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 32</li>
             <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0097c185cc9e4a58ca62cc59bc101566.png" alt="Cover for Dry Land Is Not A Myth" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1248,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ee049a6b12d4cf4cc172dab38ce5b01.png" alt="Cover for Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1283,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/239c019755e14afe9caaca45c5a92f26.png" alt="Cover for Black Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1307,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33b2d81dc9f2a252cc85a674e1c7059c.png" alt="Cover for Delta Machine (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1327,28 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/097dd60213af4ab2a135f19745110c15.png" alt="Cover for Kids In L.A." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-17</td>
+      <td>Kisses</td>
+      <td>Kids In L.A.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
       </td>
       <td>2013-05-13</td>
@@ -1349,7 +1365,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac4311ab06cbb5b5fff4425913f767e4.png" alt="Cover for Electric" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1383,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6efa2e8854f2321b542d4ed9ef271b43.png" alt="Cover for Nervous Young Inhumans (Single Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1405,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b5a6d216fe4d39801fbf3cc4c8b2b5.png" alt="Cover for Dynamics" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,7 +1426,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dfc93c730d96eeb22c4d6ce91c5b9fc.png" alt="Cover for Apar" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1444,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bc0ff68aeb8414897e6f0d13908fdd8.png" alt="Cover for Reflektor" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1463,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5cafce5e257246769aa6f05c6f77724.png" alt="Cover for Night Time, My Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1484,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cfed79e77cc4c228f741d5c02a8a5c5.png" alt="Cover for Free Your Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,12 +1500,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 66</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1164547a050754ea1291e4c6197b24ce.png" alt="Cover for Listen (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1525,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/c_iMh5RfObWHTRhQvNVEG0kNZyVcT2j7kZY7osEHVSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDIy/MjItMTQyMzY4NjUy/NC04OTUzLmpwZWc.jpeg" alt="Cover for The Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1594,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4c4f4eb4fa6e9215ecb6705cbb72de.png" alt="Cover for After Laughter" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1618,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d344ad55c902ed4a74794b0f342aef05.png" alt="Cover for Everything Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,12 +1632,12 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 92</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/UBJFBkJz_bhyugp3WoiCysXB34zXT9CqkqCJrNQ-lag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcy/MzgwLTE1MDU4NDYy/MjktNzkwMi5qcGVn.jpeg" alt="Cover for American Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1652,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 56</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 57</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 98</li>
         </ul>
       </td>
@@ -1660,7 +1676,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/mFHr87JpW-9yD6mYiCwYPPdnFPdTNTRHsGtKzBUJ6AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc4/MDcxLTE1NTEyMzcw/NTctNTY4MS5qcGVn.jpeg" alt="Cover for PUNK" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,13 +1691,13 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 43</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 44</li>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09bab634deffda398be3d01b9257245.png" alt="Cover for Virtue" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,24 +1706,19 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       <td>Virtue</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 16</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 89</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 93</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 11</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 99</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bc6834f49b6a08bce3a83d9b4b57b0e.png" alt="Cover for LM5 (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1740,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/iF8sqYyG5HCfYY4LP_CnnwHelBbLrhmc0V5mm1bu-9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQy/NDgyLTE1NTI0MTY3/MzQtNzQ5MC5qcGVn.jpeg" alt="Cover for Groove Denied" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1761,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f47ac429c66cfd2be5fe653dd2e8bb.png" alt="Cover for Ambitions" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1784,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed59922001ed53193f40534148754846.png" alt="Cover for Voyager" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1803,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f9c9ade7261d48a48e4057be2428fd7.png" alt="Cover for Season 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1826,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/CkaCFGahiRKIHSOv5HUnbc-NP7GNcfp6n1CNebsq7ZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE0/ODU1LTE1ODk0OTcz/MzgtNTIxMC5qcGVn.jpeg" alt="Cover for Making A Door Less Open" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,7 +1844,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/cJhENmv-FCXb7A6g0rjOLIFbI58V4vYF0zCTUje6dSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU4/ODkzLTE1ODkwOTUw/MTAtMjEwNy5qcGVn.jpeg" alt="Cover for Petals For Armor" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,13 +1861,13 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 27</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 34</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/737327e731cf1ab5bbfe16450176bc90.png" alt="Cover for All The Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1886,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/491fbbd17afccba0df02e62b66e4bc6e.png" alt="Cover for Song Machine, Season One: Strange Timez (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,7 +1899,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 52</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1911,7 +1922,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53fd956aef94ba67fadb2d2086be9ca.png" alt="Cover for Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1946,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 51</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 55</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 68</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 91</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 95</li>
@@ -1943,7 +1954,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/d35eGh6uX3cgxxVdGug0oT9ENznGRiPT2bZ203uOX2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI5/NzUyLTE2NTAzMjMx/MjYtMjE4Ni5qcGVn.jpeg" alt="Cover for Giving The World Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1981,7 +1992,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/057f7c63fea9ddb00a56ef9e953588b8.png" alt="Cover for Perfect Saviors" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,36 +2018,14 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 64</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 67</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 68</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 88</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e78ec66203caca44d4549799a5b868ab.png" alt="Cover for Ooh Rap I Ya" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-07-28</td>
-      <td>George Clanton</td>
-      <td>Ooh Rap I Ya</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 49</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 53</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c95c92665866c9041573b3cb72d9b1b6.png" alt="Cover for A Fever Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -2052,7 +2041,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 35</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2079,7 +2068,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cfe2d5b7ba7cea61a7cc44ef9b17f38.png" alt="Cover for Men Amongst Mountains" style="max-width:120px; height:auto;" />
       </td>
@@ -2095,7 +2084,7 @@ Alternative dance music, also known as indie dance, is a genre that combines ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 94</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 95</li>
         </ul>
       </td>
     </tr>

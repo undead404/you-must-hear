@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T12:35:21.938Z
+date: 2025-11-19T20:30:54.890Z
 permalink: tags/mpb
 title: mpb
 ---
 
 ## mpb
 
-Last updated: <time datetime="2025-11-15T12:35:21.938Z">Sat Nov 15 2025 14:35:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:30:54.890Z">Wed Nov 19 2025 22:30:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,7 +80,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 35</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 36</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 78</li>
         </ul>
       </td>
@@ -101,24 +101,6 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       <td>
         <ul>
             <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Arthur Verocai</td>
-      <td>Arthur Verocai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -163,6 +145,24 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dac72435b0cd763bb7f0dd6f50640db.png" alt="Cover for Arthur Verocai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Arthur Verocai</td>
+      <td>Arthur Verocai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba1aab74287e490bd47bb3030dee9eba.png" alt="Cover for Racional (Vol 1)" style="max-width:120px; height:auto;" />
@@ -180,7 +180,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 61</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -205,7 +205,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/JE4doX59VYrSOzCvRMKFXfgykoXkNsgX_Z4DynLf_mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEx/OTQ1LTE2MzE3MzQw/NjAtNDE0Ny5qcGVn.jpeg" alt="Cover for Little Pepper - The Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -219,7 +219,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 24</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -238,12 +238,12 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/gYGm8smMX2eXv9stcPPhMNGpQGzFdLGU-RYYx2Ifi_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzk5/NjAtMTQ5MjUyNzUw/MS04Mzc5LmpwZWc.jpeg" alt="Cover for Meus Caros Amigos" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 4</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -279,7 +279,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/X_Pc8ncv7XF_HjU76_5K76WTVLOvI21_4HoxVyL8YXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTY1/Ny0xNDI2NzMyMDAx/LTExMzkuanBlZw.jpeg" alt="Cover for Falso Brilhante" style="max-width:120px; height:auto;" />
       </td>
@@ -299,28 +299,11 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6878439d8629919d8a55d076eabd314.png" alt="Cover for Refavela" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Gilberto Gil</td>
       <td>Refavela</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/tcQRhjWYWuS03cW7CpTvVXsjQQALMy8az-B8lxYK5gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njc5/NjktMTYzNDA1NjAx/MS0xMDAwLmpwZWc.jpeg" alt="Cover for Álibi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1978</td>
-      <td>Maria Bethânia</td>
-      <td>Álibi</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
@@ -353,6 +336,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/140129a5313fcec9faa5e79dae19864e.png" alt="Cover for Mel" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Maria Bethânia</td>
@@ -365,12 +349,12 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 72</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/t-SysxfFLxth_qTOf3nYJr-p9kSC1LXKTfecwkblHAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzM5/MzAtMTQ0NzczODg4/NS01NDA3LmpwZWc.jpeg" alt="Cover for Mas Que Nada" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +370,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 87</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 89</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 94</li>
         </ul>
       </td>
@@ -394,7 +378,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/h9PDQhdBwv3mZDnydG83ybH4PWP7hTIM5sNH1rG5H5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkx/OTAtMTU0NTg3NDQ2/Ny0zNTMyLmpwZWc.jpeg" alt="Cover for Angela RoRo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f96d91d17979c3a0ee5edc56431e199.png" alt="Cover for Angela RoRo" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Angela Ro Ro</td>
@@ -449,7 +433,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 68</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 76</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 78</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 87</li>
         </ul>
       </td>
@@ -469,12 +453,12 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 57</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>1982</td>
@@ -512,9 +496,9 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/ahvnU6YdjgCQqETRwBqwy-Dhoa-pQcbHs6DOlTCkolg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTg0/MjItMTQyMDY0NTgz/Ni0zMDI4LmpwZWc.jpeg" alt="Cover for Clube Da Esquina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5771f26c4fe8d2142a586ee1725f9ca.png" alt="Cover for Clube Da Esquina" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Milton Nascimento</td>
@@ -572,7 +556,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/OnEfHeFmonZ-3BZzj5xQEgCPdpT2D75S85BiS7LmRGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg2/OTQtMTI5NzA0MDMx/Ny5qcGVn.jpeg" alt="Cover for A Pele do Futuro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c7fe93d3a3c41860301776b31ae4f1.png" alt="Cover for A Pele do Futuro" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Gal Costa</td>
@@ -620,7 +604,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 26</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -642,7 +626,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td>1992</td>
@@ -674,7 +658,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 83</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 85</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 91</li>
         </ul>
       </td>
@@ -713,7 +697,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 23</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -805,12 +789,12 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 12</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/bwo5f6KDDSETG6OaR84yFS-gBu42PXGKB5yh55wC-KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDA5/NDAtMTQ2NzQ1NTQ3/MS04NTYwLmpwZWc.jpeg" alt="Cover for Memorias, Cronicas e Declara.." style="max-width:120px; height:auto;" />
       </td>
@@ -823,7 +807,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 39</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +831,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6210b95657dd065bcd2e174703b9f852.png" alt="Cover for Memórias, Crônicas e Declarações de Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +844,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 34</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -898,7 +882,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 16</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1106,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 95</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 96</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 98</li>
         </ul>
       </td>
@@ -1146,7 +1130,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 69</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 79</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 81</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 88</li>
         </ul>
       </td>
@@ -1190,14 +1174,14 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 75</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 61</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 76</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19166eb4b39a4b05b8a94d29dbcf5b70.png" alt="Cover for Sim" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1197,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 48</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 50</li>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 63</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 99</li>
         </ul>
@@ -1276,8 +1260,8 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 59</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 74</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 75</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 85</li>
         </ul>
       </td>
@@ -1336,7 +1320,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/784998f8e7784b6cbedfb8ddb8121b4d.png" alt="Cover for Efêmera" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1357,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2011-11-04</td>
@@ -1408,8 +1392,8 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 48</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 92</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 49</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 93</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 95</li>
         </ul>
       </td>
@@ -1447,7 +1431,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 39</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1467,7 +1451,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 42</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1508,7 +1492,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 33</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1571,7 +1555,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f26fd341142e3fdc9d5e1511e25e09.png" alt="Cover for Melhor Do Que Parece" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,8 +1592,8 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 36</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 58</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 37</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1713,7 +1697,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/RVTImVSfOt6fOvhLLPtirasQ0aGlJtYwJtHuRzgYLjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQy/MDc3LTE1NjQ1NjYz/MzUtODg2OC5qcGVn.jpeg" alt="Cover for Goela Abaixo" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,7 +1715,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/hqIzwQGUoRBWfaILPpBRNWGvvqB0-MQt-GntJpKZ6VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM0/NTg3LTE1NzI0NDYy/NzAtNDE1Ny5qcGVn.jpeg" alt="Cover for Little Electric Chicken Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1730,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 46</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 48</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 85</li>
         </ul>
       </td>
@@ -1772,7 +1756,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/6sEnV9uPiTlnvCOOuAWy8Swy7p_rrLISJ6fDmi3XmFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg1/NDE0LTE2MzEyOTY1/MDAtNTIxOC5qcGVn.jpeg" alt="Cover for Indigo Borboleta Anil" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1772,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 30</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 96</li>
         </ul>
       </td>
@@ -1836,10 +1820,10 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 37</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 44</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 44</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 45</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 47</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 56</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 62</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1883,7 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 56</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1978,7 +1962,26 @@ MPB stands for Música Popular Brasileira, which translates to &quot;Brazilian P
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Adriana Calcanhoto</td>
+      <td>Fabrica de Poema</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9976fc2675cb4e40cefc393419cbbbae.png" alt="Cover for Leve" style="max-width:120px; height:auto;" />
       </td>

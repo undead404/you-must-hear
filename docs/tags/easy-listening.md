@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T12:03:42.509Z
+date: 2025-11-19T20:30:10.914Z
 permalink: tags/easy-listening
 title: easy listening
 ---
 
 ## easy listening
 
-Last updated: <time datetime="2025-11-17T12:03:42.509Z">Mon Nov 17 2025 14:03:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:30:10.914Z">Wed Nov 19 2025 22:30:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
         <ul>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 62</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 91</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1960</td>
@@ -126,7 +126,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
       </td>
       <td>1963</td>
@@ -143,7 +143,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/052ef8711e2d4107ac0f074655fa97c5.png" alt="Cover for Surfing" style="max-width:120px; height:auto;" />
       </td>
@@ -159,12 +159,12 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 39</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef10464f79acf0ca8620a51d6c61ef71.png" alt="Cover for Make Way for Dionne Warwick" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +226,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8fef42e5b43a6e7e17ecee95a9ffe7c.png" alt="Cover for The Cowsills" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +245,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/s9IFW9yJTM-n8pQvA_UejSE0uGuUoRSpxggfxD8ZIYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTMy/OS0xNjcxNzA3NzE1/LTQ3MjguanBlZw.jpeg" alt="Cover for I See The Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +264,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/BXe8OZL5LAW5Kw8LC9p8EgUIOJxdjXQk6YFwErP5FCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY2/OTYzLTE2MDQ1OTE1/MjYtMjY3OS5qcGVn.jpeg" alt="Cover for Hey, Brother Pour The Wine" style="max-width:120px; height:auto;" />
       </td>
@@ -277,12 +277,12 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 45</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae017947a5fc49f2a29337dfc56033e4.png" alt="Cover for Singles Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +300,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/01SMQOmca5C9kL9GBKcL8VeZeP1gdkwM6wYbgUVZAEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDgw/NzI5LTE0OTEyNTcz/MDEtNDU3MS5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -318,8 +318,9 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6543e37c06e3b346b72f08d6c0da8c5.png" alt="Cover for La legge dei gangsters" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Piero Umiliani</td>
@@ -337,7 +338,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/907b86db0aa604f5b049886bd0219373.png" alt="Cover for I&#39;ll Never Fall In Love Again" style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +357,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/9NMjydOdB6p8x8hTxjuOopWMi-mBRwJMkHe1hwmRqHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDg5/MDEtMTU3MzAwMTYy/NC0zMjAwLmpwZWc.jpeg" alt="Cover for Always on My Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -366,24 +367,6 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/Bmov8h5cpZullP6h2HHEZv_BGzDlp-0BaQtODlXLBjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI3/MTItMTI5MzM3MDkw/MC5qcGVn.jpeg" alt="Cover for Back To Front (deluxe edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Gilbert O&#39;Sullivan</td>
-      <td>Back To Front (deluxe edition)</td>
-      <td>
-        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
         </ul>
       </td>
@@ -411,7 +394,26 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8db304bb9685ec531a424b0a23274cd.png" alt="Cover for Now &amp; Then (Reissue)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Carpenters</td>
+      <td>Now &amp; Then (Reissue)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f2d8f11fd3b299a0e3a407c5c21980d.png" alt="Cover for Rockin&#39; Roll Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -428,28 +430,6 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       <td>
         <ul>
             <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8db304bb9685ec531a424b0a23274cd.png" alt="Cover for Now &amp; Then (Reissue)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1973</td>
-      <td>Carpenters</td>
-      <td>Now &amp; Then (Reissue)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -473,7 +453,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1974</td>
@@ -490,7 +470,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/1ya_P7Xenxg1LSOuRyUnl4buA8FYNWTfi7rebfWb01w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDM1/MzAtMTMzODgwNTQ2/OC01OTQ4LmpwZWc.jpeg" alt="Cover for Closeup" style="max-width:120px; height:auto;" />
       </td>
@@ -524,12 +504,30 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 89</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2b66684f6f6bab46f900bb9a88d4279.png" alt="Cover for Horizon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-06-06</td>
+      <td>Carpenters</td>
+      <td>Horizon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/WpLZmTkVDMUGs1sV06m6wc4CmL8Kdj5OtO6BYPSPciU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAy/ODUtMTMzNjUwODUw/Ny04NDAwLmpwZWc.jpeg" alt="Cover for Sherry and 11 Other Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +545,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1977</td>
@@ -565,7 +563,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/GfG-mzeg-yDwMwi7nVhYF4WQewcd9m1lTsQIH2XJUjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/NzgzLTE1MjIwOTQw/NjUtNTYwOS5qcGVn.jpeg" alt="Cover for At The Movies" style="max-width:120px; height:auto;" />
       </td>
@@ -600,12 +598,12 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 97</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td>1979</td>
@@ -624,7 +622,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/YZkNzMMOMsN01Xr1zI0-vG04k6YG4MwsLixydpPF7D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQ0/ODItMTUzODA0ODUx/NC01NTA4LmpwZWc.jpeg" alt="Cover for The Very Best Of Frankie Valli &amp; The 4 Seasons" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +640,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/U64B4-zUYRqAzBWhFJSLMMRcyyJVtiliueBDYTsSS-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEw/ODg3LTE1OTExMDM3/ODUtNjU1Ny5qcGVn.jpeg" alt="Cover for Mayerling" style="max-width:120px; height:auto;" />
       </td>
@@ -692,13 +690,13 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 49</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 74</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 47</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d94b756f2bd208b978d15e5f4c7833d.png" alt="Cover for The Dude" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +734,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6358c86aa21bff6fd84d6c70ecadc5ea.png" alt="Cover for Straight From The Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +772,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36771f05a4320131f5e63f969e22c9d3.png" alt="Cover for Garfunkel" style="max-width:120px; height:auto;" />
       </td>
@@ -793,7 +791,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/YevIsLRCUZVnnG5aGBPH4xwszrPzPbArNh6VgjegK8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzU3/MTMtMTQ1OTYwNjI3/MC0zNTQyLmpwZWc.jpeg" alt="Cover for Bellamy Brothers" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +809,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1991</td>
@@ -830,7 +828,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1991-03-26</td>
@@ -844,7 +842,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 10</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 93</li>
         </ul>
       </td>
@@ -864,12 +862,12 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 72</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38fd11e269c3467992a9d5625495f318.png" alt="Cover for Light My Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -888,7 +886,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85b1934d93ae40c28ed6615253897941.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
@@ -902,12 +900,12 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 62</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1beb31da0e5348a4afaa49713da0842e.png" alt="Cover for The Best Of Gilbert O&#39;Sullivan" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +943,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9233ab9dfede4b5ba52347fd8062c2c3.png" alt="Cover for Uma Outra Estação" style="max-width:120px; height:auto;" />
       </td>
@@ -965,8 +963,9 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab542f063b254063b801ee9195c10c2d.png" alt="Cover for Blessid Union Of Souls" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-20</td>
       <td>Blessid Union Of Souls</td>
@@ -1001,7 +1000,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85c0dbbd3c306750f1488f745eea402e.png" alt="Cover for When Will I See You Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,27 +1018,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d09395b34380a1d000e30c65e4448006.png" alt="Cover for Um Sonhador" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998-07-15</td>
-      <td>Leandro &amp; Leonardo</td>
-      <td>Um Sonhador</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1999</td>
@@ -1052,12 +1031,12 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 45</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/7web6sXfpMktXZIsB_Z0bXYTLpxhBBoYljP0FlhfXEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzI2/Ni0xNjE4NjIyMDU2/LTQ3MTYuanBlZw.jpeg" alt="Cover for Barefoot on the Beach" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1054,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad0cf67f2a6130f084b5e69eb3064de6.png" alt="Cover for The Very Best Of Dan Fogelberg" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,7 +1073,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3aef976cd344dc18a1665706dd4ed86.png" alt="Cover for Christmas Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1109,24 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Michael Learns to Rock</td>
+      <td>19 Love Ballads</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/M5hlbggx-RpoT0pXmfkgguSKb7glsiam20bk_e_CVIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI2/NDAtMTU1MzE4MzUw/Ni0xMjk0LmpwZWc.jpeg" alt="Cover for Jackie Cane" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,6 +1152,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daa25025f4d44935aa05a4409787f61a.png" alt="Cover for Ultimate Manilow" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-05</td>
       <td>Barry Manilow</td>
@@ -1191,7 +1188,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/r5koPva1xzf_4sWIcy-gZMaJluzUuaSVYkwMvk6Sx28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/OTI5LTE1OTUwNzky/NjMtNDE1Ni5qcGVn.jpeg" alt="Cover for The Ultimate Mel Torme" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1207,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2003</td>
@@ -1247,7 +1244,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/f9hrY4qjdeJa6gQTkPQ2f-y58i2flPAxD95YD2SRriQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDA4/MjQ2LTE2ODcwMDI1/OTEtNTg0Mi5qcGVn.jpeg" alt="Cover for Harry Belafonte" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1282,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 5</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1323,7 +1320,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Jjt_vlLn9NoFlPNo_MiYojX-mxy2-KI0sm7pTGtiAYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/Mzc5LTE1NjcwMDEz/NTEtNzUyNS5qcGVn.jpeg" alt="Cover for Wonderful Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1339,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e5c217d950667b88fac38473446be00.png" alt="Cover for Changes in the Weather" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1377,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c2605eef6c4484281da41461b9f6aa8.png" alt="Cover for Live With Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,7 +1396,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ade4e9c6108d4044b5a140df3d9210f3.png" alt="Cover for Nichts für ungut" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,7 +1414,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>2007</td>
@@ -1430,7 +1427,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 58</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1472,7 +1469,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f3299ae0cf54fe0af5d5200e838f1c0.png" alt="Cover for Walk Softly" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1489,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d21555a2ec22989dcb3f7c7ea4580840.png" alt="Cover for The Stranger (Legacy Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,12 +1503,12 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 20</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ffd123a4e3044cb8b917649c3ad0364.png" alt="Cover for The Symphonies: Dreams Memories &amp; Parties" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,7 +1525,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 34</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1551,7 +1548,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2010-08-20</td>
@@ -1587,12 +1584,13 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 5</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/D4rrzj3tdCxdBR5XV2s0sy45-_Kcs1IDybXYyGzxz0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQw/OTk0LTE1MjE1Nzky/MjgtNzAwNC5qcGVn.jpeg" alt="Cover for Rock Dust Light Star (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1608,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2010-11-08</td>
@@ -1650,7 +1648,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/-qf6Fo8W9DKOsP_27-0fS7o7v-MBB37o_C8kNBVPDlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjky/MzUtMTMyMTQyNjEy/MC5qcGVn.jpeg" alt="Cover for Daybreak" style="max-width:120px; height:auto;" />
       </td>
@@ -1670,7 +1668,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2011-11-28</td>
@@ -1690,7 +1688,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 78</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 79</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 88</li>
         </ul>
       </td>
@@ -1711,7 +1709,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1736,8 +1734,8 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 35</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 58</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 60</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1763,7 +1761,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,31 +1832,31 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 22</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ce9c4fb720af37501b5814a078252e5.png" alt="Cover for Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,7 +1874,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2014-12-01</td>
@@ -1904,7 +1902,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 40</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 74</li>
@@ -1943,7 +1941,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbcf219249f712dead17337d92db73ec.png" alt="Cover for FLOTUS" style="max-width:120px; height:auto;" />
       </td>
@@ -1982,7 +1980,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/kjVBVNy9fJYmJLl6zqHe4YMMgC_l6-8AyMxqIvQAbOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/ODM1LTE1ODQxMTUz/MzEtNjI5My5qcGVn.jpeg" alt="Cover for Guardian (Original Television Soundtrack Part 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,7 +2000,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/1FoHPlm1b7cfb9ZiUpGKvwxS0ZQWccICRZcqvtz-iok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU0/MDE2LTE2MDQzNDg1/MDQtNDk0My5qcGVn.jpeg" alt="Cover for Music from Patch Cord Productions" style="max-width:120px; height:auto;" />
       </td>
@@ -2084,17 +2082,18 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 69</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
@@ -2104,7 +2103,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4cbcd3b8f553e3b339a3ed11b807081.png" alt="Cover for O Que Existe Dentro de Mim" style="max-width:120px; height:auto;" />
       </td>
@@ -2123,7 +2122,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
