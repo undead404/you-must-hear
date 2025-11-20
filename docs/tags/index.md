@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-20T06:13:57.047Z
+date: 2025-11-20T08:58:34.737Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-20T06:13:57.047Z">Thu Nov 20 2025 08:13:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T08:58:34.737Z">Thu Nov 20 2025 10:58:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [world]({{ "tags/world" | relative_url }}) | <time datetime="2025-11-20T08:58:34.737Z">Thu Nov 20 2025 10:58:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive ambient]({{ "tags/progressive-ambient" | relative_url }}) | <time datetime="2025-11-20T06:13:57.047Z">Thu Nov 20 2025 08:13:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [deep and dark]({{ "tags/deep-and-dark" | relative_url }}) | <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage rock revival]({{ "tags/garage-rock-revival" | relative_url }}) | <time datetime="2025-11-20T04:27:10.367Z">Thu Nov 20 2025 06:27:10 GMT+0200 (Eastern European Standard Time)</time> |
@@ -811,7 +812,6 @@ Last updated: <time datetime="2025-11-20T06:13:57.047Z">Thu Nov 20 2025 08:13:57
 | [latino]({{ "tags/latino" | relative_url }}) | <time datetime="2025-10-31T20:55:51.053Z">Fri Oct 31 2025 22:55:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [bagpipes]({{ "tags/bagpipes" | relative_url }}) | <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [barcelona]({{ "tags/barcelona" | relative_url }}) | <time datetime="2025-10-31T17:50:50.969Z">Fri Oct 31 2025 19:50:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [world]({{ "tags/world" | relative_url }}) | <time datetime="2025-10-31T07:16:19.055Z">Fri Oct 31 2025 09:16:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [chicago blues]({{ "tags/chicago-blues" | relative_url }}) | <time datetime="2025-10-31T06:52:19.070Z">Fri Oct 31 2025 08:52:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [comedian]({{ "tags/comedian" | relative_url }}) | <time datetime="2025-10-31T05:57:20.492Z">Fri Oct 31 2025 07:57:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [mastersinger]({{ "tags/mastersinger" | relative_url }}) | <time datetime="2025-10-31T02:45:30.082Z">Fri Oct 31 2025 04:45:30 GMT+0200 (Eastern European Standard Time)</time> |
