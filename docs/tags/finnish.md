@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T05:14:39.816Z
+date: 2025-11-19T20:42:01.339Z
 permalink: tags/finnish
 title: finnish
 ---
 
 ## finnish
 
-Last updated: <time datetime="2025-11-14T05:14:39.816Z">Fri Nov 14 2025 07:14:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-19T20:42:01.339Z">Wed Nov 19 2025 22:42:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a77f681305a5aacacea16f47ca9e8651.png" alt="Cover for Harakka Bialoipokku" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60c84ec1969aff664f3fac9ceef0308.png" alt="Cover for Musiikkiluokka" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5149d32388da9c4acc91a9fa8c3b9f2c.png" alt="Cover for Intervision" style="max-width:120px; height:auto;" />
       </td>
@@ -131,27 +131,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/ooerATq_kZ3McV9NsOG2bNAWCjOoOst1oYdTdlW3n3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTE2/Ni0xNTExMDA3MjI1/LTc3NzcuanBlZw.jpeg" alt="Cover for Greatest Lovesongs VOL.666" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-11-03</td>
-      <td>Him</td>
-      <td>Greatest Lovesongs VOL.666</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/ooerATq_kZ3McV9NsOG2bNAWCjOoOst1oYdTdlW3n3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTE2/Ni0xNTExMDA3MjI1/LTc3NzcuanBlZw.jpeg" alt="Cover for Greatest Lovesongs Vol. 666" style="max-width:120px; height:auto;" />
       </td>
@@ -166,12 +146,12 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 31</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f865725b6e5e4d8581150ad0f020a892.png" alt="Cover for Eleven" style="max-width:120px; height:auto;" />
       </td>
@@ -208,7 +188,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f7d7f7d4168471ba27571aa2b1eaa88.png" alt="Cover for Kalifornia" style="max-width:120px; height:auto;" />
       </td>
@@ -226,7 +206,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>1999-12-19</td>
@@ -255,9 +235,9 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 10</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 48</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 59</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 23</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 52</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -281,7 +261,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/8ZEiM1KqvncW_0kPtnUaBuXSvBTYJpYbcX-epvOh6Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDk1/My0xNDc5OTMyODMw/LTE4OTQuanBlZw.jpeg" alt="Cover for Helvetisti järkeä" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +280,27 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f251b828ebd7757a906e1a39015783b.png" alt="Cover for Over the Hills and Far Away" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-06-08</td>
+      <td>Nightwish</td>
+      <td>Over the Hills and Far Away</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 13</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/5dvWBtOB-ZXOzChpQ8NeAEzoYRmonPd9NuzdVvAS7Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/MC0xNDgwMjY3MTI3/LTU3OTguanBlZw.jpeg" alt="Cover for Jokaiselle tulta" style="max-width:120px; height:auto;" />
       </td>
@@ -356,12 +356,12 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>2002-09</td>
@@ -397,7 +397,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/Pgvtc_i2E6GupIVxwycnLQJGH9UmzGrwTAQF5MzV158/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzg1/My0xMzM1MTgxNzM2/LmpwZWc.jpeg" alt="Cover for Ei" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +415,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2003-02-21</td>
@@ -449,7 +449,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2003-04-14</td>
@@ -519,7 +519,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/YgG-kH-N6pn3Vkmh3EEdAYUA4ooj_mjLmRG-pfjHqNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzky/MjktMTMzNTIwMTc3/OC5qcGVn.jpeg" alt="Cover for Jättiläinen" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +612,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa6b4e44e8e4cb69f98ab2752c98604.png" alt="Cover for Nimikirjaimet" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +630,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/70srTrXKiNAnOv8mF1nhjFXhQk6yA_VTlFzBWVWg9u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODM4/Ny0xMTc4NTE4NDA5/LmpwZWc.jpeg" alt="Cover for Risto" style="max-width:120px; height:auto;" />
       </td>
@@ -663,17 +663,16 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 46</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/fIl3qB_Y08ObZ88hnQ7Kx-UHfnDrnqHSeK_I6aH_Nhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDI1/MzEtMTUwNDI0ODc0/Ny0xMTUwLmpwZWc.jpeg" alt="Cover for Laiska, tyhmä ja saamaton" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +728,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/HZm1RVtPU3KrsT16gtYLNOuluDSEA4XgiZpAcMvk__0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzcw/OC0xNTY5MDYzODQy/LTcwMDMuanBlZw.jpeg" alt="Cover for The Siren" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +819,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/JhNZ1IAze02qQD_M2ADaLWyAvNVOHR9EJAGU1744mr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkz/MDMtMTYwMDczNDcy/Ni04NDAyLmpwZWc.jpeg" alt="Cover for Henkays Ikuisuudesta" style="max-width:120px; height:auto;" />
       </td>
@@ -834,12 +833,12 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 27</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56a13efa5dc441be9d0a095b61ca544c.png" alt="Cover for Humppasirkus" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +913,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c57a92cbd50e9ecb99703d0939b59cc5.png" alt="Cover for Ukkonen" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +933,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fea11143f8749b581ca66f2c4eaa00a.png" alt="Cover for Lust Stained Despair" style="max-width:120px; height:auto;" />
       </td>
@@ -986,12 +985,12 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 16</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21dc15f46618334a4bf67d889f9734ae.png" alt="Cover for Terveisiä Kaaoksesta" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,6 +1075,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 20</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 80</li>
         </ul>
       </td>
@@ -1099,7 +1099,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0193e22e9898e579b44679ff84e398af.png" alt="Cover for Salainen Maailma" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,6 +1121,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ff9b73de5c8a8a1f3f247e7f1c98a6.png" alt="Cover for Laulu laakson kukista" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-14</td>
       <td>Paavoharju</td>
@@ -1132,12 +1133,12 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 1</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d8cc3243bdd7449f1855705f83c0c71.png" alt="Cover for Haloo Helsinki!" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1158,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62a576030a084319991d14257ad26c10.png" alt="Cover for Sotakoira" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1176,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b5e6f3f9723489cb8401ddf1ef0f468.png" alt="Cover for Valoissa" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1196,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/Ss5lRAjckNaWVHzHXSgRI6kvI6qGpgNL8CFMBXNNR50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ5/MjQtMTYwMzY0MzMz/Ny04MDc3LmpwZWc.jpeg" alt="Cover for Iron (2009 Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f8413d50dd24d61aa3383a5ae81ef0.png" alt="Cover for Iron (2009 Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Ensiferum</td>
@@ -1218,7 +1219,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/877d03fcbc7ad8db34f643c62465c995.png" alt="Cover for Aboa Sleeping" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1239,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5c7e5cf8ca84293b2fd8a2617b001bd.png" alt="Cover for Syvään valoon" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,13 +1314,13 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 52</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 57</li>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2009-08-24</td>
@@ -1339,7 +1340,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2009-08-28</td>
@@ -1377,7 +1378,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6163add16ca4e89a3149ab82f391949.png" alt="Cover for 7th Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1397,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>2010-09-22</td>
@@ -1413,7 +1414,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b00ddf8d8fd7404f90ae24b46b617774.png" alt="Cover for Puolimieli" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1477,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1500,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2012-10-12</td>
@@ -1572,7 +1573,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/g37VXikMoMrb6jOveRT5JXEcuscLRqOkKqrD-dGiEXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzQy/MTYtMTQyOTg2MTI3/NC00NjYyLmpwZWc.jpeg" alt="Cover for Lelu" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1593,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/1dsOcGY_RkvVSisvpK_Rk-f8JlArNqgD3HNzcTnVJps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTMw/ODUtMTUxNTg3NjM5/MC03OTQyLmpwZWc.jpeg" alt="Cover for At The Break Of Dawn (feat. Elize Ryd)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecb0e2ca9ec54eec4b0ba14a3b63817e.png" alt="Cover for At The Break Of Dawn (feat. Elize Ryd)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Arion</td>
@@ -1654,7 +1655,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/PMYP2jPrbamJMnV_sLIxgjWIgkNdeNP2dx9ZwaUgVCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzU4/MzAtMTU5MDE2Njk5/My05MTY0LmpwZWc.jpeg" alt="Cover for Blade Reflections" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5681d8236724f993ca2b436a7076d11.png" alt="Cover for Blade Reflections" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-17</td>
       <td>Omnium Gatherum</td>
@@ -1676,7 +1677,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75c48f623e9a1117ef2b1e2d9d6cb280.png" alt="Cover for Circadian" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,9 +1697,9 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/jKUvCJEX6CWnkGe4WWt3lPDCgnfq7w5tw3JRyAKTuG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU3/Nzg1LTE1MTI4NzMz/NTQtNzE2NS5qcGVn.jpeg" alt="Cover for Permanently Midnight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b980e719e429273b4cc1d887ddb97a6.png" alt="Cover for Permanently Midnight" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-08</td>
       <td>The Gentleman Losers</td>
@@ -1717,7 +1718,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 32</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 38</li>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 95</li>
         </ul>
       </td>
@@ -1767,7 +1768,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a382a6421ce7ccb2e49c2e0c7e51cac4.png" alt="Cover for Kevätuhri" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,7 +1809,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca48cb908937edd68cfe8a8a329b22e0.png" alt="Cover for Farm Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1828,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 36</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 37</li>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 94</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 100</li>
         </ul>
@@ -1867,7 +1868,7 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 77</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1886,13 +1887,13 @@ Finnish music blends melancholic melodies with heavy metal and rock influences, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 31</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 32</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee9c2ccc5770ec3a10e606bd631ba310.png" alt="Cover for Älä pelkää elämää" style="max-width:120px; height:auto;" />
       </td>
