@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T06:57:14.418Z
+date: 2025-11-22T16:31:52.868Z
 permalink: tags/spanish-guitar
 title: spanish guitar
 ---
 
 ## spanish guitar
 
-Last updated: <time datetime="2025-11-07T06:57:14.418Z">Fri Nov 07 2025 08:57:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T16:31:52.868Z">Sat Nov 22 2025 18:31:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -108,6 +108,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fbce150099821fd4b3322e50765856b.png" alt="Cover for Fuente y Caudal" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Paco de Lucía</td>
@@ -119,7 +120,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 62</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -248,13 +249,14 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 78</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec2f6ed360af4c0185f244876f79956e.png" alt="Cover for Spanish Guitar Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>John Williams</td>
@@ -266,7 +268,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 33</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 32</li>
             <li> <a href="{{ "/tags/classical-guitar" | relative_url }}">classical guitar</a> # 36</li>
         </ul>
       </td>
@@ -306,7 +308,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 32</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -380,14 +382,14 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 82</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/ZwKn0TZI24xhHEPFUep35RITYRkdgl5aYmEFn6k6w6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/OTMtMTQ3ODgwODE5/NC04MTExLmpwZWc.jpeg" alt="Cover for FRIDAY NIGHT IN SAN FRANCISCO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/276ad4324ddb2c15d028f916e518d35f.png" alt="Cover for FRIDAY NIGHT IN SAN FRANCISCO" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Paco De Lucia, Al Di Meola, John McLaughlin</td>
@@ -398,7 +400,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 74</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +666,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 70</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +732,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/4WrZ7pTRTqPKq3rgOBW-NbD7gGqdRp5zbC_2AQCpFtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIw/NzQtMTI1NDY0NTQy/Ny5qcGVn.jpeg" alt="Cover for El Deseo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a17b051f1ba0cb8daab54fb8ccb35af.png" alt="Cover for El Deseo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>thomas lorenzo</td>
@@ -825,7 +827,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 39</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -864,7 +866,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       <td>
         <ul>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 64</li>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 80</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -905,7 +907,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -987,7 +989,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/xsTeavGFefDpErc07TfBiLyTckbREJZ4vOxpfzJKdqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODMz/NjctMTM4MDI5Nzg0/OC01MTcyLmpwZWc.jpeg" alt="Cover for Area 52" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27492b081944949b23852439c39492c.png" alt="Cover for Area 52" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Rodrigo y Gabriela</td>
@@ -1000,7 +1002,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 93</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1025,6 +1027,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53542c382cc5b4fe6dd38126d0159a4f.png" alt="Cover for Juego De Almas" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>thomas lorenzo</td>
@@ -1088,7 +1091,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 79</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1106,7 +1109,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 43</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1124,7 +1127,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 24</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1171,8 +1174,8 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       <td>
           <img src="https://i.discogs.com/mtP-I78lDKCUe2gBNSw49iJ_IRAP8byve9sqS6AjaSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA5/ODYtMTQyMzQ2ODk2/OS00MTk1LmpwZWc.jpeg" alt="Cover for Möbius" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-09-29</td>
-      <td>Rin</td>
+      <td>2004-05-12</td>
+      <td>RIN</td>
       <td>Möbius</td>
       <td>
         <ul>
@@ -1381,6 +1384,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f56347b36e534685b70d4dce53e1d9f7.png" alt="Cover for Spanish Breeze" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-25</td>
       <td>thomas lorenzo</td>
@@ -1433,7 +1437,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/cWrQBfM2XLn72Mu7iZ03EBBPTj2Opc2aUBvwPIJK5pA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEz/NTEtMTMxMTYyMzcz/NC5qcGVn.jpeg" alt="Cover for Arco Iris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6cfdde17eeb4567bfd01aa2882506c8.png" alt="Cover for Arco Iris" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-10</td>
       <td>Amina Alaoui</td>
@@ -1510,7 +1514,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/dg2AuHfhZWBAPV7_9ysVmgz3MdGufgLaLecciw8j68Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQx/NzU3LTE0OTIzNTk3/MzAtNzY0My5qcGVn.jpeg" alt="Cover for Guitarras Latinas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b6c620dbdb24e11ce03d28ff376a17a.png" alt="Cover for Guitarras Latinas" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-09</td>
       <td>Antonio Garcia Isaac</td>
@@ -1566,7 +1570,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/n0hhdEQ4i3I3ys4TxCRuU3F4JvaMU9fheCbzg_9G1xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY1/MzQ4LTE1OTM1NDgy/OTMtMTIxNC5wbmc.jpeg" alt="Cover for Blasphemous" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2464cef539030bbb6a9655492f110b2f.png" alt="Cover for Blasphemous" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03</td>
       <td>Carlos Viola</td>
@@ -1658,6 +1662,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c63a9d02114d4263bf4ec6351f6d794e.png" alt="Cover for Paseo De Los Castanos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tomatito</td>
@@ -1669,7 +1674,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 53</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1722,6 +1727,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ced1415432f48c5a44ae80ca359412e.png" alt="Cover for Metaphore" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ryan Deimerly</td>
@@ -1808,6 +1814,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce63f7eaba0fdda5344e9afdd91f0631.png" alt="Cover for Live Everywhere" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kev Gray</td>
@@ -1833,6 +1840,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfaa819697ea4dd3a9c2c515ded15700.png" alt="Cover for Vinylla" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Iyan Igma</td>

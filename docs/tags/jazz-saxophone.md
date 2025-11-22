@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T00:36:38.054Z
+date: 2025-11-22T15:57:40.060Z
 permalink: tags/jazz-saxophone
 title: jazz saxophone
 ---
 
 ## jazz saxophone
 
-Last updated: <time datetime="2025-11-18T00:36:38.054Z">Tue Nov 18 2025 02:36:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T15:57:40.060Z">Sat Nov 22 2025 17:57:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
   </thead>
   <tbody>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/eM-jYVqk19FP1KIFZnec2wgjPLUETObzJG_AAxKhTY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTE4/NjYtMTM1OTc1OTI0/OS02MzM1LmpwZWc.jpeg" alt="Cover for Jazz Masters 30 - Lester Young" style="max-width:120px; height:auto;" />
       </td>
@@ -49,6 +49,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a92bf0fb8794bdc11fee3c7d48152f80.png" alt="Cover for Blue Serge" style="max-width:120px; height:auto;" />
       </td>
       <td>1956</td>
       <td>Serge Chaloff</td>
@@ -103,7 +104,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/oMqSWN3iAcFYAeVXn_hzRSZvi0Rx6jWpPiEUMUMkpiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjI4/NjAtMTM2MTM5MTUx/MC03ODY0LmpwZWc.jpeg" alt="Cover for Polish Jazz Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +127,26 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c65c940885f04aac9c454ec3000c7ec0.png" alt="Cover for Bossa Antigua" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>Paul Desmond</td>
+      <td>Bossa Antigua</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/zAEhOHXV5emn_jAIdyrdmeKcA3ZFaKxNZA0Xt7-4JV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjYz/NTAtMTM0NjMyODcx/NS0xMjI5LmpwZWc.jpeg" alt="Cover for Stan Getz And The Oscar Peterson Trio" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +165,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/7v5DxOTRUm0Q6KneQ5kKBDMTeIBDAjm3gkVe17Sn02o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTU1/MS0xNTYyMjU3NTE3/LTY5OTAuanBlZw.jpeg" alt="Cover for New Thing at Newport" style="max-width:120px; height:auto;" />
       </td>
@@ -165,26 +185,9 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>79</td>
       <td>
-      </td>
-      <td>1965</td>
-      <td>Paul Desmond</td>
-      <td>Glad to Be Unhappy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-          <img src="https://i.discogs.com/TWO1cCWoianVZ0aQPS2i9HQuJN24j2ZunaFCgwPswJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA1/OTczLTE2MjI3NzY4/ODAtNjA5OS5qcGVn.jpeg" alt="Cover for The Definitive John Coltrane On Prestige And Riverside" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24ce733e909d8cea335dae76f56ac0d0.png" alt="Cover for The Definitive John Coltrane On Prestige And Riverside" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>John Coltrane</td>
@@ -222,8 +225,9 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/745758a1327364fee0a568cb8d5fe4ce.png" alt="Cover for Sugar" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Stanley Turrentine</td>
@@ -239,7 +243,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/sCGlhhFE_P-jU7Uyem2MgFkVs_LAT61fU_7AwZBz26M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAy/NzEtMTMyNDQ1MTY1/MS5qcGVn.jpeg" alt="Cover for Taking Off" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +264,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1975-03-01</td>
@@ -299,7 +303,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1976</td>
@@ -316,7 +320,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/hqHJdihGejlRE4PSuKttE1pifjdjeVUpCoDp6H3DE80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODg0/NDUtMTQ4NTgwNDU3/MC03NzI4LmpwZWc.jpeg" alt="Cover for New Thing At Newport" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +338,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>1977</td>
@@ -360,7 +364,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/g5zMibNdWX64vn6tpz8dPetpYHSQlq1b3_r8-5R-8uM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTgz/MjUtMTMxOTE2Njk5/Mi5qcGVn.jpeg" alt="Cover for Basie &amp; Zoot" style="max-width:120px; height:auto;" />
       </td>
@@ -380,7 +384,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/dbDJbfKwp1hEiDo3cEkLKcrYIWEPd_-dwp3OiIFV5r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDgz/NTktMTM0NDQ1MzQ3/My0xMDg4LmpwZWc.jpeg" alt="Cover for Reel Life" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +403,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/R6kyehcW1XvaYg7ulOB4y525gDxeoauu-ayWN_V9Njs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY2/OTYzLTE1MDM5NDQ1/NDYtODU3My5qcGVn.jpeg" alt="Cover for 1975: The Duets" style="max-width:120px; height:auto;" />
       </td>
@@ -418,9 +422,9 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/VaWM69FDVHB-d2wuE3_FCXU4jbVIYJXJAzcC1czmHaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzg4/My0xNjA2OTkyMTMz/LTkzMDcuanBlZw.jpeg" alt="Cover for Twelve Moons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b34b1d83c2a4bb2912e95c4107f800b.png" alt="Cover for Twelve Moons" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Jan Garbarek</td>
@@ -436,8 +440,9 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de921cf1c26448aeb8d1a2956c48b2f3.png" alt="Cover for Straight To The Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>David Sanborn</td>
@@ -453,7 +458,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/pYq2jHIWJWT_y5u0Q5RpLQzo-gSA1FVqqULN9s_OUAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mjkz/MjctMTQ1ODQ5OTYx/MC02MDAxLmpwZWc.jpeg" alt="Cover for Blue Series : Vol. 2-Afro Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +478,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Ij9-rtrzPTYErHYSXPM-nBwwaUrnZ8vL3Ydmc6LLW-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDMz/NjAtMTU4MjkyMTA2/NS04MDMwLmpwZWc.jpeg" alt="Cover for Tina Kamila" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +517,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30be690bca923a8819ba91103439738a.png" alt="Cover for Hideaway" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +553,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>1988-11</td>
@@ -567,7 +572,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/8CZZ7AxxISCpErmiJwWHaUk6xdx5FRmU-CRuT3vS3v8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY0/MDktMTIwMDg1ODI4/MS5qcGVn.jpeg" alt="Cover for Introductions In The Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +591,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/ZOz-geKa8cg_BLXzLASRNXYpZSsxQntq3ezkvPhyFjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODkx/NzctMTQ2OTI4NTUx/Mi01NzY4LmpwZWc.jpeg" alt="Cover for Soft on the Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +648,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/8iNpW-GIXxxu6vJ3Jxmu0qco6lXFIGP7uKeUXuO0Bkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTc3/OC0xNDk4MDQzNzQ4/LTIyODAuanBlZw.jpeg" alt="Cover for The Best Of Joe Henderson" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +687,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/XvzC_QU6hdTUR24JCGWCoL5abeHJNmYQfNG49dH3P6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg2/NjgtMTM5NDM1NzE3/OC03Njc4LmpwZWc.jpeg" alt="Cover for Live At Smash!" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +705,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>1992</td>
@@ -739,7 +744,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1993</td>
@@ -757,7 +762,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/NX1mJ7lBgJxIFavO3tD4eqxTYs7pvUWV9B928JhSXx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM3/NDEtMTMwNDA2NjI0/NC5qcGVn.jpeg" alt="Cover for Work Time" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +782,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/8rhDQUhOEG51fvOR2HV_7oq6165ffM9o_xMLY8RWFKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDc4/MTAyLTE2MjMyNTM3/MjYtNDUwMy5qcGVn.jpeg" alt="Cover for Electric Jazz Fusion" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +804,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/XvzC_QU6hdTUR24JCGWCoL5abeHJNmYQfNG49dH3P6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTg2/NjgtMTM5NDM1NzE3/OC03Njc4LmpwZWc.jpeg" alt="Cover for Delivery Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +823,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Sch0SVwoWPCmSxxxBN5-h1xJFnHyrx1sLDMoD3BVzD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTk3/NzYtMTQ2NDIyOTY4/OS0xNzExLmpwZWc.jpeg" alt="Cover for Nuance - the bennett studio sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +843,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1595aa9cda7d4aa4846c667940db43fa.png" alt="Cover for Out of the Loop" style="max-width:120px; height:auto;" />
       </td>
@@ -852,14 +857,15 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 3</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 9</li>
             <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27e3ea552f7c50ba7740bf8cc35a7b7b.png" alt="Cover for Verve Jazz Masters 35" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-11-08</td>
       <td>Johnny Hodges</td>
@@ -875,7 +881,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/tv82APCdumV5_Y52hvjaYr9n7AHnBJvbb-LGrQQfLJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQz/MTAtMTI3OTEyMzkw/NS5naWY.jpeg" alt="Cover for Ideas" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +921,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/WZB605zBKpjVQUHLNCr0VOFDMPnEYlXwje6wuH7uAdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjc1/NzYtMTMyMzExMjE1/OC5qcGVn.jpeg" alt="Cover for Jazz and Mambo" style="max-width:120px; height:auto;" />
       </td>
@@ -933,7 +939,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/FNt6df1wb6jsJ3l7SMWyG43CqlkvuTuxP6klGl7Oo5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQ0/MjItMTMxNTUxOTM1/Ni5qcGVn.jpeg" alt="Cover for Infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +1002,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/-VdiE1pc-dRW8HToc6L6A4UdzzJFLjgxs8R-cXbDxic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE3/MTAtMTM5MDA5MTU2/MS00OTEzLmpwZWc.jpeg" alt="Cover for Still Dreaming (feat. Ron Miles, Scott Colley &amp; Brian Blade)" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1061,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/An14lPWloheoBF6fu1hakGbNyYoFzX9GolO3tY3jo50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA0/MDUyLTE1MTkyNjM4/NjgtMjEzNC5qcGVn.jpeg" alt="Cover for Payne&#39;s Window" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1079,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>1999-02-11</td>
@@ -1090,7 +1096,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/QWkwZ6M8UibFWmJ-62nwvDRf5k3r-mNkWZdgOwU56U8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY5/MjEtMTMxODI2MjU0/NS5qcGVn.jpeg" alt="Cover for Fresh" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1118,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/OVBQwKGAhy9XODTGwEvJVjgCLZVMAAUI-yHgvP29ZPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTU4/MDYtMTYzNzE4NzA1/OC03NTQ3LmpwZWc.jpeg" alt="Cover for Soul of an Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1136,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/hbRAYnwMKk7iMl5PwS7GbzfZXXBQ_pVO8u2ifHTAI54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQy/ODc5LTE1MzMzMTk5/MzMtNTIwNy5qcGVn.jpeg" alt="Cover for Curvatura Grande" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1156,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/K8hhxugrBkV1zSiRMqvyToNogoNzrGl2RLcQ3BzvlAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU3/NjItMTIzMTY5NDU0/Ny5qcGVn.jpeg" alt="Cover for The Best of Miles Davis &amp; John Coltrane: 1955-1961" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1177,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/X_H4_FWcWpKwIVywzieVmZDEIPZ9_hxw61DqkJTma0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc1/MDgtMTQ3NzkyMTY4/OS03NjI0LmpwZWc.jpeg" alt="Cover for Choose Your Boots" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1195,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Wj81vGDOwPfVTGHw83y7FOm46C3WWFZbTJN3jjmVuY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDg0/NjAtMTM1MjE0NDk1/NC04MzQ3LmpwZWc.jpeg" alt="Cover for Desire" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,7 +1214,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/uEvh993nKGd6GQzkiUSusI0C6rGUAi_LqStU42iLo8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjEz/NzQtMTUwNDk0ODIy/OC0xNzMzLmpwZWc.jpeg" alt="Cover for Love for Sale" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1236,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/wEa6aj7qh7txmQ_HFJynVdUQ3ptHUBKz3_rdwr1fU98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTcy/NDQtMTM0OTUzNTQ4/NC02OTc4LmpwZWc.jpeg" alt="Cover for Jazz Moods - Cool" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb8b2975831346748234c54d3073fc34.png" alt="Cover for Jazz Moods - Cool" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Stan Getz</td>
@@ -1287,7 +1293,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/zy6va5te7mjfY5qoJbZC0IdzlQvM1kyslirvpKrH_t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDAw/MzgtMTQ2MTY0NjI1/Mi0yNTU1LmpwZWc.jpeg" alt="Cover for Nocturnal Tourist" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1415,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/x8aDO8ztFGyWvkj0yiN3foThm0VMXjr5gNTW3KopNKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjc4/ODYtMTMyMzEyMzc2/OS5qcGVn.jpeg" alt="Cover for Tribal Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,7 +1433,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/Rj4-scWz-RnHDeCJh5BAqjkCpMqa7TFQ9cpIZs6k9Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzA0/NDctMTU4NzEyODE4/Ni04MTgwLmpwZWc.jpeg" alt="Cover for Penumbra" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1452,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/HrV2U-EX3h-23iI0VeG_aD8VQYZxi9xGBtZKXJ-jyhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk0/NDE3LTE1NDk3Mjg3/MDQtNTQ0NC5qcGVn.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1472,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/84TFh8EiNDk8Z89rkT3hBGr5OZqnWZlMoj0jzd8MT-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE3/MTUtMTQ4OTIyMzY1/Ni01NzI5LmpwZWc.jpeg" alt="Cover for Double Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1492,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2008</td>
@@ -1506,9 +1512,9 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/M99TNj_y7R99ir2UezYhQdLbXkuufMOxA0dJLadQd-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY1/MjMtMTI3MDk2OTE0/Ni5qcGVn.jpeg" alt="Cover for Here &amp; Gone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2fe875c93a34ac0becba8378b02fb4b.png" alt="Cover for Here &amp; Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>David Sanborn</td>
@@ -1524,7 +1530,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/YxK58meQTaOhYY61pZ7WWFrDFVW8huAeaLV_NUFDwNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY4/NDgtMTU2NDM0Nzk0/OS0yNDY4LmpwZWc.jpeg" alt="Cover for In The Still Of The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1565,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/4-m8KhUhqLN3kFadiTs67hrLAZkGBPoOp4Uqo6PeSnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ0/MDYwLTE1MDM1MDky/MzktMzM3My5qcGVn.jpeg" alt="Cover for The Lazy Prince" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1591,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Yktr67nxxoe8bz91mw3f2H-x3cSKOu2YLykDuGYaiCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTEx/NjEtMTQxNzExMzAy/NS03Mzg1LmpwZWc.jpeg" alt="Cover for XI" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1610,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/84J8Lza6jUAXxliVpFcdUhjr7OssyjlAVW7TLI9UJjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTYy/NjctMTQxNjI5MjU4/My03NzU4LmpwZWc.jpeg" alt="Cover for Dedicated" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,8 +1629,9 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1506845f2f154e0d9212f49fa419a4a4.png" alt="Cover for Only Everything" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-25</td>
       <td>David Sanborn</td>
@@ -1660,7 +1667,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/DvrFuKgVR6xwqakqzWfRTdmVLsiftZfCFWte7HdVK0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk2/MDYtMTQwNjg1Nzkx/My0xODQ0LmpwZWc.jpeg" alt="Cover for Equilibrium" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1688,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/pWZTfP6oaYkmu8N_C2ogTVgG7oNMCKZLNgb8Ow2mOhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk2/NDc1LTE1NjU3MjQy/NzQtODc3Ny5qcGVn.jpeg" alt="Cover for Coltrane Rules: Tao of a Music Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1707,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2011</td>
@@ -1718,7 +1725,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/4tXBuV4P3_ggCbK1AsKcG3Nk-XvbIHimXgxi9axQy8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU5/ODYtMTM3MjM1NzU1/NS02MDk1LmpwZWc.jpeg" alt="Cover for The Complete Atlantic Recordings: Heavyweight Champion" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1744,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/md4BeeLE6-vRruLxyIfDwUFb8zFE7sO0k-dLqV08J0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTcw/ODktMTMzMjczMDM1/OS5qcGVn.jpeg" alt="Cover for Symphonies In My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,7 +1763,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/LBZKPU1Rn7i2HkAe2WW9eKfdpgBLkrUhDlMln-0JtaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjQy/NjMtMTM5MDU3MjU1/OC01MzAxLmpwZWc.jpeg" alt="Cover for OPRA CHINA" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1794,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/w1XhNj6xFRZZ0yKoRJMpqgzizbZ4i3IwEDkaJStkx9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk5/NjgtMTM2ODI3MDAx/Ny03MzgzLmpwZWc.jpeg" alt="Cover for Kids: Live At Dizzy&#39;s Club Coca-Cola" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1814,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2012-01-27</td>
@@ -1825,7 +1832,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2013-02-08</td>
@@ -1861,7 +1868,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Qz8KR0AYkx7w9w1hgBZI9ICnmCUPBIuFifza0wiJiN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzEx/MjEtMTQxMTgzODU4/MC0yNjIyLmpwZWc.jpeg" alt="Cover for Som spor" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1887,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/PjZxN_2eScrNBE9PZGSyE8l_a93q1zzKr7Scw28q8wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTky/NDg5LTE1Nzc3NzI5/MzktMjIxMy5qcGVn.jpeg" alt="Cover for Sun Sol" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1906,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/y7Cq0iE1KKG9aPn6iLMzJZ0PsTMPj5rL5KLBEuNgP80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIw/NDY3LTE1MDMwNTU3/MTktMTIyOS5qcGVn.jpeg" alt="Cover for Fresh" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1928,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00f9dd96c30b4153b0136f1ef1d11656.png" alt="Cover for iordache dissipatin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1952,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f3ef260f09ac4517727d3dc704db48d.png" alt="Cover for The Wonderful Sax Is You" style="max-width:120px; height:auto;" />
       </td>
