@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T08:05:21.394Z
+date: 2025-11-22T16:52:34.204Z
 permalink: tags/christian-metalcore
 title: christian metalcore
 ---
 
 ## christian metalcore
 
-Last updated: <time datetime="2025-11-18T08:05:21.394Z">Tue Nov 18 2025 10:05:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T16:52:34.204Z">Sat Nov 22 2025 18:52:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
   </thead>
   <tbody>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/TGY_ot2BtEWPgKPNFmoICDCnpY38ko2jwlaLI2c2wZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDAy/Ny0xMzg2MzY3MjM3/LTExNjkuanBlZw.jpeg" alt="Cover for The Advent Of A Miracle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/145eb8c8221f514a72806251d2102fd4.png" alt="Cover for The Advent Of A Miracle" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-22</td>
       <td>Strongarm</td>
@@ -72,6 +72,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aecac8737cde4c2cbc51d69f9bdd6a08.png" alt="Cover for Act of Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-07-04</td>
       <td>Underoath</td>
@@ -88,9 +89,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/U-t6nRxZdZHCvg2MaQwOQrU9M4LgajiOZKcm4838gDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODMx/NS0xNjIwOTYwMTk3/LTY4OTUucG5n.jpeg" alt="Cover for The Dead Next Door" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/814501d9a937465bab086ff1c20adaba.png" alt="Cover for The Dead Next Door" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-08-20</td>
       <td>Spitfire</td>
@@ -113,8 +114,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19b8369828b17f7428cdc4bac447a7b8.png" alt="Cover for Demon Hunter" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-10</td>
       <td>Demon Hunter</td>
@@ -126,12 +128,12 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 57</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Tpr2Js-Wch98O2ypOEvi3_M9xaq9YIY-ucIvZ3eGAi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODMw/MTctMTQ2NjUzMTU3/OS0yNDkwLmpwZWc.jpeg" alt="Cover for Por un Mañana" style="max-width:120px; height:auto;" />
       </td>
@@ -165,13 +167,14 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 24</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76001464b92344d8971c88fc535cdece.png" alt="Cover for Looks Fragile After All" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-24</td>
       <td>August Burns Red</td>
@@ -183,12 +186,12 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 68</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>18</td>
       <td>
       </td>
       <td>2005</td>
@@ -227,7 +230,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da8dfaf5c4d4f89da3461f8745fd9b1f.png" alt="Cover for Of Love and Lunacy" style="max-width:120px; height:auto;" />
       </td>
@@ -267,7 +270,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/E6ARjjhf8-PQBrF1F-iDOGyKwuRbPwlSJJYIiEDy0to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDgx/OC0xNTg5MTQ2Mjky/LTI1OTAuanBlZw.jpeg" alt="Cover for To Sentence The Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b006d32886494484acc891bfbb77e6df.png" alt="Cover for To Sentence The Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-10</td>
       <td>Bloody Sunday</td>
@@ -283,7 +286,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/cbL52GBfOl6yfymzbjOcdhMsvnOuHwnotkmOH4kwNiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUy/NzQtMTU2OTQ4MzMx/Ny03NjE1LmpwZWc.jpeg" alt="Cover for When Everything Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -297,14 +300,15 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 17</li>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 58</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 19</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ac91dafe27942aabda23b77a38d78eb.png" alt="Cover for The Triptych" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-25</td>
       <td>Demon Hunter</td>
@@ -312,59 +316,34 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 99</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d46d818630c5446aad95f8ad2aac151c.png" alt="Cover for Thrill Seeker" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-08</td>
       <td>August Burns Red</td>
       <td>Thrill Seeker</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 4</li>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>2005-12-06</td>
-      <td>The Chariot</td>
-      <td>Musik</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02eaf41d1d0741e781ebf4d57e9b460b.png" alt="Cover for Define the Great Line" style="max-width:120px; height:auto;" />
       </td>
@@ -380,33 +359,33 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 60</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 76</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 78</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 77</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d37a830644cc427cb4c81f6a6d456b00.png" alt="Cover for Dear Love: A Beautiful Discord" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-22</td>
       <td>The Devil Wears Prada</td>
       <td>Dear Love: A Beautiful Discord</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 49</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/4JZBO0pruWLlerBP4_8zeBr40M5mYcYu66Ps4wly4mY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk5/NDUtMTU5NTg2MjU1/Ny01MzgwLnBuZw.jpeg" alt="Cover for Saints" style="max-width:120px; height:auto;" />
       </td>
@@ -437,12 +416,12 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 97</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/bcicgKbhPN_BamNW7fnlfj-lWRTLME0Te1yyJRKmkkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzMw/MzEtMTU3OTQ1NTQz/MC0yMTQ3LmpwZWc.jpeg" alt="Cover for Codex: Triumph In The Eschaton" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +460,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>15</td>
       <td>
       </td>
       <td>2007-02-07</td>
@@ -498,8 +477,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb83f0e1ee6a4fdc830ea9e5bc04d7f8.png" alt="Cover for The Fiancée" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-03</td>
       <td>The Chariot</td>
@@ -511,7 +491,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 28</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -534,8 +514,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60fa403634684df9b1a1f64e5927db4a.png" alt="Cover for Messengers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-19</td>
       <td>August Burns Red</td>
@@ -547,7 +528,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -570,9 +551,28 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>44</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/413190944e63463fc65e85a2878aaa2b.png" alt="Cover for Plagues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e379e446b34f90cf5fc09fe532ce0a.png" alt="Cover for An Ocean Between Us" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-21</td>
+      <td>As I Lay Dying</td>
+      <td>An Ocean Between Us</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d974261a5861439195cc1e0f8bcae82d.png" alt="Cover for Plagues" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-21</td>
       <td>The Devil Wears Prada</td>
@@ -587,8 +587,26 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b3d07d170254a10b847bdb6a0e7a606.png" alt="Cover for When I Am God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-23</td>
+      <td>Oh, Sleeper</td>
+      <td>When I Am God</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1433ce34aedf4ad5b3a769f8dcc9de4c.png" alt="Cover for Storm the Gates of Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-06</td>
       <td>Demon Hunter</td>
@@ -596,19 +614,17 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/29uKlG2MmquoXjFx_qI9PrloXHEgXswebNgbA1Usq_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDYw/NjAtMTU1MjE2Njgz/Ny0yOTIyLmpwZWc.jpeg" alt="Cover for Storm The Gates Of Hell (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02df295ce5aa4eefbccb345db39a06e2.png" alt="Cover for Storm The Gates Of Hell (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-06</td>
       <td>Demon Hunter</td>
@@ -625,7 +641,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f32dda732d8465482c59118689322f7.png" alt="Cover for Memphis May Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -642,29 +658,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Hundredth</td>
-      <td>Musik</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>4</td>
       <td>
       </td>
       <td>2008</td>
@@ -681,9 +675,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/jOPKxRUCYKD8rCKqHEiRsGV_a6ngGOq2ps-zQDSxbAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA4/OTEtMTM0Mjg4OTM2/Ni02MjkwLmpwZWc.jpeg" alt="Cover for Unbreakable" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35f53622861d3094feea6fcfbb40f653.png" alt="Cover for Unbreakable" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-26</td>
       <td>MyChildren MyBride</td>
@@ -699,7 +693,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/HqKLb7lxyzEOs5kfgURaRJVvv1fyltSAbYujTF8s4PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDEy/MTktMTM3NDAxNTc4/NC03NDY1LmpwZWc.jpeg" alt="Cover for The Glorious Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -733,9 +727,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/0qNyHqYoHjBO694_VNsUWZdyB5fn6Xg4rK5e5fnSrII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDc0/NjctMTI5NzQ0MzU5/Ny5qcGVn.jpeg" alt="Cover for The Raven And The Reaping" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a2c38efd553442095c3d7df192fe00e.png" alt="Cover for The Raven And The Reaping" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-27</td>
       <td>The Famine</td>
@@ -753,7 +747,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25c2d4e40040521e586037fb114b6b2d.png" alt="Cover for I Swear" style="max-width:120px; height:auto;" />
       </td>
@@ -773,29 +767,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>2008-07-22</td>
-      <td>War Of Ages</td>
-      <td>ClearMusicDownloader</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2008-10-14</td>
@@ -812,7 +784,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
       <td>
       </td>
       <td>2008-10-22</td>
@@ -834,7 +806,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/NON8PpdTBiphXCv9yXWN0D7h_iPrlnPh1XXlhd1xqFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDcy/NDAtMTI5NzQzNTEy/OS5qcGVn.jpeg" alt="Cover for To Die As Kings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78784f37d358413baacae8cf863b88a8.png" alt="Cover for To Die As Kings" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-10</td>
       <td>The Ascendicate</td>
@@ -850,7 +822,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ff7b2b3c14542fac28df8e5f61403a9.png" alt="Cover for With Roots Above and Branches Below" style="max-width:120px; height:auto;" />
       </td>
@@ -859,18 +831,37 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       <td>With Roots Above and Branches Below</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/715e81eda85b43aca42590bf64e8773a.png" alt="Cover for Portraits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-09</td>
+      <td>For Today</td>
+      <td>Portraits</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 19</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/963b44ca7c084def95d635b664780eef.png" alt="Cover for Constellations" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-14</td>
       <td>August Burns Red</td>
@@ -882,7 +873,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 62</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -904,31 +895,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>2009-09-15</td>
-      <td>Texas in July</td>
-      <td>Musik</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/_6-CJg9ssKQ1vndxAr7ObbfV9IeVlPdjMMN9QyNQLk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYy/NTE2LTE1MTY3NTE3/ODAtMTEzMS5qcGVn.jpeg" alt="Cover for The Phinehas - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a10edb6017d3449da8d1c5a9f2d69c86.png" alt="Cover for The Phinehas - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-15</td>
       <td>Phinehas</td>
@@ -949,8 +918,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b4886b05f681bc530e78bf20f16a3b.png" alt="Cover for The Powerless Rise" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-07</td>
       <td>As I Lay Dying</td>
@@ -962,12 +932,13 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 11</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 8</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce2fa51845b8407d91d9b57f1f48395f.png" alt="Cover for Meridional" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +956,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92911bf1bd1b46f4b3eae8705730828f.png" alt="Cover for Zombie EP" style="max-width:120px; height:auto;" />
       </td>
@@ -999,14 +970,14 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 9</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/7ccBGw8uX2TmM8u0D9tnctCVhaDm1i2mhHqTJNfOFJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY3/NTctMTY3ODQ5MTU4/OS00NzUyLmpwZWc.jpeg" alt="Cover for Breaker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/525745845d424028a3b20ca8199b4053.png" alt="Cover for Breaker" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-31</td>
       <td>For Today</td>
@@ -1022,31 +993,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td>2011</td>
-      <td>Wolves At The Gate</td>
-      <td>25. Wolves At The Gate</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d57a88e3054461bc415814f26686c8.png" alt="Cover for Ø (Disambiguation) [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,8 +1041,27 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f96daa376eff4088946254baa6226420.png" alt="Cover for Conviction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-21</td>
+      <td>The Crimson Armada</td>
+      <td>Conviction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd281d7e8b345ce930d8ac95c9280fb.png" alt="Cover for Leveler" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-21</td>
       <td>August Burns Red</td>
@@ -1111,7 +1077,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e87c72d1399248c4c8ea39e3259a6d49.png" alt="Cover for Dead Throne" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1095,24 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2724818cf1d44fd90ea3ae9e9047f74.png" alt="Cover for Children Of Fire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-27</td>
+      <td>Oh, Sleeper</td>
+      <td>Children Of Fire</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>2012</td>
@@ -1152,7 +1135,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>16</td>
       <td>
       </td>
       <td>2012</td>
@@ -1170,7 +1153,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>5</td>
       <td>
       </td>
       <td>2013</td>
@@ -1192,7 +1175,25 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7b1c2d23b104fb19e77e261816e7c8b.png" alt="Cover for Rescue &amp; Restore" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-25</td>
+      <td>August Burns Red</td>
+      <td>Rescue &amp; Restore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eaaa493ede54d66cd45f5d776396120.png" alt="Cover for 8:18" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,31 +1211,28 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e046632b86849a7c90523f13e1c0054.png" alt="Cover for Bloodwork" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013-12-13</td>
-      <td>Still Remains</td>
-      <td>ClearMusicDownloader</td>
+      <td>2014-09-16</td>
+      <td>Texas in July</td>
+      <td>Bloodwork</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f202eec9f048ffc8bd8d2bd069ecef.png" alt="Cover for Badlands" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-16</td>
       <td>Colossus</td>
@@ -1252,7 +1250,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1278,7 +1276,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>7</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1303,7 +1301,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>12</td>
       <td>
       </td>
       <td>2015</td>
@@ -1326,9 +1324,27 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea9b17f8866614b4fc5ae70d19d3edd2.png" alt="Cover for Till The End" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Phinehas</td>
+      <td>Till The End</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/emB1EBynsKyFUt9FWUs7R1YYEMQjEbF3nBbqzpCWyp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQx/NjQ0LTE1MTA2NzU4/MTQtNjE5MS5qcGVn.jpeg" alt="Cover for Hell Below" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/386f4c02ccd58c5025198df047587832.png" alt="Cover for Hell Below" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Phinehas</td>
@@ -1349,7 +1365,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/rkXJlmyIElF0XXvJ8ghGXWvfAbgDU92rTLpdso0fi5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY0/NjMwLTE2ODIzMzA3/ODgtMTU1OC5qcGVn.jpeg" alt="Cover for Reprise" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,9 +1390,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/pwKhMX5kDOOS0WUOe_zalMG1CSH8s5K8k2-GDnBmsFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjk3/ODItMTY3MDc1NDA2/NS05NDIwLmpwZWc.jpeg" alt="Cover for Found In Far Away Places (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf6a295b29b87fad3804278309707dc0.png" alt="Cover for Found In Far Away Places (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-30</td>
       <td>August Burns Red</td>
@@ -1396,7 +1412,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dec58af40cb3095c2ede067f8ddc5f2.png" alt="Cover for Metanoia" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,9 +1432,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/tAePZwahVWYQKd5mfzpGbRlx03ixYFWYZ9aDaVr4DjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIy/OTk4LTE2MDEwNjg4/ODgtMTQ1Mi5qcGVn.jpeg" alt="Cover for Kingdom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a32674be37316ce66181afb2c83d82b6.png" alt="Cover for Kingdom" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Burning Nations</td>
@@ -1439,8 +1455,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1840eb3ad2fe4533c53da4d0685ed1f1.png" alt="Cover for Osmosis - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-25</td>
       <td>Nothing to Offer</td>
@@ -1459,9 +1476,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/vI1NhuFew9SrUT6gTJgF9J3mO3n1sKUXT2TS9u17DXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODI2/ODgtMTQ4MzEzMTM0/My03NzYyLmpwZWc.jpeg" alt="Cover for Fight Through the Night - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcef6c3d3515dcbd4075e15e4b72371c.png" alt="Cover for Fight Through the Night - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-16</td>
       <td>Phinehas</td>
@@ -1482,31 +1499,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2018-04-06</td>
-      <td>Underoath</td>
-      <td>Einzelne Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/4-iEsIsVNgyMi9WpQYafPX1S3N6v39_4Nxao001zbAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI4/Nzg0LTE1MzcwMzcz/MzctMTgzNS5qcGVn.jpeg" alt="Cover for Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1573,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/0DJM-4XJsZ4hYeguUZeyRkxoVkVdWlhCNJGyw0WiBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ5/MjYzLTE1NTI1NTg2/NjItNDg5My5qcGVn.jpeg" alt="Cover for Savior" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a72e13bc6544bfc66913be346fb987.png" alt="Cover for Savior" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Any Given Day</td>
@@ -1598,15 +1591,15 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 31</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 33</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 59</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 72</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 75</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>2</td>
       <td>
       </td>
       <td>2019-11-15</td>
@@ -1629,23 +1622,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>2020-09-10</td>
-      <td>Hundredth</td>
-      <td>Hardcore, Melodic Hardcore</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/4-iEsIsVNgyMi9WpQYafPX1S3N6v39_4Nxao001zbAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI4/Nzg0LTE1MzcwMzcz/MzctMTgzNS5qcGVn.jpeg" alt="Cover for Tower of Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,15 +1671,16 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 43</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 59</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 60</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 63</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>9</td>
       <td>
       </td>
       <td>2021-03-13</td>
@@ -1718,7 +1696,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>19</td>
       <td>
       </td>
       <td>2021-05-21</td>
@@ -1741,9 +1719,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/78DO33SuPhkwtPmekUm7l6fOuvSuhvEFmbloQ_Q-rgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA2/NTQyLTE2MzAwMTMx/MjQtNDExOS5qcGVn.jpeg" alt="Cover for The Bridge Between" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e957fd3ec9634c8b912af02d172ffd16.png" alt="Cover for The Bridge Between" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-27</td>
       <td>Phinehas</td>
@@ -1764,9 +1742,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/emB1EBynsKyFUt9FWUs7R1YYEMQjEbF3nBbqzpCWyp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQx/NjQ0LTE1MTA2NzU4/MTQtNjE5MS5qcGVn.jpeg" alt="Cover for Know Death; Know Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/857c9ccd6221869e9a4b69982f3b5b1c.png" alt="Cover for Know Death; Know Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-27</td>
       <td>Phinehas</td>
@@ -1816,7 +1794,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/TqyUOg_ZwDTN1-q1gX6WK2o3yvu4lkrSJrc6Np4Za48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NDQ0LTE1OTAyMTI4/MzQtOTA3Mi5qcGVn.jpeg" alt="Cover for Sour Breath" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad73e54c4bc89896f60a03441ace3d01.png" alt="Cover for Sour Breath" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-16</td>
       <td>The Devil Wears Prada</td>
@@ -1831,6 +1809,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 1</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 85</li>
         </ul>
       </td>
@@ -1838,7 +1817,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/3Ycf4J_kXutwEBMckYpidH4rBIF6YqdMN_l9Sk7A584/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjE3/MjQxLTE2NTU1NzA4/NjItNzYyNC5qcGVn.jpeg" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c083113c276431a31734b0525f20131.png" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-26</td>
       <td>Any Given Day</td>
@@ -1856,15 +1835,15 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 55</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 57</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 72</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 82</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 84</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>8</td>
       <td>
       </td>
       <td>2024-07-26</td>
@@ -1891,6 +1870,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81dea4d4ed0576f6bab4ba9779d8a6ea.png" alt="Cover for Awaken" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ThornyWay</td>
@@ -1912,7 +1892,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1929,8 +1909,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aefa3dde6ea47b34ef19c6cec08fd0a.png" alt="Cover for Когда весь мир - пустота..." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Только Последний День</td>
@@ -1949,8 +1930,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6842e7bc10491139fee105cfc5d3c69c.png" alt="Cover for Твой страх (SP)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Отклонение От Нормы</td>
@@ -1968,8 +1950,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b95a1503c94b4405c40bda740d2aeb3c.png" alt="Cover for Крик в Пустоту (Single)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Только Последний День</td>
@@ -1987,7 +1970,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2006,7 +1989,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2024,8 +2007,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8538466f0a834733ba0bb3a9a0d9c3a7.png" alt="Cover for Искупление (EP)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Отклонение От Нормы</td>
@@ -2046,6 +2030,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38fa5dac40c94cae97b0ff5562a7400f.png" alt="Cover for Obsidian Resolve" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Oceans Will Part</td>
