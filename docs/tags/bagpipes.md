@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T20:34:51.364Z
+date: 2025-11-22T16:34:09.115Z
 permalink: tags/bagpipes
 title: bagpipes
 ---
 
 ## bagpipes
 
-Last updated: <time datetime="2025-10-31T20:34:51.364Z">Fri Oct 31 2025 22:34:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T16:34:09.115Z">Sat Nov 22 2025 18:34:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/SeCpueR8IZ3H7sJyYuUSdV6AENQlIGmL4LvYmGHcxH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDEz/ODgtMTM4NTYwNTY4/Mi02NzMxLmpwZWc.jpeg" alt="Cover for Sotto L&#39;imperio del Possente Prince: Hommage Music of the 14th and Early 15th Century" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>1973</td>
@@ -67,7 +67,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/PCRsu3z-G_mnggtX6Xe2cEQ3uwjz6qsNroNq-nfUkcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTYx/NjctMTQ4NDI3MDQ0/NC04NjQ5LmpwZWc.jpeg" alt="Cover for Pacific Standard Time" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/5hj_R2QWtr-RiVHmZ05g475qILVRuo1_7s1cg94xePg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDg1/MDUtMTQ2Mzk5MTM2/OS0zNzMwLmpwZWc.jpeg" alt="Cover for Mester de Juglaría" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/57jAfU25LFeN0AfMZGNFZ3b-EnlLI8by9ILBp3H62gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjIy/MDktMTM5Mjk1Njky/Ny04MjYyLmpwZWc.jpeg" alt="Cover for The NORTHUMBRIAN Small Pipes" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/zJIY_gtOTTKcs9PuEtoQhXEsoZxHP5Qz68BiSw0x5Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjc2/OTgtMTM4NzQ5MjY3/MC05NTU2LmpwZWc.jpeg" alt="Cover for Synthesis" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/5r2tsEO3m2TAJQt26CojHwb9aCQe5zNyhvTBfztRH_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ2/MjI5LTE0OTk2MzI2/MTAtMzk0NC5qcGVn.jpeg" alt="Cover for De Foliada En San Pedro De Vilas" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +207,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/aT3Ajz1Fb-KnrxVsR4S83Znqg76sNQcFvdBhS4lG1xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzQ5/MTgtMTQxMTkyOTAx/My0yNDYzLmpwZWc.jpeg" alt="Cover for Live in the Rockies" style="max-width:120px; height:auto;" />
       </td>
@@ -299,11 +299,11 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 7</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 17</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 21</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 22</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 29</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 22</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 24</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>1993</td>
@@ -552,7 +552,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/lJL9Tpelwm7WniZ2pW5zWalhi4-oDcroJrAB6ySKX7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDYy/NTc1LTE1Mjc1MzU5/MzItMTE3Ny5qcGVn.jpeg" alt="Cover for The Spirit Of Scotland" style="max-width:120px; height:auto;" />
       </td>
@@ -669,7 +669,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/eBa1ltqErxylPDv1Dbsvgtc-mkw1JwqzRA-pbMPPKi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODMw/Mzg2LTE1NjIwODM1/MjUtMjU3Mi5qcGVn.jpeg" alt="Cover for Flame Of Wrath" style="max-width:120px; height:auto;" />
       </td>
@@ -767,6 +767,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a26ba7cdf7a20ba2cdac52f76fb07ef3.png" alt="Cover for Times of Grace" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-04</td>
       <td>Neurosis</td>
@@ -779,8 +780,8 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 29</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 75</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 31</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 76</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 80</li>
         </ul>
       </td>
@@ -829,7 +830,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/Tw4JHMqDuYM0KxYR6AO1yAzVOZnI19s7btBP8wnXetI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg4/NDc0LTE1MzAwNzUz/NDktMjA4MC5qcGVn.jpeg" alt="Cover for J&#39;ai enterré ma femme et j&#39;ai dansé sur sa tombe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e402b67acbb492f88f2767d9840ee9e.png" alt="Cover for J&#39;ai enterré ma femme et j&#39;ai dansé sur sa tombe" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Blackwater</td>
@@ -849,7 +850,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/L7pcUbvV_q3dSRm2xfXsVHwmgDxnPPPx1Bs0SvlsrW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc2/MDYtMTYyMTY4MjIz/My03MTUzLmpwZWc.jpeg" alt="Cover for Walther von der Vogelweide" style="max-width:120px; height:auto;" />
       </td>
@@ -906,6 +907,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d45b55d8464bb39aaebd970a811dbc.png" alt="Cover for Cançó de Dona i Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>L&#39;Ham de Foc</td>
@@ -930,6 +932,24 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4d6774bb40f82fb53d0f9254c766349.png" alt="Cover for Narrenkönig" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-10-07</td>
+      <td>Schandmaul</td>
+      <td>Narrenkönig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
         </ul>
       </td>
       <td>
@@ -1020,7 +1040,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/-Bgax49jg9k0iTpZbOhwfCX65CECgU2Hf7nQzDiWGbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI4/ODE3LTE2MjgwMTE2/NjQtOTgyNy5qcGVn.jpeg" alt="Cover for The Dark Island" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef700cc32767476bb42ec32bb012389f.png" alt="Cover for The Dark Island" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Pipes and Drums of The Black Watch</td>
@@ -1077,7 +1097,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 67</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 75</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 90</li>
             <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
@@ -1179,7 +1199,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/tDann1RFEysAwXo9AKGN684-TL7DKTgDq5r55aTv1MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDQ4/MTgtMTQwMDQyMzY3/OS0zNjU3LmpwZWc.jpeg" alt="Cover for The Stomp (Scottish Pipes and Drums Untamed)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99f7b6c91a67427a81ca9bdc9123f1d6.png" alt="Cover for The Stomp (Scottish Pipes and Drums Untamed)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Saor Patrol</td>
@@ -1202,7 +1222,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/XrGUNNqxMzBk7AOf5drzTcDJ9NkXgob-eEt2B3pFiAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUy/OTcxLTE0OTc3MzU5/MzQtMjIxMC5qcGVn.jpeg" alt="Cover for Bagpipe Rock!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53289430e03d4b99cb578913eee330aa.png" alt="Cover for Bagpipe Rock!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Red Hot Chilli Pipers</td>
@@ -1260,6 +1280,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16037b6be5c7f249800c569100473821.png" alt="Cover for Etnotranss" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-22</td>
       <td>Auļi</td>
@@ -1313,7 +1334,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/NMNLSv33PKwjAaXeyjq-oPpnSw4jvL1-QsDda5al3uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzE3/NTQyLTE2Nzk1MzE2/MjgtNzg1MC5qcGVn.jpeg" alt="Cover for Aufbruch" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1355,6 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/QoHyczbkGsRms-krn_yglQqmquKrMZPBnWghu17gNFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzky/MjItMTM4MzkyNzM2/My0zNTg0LmpwZWc.jpeg" alt="Cover for Saor Patrol Two Headed Dog" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Saor Patrol</td>
@@ -1356,7 +1376,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/Mv7KTFW0THUjdH0PrR7nDuR7AsEI5_BLUdwZRO1o9fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjU2/NDMtMTQ3ODYyNDg0/NC05NDk4LmpwZWc.jpeg" alt="Cover for James Duncan Mackenzie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/300f9a88699fd61ffcacf3fe734a2587.png" alt="Cover for James Duncan Mackenzie" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-10</td>
       <td>James Duncan MacKenzie</td>
@@ -1378,7 +1398,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/-mOEoi98uyNy2aOXh3N_a5fLZNEqpdQqUgmy4jzXJvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTY0/MTItMTQ3OTE2MTM1/OC0yNzg4LmpwZWc.jpeg" alt="Cover for Libertas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07142f19a53b47d6c7a3fdf18b86c030.png" alt="Cover for Libertas" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-03</td>
       <td>Adrian Von Ziegler</td>
@@ -1402,6 +1422,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7448120e885bffc8df465ca85995c697.png" alt="Cover for Outlander" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07</td>
       <td>Saor Patrol</td>
@@ -1423,7 +1444,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/GSREVlFoc9R6oRZS8zs7A2fqd80P73r0zlKj3bWskmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTY1/MTQtMTQ3OTE2Mjgx/Ny0yNzA1LmpwZWc.jpeg" alt="Cover for The Celtic Collection II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/001d59fa8b754e63cefe94733744b6b2.png" alt="Cover for The Celtic Collection II" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-08</td>
       <td>Adrian Von Ziegler</td>
@@ -1447,7 +1468,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/dHv0NK6Q_SGX1L-5FRBJg9Xj6F3pOBKtwbifaRBQwC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzI3/MjctMTQ3ODc1NDcx/OC03MTgzLmpwZWc.jpeg" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64f57419a6d4a975bb8f69239c407fbd.png" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-10</td>
       <td>Jet Plane</td>
@@ -1466,14 +1487,14 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/V77zw-1ZTBlHEBiWfJq_UyWhGs8TIuv4BI-mUH5eAdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ2/MzQtMTQ4Njc0ODg1/Mi05NDk4LmpwZWc.jpeg" alt="Cover for Order of the Stag" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec589874220af7497695675ca5f130f.png" alt="Cover for Order of the Stag" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-05</td>
       <td>Clann An Drumma</td>
@@ -1496,7 +1517,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/8znUnDjSK6tBUOPRc-D0bjQteX-R3qMjwQ538Itrj-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODgx/ODMxLTE2ODE2MjYx/ODYtMzI5MS5qcGVn.jpeg" alt="Cover for Battle of Kings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5d69abac7d77dd2cadadacb266a2eb1.png" alt="Cover for Battle of Kings" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Saor Patrol</td>
@@ -1533,14 +1554,14 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 10</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/JsjIqMjDjhlO4sGP_KEj8dQ2nKb669iIfbvpGAsbbmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzk1/NzE4LTE2ODY4ODM3/NjQtOTc0Ni5qcGVn.jpeg" alt="Cover for Pirates of the Carribeann Theme" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad4414a17f7c739bb1cfa3140308e19.png" alt="Cover for Pirates of the Carribeann Theme" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-22</td>
       <td>The Snake Charmer</td>
@@ -1558,7 +1579,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for The Best Bagpipe Moments Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1597,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1598,8 +1619,9 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04906be6505f444ec40f68fe9559ffc3.png" alt="Cover for Where the Winds Are Clawed (Demo)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gavranar</td>
@@ -1623,7 +1645,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1678,29 +1700,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Celtic Spirit Pipe Band</td>
-      <td>Heartland</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e4298f223a1294e97d64c2185aace9.png" alt="Cover for In Search Of Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,8 +1719,9 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d087dd6bb630c8e2589fe37faabe035.png" alt="Cover for You Are What You Hear" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>John Burgess</td>
@@ -1739,7 +1740,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1756,7 +1757,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1776,7 +1777,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1795,7 +1796,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1814,7 +1815,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1833,7 +1834,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1852,7 +1853,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2039,6 +2040,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39381b2135897e8914e72e9b8d9668a0.png" alt="Cover for Magnificent Music of the Bagpipes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Auld Town Band &amp; Pipes</td>
@@ -2058,6 +2060,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d953dd2e8f68319878e2084aedf9bf92.png" alt="Cover for Shipping up to Boston &#x2F; Enter Sandman" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Goddesses of Bagpipes</td>
