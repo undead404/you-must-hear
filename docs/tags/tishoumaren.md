@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T18:42:19.295Z
+date: 2025-11-22T13:49:56.502Z
 permalink: tags/tishoumaren
 title: tishoumaren
 ---
 
 ## tishoumaren
 
-Last updated: <time datetime="2025-10-27T18:42:19.295Z">Mon Oct 27 2025 20:42:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T13:49:56.502Z">Sat Nov 22 2025 15:49:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,27 +45,6 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
         <ul>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 75</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Tinariwen</td>
-      <td>Amassakoul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 31</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 38</li>
-            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 67</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -236,7 +215,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/M6VOW-3Uf1Gr7gjqK4078cyNi3-vUrWWfsK8OzglmJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODY3/NzctMTcxMjIwNTc5/MC0xMjQ1LmpwZWc.jpeg" alt="Cover for Orchestre Régional de Kayes" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +233,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/203ccff7815b4b23b5943ed306f4ba92.png" alt="Cover for Akh issudar" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +273,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da8be6748c0b4048818fcccac5901d9f.png" alt="Cover for Amachal" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +313,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/PKqqTATgUYvYm4L9E2HoFZfz135WrSYn_PquURuuaHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzk0/MjYtMTU1NjI5MDYw/MC0xNTg5LmpwZWc.jpeg" alt="Cover for Awnafin" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +352,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/rLBWGB-BT-HF5LWlI7K7nYpSFzkVET3YcEQrrXWCbkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzI0/NTEtMTMzNzA2NDg1/NS05MTU0LmpwZWc.jpeg" alt="Cover for Taskiwt Tadjat" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +610,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2012-08-27</td>
@@ -711,7 +690,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/kg1gMI0_QqyHtuWBU5aUzYApR0P_iDAgFNdy0dCHmYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/NjktMTM2OTkwNjI3/MS01NzQ0LmpwZWc.jpeg" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf3aebdd3b74e8881a78cb9777f5d82.png" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-02</td>
       <td>Bombino</td>
@@ -730,7 +709,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 87</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 89</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 98</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 99</li>
             <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 99</li>
@@ -741,7 +720,6 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/cK_HEJpF_4CzPmJnU8OcE5bpFufR7ZDcHLl-m6KnV-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzMx/NjYtMTM4MDQwODgy/Ni02Mzc3LmpwZWc.jpeg" alt="Cover for Afelan" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-17</td>
       <td>Mdou Moctar</td>
@@ -759,7 +737,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/SydKG0rIKrbr0HEVYz3jhY24QlZsY6p7w-MeN792vL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjU3/NjktMTQ0MzI5NjI2/My00NTQ1LmpwZWc.jpeg" alt="Cover for Taqkal Tarha" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +757,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/lG47zQE_Zws4JCrChQYnEFP9mXFnr6g0p7hejWHZh-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTgz/ODktMTMyNzM4MzQ0/Ny5qcGVn.jpeg" alt="Cover for Nakanegh Dich" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +797,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/rtZYxXfb1rLtynqInxhcrn2RR4NtclsBTAZtnkfhQSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjMx/MTQtMTM5MzkyNTkz/Ni0zNTkwLmpwZWc.jpeg" alt="Cover for He Layla" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +897,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/0stz0zvoyKMUjs35dz2hF5V1yAQBcEfPFejRYvlAClE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDk5/MjItMTM5NzkxODI4/My0xMzk0LmpwZWc.jpeg" alt="Cover for Akhar Zaman (This Moment)" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +937,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Vx8pU3-Givy51nqyqUpfhVHIwnOgcAc5n34lVK-EpQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgx/NTEtMTMzNzA2NzIw/OS00MzE2LmpwZWc.jpeg" alt="Cover for Inside &#x2F; Outside Joshua Tree Acoustic Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +977,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/JXrOC50_0mpD9Y_k2M2FKiZtyShz-76c48Yh7SO5Qo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTEx/NTAtMTQyOTM1MzQ3/Mi04NDEwLmpwZWc.jpeg" alt="Cover for Taksera" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,7 +1096,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/hyqtCKvk5rE8bKS6_BAHymAs2lhwrnIjx45iZ9JAkv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTYx/MjQtMTQ1MzU1MzU1/My04OTUzLnBuZw.jpeg" alt="Cover for Tikounen" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1116,26 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/fT4eoyQyNx0YoVWcYMhtDOp3GZDzE85PKKXWQXKhTAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU3/MDcyLTE1MjAxNTI1/ODctOTU2Ni5qcGVn.jpeg" alt="Cover for Oulhin (My Heart Burns)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Bombino</td>
+      <td>Oulhin (My Heart Burns)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/z5IieRfOXea8p6m9nKpULdsvWY78DHa4TQvibr1phiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODc3/NDUtMTQ4NjMyMDYx/OS0xNjcyLmpwZWc.jpeg" alt="Cover for Deran Deran Alkheir (Well Wishes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,7 +1190,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 39</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 43</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 96</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 96</li>
         </ul>
@@ -1220,7 +1217,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/1N0zDIASluJcraG7eUg67Up8iDVIboJg3OO7Lvpfzig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc0/MTE0LTE1MTEyNzAw/MzYtMTMzNi5qcGVn.jpeg" alt="Cover for Surbajo" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1626,6 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
     <tr>
       <td>100</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97cdb459500b01fcd2c840f3edec48e0.png" alt="Cover for Afrique Victime" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Mdou Moctar</td>
@@ -1641,7 +1637,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 6</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 14</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 28</li>
         </ul>
       </td>
@@ -1667,7 +1663,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/qxj_D437j2yLo031ekSuUL1fvdXBNYjxiFOV6xZLko4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUx/Mjk3LTE2Njg0MTYw/NjMtMTU0Ni5qcGVn.jpeg" alt="Cover for Ham Tinahghin Ane Yallah" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1811,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/2wHgoOoT0F4J7M1cUG7oL23WS0QKBfyCa5OP9Qcrym0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg4/NDY1LTE2NDU3MTg5/MTktMzUyMS5qcGVn.jpeg" alt="Cover for Ishumar" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,7 +1831,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/2wHgoOoT0F4J7M1cUG7oL23WS0QKBfyCa5OP9Qcrym0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg4/NDY1LTE2NDU3MTg5/MTktMzUyMS5qcGVn.jpeg" alt="Cover for Bismilla" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1851,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a772e7f161edde40ef44ec9ea832a967.png" alt="Cover for Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1870,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/2wHgoOoT0F4J7M1cUG7oL23WS0QKBfyCa5OP9Qcrym0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg4/NDY1LTE2NDU3MTg5/MTktMzUyMS5qcGVn.jpeg" alt="Cover for Jagwar" style="max-width:120px; height:auto;" />
       </td>
@@ -1913,7 +1909,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/I2Wk4WgzrIus6gz8YhbU-l8heU4mxRptRlWuzhzFQTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI5/OTE1LTE3MDYwMDg3/MzktMzIxNy5qcGVn.jpeg" alt="Cover for Spotify Session" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1984,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/LEzzRdcx3oyRu8g-oONtJjlkzAdtUC3LljKSZudHdww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTky/Mjg3LTE1MzAxNTQy/NDQtMjQwMy5qcGVn.jpeg" alt="Cover for Toubouk Ine Chihoussay" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,7 +2026,6 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
     <tr>
       <td>95</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceeff9373e08792211f041e436b10af0.png" alt="Cover for Funeral for Justice" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Mdou Moctar</td>

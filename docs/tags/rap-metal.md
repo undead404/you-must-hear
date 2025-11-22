@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:58:25.765Z
+date: 2025-11-22T13:48:50.996Z
 permalink: tags/rap-metal
 title: rap metal
 ---
 
 ## rap metal
 
-Last updated: <time datetime="2025-10-28T15:58:25.765Z">Tue Oct 28 2025 17:58:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T13:48:50.996Z">Sat Nov 22 2025 15:48:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,13 +24,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/BpyIhBeHfrTEbXVXoE03M1y0kkF384Cta2n8XK_dkBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTYz/OS0xMzk3MzgzNzE3/LTM4MDEuanBlZw.jpeg" alt="Cover for The Iceburg &#x2F; Freedom Of Speech...Just Watch What You Say" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ad071c69d12afbb77c1abd7e72450e.png" alt="Cover for The Iceburg &#x2F; Freedom Of Speech...Just Watch What You Say" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Ice-T</td>
@@ -41,6 +42,10 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -59,9 +64,18 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 60</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 64</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 65</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
       </td>
       <td>1993-04-21</td>
@@ -73,10 +87,35 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 24</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4076c989d196e41f2a00e2d9455e4778.png" alt="Cover for Snuff the Punk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-01-25</td>
+      <td>P.O.D.</td>
+      <td>Snuff the Punk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd46edeed8dd4c2880ac56dc6d39beb5.png" alt="Cover for Snappin&#39; Necks" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03-03</td>
       <td>Stuck Mojo</td>
@@ -86,9 +125,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/o5WRLQ_sAZRCFaS6mLNazXSrZJEY6_UooPMJPp-3ROo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAw/Ny0xMTU3ODgwODI0/LmpwZWc.jpeg" alt="Cover for Ultramemia" style="max-width:120px; height:auto;" />
       </td>
@@ -103,10 +146,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 74</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55f523bd140c23eacb1b88de312a27d7.png" alt="Cover for Xero" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Xero</td>
@@ -116,9 +165,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7210a59b4fa4cf3cc01f87069f0c5d1.png" alt="Cover for Evil Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -127,15 +180,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Evil Empire</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7584874903b2d4edde962ba2d55e2315.png" alt="Cover for Tragic" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-07-30</td>
       <td>Orange 9mm</td>
@@ -149,10 +204,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46900003e64f4d68bf124ce1997e34dd.png" alt="Cover for Pigwalk" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-10-08</td>
       <td>Stuck Mojo</td>
@@ -160,6 +220,10 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -176,9 +240,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 75</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
       </td>
       <td>1997</td>
@@ -190,9 +260,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 33</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 43</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d56d5ea63f52d0e7aa4911202119c39d.png" alt="Cover for That&#39;s What People Do" style="max-width:120px; height:auto;" />
       </td>
@@ -206,9 +283,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 36</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/000806aaa5a2e9139c2fa4a7dd8bb840.png" alt="Cover for S.C.I.E.N.C.E." style="max-width:120px; height:auto;" />
       </td>
@@ -221,10 +303,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 65</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bb16d6ab2e6f45e20eb13d886c0d2ed.png" alt="Cover for Zebrahead" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Zebrahead</td>
@@ -236,9 +325,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7605ccbb6d5d7e7976dea23c182ba63.png" alt="Cover for Follow the Leader" style="max-width:120px; height:auto;" />
       </td>
@@ -250,9 +343,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 49</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/634a3d338290fb642c90019e6b628635.png" alt="Cover for Devil Without a Cause" style="max-width:120px; height:auto;" />
       </td>
@@ -264,10 +363,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02dc9bb0a99b40299280d1ca0f8c10f3.png" alt="Cover for Hard To Swallow" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-20</td>
       <td>Vanilla Ice</td>
@@ -277,11 +381,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/XapJP_91RP073xRHxBS4EQZlx89bOCwuE2lLVV_kcng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTUy/MS0xNDg5NTI0ODAw/LTk1NTkuanBlZw.jpeg" alt="Cover for The Fundamental Elements Of South" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c208a11cca604ee0a57b19f3ed880276.png" alt="Cover for The Fundamental Elements Of South" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>P.O.D.</td>
@@ -291,10 +399,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 13</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6134ed698c846598ae4df5805eab8e6.png" alt="Cover for Meson Ray" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-20</td>
       <td>The Ernies</td>
@@ -307,10 +421,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfe56e24596e94ff5ac274252cea309c.png" alt="Cover for Struggle" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-18</td>
       <td>Nonpoint</td>
@@ -323,9 +442,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 41</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c00f7b9cd94c2b6fbd7f12fc00bd8d2.png" alt="Cover for Significant Other" style="max-width:120px; height:auto;" />
       </td>
@@ -338,22 +462,35 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 92</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9274398d6314cb5882bf4fe8dfd084f8.png" alt="Cover for Slipknot" style="max-width:120px; height:auto;" />
       </td>
-      <td>1999-08-24</td>
-      <td>P.O.D.</td>
-      <td>The Fundamental Elements of Southtown</td>
+      <td>1999-06-29</td>
+      <td>Slipknot</td>
+      <td>Slipknot</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 63</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11df5e46c810493983feb65066b2e9d9.png" alt="Cover for The Battle of Los Angeles" style="max-width:120px; height:auto;" />
       </td>
@@ -362,14 +499,18 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>The Battle of Los Angeles</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 31</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 72</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e17e8ab11291469a84bc869d59b9cf09.png" alt="Cover for The Gift of Game" style="max-width:120px; height:auto;" />
       </td>
@@ -381,54 +522,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>Earth Crisis</td>
-      <td>Slither</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 23</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/oJnqLl_C2-KQ-bYr_SPb2QKZxNj4gm8KOWE-x61ltQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODkw/MDYtMTMzMjQwNjg3/OS5qcGVn.jpeg" alt="Cover for De Nuevo Nunca" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Kannon</td>
-      <td>De Nuevo Nunca</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce967144095ec79bcde0de90bdc841e3.png" alt="Cover for PLEASE REMAIN SEEDED" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Seeded Crown</td>
-      <td>PLEASE REMAIN SEEDED</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/eKcDeEIV7xvi9UUjrsc-rPIG1hxEkOCBanKB3YHQ-nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/NzEtMTMyNzI0MDgy/MC5qcGVn.jpeg" alt="Cover for O&#39;Funk&#39;Illo" style="max-width:120px; height:auto;" />
       </td>
@@ -450,25 +552,54 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 29</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 53</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>40</td>
       <td>
+          <img src="https://i.discogs.com/oJnqLl_C2-KQ-bYr_SPb2QKZxNj4gm8KOWE-x61ltQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODkw/MDYtMTMzMjQwNjg3/OS5qcGVn.jpeg" alt="Cover for De Nuevo Nunca" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Kannon</td>
+      <td>De Nuevo Nunca</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8346d09b68601ef4ff91a142fa72cd1d.png" alt="Cover for Introduction To Mayhem" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-01-25</td>
       <td>Primer 55</td>
       <td>Introduction To Mayhem</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/lHkQ7ssUDksJSZOMSb0A48VSWvASUSFFSjOCiN1AkWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzY5/Ni0xNDIxMjgyNTg3/LTkwMzAuanBlZw.jpeg" alt="Cover for Buy Now...Saved Later" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcb2ac5689014b96bee489cfc1dd0b2e.png" alt="Cover for Buy Now...Saved Later" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-10</td>
       <td>One Minute Silence</td>
@@ -476,12 +607,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76d326bffab39dd6f19dbd06bb8042b4.png" alt="Cover for Infest" style="max-width:120px; height:auto;" />
       </td>
@@ -490,13 +625,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Infest</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 72</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81101d3364c945e0aedfdc03806b1992.png" alt="Cover for Skull &amp; Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -505,13 +644,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Skull &amp; Bones</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c21b3923a4d3ff5629996f3f8e178140.png" alt="Cover for Hybrid Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -520,12 +661,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Hybrid Theory</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 51</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9939a159279a21306d8d48a8562a5207.png" alt="Cover for Chocolate Starfish and the Hot Dog Flavored Water" style="max-width:120px; height:auto;" />
       </td>
@@ -535,12 +681,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 55 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 90</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2eaca0cd6684941c97b8e9c354a2840.png" alt="Cover for Renegades" style="max-width:120px; height:auto;" />
       </td>
@@ -554,11 +705,20 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 48</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/otnnMoOPlgHKnHPQYnGgIYaN24gJQuewyg2zH-rEtiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzQ1/NjQtMTMzMDI2Mzcw/OS5qcGVn.jpeg" alt="Cover for Oameni Fara Fetze" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e950ed82969e489ecc728d95c513000.png" alt="Cover for Oameni Fara Fetze" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Implant pentru refuz</td>
@@ -569,9 +729,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/H2g05qk6r_My_ZSICQ__7_pR7iSCktsAf3XrHUhyHWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUx/NDMtMTQ3ODM3MDIy/Mi0zMTIxLmpwZWc.jpeg" alt="Cover for Union" style="max-width:120px; height:auto;" />
       </td>
@@ -583,9 +747,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
       </td>
       <td>2001</td>
@@ -596,9 +764,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0a575358f36373ed7a8469fc74a8e25.png" alt="Cover for Every Six Seconds" style="max-width:120px; height:auto;" />
       </td>
@@ -610,11 +782,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 7</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/6alwK_tz4V1-jK1ib9x__USF3n-7yO5jTNzM8UDZIlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU5/NzctMTI1MTU0MzI4/OC5qcGVn.jpeg" alt="Cover for Papercut" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd0c17794b943a016d4345ce4e5b8c5.png" alt="Cover for Papercut" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06-18</td>
       <td>Linkin Park</td>
@@ -625,9 +802,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51d14dbf831a42e5c21f58d3e6034aa9.png" alt="Cover for Satellite" style="max-width:120px; height:auto;" />
       </td>
@@ -636,27 +817,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Satellite</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td>2002-03-19</td>
-      <td>Five Pointe O</td>
-      <td>Untitled</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 76</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/hAt3evPrN_2dvimSTVjzvHfD8pnBVx4zX13-ivzKde0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDMz/NzEtMTM1NTMzMTkz/MS01MzE4LmpwZWc.jpeg" alt="Cover for Rage Against The Machine&#x2F;Evil Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -668,24 +839,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4df5bf6ddc9809e08a277527af6d80d.png" alt="Cover for Results May Vary" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-05-28</td>
-      <td>Limp Bizkit</td>
-      <td>Results May Vary</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 17</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40395faef90fc034b9d127588d47858f.png" alt="Cover for Live at the Grand Olympic Auditorium" style="max-width:120px; height:auto;" />
       </td>
@@ -697,9 +859,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d80f3a9c052e9fc75a169c6978318e6.png" alt="Cover for LVL IV" style="max-width:120px; height:auto;" />
       </td>
@@ -713,11 +879,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 7</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/CD0vpPX5kNqHF59Hw6mY1pd5Dexg38Zm3eHGQjgbWYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTEz/OC0xMTg0NDM5Nzg3/LmpwZWc.jpeg" alt="Cover for Full Scale" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cab943395c7d471b9e9ab307c6076be6.png" alt="Cover for Full Scale" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-08</td>
       <td>Full Scale</td>
@@ -732,9 +903,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
       </td>
       <td>2005-11-18</td>
@@ -744,12 +919,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf8dfe05e91db91ed38a6c4b6b29e95d.png" alt="Cover for From Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -758,15 +938,19 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>From Zero</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 14</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/3Ym5rc2uCWkTzjoJ6ZXEMZPqlK6xWgJ147Bh57kretE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjE2/NzYtMTM1NDI4MzE0/MS01ODIxLmpwZWc.jpeg" alt="Cover for Rage Against The Machine - XX (20th Anniversary Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bb98be573004e32ce2026300b1dd5f2.png" alt="Cover for Rage Against The Machine - XX (20th Anniversary Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-28</td>
       <td>Rage Against the Machine</td>
@@ -777,9 +961,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 28</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 48</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 74</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/wAmKaYTZ9A76pFjobIckTiyqenoeA6zGISz5L02aRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY0/MjQtMTI0MTM0NzY1/Ny5qcGVn.jpeg" alt="Cover for Dick In A Box" style="max-width:120px; height:auto;" />
       </td>
@@ -793,9 +985,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 38</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 50</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/wAmKaYTZ9A76pFjobIckTiyqenoeA6zGISz5L02aRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY0/MjQtMTI0MTM0NzY1/Ny5qcGVn.jpeg" alt="Cover for Jizz In My Pants" style="max-width:120px; height:auto;" />
       </td>
@@ -812,9 +1010,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 66</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 88</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 95</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abf26dc7ce7aa299bee51d59b9ba0c09.png" alt="Cover for Chef Aid: The South Park Album (Extreme Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -842,11 +1048,18 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 34</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/5TrzfRyrmMnh_N8UUg1rjN8SxYJBR_WTxXPQos_8Kos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE4/MjItMTMwNDQ1MjIy/My5qcGVn.jpeg" alt="Cover for The Shadow Side" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fb0d9f1bbe1493fb83e191c9792e254.png" alt="Cover for The Shadow Side" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-13</td>
       <td>Genuflect</td>
@@ -858,11 +1071,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/ooJbWSCxLngOK_y06Bj668YovFG7kEmDoCfBixWVDYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg2/NTYtMTI3MjI0Nzg4/Mi5qcGVn.jpeg" alt="Cover for Soundtrack to the Apocalypse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b01b72dbeba74db99aca19400f775051.png" alt="Cover for Soundtrack to the Apocalypse" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-18</td>
       <td>You And What Army</td>
@@ -878,9 +1095,36 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 26</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c541b8b99b324500a7a8bde72b2b8c8a.png" alt="Cover for Meteora: Live Around the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-04</td>
+      <td>Linkin Park</td>
+      <td>Meteora: Live Around the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/IcFM-7d5KkKq0V0HuZNlYMVn6dTf608jshYK-UwBYaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDM4/MzEtMTQ0MDc3OTA2/Ny01OTk2LmpwZWc.jpeg" alt="Cover for So Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -970,11 +1214,47 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 29</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/1aqtQWgzg2wOZ1XyWhHnJbCeCdfPNp3Lk2rKHiaFUMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk5/OTMtMTU1NjIxMTc5/MC00MjI2LmpwZWc.jpeg" alt="Cover for ReBIRTH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5b3f1e387ab4783be06a80526a67207.png" alt="Cover for ReBIRTH" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-10</td>
       <td>Lil&#39; Wayne</td>
@@ -985,11 +1265,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/N8SW7WsFq55ecpJssNGphFKQY4-sQo2kxQorztxVQRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjQz/OTYtMTM3NjY1ODM3/NC05NDk0LmpwZWc.jpeg" alt="Cover for Дверь в подвал" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a247d200a7c0b0d79fd168e7249061b1.png" alt="Cover for Дверь в подвал" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-08</td>
       <td>CellarDoor</td>
@@ -1005,9 +1289,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 31</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 45</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a141a6a6ee8b3f12b9d142da16ee410.png" alt="Cover for Gold Cobra (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,17 +1306,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Gold Cobra (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/UT9kud_q2KG_VFDFr9EuON_OZu5N1yNRdLmCEMesq1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODQ1/NjUtMTM3NTQzNTU0/Ni02ODE2LmpwZWc.jpeg" alt="Cover for The End Is Where We Begin (Reignited)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ec08eb4008043179759dfe4f7fa1afc.png" alt="Cover for The End Is Where We Begin (Reignited)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Thousand Foot Krutch</td>
@@ -1038,10 +1328,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -1131,9 +1426,37 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 28</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 49</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 56</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3f5be9ca91c335c8205bee64314614.png" alt="Cover for Ready To Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1465,11 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Ready To Go</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1165,11 +1492,20 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 72</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 90</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 96</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/FlWLCYh_fH1lz-RItmKObhwlpDJkuerB8AsUVp_p_Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEz/NDktMTIzNDAxNjg4/Ny5qcGVn.jpeg" alt="Cover for Road To Revolution (Live At Milton Keynes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95374c4df3f41526643d73b6576f1a20.png" alt="Cover for Road To Revolution (Live At Milton Keynes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-22</td>
       <td>Linkin Park</td>
@@ -1182,9 +1518,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>11</td>
       <td>
       </td>
       <td>2013-09-17</td>
@@ -1195,9 +1536,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 89</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/vLBJ8w6_g_VKCNcomB2kzqcnm13hScA459RovPLMK8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI2/NTEwLTE1ODgzNTcw/MDQtMTExMS5qcGVn.jpeg" alt="Cover for Unconscious" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,10 +1556,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a9739989ef40b6c056b6902cde2d34.png" alt="Cover for Violence &amp; Destruction" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-08</td>
       <td>Islander</td>
@@ -1226,11 +1578,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/ftJdb_sAYERtLiHSIr_5_tF3jPdtRaJGz7BcUcqSJgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzEx/NTAtMTQwODQ2NzA3/MS00MjQwLmpwZWc.jpeg" alt="Cover for Русский подорожник" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b55d8bfc91794862c804181452df3032.png" alt="Cover for Русский подорожник" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-13</td>
       <td>25&#x2F;17</td>
@@ -1245,10 +1601,18 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 61</li>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 90</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d55bf80b7735031625fa9828e525b757.png" alt="Cover for Welcame" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-21</td>
       <td>Rise Of The Northstar</td>
@@ -1259,9 +1623,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/64ZQ4_ujdAKj2SoJVCQRxI2T2MpgAADhZ5LjZqJCXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDU5/NTItMTQyNTAxMTQz/Ny00ODExLmpwZWc.jpeg" alt="Cover for Infektiko" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,9 +1650,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 41</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 58</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/6V_pTG7g0iqmJL_taXqU_jHeKTM0xkKAaPv_aIeeANc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTc2/ODYtMTQ3MzM1NDc2/OC05NDQxLmpwZWc.jpeg" alt="Cover for The Early Years - Revisited" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,9 +1670,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Cw7rXfttzjM0pV11Ho_lG-eU7zXJ7HwKFBOBUASolS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDkx/NjktMTQzOTQ5ODU4/NC00NTg2LmpwZWc.jpeg" alt="Cover for Subliminal Criminals" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,9 +1688,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/oxVDgInSinWkpJKtQ4dYesYpS_BDBsfWG4YYMBokGIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDI1/MjctMTQ0MDc1MjE4/My05NzY3LmpwZWc.jpeg" alt="Cover for The Brimstone Sluggers" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,9 +1709,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/68q-xb3MIOkYihykn5L6nsFDRpP_F3-XI_Rdwe9pf3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njc3/MzEtMTQ4NzYzNjY3/Mi0yMjU2LmpwZWc.jpeg" alt="Cover for Nova Twins EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,9 +1730,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/6dwVkJFmD-W-mtPYrKfq76cFQwMOnIOSnSdiMzTppfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzY2/NjItMTQ1NjU4Mzg2/Ni00NjkzLmpwZWc.jpeg" alt="Cover for Egotrip" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,11 +1750,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 8</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/IdrAhHOndkoI_1DXqsW54zkpaTkLZ_FCKfVqNNuicRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgw/NjYzLTE1NTY4OTU1/NzgtMTQ4Ny5qcGVn.jpeg" alt="Cover for Therapy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60420aff66871893ac2472c763e7d443.png" alt="Cover for Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-20</td>
       <td>DVSR</td>
@@ -1376,11 +1774,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/l89yb9svfATwmwZbOgyBrCAkNtxFIMqjwQCWxFcprSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzU4/ODkzLTE2NDU4NDM0/MzgtNjAwMi5qcGVn.jpeg" alt="Cover for The Legacy of Shi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bdff94e803a9a0b19b0b46e9bc577a5.png" alt="Cover for The Legacy of Shi" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Rise Of The Northstar</td>
@@ -1390,9 +1792,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/Pvuc_Qq5H92_xHOnHYo7ycaKzh6Cj1b-HFN4JoxezsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU4/OTcxLTE1MzU2OTcz/MzgtOTUzOC5qcGVn.jpeg" alt="Cover for Trigger" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,9 +1816,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 55</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/Pvuc_Qq5H92_xHOnHYo7ycaKzh6Cj1b-HFN4JoxezsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU4/OTcxLTE1MzU2OTcz/MzgtOTUzOC5qcGVn.jpeg" alt="Cover for Burn It" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,9 +1841,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 31</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/sCHfJyy1CtGV2CNBE5mFnVzp0xBmTFloyFppPdQk39U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQz/NDEwLTE1MzMzMzAw/MTgtNDg3Mi5qcGVn.jpeg" alt="Cover for Bone Crew" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,9 +1861,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adf79612490dd0aab07e980ec70940f1.png" alt="Cover for AudioDope" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,11 +1882,38 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 17</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 37</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/_O13RaV6pUDP-qOCmEOaNqQk_hMH8VL0fPh2WH10jms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzAz/OC0xMTA3MTI4NDk3/LmpwZw.jpeg" alt="Cover for Breaking Point" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4929238d95196c291b8451c3f09ba2b3.png" alt="Cover for Nvm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-10</td>
+      <td>Dropout Kings</td>
+      <td>Nvm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bce91af883589455f560ff47afaf1a8.png" alt="Cover for Breaking Point" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-11</td>
       <td>Afterlife</td>
@@ -1478,11 +1926,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 28</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/tyLTRCce5vRL4tdQ5fJz78Qbz_bV1zHlIXU6CayJQU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU0/MjA2LTE1NTY0MDQ0/OTEtMzA1Ny5qcGVn.jpeg" alt="Cover for Generation Nightmare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98955f8efa0b0f5e537f5ed69c849fde.png" alt="Cover for Generation Nightmare" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-26</td>
       <td>Twiztid</td>
@@ -1493,9 +1946,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/p15UkQGCOeYj7fmQYUHmGF8sGXIky0TJH8Mk_RO8CUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg3/ODc2LTE2MDUyMDQ0/MTYtODQ0MC5wbmc.jpeg" alt="Cover for Loyalty At All Costs" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,9 +1964,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5be29e7d8e85981713c2e3fd8652863.png" alt="Cover for Hyperviolence" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,14 +1979,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>Hyperviolence</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd374b985a13be971caf32a2a5f174f.png" alt="Cover for Dog Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,11 +2001,19 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 49</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 65</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/IEPMbYjGbRIOHENnI6FlHE02uiE5kW5x_vt-QWCaaFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE0/ODE1LTE2MzA3ODA3/NzAtMTg2MS5wbmc.jpeg" alt="Cover for Unlikely Prescription" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/285e05200796a9aa0b324faad4574a21.png" alt="Cover for Unlikely Prescription" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-10</td>
       <td>Twiztid</td>
@@ -1553,9 +2024,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/1uRUNiIckexw1S1DhBxVl6tAGvXROD-Bx-O5zDYhQ28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQ2/MTQ3LTE2Mjg4NTYz/OTctNTU1Mi5wbmc.jpeg" alt="Cover for pantychrist" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,9 +2047,16 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 16</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 28</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 48</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43a28eb98b731b2a0325cd97633066a2.png" alt="Cover for Still Sucks" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,11 +2068,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/w1OTP9rLDdFxE6VJrlUQiS0CEJ82qGTVRC3SG0sg-dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDcz/NDA1LTE3MDUxMzUw/NDItMjU5MC5qcGVn.jpeg" alt="Cover for OCTANE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3447772ba17ed1ba7f62b1869fee6a7.png" alt="Cover for OCTANE" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-13</td>
       <td>Nik Nocturnal</td>
@@ -1603,11 +2089,15 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/Z4BW8hLTWvmT0SH-jkqdw9FsjWgX1g4aSM0Bkg_cGCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDE0/Njk0LTE2Mzk5NTE1/NjQtNjYyNi5qcGVn.jpeg" alt="Cover for No Good at Goodbyes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d465f738a57361a1a9f2897504f1dbbf.png" alt="Cover for No Good at Goodbyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Gridiron</td>
@@ -1618,9 +2108,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/9hUO7UXPiU6cX9-axDhdPOJi1P1fs435bU3w3MXxrOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/MjI4LTE2NTYzNTM5/MzMtMTA0Mi5qcGVn.jpeg" alt="Cover for SKIN" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,25 +2128,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/O6dC8pwcVsA3AxmP7iGjz-NQ-MLrSPM-UYKu7S3Wu-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzM5/ODk3LTE2ODY4ODM4/NjMtNTgwNy5qcGVn.jpeg" alt="Cover for Fools Tomorrow" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>SickSense</td>
-      <td>Fools Tomorrow</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/HRgoEJpIM_oFjqp7tIluvQLXFEn3q6OoSOs-YB9q73U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njcy/MzIxLTE2Mjc1OTM3/NjYtNDkxNi5qcGVn.jpeg" alt="Cover for SWAMP" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,29 +2148,73 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/Bwmm_V8uwg8UbeDT77ReACHdXMTd5uGoJK9iQ1ilLzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/NDk2LTE1OTkzMjc1/MTItODEzMi5qcGVn.jpeg" alt="Cover for THE FUTURE IS DARK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb2dc09a60ec8d3456b400e80d2e314d.png" alt="Cover for Fools Tomorrow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>SickSense</td>
+      <td>Fools Tomorrow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/495260525c65076cc6fe8bdb78e81841.png" alt="Cover for Joke&#39;s On You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-21</td>
+      <td>Facewreck</td>
+      <td>Joke&#39;s On You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fc7968a6ab57db7347b8d5ead23cfe0.png" alt="Cover for THE FUTURE IS DARK" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-24</td>
       <td>Lil Darkie</td>
       <td>THE FUTURE IS DARK</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/agRZWF9qUcAdJwpI3jI-qJf2SjzrxKRDuQYxKSweUAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTYw/NDMzLTE3MTEwMTk1/NjQtMTA2My5qcGVn.jpeg" alt="Cover for off" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/820aac7c171996c32c0ff7a5c6a010d1.png" alt="Cover for off" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-22</td>
       <td>Alligatoah</td>
@@ -1699,9 +2226,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/KiqGpfX2oaqs00mVxcmSCmlES7JzbXhK-lkORGyPpy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc4/OTI4LTE3MjI2MjEz/ODItOTAzOS5qcGVn.jpeg" alt="Cover for I LAY DOWN MY LIFE FOR YOU" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,11 +2245,19 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/XpXm9vMdWm6KMKRH3slWr9mNFSRayuM5d-4zjWMZ1JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk3/MDg1LTE1OTI1MDg2/MjYtMTg5MS5wbmc.jpeg" alt="Cover for Popular Monster" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e2fff99ac19fdcfc7ecc7054c429848.png" alt="Cover for Popular Monster" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-16</td>
       <td>Falling in Reverse</td>
@@ -1729,9 +2268,14 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 64</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>76</td>
       <td>
       </td>
       <td></td>
@@ -1745,10 +2289,18 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 57</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/948f407c5a2848d090d9562bfa32f493.png" alt="Cover for Venom" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>WARGASM (UK)</td>
@@ -1767,6 +2319,17 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 2</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 11</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 54</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 77</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 85</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 94</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -1776,10 +2339,10 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
 - [nu metal]({{ "/tags/nu-metal" | relative_url }})
 - [rapcore]({{ "/tags/rapcore" | relative_url }})
 - [rap rock]({{ "/tags/rap-rock" | relative_url }})
-- [alternative metal]({{ "/tags/alternative-metal" | relative_url }})
 - [brutal death metal]({{ "/tags/brutal-death-metal" | relative_url }})
+- [alternative metal]({{ "/tags/alternative-metal" | relative_url }})
 - [metalcore]({{ "/tags/metalcore" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
-- [industrial metal]({{ "/tags/industrial-metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
+- [industrial metal]({{ "/tags/industrial-metal" | relative_url }})
 - [horrorcore]({{ "/tags/horrorcore" | relative_url }})

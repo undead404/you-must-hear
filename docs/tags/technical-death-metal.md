@@ -1,118 +1,2462 @@
 ---
 category: genre
-date: 2025-01-08T09:37:11.975Z
+date: 2025-11-22T13:50:28.546Z
 permalink: tags/technical-death-metal
 title: technical death metal
 ---
 
 ## technical death metal
 
-Last updated: <time datetime="2025-01-08T09:37:11.975Z">Wed Jan 08 2025 11:37:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T13:50:28.546Z">Sat Nov 22 2025 15:50:28 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Technical death metal is an extreme subgenre emphasizing complex song structures, intricate guitar work, and virtuosic musicianship. It emerged in the late 1980s as death metal bands pushed musical boundaries with jazz-influenced time signatures and progressive elements. The style prioritizes precise execution and technical skill while maintaining death metal&#39;s aggressive intensity.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 26 | ![Cover](https://i.discogs.com/6YlvUTETDWJAudFW73S-kF4MjFWrztfNl_5GtuhOGgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjQ1/Ny0xNTg0MzI4NjQz/LTc4MDAuanBlZw.jpeg) | 1990-01 | Atheist | Piece of Time |
-| 14 | ![Cover](http://coverartarchive.org/release/e4521532-6392-45eb-92a8-784033de7509/2571993471-250.jpg) | 1991-08-30 | Atheist | Unquestionable Presence |
-| 9 |  | 1991-10-22 | Death | Human |
-| 58 |  | 1993-01-19 | Gorguts | The Erosion of Sanity |
-| 38 | ![Cover](https://i.discogs.com/rubxiwLfSH8JdDBb0wILKA5X5Nm6ava-2VaeZm8MsEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTM5/NzMtMTMyMDM5NzMy/Mi5qcGVn.jpeg) | 1993-02-08 | Demilich | Nespithe |
-| 91 |  | 1993-05-03 | Pestilence | Spheres |
-| 7 | ![Cover](https://i.discogs.com/clJt6IrMVP_nVEy7iffgwd08GfHVWcZno29AfMdpwP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzcz/My0xNTg0OTMyOTc0/LTUzOTUuanBlZw.jpeg) | 1993-06-22 | Death | Individual Thought Patterns |
-| 46 |  | 1993-08-30 | Atheist | Elements |
-| 69 | ![Cover](https://i.discogs.com/0i9so85ZrpkFlu4FYyFxdQTOVPqjliIg2oilzW5Ckxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTU4/Ni0xMTQzOTg5MDk3/LmpwZWc.jpeg) | 1993-09-14 | Cynic | Focus |
-| 19 |  | 1995-03-21 | Death | Symbolic |
-| 11 |  | 1996-07-03 | Cryptopsy | None So Vile |
-| 95 | ![Cover](https://i.discogs.com/DCHUwvFfeNJ2uT3N_t0tQ77XflffE5tvK4EMGjonxbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA4/Ni0xMzA5OTAyMDU2/LmpwZWc.jpeg) | 1998-05-28 | Nile | Amongst the Catacombs of Nephren-Ka |
-| 29 | ![Cover](https://i.discogs.com/OaSN7WZU8q5FfKUXDpP5DS15ppbmrhvrr4l4ug2vvj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk0/NjYtMTMzOTUyNzQ0/OS00MTEzLmpwZWc.jpeg) | 1998-06-23 | Gorguts | Obscura |
-| 20 | ![Cover](https://i.discogs.com/sLQqzpxfyVt2McFmyhyjfOVzHuqHKGG7nVxFqetUczI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTEz/OC0xMzYzMzg0ODU5/LTg4MjkuanBlZw.jpeg) | 1998-09-15 | Death | The Sound of Perseverance |
-| 48 |  | 1998-09-22 | Cryptopsy | Whisper Supremacy |
-| 4 |  | 1999 | Necrophagist | Onset of Putrefaction |
-| 22 |  | 2000-04-17 | Decapitated | Winds Of Creation |
-| 94 |  | 2000-09-05 | Nile | Black Seeds of Vengeance |
-| 75 | ![Cover](https://i.discogs.com/rmPyAr5aXTXTqCywGoG4A-2CUKskYLCIfed0CqH6tCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzkw/My0xMTYyMzk2NTA2/LmpwZWc.jpeg) | 2000-10-31 | Cryptopsy | And Then You&#39;ll Beg |
-| 77 |  | 2001-03-06 | Gorguts | From Wisdom to Hate |
-| 10 |  | 2002-02-25 | Decapitated | Nihility |
-| 43 | ![Cover](https://i.discogs.com/ZSz_GkCSxhu_TeCBWluAPKNwZtOArKgFvJHp1jBQ27w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc3/MS0xNDA0ODU4NTkx/LTU4MzYuanBlZw.jpeg) | 2002-08-20 | Nile | In Their Darkened Shrines |
-| 80 |  | 2003-01-14 | Spawn of Possession | Cabinet |
-| 74 | ![Cover](https://i.discogs.com/YrPLZ5zi1ZizbbHRYrevFrUeZMf7DzZcPppxsKwHuss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTA1/Ni0xNDg1MDI3MTU2/LTQ5NDUuanBlZw.jpeg) | 2003-05-08 | Dying Fetus | Stop At Nothing |
-| 78 |  | 2003-05-12 | Psycroptic | The Scepter of the Ancients |
-| 62 |  | 2004-02-01 | Decapitated | The Negation |
-| 53 |  | 2004-03-30 | Arsis | A Celebration of Guilt |
-| 2 |  | 2004-08-03 | Necrophagist | Epitaph |
-| 86 |  | 2004-11-04 | Quo Vadis | Defiant Imagination |
-| 52 |  | 2005-05-12 | Beneath the Massacre | Evidence Of Inequity |
-| 49 |  | 2005-05-23 | Nile | Annihilation of the Wicked |
-| 57 |  | 2005-10-14 | Cryptopsy | Once Was Not |
-| 72 | ![Cover](https://i.discogs.com/XFz5X8fkzxSkjNyE3dKsIyGFKdWw-c81-4ZgF8WDnAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTQy/NC0xMjE5MzM4OTk2/LmpwZWc.jpeg) | 2005-10-25 | Arsis | A Diamond For Disease |
-| 12 | ![Cover](https://i.discogs.com/xqeco5kk7Hg6XUMBfuy2sCkd0oebql9K-7fdKhMKDn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgx/Ny0xNjgxNzEwMTMz/LTY4MjYuanBlZw.jpeg) | 2006-02-07 | Decapitated | Organic Hallucinosis |
-| 64 | ![Cover](https://i.discogs.com/8H0n2lY0sjfoWwTRFlqM9_FpGXTq08QDBoh1cgfbyv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODAx/MzYtMTI1NjQzODg5/MC5qcGVn.jpeg) | 2006-05-31 | Spawn of Possession | Noctambulant |
-| 84 | ![Cover](https://i.discogs.com/BMDgO2QvRzeLexlcckqHwqB-QRcaQOAc9scdyGmGccs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjIz/MS0xMTYxMzAwMDE3/LmpwZWc.jpeg) | 2006-06-19 | Anata | The Conductor&#39;s Departure |
-| 8 |  | 2006-11-14 | The Faceless | Akeldama |
-| 39 |  | 2007-02-20 | Beneath the Massacre | Mechanics of Dysfunction |
-| 32 |  | 2007-07-17 | Nile | Ithyphallic |
-| 87 | ![Cover](https://i.discogs.com/96GG_p6nQfTSuCWNcv0-PXJGyhbJgy6a3oa3PzRPi4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDM5/MjgtMTQ5MjIyNDg0/NC0zMjk5LmpwZWc.jpeg) | 2008 | Burning the Masses | Volatile Existence |
-| 97 |  | 2008-02-26 | Hour of Penance | The Vile Conception |
-| 88 | ![Cover](http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-250.jpg) | 2008-02-27 | Meshuggah | ObZen |
-| 35 |  | 2008-04-01 | Origin | Antithesis |
-| 45 |  | 2008-04-15 | Arsis | We Are The Nightmare |
-| 73 | ![Cover](https://i.discogs.com/uSGjBkZGuZI4RBMmTESDm7K8foX4gyvV8BnK5yI1UEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE3/MDAtMTY2OTE0ODkw/Ny04Mjc0LmpwZWc.jpeg) | 2008-09-26 | Psycroptic | Ob(servant) |
-| 65 |  | 2008-10-28 | Beneath the Massacre | Dystopia |
-| 5 | ![Cover](https://i.discogs.com/8rs7VMaBwKfGTuplyiiheRgKbDnmLpfE9vpzBTBDsZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI4/MjktMTQyNzUzMDk5/Ny03MDg4LmpwZWc.jpeg) | 2008-11-11 | The Faceless | Planetary Duality |
-| 23 | ![Cover](https://i.discogs.com/82oRDpvaagzsjLtbdgV0bXSlcIWVeqRl79B2TZEwS5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzY1/MzctMTI3NDcyNDI3/MC5qcGVn.jpeg) | 2009-02-17 | Obscura | Cosmogenesis |
-| 34 |  | 2009-03-30 | Fleshgod Apocalypse | Oracles |
-| 60 |  | 2009-04-07 | Ulcerate | Everything Is Fire |
-| 68 |  | 2009-06-01 | Gorod | Process of a New Decline |
-| 18 | ![Cover](https://i.discogs.com/LxajxrwMQGwbsx4LWv447GH7iDBmjxk8eIbqhLg0qis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTYz/NjQtMTI0Mzg5NDAz/Ny5qcGVn.jpeg) | 2009-11 | Restart | Restart |
-| 28 |  | 2009-11-03 | Nile | Those Whom the Gods Detest |
-| 31 |  | 2010-06-10 | Fleshgod Apocalypse | Mafia |
-| 44 |  | 2010-07-27 | Decrepit Birth | Polarity |
-| 79 | ![Cover](https://i.discogs.com/1Av1DuG98ph4Bc5rpne5nDCijYN2Dee_OHXWAWeQ8ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjcy/NzItMTYxNDQ1NDc4/MS04Njk4LmpwZWc.jpeg) | 2010-11-08 | Atheist | Jupiter |
-| 61 |  | 2011-01-25 | Ulcerate | The Destroyers Of All |
-| 36 | ![Cover](https://i.discogs.com/RbSqiMmDdCP90oCIi99llmXrqtoT1cnqj2YL_zQndIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE4/NjgtMTY1MDQ5ODA0/My0zNzI1LmpwZWc.jpeg) | 2011-03-23 | Obscura | Omnivium |
-| 42 |  | 2011-04-12 | Beyond Creation | The Aura |
-| 24 |  | 2011-07-12 | Decapitated | Carnival Is Forever |
-| 15 |  | 2011-08-09 | Fleshgod Apocalypse | Agony |
-| 85 |  | 2011-11-21 | Fallujah | The Harvest Wombs |
-| 41 |  | 2012-03-13 | Spawn of Possession | Incurso |
-| 83 |  | 2012-06-19 | Dying Fetus | Reign Supreme |
-| 71 |  | 2012-06-29 | Nile | At the Gate of Sethu |
-| 98 |  | 2012-08-14 | The Faceless | Autotheism |
-| 81 |  | 2012-09-11 | Cryptopsy | Cryptopsy |
-| 59 |  | 2013-08-30 | Gorguts | Colored Sands |
-| 100 |  | 2013-09-17 | Ulcerate | Vermis |
-| 55 | ![Cover](https://i.discogs.com/Xcx6w7BHRKkplHxLDl8iQrl_bxXxW-6-nOQ7oRbYtpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDU0/NDEtMTQyOTM5OTcy/OC0zMzMzLmpwZWc.jpeg) | 2014-04-25 | Archspire | The Lucid Collective |
-| 25 |  | 2014-07-22 | Jason Aldean | Burnin&#39; It Down |
-| 47 |  | 2014-07-22 | Fallujah | The Flesh Prevails |
-| 63 | ![Cover](https://i.discogs.com/Zd5EGS9Pv_zyi9tEFs6X4SrJSdTEmFh3XyKWZ3f5R4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTk5/NjItMTQxMzU1NjY0/Ny02MTUyLmpwZWc.jpeg) | 2014-10-24 | Beyond Creation | Earthborn Evolution |
-| 54 |  | 2014-11-07 | Job for a Cowboy | Sun Eater |
-| 96 | ![Cover](https://i.discogs.com/pMZUqn9FLZOk9QY03E4CBhhh7g8YiOINbuF8KXkYcQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTcx/NDMtMTQ4NTI1NDU5/NS0zNTE0LnBuZw.jpeg) | 2015 | Thy Art Is Murder | The Son of Misery |
-| 76 | ![Cover](https://i.discogs.com/C5lOO8jet_a_DfGH3Xl6dmjZJULNNfBCQjP_5_-gggw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzIw/MDUtMTQ1MzgyODAz/OS01ODI2LmpwZWc.jpeg) | 2016-02-05 | Obscura | Akróasis |
-| 51 | ![Cover](https://i.discogs.com/yqgM39diNIi6lQ5Rpw0LoFcY2NsMaRjhG1yQwZK0E0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzg5/NDMtMTQ2MzMzNDIw/NS0zNjg4LmpwZWc.jpeg) | 2016-04-29 | Fallujah | Dreamless |
-| 90 | ![Cover](https://i.discogs.com/pHb2rXcsHYVNrMUWXCWbFI-hih6CdJ-PUvNUfRmDlSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODAx/NDctMTQ4NjA3NDE1/Ni00NjA0LmpwZWc.jpeg) | 2016-09-23 | Allegaeon | Proponent for Sentience |
-| 50 | ![Cover](https://i.discogs.com/O4GDYfNp2QDseKK7DLmzV85rAXSD4PZoZRrnMJd_arY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjA4/MDItMTMwOTI2OTkz/NC5qcGVn.jpeg) | 2017 | Death | The Sound of Perseverance - Reissue |
-| 13 | ![Cover](https://i.discogs.com/tZBjMhGqg_L9Liu7rI5c8KN6VhVZQO6Zoth8zqVIC_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU1/MTI2LTE2OTE0Njgx/MTAtNjgxOS5qcGVn.jpeg) | 2017-09-22 | Archspire | Relentless Mutation |
-| 33 | ![Cover](https://i.discogs.com/SPguvPh2Zzjdo1Eny8zZYxRZBYfNSEWmO3OwD6Mg_y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAz/MDI5LTE2NTUzODEx/NzQtNjc1Ny5qcGVn.jpeg) | 2017-09-22 | Archspire | Drone Corpse Aviator |
-| 82 | ![Cover](https://i.discogs.com/2C_gH5RsITmvBWiX4XYPTDT1HQKtt2xGp_ZX2D48Vuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA5/NjIzLTE2MDE3MzAz/ODUtNjExMC5qcGVn.jpeg) | 2017-12-01 | The Faceless | In Becoming A Ghost |
-| 16 | ![Cover](https://i.discogs.com/p76y0cwMuHLZvALc3NLIbpoyTR8VHkY3I7tBo-KiY84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/NzY3LTE2MTY0OTYz/MzgtNjQ3NS5qcGVn.jpeg) | 2018-03-16 | Rivers of Nihil | Where Owls Know My Name |
-| 92 | ![Cover](https://i.discogs.com/AH2ka-AX3zck3mZECNPXOB7KZ0wSzvIngHAY8z9BszU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/NDQxLTE1MzIyMDYz/MjMtOTQ5Mi5qcGVn.jpeg) | 2018-07-13 | Obscura | Diluvium |
-| 93 | ![Cover](https://i.discogs.com/Myyoa4FB6YA9o2NJ3U-AcBbxbb91thMtJyB3Ex9VUZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg1/Nzg4LTE2NzQ5OTAw/MDAtOTg3OS5qcGVn.jpeg) | 2018-10-19 | Gorod | Aethra |
-| 99 | ![Cover](https://i.discogs.com/eCZcVRjFil1_quUqwM6rHFskcL-H9AvTRmFcvkGZU9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk4/MTYxLTE1NDAyNTQy/MjQtMzYwNS5qcGVn.jpeg) | 2018-12-14 | Hate Eternal | Upon Desolate Sands |
-| 89 | ![Cover](https://i.discogs.com/T6Fz66ZXWVDv06oi6PWrJgnGJQTmb2kvVqJJLhwTdeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY4/NTgzLTE1NjE2NTUy/OTItNTYxNC5qcGVn.jpeg) | 2019-05-24 | Fleshgod Apocalypse | Veleno |
-| 6 | ![Cover](https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg) | 2019-10-10 | Sam Hunt | Kinfolks |
-| 67 | ![Cover](https://i.discogs.com/Bc12zNrpctiW0abO2SLPCsQ7a97BuInZJuXkFCwY1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMy/MDc1LTE1NzIzODU2/MzgtNzU2NS5qcGVn.jpeg) | 2019-11-01 | Nile | Vile Nilotic Rites |
-| 30 | ![Cover](https://i.discogs.com/mjnp_kGCv8qWhqeai854bwV7BQn00aXSOMpa3UQEQak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/NzIwLTE1NzYwNDg4/NTEtNzU1MS5qcGVn.jpeg) | 2019-11-29 | Cattle Decapitation | Death Atlas |
-| 37 | ![Cover](https://i.discogs.com/nJCExDpsI-pGu0vKcUFIBx1STwATR1dKe8l10OhGu9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/MTE2LTE1ODc0NTUz/NjQtMzY3OS5qcGVn.jpeg) | 2020-04-24 | Ulcerate | Stare Into Death And Be Still |
-| 27 | ![Cover](https://i.discogs.com/tYRCe-DcbH7jyKfhXxhKbiGmmV_ND92YE_RSb2RH3sI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzEw/MDMtMTY3MTE4OTk1/MS01MjgyLmpwZWc.jpeg) | 2020-11 | Blood Incantation | Starspawn |
-| 17 | ![Cover](https://i.discogs.com/QzAVQCkAMMHGckuSiCYAT6IXhwCzCZwZ_0gTj1Pus_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI4/NjIxLTE2MzUxODY5/MjgtMTY4Ny5qcGVn.jpeg) | 2021-10-28 | Archspire | Bleed The Future |
-| 40 | ![Cover](https://i.discogs.com/NmT0XwTtxxpPCnCnZh6G1FsLavoOcRZ7PFWn3JS37Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE1/Njk2LTE2MzU5NjEy/NzEtMzQzMS5qcGVn.jpeg) | 2021-10-29 | Archspire | Golden Mouth of Ruin |
-| 56 | ![Cover](https://i.discogs.com/bQAI3-t4JX4w-1H4Lsk6WMMIWMwhyb5lgUOSVTIkE_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/MTA0LTE2NDk5ODUw/NjMtNjQwNC5qcGVn.jpeg) | 2022-05-27 | Decapitated | Cancer Culture |
-| 21 | ![Cover](https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg) | 2022-06-23 | Sam Hunt | Water Under The Bridge |
-| 3 | ![Cover](https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg) | 2023-03-10 | Sam Hunt | Outskirts |
-| 70 | ![Cover](https://i.discogs.com/AsR3qiBhiL5De2R4pT4O-8N61vLwT_vyMcZX4sakPwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTUx/ODYzLTE2OTQ5Nzcz/NjUtOTQ3MC5qcGVn.jpeg) | 2023-09-08 | Dying Fetus | Make Them Beg for Death |
-| 66 |  | 2024-06-14 | Ulcerate | Cutting The Throat Of God |
-| 1 | ![Cover](https://i.discogs.com/x6aryvVjwqYPJVqnUleBpiL9yKu_NhsmnwokkJh2I1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY4/ODg1LTE3MjE0NDI3/MzItNjQ5Ny5qcGVn.jpeg) | 2024-07-19 | jimin | muse |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e4bb841e57648df7bf68057618b51e7.png" alt="Cover for Piece of Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-01</td>
+      <td>Atheist</td>
+      <td>Piece of Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c31924f0d101d161241c08c1f2e35cc8.png" alt="Cover for Spiritual Healing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-02-16</td>
+      <td>Death</td>
+      <td>Spiritual Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fe6d6cd6b8248a84ca5d414d5979719.png" alt="Cover for Unquestionable Presence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-08-30</td>
+      <td>Atheist</td>
+      <td>Unquestionable Presence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54ce7db05d66438481c9cf0e69e38822.png" alt="Cover for Human" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-10-22</td>
+      <td>Death</td>
+      <td>Human</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 12</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb1cf9b1a0f3466ba4aa88c31a0a73d1.png" alt="Cover for The Erosion of Sanity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-01-19</td>
+      <td>Gorguts</td>
+      <td>The Erosion of Sanity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41b8ea7e11d31887f03dae7b9b6386eb.png" alt="Cover for Nespithe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-02-08</td>
+      <td>Demilich</td>
+      <td>Nespithe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>1993-05-03</td>
+      <td>Pestilence</td>
+      <td>Spheres</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/clJt6IrMVP_nVEy7iffgwd08GfHVWcZno29AfMdpwP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzcz/My0xNTg0OTMyOTc0/LTUzOTUuanBlZw.jpeg" alt="Cover for Individual Thought Patterns" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-06-22</td>
+      <td>Death</td>
+      <td>Individual Thought Patterns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 22</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>1993-08-30</td>
+      <td>Atheist</td>
+      <td>Elements</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 33</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1eb9296cb37489fb29dbcea677a5d7f.png" alt="Cover for Focus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-09-14</td>
+      <td>Cynic</td>
+      <td>Focus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/498e10cffa5dcd084d89f57ada9d6e25.png" alt="Cover for Symbolic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-03-21</td>
+      <td>Death</td>
+      <td>Symbolic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 83</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/612f179e5f992bfa562ec062e33eb863.png" alt="Cover for None So Vile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-07-03</td>
+      <td>Cryptopsy</td>
+      <td>None So Vile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 44</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 86</li>
+            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6433375da767b6e76ce3480733671486.png" alt="Cover for Amongst the Catacombs of Nephren-Ka" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-05-28</td>
+      <td>Nile</td>
+      <td>Amongst the Catacombs of Nephren-Ka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/OaSN7WZU8q5FfKUXDpP5DS15ppbmrhvrr4l4ug2vvj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk0/NjYtMTMzOTUyNzQ0/OS00MTEzLmpwZWc.jpeg" alt="Cover for Obscura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-23</td>
+      <td>Gorguts</td>
+      <td>Obscura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/818c6ed26904377577aa905c2d00c987.png" alt="Cover for The Sound of Perseverance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-09-15</td>
+      <td>Death</td>
+      <td>The Sound of Perseverance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/901af2937f1d83bd73430c0cab76e0a7.png" alt="Cover for Whisper Supremacy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-09-22</td>
+      <td>Cryptopsy</td>
+      <td>Whisper Supremacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/395f9099c258f839f274055f8a2e74ea.png" alt="Cover for Onset of Putrefaction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Necrophagist</td>
+      <td>Onset of Putrefaction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2000-04-17</td>
+      <td>Decapitated</td>
+      <td>Winds Of Creation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2000-09-05</td>
+      <td>Nile</td>
+      <td>Black Seeds of Vengeance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0f9501c1d084cc5a3b087c9c08cb34b.png" alt="Cover for And Then You&#39;ll Beg" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-10-31</td>
+      <td>Cryptopsy</td>
+      <td>And Then You&#39;ll Beg</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c7576a776018f64bfc82664f7f936c3.png" alt="Cover for From Wisdom to Hate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-03-06</td>
+      <td>Gorguts</td>
+      <td>From Wisdom to Hate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2002-02-25</td>
+      <td>Decapitated</td>
+      <td>Nihility</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b3ab0f410d941bcc115ec9ca215c869.png" alt="Cover for In Their Darkened Shrines" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-20</td>
+      <td>Nile</td>
+      <td>In Their Darkened Shrines</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2003-01-14</td>
+      <td>Spawn of Possession</td>
+      <td>Cabinet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/YrPLZ5zi1ZizbbHRYrevFrUeZMf7DzZcPppxsKwHuss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTA1/Ni0xNDg1MDI3MTU2/LTQ5NDUuanBlZw.jpeg" alt="Cover for Stop At Nothing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05-08</td>
+      <td>Dying Fetus</td>
+      <td>Stop At Nothing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe03466ca0dc66b7d8c303c116d24e27.png" alt="Cover for The Scepter of the Ancients" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05-12</td>
+      <td>Psycroptic</td>
+      <td>The Scepter of the Ancients</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2004-02-01</td>
+      <td>Decapitated</td>
+      <td>The Negation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2004-03-30</td>
+      <td>Arsis</td>
+      <td>A Celebration of Guilt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b34c41e536b99b013ba012ba3f81a03.png" alt="Cover for Epitaph" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08-03</td>
+      <td>Necrophagist</td>
+      <td>Epitaph</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2004-11-04</td>
+      <td>Quo Vadis</td>
+      <td>Defiant Imagination</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c3221bb786619e805833eaffa5cc9d3.png" alt="Cover for Evidence Of Inequity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-12</td>
+      <td>Beneath the Massacre</td>
+      <td>Evidence Of Inequity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2005-05-23</td>
+      <td>Nile</td>
+      <td>Annihilation of the Wicked</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 40</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2005-10-18</td>
+      <td>Cryptopsy</td>
+      <td>Once Was Not</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/XFz5X8fkzxSkjNyE3dKsIyGFKdWw-c81-4ZgF8WDnAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTQy/NC0xMjE5MzM4OTk2/LmpwZWc.jpeg" alt="Cover for A Diamond For Disease" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-25</td>
+      <td>Arsis</td>
+      <td>A Diamond For Disease</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ba116264c4a4f7ba0fc1a90830da3af.png" alt="Cover for Organic Hallucinosis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-02-07</td>
+      <td>Decapitated</td>
+      <td>Organic Hallucinosis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/8H0n2lY0sjfoWwTRFlqM9_FpGXTq08QDBoh1cgfbyv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODAx/MzYtMTI1NjQzODg5/MC5qcGVn.jpeg" alt="Cover for Noctambulant" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-31</td>
+      <td>Spawn of Possession</td>
+      <td>Noctambulant</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/BMDgO2QvRzeLexlcckqHwqB-QRcaQOAc9scdyGmGccs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjIz/MS0xMTYxMzAwMDE3/LmpwZWc.jpeg" alt="Cover for The Conductor&#39;s Departure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-19</td>
+      <td>Anata</td>
+      <td>The Conductor&#39;s Departure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01303440b3eb4cb1ad3a6a604a343c43.png" alt="Cover for Akeldama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11-14</td>
+      <td>The Faceless</td>
+      <td>Akeldama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 15</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2007-02-20</td>
+      <td>Beneath the Massacre</td>
+      <td>Mechanics of Dysfunction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eeaaffa0371439e824da73cb7d5d44d.png" alt="Cover for Ithyphallic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07-17</td>
+      <td>Nile</td>
+      <td>Ithyphallic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/96GG_p6nQfTSuCWNcv0-PXJGyhbJgy6a3oa3PzRPi4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDM5/MjgtMTQ5MjIyNDg0/NC0zMjk5LmpwZWc.jpeg" alt="Cover for Volatile Existence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Burning the Masses</td>
+      <td>Volatile Existence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2008-02-26</td>
+      <td>Hour of Penance</td>
+      <td>The Vile Conception</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-250.jpg" alt="Cover for ObZen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-27</td>
+      <td>Meshuggah</td>
+      <td>ObZen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 29</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 90</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce0f699eec9742479f7cd7450290cf17.png" alt="Cover for Antithesis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-01</td>
+      <td>Origin</td>
+      <td>Antithesis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2008-04-15</td>
+      <td>Arsis</td>
+      <td>We Are The Nightmare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/uSGjBkZGuZI4RBMmTESDm7K8foX4gyvV8BnK5yI1UEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE3/MDAtMTY2OTE0ODkw/Ny04Mjc0LmpwZWc.jpeg" alt="Cover for Ob(servant)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-26</td>
+      <td>Psycroptic</td>
+      <td>Ob(servant)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea32a3ba0c5b775e869ed658becf70ca.png" alt="Cover for Dystopia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-28</td>
+      <td>Beneath the Massacre</td>
+      <td>Dystopia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0a0604d69444addb7053032b98472df.png" alt="Cover for Planetary Duality" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-11</td>
+      <td>The Faceless</td>
+      <td>Planetary Duality</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0114e4dca2e34839bd71e4d55c187890.png" alt="Cover for Cosmogenesis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-02-17</td>
+      <td>Obscura</td>
+      <td>Cosmogenesis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2009-03-30</td>
+      <td>Fleshgod Apocalypse</td>
+      <td>Oracles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>2009-04-07</td>
+      <td>Ulcerate</td>
+      <td>Everything Is Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2009-06-01</td>
+      <td>Gorod</td>
+      <td>Process of a New Decline</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1f8a32b369643e9a95d0f6afe00d507.png" alt="Cover for Those Whom the Gods Detest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-03</td>
+      <td>Nile</td>
+      <td>Those Whom the Gods Detest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5ca258a5ee768459d83fa61f12f7ec8.png" alt="Cover for Restart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11</td>
+      <td>Restart</td>
+      <td>Restart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e58352663c4bcaed90cb63bb4e658c2a.png" alt="Cover for Mafia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-10</td>
+      <td>Fleshgod Apocalypse</td>
+      <td>Mafia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 5</li>
+            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4fdd6fe741944249d5bdf7bcb169abe.png" alt="Cover for Polarity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-27</td>
+      <td>Decrepit Birth</td>
+      <td>Polarity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0704fcee539a298a233f40780b7e26f.png" alt="Cover for Jupiter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-08</td>
+      <td>Atheist</td>
+      <td>Jupiter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2011-01-25</td>
+      <td>Ulcerate</td>
+      <td>The Destroyers Of All</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/RbSqiMmDdCP90oCIi99llmXrqtoT1cnqj2YL_zQndIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE4/NjgtMTY1MDQ5ODA0/My0zNzI1LmpwZWc.jpeg" alt="Cover for Omnivium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-23</td>
+      <td>Obscura</td>
+      <td>Omnivium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2011-04-12</td>
+      <td>Beyond Creation</td>
+      <td>The Aura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2011-07-12</td>
+      <td>Decapitated</td>
+      <td>Carnival Is Forever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2011-08-09</td>
+      <td>Fleshgod Apocalypse</td>
+      <td>Agony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/287e9a86749128e46dfb72bd6f2ec5f3.png" alt="Cover for The Harvest Wombs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-21</td>
+      <td>Fallujah</td>
+      <td>The Harvest Wombs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2012-03-13</td>
+      <td>Spawn of Possession</td>
+      <td>Incurso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2012-06-19</td>
+      <td>Dying Fetus</td>
+      <td>Reign Supreme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 56</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2012-06-29</td>
+      <td>Nile</td>
+      <td>At the Gate of Sethu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2012-08-14</td>
+      <td>The Faceless</td>
+      <td>Autotheism</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2012-09-11</td>
+      <td>Cryptopsy</td>
+      <td>Cryptopsy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2013-08-30</td>
+      <td>Gorguts</td>
+      <td>Colored Sands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c392a18b68f4dadcd3c65793786cd55.png" alt="Cover for The Lucid Collective" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-04-25</td>
+      <td>Archspire</td>
+      <td>The Lucid Collective</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2014-07-22</td>
+      <td>Fallujah</td>
+      <td>The Flesh Prevails</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2014-07-22</td>
+      <td>Jason Aldean</td>
+      <td>Burnin&#39; It Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 40</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/Zd5EGS9Pv_zyi9tEFs6X4SrJSdTEmFh3XyKWZ3f5R4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTk5/NjItMTQxMzU1NjY0/Ny02MTUyLmpwZWc.jpeg" alt="Cover for Earthborn Evolution" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-24</td>
+      <td>Beyond Creation</td>
+      <td>Earthborn Evolution</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1524cc46c244b87cb06b9001ed18672.png" alt="Cover for Sun Eater" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-07</td>
+      <td>Job for a Cowboy</td>
+      <td>Sun Eater</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/811443d952c0db2ac80b37c625439a15.png" alt="Cover for The Son of Misery" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Thy Art Is Murder</td>
+      <td>The Son of Misery</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 5</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/C5lOO8jet_a_DfGH3Xl6dmjZJULNNfBCQjP_5_-gggw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzIw/MDUtMTQ1MzgyODAz/OS01ODI2LmpwZWc.jpeg" alt="Cover for Akróasis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-05</td>
+      <td>Obscura</td>
+      <td>Akróasis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5144783f25ec221289e5e474305f7bb.png" alt="Cover for Dreamless" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-29</td>
+      <td>Fallujah</td>
+      <td>Dreamless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/pHb2rXcsHYVNrMUWXCWbFI-hih6CdJ-PUvNUfRmDlSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODAx/NDctMTQ4NjA3NDE1/Ni00NjA0LmpwZWc.jpeg" alt="Cover for Proponent for Sentience" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-23</td>
+      <td>Allegaeon</td>
+      <td>Proponent for Sentience</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/O4GDYfNp2QDseKK7DLmzV85rAXSD4PZoZRrnMJd_arY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjA4/MDItMTMwOTI2OTkz/NC5qcGVn.jpeg" alt="Cover for The Sound of Perseverance - Reissue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Death</td>
+      <td>The Sound of Perseverance - Reissue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 48</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/SPguvPh2Zzjdo1Eny8zZYxRZBYfNSEWmO3OwD6Mg_y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAz/MDI5LTE2NTUzODEx/NzQtNjc1Ny5qcGVn.jpeg" alt="Cover for Drone Corpse Aviator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-22</td>
+      <td>Archspire</td>
+      <td>Drone Corpse Aviator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65277a07aebf3b915903230aba09fbd7.png" alt="Cover for Relentless Mutation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-22</td>
+      <td>Archspire</td>
+      <td>Relentless Mutation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb2e6241e145420bd7be96223aed22a.png" alt="Cover for In Becoming A Ghost" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-01</td>
+      <td>The Faceless</td>
+      <td>In Becoming A Ghost</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/p76y0cwMuHLZvALc3NLIbpoyTR8VHkY3I7tBo-KiY84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/NzY3LTE2MTY0OTYz/MzgtNjQ3NS5qcGVn.jpeg" alt="Cover for Where Owls Know My Name" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-16</td>
+      <td>Rivers of Nihil</td>
+      <td>Where Owls Know My Name</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/AH2ka-AX3zck3mZECNPXOB7KZ0wSzvIngHAY8z9BszU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/NDQxLTE1MzIyMDYz/MjMtOTQ5Mi5qcGVn.jpeg" alt="Cover for Diluvium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-13</td>
+      <td>Obscura</td>
+      <td>Diluvium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/Myyoa4FB6YA9o2NJ3U-AcBbxbb91thMtJyB3Ex9VUZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg1/Nzg4LTE2NzQ5OTAw/MDAtOTg3OS5qcGVn.jpeg" alt="Cover for Aethra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-19</td>
+      <td>Gorod</td>
+      <td>Aethra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/eCZcVRjFil1_quUqwM6rHFskcL-H9AvTRmFcvkGZU9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk4/MTYxLTE1NDAyNTQy/MjQtMzYwNS5qcGVn.jpeg" alt="Cover for Upon Desolate Sands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-14</td>
+      <td>Hate Eternal</td>
+      <td>Upon Desolate Sands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/T6Fz66ZXWVDv06oi6PWrJgnGJQTmb2kvVqJJLhwTdeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY4/NTgzLTE1NjE2NTUy/OTItNTYxNC5qcGVn.jpeg" alt="Cover for Veleno" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-24</td>
+      <td>Fleshgod Apocalypse</td>
+      <td>Veleno</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-10</td>
+      <td>Sam Hunt</td>
+      <td>Kinfolks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 29</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 82</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/Bc12zNrpctiW0abO2SLPCsQ7a97BuInZJuXkFCwY1gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMy/MDc1LTE1NzIzODU2/MzgtNzU2NS5qcGVn.jpeg" alt="Cover for Vile Nilotic Rites" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-01</td>
+      <td>Nile</td>
+      <td>Vile Nilotic Rites</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/mjnp_kGCv8qWhqeai854bwV7BQn00aXSOMpa3UQEQak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/NzIwLTE1NzYwNDg4/NTEtNzU1MS5qcGVn.jpeg" alt="Cover for Death Atlas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-29</td>
+      <td>Cattle Decapitation</td>
+      <td>Death Atlas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/nJCExDpsI-pGu0vKcUFIBx1STwATR1dKe8l10OhGu9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/MTE2LTE1ODc0NTUz/NjQtMzY3OS5qcGVn.jpeg" alt="Cover for Stare Into Death And Be Still" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-24</td>
+      <td>Ulcerate</td>
+      <td>Stare Into Death And Be Still</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/tYRCe-DcbH7jyKfhXxhKbiGmmV_ND92YE_RSb2RH3sI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzEw/MDMtMTY3MTE4OTk1/MS01MjgyLmpwZWc.jpeg" alt="Cover for Starspawn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11</td>
+      <td>Blood Incantation</td>
+      <td>Starspawn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a0d5303c3e6aabb035ada1db8ca2f6e.png" alt="Cover for Bleed The Future" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-28</td>
+      <td>Archspire</td>
+      <td>Bleed The Future</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/NmT0XwTtxxpPCnCnZh6G1FsLavoOcRZ7PFWn3JS37Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE1/Njk2LTE2MzU5NjEy/NzEtMzQzMS5qcGVn.jpeg" alt="Cover for Golden Mouth of Ruin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-29</td>
+      <td>Archspire</td>
+      <td>Golden Mouth of Ruin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80c5c0c368092c44f1e1b879162f3e61.png" alt="Cover for Cancer Culture" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-27</td>
+      <td>Decapitated</td>
+      <td>Cancer Culture</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-23</td>
+      <td>Sam Hunt</td>
+      <td>Water Under The Bridge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 8</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-03-10</td>
+      <td>Sam Hunt</td>
+      <td>Outskirts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 49</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 87</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 94</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/AsR3qiBhiL5De2R4pT4O-8N61vLwT_vyMcZX4sakPwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTUx/ODYzLTE2OTQ5Nzcz/NjUtOTQ3MC5qcGVn.jpeg" alt="Cover for Make Them Beg for Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-08</td>
+      <td>Dying Fetus</td>
+      <td>Make Them Beg for Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 43</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92cabbcdb03f8cc8be6afce73b5278f1.png" alt="Cover for Cutting The Throat Of God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-06-14</td>
+      <td>Ulcerate</td>
+      <td>Cutting The Throat Of God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/x6aryvVjwqYPJVqnUleBpiL9yKu_NhsmnwokkJh2I1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY4/ODg1LTE3MjE0NDI3/MzItNjQ5Ny5qcGVn.jpeg" alt="Cover for muse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-07-19</td>
+      <td>jimin</td>
+      <td>muse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

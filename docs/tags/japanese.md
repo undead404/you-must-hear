@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T23:46:05.776Z
+date: 2025-11-22T14:30:02.508Z
 permalink: tags/japanese
 title: japanese
 ---
 
 ## japanese
 
-Last updated: <time datetime="2025-11-17T23:46:05.776Z">Tue Nov 18 2025 01:46:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T14:30:02.508Z">Sat Nov 22 2025 16:30:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c18a765927dcd3befa8b63a587fc625e.png" alt="Cover for Solid State Survivor" style="max-width:120px; height:auto;" />
       </td>
@@ -45,26 +45,6 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>1986</td>
-      <td>Hiroshi Yoshimura</td>
-      <td>Green</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -130,7 +110,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ThhMuc3_8ivxcIXIX6ZkcgDGZ8joQTBi4zOMepPj1hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODQz/NC0xNTI3NDkxMTcx/LTkyMTYuanBlZw.jpeg" alt="Cover for STYLE" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +133,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/mW6WNEvfCE1k-X60RIhFv7SwPKZm-YGdXYbPb3zsd_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzkx/MzQtMTQwOTE2OTA3/OC05NzQ5LmpwZWc.jpeg" alt="Cover for KISS" style="max-width:120px; height:auto;" />
       </td>
@@ -167,6 +147,26 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94fcc3767f9ff09648c1cf0e3f464800.png" alt="Cover for Fantasma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-08-06</td>
+      <td>Cornelius</td>
+      <td>Fantasma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 55</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 58</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 100</li>
         </ul>
       </td>
@@ -271,10 +271,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       <td>Metaphorical Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
       <td>
@@ -283,6 +280,25 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 83</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 91</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ba9f61e14100ea10494d1670066dde6.png" alt="Cover for SMILE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-31</td>
+      <td>L&#39;Arc~en~Ciel</td>
+      <td>SMILE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -305,8 +321,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa63c89da220024fb6d11ca846a0f519.png" alt="Cover for Withering to death" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-09</td>
       <td>DIR EN GREY</td>
@@ -327,7 +344,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b59e5a87ceb7dd6b7e734281f03d2b17.png" alt="Cover for LIFE" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +364,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
       </td>
       <td>2006-06-28</td>
@@ -365,7 +382,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
       </td>
       <td>2006-10-18</td>
@@ -388,7 +405,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eef15cecabd74fcea72e808737231070.png" alt="Cover for Sensuous" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +424,36 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2006-12-06</td>
+      <td>abingdon boys school</td>
+      <td>INNOCENT SORROW</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 33</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 60</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 61</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4b045a69d54845688622c2fc493d01c.png" alt="Cover for New Sentimentality" style="max-width:120px; height:auto;" />
       </td>
@@ -428,8 +474,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 16</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 44</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 20</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 47</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 80</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 83</li>
         </ul>
@@ -458,7 +504,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57efa5aae4cb41f6c180e4e8d52545fc.png" alt="Cover for Niche Syndrome" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +543,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9409cef0f65547e5a653cfb511a87cd0.png" alt="Cover for World Is Yours" style="max-width:120px; height:auto;" />
       </td>
@@ -540,27 +586,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df6fe1618fb390100f7460ada52cd1ed.png" alt="Cover for DIM" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-07-15</td>
-      <td>the GazettE</td>
-      <td>DIM</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
-            <li style="font-size: calc(1rem * 83 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04ceed9e40ce29fbe9c7956f685b01f.png" alt="Cover for only my railgun" style="max-width:120px; height:auto;" />
       </td>
@@ -585,8 +611,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b488b61e4754a3f9326d9163d849d1b.png" alt="Cover for MONSTERS" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>D&#39;espairsRay</td>
@@ -602,7 +629,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/DPWatPB3kIRM5SW9ybFI8i-SEwGDr9bNWtlh63DQdP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTkx/MjQtMTQxODc0MTM4/NS01ODM5LmpwZWc.jpeg" alt="Cover for HAPPY HAPPY" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +669,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d9b0c5bf2e59aaef89762b9a19e2e0.png" alt="Cover for うれしくって抱きあうよ" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +694,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/212913c6b6e04205c2408cf19266cc41.png" alt="Cover for Nicheシンドローム" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +714,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46786f4df10f6b91bd7bc2694ecf2b2.png" alt="Cover for The Grime and the Glow" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +730,6 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
@@ -713,7 +739,6 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 46</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 65</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 78</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
@@ -722,7 +747,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d5492b077500a23e77d472375717b03.png" alt="Cover for Witness" style="max-width:120px; height:auto;" />
       </td>
@@ -775,7 +800,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-11-23</td>
@@ -798,7 +823,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a7c35189b83874e303a8ec6813c64d6.png" alt="Cover for Spiritual State" style="max-width:120px; height:auto;" />
       </td>
@@ -816,15 +841,15 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 42</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 61</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 69</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 71</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
       </td>
       <td>2012-01-11</td>
@@ -846,7 +871,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
       </td>
       <td>2013-07-10</td>
@@ -869,7 +894,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
       </td>
       <td>2013-07-24</td>
@@ -890,7 +915,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10f6e2dbd4324524b072c17f530f9ac4.png" alt="Cover for Pain Is Beauty" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +940,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 63</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 79</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 80</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
@@ -966,7 +991,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
       </td>
       <td>2014-10-23</td>
@@ -987,7 +1012,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47f9826de01a3f9db2fab3a85df05431.png" alt="Cover for The Suspended Kid" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1045,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b45f4e0d34fa6cf5df1d279dfb65b79c.png" alt="Cover for Marilyn Monroe" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1069,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4b5098fe19c7fdb6e1b92acfe4da5fa.png" alt="Cover for Abyss" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,12 +1095,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 29</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 64</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 68</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d595a456dfa24a808dc7efb1e21784d1.png" alt="Cover for Apokalypsis" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1133,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96cfc5ca3342dde2e672bd60e1439981.png" alt="Cover for Σ" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1163,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9eb178fcfdf533aeef2e68513b940b.png" alt="Cover for SHISHAMO 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1209,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/GeWzFgPWP-K_LF_QdksSXf5TA2NtdnDe7X-VIe_aTmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODc5/OTYtMTYxOTI3MTI0/NC01NTAwLmpwZWc.jpeg" alt="Cover for Metal Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -1200,8 +1225,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 67</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 78</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 97</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 99</li>
         </ul>
@@ -1277,7 +1302,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/yT1sIwhQNAxPGS2d7qVu4G3kwNMEGWf1X4D9WOMupzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQy/OTk4LTE0OTU2NjQx/MzUtMTg5MC5qcGVn.jpeg" alt="Cover for GHOST" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,7 +1344,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1344,16 +1369,16 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 65</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 97</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 99</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22adeaf5482918613a2ae4147eb07f7d.png" alt="Cover for Moonlight" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1398,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/iZYb-qCHc0LcZ1ITdCUs3jvOxi1MKQRtTG5c0Rjdzf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMz/NTU1LTE1MTQ0MjEz/MDAtODk0MC5qcGVn.jpeg" alt="Cover for THANK YOU BLUE" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1425,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/HdQsqbKUWlGhPZTeI4WWDnolIki-87Ah6D0-0PxrOmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/MTY4LTE2MzUzNzU2/ODItMTAzOC5qcGVn.jpeg" alt="Cover for Daydreaming&#x2F;Choose Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1480,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e1b8d7d7ecd7d713c6de331c7bb866b.png" alt="Cover for harutosyura" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,7 +1503,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Vv3r3X4NGfMC036FBLckYNildzuIH52M8An2WUuozYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/NjQzLTE1ODQxODcx/MjMtNTk0NS5wbmc.jpeg" alt="Cover for forget-me-not" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1526,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/845c6ec136a482d444db350ede693bd5.png" alt="Cover for Depth" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1548,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80dd2ac728d785a7434971df493f159a.png" alt="Cover for Awaken" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1570,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ac35960dc29e427ce5d3f27c4d9a81c.png" alt="Cover for Resident Evil 2 Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,8 +1589,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 15</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 48</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 35</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 51</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 90</li>
         </ul>
       </td>
@@ -1609,7 +1634,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75d3b2e0c2178d9e022ee7d7db426ef7.png" alt="Cover for 血、汗、涙" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1679,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/n7c26gAA4TaQ2uxu_HBEtJob87OOFuqicFhcfrIVBuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTkz/NTQ1LTE2MjQwNzI5/NDAtODk0OS5qcGVn.jpeg" alt="Cover for BTS, THE BEST" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1696,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ApPz8eP6QDI7_aeUTlGV4AjSUl0XCaq5G6j49pRUV-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ4/NDUyLTE2MTgxMzYz/ODktODAyOS5qcGVn.jpeg" alt="Cover for TREASURE EP. Map To Answer" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1735,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6d20553476d4af70b7057151cd8f47.png" alt="Cover for Plastic Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1761,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/W4PW3Iz0xoAkMuM5glSqJl-RMEAUy8CYj0ZSGsDyQ9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAz/ODY1LTE2MjAyNDI1/NjMtODE5NC5qcGVn.jpeg" alt="Cover for うっせぇわ" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1839,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg" alt="Cover for The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,8 +1901,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
@@ -1910,14 +1935,14 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 53</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 64</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 74</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/tS4Was8NB1IVI-ecv5B-FmN0MWd_H5B_bAB56XmUf9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTg5/MTA0LTE2ODg1Nzc0/NDctMTc5MS5qcGVn.jpeg" alt="Cover for BLACKPINK IN YOUR AREA (Japanese Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,7 +1978,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c07e9ae5ba548c69d25c73d4d5e99faa.png" alt="Cover for ウタの歌 ONE PIECE FILM RED" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,14 +2016,14 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 75</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 77</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/RLzd7WpUbz31w6VADFEwQxtt_awZfxtUt4U5fsdLan4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTg1/NzM2LTE2Njg2MjQ1/MTMtNDU5Mi5qcGVn.jpeg" alt="Cover for poppy" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,7 +2063,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2023</td>
@@ -2095,26 +2120,6 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/kNJgryy5djrf8c3sGyDvgEsTScId2PpieKgyDATYeTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEz/ODcwLTE2Nzk1NjU2/NzctMzY0Ni5qcGVn.jpeg" alt="Cover for The Other One" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-03-24</td>
-      <td>BABYMETAL</td>
-      <td>The Other One</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 15</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
           <img src="https://i.discogs.com/_8kNxceGR_1vdIKI959i1OtQViH6KuQfh60fbAH-1E4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njkw/NTY0LTE2OTgxNDY4/NTEtNDkxNC5qcGVn.jpeg" alt="Cover for The Book 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-04</td>
@@ -2132,7 +2137,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/0eXUELHJaq_yLoXWX-0BOKzY3LAps7GrKD8jmJFKEas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDkx/OTMxLTE2NTQ1Nzgx/MjYtMzAxNi5qcGVn.jpeg" alt="Cover for RINGO" style="max-width:120px; height:auto;" />
       </td>
@@ -2170,8 +2175,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 31</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 80</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 33</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 82</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 100</li>
         </ul>
       </td>
@@ -2197,7 +2202,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77e2875c8e42879c25ffe764b2e1f4d.png" alt="Cover for きくおミク6" style="max-width:120px; height:auto;" />
       </td>
@@ -2218,7 +2223,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td></td>
@@ -2284,7 +2289,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
