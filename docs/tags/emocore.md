@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T22:11:31.195Z
+date: 2025-11-22T13:44:19.671Z
 permalink: tags/emocore
 title: emocore
 ---
 
 ## emocore
 
-Last updated: <time datetime="2025-11-17T22:11:31.195Z">Tue Nov 18 2025 00:11:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T13:44:19.671Z">Sat Nov 22 2025 15:44:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,26 +29,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/4pDHSpfXJJcu1AKrEXy6MlX-Ns9nH_VEgCihEKdXgrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/NDQyLTE1ODIwODI0/NDItNDAyNi5qcGVn.jpeg" alt="Cover for Change (In the House of Flies)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-07-31</td>
-      <td>Deftones</td>
-      <td>Change (In the House of Flies)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47871d6eaf894b708c2fbc22b53b0026.png" alt="Cover for Summer&#39;s Stellar Gaze" style="max-width:120px; height:auto;" />
       </td>
@@ -92,7 +73,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
       </td>
       <td>2001-10-09</td>
@@ -111,7 +92,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/3XdYfIEWRI5NxtOCQW6nV9-cCW_A0UZQCUCwdCv5eVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg4/MTMtMTMzNjczNzkz/Mi01MDc5LmpwZWc.jpeg" alt="Cover for Four Wall Blackmail" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +112,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/706a3001710a45429768859347b2fd9d.png" alt="Cover for The Best Way to Ruin Your Life" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +130,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d18702e2b464fd1ae99880d97cad0a0.png" alt="Cover for I Brought You My Bullets You Brought Me Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +150,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c65a62a4705f4cb1a46d0fb67df18a0e.png" alt="Cover for Translating the Name EP" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +205,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1db4b4064b582fa21ae6a0a38de1808.png" alt="Cover for Minerva" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +226,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/A-Wxunq2G38pb3GxC2_ziD9AQHirLxILZne-R5_-418/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjI3/OC0xNjc5NDI5MTUz/LTI4NzEuanBlZw.jpeg" alt="Cover for Casually Dressed &amp; Deep in Conversation" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +240,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 26</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -283,7 +264,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40861aaf29d0e9ede5f896f1c9801407.png" alt="Cover for 91025" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +307,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fd5e2ff1e93e7225e79648a1ad31ab8.png" alt="Cover for A Types" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +326,25 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c33ad615c5582bcc33fa826cbceaad23.png" alt="Cover for Bullet For My Valentine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11-15</td>
+      <td>Bullet for My Valentine</td>
+      <td>Bullet For My Valentine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/0MwgHFGP_fshTRQAlLm4oeLpknxDyHP8wTTyxQjOhlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTYz/ODItMTY1NzU5MTI0/My04MzcwLmpwZWc.jpeg" alt="Cover for Black Rose Dying" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +382,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td>2005-05-17</td>
@@ -416,12 +415,12 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 46</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/822832957eb09cb6a2417de549c5cd4d.png" alt="Cover for The Amity Affliction" style="max-width:120px; height:auto;" />
       </td>
@@ -443,7 +442,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bd8ca1b64e34b7fcbdff0952aecf346.png" alt="Cover for The City Sleeps in Flames" style="max-width:120px; height:auto;" />
       </td>
@@ -457,12 +456,12 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e51bbb09a3b0f99eaa290d9505c3b36.png" alt="Cover for Romantic Wealth" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +480,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/evyJkwyafVQOFhQfcVhMIA9R327IaNndiooO7JKWpSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzEz/OC0xMjcxMDY3MDQz/LmpwZWc.jpeg" alt="Cover for Abandon Your Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -501,28 +500,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/JrZP5eE9EFgU2DWKKoglPFUFHZi8ijN40rUC2ZG4b3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTkw/NTQtMTQ4MzQ3MDYy/My01MjEzLmpwZWc.jpeg" alt="Cover for Больше Чем Любовь" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-09-01</td>
-      <td>Stigmata</td>
-      <td>Больше Чем Любовь</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93be3aa5700627a55612a0bb4055f6ff.png" alt="Cover for We Are Always Searching" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +540,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-01-13</td>
@@ -581,7 +559,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04d70835f2bf911ae50c3f991cc92f3a.png" alt="Cover for In Vogue" style="max-width:120px; height:auto;" />
       </td>
@@ -595,13 +573,13 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 10</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 37</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 42</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2006-05-23</td>
@@ -614,12 +592,12 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 25</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f83c03a5e28242e6a2094d9a1e2119c2.png" alt="Cover for On Frail Wings of Vanity And Wax" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +615,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb02767dd8e9e267f56a54801a8198ec.png" alt="Cover for Tears Don&#39;t Fall" style="max-width:120px; height:auto;" />
       </td>
@@ -655,12 +633,12 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
         <ul>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 3</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 10</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 58</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/vwYSEH6AtWdoZGmvsYBUdcyTfJZTUXK_mpHy0Lqb9Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAx/MDYtMTY0NjA0MDAz/Ni05MTE4LmpwZWc.jpeg" alt="Cover for When Silence Is Broken the Night Is Torn" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +657,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55cfd4d3d5acfa97504da36c2ac63521.png" alt="Cover for Collapse" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +758,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
       </td>
       <td>2006-11-21</td>
@@ -800,7 +778,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1f003a1247653b12958436449bdc970.png" alt="Cover for The Secrets We Can&#39;t Keep" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +798,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
       </td>
       <td>2007-02-20</td>
@@ -853,13 +831,13 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 5</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 39</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 73</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86723ee80c289cde1e97d998a41923c0.png" alt="Cover for High Hopes" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +855,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/FlCuoI3RWd1GU-bglff0tiB3KRfcYYR6C5KUEdstWDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDQ0/MzgtMTQ2MDQ4MTIw/OC0zMjc5LmpwZWc.jpeg" alt="Cover for A Flair for the Dramatic" style="max-width:120px; height:auto;" />
       </td>
@@ -891,12 +869,12 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c49b12e8752fcb96fc42e009a6e63e12.png" alt="Cover for Scary Kids Scaring Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +894,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29b9dde3ec4e56a7e0eace23fb46223.png" alt="Cover for The Whorror" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +912,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007-10-30</td>
@@ -966,13 +944,13 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 41</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96b8d6704d73450d8500a99a80b49081.png" alt="Cover for Blessed Be Our Ever After" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +975,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5a200f9e1646778827f832d035c026.png" alt="Cover for Relativity" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,11 +989,12 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ce7cac37ba0a8ad797310ae417a653a.png" alt="Cover for The Great I Am" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1016,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f7e967c15f947c89f8ade5229dd0196.png" alt="Cover for Those We Leave Behind" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1034,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ab422ccde249e5996f2dceed9e8f54.png" alt="Cover for Life Is Not A Waiting Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1051,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a10a320caa81f846e1eda769234d7c3.png" alt="Cover for The Dawn of My Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1069,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb6ca1bbbfff3f83aeab4613a6b9bfd6.png" alt="Cover for A New Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1088,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9294b61170c948a6a91c6a22bd0d5860.png" alt="Cover for A Shipwreck in the Sand" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1145,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/351683aaefe68c4ca4ae5ac52f8d18e9.png" alt="Cover for The Emptiness" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1158,6 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1180,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbc0d93e3b49460aa0fd51b19ac14262.png" alt="Cover for Fluorescent Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,14 +1216,14 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 14</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 16</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 35</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a32b836145574601909d08c50b3d4934.png" alt="Cover for Rescue" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1260,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 34</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 40</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 56</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 85</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 93</li>
@@ -1290,7 +1268,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1908e14886047e085cffce3ff4febc0.png" alt="Cover for Symphonies" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1286,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td>2011-05-09</td>
@@ -1326,7 +1304,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/726f210f63f545e3b7218675ce38b397.png" alt="Cover for Age of Ignorance (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1327,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40d865a89524428f931413d2e9c71083.png" alt="Cover for Complete Discography" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,13 +1365,13 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 39</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 40</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d3e313a5d4444c7afe0f721a5b4c76c.png" alt="Cover for Fashionably Late [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,9 +1417,9 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 41</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 43</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 63</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 79</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 98</li>
@@ -1474,7 +1452,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c8d09f7b829451fc52e402795e9737c.png" alt="Cover for Queen of the Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1466,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 64</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1496,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 12</li>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 51</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 52</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
@@ -1571,10 +1549,10 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 17</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 19</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 29</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 64</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1603,7 +1581,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 6</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 83</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 95</li>
@@ -1612,7 +1590,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/847d3927bd931f49c8079f90543ef405.png" alt="Cover for A Sinfonia de Tudo Que Há" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1613,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa0cad62dbf96c5228e8681856edc4ca.png" alt="Cover for All Messed Up (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,13 +1663,13 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 3</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1666cfdf857fb53d7d330d6f7a940a.png" alt="Cover for Sex" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,11 +1713,11 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 70</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 79</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 88</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 72</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 84</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 90</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 91</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 98</li>
         </ul>
       </td>
@@ -1768,7 +1746,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b0f7e15fa201bdbb2934a4233e0425.png" alt="Cover for Dua Lipa" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1765,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/xTigvey9PsOEbg21wG95oL63JC0f2AAmSxeAaMrCzLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/NjYtMTE5NzUzOTQx/Mi5qcGVn.jpeg" alt="Cover for Arrivals and Departures" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,6 +1780,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 10</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 45</li>
         </ul>
       </td>
@@ -1854,9 +1833,10 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 2</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 81</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 82</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
@@ -1864,7 +1844,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/8vM75aS3t1tsLPEv7-vZYGycSrdSLZGZaYbkmOG8BcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/NTkzLTE2ODQ4MDIx/MDQtMTA3OS5qcGVn.jpeg" alt="Cover for From Me To You" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,7 +1886,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 23</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 24</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 56</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 71</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 86</li>
@@ -1915,7 +1895,27 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c1d50ee921cc6b4d95405fb59a41f74.png" alt="Cover for You&#39;re Losing Me (From the Vault)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-05</td>
+      <td>Taylor Swift</td>
+      <td>You&#39;re Losing Me (From the Vault)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 22</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fdaa699c1f0434ec341d3150765111e.png" alt="Cover for God, If You Are Above..." style="max-width:120px; height:auto;" />
       </td>
@@ -1990,13 +1990,14 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
@@ -2010,7 +2011,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaaf2dbd3cbc69a9520f53fb164caaa0.png" alt="Cover for A Flair for the Dramatic" style="max-width:120px; height:auto;" />
       </td>
@@ -2023,7 +2024,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -2080,7 +2081,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 39</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 93</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 98</li>
         </ul>
@@ -2106,7 +2107,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1f5e231e6204c7cbaa1b50794b6ed64.png" alt="Cover for The Young and Defenceless" style="max-width:120px; height:auto;" />
       </td>
@@ -2160,7 +2161,7 @@ Emocore, also known as emo, is a subgenre of punk rock music that emerged in the
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/775cd6ddd7324c7e95996ea31616fede.png" alt="Cover for The Hot n&#39; Heavy" style="max-width:120px; height:auto;" />
       </td>

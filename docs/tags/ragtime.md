@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:10:03.497Z
+date: 2025-11-22T13:41:12.397Z
 permalink: tags/ragtime
 title: ragtime
 ---
 
 ## ragtime
 
-Last updated: <time datetime="2025-10-22T02:10:03.497Z">Wed Oct 22 2025 05:10:03 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-22T13:41:12.397Z">Sat Nov 22 2025 15:41:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,9 +46,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/hP68P0HddzQqKBzDG0vb6CEcshrUYGGdGRnw0RqJrRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTY0/OTgtMTI2NzA0NTkz/Ni5qcGVn.jpeg" alt="Cover for As Artist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f7a4cfb83b34673baf5507daab3579c.png" alt="Cover for As Artist" style="max-width:120px; height:auto;" />
       </td>
       <td>1950</td>
       <td>Jelly Roll Morton</td>
@@ -85,7 +85,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/6XD22_l20XZCV3yBc-4CfYP85fFLpQ3Bzgt293KkF-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTYw/NjMtMTY3ODEyNDE5/Ni0zNTc5LmpwZWc.jpeg" alt="Cover for The Original James P. Johnson 1942-1945" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1964</td>
@@ -128,7 +128,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Tahlpuaiw-g8CVa_DXHMP6dBElLHYr1RofHjG-y7l6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQw/MjEtMTIxOTUzMjQ4/Ni5qcGVn.jpeg" alt="Cover for Baroque Beatles Book" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/L-kmXsCMT9LFtInXSibOjNFilpYGrABXErph_YLPUOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU5/MDYtMTMwOTc2NTQ5/My5qcGVn.jpeg" alt="Cover for New Orleans Stompers" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1967</td>
@@ -183,7 +183,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/h88juSTLR0kklWqSMp84jE_830N3nyhMv5KhLN2mXSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQw/NzQtMTQwMTY1MDA4/OS02OTc0LmpwZWc.jpeg" alt="Cover for The Very Best of Jelly Roll Morton" style="max-width:120px; height:auto;" />
       </td>
@@ -221,7 +221,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/34QuybOzreZH84Anjlav0lw0aoKFr4SLxnSluaFXeeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NzQ5LTE2NjkwMDMz/MjQtNjA4MS5qcGVn.jpeg" alt="Cover for Joplin Super Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +244,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/oE4XW5H_wXz2dggaiqj25z13MgKShNq-pl35zgFchV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE2/ODc4LTE1NDQ0Njg4/MTQtNzYzNC5qcGVn.jpeg" alt="Cover for Fletcher Henderson - Ken Burns&#39; Jazz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b8452d2daa04ec099acd9aa3445aee4.png" alt="Cover for Fletcher Henderson - Ken Burns&#39; Jazz" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Fletcher Henderson</td>
@@ -265,7 +265,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/V4aqUmXwUexROFAvTazVkqrSvp0Nq30wYFmeCIgw2O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc3/NTEzLTE1NDM2ODI1/MDMtMzM4OC5qcGVn.jpeg" alt="Cover for Original Rag" style="max-width:120px; height:auto;" />
       </td>
@@ -283,7 +283,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/uWYDrk0xD-ZM9ncFcyEZQGXg5hOjpkzf-WoRN8BKI3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzM0/MDItMTI4ODI3MzA1/Ni5qcGVn.jpeg" alt="Cover for Rag Time Piano Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +301,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/1Paruv8Ua3zMMnvKXnaNkMm_dtW-RI7zx1tbDBXYzHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg0/NjEwLTE1MzAwMTcy/NjMtNzQyOC5qcGVn.jpeg" alt="Cover for Ragtime With Scott Joplin" style="max-width:120px; height:auto;" />
       </td>
@@ -325,7 +325,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/NISDDAVDrDoLnXNBgEN8sQM9cXUhFX6Sk6kOQf-ZVq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjY5/NDAtMTQ1NDA5ODc4/NC0xNDk2LmpwZWc.jpeg" alt="Cover for Fats Waller" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/merNwRz_pxcOEIzVFM8FkVWvpnzVFtXMfqX0W3LEJ-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjU3/MTgtMTMzODM3ODQ1/My05NzAzLmpwZWc.jpeg" alt="Cover for Elite Syncopations" style="max-width:120px; height:auto;" />
       </td>
@@ -361,26 +361,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/wkAAO4o8917y3F1gv_BskhZHzNihMrHHX2n0V9W4ZSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjYw/NzMtMTQ5MzU4MTgy/Mi0zODc1LmpwZWc.jpeg" alt="Cover for Contemporary Ragtime Guitar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1975</td>
-      <td>Dale Miller</td>
-      <td>Contemporary Ragtime Guitar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/LCfyCphhXP_KC24eoMI3LhwtDfH4KzaAWl30eHhF7n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/NDQ3LTE3MjQ2NTUy/MDEtNTU5NC5qcGVn.jpeg" alt="Cover for Joplin: The Easy Winner &amp; Other Rag-Time Music" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +381,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/fZhq1Y0quwrJXyDjuyCiCOLb1db-EE_R51k0BtntBR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjAz/MS0xMTc3MTY5OTc2/LmpwZWc.jpeg" alt="Cover for Halloween Howls - Fun &amp; Scary Music" style="max-width:120px; height:auto;" />
       </td>
@@ -471,12 +452,12 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 19</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/T63jw4USyH0QxJ9LiPNYGW3_Uqu0zTzHEgr_oxo2HQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTU0/NjYtMTQ0MzkzNDI5/Ni00NTM4LmpwZWc.jpeg" alt="Cover for Piano Rolls" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +493,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/kRdJE5wn-gXio7W1UblgwrrM8Mq-pnFmzxxvIFYJ9RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQx/NjItMTY3OTIzNDMz/OC04NTg5LmpwZWc.jpeg" alt="Cover for Harry Reser&#39;s Six Jumping Jacks: 1926-1930" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +511,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/3Z6uulzEU1TuwRSU2B8vU2Ca8LVHseFeqi9RpqD7ls8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzAy/NjQtMTM2NTc4NDM2/NS0xNTAzLmpwZWc.jpeg" alt="Cover for Scott Joplin&#39;s Ragtime - Scott Kirby" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +529,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/9Se0-WQt_-cL-3q6y7CRAG1RiGIBbVDYC71M1bjXr0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjc4/MTktMTMzMzk3OTE1/Mi5qcGVn.jpeg" alt="Cover for The Entertainer The Very Best Of Scott Joplin" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +583,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/H_vpGK6645-4TaboLdE0o2YwnbXET0x2VPX81zZHz3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjU2/ODEtMTU1NTc5NTg2/OS00MTAzLmpwZWc.jpeg" alt="Cover for And The Band Played On" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +601,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kXGVOu3gaTmi3QdTE7vaOHYW6dKRigh8oRfeVfnhEnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ1/OTkzLTE1NTgyMDA0/NzMtMTE0OC5qcGVn.jpeg" alt="Cover for Piano in Rag" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +653,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>1985</td>
@@ -689,7 +670,43 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ceea93df6ec429faa7555a8d0d0ebae.png" alt="Cover for Retired Boxer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Daniel Johnston</td>
+      <td>Retired Boxer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45d089d96a5c1e1efc279bdf659071fe.png" alt="Cover for Ragtime Guitar&#39;s Foremost Fingerpicker" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Blind Blake</td>
+      <td>Ragtime Guitar&#39;s Foremost Fingerpicker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Car4x4qKrZ83myNwd5sM2Kie4njVURDX3MaKE0vbU8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQ1/MjktMTY4NTM4MjM1/NS03ODY2LmpwZWc.jpeg" alt="Cover for Piano Rolls" style="max-width:120px; height:auto;" />
       </td>
@@ -699,23 +716,6 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Blind Blake</td>
-      <td>Ragtime Guitar&#39;s Foremost Fingerpicker</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
         </ul>
       </td>
       <td>
@@ -741,7 +741,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/6XD22_l20XZCV3yBc-4CfYP85fFLpQ3Bzgt293KkF-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTYw/NjMtMTY3ODEyNDE5/Ni0zNTc5LmpwZWc.jpeg" alt="Cover for Carolina Shout" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +759,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/xqlCEdbZ99nxZemwwgyoJlnDkTqhlq4uLdFRhPvn1ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDYz/NjMtMTQ3NjYyNTc3/OC02NDAzLmpwZWc.jpeg" alt="Cover for Ragtime Piano Favorites" style="max-width:120px; height:auto;" />
       </td>
@@ -779,6 +779,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4732b0804ee140f18887c9b3942c78df.png" alt="Cover for The Scott Joplin Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Scott Joplin</td>
@@ -795,7 +796,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/tNlAlMaTzRc98aV-uvx7Q9ssjvtfvSXBoxm9u8EVigs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTQ3/MzEzLTE2MTc1MzM0/MzEtNDM5Ni5qcGVn.jpeg" alt="Cover for Ragtime Music of Scott Joplin &amp; George Gershwin" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +814,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1990</td>
@@ -834,7 +835,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/tP0FkWLWRncYG4EJKCO_Ne03Rbts_mmTYXxTf_awB5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIy/MDQtMTY4NTczMTgw/Mi03MjQ3LmpwZWc.jpeg" alt="Cover for The World Of Scott Joplin" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +854,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>1991-09-06</td>
@@ -870,7 +871,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>1993</td>
@@ -884,12 +885,12 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 15</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/1DhuUZqH0AIrzb120Lr8sbe0FeADFSQgTI0JqLZe9E8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjMx/OTkyLTE1MzEwMzUz/NjUtNzgzNS5qcGVn.jpeg" alt="Cover for World&#39;s Greatest Piano Rags" style="max-width:120px; height:auto;" />
       </td>
@@ -908,9 +909,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/iEg6EUmV7VFHcUCuaNGvIayIeN_PBOEVdeoN75T0SS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzQ5/ODMtMTM5ODU1MzYz/Mi04NzI2LmpwZWc.jpeg" alt="Cover for Benny Carter In Europe, 1936-1937" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff736afa85dd4fe39f4931cc79074088.png" alt="Cover for Benny Carter In Europe, 1936-1937" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Benny Carter</td>
@@ -925,7 +926,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/YsNtaTSTmaxj2ru2DQnxeP8AuwcPfizRrn2uoZstx20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTE1/MjgtMTQ3NjczMjk0/NC0zNTEyLmpwZWc.jpeg" alt="Cover for Scott Joplin&#39;s Piano Rags" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +944,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/GwAowU9ZkboZfDbBXhndNyeRYp9FZuWv5qHg8-ROaAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIz/MTU1LTE2NDQ5MzE2/MDQtMTQyNy5qcGVn.jpeg" alt="Cover for Alexander&#39;s Ragtime Band" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +962,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1994-09-27</td>
@@ -978,7 +979,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ZbwJBJvx4yxjEtnDqHiq5IsQw51jwt7qxBj7Npx5wO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg4/MDIzLTE1OTk2MjM4/NTEtNTM0My5qcGVn.jpeg" alt="Cover for Scott Joplin&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +997,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/3SMwfNCtN2KyvsZAxXY_7S5WNBlTP_md132shZ1AU8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk1/Nzg1LTE1Nzc4Mjkz/ODctMjYwMS5qcGVn.jpeg" alt="Cover for Ragtime" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,8 +1017,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ccbaf44347141b9819f05b12689f4f0.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Fats Waller</td>
@@ -1051,7 +1053,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/12Y_paUbMf1mVp9Rn9PUjGoZV5Szqz-MfsaoM83xc04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTI1/MzUtMTM2NTI3MDM1/Ny02MDQxLmpwZWc.jpeg" alt="Cover for Scott Joplin Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,7 +1071,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/DPz2F_2YTpAmDIJ4l5FHvZmJTdslio76uQcHTrh0CxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTEy/NDUzLTE2MDgyMDc0/ODktMzExNC5qcGVn.jpeg" alt="Cover for Ragtime And Rhapsody" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1089,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>1997</td>
@@ -1104,9 +1106,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/nA6NKMssAilDWnJUjTq5f4XzAffowrGizsjFhkSXrA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTcx/NTktMTMzNjc3MTgx/Ny03MDA4LmpwZWc.jpeg" alt="Cover for Solo Raye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd6def6d6f634498a931d116338a69ae.png" alt="Cover for Solo Raye" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Jean-20 Huguenin</td>
@@ -1126,7 +1128,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Hb52plU2kPcDnOfzw_VbkCabzktVJzdlw6kfZ0RBBVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTcy/NDctMTQxODcwMTQ5/Ny05MzcxLmpwZWc.jpeg" alt="Cover for Ragtime at the Magical Kingdoms" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1146,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/H_vpGK6645-4TaboLdE0o2YwnbXET0x2VPX81zZHz3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjU2/ODEtMTU1NTc5NTg2/OS00MTAzLmpwZWc.jpeg" alt="Cover for The Very Best Of Scott Joplin" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,7 +1164,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/fzD-i30pY8KFSiOylWu3mUMQiJqhlcHfojUWiyg2-1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIx/MzY1LTE1NzE3NTg2/OTUtOTUxOC5qcGVn.jpeg" alt="Cover for CONFREY: Piano Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,7 +1182,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/fzD-i30pY8KFSiOylWu3mUMQiJqhlcHfojUWiyg2-1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIx/MzY1LTE1NzE3NTg2/OTUtOTUxOC5qcGVn.jpeg" alt="Cover for CONFREY : Piano Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1200,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/8kE6bLSbnnYvVzbRgm0L10QSkN_T8eG78VoybqT8qsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQ5/ODIxLTE2MDQyNjgy/NzgtNjQxNy5qcGVn.jpeg" alt="Cover for Old West Saloon Piano, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1237,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The Greatest Ragtime Of The Century: Classic Ragtime, Blues And Stomps; Solos From Rare Piano Rolls" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1254,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2003-05-13</td>
@@ -1270,7 +1272,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2003-10-20</td>
@@ -1288,7 +1290,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Scott Joplin: The Red Back Book &#x2F; Elite Syncopations" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1308,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/sMAvgCZfjw9eh5tEyF8dsd5DK9bT6V25qripkNUy7Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ3/MDg5LTE0OTU3Mzk2/MTctNzQ2NS5qcGVn.jpeg" alt="Cover for Hot Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,7 +1345,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/2GVkWghmBwF-vGt5rtnBfug_fw8wu1K1eNrnDW571QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTE2/MzItMTM2NDE2NDk4/OS0zOTI0LmpwZWc.jpeg" alt="Cover for Original rags" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1363,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/C65gteBbVWv0zi95n2UFsBoCXdgvj6KZEm19PJIIZw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk2/MTYwLTE1Nzc4Mzkw/NTEtNzYzNS5qcGVn.jpeg" alt="Cover for 25 Anys" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,8 +1423,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b069b64c145946bc9c8fdcb4e51bf21.png" alt="Cover for Moon Over the Freeway" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-23</td>
       <td>The Ditty Bops</td>
@@ -1455,14 +1458,14 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 34</li>
             <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 61</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/nrn1Tn8M-zPVVeGyR1qo0IB97xXfJXcocssyTT2GlGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk4/OTE3LTE2ODg2NjM4/MzUtODI2MS5qcGVn.jpeg" alt="Cover for Echoes of the Sounds to Be" style="max-width:120px; height:auto;" />
       </td>
@@ -1483,7 +1486,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Ad0SS1JCbM2CHi22Y4uSrAwkXj5ehmmFBNsCyguJg8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTY1/OTYtMTQ1MzU1ODE1/MC05MTg2LmpwZWc.jpeg" alt="Cover for Strictly Sousa" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1504,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/75PB1-U951x1J3fCXqJKDXF-xfMc-LAz7kU4v7Cufew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODA0/NzYtMTMyMzcyMDg1/MS5qcGVn.jpeg" alt="Cover for Quicksand" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1525,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Scott Joplin Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1543,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/x9hj0L4lNZkyOJTU9KwNQG7luu95XupdfmG7GMoubCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzkw/NTktMTQ4NDYzODU1/OS04Mzk3LmpwZWc.jpeg" alt="Cover for King Of Ragtime Writers From Classic Piano Rolls" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1561,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/-pjKcA19FHcExhrZMZMPM3RtR7jIozfziH9WqIq5qaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTM0/OTAwLTE2MTUwMjky/MDAtNDE3My5qcGVn.jpeg" alt="Cover for Race Riot Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,9 +1603,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/BWWYeqjDWjZtyoieWxFJWhx9fW8uOqlqnTKHPpBF3OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc1/OTA5LTE1OTc1ODk3/MjQtODMxNi5qcGVn.jpeg" alt="Cover for Everythin&#39;s Jake" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a632dd50dff42f2690eaf0ede7769127.png" alt="Cover for Everythin&#39;s Jake" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-27</td>
       <td>The Jake Leg Jug Band</td>
@@ -1620,7 +1623,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/5BVMNQedE9p-w4dhQcYtzePf8ybO5lXag_EBipp6Srs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njc1/MTYtMTQ4NzYzMTk5/Ny04NjE1LmpwZWc.jpeg" alt="Cover for Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,7 +1646,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/p9Ei3ppSFW1MsnZqnr8KP63UC3rcn9Q4mylqvIzRvdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzU5/NDMtMTQ4NzA5NTk2/OS0yMTM4LmpwZWc.jpeg" alt="Cover for Bridge City Sinners" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0644def3db9aced262cb1e7eccb09b63.png" alt="Cover for Bridge City Sinners" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-28</td>
       <td>the Bridge City Sinners</td>
@@ -1680,9 +1683,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Xeh8uhLyCT0wJpsh1dd9FmpMJ1Zry6xed65dZPtsjBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE2/NzIxLTE1NTM3OTcz/NTgtNjk1NS5qcGVn.jpeg" alt="Cover for I&#39;m A God Damn Family Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/940108aedd522eb7c3323c0d78c3880a.png" alt="Cover for I&#39;m A God Damn Family Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Hot Damn Scandal</td>
@@ -1702,9 +1705,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/x6yYx9yFx3zpoEkH9Vtu8l9xmobhtl9xpqHQMH9LVUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/NTkxLTE1Mjk2MDA2/OTUtNTE3MC5qcGVn.jpeg" alt="Cover for A To Z 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27b9acf5ef76d06d09ae4443782097e1.png" alt="Cover for A To Z 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-25</td>
       <td>Andrew Huang</td>
@@ -1737,7 +1740,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 51</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 50</li>
             <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 59</li>
         </ul>
       </td>
@@ -1763,7 +1766,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Songs For Brunette Lovers" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,9 +1785,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/0B9HVSnIJdxtPJdcpXupV_dJ7Vbdj5rBimSQJP6LDUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAy/MTE4LTE2NDM4NDgz/MjgtODYyMi5wbmc.jpeg" alt="Cover for Grant &#x2F; McGuire &#x2F; Flaherty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34f965d972c94fa12c2f4a41145b3f4d.png" alt="Cover for Grant &#x2F; McGuire &#x2F; Flaherty" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-09</td>
       <td>Liam Grant</td>
@@ -1803,8 +1806,9 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea9a04381ffe9f403547baa72971acbf.png" alt="Cover for unhappy&#x2F;happy EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Gomorran Social Aid and Pleasure Club</td>
@@ -1858,7 +1862,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1875,7 +1879,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1892,7 +1896,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -1910,7 +1914,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -1928,7 +1932,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -1962,7 +1966,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>

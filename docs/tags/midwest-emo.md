@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T18:43:16.037Z
+date: 2025-11-20T09:55:35.569Z
 permalink: tags/midwest-emo
 title: midwest emo
 ---
 
 ## midwest emo
 
-Last updated: <time datetime="2025-11-17T18:43:16.037Z">Mon Nov 17 2025 20:43:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-20T09:55:35.569Z">Thu Nov 20 2025 11:55:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/TQ27TFsKoHTNwiypjRl9JWkxAGNrO6tlLGdsdZ7zztk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/ODExLTE1MTYyMDEw/NTgtNzYxNy5qcGVn.jpeg" alt="Cover for Fingers of Steel" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd069c82e34eecc023746fc48b1cb614.png" alt="Cover for Boys Life" style="max-width:120px; height:auto;" />
       </td>
@@ -108,6 +108,26 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/0kjKE6MpvNIUKTbqBQklOM_L7wYnl8EcnrRxDUwWESA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzM0/MC0xMzY5MTg1MTEy/LTkzOTEuanBlZw.jpeg" alt="Cover for Power of Failing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-02</td>
+      <td>Mineral</td>
+      <td>Power of Failing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/203d88bdd3a0d21aa36c736ea39868bb.png" alt="Cover for This Is a Long Drive for Someone with Nothing to Think About" style="max-width:120px; height:auto;" />
@@ -122,7 +142,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 2</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -143,12 +163,12 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 36</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f682001e33428945b67df9bb3357a800.png" alt="Cover for The Age Of Octeen" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +299,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd1145af98752fa13ae2f9af5555e0f5.png" alt="Cover for Nines &amp; Sixes" style="max-width:120px; height:auto;" />
       </td>
@@ -299,7 +319,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/280efe186cb2ec302673419911184947.png" alt="Cover for Analphabetapolothology" style="max-width:120px; height:auto;" />
       </td>
@@ -458,12 +478,12 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 25</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2f76da8cad04a15780eee9773c283bd.png" alt="Cover for To The Innocent" style="max-width:120px; height:auto;" />
       </td>
@@ -480,7 +500,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 50</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +543,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 9</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -566,12 +586,12 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 95</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dbfd75d7b8941edbde5e1b58948f9c4.png" alt="Cover for Transatlanticism" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +605,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -627,7 +647,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       <td>
         <ul>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 57</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 60</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +670,8 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 12</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 1</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +706,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 53</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -727,7 +748,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +848,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a15a81d1e7c4949c931fd48df2efdad.png" alt="Cover for The Past In Present" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +910,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/xP3EAaFNegBqhpR2z-DyfvF-5vPIL8fvLb9NE0-c54c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjg2/NTMtMTMwODMzNjU1/NS5qcGVn.jpeg" alt="Cover for Closer to Closed" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +1007,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 10</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 19</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 34</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 87</li>
         </ul>
@@ -1044,7 +1065,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 37</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 40</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 49</li>
         </ul>
       </td>
@@ -1072,7 +1093,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 92</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1117,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 57</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 75</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 77</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 99</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 100</li>
         </ul>
@@ -1256,7 +1277,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/psHPBS1fEgeMqdt7IkuAzAe_HRu0eyShPXA2J-hF4IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/NDAxLTE1MjI5NzU4/NzctNDk5NS5qcGVn.jpeg" alt="Cover for Dancing Is Depressing (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c01a8500a790c4156e2ca895d2882601.png" alt="Cover for Dancing Is Depressing (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-06</td>
       <td>Attic Abasement</td>
@@ -1265,17 +1286,15 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 20</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 42</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 83</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 44</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1373,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 63</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1416,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d9ac6fb89c7c0d048526ea1ee01743b.png" alt="Cover for our mouths to smile" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1435,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 30</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 31</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 84</li>
         </ul>
       </td>
@@ -1435,10 +1454,10 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 7</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 34</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 17</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 35</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 40</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 52</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1482,8 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 67</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 8</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1540,10 +1560,10 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 27</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 50</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 56</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 64</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 72</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 74</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
         </ul>
       </td>
@@ -1585,7 +1605,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 10</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1651,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 58</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 59</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 91</li>
         </ul>
       </td>
@@ -1669,9 +1689,10 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 60</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 10</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 46</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 64</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1736,6 +1757,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1834,14 +1856,14 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 16</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/_ISHqxfMiZNzrh32M1tiktRl96VFdMVzvO1Wj9pM7sI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODgw/NzkzLTE2NjYyMzM3/MDItMjQ1MC5qcGVn.jpeg" alt="Cover for REDACTED FOG" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7aa5afb6b34a125ea8c91bb74cc23ee.png" alt="Cover for REDACTED FOG" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-19</td>
       <td>Lil Ugly Mane</td>
@@ -1855,7 +1877,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 77</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1873,7 +1895,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1921,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eefbe56ce75bd823e785b9e752870b95.png" alt="Cover for My Name Is..." style="max-width:120px; height:auto;" />
       </td>
@@ -1932,34 +1954,10 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 32</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 33</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 86</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/865142f03f0a7dc329e35102f6b584a7.png" alt="Cover for death of a rabbit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-08-11</td>
-      <td>Your Arms Are My Cocoon</td>
-      <td>death of a rabbit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1980,7 +1978,7 @@ Midwest emo is a style of indie rock music that originated in the Midwest United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 14</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 18</li>
         </ul>
       </td>
     </tr>
