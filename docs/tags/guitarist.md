@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:50:41.998Z
+date: 2025-11-23T11:33:59.435Z
 permalink: tags/guitarist
 title: guitarist
 ---
 
 ## guitarist
 
-Last updated: <time datetime="2025-10-28T09:50:41.998Z">Tue Oct 28 2025 11:50:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:33:59.435Z">Sun Nov 23 2025 13:33:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1962</td>
@@ -48,7 +48,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ad7e1f2e311648d33795c44014df696.png" alt="Cover for 5" style="max-width:120px; height:auto;" />
       </td>
@@ -141,9 +141,9 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/fgl3OMjQ84xobqF0vUwJrB74_VvNW5yi1hJveqjeb9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTAw/NS0xMjU1MDI3NDIx/LmpwZWc.jpeg" alt="Cover for Nightlife" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4aa95f6969540a097f59bece42d7420.png" alt="Cover for Nightlife" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Blair</td>
@@ -164,7 +164,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/GQfOgaM8s-msSJD0Opmy6gu0QsUh0BxgjDIqmPmTqDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTk2/MC0xMjU0NTYwMjIx/LmpwZWc.jpeg" alt="Cover for To The Limit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d45701e7e3041f3aabf2f7181bde12c.png" alt="Cover for To The Limit" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Joan Armatrading</td>
@@ -182,7 +182,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/_Teqn7798EAfPS5J7XXd0Nna-Wz6MNyCdbazFH5_7Qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA2/MTYtMTI5MTYzMzUy/NC5qcGVn.jpeg" alt="Cover for Il Assassino" style="max-width:120px; height:auto;" />
       </td>
@@ -246,6 +246,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f883a4872fd449149c1f68d8e257f3a7.png" alt="Cover for Deep Breakfast" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Ray Lynch</td>
@@ -264,6 +265,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0af55b18089c7b9f53288f85b59f010.png" alt="Cover for The Promiseland" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Willie Nelson</td>
@@ -341,7 +343,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/qzKDMoyN_oSLq7lMpxhd0a2foD5qPG1YKlXkkWiinIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjI5/MjgtMTMzNzc4NDY2/NC03NzY1LmdpZg.jpeg" alt="Cover for Septembre Bleu" style="max-width:120px; height:auto;" />
       </td>
@@ -380,7 +382,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/YA_ZMljAv9f8JhDf7jdYmAwRNDL6m9jo4ktmgjekJ98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTgy/NDgtMTM5NzU2MDUy/MC02MDk0LmpwZWc.jpeg" alt="Cover for Wednesday Night In San Francisco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be8fede954967bd1b69b8b8c0ecbf654.png" alt="Cover for Wednesday Night In San Francisco" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-10-15</td>
       <td>Albert King</td>
@@ -418,7 +420,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/c8cU8Emktx26Hm-H5rLMWLRczjU_tepBiG6XuZXLN04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQx/ODAtMTM5MDAwMzQ0/MC01ODcwLmpwZWc.jpeg" alt="Cover for Darren Housholder" style="max-width:120px; height:auto;" />
       </td>
@@ -437,12 +439,12 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 33</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/uwCi8j_ahxm66ejA3-EjB6pPbcqzR_kCFNOyz7zqxWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTkz/ODEtMTYwMDI3Mjcz/MC02NzE5LmpwZWc.jpeg" alt="Cover for This Is Buddy Guy" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +466,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/kAcert9fkCrncX_6998oAROcEkUOexI9Frzn-lBThUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAw/NDU4LTE1MTAwMTk3/ODUtNzk5Ni5qcGVn.jpeg" alt="Cover for About Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb765fea7c3044d088e9c0b895439ca8.png" alt="Cover for About Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Johnny Winter</td>
@@ -528,6 +530,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3771dbc47c578e2e2aa3f9a3ade7299.png" alt="Cover for Slide on Live: Plugged in and Standing" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Ron Wood</td>
@@ -546,7 +549,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/TnF6trU-InQxZ0c7xlo96UpURpTfbmOXWcv15-toKFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDk2/NDgtMTU1NzgyOTg0/Ni0xMjQ0LmpwZWc.jpeg" alt="Cover for Stages: San Diego &#39;69" style="max-width:120px; height:auto;" />
       </td>
@@ -570,7 +573,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/ZkeCaXouZ1DBAgHPm9QKngtfMmAnavYwMPVL7L1uRXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY2/MzU5LTE2NjMyMjM0/NzMtODI2MC5qcGVn.jpeg" alt="Cover for Drinkin TNT N Smokin Dynamite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc6aba507b117f727a8fc29e757077d3.png" alt="Cover for Drinkin TNT N Smokin Dynamite" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Buddy Guy &amp; Junior Wells</td>
@@ -592,6 +595,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74522e127d1e460ac6927cb67b53ae94.png" alt="Cover for Crying the Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-01-02</td>
       <td>Willie Dixon &amp; Johnny Winter</td>
@@ -610,7 +614,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4c1cc30185dad90ee5b99b04371dc61.png" alt="Cover for Golden Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -619,8 +623,6 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       <td>Golden Heart</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
@@ -690,7 +692,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/FdG_Xk2DBpLGqpjqwBRdD5NQ6IvSIGS-QtnitDmxF-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzkw/NzAtMTMyMTg0MDM1/OS5qcGVn.jpeg" alt="Cover for The David Torn Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -710,9 +712,9 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/aI-P6ZGI2HUb37I3qdJNCQhM_DbijDs669afdGItYRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDgw/OTIyLTE2NDcwODUy/OTgtOTAyMi5qcGVn.jpeg" alt="Cover for The Root City EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de5cac04badf459d8040743044aa219d.png" alt="Cover for The Root City EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Alex Rossi</td>
@@ -735,7 +737,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>1999-09-28</td>
@@ -771,7 +773,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/kdTpvZRNmuupAmK3ELWLs7lIE8uGCT7ajyAYzDSgj3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM1/ODkxLTE1NDMzMTQ3/NDUtNDM1NC5qcGVn.jpeg" alt="Cover for All The Songs I&#39;ve Loved Before" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be78ee27d18c4851a6fb04f11688f663.png" alt="Cover for All The Songs I&#39;ve Loved Before" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Willie Nelson</td>
@@ -792,7 +794,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/-lmU-kYqL8UhpNNWQkLH2p2JMeEbCorloFA3P1gAx3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU0/NzEtMTU3NTg5NzM1/Mi00ODc0LmpwZWc.jpeg" alt="Cover for Not for Beginners" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58d952df4d6fc676f6db3bf423982a65.png" alt="Cover for Not for Beginners" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Ron Wood</td>
@@ -830,9 +832,9 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/MxgSzZsdKtRKXN3eFjOc4t5YTFg4SWn7IhTvfSJhJ_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/MDItMTIzMDQyMjIz/NS5qcGVn.jpeg" alt="Cover for An Sol Mè" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/845feb30173f41c185568c983d539f33.png" alt="Cover for An Sol Mè" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-12</td>
       <td>Kristo Numpuby</td>
@@ -870,9 +872,9 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/voAzxDIFeFyTElv1cXgZpDYR6GdwQ87aUQDOmV7na9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NzIyLTE2NDcwNDE1/MjItODE5OS5qcGVn.jpeg" alt="Cover for Echoes from the Arches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3661d39caaa3f190980db084da73bd29.png" alt="Cover for Echoes from the Arches" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-16</td>
       <td>Alex Rossi</td>
@@ -897,6 +899,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ebb610fa71f4d9e9c10f41fc28b3598.png" alt="Cover for Melodies Of Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Franco Morone</td>
@@ -913,7 +916,25 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14ed809484784442a1f11810043519d6.png" alt="Cover for Me and Mr. Johnson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-22</td>
+      <td>Eric Clapton</td>
+      <td>Me and Mr. Johnson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
       </td>
       <td>2004-08-17</td>
@@ -957,7 +978,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/FoQQCImXzMgQY0Q4NnRBS_lBNttN5eCp8Xi1mdVzTwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjQ2/NTAtMTY4NDAwNzM0/My0zMTc4LmpwZWc.jpeg" alt="Cover for Benise Live (2 Cd Set)" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1045,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/Mffc65Vbpd2IjmPOPqN8F06M8pPDwICHlG-3uQrA-z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzM2/NTMtMTMwOTg4ODE4/My5qcGVn.jpeg" alt="Cover for Open Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7de7519e63ad4d518bc500ac5cd14636.png" alt="Cover for Open Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Oli Brown</td>
@@ -1083,8 +1104,9 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b2e66519efa49a594c3f509ae1f455e.png" alt="Cover for Skin Deep" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-18</td>
       <td>Buddy Guy</td>
@@ -1101,7 +1123,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/k1WfgRTRULMZjbZdh0baKFR8Yns71Fd-Z__HmDMoI2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTI1/MDAtMTQ3MDEyNzg3/OS00MTIyLmpwZWc.jpeg" alt="Cover for Senses" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1142,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2009-06-09</td>
@@ -1158,7 +1180,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 52</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 55</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 68</li>
         </ul>
       </td>
@@ -1184,7 +1206,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/ZP0EeWslF8PISQvren2F-0pxdiBXPrde2k4VTUI0quE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE4/MjItMTI4NDgxNzk5/Ny5qcGVn.jpeg" alt="Cover for Zepocean" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,7 +1221,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 12</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1300,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/sBQ7xTbn6GypdFnPQ68nE6NNHPOVRAOhGHw_-b2chKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcx/MDktMTI3MTU0MTQ3/NC5qcGVn.jpeg" alt="Cover for Merchants and Thieves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a32aee98693e4a0ab6f2e55461fda2fd.png" alt="Cover for Merchants and Thieves" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-14</td>
       <td>Sandi Thom</td>
@@ -1301,7 +1323,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/jlBfOpkzgwzQ331rSAk_92BqFPRvwHyqLW7tFhBfuGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjIx/MDgxLTE2NzI0NzU1/NzMtNDY0Ny5qcGVn.jpeg" alt="Cover for Koichi Hayakawa (2008 Remastered Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1349,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/TrvjKRI1tQLMWV9CjYKu8-y6k-nLi_7z5L8-Mn1jupA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDkx/MTktMTM4MjAxOTg3/My02ODk2LmpwZWc.jpeg" alt="Cover for Bright Lights EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bd0b2669d9e49e99b22e54887c6ebdd.png" alt="Cover for Bright Lights EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-01</td>
       <td>Gary Clark Jr.</td>
@@ -1365,7 +1387,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/PcQt4fVFc6TBJ-jsqyJwJiKAqhEOIa1rSz6EagQigeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjgy/NDgtMTQzNDM1MTAy/NC0yNzkzLmpwZWc.jpeg" alt="Cover for Unstoppable" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,7 +1407,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/LGy3H3_B_pCTkRNNMITMLWjvQr3BklZJDC5-qVn1lC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYw/NDIxLTE1Njg5NzY0/ODctMTAyNS5qcGVn.jpeg" alt="Cover for Mali to Memphis" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1489,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/_4-nEZ20Iqu7zjFcmhOk8ZOCq5NlW1p9lRC82Zqm7ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU3/MjgzLTE1ODc0MTUx/NTgtNTAzOC5qcGVn.jpeg" alt="Cover for Star Fleet Sessions (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1507,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/F-0YqvNlF0xEgBfog3huAL8LvsZxgslrNN0guNh0RhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/MzA2LTE1MDc1NDUy/NjYtODk2NS5qcGVn.jpeg" alt="Cover for Sweet and Lowdown Traditionals" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1526,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 55</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1531,7 +1553,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/05TZvRCL1sBWzkZ1lLNMmwzNcbGlcH_Tev2wdrkLGH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI1/NDItMTI4MDIxMDI0/Ni5qcGVn.jpeg" alt="Cover for All Things Must Pass (30th Anniversary Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b136192aa35b4bf193eae515fb31c886.png" alt="Cover for All Things Must Pass (30th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-27</td>
       <td>George Harrison</td>
@@ -1638,7 +1660,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 10</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1681,6 +1703,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c153fa07a4500003ca0dbc333b68c0d.png" alt="Cover for The Delta Rasa" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Delta Rasa</td>
@@ -1709,27 +1732,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ZAILM Atoyanh</td>
-      <td>1&#x2F;4&#x2F;All</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1748,7 +1751,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1766,7 +1769,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1783,7 +1786,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1948,7 +1951,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1969,8 +1972,9 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13cfa506e76a1ed264d7b074e19f29b1.png" alt="Cover for Zailm AtoyanH RemixeD" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vladimir Lisanovitch</td>
@@ -1990,7 +1994,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
