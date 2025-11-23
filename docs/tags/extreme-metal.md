@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T16:06:55.959Z
+date: 2025-11-22T23:06:22.719Z
 permalink: tags/extreme-metal
 title: extreme metal
 ---
 
 ## extreme metal
 
-Last updated: <time datetime="2025-10-22T16:06:55.959Z">Wed Oct 22 2025 19:06:55 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-22T23:06:22.719Z">Sun Nov 23 2025 01:06:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/s2-LQkE0JLv4zwCw9_LDt2pSBS6Fqd48FUiAKuBG9UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/NjQtMTE5OTU3MTc4/OC5qcGVn.jpeg" alt="Cover for Ruin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6734e26cc49e9e398dcf12a501d6264.png" alt="Cover for Ruin" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Wounds</td>
@@ -52,34 +52,31 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9be91d22c818609561442a5bf62bcec.png" alt="Cover for Into The Pandemonium" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-11-02</td>
       <td>Celtic Frost</td>
       <td>Into The Pandemonium</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 73</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/NIqyucIa3zHikn1-l61ETcxOGIT-yyC867NJ-4XhYtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjU4/OTktMTUxNzQyOTgw/OS02ODUxLmpwZWc.jpeg" alt="Cover for The Best Of Carcass" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73e4ece28884e0405921100c1c481019.png" alt="Cover for The Best Of Carcass" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Carcass</td>
       <td>The Best Of Carcass</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
         </ul>
       </td>
       <td>
@@ -88,7 +85,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/9HNwJYuWiGQVzOTKCfRwzaTuPvKnrwUPNPKC9WjidMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDkz/MzktMTM0ODkwNDA3/Ny0xNzk3LmpwZWc.jpeg" alt="Cover for Heavy As A Really Heavy Thing (re-issue)" style="max-width:120px; height:auto;" />
       </td>
@@ -107,9 +104,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/t90L2rimq_-CyPRiqhuFyfFWClZX26NtNNL8EIVFqYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjI5/My0xMzU2NjQzMTM2/LTgzNTkuanBlZw.jpeg" alt="Cover for City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00883740f16bdf5e86459fea6b56e82e.png" alt="Cover for City" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Strapping Young Lad</td>
@@ -122,14 +119,14 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 63</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/rFvVY-KvRhhfN_NqTZxCMPeSYgB5WrKPPODqlyz5Ndc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjYw/Mi0xNTA3NDY1NDg5/LTM4ODUuanBlZw.jpeg" alt="Cover for Lichtbringer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d0954589b749a7c253a3e9b2184173b.png" alt="Cover for Lichtbringer" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11-11</td>
       <td>Totenmond</td>
@@ -151,9 +148,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/r7HdiZHoKN7zuwPqPwO4omucTz15oT24u29E3I0PWmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDIz/NjAtMTQ0NzAzNDEy/OC0yOTM0LmpwZWc.jpeg" alt="Cover for Roots" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3834af6c67a38819796afb51e7a7e8c.png" alt="Cover for Roots" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Pangaea</td>
@@ -191,7 +188,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>50</td>
       <td>
-          <img src="http://coverartarchive.org/release/772ad8a8-f3fe-3a06-8d82-d6d529b5a785/7846820494-250.jpg" alt="Cover for Chaosphere" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4c327102e66e9fbca5f399a9174030d.png" alt="Cover for Chaosphere" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-09</td>
       <td>Meshuggah</td>
@@ -199,13 +196,12 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 24</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 36</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 79</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 97</li>
         </ul>
@@ -248,14 +244,14 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 22</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 21</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 87</li>
             <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f9fa0aa4ae17963d6c5386da7d8620e.png" alt="Cover for Midian" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +266,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 98</li>
         </ul>
       </td>
@@ -278,7 +274,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/83DIURhdCWjXnLV-RzJ6Umuw3ecsvuXYZik3KGp3R8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTgz/MjEtMTQ4NjQ4ODcw/Mi02MjY5LmpwZWc.jpeg" alt="Cover for Classic Filth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88be6ff9e8059f2aa362866a2fa83345.png" alt="Cover for Classic Filth" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-30</td>
       <td>Cradle of Filth</td>
@@ -302,8 +298,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3279434a987649d0990472ace5dd455b.png" alt="Cover for Bitter Suites to Succubi" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06-18</td>
       <td>Cradle of Filth</td>
@@ -315,7 +312,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 54</li>
         </ul>
       </td>
@@ -343,14 +340,14 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 25</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/Mg-gOwsHOd70N_F7WiYN8_iyg9CDA5wLfNaEn-8LVF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDc3/OC0xNDIwMzEyMDE4/LTgzOTEuanBlZw.jpeg" alt="Cover for Lovecraft &amp; Witch Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/727a715e10155771000dbf489af3c4eb.png" alt="Cover for Lovecraft &amp; Witch Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-13</td>
       <td>Cradle of Filth</td>
@@ -368,7 +365,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2003-03-25</td>
@@ -386,29 +383,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>66</td>
       <td>
-      </td>
-      <td>2004-07-13</td>
-      <td>Meshuggah</td>
-      <td>I</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 36</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 54</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 79</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82a02d7514e747bfbe5f07d37fb595e8.png" alt="Cover for Heldenreich" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Nordglanz</td>
@@ -433,6 +410,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddd4eb1aa1bc462ea704137f0099dec7.png" alt="Cover for Upheaval Of Satanic Might" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-11</td>
       <td>Black Witchery</td>
@@ -451,9 +429,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/q8Do-vBDMsmprIZVP9rYS7PiKVfRPce53bv-ZP3kYAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjgy/MS0xMTUxNzEzODE3/LmpwZWc.jpeg" alt="Cover for Alien" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921545aff6834c17cca3d161a4e86047.png" alt="Cover for Alien" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-21</td>
       <td>Strapping Young Lad</td>
@@ -461,18 +439,18 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 68</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1d05f7537ee615a88276a57270c8feb.png" alt="Cover for Fantastic Illusions Worth Dying For" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-01</td>
       <td>Assacre</td>
@@ -492,7 +470,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 27</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -522,15 +500,15 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 15</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 47</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 48</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/-WR0WMFspkhTKKmuCVkaTXbLBYqS_Xfc-WWWiOPKtyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDA5/Ny0xMTYxMTAxMTE3/LmpwZWc.jpeg" alt="Cover for Thornography" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66b0ff52db8e4c2a94fd654fc2bebf26.png" alt="Cover for Thornography" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-09</td>
       <td>Cradle of Filth</td>
@@ -548,7 +526,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
       </td>
       <td>2007-01-28</td>
@@ -569,6 +547,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23189b5482e32ddd00f50fb1eccb8fc4.png" alt="Cover for In The Realm Of The Senseless" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-21</td>
       <td>The Senseless</td>
@@ -623,9 +602,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 13</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 60</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 86</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 90</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 99</li>
         </ul>
       </td>
@@ -633,6 +612,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6debefdfea714b0490457d8576cec65b.png" alt="Cover for Assassins: Black Meddle Pt. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-10</td>
       <td>Nachtmystium</td>
@@ -650,7 +630,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/6rZYOHixxSR-1qJz8lwrcXAMmV1F1L118JWiQReLfGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg0/MDUtMTY4MTYxMTI0/MS05MjU5LmpwZWc.jpeg" alt="Cover for Bloodclock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/708bc8a8ca0d1a431604aa0c60505f36.png" alt="Cover for Bloodclock" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-20</td>
       <td>Fleshgod Apocalypse</td>
@@ -671,9 +651,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/PfXy82fuL4N3n4WKNXtZN5e7XZYd5GtTV1Xn6e1h0wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjY5/NjctMTQ5OTg2ODE2/Ny04NDA4LmpwZWc.jpeg" alt="Cover for Mammoth&#39;s Hand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf1e1eb083d63e3279771d0d7f485ac3.png" alt="Cover for Mammoth&#39;s Hand" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-11</td>
       <td>The Black Dahlia Murder</td>
@@ -693,7 +673,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/863118e91ab76fc8b00978f1f126e06d.png" alt="Cover for Human" style="max-width:120px; height:auto;" />
       </td>
@@ -719,8 +699,8 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 68</li>
             <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 68</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
             <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 72</li>
             <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 97</li>
@@ -730,7 +710,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/XfPwDmQ53VfHpC7K2tiqbgoftnGEF_r_T19WtsKaIaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTUz/NjctMTMxMzU5ODc0/My5qcGVn.jpeg" alt="Cover for Ataraxiis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5295289d8b1a4fec8cad2e94889bddcd.png" alt="Cover for Ataraxiis" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07</td>
       <td>Enoid</td>
@@ -757,6 +737,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/294350a00a074a30886cdeea8baeea47.png" alt="Cover for Deflorate" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-11</td>
       <td>The Black Dahlia Murder</td>
@@ -769,7 +750,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 35</li>
             <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 91</li>
         </ul>
       </td>
@@ -796,9 +777,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/gW44gXuVSvrkRGJ_ecXtCC18R-_0DNlxpgqVOrsJcNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTQ2/ODgtMTI3NTA0NTUy/MC5qcGVn.jpeg" alt="Cover for Reptilian" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c15eaf29f0584137903becf086ad6f8e.png" alt="Cover for Reptilian" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-10</td>
       <td>Keep of Kalessin</td>
@@ -816,6 +797,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f80a214099194655a33fa75f5053e11c.png" alt="Cover for Darkly, Darkly, Venus Aversa" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-29</td>
       <td>Cradle of Filth</td>
@@ -830,9 +812,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/yC-beLyPguRylvk-Ddmxe9r9av2UXbiutLq4l0S-Fto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU5/NjAtMTU4ODM1MzQ5/Ny04OTI1LmpwZWc.jpeg" alt="Cover for Agony (Bonus Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30786aeae60a4d84819f6621f32664af.png" alt="Cover for Agony (Bonus Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Fleshgod Apocalypse</td>
@@ -856,7 +838,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/yC-beLyPguRylvk-Ddmxe9r9av2UXbiutLq4l0S-Fto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU5/NjAtMTU4ODM1MzQ5/Ny04OTI1LmpwZWc.jpeg" alt="Cover for No" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/212a4f06ddf60cdc73a08727319877ce.png" alt="Cover for No" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Fleshgod Apocalypse</td>
@@ -902,8 +884,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f0dd19c787ce13576596688b510603.png" alt="Cover for Deconstruction" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-17</td>
       <td>Devin Townsend Project</td>
@@ -919,9 +902,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/q5BrJBzlOUARjVF7QkYip6WtqEd4nMZnW2lYpS6rlxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE4/MDYtMTM0NDE4MzA1/Ny02NzUxLmpwZWc.jpeg" alt="Cover for Under the Mistletoe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/487c5f394e61ffb92629bd3ac2409ef2.png" alt="Cover for Under the Mistletoe" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-01</td>
       <td>Justin Bieber</td>
@@ -933,14 +916,14 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 20</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/04sCmu8HT-_Od5P5Ag4cA0WKHYP9VCG7fdwPW-Lk_uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM3/NjMtMTY4MTY3NzA4/OS0yODA0LmpwZWc.jpeg" alt="Cover for Live Blackjazz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/209f6cf89a0448c6b349ac4e808b66a5.png" alt="Cover for Live Blackjazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>Shining</td>
@@ -968,7 +951,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/LOpnLTQ3vce6gfSRxvDKFLqfXkEvm1j3V-FDvDY6o3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk5/NTM3LTE1MzEwNTc1/MTMtODI3OC5qcGVn.jpeg" alt="Cover for First Born Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -986,8 +969,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b40db03340400eb85dffea9f006ef3.png" alt="Cover for Koloss" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-09</td>
       <td>Meshuggah</td>
@@ -1000,7 +984,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 8</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 63</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 94</li>
         </ul>
@@ -1009,6 +993,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e229145559b4422a7eff5209d24fcbc.png" alt="Cover for Hierophanies" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-25</td>
       <td>Eschatos</td>
@@ -1030,9 +1015,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/a_enqqXg5GU4yQZHbzM5JSsUkf-z3BhYRd1ZFbfj7qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTQ2/NDAtMTYxNzUwNjMw/My01Njg2LmpwZWc.jpeg" alt="Cover for Furor Incarnatus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c432e497b1d64dd0883683f05af4d910.png" alt="Cover for Furor Incarnatus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-17</td>
       <td>Feared</td>
@@ -1056,7 +1041,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
       </td>
       <td>2013-04-15</td>
@@ -1076,9 +1061,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/_xHmM-Pdgy3CJ4NewHEFHQgo1RyHVc2W_vpHn-UYrdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU3/MzUtMTU1MTI0ODI2/Mi01NDg5LmpwZWc.jpeg" alt="Cover for I Can Never Die" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76d815bfe1b24c08170ea566b1c93cfa.png" alt="Cover for I Can Never Die" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-16</td>
       <td>Fleshgod Apocalypse</td>
@@ -1098,8 +1083,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6992e1c43da2701e88aa276488c6cde8.png" alt="Cover for Slug Cartilage" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-04</td>
       <td>Buckethead</td>
@@ -1147,9 +1133,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/ejcWSFDi-ReUJ2-bqFccGgcAXGqu13-EPZvKY50VEkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjkw/NjItMTU4NDU1MzEy/MC02Njg3LmpwZWc.jpeg" alt="Cover for The Flesh Prevails (10 Year Edition) [2024 Remaster]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e7472b8284e6f379b31ef5b99989b4c.png" alt="Cover for The Flesh Prevails (10 Year Edition) [2024 Remaster]" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Fallujah</td>
@@ -1211,8 +1197,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff74c7941d044d3acd2b7aff9512e7c0.png" alt="Cover for Misanthrope Monarch" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-28</td>
       <td>Misanthrope Monarch</td>
@@ -1231,7 +1218,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2014-10-24</td>
@@ -1251,7 +1238,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
       </td>
       <td>2014-11-01</td>
@@ -1293,7 +1280,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/WOQZ5h8g_goR6bXqaETXhhJCVARwRA5HvmEc6aBpnHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTIw/MzItMTQ2NTk0ODI3/OS02MTIzLmpwZWc.jpeg" alt="Cover for Perdition" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,14 +1300,14 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 90</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/U4eBeHwNKp5QEpt7r_ZlKHXw5WKYNqxO_HEHzxZvyYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTc1/ODgtMTQzOTc0MTg2/OS0yNzA4LmpwZWc.jpeg" alt="Cover for Total Lack of Communication" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a08c938773c5d700f74434ada33c1e4e.png" alt="Cover for Total Lack of Communication" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Re-Armed</td>
@@ -1340,7 +1327,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/6AMuFE2QXSb4lIZivaCXV-w4L-K6GlxL-gUhr8K-SLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjMw/MTktMTQ1NDQyODE3/My05NjY1LmpwZWc.jpeg" alt="Cover for The Grand Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1386,7 +1373,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/VnO3wvs2hLgM9ThIvz_l9EibNe6XljuvG2Ai2EUE2Xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIw/Njk2LTE1MDgzNzkw/NDctMTc3Ny5qcGVn.jpeg" alt="Cover for Demo 2016" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/470da713086af114b7e4419f0fc05978.png" alt="Cover for Demo 2016" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Antichrist Siege Machine</td>
@@ -1406,9 +1393,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/5ugK_NFa9rpORW_NMBqzkOVx0nF0MfdJS6Muj8iMTsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjcx/NTItMTQ2OTI2NDc4/OC0zMjk3LmpwZWc.jpeg" alt="Cover for Pendulum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b97d368b45fd4e218f463486451a0983.png" alt="Cover for Pendulum" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-05</td>
       <td>Fleshgod Apocalypse</td>
@@ -1429,9 +1416,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/Sk8hN27CGCIIpUX28KmViyuD-lhEvst2Lsxx-WERKCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzU5/NzktMTQ1NjU3NTIx/Ni00ODUyLmpwZWc.jpeg" alt="Cover for Rooms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f89125ac5564f9506c5592c8b693b93a.png" alt="Cover for Rooms" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-26</td>
       <td>Todtgelichter</td>
@@ -1458,7 +1445,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 28</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 51</li>
             <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 59</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 83</li>
@@ -1466,9 +1453,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/ahAEcWkp0uJQrYcJgud6GEjwHayfuVbMh_tRm9DxlFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjI4/MTAtMTQ1NzQzNzE5/Mi0xNDU5LmpwZWc.jpeg" alt="Cover for Spawn of Misanthropy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4b2b7fbdd7a7f03ac4d3e0a1c3b27e7.png" alt="Cover for Spawn of Misanthropy" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-26</td>
       <td>Desolator</td>
@@ -1487,7 +1474,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/pHPefXPAraUIbmS2wWcFmC7A2izqfJU02u7y3MEHPG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjYx/NDUtMTQ3NTIyNTI0/My0xOTM5LmpwZWc.jpeg" alt="Cover for The Violent Sleep Of Reason" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,7 +1495,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/12yHy1OWwHSgh3xLV7SMIR8cWCrnp195hwthYYBJRv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTc0/MTItMTQ4NDk0NDIw/Mi0xMjA4LmpwZWc.jpeg" alt="Cover for Plague of Plagues" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,9 +1517,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/lH6zityXI-SZK1k7YXnY8IjlUA65vh0eu1nfdjNRVzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTc5/MzktMTQwMDgxMTE1/My02NTU1LmpwZWc.jpeg" alt="Cover for Metal Is: Addiction And Obsession" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce86526270c5e6e8f1479b2445613cf1.png" alt="Cover for Metal Is: Addiction And Obsession" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-15</td>
       <td>Revenge</td>
@@ -1552,7 +1539,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/qbXC4VuaGCjURpIV4EK1IwhU_T8ymZ7TpS7xCWLe9SM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE1/MTU2LTE1MDgyNjY0/NjQtMTEwOC5qcGVn.jpeg" alt="Cover for Dawn of the Sycophant" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,9 +1563,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/36d_U2l7wu8A4oiAD7c-r42pfCP9_Ap_YRcJxpSjJ2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA1/Mjg2LTE1MDI3NTQw/MTQtNjc2Ni5qcGVn.jpeg" alt="Cover for Gol-Goroth the Grey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d42ecd0382af79304578509e1235cb3.png" alt="Cover for Gol-Goroth the Grey" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-21</td>
       <td>Keillen Allith</td>
@@ -1618,7 +1605,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/ejzr2LZbyxDI2KV86L-4KCp2q5XkVWyfoPbDX7Y0rYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE4/MTgwLTE1MjY2NTUy/OTYtNDQ0MS5qcGVn.jpeg" alt="Cover for Perdition Portal" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1624,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/YlyYDJWf3qw9FJa0xW19y4ME2GZLDW2TqIcGL0KZJsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAx/MDgzLTE1NDYyMDM5/ODItMTEyOC5qcGVn.jpeg" alt="Cover for And The Mountains Weep" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1648,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/FSSZ31-6TpUI_MNtuJpJBypGNgkwxlLVHX--Mlj2tZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA2/MzMxLTE1MzI1ODg0/NjMtMTcyNi5qcGVn.jpeg" alt="Cover for Promo MMXVIII" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1672,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/c2XehN4OCP8V303t3tlupnbGWUXUwXRaEFQW7OUNuC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgw/Njg1LTE1MzQwOTY4/ODMtNTkzMy5qcGVn.jpeg" alt="Cover for Altars" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,9 +1693,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/nmNkPqA0OGSGdcC_JlDRmDYvWHOau1AuCrau7tYCDWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTM5/LTExMDcwNDI0MDUu/anBn.jpeg" alt="Cover for Deceiver.Diseased.Miasmic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/065777465694fc4d3ec942375a1c1e74.png" alt="Cover for Deceiver.Diseased.Miasmic" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-07</td>
       <td>Revenge</td>
@@ -1724,13 +1711,13 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 47</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 48</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/V0QlNbYjtRKn3lp1vRdSqnQJWxVOSp1OnKebCRU1SBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk3/MzYxLTE1OTk3OTgy/MzAtOTczOC5qcGVn.jpeg" alt="Cover for CNTRL ALL DELETE" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1759,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/cRzbnBM8bGKbZH3lh-eG4oO1uJdhwpaEQD-hXmGuYXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ5/NjQxLTE1NzA3MjQ2/NDktNjI0OS5qcGVn.jpeg" alt="Cover for DAEMONIAC YANDERE" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,14 +1816,35 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 27</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 38</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 32</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 39</li>
             <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf47adf87f7d4692fda90c61c7c5f51.png" alt="Cover for 180-Degree Murder" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-07-16</td>
+      <td>Weston Super Maim</td>
+      <td>180-Degree Murder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ae7ZDEnrYMWSFu3BESnj-XiXtlyVYSR41DXPI3bEsa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTY4/MTE2LTE2MjY4Mzkx/MjItODE3Ny5qcGVn.jpeg" alt="Cover for The Neglected Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,7 +1887,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/_d9maqu96esZxvqMr8BHqZRzO1VGUhbv3X3aenWygK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjky/OTI2LTE3MTU4NjAw/MDktNTYxMy5qcGVn.jpeg" alt="Cover for Coagulating Mirth" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1909,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/azu-pEKImQhGfW9fwZdVJJV1AunnB7U4m0J4bDYxSs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjky/MjMzLTE2NTMwNTYx/NzktMTI0OS5qcGVn.jpeg" alt="Cover for Kundalini Rising" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,7 +1950,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f08c92791489b78a0c197782ce841411.png" alt="Cover for As in Gardens, So in Tombs" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,9 +1967,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/bXXqJ2LT0J1rqyawAGkXyO9DpHfzVLaEtxoUfgp-eic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzA1/MDQ3LTE3MTU5NjU4/MTMtMzg3NS5qcGVn.jpeg" alt="Cover for Engraved Spectral Aeons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ccc0ad538221ea884639f6386a8362c.png" alt="Cover for Engraved Spectral Aeons" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-03</td>
       <td>Black Water Sunset</td>
@@ -1981,14 +1989,14 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 36</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/bffv5Fpe1K8NIqb0lnAcuZTVbxfrmBP1Zb1pUEb_A04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDAy/MjAwLTE3MDUxODM3/MDktNTI0NS5qcGVn.jpeg" alt="Cover for Theory Of Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c4ac2dccd6a6fd42171028a8ed46a55.png" alt="Cover for Theory Of Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-02</td>
       <td>AEffect</td>
@@ -2010,7 +2018,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/GCWnjc9Sk78p_5zPWEwdW_e3lEhnh4SWoNVKLkYHmfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQ4/MDI0LTE2OTE3OTQw/NjMtMjQxMi5qcGVn.jpeg" alt="Cover for My Enemies Look And Sound Like Me" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,9 +2038,9 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/5vxejGl2YqfVh6ytxHmdnLbRe6smKism36235lGPgpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM4/NDIzLTE3MDY1NjA0/ODEtNTY3MC5qcGVn.jpeg" alt="Cover for Phantazein" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dd34cdfc53c75a529075d49bce8a01c.png" alt="Cover for Phantazein" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-26</td>
       <td>Cognizance</td>
@@ -2051,7 +2059,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/aTCy-zQIOr_S3zqV9nrpfvmi8UEnwsuFJkoRmSA1YQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDQy/OTY0LTE3MTM1NTUw/NDgtOTQ0Ni5qcGVn.jpeg" alt="Cover for Cannibals Anonymous" style="max-width:120px; height:auto;" />
       </td>
@@ -2141,12 +2149,12 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 54</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2165,6 +2173,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b87686780bee94a1d85ea11e22e07af3.png" alt="Cover for First Ascent" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kallias</td>
@@ -2203,7 +2212,7 @@ Extreme metal encompasses the most intense and uncompromising subgenres of heavy
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
