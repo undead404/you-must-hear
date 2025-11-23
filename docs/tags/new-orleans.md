@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:39:49.654Z
+date: 2025-11-23T08:22:25.925Z
 permalink: tags/new-orleans
 title: new orleans
 ---
 
 ## new orleans
 
-Last updated: <time datetime="2025-11-19T07:39:49.654Z">Wed Nov 19 2025 09:39:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:22:25.925Z">Sun Nov 23 2025 10:22:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,7 +120,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf6461527c44bca36c747f34d55a3842.png" alt="Cover for Keys To The Crescent City" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +328,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/1xXE4_CwPAtgeMFoB9qfvBzYeXbncTykMgDEhZ4wQt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE3/MjE1LTE1MDI5ODg4/MTQtMzMwNS5qcGVn.jpeg" alt="Cover for Junco Partner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75413769e2df4e38932f8e3713cdfcf6.png" alt="Cover for Junco Partner" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>James Booker</td>
@@ -385,9 +385,9 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/SjpmwhxWCww0Elf75fAiymS1cKG4peH9ENqbz9pezYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjIy/NjctMTQ2NjI2NDA0/OS0yMTE1LmpwZWc.jpeg" alt="Cover for Mardi Gras in New Orleans" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ecd4dcff602a7c0bcdd44881c386c0a.png" alt="Cover for Mardi Gras in New Orleans" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Professor Longhair</td>
@@ -406,7 +406,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2959e746b244fdfcf03dc30b09c1bed.png" alt="Cover for Live In New Orleans" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +446,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/QBO1ZFh0WEB1Ht7SI9OMCVWiwZg5Wocib-FfWtRUhfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQx/NDE4LTE2MTkyODAw/NzQtODk0Mi5qcGVn.jpeg" alt="Cover for The Legendary Masters Series, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +482,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1986</td>
@@ -606,7 +606,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1992</td>
@@ -671,7 +671,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/WyMfaK_yHAk9Sq_xjL8XJMat3IvHBGA4Oe2H7R_DpCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjMw/NC0xNTUyNDY3OTgw/LTQ0NDMuanBlZw.jpeg" alt="Cover for Goin&#39; Back to New Orleans" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70394a4a7c164863a84b6bda89789226.png" alt="Cover for Goin&#39; Back to New Orleans" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-16</td>
       <td>Dr. John</td>
@@ -701,7 +701,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 82</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -802,6 +802,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15e064481977449fb0f854bc928a8021.png" alt="Cover for The Best of Sidney Bechet" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-05-03</td>
       <td>Sidney Bechet</td>
@@ -896,7 +897,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/44Op-R2358rHjnDmp9hc7_FE9BOcWvz_x-_2ZeJMfMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODQz/NS0xNTUxMzQ4MzQ4/LTExMjgucG5n.jpeg" alt="Cover for Sippiana Hericane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c8c06a69dafae1d236488609af70ad.png" alt="Cover for Sippiana Hericane" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Dr. John</td>
@@ -997,7 +998,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/F5a_7xHnk5JMrEvpBrq6XMKGOY13hPWY1XuXMCs5mQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjI1/MDctMTI3OTU5MTI5/Ni5qcGVn.jpeg" alt="Cover for Contemporary Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1058,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27ca97b357994051c08cdfe2779a861d.png" alt="Cover for Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1099,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f392386fd3adddcaf8f1610fa3895002.png" alt="Cover for Last Train to Memphis" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1256,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 35</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1302,7 +1303,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/UH0CipjzS8yVtYKYQHXGCwVVTtJXtRklVyhG4boFbIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY0/NTctMTIzODg1MDk0/MS5qcGVn.jpeg" alt="Cover for A Tale Of God&#39;s Will (A Requiem For Katrina)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/944683c5f477434ec3f5a7104d4aa666.png" alt="Cover for A Tale Of God&#39;s Will (A Requiem For Katrina)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Terence Blanchard</td>
@@ -1360,7 +1361,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008</td>
@@ -1408,6 +1409,23 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2008-02-19</td>
+      <td>Lee Dorsey</td>
+      <td>Funky As I Can Be!</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
         </ul>
       </td>
@@ -1474,12 +1492,12 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 52</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/wIkPWqyZioeXv8TBd0W_ckoxFVChbo4yN8vUOCmlR1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDg5/OTgtMTMyNDYyMTIy/Ny5qcGVn.jpeg" alt="Cover for Other Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,6 +1516,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91edc0bed012d5404d410b1de2814ac0.png" alt="Cover for The Bright Mississippi" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-20</td>
       <td>Allen Toussaint</td>
@@ -1611,15 +1630,16 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 54</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 7</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/xqOBZC1K6AWqYqDhGKQhDfJEJUXodcagup7_Xu4_AWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA1/MTgtMTMyNjUxMTQy/MC5qcGVn.jpeg" alt="Cover for Play The Blues - Live From Jazz At Lincoln Center" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5501ffe7935147098bfc3d94af780d5b.png" alt="Cover for Play The Blues - Live From Jazz At Lincoln Center" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-13</td>
       <td>Wynton Marsalis &amp; Eric Clapton</td>
@@ -1657,7 +1677,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/UbwnJyz5tbl9qTtVXB-eAVJpUip_N1XbGoeyK4RzCww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY1/MTY5LTE3MDg0NTIw/MTAtODM4OS5qcGVn.jpeg" alt="Cover for Jelly Roll Morton 1923&#x2F;24" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,24 +1689,6 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20155a4eb0c142dfaa7578728e0d4678.png" alt="Cover for Locked Down" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-04-03</td>
-      <td>Dr. John</td>
-      <td>Locked Down</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -1752,7 +1754,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2013-09-24</td>
@@ -1769,7 +1771,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/tuk1Gr6iCfzrR_0PD0pSlOh1EtMNMjzaGhgoRSFfVHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM3/NTAyLTE1MzcyMDMz/MTItNjI2Mi5qcGVn.jpeg" alt="Cover for 3&#39;s Up - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1868,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1905,8 +1907,8 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 24</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 46</li>
             <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 47</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 58</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
         </ul>
       </td>

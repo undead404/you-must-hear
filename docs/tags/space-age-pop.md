@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T00:57:39.957Z
+date: 2025-11-23T08:22:13.572Z
 permalink: tags/space-age-pop
 title: space age pop
 ---
 
 ## space age pop
 
-Last updated: <time datetime="2025-10-29T00:57:39.957Z">Wed Oct 29 2025 02:57:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:22:13.572Z">Sun Nov 23 2025 10:22:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/RbB1Zepbbd2MEDWl0NtZMWjWowk-s4Juwo9AYaC33Ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg3/NDItMTMzMDQwMTgx/OC5qcGVn.jpeg" alt="Cover for Ultra-Lounge Volume 3: Space Capades" style="max-width:120px; height:auto;" />
       </td>
@@ -44,7 +44,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 7</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -70,14 +70,14 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 39</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 41</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 86</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 92</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
       </td>
       <td>1958</td>
@@ -97,12 +97,12 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 71</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/MRfo0O0MLmCgnv2ekhI-34BvaUNjkuzd2Rq3aNhaRrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTYw/MzktMTQ1OTcxNzgw/OS02MDYxLmpwZWc.jpeg" alt="Cover for Fantastica - Music From Outer Space" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +120,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
       </td>
       <td>1959</td>
@@ -136,7 +136,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 79</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -159,7 +159,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ELbRB4xx2NAjrirXt3gyb6BPu-VZXO99KH1rPomu2ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMy/MDUtMTUyOTg3NjAw/Mi01ODE2LmpwZWc.jpeg" alt="Cover for Ultra-Lounge Volume 3: Space Capades" style="max-width:120px; height:auto;" />
       </td>
@@ -177,7 +177,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/dXpRZaETkaHnVPCkZ8obepB-zVLxD_csbzxa2xk-gXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjkz/OTUtMTM1NzgxMzQ5/NS04NDEyLmpwZWc.jpeg" alt="Cover for Latin Village" style="max-width:120px; height:auto;" />
       </td>
@@ -199,14 +199,14 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 14</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/WA6BSDbKJ2_eMz793OFODlZ4Ud3uydq7tTG1ks3iBGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/NzYxLTE2NTgwNzY2/NzQtMTM1Ny5qcGVn.jpeg" alt="Cover for Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/561ee021dc1b481585bad70605757315.png" alt="Cover for Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Pete Drake</td>
@@ -246,34 +246,14 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 42</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 44</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 89</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td>1968</td>
-      <td>Dorothy Ashby</td>
-      <td>Afro-Harping</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 68</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 80</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/7dG5Xmu5B-6HBxZTweYNBZMZq3A9gdSo7wuQXP7LQPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEw/MTQzLTE0OTM0NTY1/OTktMjA2Ni5qcGVn.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +271,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/znxbWPafEWwkt7kgUxpXdMBZJUKt1tTUos2fzCQyO_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/NzItMTUwMTUxNDU1/MC0yOTkwLmpwZWc.jpeg" alt="Cover for All-Time Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +290,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
       </td>
       <td>1968</td>
@@ -327,7 +307,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/I9B4E59aywAeTmCxY5NGLL6nzVVp-2he06VB0Kiy8Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI1/MDMtMTQyNzMyNTU2/OC03MDQ2LmpwZWc.jpeg" alt="Cover for Exotic Moog" style="max-width:120px; height:auto;" />
       </td>
@@ -348,12 +328,12 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 59</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/LLlV_Ck7F-wS_jLM7Xspp4AEQW600UFCo20y1uJmPWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDAx/LTE1NTM2MzQxMTEt/NjE2Mi5qcGVn.jpeg" alt="Cover for The Age of Electronicus" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +370,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>1974</td>
@@ -426,7 +406,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b5a18833c21d173fa650efdd4018fe8.png" alt="Cover for The Essential Perrey &amp; Kingsley" style="max-width:120px; height:auto;" />
       </td>
@@ -441,13 +421,14 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 45</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d88379eb206fa2f5abef8351aff188a0.png" alt="Cover for Mother Earth&#39;s Plantasia" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Mort Garson</td>
@@ -455,18 +436,16 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 60</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>1977</td>
@@ -483,7 +462,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
       </td>
       <td>1977</td>
@@ -500,7 +479,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Ultra-Lounge Sampler" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +498,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Risky Business" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +521,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/ALNNUjQjgPRGRwhcrvx1oQoTZYvpZjjjC5IlhdbgZf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcx/ODE3LTE2MDQ2NzY0/ODgtMjk3MS5wbmc.jpeg" alt="Cover for Suburban Rock &#39;n&#39; Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -562,6 +541,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0817e4f063064b8d96a65385a8709ca2.png" alt="Cover for Haackula" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Bruce Haack</td>
@@ -579,7 +559,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Best Of Moog - Electronic Pop Hits From The 60&#39;s &amp; 70&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -597,9 +577,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/eK6rLFQWQnoZN60bi00mWTIp4KpKuWqbfDshWwJA2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTMw/LTE0MTQ0NDcwODAt/Mjg1Ni5qcGVn.jpeg" alt="Cover for Secrets Of The Beehive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94dbd01c8a698c645b5bbac109dbb02e.png" alt="Cover for Secrets Of The Beehive" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>David Sylvian</td>
@@ -634,7 +614,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Ultra Lounge: Tiki Sampler" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +632,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Have Yourself A Merry Little Christmas - 16 Christmas Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -670,7 +650,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
       </td>
       <td>1988</td>
@@ -687,7 +667,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>1988</td>
@@ -703,7 +683,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>1988</td>
@@ -719,7 +699,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
       </td>
       <td>1988</td>
@@ -737,7 +717,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/UmdMPEXIJ-_9LpYSnkbz2HABLgPTEGJG8IeheR7Ic-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/MDgtMTQxMzE1NzI0/NS0zMjE0LmpwZWc.jpeg" alt="Cover for It&#39;s Cosy Inside (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0936e2783a28eb40a1740ef2836ddedf.png" alt="Cover for It&#39;s Cosy Inside (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Woo</td>
@@ -756,14 +736,14 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 8</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 34</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 78</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 30</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>1991</td>
@@ -783,7 +763,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/_VcfxVwLiDfQxaPdPTb8CEXrVvPOF57HZpgRd2rRv7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjU3/LTE1ODA3NDUxNjMt/Nzc1MC5qcGVn.jpeg" alt="Cover for Saint-Germain - Des Pres Cafe" style="max-width:120px; height:auto;" />
       </td>
@@ -803,9 +783,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/X049CWoDw8v1nzhuzTt8wZ5VCa9oonqMRS8_AeLf84A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA3/MTg1LTE1MDgxMDMx/MjktMTE0Mi5qcGVn.jpeg" alt="Cover for Technodon Remixes II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bd13a919140686a9a83c86786f03061.png" alt="Cover for Technodon Remixes II" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-07-14</td>
       <td>Yellow Magic Orchestra</td>
@@ -824,8 +804,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/641eedaccaf78f3cb9130202073e88c2.png" alt="Cover for Dormitorio" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>giradioses</td>
@@ -845,14 +826,14 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 56</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c973571c6d1b0ce55351095510712149.png" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-20</td>
       <td>Doopees</td>
@@ -864,15 +845,15 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 34</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 38</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 57</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 21</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 39</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 40</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/X5gEnGMnFeZ6l_UTz9odWYc1MVeIZCs_VFMD1HvzUzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA0/OS0xNTk5NTA2ODIy/LTExNTIuanBlZw.jpeg" alt="Cover for Lo Recordings Volume 4" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +874,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/-_xAY6wRDGd1O2meMq9TAlaPbORPgFcGGX2qFfxpmYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/Ni0xMTczOTczOTgw/LmpwZWc.jpeg" alt="Cover for CHR021" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +897,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/lhvK4K2Akwyyy6QKe0hT5yBCqKHdyDPiVncnRbsMVHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTgw/LTEyMjUxODU0NjAu/anBlZw.jpeg" alt="Cover for Organ Transplants Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -933,9 +914,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/teM8NR7onrgHw2m1V98puu2gyKXUcKw8_3MqpYds96I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE5/MzIyLTE1NzAxMDky/MTEtNDY5NS5qcGVn.jpeg" alt="Cover for Music for a Cosmic Garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f72dc7db339e8b59cf829788ada10a7.png" alt="Cover for Music for a Cosmic Garden" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-21</td>
       <td>Takashi Kokubo</td>
@@ -954,7 +935,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>1997</td>
@@ -968,36 +949,34 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 10</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a92fae2ac1594a2bb1044848a328fc8f.png" alt="Cover for Work and Non Work" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-09</td>
       <td>Broadcast</td>
       <td>Work and Non Work</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 45</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 58</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b81a00734a2f70b34acde16c61fdfa71.png" alt="Cover for Dots and Loops" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-22</td>
       <td>Stereolab</td>
@@ -1011,19 +990,19 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 24</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 92</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 33</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 43</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/OgOT9xQxnNTX-w_t4ejR0pFU4zdrs-FBJ7E2J1vxjmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDgx/LTE1MjkzNTE4MDUt/MjEzNC5qcGVn.jpeg" alt="Cover for Another World - Paul Oakenfold" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1022,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>1998-03-07</td>
@@ -1079,14 +1058,14 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 19</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/xtyqvP76jRekahNvnLG-oiZyPAV12VrYB2Hq2xD3jYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzY2/LTExNTkyMDMyMjgu/anBlZw.jpeg" alt="Cover for Manhattan Research, Inc." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ce0bf364fd14da2a37653b3f5188d7d.png" alt="Cover for Manhattan Research, Inc." style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Raymond Scott</td>
@@ -1101,52 +1080,46 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/vI6WLjKNloYEET1SWDDYGcKvMz4HEq2VCSv-ngaRvYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQt/MTE0NTMzOTY0MS5q/cGVn.jpeg" alt="Cover for The Noise Made by People" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/356c68b6adc4c2c417269d5efdd82fd6.png" alt="Cover for The Noise Made by People" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-20</td>
       <td>Broadcast</td>
       <td>The Noise Made by People</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 53</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 56</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 72</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8b9dd5c23640c0c06604485e80838f.png" alt="Cover for Freaks &amp; Icons" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-08</td>
       <td>Dzihan &amp; Kamien</td>
       <td>Freaks &amp; Icons</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 9</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 83</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/D-ZVYWzvmU7uv9HzZV_EaTCyZo0W7jscx5BHBZ8_Zg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcz/Ni0xMTUwOTI2MTg5/LmpwZWc.jpeg" alt="Cover for Mandarin: Chinese Chilling Thrills" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1141,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
       </td>
       <td>2000-10-06</td>
@@ -1186,7 +1159,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/9krjwPHmCGziqI2r33eHdtagF16ttYZs9BqXd9VL8ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDgx/LTE1NzIxNjg4MzEt/NjEwNi5qcGVn.jpeg" alt="Cover for Rae &amp; Christian - Anotherlatenight" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,9 +1179,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/eBtGg55BKHTRfqLJ_tlIsSX3J-1YW1OuHV5s4fuKkc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU3/MC0xMTYyNTcwNzE0/LmpwZWc.jpeg" alt="Cover for Death by Chocolate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43b863e398e16cd97c8a07d0c5f640a6.png" alt="Cover for Death by Chocolate" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-23</td>
       <td>Death by Chocolate</td>
@@ -1227,9 +1200,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/WI-9oPGCDaZot7I-zay0sPDTr0V80s8RoW-PxUN49Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI3/LTEyMTgzMTcxMDIu/anBlZw.jpeg" alt="Cover for Playlist: Compiled By Jazzanova" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/655c83081ee2b8eecf8eeadf707466b2.png" alt="Cover for Playlist: Compiled By Jazzanova" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Koop</td>
@@ -1245,7 +1218,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/3rZweLS8Y7jdpr8i2L9JfLNBA9VIknxigI5ebu1KnlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzIx/LTAwMS5qcGc.jpeg" alt="Cover for Nude Dimensions Vol 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1239,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>2002-03</td>
@@ -1287,7 +1260,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003</td>
@@ -1303,7 +1276,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2003-05-12</td>
@@ -1320,7 +1293,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/441sfLsP4EFy6Cd16zE3hMf8xMKpgFhm0ccv-5TV8-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA0/OC0xMjg4NDY4NTc2/LmpwZWc.jpeg" alt="Cover for Behaviour &#x2F; Further Listening" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1318,25 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35f79bbe584d4caab326618f86f93c0c.png" alt="Cover for The Eclectic Sound of Vienna, Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>The Eclectic Sound of Vienna, Volume 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/yj7wXO2hUKsDEkD5Xc2PNk-DkJJpaZLBnMzemilPZRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDU2/My0xNTQxODQ2MTUw/LTczNjAuanBlZw.jpeg" alt="Cover for Lying Peacefully" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1357,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for Ultra-Lounge, Vol. 15: Wild Cool &amp; Swingin&#39; Too" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,26 +1374,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/5YAo2Kmkadt-BFpe6PmvPenplQP7pXLUDZ99ywHhvUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzcw/MjA0LTE3MDc2NzQ5/NjUtMTM4NC5qcGVn.jpeg" alt="Cover for The Eclectic Sound of Vienna, Volume 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Various Artists</td>
-      <td>The Eclectic Sound of Vienna, Volume 3</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/SyDqDuL1iIOMOU7siznxQPZCiTvUhVHeg1u-_gXCapU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDY2/My0xMzc0MjMxNDA2/LTU5MDIuanBlZw.jpeg" alt="Cover for Brasil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32955bc99b81bde513b5e86ca73468d6.png" alt="Cover for Brasil" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Salomé de Bahia</td>
@@ -1424,7 +1398,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/jlS1Z7B1tbZI21qxbZLhRmAD2Oq7jPuUnyPaa3AmYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/OTM2LTE2NDcyMDMz/MDQtMjc0OC5qcGVn.jpeg" alt="Cover for Maida Vale Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8fcb6b879c49090dc79821a5f072dbc.png" alt="Cover for Maida Vale Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-19</td>
       <td>Broadcast</td>
@@ -1440,7 +1414,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/gGV0ZB_JW_hXAfncGbhdW2cWSfAcKNnPFRNaSVUkX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQx/NzEzLTE2MTM0ODEz/OTEtNDE0MC5qcGVn.jpeg" alt="Cover for Buddha Bar VI: Rejoice" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,7 +1435,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/x6Blx_OkKetPOuxXJqdRJX7k4Ukl6GD0Qgzgy202cO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ0/Ny0xMzE3OTQ2OTk2/LmpwZWc.jpeg" alt="Cover for Forbidden Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,12 +1458,12 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 69</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 77</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Ultra-Lounge, Vol. 4: Bachelor Pad Royale" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1480,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/oRXWG8oxzE9qQ8hWkXCVMkhgLqa4_6jZ_5TZWLhlta0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/My0xMDk0Njc2NDY1/LmpwZw.jpeg" alt="Cover for ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1511,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/9v6hg9JZp6R-F6mRqVNQWTWEOL0fSx5L88n0Jp2pc_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDA3/NC0xMzIzMTU2NjEx/LmpwZWc.jpeg" alt="Cover for Master Session2" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,8 +1528,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/689f3426c26b44eba8b9d3f3bbe30c45.png" alt="Cover for Flight B" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05</td>
       <td>Kim &amp; Buran</td>
@@ -1575,7 +1550,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59dd9ad4d0674ad6867f7998ce7d0c29.png" alt="Cover for Crystal Ball" style="max-width:120px; height:auto;" />
       </td>
@@ -1594,7 +1569,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
       </td>
       <td>2012-01-30</td>
@@ -1608,12 +1583,13 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 7</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/AgfZOgLeGNlBKPOsiJfyQ9CijF29QCfJLqu8WZW1q4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjAx/OTItMTUzMzIyNDgz/OS02MjQ0LmpwZWc.jpeg" alt="Cover for Bar Lounge Classics 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1610,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
       </td>
       <td>2017-07-14</td>
@@ -1650,7 +1626,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/N18rgJYOB6kg1yExgEPulS3rFRVEjiGUdHLP4xz8ohs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjI2/MjQtMTQ3OTI3MDEw/MS03MTk4LmpwZWc.jpeg" alt="Cover for Cafe Del Mar Vol. 7" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,7 +1651,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/x8qWHdDcLaeOVtOrMe5fgWZuRaHDsj9OI2-l9WePdVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDk5/MS0xMzE0Mjk5NDkw/LmpwZWc.jpeg" alt="Cover for Jazz Club Vocal" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,6 +1663,24 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/RK7773hO0546UN7W7suUiCjep_tfg2E7H_XpC5tBUJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA3/OTA3LTE1Njc5NzU0/MDEtMzg5Ni5qcGVn.jpeg" alt="Cover for Cobra And Phases Group Play Vo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-04</td>
+      <td>Stereolab</td>
+      <td>Cobra And Phases Group Play Vo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
       <td>
@@ -1712,16 +1706,16 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 17</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 97</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/RK5o4q_VQtMbdOo0mZr-3v8Pgr317kdRyFlDSjN2dAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/NDc0LTE2MzkxMDgx/OTYtNzEwMi5wbmc.jpeg" alt="Cover for All for Fall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bac80a1481a1cf8a546220a34e8675b1.png" alt="Cover for All for Fall" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Cosmic Neighbourhood</td>
@@ -1741,32 +1735,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/BWXpcrAwqgOqBTEFwUwzzYDlxFgXlF4numyRjhrxmHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/ODYxLTE2NDc2MjM2/MzctODIzMS5qcGVn.jpeg" alt="Cover for Microtronics - Volumes 1 &amp; 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-03-18</td>
-      <td>Broadcast</td>
-      <td>Microtronics - Volumes 1 &amp; 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
       </td>
       <td>2022-04-14</td>
@@ -1784,28 +1753,25 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/sBV6InBA--wHpbR3ANfHDUNvVZrvi7eidU9g7ixngv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDI4/MzEzLTE2Nzg4ODQx/MzctMTUwOC5qcGVn.jpeg" alt="Cover for Oh Dear" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d7ce276f9ee3a946ec0a3377073596.png" alt="Cover for Ultra-Lounge, Vol. 14: Bossa Novaville" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
-      <td>Isolde Lasoen</td>
-      <td>Oh Dear</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 14: Bossa Novaville</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 29</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Chill Off Djazz" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,7 +1791,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for Saint-Germain-des-Prés Café IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1817,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for When Brazil Meets The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1836,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
       </td>
       <td>2023</td>
@@ -1890,7 +1856,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
       </td>
       <td>2023</td>
@@ -1907,13 +1873,12 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Ultra-Lounge, Vol. 14: Bossa Novaville" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
-      <td>Ultra-Lounge, Vol. 14: Bossa Novaville</td>
+      <td>Ultra-Lounge, Vol. 2: Mambo Fever</td>
       <td>
         <ul>
         </ul>
@@ -1924,7 +1889,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td>2023</td>
@@ -1940,7 +1905,24 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb33a542496a73c180dc0126a304a615.png" alt="Cover for Oh Dear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Isolde Lasoen</td>
+      <td>Oh Dear</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
       </td>
       <td>2023</td>
@@ -1956,7 +1938,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Ultra-Lounge, Vol. 9: Cha-Cha De Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1955,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
       </td>
       <td>2023</td>
@@ -1989,7 +1971,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/_egeiamAEMlQdahyv2GNO3sf4zPt4XFTQooZbpXlg30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY0/My0xMjI4Njc5Mzg1/LmpwZWc.jpeg" alt="Cover for Best of" style="max-width:120px; height:auto;" />
       </td>
@@ -2010,7 +1992,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
@@ -2029,14 +2011,16 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 3</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 26</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 66</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5709c672c45b54807c56302f5dde71f2.png" alt="Cover for Galaxy Crisis: The Strangest Midnight Broadcast" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>王若琳</td>

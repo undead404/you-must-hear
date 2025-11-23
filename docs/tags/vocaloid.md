@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T00:58:40.042Z
+date: 2025-11-23T08:22:18.838Z
 permalink: tags/vocaloid
 title: vocaloid
 ---
 
 ## vocaloid
 
-Last updated: <time datetime="2025-10-29T00:58:40.042Z">Wed Oct 29 2025 02:58:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:22:18.838Z">Sun Nov 23 2025 10:22:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
   </thead>
   <tbody>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1977</td>
@@ -48,7 +48,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for キメラ" style="max-width:120px; height:auto;" />
       </td>
@@ -67,9 +67,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/BwrusEkISEgAZcj0YkO1YNeqyXxV_f2JrGhJudGUCl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/MC0xMjgzNTU3OTky/LmpwZWc.jpeg" alt="Cover for dog &#x2F; screaming &#x2F; livestock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26bd808c6191dffa06dc18d891e1d2e4.png" alt="Cover for dog &#x2F; screaming &#x2F; livestock" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Abuse</td>
@@ -88,7 +88,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/aZOoh_ynCHb9hsEjxbq45pXslzMJ8FI7VtNO6BOhplo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjI3/NDItMTQ2MTMxNjg0/Ny00NzM1LmpwZWc.jpeg" alt="Cover for Eve Vocaloid 01" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/KlwPs0-O5vz_BuYNA03wRzdhWf3zmBnIWsk2RR6Cy0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY0/MzM0LTE1NDU0NDQz/NjQtNjk4NC5qcGVn.jpeg" alt="Cover for Forbidden Happiness" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5152084a9656709c21e83655aafc843.png" alt="Cover for パメラ" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +142,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/8Zb3HLkKqnSCyimDkI2eW8Hx7tuFy3Qp_9UnzCHDDBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA4/MTA5LTE1NzgxMzIx/MjYtNzA2OC5qcGVn.jpeg" alt="Cover for ERROR" style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +160,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/pJGtZ0SPwrnChw1QzelM3HytP6pF8upGnyq1AxVbAKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/NC0xMDc0NTk3NDQ3/LmpwZw.jpeg" alt="Cover for Why Does a Heart Break? (Flay! Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c399b69dc3db3e2df585d656dfc5289.png" alt="Cover for Power of the Dragonflame" style="max-width:120px; height:auto;" />
       </td>
@@ -194,17 +194,17 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 29</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 52</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 31</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 72</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/ZHyv0l7QXHucWtD1ELPYSbBSPQW-mHes3QFWvWyn4NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE4/NDItMTU2OTE3MTU3/MS0xNjEyLmpwZWc.jpeg" alt="Cover for The Introduction" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed1eff73537f1c590764e885147e1b02.png" alt="Cover for The Introduction" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Kira</td>
@@ -220,7 +220,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2006-05-24</td>
@@ -263,7 +263,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-08-16</td>
@@ -280,7 +280,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2008-08-27</td>
@@ -297,7 +297,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2009</td>
@@ -316,7 +316,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d42a092a35d73d9908452205c52362ff.png" alt="Cover for Stray Light" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +337,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf48f5cea3894338c3e0f4d882d2ec5a.png" alt="Cover for Blood Color Flower e.p." style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +356,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2009-05-17</td>
@@ -373,8 +373,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9a5fc032ce379dc414393415e7085d6.png" alt="Cover for DIARRHEA" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-15</td>
       <td>鬱P</td>
@@ -391,7 +392,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/KeaYikySuiStQ3tvpzIKtFJI7vu0W363PC7OmOVM8C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjU0/MTgtMTQ3NzYzMjIz/OS03MzY2LmpwZWc.jpeg" alt="Cover for Matsushita Shita Shita Ue Ue←→Ab" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +410,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/9115DbQ5z_JQIA6O-Timxq7FayS85zzdG1V8NtLd-ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUx/NjA4LTE2MTk5MTMy/OTktNDM5NC5qcGVn.jpeg" alt="Cover for period 1" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +428,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2010-04-21</td>
@@ -444,7 +445,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ujknzjNSjCAdMaNjJl34JJE7nW2Lustr0bal5m6R2-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDIw/NjgtMTM0NjM2OTAw/MC0yODE3LmpwZWc.jpeg" alt="Cover for アンハッピーリフレイン" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +465,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9251afc3ddd3bda6c0e02ff9b42bc25d.png" alt="Cover for 十面相" style="max-width:120px; height:auto;" />
       </td>
@@ -484,8 +485,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/533575afb2c74cc780f9156c257c9469.png" alt="Cover for Tell Your World EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-14</td>
       <td>livetune feat. 初音ミク</td>
@@ -507,9 +509,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/VJ1rgNs3Ga3oNBUwnJT1fgmG_LL31SNVBZM0Aum51Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgz/MzQ4LTE1NzU0NDk1/NjYtOTY4Ny5qcGVn.jpeg" alt="Cover for Arkhē" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09f883708d96415ab4c4278791b7ac44.png" alt="Cover for Arkhē" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-28</td>
       <td>Lemm</td>
@@ -525,7 +527,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2012-04-30</td>
@@ -544,8 +546,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2aee7a7b7c79db162d42b68dd0f991b.png" alt="Cover for きくおミク2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-11</td>
       <td>きくお</td>
@@ -562,9 +565,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/QdfiHmgRRor2N8NbpxmcYTSb8QwKWyeDY4Lk-EsXQ_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/ODUzLTE0OTk1Njgw/NzQtMzU3Ny5wbmc.jpeg" alt="Cover for first trip" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c655d07b89f6ca8ee7b4b8bd40b1203.png" alt="Cover for first trip" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-31</td>
       <td>Last Note.</td>
@@ -587,7 +590,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2013-03-20</td>
@@ -604,7 +607,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/TD63DZxXlAYu4oCJQIB8FUHl36Mxi5mQaW9GeShWOi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTA1/ODAtMTM5MjY2NTM3/MC00OTAwLmpwZWc.jpeg" alt="Cover for freesia" style="max-width:120px; height:auto;" />
       </td>
@@ -626,7 +629,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2014-02-04</td>
@@ -644,7 +647,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2014-05-13</td>
@@ -680,7 +683,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/i7TVN99Witk0ydimH7-7W40XuO7XWAHzvbgWyG7RUAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/NzU1LTE1ODI2Mjc1/NjUtNDMyMS5wbmc.jpeg" alt="Cover for Backseat Love" style="max-width:120px; height:auto;" />
       </td>
@@ -706,7 +709,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/7Sc_an_z2lC6z_xHhPynqy1d2RQSUVASTY9Pl4dkz9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg2/NTIyLTE1Njk0ODg0/NzAtNTU2Ny5qcGVn.jpeg" alt="Cover for I Do What I Want" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +727,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1064ec93caacd66b983a35724a66788b.png" alt="Cover for imitation gallery" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +752,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/rGS6AdsmNA3I-_BevmcysgKnv-RsY7LGTtiAWZ93sYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQx/OTc0LTE1ODcyMjMy/MzQtNTEzOC5qcGVn.jpeg" alt="Cover for 未完成エイトビーツ" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +770,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/X1gtW84Ck1Hs4shwUrxDfZK_YXKlWwq302GZQjXeR3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU2/NzczLTE2ODgzMDIy/ODAtMTYyNS5qcGVn.jpeg" alt="Cover for A Himitsu" style="max-width:120px; height:auto;" />
       </td>
@@ -788,7 +791,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/947dba8525851f9a697cd9678e58e26d.png" alt="Cover for Coin Locker Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -797,9 +800,6 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       <td>Coin Locker Baby</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
         </ul>
       </td>
       <td>
@@ -808,7 +808,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/AOtfXKPqiUDkOCKFXtwxcTjg14DpN-JcSx5UYfX2aA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE3/ODUyLTE1MDEwMzc0/MjMtMzQ2NC5qcGVn.jpeg" alt="Cover for Halfawake" style="max-width:120px; height:auto;" />
       </td>
@@ -826,9 +826,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/T-2DcAx74OFXIvJmEw-ebqZJdZbHhkgklNTcKYqhwaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDI5/MjQzLTE2NzA3Mjkz/NjUtNzU2My5qcGVn.jpeg" alt="Cover for If" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c53027ceac012f7e355e808ac595a0a4.png" alt="Cover for If" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-31</td>
       <td>Phil Lober</td>
@@ -864,9 +864,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/GchKcuqZyNrveGxOgT7ub7AXF6v-e6rEK7TiGOnkXU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg1/NDg4LTE1MzAwMTU3/NDEtODQzOS5qcGVn.jpeg" alt="Cover for I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ba2f869c61f9cd6677ea50e21ff94aa.png" alt="Cover for I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク]" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-01</td>
       <td>daniwellP</td>
@@ -883,12 +883,12 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       <td>
         <ul>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 58</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 69</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/yT1sIwhQNAxPGS2d7qVu4G3kwNMEGWf1X4D9WOMupzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQy/OTk4LTE0OTU2NjQx/MzUtMTg5MC5qcGVn.jpeg" alt="Cover for GHOST" style="max-width:120px; height:auto;" />
       </td>
@@ -906,15 +906,15 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 16</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 27</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 67</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 69</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 24</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 32</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 69</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/9DQ9r4-hSRbPptRMOJBXjEbKQ4qXSNjXUv5qwm30BeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg1/MTkzLTE2NDcxNjg1/NTMtNTY4NS5qcGVn.jpeg" alt="Cover for 初音ミクシンフォニー〜Miku Symphony 2019 オーケストラ ライブ" style="max-width:120px; height:auto;" />
       </td>
@@ -932,9 +932,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/3aUOMeMXdBN7U7wNskUMJDCK6CMjwfuay_95bDhQNYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk3/MzI3LTE1NzE2OTU3/NzEtNTI4MS5qcGVn.jpeg" alt="Cover for S&#x2F;S17" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e9c8d0e8e34786f0ac4c439b70fc86a.png" alt="Cover for S&#x2F;S17" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-24</td>
       <td>Anamanaguchi</td>
@@ -953,13 +953,13 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 3</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 18</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/wqU3JczYJtekNZPImQdcEWt0-cHzFc5UG2u0sBSB4K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/OTExLTE1ODI2MzAx/MTctODMxMC5wbmc.jpeg" alt="Cover for Hubris" style="max-width:120px; height:auto;" />
       </td>
@@ -990,9 +990,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/41SMQBaXPT5jhYZXvN5tbp1C-53kAGEdnGCZQs6GzkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM5/ODA3LTE0OTc0Njc3/MTItMjg1My5qcGVn.jpeg" alt="Cover for UNDERWATER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24d7322db60de7b27438b9b7bf2236eb.png" alt="Cover for UNDERWATER" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-29</td>
       <td>Hylen</td>
@@ -1008,12 +1008,12 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 7</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e65b2c1def37119d31bb327d9f0aa2f7.png" alt="Cover for the halos and goodvibes" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1055,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22b0fa5b5ba54f70bdb4ba244ebe6970.png" alt="Cover for 世界征服" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,9 +1076,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/fyCFAYUnn169qW3xd-4DYeAiWPveqhSabIUi7M9iTmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTA2/NDcyLTE3MDE2ODkx/MTYtMzY4OC5qcGVn.jpeg" alt="Cover for Nightcore Classics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f63407a1020a5fdce35bdb982c11ec.png" alt="Cover for Nightcore Classics" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-04</td>
       <td>Fly By Nightcore</td>
@@ -1093,12 +1093,12 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 74</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/vvqZL86z1DxD7DFl5yYRP2Wk44UcGI8kE5NHyDUENoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIy/MTQ3LTE1ODgzMTgx/MTYtOTU2Ny5qcGVn.jpeg" alt="Cover for RENDERING THE SOUL" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1119,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/gc3mQtOUOqECj39fkzU2N6DXfjmkJnDA0QsD-P8fk0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgw/MTQ5LTE1NzMzNTU3/NDMtNjcwMi5qcGVn.jpeg" alt="Cover for LIME" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/175ffb754e6d05ac1627b21a4c5846c4.png" alt="Cover for LIME" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-26</td>
       <td>23.exe</td>
@@ -1139,7 +1139,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 19</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 51</li>
         </ul>
       </td>
@@ -1147,7 +1147,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/_xfNFQm9y-vqsmc8gGzbyX73lN4MFHL8OvDdAoyBiZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgx/OTIzLTE1ODY0NTc5/MTAtNTE5OC5wbmc.jpeg" alt="Cover for SIU" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/897d8a8e4c00000f7a0b94a1a6dc5d84.png" alt="Cover for SIU" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-17</td>
       <td>maretu</td>
@@ -1167,7 +1167,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/q4hEOuwelhW1NLd6Ec7ybsOtIlIC3RNkDsOn7ttLRkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIw/MjkwLTE2Nzk2MDMz/MTItODE5Ny5qcGVn.jpeg" alt="Cover for As Much As I Forget" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,21 +1185,17 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/J5_3QhqL_QrNw_Gf2n2CV1VVxRJDXkl0DdyMIsJpiFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NTQ2LTE1OTE4MTA5/OTUtNTIxNS5wbmc.jpeg" alt="Cover for Floral Strobe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e648b76bb3023495223a8ce1395485c.png" alt="Cover for Floral Strobe" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-10</td>
       <td>False Noise</td>
       <td>Floral Strobe</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a></li>
         </ul>
       </td>
       <td>
@@ -1210,7 +1206,25 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/mwECe9mUfi1xUi7T01GeV_yRdGDAVYpyvOxN1td6S7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODI2/NjMzLTE2NDk1NTMw/NTYtNDIzOS5qcGVn.jpeg" alt="Cover for HERO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-15</td>
+      <td>Chinozo</td>
+      <td>HERO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/v1sWJDY7sB0XEbIfJcwoBk96Te19Mf7lzut4XIkSZqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTEz/MzQ2LTE2MTA4MDIw/MzktNjAxOC5wbmc.jpeg" alt="Cover for Daisy 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,13 +1246,13 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 49</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 66</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/ZcHzavaxIOLDmG8T9AJWk1buW3O3QdrPr2givhhnL98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTYx/ODMxLTE2MjI0ODM1/ODYtMjYzNC5qcGVn.jpeg" alt="Cover for Noise Of Yandere" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,6 +1272,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe885751feb1c4604da79662aa51a52.png" alt="Cover for the truth about hatsune miku" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-31</td>
       <td>That Same Street</td>
@@ -1277,14 +1292,15 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 4</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 65</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 88</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 89</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg" alt="Cover for Lament For Thorin" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1332,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/7ixEca59zWaayiAUfyk-Z4kjcy23BSO19JzEEbdntDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzI5/MDg5LTE3MTYxOTE5/NjctMzgwMS5qcGVn.jpeg" alt="Cover for RENAISSANCE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6968049c662538db97e610bddb4aa31.png" alt="Cover for RENAISSANCE" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-27</td>
       <td>Utsu-P</td>
@@ -1334,15 +1350,15 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 36</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 56</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/7ixEca59zWaayiAUfyk-Z4kjcy23BSO19JzEEbdntDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzI5/MDg5LTE3MTYxOTE5/NjctMzgwMS5qcGVn.jpeg" alt="Cover for UNIQUE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/204c7d75cff07a52efeee247fea15cb2.png" alt="Cover for UNIQUE" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-27</td>
       <td>Utsu-P</td>
@@ -1360,9 +1376,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/kKNGxpti_4Vms0FkYGdv7YvfY2DWnCODTEZaaCh8SvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDM2/MzE0LTE2NzA3ODY4/MjEtMzg2NC5qcGVn.jpeg" alt="Cover for 海の名前" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85a1d54bcdf1347008bb5b9108a71b08.png" alt="Cover for 海の名前" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-16</td>
       <td>Kairui</td>
@@ -1380,9 +1396,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/26FZgWIejj6rfwzjcRCSfXOhuNzAfGLFW41B9oFe5fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/MTQ2LTE2NTU3MTE1/NTgtNzA3OC5wbmc.jpeg" alt="Cover for The First Sound of The Future Past" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f85aa0851178a40dc70d115b048e9bb.png" alt="Cover for The First Sound of The Future Past" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-01</td>
       <td>Astrophysics</td>
@@ -1399,7 +1415,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/OMWzU2FpUO1ySCWXR3pYUSORt03k5WwmyR4VLcU3HIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjIy/ODc3LTE2NjQwNzQz/MjUtOTk1NS5qcGVn.jpeg" alt="Cover for パンツ脱げるもん！" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,9 +1433,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/rNXXYQqGRrvbKgTtLk1hYcT3Zag1V9o_auSn_0dxyn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjEx/NjUyLTE3MDI2NjY2/MzEtOTg1MS5wbmc.jpeg" alt="Cover for CURE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d118aed75db2c04446738ab07a53e556.png" alt="Cover for CURE" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-30</td>
       <td>nerdneko</td>
@@ -1436,7 +1452,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for MAYU LOVES -First-" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1470,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/cC02tcs6Q03jbLozX2Q4UtiNNfo_oRfu9hzdlz2i9kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDYx/ODEtMTQxMTIyMjYz/Ni0xNzI1LmpwZWc.jpeg" alt="Cover for supercell" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,29 +1482,6 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/Ze3Vtq-aKcK78mKGMnbt3qgdU39fWuFdpJiXCDthSH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU3/MzUyLTE2OTQ2Njk1/MTEtOTk2OC5qcGVn.jpeg" alt="Cover for &quot;smiling broadly&quot; EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-08-31</td>
-      <td>smiling broadly</td>
-      <td>&quot;smiling broadly&quot; EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
         </ul>
       </td>
@@ -1517,9 +1510,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/m4bdMbFLRiHqSGZXKa8d7YV3WwMvqPsRCqVrDnV1mjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzA5/Nzk0LTE2MzIxODI0/NTItNzEwMS5qcGVn.jpeg" alt="Cover for セラ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3281bcc941cdda6bfdc368180492a96.png" alt="Cover for セラ" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-09</td>
       <td>That Same Street</td>
@@ -1538,14 +1531,15 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 78</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 79</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77e2875c8e42879c25ffe764b2e1f4d.png" alt="Cover for きくおミク6" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kikuo</td>
@@ -1559,12 +1553,12 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 51</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
       </td>
       <td></td>
@@ -1578,12 +1572,12 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1600,7 +1594,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1617,7 +1611,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ead6854fa76e10430f97af603ff5e5.png" alt="Cover for ねむるピンクノイズ" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1631,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1655,7 +1649,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1672,8 +1666,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a31df43b6d64feaf59542490f73fb09e.png" alt="Cover for ALCATRAZ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>-MASA Works DESIGEN-</td>
@@ -1691,7 +1686,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1710,8 +1705,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3376b81b33b3475fc72bcf91c3858637.png" alt="Cover for mikgazer vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>mikgazer compilation</td>
@@ -1728,7 +1724,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1745,7 +1741,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1763,8 +1759,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/027652affce9561f195574d9a996657d.png" alt="Cover for セピアレコード" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Powapowa_P</td>
@@ -1783,7 +1780,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -1801,8 +1798,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9873cf780950ba30b82a4d7bca5bbda.png" alt="Cover for AZURESSENCE" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>crafTUNER</td>
@@ -1820,7 +1818,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -1837,7 +1835,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -1862,8 +1860,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/537db70051e3aaa3d613e11a166ce4a3.png" alt="Cover for Desktop Cinderella" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hachioji P</td>
@@ -1882,7 +1881,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td></td>
@@ -1899,7 +1898,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td></td>
@@ -1916,7 +1915,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -1933,7 +1932,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td></td>
@@ -1987,7 +1986,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -2004,7 +2003,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td></td>
