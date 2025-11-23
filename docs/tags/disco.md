@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T10:25:14.860Z
+date: 2025-11-23T08:50:03.587Z
 permalink: tags/disco
 title: disco
 ---
 
 ## disco
 
-Last updated: <time datetime="2025-11-19T10:25:14.860Z">Wed Nov 19 2025 12:25:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:50:03.587Z">Sun Nov 23 2025 10:50:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/157d793b462fcbdfb573fe2ed28afee2.png" alt="Cover for Build Up" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/851b75140e4c13322a42836afd29e5e3.png" alt="Cover for Babilônia" style="max-width:120px; height:auto;" />
       </td>
@@ -80,12 +80,12 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 40</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e21ea43a14253e586990a501ecba945f.png" alt="Cover for Ring Ring" style="max-width:120px; height:auto;" />
       </td>
@@ -127,19 +127,19 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 32</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 34</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 100</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 100</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 100</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 100</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1975</td>
@@ -154,7 +154,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 70</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +201,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bc8e390902445039d7d895ce6d8da59.png" alt="Cover for Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +225,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07b4c46010944aeeca2d3b09c2a69955.png" alt="Cover for Wild Cherry" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +239,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 18</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -258,11 +258,12 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a2a41eb66f185f0b71cb86e849fb0de.png" alt="Cover for I Love to Love" style="max-width:120px; height:auto;" />
       </td>
@@ -312,13 +313,13 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 11</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 10</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03c0d351275d4234be645f6c9c134aa7.png" alt="Cover for Supernature" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +392,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97cba957dead9020c8b14b4218ec48c6.png" alt="Cover for I Remember Yesterday" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +446,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53db9d8f5a915b8ed0587178f8bc0ca.png" alt="Cover for Chaka" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +464,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d60564db1b3331ba3884257097251e71.png" alt="Cover for C&#39;est Chic" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +604,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 46</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +626,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1979-12-03</td>
@@ -662,7 +663,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 58</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -719,12 +720,12 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 50</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3407a8bd47c700a4722f678fcf3f81cb.png" alt="Cover for Bad Girls (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +743,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a5813e30ff9d3426cdddadad99f2437.png" alt="Cover for Somebody&#39;s Watching Me" style="max-width:120px; height:auto;" />
       </td>
@@ -827,9 +828,9 @@ Disco is a genre of dance music that originated in the United States in the 1970
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 85</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
         </ul>
@@ -869,8 +870,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 100</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +894,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/929f961574d7444ac439f0da85c211ea.png" alt="Cover for Gold: Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -953,6 +953,24 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97f229cfc9a5d8d42ceaca1a75a7900.png" alt="Cover for One Night Only" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-01-01</td>
+      <td>Bee Gees</td>
+      <td>One Night Only</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/763ac2ce5b8817a65746ad44b60bb4d9.png" alt="Cover for Disco Inferno" style="max-width:120px; height:auto;" />
@@ -1002,7 +1020,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ZjDcAmxQZf__qQoNRXqGEWrFsdX6OOOFTxF3vg7DkaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTM3/NS0xMjEwNDg3NDk4/LmpwZWc.jpeg" alt="Cover for Live At The Budokan" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1060,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 53</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1112,6 @@ Disco is a genre of dance music that originated in the United States in the 1970
       <td>
         <ul>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 6</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1117,7 +1134,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5184a291d5574f46b84964f2cdb9d2c5.png" alt="Cover for Platinum &amp; Gold Collection Series" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1190,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d539c1b06853b523507ca50e55072a1.png" alt="Cover for 15 Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,9 +1228,9 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 28</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 30</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 83</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 93</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 99</li>
@@ -1234,28 +1251,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 7</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35be2516b85d426a9949e76545b6e171.png" alt="Cover for From the Cradle to the Rave" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-09-20</td>
-      <td>Shit Robot</td>
-      <td>From the Cradle to the Rave</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 10</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1339,13 +1335,13 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 7</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 10</li>
             <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7d8dfed5e8d4f6cb2f072d6775976aa.png" alt="Cover for Gangnam Style (강남스타일)" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1358,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dc22ffaae5144f79899c89880280bc6.png" alt="Cover for 24 Hours in a Disco 1978-82" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,8 +1407,8 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 36</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 88</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1449,7 +1445,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 63</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 65</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 93</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 95</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 96</li>
@@ -1457,7 +1453,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/A2vW5e6ikPdBXkwa_7bAdHnYJO8kuwgsfaYqWsLSNOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTg3/MzYtMTQwMDI1MjUz/Ny01MjYyLmpwZWc.jpeg" alt="Cover for Love Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,15 +1490,15 @@ Disco is a genre of dance music that originated in the United States in the 1970
       <td>
         <ul>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 14</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 19</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 20</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 61</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 85</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 86</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
@@ -1601,7 +1597,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1646,7 +1642,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2d3190ed9166a8dc9f8cc681b0ea0ad.png" alt="Cover for Very Best" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1662,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86269e8cd4f97272e669a41f0e72f7bc.png" alt="Cover for Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,9 +1678,9 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 21</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 34</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 54</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 22</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 35</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1699,6 @@ Disco is a genre of dance music that originated in the United States in the 1970
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 86</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 89</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 99</li>
         </ul>
       </td>
@@ -1724,7 +1719,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 65</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1743,15 +1738,15 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 20</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 74</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 97</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 98</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 98</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/AIax0burtXTQ39a4ZGeIBfjLyb3ojvErYT4ycq5Tg1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIx/NDk3LTE1ODk3MTA0/MTYtOTAxNy5qcGVn.jpeg" alt="Cover for Renaissance" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1780,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 20</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 26</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 77</li>
         </ul>
@@ -1842,8 +1837,8 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 5</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1887,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/343bd4f2d53d0b2a603a64945565b2bb.png" alt="Cover for Vaxis II: A Window of the Waking Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,9 +1921,9 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 59</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 63</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 60</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 66</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 97</li>
         </ul>
       </td>
@@ -1985,13 +1980,13 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 28</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 35</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Y7X5ieUSix2UKpHimJZAEWJgJabxFs_7bodU8l1y3JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTcz/NDY0LTE2OTIwMzc0/NTAtMTcwOC5qcGVn.jpeg" alt="Cover for Gravity" style="max-width:120px; height:auto;" />
       </td>
@@ -2041,7 +2036,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2061,7 +2056,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b694e16456a937c6d71e1300e6f08380.png" alt="Cover for Chic (2018 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,7 +2075,7 @@ Disco is a genre of dance music that originated in the United States in the 1970
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>

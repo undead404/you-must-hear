@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:46:05.746Z
+date: 2025-11-23T08:47:46.374Z
 permalink: tags/future-house
 title: future house
 ---
 
 ## future house
 
-Last updated: <time datetime="2025-11-17T05:46:05.746Z">Mon Nov 17 2025 07:46:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:47:46.374Z">Sun Nov 23 2025 10:47:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -74,7 +74,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/eQKbZPqojmswMFj-Ap4M84pYx2dsM9kzAIQlDp_LRjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ3/NDk0LTE2NjkxMjk3/OTAtODc4MC5qcGVn.jpeg" alt="Cover for Wonderwall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5a4f6b7a9fa7c46cf707ca446e95ec7.png" alt="Cover for Wonderwall" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Lucky Luke</td>
@@ -92,7 +92,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/7iMHs8aSJTWrA5hqbXKOP9eT6QCgwIpZPBWGyOxl_Ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQy/MzY4LTE1OTUwODM3/MzEtODA4MS5qcGVn.jpeg" alt="Cover for One" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Y-cT3T-rueYKWsbor-IaD09UQNXfMZRkm3eMiMTvcl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE3/MTE5LTE1NzQxMDA0/NTQtNzg5NS5qcGVn.jpeg" alt="Cover for Rock My World" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/BdLZkswX8A6E76UKHHosO0PukjtB8_--2hnHvOrVj-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg4/LTEzNDQ5MjM0OTgt/NTk2Ny5qcGVn.jpeg" alt="Cover for Vibez" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +152,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/fxgg1nPsMp3l_cVuWj1YSgpdJFAB7Xz46p9wKj5UXu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDEy/OS0xMzExNDk1Nzc0/LmpwZWc.jpeg" alt="Cover for bang bang EP" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95603a309ced8df765697e23d0096204.png" alt="Cover for Tension" style="max-width:120px; height:auto;" />
       </td>
@@ -319,13 +319,13 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 49</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 48</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/uaApbicXHWEReKtIK-9KhI7UbzsJB1t9Thptqi_bd2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjMy/ODkxLTE2MDg5NzEx/NjctNjE4My5qcGVn.jpeg" alt="Cover for I See Light In You" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/BiYIHoobI-CvAJKOqH8VwFb4y562yZHc9n0KEm64Utc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDE5/NjYtMTQzOTMyNTM5/NC0yOTIxLmpwZWc.jpeg" alt="Cover for Circles" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +381,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 90</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -437,12 +437,12 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 26</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/NqTN6vXfSSwi5DHMtzDLvPrJllyLokVvgm5D-fm6t14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzQx/NTgtMTQzMjE1MzU1/Ny05ODE3LmpwZWc.jpeg" alt="Cover for You Gave a Lot and Now You Want It Back and Then Some - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +505,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6f8f063899ec5c1de00ae2947060d3d.png" alt="Cover for MHATLP (HI-LO Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -538,12 +538,12 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 76</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/QvzVMXOfzcEd-bFalFMLv4ZR0KB_qS09pLImSw1vLaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIw/NzItMTUwMDkzNzUy/MC01NjY2LmpwZWc.jpeg" alt="Cover for Thinking Too Much (feat. Hayes) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +564,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/rz1CftdJNjToPp71Sk_TCt8tW8GIZmRpTW7CsLr6lV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDMz/NzQtMTQ2MTcwNDI1/NC0zMDY3LmpwZWc.jpeg" alt="Cover for Like Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -594,7 +594,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 49</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -616,7 +616,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 50</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +637,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 85</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -696,7 +696,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/tbmKRTmpJ7rZkW2o2IQScOKDLuaEYDVKOvlF7fIrELU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzEw/NDItMTQ4NTQ3NTU5/OS0xMTE1LnBuZw.jpeg" alt="Cover for Rocket League x Monstercat - Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -772,7 +772,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Tetriss" style="max-width:120px; height:auto;" />
       </td>
@@ -794,7 +794,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Dm8xkhtBhKpXWkzIyM83eiHkkdoOJqmPqcU7rtkE3f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc0/Mzc1LTE1MjIxNTcx/NDktMjAyNS5qcGVn.jpeg" alt="Cover for Like I Do" style="max-width:120px; height:auto;" />
       </td>
@@ -866,7 +866,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/nsiouMcJpx8x7e4vnRGip0-H53nNuP53A7ywcWhlov4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgx/MDE0LTE1NTMxMjA2/NzQtMTQxMS5wbmc.jpeg" alt="Cover for FUTURE CHALLENGE" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +886,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/sO6XYqcZA5wipA2jhYE63r08ZLrLV_Ip4fQCotiGK3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY4/MDI3LTE1NDc0ODIz/MzEtMTU4Mi5qcGVn.jpeg" alt="Cover for Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +939,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 61</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/5RlUxqyhml4aqDhwzr_uev0ZXmlIBiOfyATK4aIS9yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY0/MjIwLTE1OTM3MDMw/MzItNTU2Ny5qcGVn.jpeg" alt="Cover for Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +996,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/5Wt6JZSKLo-thYa-k3JlUuNepEnADQ1yuYKTxzOTFV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIx/MjE5LTE1OTQ2OTAz/MDctMjM2NC5qcGVn.jpeg" alt="Cover for Gemini" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,7 +1016,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xUPrNSY4Zky3JmUgL3jqaLV0xhjkzxhwiWPthu__98E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQ3/ODY0LTE1OTM0MTM2/ODUtOTAyNS5qcGVn.jpeg" alt="Cover for pomegranate (French Original Extended Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,7 +1034,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/xUPrNSY4Zky3JmUgL3jqaLV0xhjkzxhwiWPthu__98E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQ3/ODY0LTE1OTM0MTM2/ODUtOTAyNS5qcGVn.jpeg" alt="Cover for pomegranate (French Original Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1052,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/_Hm-FdMDXnX30wRm8R4gpJPSsqoJ77b-Ohe-rLvpaM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMz/MzQ1LTE2MDM5OTIw/NjgtNTU4OS5qcGVn.jpeg" alt="Cover for Power of Love - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1071,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/_Hm-FdMDXnX30wRm8R4gpJPSsqoJ77b-Ohe-rLvpaM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMz/MzQ1LTE2MDM5OTIw/NjgtNTU4OS5qcGVn.jpeg" alt="Cover for Power of Love (Original Mix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,10 +1113,10 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 25</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 46</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 54</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
@@ -1143,7 +1143,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/2tVI3sXRilLFZZGmhUuAet_CX428qVIlHAZlAGqjFCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY2/ODUzLTE2MTE5NDk0/NzUtMjA1OC5qcGVn.jpeg" alt="Cover for Don&#39;t Give Up - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1161,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/G4SiZRz6AUKrXET6Z8ATjymoSC5X6nkMY7K86s2wm9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTIx/ODk5LTE2MTYxOTk4/MjQtODM0OS5qcGVn.jpeg" alt="Cover for Tritone EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,9 +1199,9 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 11</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 44</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 13</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1244,8 +1244,8 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 40</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 43</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1271,8 +1271,8 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 38</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 39</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 41</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 42</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 45</li>
         </ul>
       </td>
@@ -1339,12 +1339,13 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 34</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db0fc4a19985a6072d35c503b5fc9b7c.png" alt="Cover for Where U Are (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,9 +1384,9 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 26</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 28</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 66</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1480,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>2023</td>
@@ -1536,7 +1537,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 1</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 2</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 63</li>
         </ul>
       </td>
@@ -1559,36 +1560,12 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 15</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tyler Brooker</td>
-      <td>Until the End (Duet Editions)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5416fe1095d184a42a13018ee16c3fd4.png" alt="Cover for Aurora &#x2F; Dunes" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1589,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1629,7 +1606,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c7c0f10436e5a737ccbdc14220e5a50.png" alt="Cover for Whiplash" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1631,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1672,7 +1649,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d2168f2fdf7359a9d4b36514dcc458.png" alt="Cover for Snake Bite" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1674,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae52df0753914b95f0632570e373ea5c.png" alt="Cover for Until the End" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1699,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6c080d3822550b9ed2c3b165e215e4a.png" alt="Cover for Brainiac" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,7 +1724,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1766,7 +1743,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1786,7 +1763,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45cc10a4801b3ec204933f434d397f87.png" alt="Cover for Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1788,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a20f2527e92df644f10ef54c0e719f3.png" alt="Cover for conasteeti" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1809,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1852,7 +1829,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09605ffa6250d6c5974349e6813549b1.png" alt="Cover for Knuclebuster" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1854,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf105d1930d4286f8b6ae0710a1de653.png" alt="Cover for Upgrades" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1879,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e763ca2054c64f120c3a42f741fba9d.png" alt="Cover for Destroy the Vibe" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1904,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/505e1f7a92a54a4357d7418d5f6e6007.png" alt="Cover for UFO" style="max-width:120px; height:auto;" />
       </td>
@@ -1946,7 +1923,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1972,7 +1949,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d81b8bff893099ab79ae6a8bf122262c.png" alt="Cover for Who We Are" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,7 +1971,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f506c4c719122bd6efdd6a22c51da52.png" alt="Cover for Are you waiting for me" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,7 +1992,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c57da37070ac4c91d00b0f53d32a1fa.png" alt="Cover for Golem (Original Mix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2040,7 +2017,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8d2cb79ea0ae774877e9069f4555d27.png" alt="Cover for Hydroxide" style="max-width:120px; height:auto;" />
       </td>
@@ -2065,7 +2042,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb64f7d7f066650eeadbe4a2ab9353df.png" alt="Cover for Battle Stations" style="max-width:120px; height:auto;" />
       </td>
@@ -2090,7 +2067,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -2099,6 +2076,24 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/159e3cd873f048ea22121f7b6eecdca5.png" alt="Cover for New Age | Dark Age (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Karma Fields</td>
+      <td>New Age | Dark Age (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
         </ul>
       </td>
       <td>

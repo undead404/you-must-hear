@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T09:35:57.663Z
+date: 2025-11-23T08:45:58.805Z
 permalink: tags/industrial-metal
 title: industrial metal
 ---
 
 ## industrial metal
 
-Last updated: <time datetime="2025-11-19T09:35:57.663Z">Wed Nov 19 2025 11:35:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:45:58.805Z">Sun Nov 23 2025 10:45:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
   </thead>
   <tbody>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91b08a7348a86fb992e275dcdb1c5545.png" alt="Cover for The Mind Is a Terrible Thing to Taste" style="max-width:120px; height:auto;" />
       </td>
@@ -44,12 +44,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 70</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/315594a65b29815efabd163ca27a12f9.png" alt="Cover for Streetcleaner" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e47e04a3810a6b46f984aa3118420dd3.png" alt="Cover for Atomizer (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -85,13 +85,13 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 46</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e76460c6f593c075ef69252a9ec9079.png" alt="Cover for Broken" style="max-width:120px; height:auto;" />
       </td>
@@ -104,13 +104,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 79</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/VsI7xllRWFGIfbRtk9PnaLHV3N8dCaxbYhzsIwDTOpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/Nzc2LTE1NTk1MTE3/MjEtMzY1OC5qcGVn.jpeg" alt="Cover for Augen Auf" style="max-width:120px; height:auto;" />
       </td>
@@ -127,12 +126,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 42</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86f03627a387cbbc540ea24cee9cda45.png" alt="Cover for Angst" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +146,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -173,25 +172,6 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a26a4ccaf8e741dea738a12cde72437a.png" alt="Cover for Point Blank" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-03-08</td>
-      <td>Nailbomb</td>
-      <td>Point Blank</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>76</td>
       <td>
       </td>
@@ -206,11 +186,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/815dd8b58b956c43fc66223d9aef0e85.png" alt="Cover for Smells Like Children" style="max-width:120px; height:auto;" />
       </td>
@@ -228,7 +209,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d8ede97979a19d60b596e6802927980.png" alt="Cover for Demanufacture" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +245,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00883740f16bdf5e86459fea6b56e82e.png" alt="Cover for City" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +260,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 88</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -297,12 +278,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 64</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1997-07-21</td>
@@ -333,13 +314,14 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 15</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 79</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6288a8b8d9834e3ece1cfb6d82416cee.png" alt="Cover for Clawfinger" style="max-width:120px; height:auto;" />
       </td>
@@ -355,12 +337,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 48</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d49e3f028b27b6c29df7f84fd5b9bc1.png" alt="Cover for Das Modell" style="max-width:120px; height:auto;" />
       </td>
@@ -392,12 +374,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 73</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88861e1c811e4a5aca0a7e17cf2cab9c.png" alt="Cover for www.pitchshifter.com" style="max-width:120px; height:auto;" />
       </td>
@@ -416,7 +398,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1998-07-27</td>
@@ -433,7 +415,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d908000be26e6155f8e8d9f6802a583d.png" alt="Cover for Obsolete" style="max-width:120px; height:auto;" />
       </td>
@@ -468,8 +450,8 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 38</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 85</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 51</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 86</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 95</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 97</li>
         </ul>
@@ -512,7 +494,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbc2017bc4821572389eb2459538c6cc.png" alt="Cover for Live aus Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -544,13 +526,13 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 5</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 51</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9e61df98a7982fb60cc397c0f4cc4fd.png" alt="Cover for Felons and Revolutionaries" style="max-width:120px; height:auto;" />
       </td>
@@ -568,7 +550,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>1999-11-15</td>
@@ -582,12 +564,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/458cacdde38e4985c9c4c542398e96be.png" alt="Cover for Rebirth" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +587,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dec2aa9e48654db391ecbb36c13cc87e.png" alt="Cover for Musique" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +607,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/afc09d4b0e4249f2bba7bda25c2f803b.png" alt="Cover for The Height of Callousness" style="max-width:120px; height:auto;" />
       </td>
@@ -639,12 +621,11 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>2000-11-11</td>
@@ -662,7 +643,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/666cc31c1af93cf34bb70b5fa215cb63.png" alt="Cover for Sonne" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +675,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 68</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 79</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 92</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 99</li>
         </ul>
@@ -719,7 +700,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7ce015ac8f93f4c1be0efbfa9067758.png" alt="Cover for Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +717,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2001-07-06</td>
@@ -754,7 +735,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f05794858e0b45e9a3e49a2e27c43c98.png" alt="Cover for Life" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +748,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 10</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -790,7 +771,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eca85bfdab8453cc5d7ee5b8cd0c1f7.png" alt="Cover for Synthetic Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -858,12 +839,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 28</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72e6dc90917bc3e9e808fe6175a3a060.png" alt="Cover for Self-Destructive Pattern" style="max-width:120px; height:auto;" />
       </td>
@@ -878,12 +859,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 26</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bbcb5eb2dd244fab080d692910572c6.png" alt="Cover for WWIII" style="max-width:120px; height:auto;" />
       </td>
@@ -899,12 +880,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 32</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55c715fa52cc2c5f78485dcee65b52ec.png" alt="Cover for Past, Present &amp; Future" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +920,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46796680cdd81bf39d142bb6f4133604.png" alt="Cover for Group Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +937,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/VsI7xllRWFGIfbRtk9PnaLHV3N8dCaxbYhzsIwDTOpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/Nzc2LTE1NTk1MTE3/MjEtMzY1OC5qcGVn.jpeg" alt="Cover for Wahrheit Oder Pflicht" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +974,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7ffe125240241b8c1e782ddb79f6d27.png" alt="Cover for Hoitovirhe" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +992,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/707fdfd4da774f14a7e18801c38410f6.png" alt="Cover for Lest We Forget: The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,12 +1023,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9b834dff83f4d23821eaabe1b67b66f.png" alt="Cover for Reign of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1046,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/921545aff6834c17cca3d161a4e86047.png" alt="Cover for Alien" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,17 +1056,16 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 91</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9681f032b79b81e6bf6e6c7deac1b754.png" alt="Cover for Dancing With the Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1083,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25cbe304ea5f48eba613a0374430295e.png" alt="Cover for Niuva 20" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1101,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcdbe333eacf099bacd62499938988d1.png" alt="Cover for Transgression" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,7 +1157,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2006-03-24</td>
@@ -1194,7 +1174,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6a101f23702c226e16dd65858adae9a.png" alt="Cover for Educated Horses" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1192,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/rF7tH3Rlk_qSTi4QSaSJ-HR_9iZkAbggDbih3SpNY8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Nzg3/Mi0xNDk0NTA5NzUx/LTc3NjcuanBlZw.jpeg" alt="Cover for Pirun Nyrkki" style="max-width:120px; height:auto;" />
       </td>
@@ -1245,12 +1225,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 23</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>2006-06-14</td>
@@ -1268,29 +1248,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf42d497af94ec98aea17c49f845585.png" alt="Cover for The New Black" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-07-11</td>
-      <td>Strapping Young Lad</td>
-      <td>The New Black</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 19</li>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5757356375b79320c3993b66dd5ef3ca.png" alt="Cover for Antikörper" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1266,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5204d9aec19c8f01ea16f398d51c3388.png" alt="Cover for Cannibal" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,7 +1284,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddcd351632754a608694efe11a1188a0.png" alt="Cover for Psalms of Extinction" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1302,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de99b18c69b642989772b7b737df300c.png" alt="Cover for Rio Grande Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1320,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/857f1b0dc7924628c6392fb9e51bd27d.png" alt="Cover for Emigrate" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1338,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/H2cRmtoFZHY46AMFH93dLWgnF-Y4ccr8HrD0h_prSRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE0/MTItMTI0OTQzMzMz/Ni5qcGVn.jpeg" alt="Cover for Antares" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,7 +1357,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98cdc3945de9d8fbe7bcf95eacd257e7.png" alt="Cover for Made In Germany 1995 - 2011 (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,13 +1374,13 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 24</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 50</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-08-20</td>
@@ -1439,7 +1397,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td>2008-10-28</td>
@@ -1456,7 +1414,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eb1e3e4d6f5ece3dca7a2138adf5c29.png" alt="Cover for Genexus" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1432,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
       </td>
       <td>2009-01-30</td>
@@ -1491,7 +1449,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f6ebf32ea18a824ae63a166fa4f604.png" alt="Cover for Liebe ist für alle da" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1467,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
       </td>
       <td>2009-11-13</td>
@@ -1531,26 +1489,26 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 30</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 51</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 86</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 99</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 100</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7490afbfef2514178fc69dafa223749.png" alt="Cover for Mechanize" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1527,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/676ebf4e7e3f45d984fe3cc2d8ecd3c9.png" alt="Cover for Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,13 +1545,13 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 46</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f4ffa7b6e3b4406943e2898ddb58321.png" alt="Cover for Device" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1570,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78fa66f476a14a74966647c406b67f51.png" alt="Cover for Venomous Rat Regeneration Vendor" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1588,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/871292129790626e7dfc1cbf8a99ca22.png" alt="Cover for Reincarnate" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,7 +1607,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/-f4k0PNzNg1AmUSYHH-eD_JLHb0mAMFyKnxqrLchi0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjg1/MjItMTU0Mzg5MjA4/MS04NzA3LnBuZw.jpeg" alt="Cover for Silent so long" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1625,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b33c41c2866b7deabb88ae2ff0f63977.png" alt="Cover for Psalm 69" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1643,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5a2f0aa7982d595d0a7bc0fc1c59264.png" alt="Cover for Skills in Pills" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,7 +1661,32 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a23e849496d9004507175d1aedab1e72.png" alt="Cover for Fish On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-09</td>
+      <td>Lindemann</td>
+      <td>Fish On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 35</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Pam-9mWF-kEFFG7HrwbMw6UGiOYkC9HZAkuwwrqZu88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjg1/ODMtMTQ3NjIzOTU5/Ny05NjgwLmpwZWc.jpeg" alt="Cover for DOOM (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,8 +1704,8 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       <td>
         <ul>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 32</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 82</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 91</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 88</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1728,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7292cee7344cdeacde28c0518541d0b.png" alt="Cover for Chapter I" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1752,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 50</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 71</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 72</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 98</li>
@@ -1777,7 +1760,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/171ce22f1c920551b973f83e1c33fe8c.png" alt="Cover for Chapter II" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,6 +1782,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 15</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 72</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 73</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 84</li>
@@ -1824,7 +1808,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 74</li>
         </ul>
       </td>
@@ -1846,16 +1830,16 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 84</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 58</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 88</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 90</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 95</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf35ae2319c204f9ebdeeed6dec91e5e.png" alt="Cover for Herzeleid (XXV Anniversary Edition – Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1857,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ecfe8f56916397a16923e7c44dddbfd.png" alt="Cover for Scoring the End of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,12 +1872,12 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 41</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/GaECk-Odh7W54CdssTlnxY8onVLiciGigb8JCK3uM9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAx/MjgtMTY3OTc4NTcw/OS03MDY0LmpwZWc.jpeg" alt="Cover for RAT WARS" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,7 +1899,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbe4b1469b50ae4f91ecaa42f72b619b.png" alt="Cover for RAT WARS" style="max-width:120px; height:auto;" />
       </td>
@@ -1952,14 +1936,14 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 43</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 56</li>
             <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 99</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1968,6 +1952,23 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f49087c9eb1441ba57eafa8f539723f0.png" alt="Cover for ANTI-ICON" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ghostemane</td>
+      <td>ANTI-ICON</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1986,7 +1987,7 @@ Industrial metal is a subgenre of heavy metal music that incorporates elements o
 - [death metal]({{ "/tags/death-metal" | relative_url }})
 - [nu metal]({{ "/tags/nu-metal" | relative_url }})
 - [black metal]({{ "/tags/black-metal" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
 - [alternative metal]({{ "/tags/alternative-metal" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
 - [gothic metal]({{ "/tags/gothic-metal" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})

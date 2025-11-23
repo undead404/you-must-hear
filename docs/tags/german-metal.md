@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T08:03:23.059Z
+date: 2025-11-23T08:45:48.292Z
 permalink: tags/german-metal
 title: german metal
 ---
 
 ## german metal
 
-Last updated: <time datetime="2025-10-30T08:03:23.059Z">Thu Oct 30 2025 10:03:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:45:48.292Z">Sun Nov 23 2025 10:45:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
     <tr>
       <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03d74594d4cbdf1a8455a9e20be3ff2a.png" alt="Cover for Breaker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f3991cb8f694732a1b20e3f5e427da0.png" alt="Cover for Breaker" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-03-16</td>
       <td>Accept</td>
@@ -61,7 +61,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 29</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -87,7 +87,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/kjf3tRkHyQ-4gOZ6BqzHT0UWBGTmavWfCP_t9COUXdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc2/OTItMTYwNTk2NDE5/NC04MzAyLm1wbw.jpeg" alt="Cover for Satan&#39;s Gift" style="max-width:120px; height:auto;" />
       </td>
@@ -102,12 +102,12 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 93</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>1986</td>
@@ -124,7 +124,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1952473179eee23c645fdd82ce9a367f.png" alt="Cover for Reign Of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -140,12 +140,12 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 13</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c90e895bd0c942c0c29179da2e23c061.png" alt="Cover for Port Royal" style="max-width:120px; height:auto;" />
       </td>
@@ -159,12 +159,12 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 8</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1773031f59c11f7991ece53119edf5c3.png" alt="Cover for Never In Security" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +204,26 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab6e8b387dd0d4739f29a5f2c2e1bd3c.png" alt="Cover for Brain Damage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-10-24</td>
+      <td>Vendetta</td>
+      <td>Brain Damage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/7uB3ORSio8Jcn2TMiwxGH7eWoMaqVEoGXr_OYCUgcF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkz/MjY0LTE1MjA3NzI0/MzctNjM4Ni5qcGVn.jpeg" alt="Cover for Keepers Live" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +243,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 4</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -262,12 +281,12 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 75</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5080e7dcda3485cb8f6900d5aaf56c3.png" alt="Cover for Out To Launch" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +380,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/c5NnqewlWCTnfW8-vWR8b0hLekV943FXPH-hwU1uBtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEx/MTUtMTM0ODk0NTc0/MC0xMjg1LmpwZWc.jpeg" alt="Cover for Waiting For The Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +417,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a327acf4f98c8191a20b1aae2cfedab7.png" alt="Cover for Live for Sale!" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +492,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4678464aad1c42bcbde166739061c521.png" alt="Cover for Voodoocult" style="max-width:120px; height:auto;" />
       </td>
@@ -491,7 +510,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/-qrQdSlK_OylFq3M5x3AkPiHiNGRazoRztQO7_0ysrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjI0/MTItMTQxNzM3MTMw/MS00NjM4LmpwZWc.jpeg" alt="Cover for Reborn Into The Neverwhere" style="max-width:120px; height:auto;" />
       </td>
@@ -549,8 +568,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5afd1cf53fb22e6052bf386d4e595d7.png" alt="Cover for Outcast" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-07-22</td>
       <td>Kreator</td>
@@ -562,7 +582,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 80</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +648,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35f5bab1011e68c6797bd86fa4a41936.png" alt="Cover for Excalibur" style="max-width:120px; height:auto;" />
       </td>
@@ -639,23 +659,6 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
             <li style="font-size: calc(1rem * 78 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td>1999-12-14</td>
-      <td>Caliban</td>
-      <td>A Small Boy And A Grey Heaven</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
@@ -697,7 +700,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 15</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -721,9 +724,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/worBtjrLk8VtlDDmqL8CxW2hIO369iDwWCyhHtjf3nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTM2/Ny0xNTg5MzIyNDQ3/LTUyNjUuanBlZw.jpeg" alt="Cover for Never Kill The Boy On The First Date" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aceab9e8a8d3e25c5b64c8427c56af20.png" alt="Cover for Never Kill The Boy On The First Date" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-08</td>
       <td>Waterdown</td>
@@ -755,7 +758,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 75</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -773,7 +776,8 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 38</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +837,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/AeDdzm9teL9CXFZZ8JxNHsYcpMlQNDKJTeeRaUlbPdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDA5/MzctMTUyNTE1NzAx/Ny0xNzQ2LmpwZWc.jpeg" alt="Cover for No Rest Yet!" style="max-width:120px; height:auto;" />
       </td>
@@ -851,9 +855,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/pVG8K_sah8hXhw4i-CxFCZ7lyn_vPjKdy17_PQoe7n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTc5/NTEtMTQ2ODEyODg1/MS03MzM1LmpwZWc.jpeg" alt="Cover for Myth Or Reality" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f72c7832e056ef44c3f9b3036fee8baa.png" alt="Cover for Myth Or Reality" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Minotaurus</td>
@@ -864,6 +868,24 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f6d47cd7944b678993300b99862f27.png" alt="Cover for The Opposite From Within" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-13</td>
+      <td>Caliban</td>
+      <td>The Opposite From Within</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
@@ -893,7 +915,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/_qNfYdXEDOsFmNBa6R7LaLTreM1mbqXP4LhQ10411pE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzAz/NDItMTMwMjk2NjE0/NS5qcGVn.jpeg" alt="Cover for In Carni Veritas" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +975,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1df457e027a445ec97e7c4304bf39b92.png" alt="Cover for A New Promise" style="max-width:120px; height:auto;" />
       </td>
@@ -962,9 +984,6 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       <td>A New Promise</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
         </ul>
       </td>
       <td>
@@ -973,7 +992,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc938446ec5df5d571ed18e946d6c1b4.png" alt="Cover for The Truth Behind" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1033,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e890540fe4f7592265fdde106ee1433.png" alt="Cover for Macbeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1071,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/lhBBb_rtYn94_VvuzEMnMADdg5SGU90QkhQ2OEtxUSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk2/ODEtMTI1NzcxOTk2/MS5qcGVn.jpeg" alt="Cover for Old Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,9 +1113,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/rk2a8uBke9-Neylb-pOzdCGWWVq5ZBSAkqlVKHa00tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzEz/NzktMTYxODk4MDk2/NS0yMjcwLmpwZWc.jpeg" alt="Cover for The Awakening" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68791c701ecf40e3c0200ab9d456a459.png" alt="Cover for The Awakening" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-28</td>
       <td>Caliban</td>
@@ -1112,7 +1131,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e65441d652847ecb9f2ef72954739d3.png" alt="Cover for New Religion" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,14 +1167,14 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 32</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/SVQRylIMJKE6maDuANMjXlJjLWN_x9KRT1Ai5lZiO1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM0/MTc4LTE1NDI4NDE3/NTYtNjUxOC5qcGVn.jpeg" alt="Cover for Fire At Will" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f7ea80e14c64d4e8613ff3637d4a6db.png" alt="Cover for Fire At Will" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Thirteen Wars</td>
@@ -1181,13 +1200,13 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 35</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 64</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 46</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/wBAYVQFQRzyOgTYM0pgRODKQdMWjXvWe7uEvqci_XZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ0/NTY2LTE1NjQ2MDc2/OTItMzEwMi5qcGVn.jpeg" alt="Cover for [kwIn&#39;tes sens]" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,7 +1227,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2008-06-01</td>
@@ -1252,7 +1271,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2009-01-16</td>
@@ -1294,6 +1313,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcc10b4856516e0d92d8b268d6901ad6.png" alt="Cover for Salute To The Iron Emperors" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-31</td>
       <td>Truppensturm</td>
@@ -1310,12 +1330,12 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       <td>
         <ul>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 51</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 56</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75f7db92b5bb44bbb2a7df1e7359cb21.png" alt="Cover for Live in the USA" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,13 +1354,13 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 37</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 34</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Pz_Qzqgrv-0WLv-XopTHKs5WOu8m23XRntHTpx3Jzd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUx/NzAtMTM1MDEwMDUx/NC0xNDYwLmpwZWc.jpeg" alt="Cover for Blood River" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1385,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/n5ODfv-5buMTm3kHXH8oNK7_yGkIVKOTeZYNnvN6ZH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDkx/MTAtMTMyNjgzNjAx/My5qcGVn.jpeg" alt="Cover for The Haunting" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,8 +1411,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8924477c457d405c8ae82b39e24c7190.png" alt="Cover for Nyktophobie" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Kalypso</td>
@@ -1433,7 +1454,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b444605f5af7458383b9c1d2e689e59c.png" alt="Cover for Nunc Est Bibendum" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,9 +1472,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/mXtSepOG2DljpdcPM2OPw7wcKmtnLzcDJTY1uYo-VDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njgx/ODktMTM4MDg4ODA1/Ni0xMzI2LmpwZWc.jpeg" alt="Cover for Sterling Black Icon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/641690d4e4314bbb81a33b75fee78af2.png" alt="Cover for Sterling Black Icon" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Fragments Of Unbecoming</td>
@@ -1473,7 +1494,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2012-08-14</td>
@@ -1491,7 +1512,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f84aedf8b8f481fb7de1f32cb64fdfd.png" alt="Cover for Arminus, Furor Teutonicus" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,26 +1529,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>93</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34f55f6ffcfb47ad954761fbc2ba8368.png" alt="Cover for The Invocation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-12-07</td>
-      <td>Attic</td>
-      <td>The Invocation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b812217ae7b515bcb158466fb6a15c9.png" alt="Cover for Zombie Attack (2017 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Tankard</td>
@@ -1546,7 +1550,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>2013-11-15</td>
@@ -1568,9 +1572,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/KTgF_zIhvYGS494bBiA46Yi5ZmNU2cl2IpO1F4zLLC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzcw/MzctMTQyMDU0Mjc0/My04Mzg0LmpwZWc.jpeg" alt="Cover for Approaching Conflict" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18704af836e9e0b4e34e1fe4e04790e3.png" alt="Cover for Approaching Conflict" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Truppensturm</td>
@@ -1597,7 +1601,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/JQOgIlXEo3D1_fSyN3JjfAov4c19pTBYhMdOpqlsXjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk3/MjE1LTE1MTE2ODIz/MjktNTE0Ni5qcGVn.jpeg" alt="Cover for Iron Blade" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1be184ffe02addd625b66a338802cfb6.png" alt="Cover for Iron Blade" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Iron Blade</td>
@@ -1616,7 +1620,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/m_hilWZXMCCQsLv6PZ-9gyp37stPOfq2-hhtnmcNhJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc1/MjczLTE1MTUxODcz/NDktMzU2Ny5qcGVn.jpeg" alt="Cover for Destroyer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52a6ef3c0e7f4d69cd93ad85cfc5720a.png" alt="Cover for Destroyer" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Forever It Shall Be</td>
@@ -1654,8 +1658,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb65760d4664670c6fafb727a9ffb56.png" alt="Cover for Evil Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-04</td>
       <td>Diabolic Night</td>
@@ -1678,7 +1683,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28030a894b0ecaa5495bcab4be380cba.png" alt="Cover for Rise and Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1703,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/MWqqnhd8VC0eo6m8cKokaXbiRYM9Zvk_kPC98lxxdKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzA3/NDItMTQzOTA2NDk4/MS0yNjY0LmpwZWc.jpeg" alt="Cover for Septem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0f275b18aa487b937f8466df209718.png" alt="Cover for Septem" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-26</td>
       <td>Grey Season</td>
@@ -1725,7 +1730,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/5fcXW6NWsgnYMBChmY5kjsjPlbvC9n0C3-9Oqq4cAJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTE5/ODgtMTQ1Nzk4OTIy/MS02NTMxLmpwZWc.jpeg" alt="Cover for primitive powers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7912b2b90cf90614dfb84c4fb65820e.png" alt="Cover for primitive powers" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-28</td>
       <td>Beehoover</td>
@@ -1749,7 +1754,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/L48tnCESilkmBw109bjcfOoyg1MnM1zjzHcovmnHtsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk1/MTU3LTE1NDcyNDQ2/MjQtMTA1NS5qcGVn.jpeg" alt="Cover for Guided By The Waves" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1796,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/_Sukdj-SM_eKPr4w2AI2ELvlEWl9awOJ-5oNfC92Wh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjIyLTE1MDc3MjY2/NDYtOTEwOS5qcGVn.jpeg" alt="Cover for The Insanity Abstract" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1867,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/zv-WJlCvCq3ynPLdA1KOa_LlFsSpTNtsTew6qf2y21Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc3/NDUyLTE1NDc2NTE5/NzItODQ1My5qcGVn.jpeg" alt="Cover for Damnatio ad Bestias" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37daee42d81355e2081de6459cdd983f.png" alt="Cover for Damnatio ad Bestias" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-02</td>
       <td>Subduer</td>
@@ -1884,9 +1889,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Yj1l6OF6YrELoiPfbWLTE58yPqgBwC8oIcIwpNwSrTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/NTkxLTE1MjUxNTg1/ODAtODY2Ni5wbmc.jpeg" alt="Cover for Death Monolith" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/974d76fa877a7f5c6e6d636fc5e96373.png" alt="Cover for Death Monolith" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-01</td>
       <td>Subduer</td>
@@ -1906,14 +1911,14 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 23</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 24</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 77</li>
             <li> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/BA8v-RUKqEN8LBD_dqqCzfALfZbAZcDgA8xdopNxVGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI0/MTcyLTE1Mjg3ODk4/OTMtMTg0OS5qcGVn.jpeg" alt="Cover for Verkommener Zeitgeist" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1936,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d84599c27d031ecf5b9b61ac3b0adeb8.png" alt="Cover for Danse De Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1956,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/AfdojdQ9qSbGF6UhHQFQSR04F_f9fKytRrNdppJN01U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY0/MzE4LTE3MDc0OTUw/MjMtNjI0Ni5qcGVn.jpeg" alt="Cover for Call Of The Sirens" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1974,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/X5-FAn1IEg0-ILUpmFdnq56u386knmhza9Hnn4MbqRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg3/NDQtMTMzMDAzMDE1/MC5qcGVn.jpeg" alt="Cover for Eugenesis" style="max-width:120px; height:auto;" />
       </td>
@@ -2049,7 +2054,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2024-07-12</td>

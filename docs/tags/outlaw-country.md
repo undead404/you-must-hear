@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:37:22.374Z
+date: 2025-11-23T08:48:34.535Z
 permalink: tags/outlaw-country
 title: outlaw country
 ---
 
 ## outlaw country
 
-Last updated: <time datetime="2025-10-28T06:37:22.374Z">Tue Oct 28 2025 08:37:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:48:34.535Z">Sun Nov 23 2025 10:48:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ZfVxe-JqK6MpncgIIRzg3fAsbIbGFHtPs8TNymg73-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIw/NjI3LTE1NjQwOTIy/OTYtNzUwMS5qcGVn.jpeg" alt="Cover for The Complete Sun Masters Part 1" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/sJgh6Vw2qoBX9rb_gCArEc12wQaEN_e8UJSXKa-Shvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDEw/NzMtMTQzNzk3NTQ0/Mi02MDcxLmpwZWc.jpeg" alt="Cover for Family Tradition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4602225f0de0ace5c1e7aac31efa0db.png" alt="Cover for Family Tradition" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Hank Williams Jr.</td>
@@ -70,8 +70,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8394adab046ab5ad05c1a8a7fd80266.png" alt="Cover for Penitentiary Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>David Allan Coe</td>
@@ -88,7 +89,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg" alt="Cover for Wanted! The Outlaws" style="max-width:120px; height:auto;" />
       </td>
@@ -106,16 +107,15 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/m-hfzIiknzs7Ot77Hkv184H1QUAAcFyjXRfPQQol_FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODMw/MzMtMTY0NzgxNDAx/Mi01NzI3LmpwZWc.jpeg" alt="Cover for Shotgun Willie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4674ca5218661c1a8b7b15e4c265f501.png" alt="Cover for Shotgun Willie" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-07-11</td>
       <td>Willie Nelson</td>
       <td>Shotgun Willie</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
         </ul>
       </td>
       <td>
@@ -124,8 +124,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f6a9b42b8677a1ac006302b25f391d.png" alt="Cover for Honky Tonk Heroes" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-07</td>
       <td>Waylon Jennings</td>
@@ -133,7 +134,6 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
         </ul>
       </td>
       <td>
@@ -142,8 +142,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7678cc195f1648ecc88c21104307dcec.png" alt="Cover for Phases and Stages" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-03</td>
       <td>Willie Nelson</td>
@@ -160,8 +161,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff44030ab0df9fb0440d5f183bbb0ae5.png" alt="Cover for Ridin&#39; High" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Jerry Jeff Walker</td>
@@ -175,13 +177,14 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 6</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e519028471154fde5255accbb4e9e59d.png" alt="Cover for Red Headed Stranger" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Willie Nelson</td>
@@ -214,9 +217,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/ZKPLGtenOePBiRPMB6ZUGOa01kKqY1ReXPLIWslyDlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYw/ODAwLTE1ODQ3Nzc1/NzItMjYyOC5qcGVn.jpeg" alt="Cover for Dreaming My Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/016d9b5cdb1ddf8701fe1a7bee33c5ac.png" alt="Cover for Dreaming My Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-06</td>
       <td>Waylon Jennings</td>
@@ -252,8 +255,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1febd310572dc974547def255d9d6435.png" alt="Cover for Ol&#39; Waylon" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-04</td>
       <td>Waylon Jennings</td>
@@ -270,7 +274,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/JBRFI5tyh1qEbMEnb-wROTFqBS3K99r0tzZZ7N4P3PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQ3/MzgtMTY4MTQ3NTk3/My02NzE4LmpwZWc.jpeg" alt="Cover for TNT" style="max-width:120px; height:auto;" />
       </td>
@@ -289,8 +293,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f501713d305f19950825842d049ea51a.png" alt="Cover for Stardust" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-04</td>
       <td>Willie Nelson</td>
@@ -307,8 +312,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31fbe9acb9e14b4098d185406facb09b.png" alt="Cover for I&#39;ve Always Been Crazy" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-09</td>
       <td>Waylon Jennings</td>
@@ -327,7 +333,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/AfMmOVpcXU_BZ6toWxXb5z20s1dhjvJZFjBaZQkTpWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI0/NzMtMTQ5MzM0NjAz/MC01NTY2LmpwZWc.jpeg" alt="Cover for The Mysterious Rhinestone Cowboy" style="max-width:120px; height:auto;" />
       </td>
@@ -349,7 +355,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/nxFEqZNbcYXi7VDSAvrGW4fLd0L954N57CUN5lnnHRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzk1/NzgtMTM1ODM5MDQy/NS04ODcxLmpwZWc.jpeg" alt="Cover for Abilene" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eab817cf982f354ed61cde55fc458888.png" alt="Cover for Abilene" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Waylon Jennings</td>
@@ -366,7 +372,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/OFv9-ivYCTtlMTYMY77fdke3Bo3ADgK0GzqLEmXkxfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTc2/NjctMTQ3MjMzNzQx/OS03NjgyLmpwZWc.jpeg" alt="Cover for Biggest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +412,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/OZOYowp8qByXGf4z5ukaQR5HJR6iDNgQvNL7ezMB1SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTEw/NjgwLTE2MTE4NTI4/NDQtNTkzNi5qcGVn.jpeg" alt="Cover for Honeysuckle Rose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30cae7c4fc9030c2abb5e7d1dfac1bed.png" alt="Cover for Honeysuckle Rose" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Willie Nelson</td>
@@ -424,7 +430,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/GjknvS56H5dYLPx_fBaJNMQtp9PqsF9w_EFhwDOM1fY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEz/MTUtMTYyMzU2OTg5/OC0yNTg2LmpwZWc.jpeg" alt="Cover for Wanted! The Outlaws" style="max-width:120px; height:auto;" />
       </td>
@@ -442,7 +448,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/GkXxdMomfpndNuTLZDb0JWnlkcC2mJOOd5fRAh8759M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjMy/MTEtMTM0OTM3MDM5/MC04NjMxLmpwZWc.jpeg" alt="Cover for For the Record (The First Ten Years)" style="max-width:120px; height:auto;" />
       </td>
@@ -460,8 +466,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd17104c15a59d982a01201b45f7b80e.png" alt="Cover for Major Moves" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Hank Williams Jr.</td>
@@ -479,8 +486,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6343e4801cdb75593f646916e6f1fa4d.png" alt="Cover for 17 Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>David Allan Coe</td>
@@ -496,7 +504,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/GkXxdMomfpndNuTLZDb0JWnlkcC2mJOOd5fRAh8759M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjMy/MTEtMTM0OTM3MDM5/MC04NjMxLmpwZWc.jpeg" alt="Cover for For The Record- The First 10 Years" style="max-width:120px; height:auto;" />
       </td>
@@ -515,9 +523,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/pztd485_dNwUUY6MeC4GsSo7c9yOi05OOgPgOW3kXt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NjgtMTUyNzYwNjEz/NC00NjM0LmpwZWc.jpeg" alt="Cover for Take This Job And Shove It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0de91e9125bd488bb525b955383c0c.png" alt="Cover for Take This Job And Shove It" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Johnny Paycheck</td>
@@ -537,7 +545,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e2bcaf2a2596a5bf9db9559fa519b65.png" alt="Cover for Boats to Build" style="max-width:120px; height:auto;" />
       </td>
@@ -556,7 +564,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/aCiMd0ambh986g69hDR_7516LLd1Xi3JlNUVDgo25i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzY5/NTktMTQ4NDkzNzA1/Mi00NzE0LmpwZWc.jpeg" alt="Cover for Super Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +582,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>1993-06</td>
@@ -595,7 +603,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>1994</td>
@@ -611,9 +619,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/MX7zhEBpPR38s6hnPptn6eCqTBfJmC_VczMxMC1E5jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/NjAtMTI1NDMwODI0/OC5qcGVn.jpeg" alt="Cover for Willie Nelson &amp; Friends" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4373b63b16b2008294567d6a7ec87d53.png" alt="Cover for Willie Nelson &amp; Friends" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Willie Nelson</td>
@@ -632,7 +640,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/qpxHSzazpb4n-V5k7gHmMSdRxrPsnx7mm-O9asaJ-Ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjM1/ODAtMTQ4ODk4NjY3/OC01Nzc0LmpwZWc.jpeg" alt="Cover for Carnival Of Excess" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/759b4436c0d491f22ff0da8b2ad368ff.png" alt="Cover for Carnival Of Excess" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>GG Allin &amp; The Criminal Quartet</td>
@@ -648,8 +656,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/045705551f984e03aa8b386d7aac8c63.png" alt="Cover for Dublin Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-04-04</td>
       <td>Guy Clark</td>
@@ -668,7 +677,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/zmvabZOODmc8MiiWuV9Kc6h1S17lM9zyy1IC46ky8ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEx/NTA0LTE1NDk5ODEw/MTAtNzA0OS5qcGVn.jpeg" alt="Cover for The Essential Highwaymen" style="max-width:120px; height:auto;" />
       </td>
@@ -686,7 +695,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1997-03-25</td>
@@ -703,7 +712,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/JMiXetCMRxEVX2Eb6-XdpXOmtWL-nGotxe3nlmd0_QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTA5/OS0xMTg4MDQ3NDgz/LmpwZWc.jpeg" alt="Cover for At San Quentin: The Complete 1969 Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -723,6 +732,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35782664974955f997e519942b2a53d0.png" alt="Cover for Recommended for Airplay" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>David Allan Coe</td>
@@ -736,14 +746,14 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 85</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/VZRxkRcaPVGDUNmLd3TLa9kAgOWyA_xE_Pai3BDTp-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzQz/NDEtMTQ0NzY4NDQ2/MS03NzUwLmpwZWc.jpeg" alt="Cover for Truckers Finest - Bikers Best" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11ea7c35872f4fdaae713bf43700e19b.png" alt="Cover for Truckers Finest - Bikers Best" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>J.R. LEONARD</td>
@@ -761,7 +771,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/8B3XlHepYRd9SqGOfLClTtN31pqtMtlBm_3q470dWvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTQ3/OTIyLTE2MTc1NTk1/MzQtMjA4Mi5qcGVn.jpeg" alt="Cover for The Essential Waylon Jennings" style="max-width:120px; height:auto;" />
       </td>
@@ -779,8 +789,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/221ae75aefa846df93dd7434ac12c445.png" alt="Cover for Risin&#39; Outlaw" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-07</td>
       <td>Hank Williams III</td>
@@ -794,31 +805,13 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 93</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/nthL4ox9C2WB9z-gp7mlUTaxb6VF2-oVPICQ7im3GDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE0/NjEtMTI4NjQxMDg3/OS5qcGVn.jpeg" alt="Cover for So, you want to be a bullfighter" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>American Anodyne</td>
-      <td>So, you want to be a bullfighter</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/hYd0nGiwEWexIS3MGAU1HA5A4orzNkOijoePyhcWig4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE2/Mjc2LTE1MjY2MjAz/ODItNjcwNi5qcGVn.jpeg" alt="Cover for A Tribute To Waylon Jennings - I&#39;ve Always Been Crazy" style="max-width:120px; height:auto;" />
       </td>
@@ -842,6 +835,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe0c01148dc6441c8b4495c22486a246.png" alt="Cover for Live At Billy Bob&#39;s Texas" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>David Allan Coe</td>
@@ -857,7 +851,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/IrGdp5FFL5BXa3L15CZG8lzG-_p5Ag57LVFGRdKFWJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU5/MjgtMTI5NTY2Mzcw/MC5qcGVn.jpeg" alt="Cover for Indians Cowboys Horses Dogs" style="max-width:120px; height:auto;" />
       </td>
@@ -875,9 +869,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/iW5dy8dIE1Ma-arpymA2kStg1ncdP9QyRGwL2kewT-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI5/MDgtMTQ1OTY0NDEy/Mi0zNDc1LmpwZWc.jpeg" alt="Cover for The Essential David Allan Coe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32270742d51c89da1777d0baac1c890c.png" alt="Cover for The Essential David Allan Coe" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-31</td>
       <td>David Allan Coe</td>
@@ -893,7 +887,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
       </td>
       <td>2004-11-02</td>
@@ -950,9 +944,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/j5eHSft5Ewdx04v-0Wn8IJoUmauYD3zEE82IUZnfzSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzgy/MzgtMTQ4NjIwMjgy/NS03NzU1LmpwZWc.jpeg" alt="Cover for Straight to Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47c37da387014a52bc371cc7ebcc5183.png" alt="Cover for Straight to Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-28</td>
       <td>Hank Williams III</td>
@@ -960,7 +954,6 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
         </ul>
       </td>
       <td>
@@ -969,8 +962,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3075049f6e44c92b2ab7c8c0e853827.png" alt="Cover for The Essential Waylon Jennings" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-01</td>
       <td>Waylon Jennings</td>
@@ -978,7 +972,6 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
         </ul>
       </td>
       <td>
@@ -987,9 +980,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/7NB82uFCIl4K4f8p_3B2FmjEUzBBO69V8N3F-WVYjhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg5/OTAtMTcwNTQ0MDM1/NC05MzAyLmpwZWc.jpeg" alt="Cover for Old No.1 &#x2F; Texas Cookin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe8e3a7e5d8ea9fbacdc45007f284e7b.png" alt="Cover for Old No.1 &#x2F; Texas Cookin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Guy Clark</td>
@@ -1007,9 +1000,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/mMUceRsPHAYt2MobaXCCLzhfRPc64VPDgUHEeWzVlV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTIy/MDMtMTQ3NTQwODAw/NC03MjE4LmpwZWc.jpeg" alt="Cover for Old No.1&#x2F;Texas Cookin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b976a354f5c48898f62b3602b51123c.png" alt="Cover for Old No.1&#x2F;Texas Cookin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Guy Clark</td>
@@ -1027,8 +1020,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1324e2b4033eaf02bc019eb69543db2.png" alt="Cover for Honky Tonks and Cheap Motels" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-30</td>
       <td>Whitey Morgan and the 78&#39;s</td>
@@ -1047,6 +1041,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cd9679a01bcf123324d7548c9c456c6.png" alt="Cover for Ballads and Mental Breakdowns" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-09</td>
       <td>Uncle Sinner</td>
@@ -1070,11 +1065,11 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 50</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 61</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1101,7 +1096,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/VS6Y62R5XYbPtXP56BTvd5lQKT98_PIl_Jny9PMaGws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTc1/MTUtMTM5OTQ4NDYy/Mi03OTY0LmpwZWc.jpeg" alt="Cover for Sittin&#39; by the Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd056b5e756474d8ce722489ac4bd78.png" alt="Cover for Sittin&#39; by the Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Blaze Foley</td>
@@ -1118,13 +1113,14 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 87</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 92</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/6MzQOfy7Kt7NEuMfQYwhWfkAEu7PyrkS41fUBN0C4q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcx/OTIyLTE2NDMwNzMz/MzAtNTA5OS5qcGVn.jpeg" alt="Cover for The Wanting" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,9 +1138,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/6k4ud5PMU4BbPDJ_xkV6swLrykDLN2Q5_0qzWUzuTo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzM0/MTgtMTU1OTczODgw/OC02NTI0LmpwZWc.jpeg" alt="Cover for Old High and New Lows" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50774fe796baf3661ef3972683239a3e.png" alt="Cover for Old High and New Lows" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-16</td>
       <td>Hellbound Glory</td>
@@ -1161,8 +1157,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4be9419d07eb434b88a0892f38fe7b90.png" alt="Cover for Rebel Within" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-25</td>
       <td>Hank Williams III</td>
@@ -1178,8 +1175,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/792bb288c55a64d2ae5a85f86f2b87a7.png" alt="Cover for The Guitar Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-14</td>
       <td>Jamey Johnson</td>
@@ -1195,7 +1193,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2011-01-25</td>
@@ -1209,12 +1207,12 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/Nn9vRs-1ftEjjjoOOLd7fmhcuU1xBSNiOB2Zz2OnATY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODAx/ODctMTUzNDc4Mzg1/NC0yOTE3LmpwZWc.jpeg" alt="Cover for The Grifter&#39;s Hymnal" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,8 +1231,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a0b71b5ae0e4e3ba980df8c9b29cda1.png" alt="Cover for Little Copper Still" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-11</td>
       <td>The Cedars</td>
@@ -1271,20 +1270,20 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 25</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/YQ68a49dVNdlJ1rGU0h3SI8kYWZNqCnnhNXXSmEENcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODkz/MTAtMTU1MzM1MDUw/MS0xNjQwLmpwZWc.jpeg" alt="Cover for Cold, Cold World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/229600f2e0fc0f6137d1f556155c60de.png" alt="Cover for Cold, Cold World" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06</td>
       <td>Blaze Foley &amp; The Beaver Valley Boys</td>
@@ -1299,7 +1298,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/0G-JWtl6g9uTToQ4_BUKXl4NfIWTFkFLiKsTMqtp9TU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTI2/MDUtMTQwNTY0MDQ0/MC03OTIwLmpwZWc.jpeg" alt="Cover for New Old Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1319,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/AZK0UXOvryEqYBw9XodcimO0OpEY3R_kmYqkUhb7qtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcz/Mzc4LTE1ODEzMDYz/MTAtNjEyOS5qcGVn.jpeg" alt="Cover for This Ain&#39;t Country" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1337,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2014-04-01</td>
@@ -1370,14 +1369,14 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/ITeW2F5Y874TwBC5fJhdF5Qz9Dr8wAfpFMwqdMMXkmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzY3/MDUtMTQ3NTQxMDY3/MC02MjQ0LmpwZWc.jpeg" alt="Cover for Imaginary Appalachia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f4ade18e1a61a19b06a28ddb56e8f12.png" alt="Cover for Imaginary Appalachia" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Colter Wall</td>
@@ -1392,7 +1391,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 61</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 75</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 94</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 100</li>
         </ul>
@@ -1401,7 +1400,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/99lXspvJVRVfTU-ZYBrh3LCWpGOpqbxwEBsEqOvVkac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjg5/OTEtMTQzOTk4NDU1/OS0zODQzLmpwZWc.jpeg" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48e523ba9bd118b78083fdaebd1d1f38.png" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-26</td>
       <td>Uncle Sinner</td>
@@ -1425,18 +1424,18 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 46</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 80</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/YJ4HmbsHiAMDf7ls1WTg0DrbvcmcoourdlxDRL6hgxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODA5/MzItMTQzMzI1Njg0/OS05MDQ2LmpwZWc.jpeg" alt="Cover for Django and Jimmie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d853dbc7714067f42f9ae8b62c103983.png" alt="Cover for Django and Jimmie" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-02</td>
       <td>Willie Nelson &amp; Merle Haggard</td>
@@ -1453,9 +1452,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/P64iDIEZsrf3CxF-SOGv6r476M-2AqUTbZqB_pl3_ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTU5/OTYtMTQxNjI4Mjk2/MC01ODIyLmpwZWc.jpeg" alt="Cover for Carnival of Excess" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eb54be87e94e46f6141729371373dc8.png" alt="Cover for Carnival of Excess" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>GG Allin</td>
@@ -1471,7 +1470,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/GxZreT1tDbZ4aMU_cX_4Fqa1ZdFMvMwCRQqnkZ7G7Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDI3/MDEtMTQ3NjU4MjYz/Mi02MTY3LmpwZWc.jpeg" alt="Cover for I&#39;m Not the Devil" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1491,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/b-d-RnnnWGEvOe9tJyz36EzbKGUdqUT_FoWWT1PElpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzQ3/MDQtMTQ2MTE5Nzgx/My0xMzY0LmpwZWc.jpeg" alt="Cover for A Sailor&#39;s Guide to Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b056b3c7be94264caeeeb20ce3c4b09.png" alt="Cover for A Sailor&#39;s Guide to Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-15</td>
       <td>Sturgill Simpson</td>
@@ -1504,13 +1503,14 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/2-EjMC5HhazHb1DqPpmAcBCZwc8RfJ4JbAvomzxMG2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc0/NTEwLTE1MTM4NzI5/NjQtOTI1Ny5qcGVn.jpeg" alt="Cover for Adobe Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51d8e784524525e418304387a1fcd220.png" alt="Cover for Adobe Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-27</td>
       <td>Cody Jinks</td>
@@ -1550,7 +1550,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/FZV2XmCKfdGDji8ccWf-tQWzKmNdKouBEtfsCLh-jOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg5/NDE5LTE1MjA3MDIw/NzItNjQwNS5qcGVn.jpeg" alt="Cover for Relapse" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/fEh7C5DMPIOwPbsVxAGaUAclMsJSceQZP5xfTloTJQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY5/MzU0LTE1Mzg0MDU0/MjQtMTA4Ni5qcGVn.jpeg" alt="Cover for Colter Wall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6baa524578479e33a69c7cff6205e0f.png" alt="Cover for Colter Wall" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-12</td>
       <td>Colter Wall</td>
@@ -1606,8 +1606,8 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 80</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 95</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 82</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1631,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/FSBbyZG7Dz8kY1DPq1bXEjgddry1fj0zrcnj5NqZlzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEy/NjcxLTE1Mjg1NTg1/NDktMjM0NS5qcGVn.jpeg" alt="Cover for That&#39;s All There Is (And There Ain&#39;t No More)" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1652,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/vwJbZnUcmKBEcFK_pwSCbBZNsLfrnHdGqFH7zaoNhxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcz/ODAzLTE1MjU3OTYz/NTktMTc0OC5qcGVn.jpeg" alt="Cover for Mr Honky Tonk" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1672,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/VBx_XMbN8FR7MKfpVweXZsI-t9qs62wS1gTMDyQUUfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA2/Mjc4LTE1MjY0MjE2/ODctMzI0MS5qcGVn.jpeg" alt="Cover for Hard Times Are Relative" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,9 +1692,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/_k4Re9Wm20b7E0RyjgUwjAAVPYptz1iQKv2CsLosLVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUw/NTAwLTE1MjkzMjUx/NTItNTY5Mi5qcGVn.jpeg" alt="Cover for Lifers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2cb74c6f9526201531cc36e8847162d.png" alt="Cover for Lifers" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-27</td>
       <td>Cody Jinks</td>
@@ -1709,13 +1709,13 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 14</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 58</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 22</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/1vkcVuDEvm7yXiQhMfWaKgBANd8GLIL3YIHbPjrE20k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYw/NTIzLTE1MzM2NzM1/MTAtOTQ0OC5qcGVn.jpeg" alt="Cover for Shooter" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,9 +1736,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/EXS5fDHOfAibhMOA87czcHyZ-HwXlUHLrPFKszJPHmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/MTE4LTE2NDg5MTk1/NDUtNzk3OC5qcGVn.jpeg" alt="Cover for Songs of the Plains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/276abf968a3263976563c6f2d7314670.png" alt="Cover for Songs of the Plains" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-12</td>
       <td>Colter Wall</td>
@@ -1754,14 +1754,14 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 84</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 12</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 88</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/j1UkO64PRJNSJT6G6EA2lySM2qySTyY_FC6cPOBVXb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc5/MjY2LTE1ODUwMjcz/MzItNTEwOC5qcGVn.jpeg" alt="Cover for Where the Honkytonk Belongs" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1782,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/uQl5Lp2lfT9puVr8XvMJRr-gCvy67E-gLdpL3aMjOC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQy/ODczLTE1NzA1NzI2/MzAtNzg1Ny5qcGVn.jpeg" alt="Cover for After the Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1800,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/yc0KHQqEziTXRfgUDbwH4vnqOdcGIByoQVNQnmUq90E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk5/NzIzLTE1OTYxNDQy/MTQtNjA4OS5qcGVn.jpeg" alt="Cover for Welcome to Hard Times" style="max-width:120px; height:auto;" />
       </td>
@@ -1819,7 +1819,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/9wqZUwMU-RDg7D67wy27-wB7P3QBniOEEKvorLUxW3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/MjMwLTE2MDIyNzA4/MzAtMjE5Ny5qcGVn.jpeg" alt="Cover for Long Violent History" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,9 +1841,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/oZN57KoLBVSod-fqYm7-33h8iucdRAcw5rwbLHuVrhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDA3/MjctMTI3OTI3MDIy/My5qcGVn.jpeg" alt="Cover for Django and Jimmie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80204118bf8b9f9b354127194c5ce290.png" alt="Cover for Django and Jimmie" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Willie Nelson</td>
@@ -1860,7 +1860,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/OYq2wkh8XlKT6lqpLtlieqIS2U7FfgiX90GHarO5xQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ2/NzU4LTE2MjUxODIy/NjgtODkyMC5qcGVn.jpeg" alt="Cover for ...And Then I Wrote" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,9 +1878,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/4Se9MSioZTOuXEF1f08n_z2ijKzrIzV9lYA5omtQ7uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTY3/MTMwLTE2MzY4MzEy/MjMtMTgxMC5qcGVn.jpeg" alt="Cover for Mercy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41941de6433931fcfe516f78336457f4.png" alt="Cover for Mercy" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-12</td>
       <td>Cody Jinks</td>
@@ -1898,9 +1898,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/MER7aRURJ_KXduxm8nRzZomo9cZQUt076yUMzYbdS5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njc1/NjA4LTE2NzUwNDMx/MTUtOTU1NS5qcGVn.jpeg" alt="Cover for This Machine Still Kills Fascists" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/600df3fdfb15b88edb108ba9f90400f6.png" alt="Cover for This Machine Still Kills Fascists" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-11</td>
       <td>Dropkick Murphys</td>
@@ -1916,8 +1916,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74af1903f362bea9039bbc979ff8658c.png" alt="Cover for Willie Nelson American Outlaw (Live)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1931,12 +1932,12 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 2</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1960,7 +1961,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1985,8 +1986,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cfedb0f561148b1a1108545e2de32c4.png" alt="Cover for Dont Move Or Ill Shoot" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Crazy Mountain Billies</td>
@@ -2004,7 +2006,25 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2a577c9e53fc980b6e7b3bc16bbb94c.png" alt="Cover for Rich Men North of Richmond" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Oliver Anthony Music</td>
+      <td>Rich Men North of Richmond</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
       </td>
       <td></td>
@@ -2030,8 +2050,8 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
 - [americana]({{ "/tags/americana" | relative_url }})
 - [alt-country]({{ "/tags/alt-country" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
-- [blues]({{ "/tags/blues" | relative_url }})
 - [honky tonk]({{ "/tags/honky-tonk" | relative_url }})
+- [blues]({{ "/tags/blues" | relative_url }})
 - [country rock]({{ "/tags/country-rock" | relative_url }})
 - [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [traditional country]({{ "/tags/traditional-country" | relative_url }})

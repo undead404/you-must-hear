@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:37:46.133Z
+date: 2025-11-23T08:49:06.235Z
 permalink: tags/noisecore
 title: noisecore
 ---
 
 ## noisecore
 
-Last updated: <time datetime="2025-10-28T06:37:46.133Z">Tue Oct 28 2025 08:37:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:49:06.235Z">Sun Nov 23 2025 10:49:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/bEQ961nwe117CiWsNvexdMqvKaD7OMVCX0Hdr1IdApk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMw/MjUtMTE5MTUwNTE4/NC5qcGVn.jpeg" alt="Cover for Fear of God" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1990</td>
@@ -100,7 +100,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 7</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -156,7 +156,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 58</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/2z-jkS0sYI3B8KKfhIkntVFsOJI92NK_oOxEFQ3enXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTYz/My0xMzE4MzQxMTE1/LmpwZWc.jpeg" alt="Cover for Buried Secrets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c02eb1e89d992c2ab4631b8b61329062.png" alt="Cover for Buried Secrets" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-10</td>
       <td>Painkiller</td>
@@ -199,7 +199,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/m2ADWRG3Lh6IbvYRyENkvJBQ25PMmfVmeKtlKoCOP1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQx/MzUtMTMwNDA5ODM1/NC5qcGVn.jpeg" alt="Cover for Human Atrocity" style="max-width:120px; height:auto;" />
       </td>
@@ -215,7 +215,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 57</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -234,14 +234,14 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 88</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/rL1uoSgqx-Zvp51tUbHYJ7OfxUZWjg42hroAGSQVDio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTM5/OS0xMzE2ODIwMzQ3/LmpwZWc.jpeg" alt="Cover for Supernova" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b5e05011a94c439e1f2c32af5e4322.png" alt="Cover for Supernova" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-04</td>
       <td>Today Is The Day</td>
@@ -317,9 +317,9 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/I315XWTVWCyxHxToORqwddwiFq4HMpGJ8ML3Z69M0TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODUx/NC0xMTMxMzkzMjg1/LmdpZg.jpeg" alt="Cover for Scratch or Stitch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e5082f4b4bcdbbc05bd509e8dc03290.png" alt="Cover for Scratch or Stitch" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-11</td>
       <td>Melt-Banana</td>
@@ -338,6 +338,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27b42b83bdeae1842870bc2875a384ee.png" alt="Cover for We Are Voice &amp; Rhythm Only" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Destroy 2</td>
@@ -379,9 +380,9 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/m4yllkZlYH6e1dZEkXDbU4FWKdFM8wi_TYLHlqKM95Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzYx/MS0xNDkxNjY5NjE2/LTI3NjUuanBlZw.jpeg" alt="Cover for Temple of the Morning Star" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f75183e80e9333bc92cd11537204daf.png" alt="Cover for Temple of the Morning Star" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-23</td>
       <td>Today Is The Day</td>
@@ -434,7 +435,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/aQLvpZ-XEw4jUOhV54bB3WAH9u0sZes8XdvA9s2ditk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjMz/Ny0xMzE3MjA2NDE5/LmpwZWc.jpeg" alt="Cover for Charlie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0fb0dca00c5127d7fcd96ee8c9b9cde.png" alt="Cover for Charlie" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Melt-Banana</td>
@@ -472,7 +473,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/2QItG6SykLaih885vmsHnxq_S7s9yQMfCY_bKzqZCpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUw/NjUtMTM1MzM2MDU0/MC02ODUwLmpwZWc.jpeg" alt="Cover for Shaping The Random" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9e944ed7e857f67d1f17f200f3f8949.png" alt="Cover for Shaping The Random" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Shora</td>
@@ -526,6 +527,25 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/OYyQ4S58IUPA38QvF8MGtRhYYn9d0ybF0_dECIhEpis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY1/MjUtMTQzOTIxODA5/MS0xNzkxLmpwZWc.jpeg" alt="Cover for Jesus Christ Bobby" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-01-07</td>
+      <td>Minus</td>
+      <td>Jesus Christ Bobby</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>46</td>
       <td>
           <img src="https://i.discogs.com/OzLDGSMaS1G3MYfMNOiebGvyjGTbbaNPZg17Wj-Wbxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDc3/OTEtMTY4MzI5ODk0/MS0yOTgxLmpwZWc.jpeg" alt="Cover for The Locust And Melt Banana Spl" style="max-width:120px; height:auto;" />
@@ -545,9 +565,9 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/JZP8_YygJNbaWML_7PiiKg0xcjgcNE_wU0sJNKb1R2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUx/MTktMTYwMDc3MTI0/OS0zOTkwLmpwZWc.jpeg" alt="Cover for Challenger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54d579c601584311b9998edca04363ee.png" alt="Cover for Challenger" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-03-19</td>
       <td>Knut</td>
@@ -567,7 +587,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/38qVh5ZiDZuWVLQoCKTyxbkclnc31zuvJkAfws-GbFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDg5/MC0xMzAyMzk3MTc5/LmpwZWc.jpeg" alt="Cover for Sadness Will Prevail" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cb270f5f873ab611748e62975db6cf2.png" alt="Cover for Sadness Will Prevail" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-03</td>
       <td>Today Is The Day</td>
@@ -585,7 +605,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/L-YyYewhonLChNnvoShIWWhgFAu-UXcdOJllitXsGUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTIz/OC0xMzMxNTgwMTgx/LmpwZWc.jpeg" alt="Cover for Talisman: Live in Nagoya" style="max-width:120px; height:auto;" />
       </td>
@@ -606,8 +626,9 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff446dab89d1ac9493eee95b638fc85c.png" alt="Cover for Put on Your Rosy Red Glasses" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>The Number Twelve Looks Like You</td>
@@ -665,6 +686,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71609af0b37c0116f26a13df7511394d.png" alt="Cover for Canada Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-12</td>
       <td>Daughters</td>
@@ -683,6 +705,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9f86ba4130245dec5f9111e3792ebe3.png" alt="Cover for We Are The Lazer Viking" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-12</td>
       <td>An Albatross</td>
@@ -700,15 +723,15 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 46</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 48</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 80</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 86</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/gTddMIYwFKYzhaJVbTEbpmoyMl0ua3SzxgrtgEYJ4vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mzk0/OC0xNjE0MTk3MjYx/LTMyOTkuanBlZw.jpeg" alt="Cover for Crestfallen" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +751,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/svX20Lfg8bfnni5Noaz8CpyyPRGyTNYi3E_DKF_HdCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg4/ODctMTI5MjQ1Nzc0/Ny5qcGVn.jpeg" alt="Cover for The Moment" style="max-width:120px; height:auto;" />
       </td>
@@ -808,28 +831,6 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-      </td>
-      <td>2004-09-20</td>
-      <td>Converge</td>
-      <td>You Fail Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 61</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>92</td>
       <td>
           <img src="https://i.discogs.com/9ZL2uz_FX_zWrhAEF6nYC4J0TwQlQcExFycbrW82AlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTU5/ODItMTQ5NDE0NjQ1/Ny0xODUxLmpwZWc.jpeg" alt="Cover for The DNA Will Have It&#39;s Say" style="max-width:120px; height:auto;" />
@@ -874,7 +875,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
       </td>
       <td>2005-03-22</td>
@@ -890,7 +891,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2005-03</td>
@@ -908,13 +909,13 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 27</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 28</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/IjJ3odyf09Ybk3dEF5Y8uWQ4iyyBy4BHRak4N0rh-Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE5/NDItMTU5NjY3Mzkx/NC04MTcyLmpwZWc.jpeg" alt="Cover for Slowly Peeling The Flesh From The Inside Of A Folded Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +937,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/v74SSviFWmWrw8b8e1D1eI-xTp59qMzS2-MTEk8aWjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkw/Ni0xMTE2NDMyMjc1/LmpwZw.jpeg" alt="Cover for Decadent &amp; Desperate" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +960,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/SyeXzV_SlVwwoisc1OLGE3KPWEzGCeOQYwOPEbJhd9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjcz/My0xNDcyMzQxOTE4/LTQyNTAuanBlZw.jpeg" alt="Cover for Sixth in Sixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1f6758044a46d780bf1036c8ccb553.png" alt="Cover for Sixth in Sixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-13</td>
       <td>xbxrx</td>
@@ -975,7 +976,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2005-10-18</td>
@@ -988,14 +989,14 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 27</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 67</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 32</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 71</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2005-11-14</td>
@@ -1014,7 +1015,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/FakzXuT1oCvMiKPeqsLe9lRDZvaqblMSeIxjp3ItnI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzAx/NC0xMTYwNzY5NDg5/LmpwZWc.jpeg" alt="Cover for On The One And The Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1037,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/xycQJi4LAV87F49OAVnvLCXiCYjjLSJN5GGWB98qDXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/ODctMTIwMDk0OTgz/Ni5qcGVn.jpeg" alt="Cover for Uber Om" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,7 +1096,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
       </td>
       <td>2006-01-24</td>
@@ -1133,7 +1134,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04d70835f2bf911ae50c3f991cc92f3a.png" alt="Cover for In Vogue" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,14 +1147,14 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 15</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 20</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 37</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 23</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2006-05-06</td>
@@ -1193,7 +1194,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-11</td>
@@ -1212,9 +1213,9 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/rhVTD53oRf6etWRZPKiRWDd_tiKiAI5EEJFLFWEyvNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc3/ODItMTI2ODQ5OTMx/NS5qcGVn.jpeg" alt="Cover for Ancient Scream Therapy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33a6e5312acc49828d69924cd153fa55.png" alt="Cover for Ancient Scream Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-04</td>
       <td>Blind Myself</td>
@@ -1232,7 +1233,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/6bqSmoAiAXwyeZS8zsndbVfPgx45ZQPWKXtkJ0LIBG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTM0/NjktMTUzNTgyMDg1/Mi0zNjc2LmpwZWc.jpeg" alt="Cover for Rising Son" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,8 +1276,8 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 11</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 12</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 20</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 78</li>
             <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 81</li>
         </ul>
@@ -1317,7 +1318,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 43</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 42</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 53</li>
         </ul>
       </td>
@@ -1325,6 +1326,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f50ff26b74bb43b0c4c6bbe33a57c1bd.png" alt="Cover for Axis of Eden" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-18</td>
       <td>Today Is The Day</td>
@@ -1404,11 +1406,11 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 13</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 14</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 24</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 32</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 38</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 45</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 33</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 39</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 88</li>
         </ul>
       </td>
@@ -1434,6 +1436,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5910f3b37eb9df27ae85eb1d7f7753ec.png" alt="Cover for The Failed Convict" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-18</td>
       <td>Cable</td>
@@ -1475,9 +1478,9 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/wLju-gr8K1gIRvaM7EzeokXvbydqzWuV_fx-T1A60oY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAy/ODUtMTI5NzU1MTk5/MC5qcGVn.jpeg" alt="Cover for Decrease &#x2F; Increase" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6331473e0ea6425a8383dae0f277b7a9.png" alt="Cover for Decrease &#x2F; Increase" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-16</td>
       <td>Wrench In The Works</td>
@@ -1494,14 +1497,14 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/H0r7Vha6Hzj4NxSpJg3CeSTsXNHPmWTqKEoZ03zrPeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/MDItMTMwNzE5MTY4/Ni5qcGVn.jpeg" alt="Cover for Danza 3: The Series of Unfortunate Events" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d68e15f396449da2727d58fc44c29b.png" alt="Cover for Danza 3: The Series of Unfortunate Events" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-06</td>
       <td>The Tony Danza Tapdance Extravaganza</td>
@@ -1521,7 +1524,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/zqWvsbsrNtCF8CSkQgq_8bRWSMuLz9sojQ5oXalwnZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDI1/MjUtMTM4ODg1MTg5/Ny02NjkxLmpwZWc.jpeg" alt="Cover for Gero Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,6 +1546,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad5f43423c95dd859d4f4b8673ec48fa.png" alt="Cover for Molecular Genetics from the Gold Standard Labs" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-24</td>
       <td>The Locust</td>
@@ -1563,6 +1567,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bb035cf54ed4666aca7c4c2912141d4.png" alt="Cover for One Wing" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-28</td>
       <td>The Chariot</td>
@@ -1600,7 +1605,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,21 +1619,21 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       <td>
         <ul>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 16</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 7</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 18</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 43</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Cnyns0HQmNmZKRey4Y6fwG-l-DgGGOCzVPPRMawxl6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/NDU1LTE1MjI3Mzk3/OTYtNjcwMy5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,11 +1647,11 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       <td>
         <ul>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 17</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 17</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 22</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 24</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 23</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 24</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 88</li>
         </ul>
       </td>
@@ -1771,7 +1776,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/7kcJRrcAPChJ8gOYLAWueBxTqzAjYnmKbjRu42fr1Vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYz/MDYwLTE1Mzc2ODE1/MTQtMzk2Mi5qcGVn.jpeg" alt="Cover for I Love You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91e38174cf8c695d34301a211087cf1f.png" alt="Cover for I Love You" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>meth.</td>
@@ -1811,7 +1816,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/0l8xyoeUhKcdgbJMuvPUlbiqOvREfCQfoCHDC4qg6pY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ4/NzA5LTE2NDE2MjI3/NDMtNjAzNC5qcGVn.jpeg" alt="Cover for そして、精液 &#x2F; 収束します" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,8 +1851,8 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 21</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 76</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 24</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1928,12 +1933,12 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 62</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/D-q8s8wRB97Wym83FwOXork1ApzJuQsbLQg_99mRCk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUw/NDgwLTE2MDI1NDU2/MDgtODA0My5qcGVn.jpeg" alt="Cover for パンクの鬼 (Tokyo Anal Dynamite)" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1956,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/D3m4UbHqXuqmt01kw7VgAkE_7b5OKGkUsWquwnUyK1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg4/MjA4LTE2MzkwNjk0/ODktOTM3NS5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,11 +1970,11 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       <td>
         <ul>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 19</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 21</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 24</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 26</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 26</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 26</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 28</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 89</li>
         </ul>
       </td>
@@ -1995,7 +2000,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 48</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 49</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 86</li>
         </ul>
       </td>
@@ -2022,13 +2027,13 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 58</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 59</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/303dbc823c529cfd3ca1277fbf2273e1.png" alt="Cover for Cärlös" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2075,7 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2082,14 +2087,15 @@ Noisecore embraces extreme sonic chaos through distorted, abrasive textures, har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 2</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 11</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 26</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 3</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 13</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 27</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 38</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 42</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
         </ul>
       </td>
