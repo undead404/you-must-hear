@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:08:00.607Z
+date: 2025-11-23T01:31:19.522Z
 permalink: tags/k-pop
 title: k-pop
 ---
 
 ## k-pop
 
-Last updated: <time datetime="2025-11-18T12:08:00.607Z">Tue Nov 18 2025 14:08:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T01:31:19.522Z">Sun Nov 23 2025 03:31:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -161,6 +161,26 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5f51d0b8cc478922d7d2aa5436a5fe6.png" alt="Cover for The Planet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-19</td>
+      <td>BTS</td>
+      <td>The Planet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02b7f0eebe73bbd82e6ee528e6540a61.png" alt="Cover for Permission to Dance" style="max-width:120px; height:auto;" />
@@ -194,7 +214,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 85</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -221,26 +241,6 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2aa1266215542d3c6bf77576150ff211.png" alt="Cover for Perfect Velvet - The 2nd Album" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-03-17</td>
-      <td>Red Velvet</td>
-      <td>Perfect Velvet - The 2nd Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95b042ed368f9b5d36060504519a96ce.png" alt="Cover for The Most Beautiful Moment In Life Pt.1" style="max-width:120px; height:auto;" />
@@ -256,12 +256,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 82</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8589d5f20196f3b7f2a488d66aea1859.png" alt="Cover for The Most Beautiful Moment in Life: Young Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +279,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/YcW3PsOVCNM-aWcusf8YWUFyjqDpofa8mYyG_-HPZoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTY0/NjItMTQ3Mjk2NTQ0/Ny0yMjUwLmpwZWc.jpeg" alt="Cover for The War - The 4th Album" style="max-width:120px; height:auto;" />
       </td>
@@ -297,7 +297,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a354a664839f1b26423da118711dd4d.png" alt="Cover for Why So Lonely" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +317,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc792422929af7a27deb96cb907dd28a.png" alt="Cover for Russian Roulette - The 3rd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -353,7 +353,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/BpZnE3e0cp6uJHeo8JSSh1QxvzbEn2fTOTtNDHJ7xCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUy/MDU4LTE1ODY3MDQ3/MzYtMzI2MC5wbmc.jpeg" alt="Cover for Fate Number For" style="max-width:120px; height:auto;" />
       </td>
@@ -372,7 +372,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05942112ac6f9a94650e61bb60d4030d.png" alt="Cover for SIGNAL" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +458,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 51</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/32-NZ75TNqK5sLsGhpt-8kKUFryPRF6r2oJ0mXQBoT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQy/Nzk5LTE1MTk5MjA5/NDYtMTgxOS5qcGVn.jpeg" alt="Cover for Hope World" style="max-width:120px; height:auto;" />
       </td>
@@ -544,7 +544,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Bm8hQilmFyayeMfAdz4BvPqtyc2DootYH3GatLhXi4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ4/OTUwLTE1Mzc0ODM1/NDctNzU4MC5qcGVn.jpeg" alt="Cover for LIKE A V" style="max-width:120px; height:auto;" />
       </td>
@@ -594,12 +594,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 79</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c1100b20e2eb165f9093a8b6ca5a6ed.png" alt="Cover for LOVE YOURSELF 結 &#39;Answer&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +617,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/37GooIGuXYfXZ46BLepUClIT6Dnirox8UnxnlCteloM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NDU1LTE1NTQ0MDUx/NzctMjA3MS5qcGVn.jpeg" alt="Cover for From.9" style="max-width:120px; height:auto;" />
       </td>
@@ -635,13 +635,13 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       <td>
         <ul>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 46</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 59</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 60</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d505cfe5064d897b8439b51df2bffad3.png" alt="Cover for COLOR*IZ" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +731,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 2</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +769,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 76</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -789,13 +789,13 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 30</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 33</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 32</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/541b479201587185b1d10e0b1e7c2980.png" alt="Cover for ‘The ReVe Festival’ Finale" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +839,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd499743cb9806806d4c8c17038318a8.png" alt="Cover for HELICOPTER" style="max-width:120px; height:auto;" />
       </td>
@@ -857,7 +857,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 74</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 76</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 100</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 100</li>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 100</li>
@@ -901,7 +901,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/T61MnLN-PX-ptnzvZ3bXY93zbkwBm8B0cSuw89Z9oxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/NzY2LTE1OTE0ODMy/ODYtMTIzMy53ZWJw.jpeg" alt="Cover for More &amp; More" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +937,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/XIG4bmT9-dpN5ymKRDe6o3BLWNsdJrFgA9pXZsKv0Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYz/MDQ3LTE2MTk1Mzg3/NTgtNTY1Mi5qcGVn.jpeg" alt="Cover for MAXIDENT" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +952,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -972,7 +972,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 86</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -991,9 +991,9 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 31</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 50</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 85</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 36</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 53</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1048,12 +1048,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 4</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/uGpPR9-q11myj2gYwc-VQwnJjGLMtaXr__g7PMzXJHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQx/NDA0LTE2NjQ0NTkz/NDUtMjM5NS5qcGVn.jpeg" alt="Cover for NOEASY" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,8 +1094,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       <td>
         <ul>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 74</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 81</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 82</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 87</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
@@ -1104,7 +1104,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be1e560ca312ad18977ec59da3ddc101.png" alt="Cover for We play" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,12 +1119,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 73</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3383af7953eb11ebb3f9994b801806f5.png" alt="Cover for BORDER : CARNIVAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1142,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90b0d3e896d6af8ed6be806666ccb175.png" alt="Cover for Last Melody" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1157,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 71</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1182,7 +1182,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4434aa6b3c568b58a3b261739f762c94.png" alt="Cover for The Chaos Chapter: FIGHT OR ESCAPE" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,7 +1197,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 76</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1238,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/799889a45a0aed866919708e1c6913a2.png" alt="Cover for Formula of Love: O+T&#x3D;&lt;3" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1294,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
     <tr>
       <td>76</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b253260c1fc3f12b476a4773a9bfc03.png" alt="Cover for FEARLESS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d930ba65bb061c4c8a7849e3704216cd.png" alt="Cover for FEARLESS" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-02</td>
       <td>LE SSERAFIM</td>
@@ -1310,7 +1310,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d31f7e7d9f82871e61b93ac620016be.png" alt="Cover for DIMENSION : DILEMMA" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1328,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b55dd52225eeeeadbe44c1056c7f7c0.png" alt="Cover for Seventeen 4th Album &#39;Face the Sun&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,12 +1343,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 68</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/NAKbu7sj7rt-kJm6oa_ybT3Uy78k-Zc7tDVV_KXAgtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/Nzc1LTE2NjAwMDYw/NzktODc4OC5qcGVn.jpeg" alt="Cover for Heart Burn" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,7 +1410,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/NO1qZgNjpUKvDsml9EEBYoeFfDezHDwkddI4Gju-TKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE3/NDA0LTE2NTk3ODM1/OTktNzgxOC5qcGVn.jpeg" alt="Cover for we need love" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1425,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 66</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1445,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 81</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1520,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 34</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1541,8 +1541,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 47</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 83</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 49</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1561,12 +1561,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 22</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/eXgYgoZ3GavYrMBfopjr3WDYAQaUdBzZXDYJ8OY3l2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDk0/NjY3LTE2NzEzMDQ4/ODktMTEyMC5qcGVn.jpeg" alt="Cover for CHESHIRE" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1602,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/3Zwwy9JDyt3JCZpZFS2Wpq7pqVO133wcYk6iUe6FRKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTg1/NTkyLTE2NzcwNTU0/OTctNDM4OC5qcGVn.jpeg" alt="Cover for Pandora&#39;s Box" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1617,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 72</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1682,7 +1682,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/qhNVKHSAwSQgA08kRAvVlFf7kip43kJFdx8wO6mlIwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzE3/Mjg4LTE2ODEyMzQw/NDgtODI5My5qcGVn.jpeg" alt="Cover for I&#39;ve IVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1697,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 77</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1753,12 +1753,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 81</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/WJpqiobtZw29WxfachDwGfkeeBEF2iegZJ71tcXQwnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTYx/Nzc5LTE3MDA0MDk3/NzUtOTg3OC5qcGVn.jpeg" alt="Cover for I&#39;VE MINE" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1773,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 67</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1814,7 +1814,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a5885fa630202c9595a23fb01f82685.png" alt="Cover for ORANGE BLOOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1838,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4aa0a84456e661b2bf735ffa93313236.png" alt="Cover for Supernatural" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1855,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 80</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 82</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 98</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 100</li>
         </ul>
@@ -1895,7 +1895,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 87</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1918,7 +1918,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bebc6963de33caea5acb4a5860003041.png" alt="Cover for KILL MY DOUBT" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1933,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 26</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1953,12 +1953,12 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 36</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1988,4 +1988,4 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
 - [rap]({{ "/tags/rap" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [ballad]({{ "/tags/ballad" | relative_url }})
-- [rnb]({{ "/tags/rnb" | relative_url }})
+- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})

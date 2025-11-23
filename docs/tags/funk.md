@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:05:45.677Z
+date: 2025-11-23T01:29:12.175Z
 permalink: tags/funk
 title: funk
 ---
 
 ## funk
 
-Last updated: <time datetime="2025-11-18T12:05:45.677Z">Tue Nov 18 2025 14:05:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T01:29:12.175Z">Sun Nov 23 2025 03:29:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8548323c7d3815cf88bd0d12b6ba98d1.png" alt="Cover for Out of Sight" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f64bc6bdd5bc9f13200d0999ba72635.png" alt="Cover for Funky Nassau" style="max-width:120px; height:auto;" />
       </td>
@@ -80,12 +80,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 20</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/j7LqAZ2GVEoWJDGFyJ-hXQ5SbEQJWf-11zTbh9Ip9v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzY3/OS0xMzMxMjIwODQz/LmpwZWc.jpeg" alt="Cover for There&#39;s A Riot Goin&#39; On" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95e9637d13644200c2ba3706f49a0a16.png" alt="Cover for Cymande" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a7edadaacaa40f4c04afcda0c57a5ee.png" alt="Cover for Talking Book" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd6744c4387d4c618540269acdcb86fc.png" alt="Cover for Bongo Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -159,7 +159,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>1973</td>
@@ -177,7 +177,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a865fca0fa436c3bddc84968b6d9074.png" alt="Cover for Innervisions" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td>1973-09-09</td>
@@ -213,7 +213,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>1974</td>
@@ -230,7 +230,25 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cc86d4bf44b0cde119b107a9d5f62ed.png" alt="Cover for Standing on the Verge of Getting It On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974-09</td>
+      <td>Funkadelic</td>
+      <td>Standing on the Verge of Getting It On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
       </td>
       <td>1975-03</td>
@@ -246,7 +264,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45612a04a64329eed8dc158e65f553e6.png" alt="Cover for Why Can&#39;t We Be Friends?" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +282,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45d7958cc1d041f59e983c421c065dd6.png" alt="Cover for Mothership Connection" style="max-width:120px; height:auto;" />
       </td>
@@ -282,7 +300,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07b4c46010944aeeca2d3b09c2a69955.png" alt="Cover for Wild Cherry" style="max-width:120px; height:auto;" />
       </td>
@@ -296,12 +314,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 7</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6155534dd9254005a874e56420374f1a.png" alt="Cover for All &#39;N All" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +337,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96ff47ef7a134e9bce16171de144ac26.png" alt="Cover for Funkentelechy Vs. The Placebo Syndrome" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +355,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6249c4666fbf19ca574994fb9dfb6ec.png" alt="Cover for Prince" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +373,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e62b9c27fab36c9a532e37d73bc15d4.png" alt="Cover for Risqué" style="max-width:120px; height:auto;" />
       </td>
@@ -369,7 +387,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 23</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -390,7 +408,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 5</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 7</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 68</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 88</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
@@ -398,7 +416,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
       </td>
       <td>1980-09-20</td>
@@ -412,12 +430,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 79</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c2fc946064e41dfb44fed3eac7321dc.png" alt="Cover for Dirty Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +470,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aef3d105e469ee25ab045af681529f3e.png" alt="Cover for Street Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +488,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>1981-09-24</td>
@@ -483,7 +501,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 68</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -505,7 +523,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/afcc61cadcfec6363d49db60c344243e.png" alt="Cover for She Can&#39;t Love You" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +542,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ec21e17d7987a7b54f0ba243d73d41f.png" alt="Cover for 1999" style="max-width:120px; height:auto;" />
       </td>
@@ -557,12 +575,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 12</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/QMhC5xdQF5eeghMllUPTUqUDxpWSUIknMX3rxP5cxMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzIz/MDItMTI4Mzc5NzY0/Mi5qcGVn.jpeg" alt="Cover for Sign Of The Times" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +598,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73f7930803e18c8e0b1fb3ae9c30457.png" alt="Cover for Fear Of Music (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -595,12 +613,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 4</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/fixgbX_RJo4tb8wWBi6tqr2kL06T1Krq4DZCySJs_RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTAw/MzQtMTQzMDIyMjA3/NS01MzA3LmpwZWc.jpeg" alt="Cover for Around The World In A Day" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +636,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef3cb45a924ef4383f4ee2a3989f2d6a.png" alt="Cover for Freaky Styley" style="max-width:120px; height:auto;" />
       </td>
@@ -638,7 +656,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/6_NudES4e4MShIKdMCikCLs_D0rD4GPCq4Dlt_jJReg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc0/NjQ4LTE2MTMxMTYx/MTktNDI3MS5qcGVn.jpeg" alt="Cover for LOST IN PARADISE" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +679,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b80376f949dd47bec7c6d7e9e042c799.png" alt="Cover for Blood Sugar Sex Magik (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +702,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/iBmoMjT-KAhr2AeeTRfqaHA2AZF-bDdlpT0OqSTW2QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQ3/NzE0LTE2MTU3NTM4/ODktNjI4Ni5qcGVn.jpeg" alt="Cover for CHAMA MEU NOME" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +780,28 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e41ddc9ecbd4c4dcc4a5631e2752ad8.png" alt="Cover for A2G EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-10-26</td>
+      <td>Blackalicious</td>
+      <td>A2G EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/458760ad7889b0019bee0403fce9629f.png" alt="Cover for Midnite Vultures" style="max-width:120px; height:auto;" />
       </td>
@@ -781,7 +820,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc9802a07c8ba0a6b4868c08a6c97b11.png" alt="Cover for The Now Now" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +841,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1db34820321dd80ad0863a73cc392faa.png" alt="Cover for The Very Best of Prince" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +879,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cf21de2eafd4326c3400f761cace533.png" alt="Cover for By The Way (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -863,7 +902,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fef975b2cf4c416eadee5f765f49ec34.png" alt="Cover for Speakerboxxx&#x2F;The Love Below" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +917,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +961,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c961aaa081c3d4de010fcea1f5a74912.png" alt="Cover for High Times: Singles 1992-2006" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +979,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
       </td>
       <td>2007-02-03</td>
@@ -957,7 +996,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cf2217202c86ce12a9e86475a561f9a.png" alt="Cover for Fancy Footwork" style="max-width:120px; height:auto;" />
       </td>
@@ -974,7 +1013,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/252300e507f7a24ba10d3c10e8a6d9d9.png" alt="Cover for Version" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +1032,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df27954a78474015b4bf9e8a4eb2649f.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,9 +1047,9 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 43</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 38</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1031,12 +1070,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       <td>
         <ul>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 61</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 96</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/721ae1084f2c40f7c04befdff3c1151e.png" alt="Cover for The Odd Couple" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,7 +1093,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba809977f69b4a7c8a04c314760a004b.png" alt="Cover for Make the Road by Walking" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,29 +1111,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/652c631a80594b4e9123c1336c6af8e6.png" alt="Cover for The House That Dirt Built" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-09-18</td>
-      <td>The Heavy</td>
-      <td>The House That Dirt Built</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 37</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 38</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e075aeebcf4ac0103221e099541102d.png" alt="Cover for Green Onions &#x2F; Behave Yourself [Digital 45]" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,7 +1130,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef0fe5aeae8a4e1ccdfc7c9b1b2d9314.png" alt="Cover for The ArchAndroid" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,35 +1143,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 47</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49107e8436930ba29bd02fb4b0d64a8.png" alt="Cover for Head Hunters" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-06-28</td>
-      <td>Herbie Hancock</td>
-      <td>Head Hunters</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 88</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 95</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 96</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee1b97013f854d95cdacfcb695d62dd4.png" alt="Cover for Spilling Over Every Side" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,12 +1166,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 92</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ae2d61597c14a7681a37a77a9f1475d.png" alt="Cover for Business Casual" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,29 +1190,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3e82366ec6110b341016a894f662862.png" alt="Cover for The Lady Killer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-11-05</td>
-      <td>CeeLo Green</td>
-      <td>The Lady Killer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 83</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/HhGI0U8Mb0ZOoNPTI0Z2qNZByfT8YSDaJRQUFXKZfBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTQw/NjctMTQ0OTMzMjk2/OC0zMzAzLmpwZWc.jpeg" alt="Cover for The Ultimate Collection: Jackson 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,13 +1210,13 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 68</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
             <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e888df56f79b4465b35f171ec5544244.png" alt="Cover for By Your Side" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1257,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11dd7e48a1f042c688bf54985f01d088.png" alt="Cover for Random Access Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,9 +1270,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 34</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 88</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 98</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1318,15 +1289,15 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 63</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 78</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 65</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 84</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 93</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac60c75343e441dac19214c756a121eb.png" alt="Cover for Caustic Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1316,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4545d95c53c547fcc74a76fc810eff7b.png" alt="Cover for Fugue State" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,7 +1370,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86b35c4eb3c479da49c915d8771bbd1a.png" alt="Cover for To Pimp a Butterfly" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,23 +1379,22 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       <td>To Pimp a Butterfly</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 58</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 99</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69ca11c7f9235cb2e31a030cf5efca98.png" alt="Cover for Thrill of the Arts" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,7 +1412,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34f855ff5f771a459e5e63d9a3220088.png" alt="Cover for The Beautiful Game" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1449,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee339d3fff04eb1c17f1a37d6283c893.png" alt="Cover for Drunk" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1463,25 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 68</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34d019bbb26456b21ab32a0ac9a7e166.png" alt="Cover for Automaton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-31</td>
+      <td>Jamiroquai</td>
+      <td>Automaton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1513,12 +1501,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 95</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebb6264d491a82ae3e083c4bb0bf19cb.png" alt="Cover for Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1526,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/AHJBR98QEsU7n5xsnjo-orsK8XUvjU1aOHBHgC40SMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk0/MTk3LTE1MTkwODQ1/MDAtMTE1My5qcGVn.jpeg" alt="Cover for an XTRA UUGLY Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1549,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/qad77JQCX-g33MjQkR3p2PzsgtrltvcRSysdQaoUrDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM3/NzkxLTE1ODA3MDM2/MDMtODg1Ny5qcGVn.jpeg" alt="Cover for Avisa que é o Funk" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,7 +1571,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6007e5d822cc18a81cf40203ecd91983.png" alt="Cover for The Fearless Flyers" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,34 +1587,33 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 65</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 67</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfd047b47d9d585b33422ce62b0a50bc.png" alt="Cover for Dirty Computer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc644c9fee7518c6ed186c9b6c8552e6.png" alt="Cover for Pronounced McGee" style="max-width:120px; height:auto;" />
       </td>
-      <td>2018-04-27</td>
-      <td>Janelle Monáe</td>
-      <td>Dirty Computer</td>
+      <td>2018-05-18</td>
+      <td>Mk.gee</td>
+      <td>Pronounced McGee</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 20</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9709ebce9d2b6ee620854e610a3d29.png" alt="Cover for Oh Nanana" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,12 +1630,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 74</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 93</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/jKjZArsweYIJV33kmzifU_fLC3lmtU6CgWmUA0ZbUkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/Nzg2LTE1NTQ1MDk0/MTctNTU3NC5qcGVn.jpeg" alt="Cover for KiSsES" style="max-width:120px; height:auto;" />
       </td>
@@ -1689,7 +1676,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 44</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 46</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 96</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 98</li>
@@ -1698,7 +1685,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77009e4bb113806b0cca55cec31dad3.png" alt="Cover for Oxnard" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1704,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38400dfa7dfc156b978678a61d82d809.png" alt="Cover for Outer Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,7 +1719,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1750,10 +1737,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 89</li>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 92</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 99</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1782,7 +1767,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81ff9e231e5852e054a97e6a3e86bf57.png" alt="Cover for Mordechai" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1785,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae932ad2a94887a2d50235845f19d9bd.png" alt="Cover for Cadê o After? Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1808,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/sfaBzXIBaDoxOjhxT4fLJspZxcB0lCRG06fVqqTb1tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTIx/NTMwLTE2NDQ2MjA4/OTYtNTg5MC5qcGVn.jpeg" alt="Cover for Lady Leste" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,7 +1828,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0131d55433eae8d712a6049b314f1d0e.png" alt="Cover for Dawn FM (Alternate World)" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,7 +1845,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 1</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
         </ul>
       </td>
@@ -1882,7 +1867,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 79</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 95</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 100</li>
@@ -1891,7 +1876,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bec9a3a20eb3f1c1f25f566dbd7a0a1.png" alt="Cover for Quer Dançar" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,7 +1896,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e82446e096e89b9d9aa52b2b797192f.png" alt="Cover for The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,16 +1917,16 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 81</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 84</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 92</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f7f7dd1898a8a92ade19481bdb5f41.png" alt="Cover for Funk Generation: A Favela Love Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1948,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/k2Zjy3vfFR1igkcx5ql0LouLfMErLv1ggX1M8vtmUQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ1/NDIzLTE2OTc3Njk4/NjYtODcyOC5wbmc.jpeg" alt="Cover for Me Chama De Gato Que Eu Sou Sua" style="max-width:120px; height:auto;" />
       </td>
@@ -1981,10 +1966,10 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 47</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 66</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 93</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 48</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 73</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 94</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 99</li>
         </ul>
       </td>
@@ -2007,14 +1992,14 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 9</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 43</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b5b2d895c1ce6c2deed295e3d669539.png" alt="Cover for Astro" style="max-width:120px; height:auto;" />
       </td>
