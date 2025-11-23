@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:46:06.850Z
+date: 2025-11-23T11:31:12.071Z
 permalink: tags/surf-rock
 title: surf rock
 ---
 
 ## surf rock
 
-Last updated: <time datetime="2025-11-19T20:46:06.850Z">Wed Nov 19 2025 22:46:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:31:12.071Z">Sun Nov 23 2025 13:31:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
   </thead>
   <tbody>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/468f9692bef8507ae01b9ea934257317.png" alt="Cover for Surfin&#39; Safari" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1963</td>
@@ -105,7 +105,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/APQbGz1H-5d8-cxFfxqFK7L-cbbLXUQWiRj2iyeNp3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDk0/NTYtMTM4MzEzMDE5/Ny04NTUzLmpwZWc.jpeg" alt="Cover for Wipe Out" style="max-width:120px; height:auto;" />
       </td>
@@ -209,13 +209,12 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 19</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1967-05</td>
@@ -230,7 +229,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 74</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 75</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 100</li>
         </ul>
       </td>
@@ -254,7 +253,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea5db12f7daf88f2b65a6e88d74dd3a.png" alt="Cover for Super de luxe" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +275,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ba514b6f455e60223fbc9857ef59c07.png" alt="Cover for Summer Days (And Summer Nights) [Remastered]" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +313,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b55a0182a73ae1351dafecaad948d99.png" alt="Cover for V Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +355,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 29</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -379,7 +378,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/yqQs5K9Ia6VtcyAewSalzMO9RsJr8Ra7i8BbRGtR5LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA5/ODctMTQzMTU1Mjk0/MC03ODQwLmpwZWc.jpeg" alt="Cover for Basher: The Best of Nick Lowe" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +398,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 41</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +426,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/AB3jeJYXRzlGsg1CRN2c6GFdaIw5kzZrf5LFude6Mz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTc4/MzQtMTQ3MDY2ODgz/NC03Mjk0LmpwZWc.jpeg" alt="Cover for The Original Rumble" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +445,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/UYml7cPdzsTIqdSFQB0lLOeYQeloMmZYWyoIYIaiuZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTYx/MTMtMTM2NDYwMDcy/Mi0zMjc3LmpwZWc.jpeg" alt="Cover for Shut Down Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +483,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1993</td>
@@ -503,7 +502,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbf0d3f3d7074befb1850cd4db76ed32.png" alt="Cover for Destroy all Astromen!" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +522,29 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1994-03-11</td>
+      <td>Lyres</td>
+      <td>Some Lyres</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/RbTA-TPyGQeDFQWNB9rLfh8H98r3m9KbZ3OM8Pc0KkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTAx/My0xMzY0MTc3MTYw/LTg3NTAuanBlZw.jpeg" alt="Cover for Your Weight On The Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +564,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/HMV7pSELSpHH8JOG1zYM_5cpzBSC95ldGIin8rqmufU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDcw/My0xMjMwNzM1MTE0/LmpwZWc.jpeg" alt="Cover for Lamprey" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +606,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/t_Zl4fumNrFJH2MLIZnQCCTgwBLfzzssFOCBPl7li1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTU3/Ny0xMTcwOTEwNjM2/LmpwZWc.jpeg" alt="Cover for Angelfish" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +627,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1996-04-16</td>
@@ -646,7 +667,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1997</td>
@@ -664,7 +685,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/cHry6ZQBUNggHvNkOthvVCDsYgdPjNqW0UuqVLRS138/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDAw/NDMtMTM5ODY4ODg3/Ny02Nzk1LmpwZWc.jpeg" alt="Cover for Surfers Rule" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +704,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Oo3hOq-BGXxOWxiQeoXly63XW2SnGrR5DXcog1uRWEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzU2/MjktMTI1NjE0ODk0/NS5qcGVn.jpeg" alt="Cover for Intensity!" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +722,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/XFHoOplPXQxp_bs4hCCofXGkMmKwvkj0MikrKT1GkoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzA5/NjItMTQ2OTY4NTM0/OS02NDg1LmpwZWc.jpeg" alt="Cover for The Hit List" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +746,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/816c50e7a551418f8978d9b29e9ce9d1.png" alt="Cover for California" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +765,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5ae72a15b3f91ab63a5a3b9e0bdf03c.png" alt="Cover for Full Leather Jacket" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +789,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2001</td>
@@ -785,7 +806,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2001-11-21</td>
@@ -804,7 +825,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ea08206f3864614aa6b8eec48937fb5.png" alt="Cover for Teenage Mojo Workout" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +846,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/cVf3xkBK_wq1JIsHcH34c11WA4Ev7EJ45uEhMFHig8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDg0/Ny0xNTg5NjI3MDg1/LTg3MzYuanBlZw.jpeg" alt="Cover for Sonic Bullets 13 From the Hip" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +864,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/cVf3xkBK_wq1JIsHcH34c11WA4Ev7EJ45uEhMFHig8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDg0/Ny0xNTg5NjI3MDg1/LTg3MzYuanBlZw.jpeg" alt="Cover for Sonic Bullets:13 From The Hip" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +882,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/rrJ-2vmK98rl7iCkb1R1w0YQAlcUQWkwWs5kh3G1yIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTMw/NS0xNTUzMzQ5MjQ5/LTQ0NjguanBlZw.jpeg" alt="Cover for Universal Truths and Cycles" style="max-width:120px; height:auto;" />
       </td>
@@ -882,13 +903,13 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 25</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 31</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2003</td>
@@ -907,7 +928,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2003-02-06</td>
@@ -929,7 +950,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b725600828e4446f863e5645fc9cbcd2.png" alt="Cover for Sounds of Summer: The Very Best of the Beach Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +969,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/IENwvPxtdekXuCoQJR8h2ZEOxDgFgj8JVaL5OH0w1ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAx/MzUtMTI5NzU0NzQx/OC5qcGVn.jpeg" alt="Cover for Bullwinkle Pt. II" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +989,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6925fee849e34b28a8c59e6ae9827642.png" alt="Cover for Room on the 3rd Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +1009,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-05</td>
@@ -1026,7 +1047,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2006-06-06</td>
@@ -1046,7 +1067,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/k2ex3cB6lioGTvKpuUacivUBeL8Rz_qcwPycmMe-r3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjIy/Mi0xNjUwMDkxODE1/LTM0NTMuanBlZw.jpeg" alt="Cover for Pull Shapes" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1111,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2007-10-01</td>
@@ -1109,7 +1130,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/YDaKY8yS1ZPRRa_LP4d14X6K1jqv785J7L6mtIpX04g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDQ1/MTAtMTU5NzE3MTE0/NC0yNzQwLmpwZWc.jpeg" alt="Cover for El Dorado" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1175,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/zbnJKpkQtqDHGbXy8WU8z6e0sckAF7-vjs6uPDBub8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE0/NjItMTM0OTcyNDMz/NC05MTkyLmpwZWc.jpeg" alt="Cover for Surfer Girl (Mono &amp; Stereo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1232,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2010</td>
@@ -1228,7 +1249,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a424b8c87024c6dad7332e07e94efe3.png" alt="Cover for Beach Fossils" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,14 +1280,14 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 23</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 53</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 57</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 82</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2010-09-21</td>
@@ -1282,13 +1303,13 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 5</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 6</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2011-04-05</td>
@@ -1324,7 +1345,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b89c9ae00a949ea8ce360c37a922ac3.png" alt="Cover for Ski Lodge EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1365,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85f10991ded061d3199b0939816de66e.png" alt="Cover for Hollandaze" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1387,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18f7b37c2124296d530cd3f6a3b9f03d.png" alt="Cover for Vacation Wasteland" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,7 +1431,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5deca817f5449b9bc7c1b14deaa3af3.png" alt="Cover for Evil Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1472,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2012-05-22</td>
@@ -1468,7 +1489,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/LVtJ8ximi-YEKUcL1mDVqNY0Rp0m_1hC-uu_Ab63DFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTU3/NzgtMTM0ODQ5ODk2/MS0zNzIwLmpwZWc.jpeg" alt="Cover for Surfin&#39; USA (Mono &amp; Stereo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1507,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2013</td>
@@ -1544,7 +1565,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8297fdbddcf4995c9bce92d5d230fcb.png" alt="Cover for Mystic Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,7 +1605,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc7a9656b3ed4566c57cfc9fc1c2946b.png" alt="Cover for Atlas" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1668,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2014-11-17</td>
@@ -1705,7 +1726,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/mL3cLeeN_u-sJZqVFQ--vuBSJQDN7SiZTQXMnVR09JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODIw/NC0xMjIwMTgyNjg2/LmpwZWc.jpeg" alt="Cover for Crazy Prise" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1746,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2016-09-19</td>
@@ -1779,7 +1800,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 60</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1823,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d778ead25bb74e3114727531d1088da7.png" alt="Cover for We Have No Friends? EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,7 +1862,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2018</td>
@@ -1877,7 +1898,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/S64FjoRsdAb69V3bSr8iu31HKAtyW50DMXKWJn-miIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE0/NDgyLTE1NzIxMDUx/ODMtMTY4NS5qcGVn.jpeg" alt="Cover for BOOM CHAKA BOOM BOOM" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,27 +1912,6 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1c29fa24ff644b5c449f789f02f057f.png" alt="Cover for Girls" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-06</td>
-      <td>Hawaiian Gremlins</td>
-      <td>Girls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1955,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/deq1J7NaoxqG-n_J57vviCd9bPLH5U5rYhqsR9Fdi7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI5/MTA0LTE1NTc4NDk0/MTctODYxMi5qcGVn.jpeg" alt="Cover for You&#39;re Not from Around Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,12 +1973,12 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 91</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>

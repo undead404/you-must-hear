@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T05:16:51.344Z
+date: 2025-11-23T11:30:45.784Z
 permalink: tags/rock-opera
 title: rock opera
 ---
 
 ## rock opera
 
-Last updated: <time datetime="2025-11-14T05:16:51.344Z">Fri Nov 14 2025 07:16:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:30:45.784Z">Sun Nov 23 2025 13:30:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
   </thead>
   <tbody>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/NLCKqTAjE34c4XeeC683W29a5puCvJJBkW35fSTMtF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDAw/ODQtMTUxOTc5Mjkw/Mi05ODcwLmpwZWc.jpeg" alt="Cover for Arthur (Or The Decline And Fall Of The British Empire) [Bonus Tracks]" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52235cd8dcff0161f2279dc8299d0e61.png" alt="Cover for Arthur (Or the Decline and Fall of the British Empire)" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +120,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c217076ff5f189ac57faa42775c242b.png" alt="Cover for A Passion Play" style="max-width:120px; height:auto;" />
       </td>
@@ -155,7 +155,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e52d3cbe5ef3525aa55987cf80466bd.png" alt="Cover for David Live" style="max-width:120px; height:auto;" />
       </td>
@@ -170,13 +170,13 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 4</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 77</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 12</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/lbFfsghBtrgRAvfP2ht7FhxMccRuc6m-QrOb3MuWoU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzQ5/MDAtMTQ5OTIxMDc4/Ni00NjYwLmpwZWc.jpeg" alt="Cover for Jesus Christ Superstar (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/RzB7AnTLkAhNMASfOvu4CLWxoj9tQUBeu8k54C1U1Mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIw/MDItMTY1NzUxNjY4/NS0xMzI4LmpwZWc.jpeg" alt="Cover for Jesus Christ Superstar (2000 New Cast Soundtrack Recording)" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +214,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1edfd465e2c6d85950625add8f9f0ceb.png" alt="Cover for The Lamb Lies Down on Broadway" style="max-width:120px; height:auto;" />
       </td>
@@ -228,7 +228,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -250,12 +250,12 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 31</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/MASVuva9F97lE2UB0lH6pK91xPK_ncmZJe3IFcI_07w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/OTA5LTE1MzExMzk1/OTgtMTg4Ni5qcGVn.jpeg" alt="Cover for Leonardo - The Absolute Man" style="max-width:120px; height:auto;" />
       </td>
@@ -273,7 +273,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>1978</td>
@@ -290,7 +290,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/692bc269c47ed077a348b3d38d629fbd.png" alt="Cover for 2112 (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -308,8 +308,9 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/055cc4e15e884cd3aeddb705832d71d6.png" alt="Cover for The Wall (remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Pink Floyd</td>
@@ -321,12 +322,12 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/I8kIyoUa5_EL2rsfRXodqxp3rwTS2Bz2On7zpyKgLoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjU5/NjctMTMxNjk3NTMy/OC5qcGVn.jpeg" alt="Cover for Гусляр" style="max-width:120px; height:auto;" />
       </td>
@@ -346,6 +347,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/546df98105a551801e0f92de7389cc0a.png" alt="Cover for The Wall" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-11-30</td>
       <td>Pink Floyd</td>
@@ -394,12 +396,12 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 80</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16037e2bdf9709d18d4e77f3dc964e62.png" alt="Cover for The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2015 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +424,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aa847d1f98c4454c4e2909938fc44bb.png" alt="Cover for The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +447,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/781be87e74355cc5cb8db5a5442f7de9.png" alt="Cover for The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -454,21 +456,18 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       <td>The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 39</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 77</li>
             <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 84</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 93</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 99</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dc9453fa0f84b05ad2bf3e6c46df02e.png" alt="Cover for The Rocky Horror Picture Show - Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +484,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/DIQF94hJeElGuWOVfghOd2pfm6Py0PDWng5legvb8PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg1/ODMtMTM1MTg1NjE1/My05NzUxLmpwZWc.jpeg" alt="Cover for Barcelona" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +502,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/9zkbmHKOr8yri3W9jMkeKbvmcFE21mFwSe0QdTuOVHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg0/OTUtMTQyNDQ1NTYw/OS03MTI0LmpwZWc.jpeg" alt="Cover for Joe&#39;s Garage: Acts II &amp; III" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +521,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/gOWn5dhWKsD03SmhztUIf08DAuIH2-nCinWZ7pYtnpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjUw/NDktMTMxODcwNzgx/NC5qcGVn.jpeg" alt="Cover for Joe&#39;s Garage: Act I" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +540,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/967a970f00514bcdab3c3332f156a0aa.png" alt="Cover for Joe&#39;s Garage: Acts I, II &amp; III" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +557,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/r6xM4H89AF9eJ_5KY1h8Hxcii_IFgP_NYNdVYRqFlVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/ODYyLTE1NDgyODM1/OTEtNjAzMi5qcGVn.jpeg" alt="Cover for Quadrophenia (Super Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +576,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/zsrJvYtzx3JuJyE8pANMa5KtVfxSzinWJSOSxwunFXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkz/NzItMTM0NzUwNTcx/MS04NTk2LmpwZWc.jpeg" alt="Cover for Jesus Christ Superstar (Remastered 2005)" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +594,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>1991</td>
@@ -612,7 +611,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-ibR0GKkVJLH3eT038VSOXYCl_5AA3tIf2dZtHy90bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDAz/MDktMTQ0Njc1NjIz/Ni02MjcxLmpwZWc.jpeg" alt="Cover for Streets-a Rock Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +629,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb67100fa72379ba373b2859bf9b4499.png" alt="Cover for Streets - A Rock Opera (2011 Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +651,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d91c45c8a5d483fc8573f9c301a3dc5.png" alt="Cover for The Crimson Idol" style="max-width:120px; height:auto;" />
       </td>
@@ -670,7 +669,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/0mgrlyZpSKk0gyqnd7EoKKCZCYaMj2uvZNPd3ZvluZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODUz/MC0xNDQ4ODI0MDc3/LTcwNzEuanBlZw.jpeg" alt="Cover for Psychoderelict" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +706,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cefa4a176f14e50cee152823e6b9a32.png" alt="Cover for I&#39;d Do Anything for Love (But I Won&#39;t Do That)" style="max-width:120px; height:auto;" />
       </td>
@@ -724,24 +723,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>החברים של נטאשה</td>
-      <td>רדיו בלה בלה</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>1994-05-03</td>
@@ -759,7 +741,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edec1570dc5e6c8929cba79e08ae87d4.png" alt="Cover for The Final Experiment" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +759,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Ev_L1641N1eEOZQhdtJk7BfQlgwJPaeN2eWlMiDAXlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg2/NjAxLTE2Mjk4ODIw/MTctNjYxMS5qcGVn.jpeg" alt="Cover for Jesus Christ Superstar Highlights" style="max-width:120px; height:auto;" />
       </td>
@@ -795,7 +777,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>1996</td>
@@ -833,7 +815,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d5c7cc28d5243038430c046847f6ece.png" alt="Cover for Bat Out of Hell 3" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +834,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/UU9R0a6vKx35-zFSWBfofVpmLUMfC9zYVyu5kl-t9KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU2/MS0xMDg0NjYwMDAw/LmpwZw.jpeg" alt="Cover for Mozart L&#39;Opera Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +872,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/zamuUYpd1dKjscCt67e_UKqeS5LJJPwI4uHugRuTXvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjQ0/OC0xMjgwNDMyODg3/LmpwZWc.jpeg" alt="Cover for The Wall (CD 2 of 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +890,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Fg7XzMYGoZEEFy9gCiLGHz-oIXonG4BUTTDyW7PBpf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODMy/MTktMTY3MTA2MTI4/NS05MTE3LmpwZWc.jpeg" alt="Cover for Nostradamus" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +909,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>73</td>
       <td>
       </td>
       <td>2003</td>
@@ -941,7 +923,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 4</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 54</li>
         </ul>
       </td>
@@ -963,7 +945,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 3</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +972,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       <td>
         <ul>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 47</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 71</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 72</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 84</li>
         </ul>
       </td>
@@ -1014,7 +996,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4aee7197c6e34a1bbba9025c5ff3954d.png" alt="Cover for Эльфийская рукопись" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1014,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb506922f7324c5a82474eb98a31d921.png" alt="Cover for The Human Equation" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,12 +1028,11 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d99678790e5f044e918990dd9f0b5e81.png" alt="Cover for The Lost Christmas Eve" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,12 +1045,12 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 35</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kRBdVpR9pKBGUNZMP4Gd6h9ES14dw-Y34i1TSCPU8gY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTk2/My0xNDYxNTA4Nzgy/LTU4OTMuanBlZw.jpeg" alt="Cover for Jesus Of Suburbia - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1072,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa1086bdfaed35acbce538deec8c13c1.png" alt="Cover for The Protomen" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1110,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/YewEeANg7-4lm3mtL56rdROYQ1rMIZidaFETT4PK5yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTAx/NTQtMTMwMjAzNTcy/OC5qcGVn.jpeg" alt="Cover for The Wall (CD 1 of 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,7 +1148,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/yZ921ksD6NyYB7Tn1Yj4epnji3ax5QohOpyGps7G1YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA3/MjQ5LTE1NzU5NDIx/MTEtMTc2My5qcGVn.jpeg" alt="Cover for Space Crackers" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1166,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/yZ921ksD6NyYB7Tn1Yj4epnji3ax5QohOpyGps7G1YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA3/MjQ5LTE1NzU5NDIx/MTEtMTc2My5qcGVn.jpeg" alt="Cover for Songs Of The Bird War" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1185,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/689349b767c8ead471dc2c129b69d233.png" alt="Cover for The Wall (Music From The Film)" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,8 +1221,8 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 53</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 68</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
@@ -1252,7 +1233,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/F-KqKiqXApn64pnDlnkE1OfZgAP5cZ5M5qiTmX2dFCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI5/NTQtMTI2MTI3NzA1/MC5qcGVn.jpeg" alt="Cover for Faraway Vol. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da1b75981f61440e9a488f12fac761a8.png" alt="Cover for Faraway Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Apocalyptica</td>
@@ -1271,7 +1252,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d3012066c1d443b8f98ab4f0c737f55.png" alt="Cover for 01011001" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,25 +1270,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/yOG5r7J_7RG0LAUiTCXZcIHDyZDfVlGaApH7IYfQ-rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk3/Njc2LTE1NzM3MzYw/NDUtNzA5OS5qcGVn.jpeg" alt="Cover for Manifest Destiny" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-08-12</td>
-      <td>Clawjob</td>
-      <td>Manifest Destiny</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Ywr67nmNA4Uqtc-8zxICsML0tBzXU-RXlgX3EbNrhbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI3/MzktMTIyNzIyNDM3/OS5qcGVn.jpeg" alt="Cover for Repo! The Genetic Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1288,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f210143ac47c809ef051ca61f72747d7.png" alt="Cover for Jesus Christ Superstar (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1345,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.png" alt="Cover for 21st Century Breakdown" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,8 +1360,8 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 18</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 18</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 19</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 26</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 95</li>
         </ul>
       </td>
@@ -1422,7 +1385,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41ddcfb3a1e54b71b0d4649fad24024b.png" alt="Cover for Night Castle" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,12 +1400,12 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 52</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a7a8a29eddb4ab7c51c72773102e55d.png" alt="Cover for Ghost Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1427,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
       </td>
       <td>2011-06-07</td>
@@ -1500,7 +1463,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>74</td>
       <td>
       </td>
       <td>2012-01-30</td>
@@ -1514,12 +1477,13 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 69</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 7</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e2f4044332140e6bfcc5426124b0515.png" alt="Cover for Present: A Night of Queen" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1501,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6872a50bfc7a0421b7cdc6e6a5fabfbd.png" alt="Cover for Mantiis" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,12 +1517,12 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/aAiHfKIUmC7tXfcuFm7vpp-6zeubXLdmVk_8bY2vfzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDM3/MzUtMTM4Mjk3MDYz/NC04NjY2LmpwZWc.jpeg" alt="Cover for Hit List" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1541,25 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1991231cbb492e82a9084690088c0f.png" alt="Cover for The Theory of Everything" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-09-25</td>
+      <td>Ayreon</td>
+      <td>The Theory of Everything</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0ff45eb9834a87af1b5d56f48ece78.png" alt="Cover for Dreams in the Witch House: A Lovecraftian Rock Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1578,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/iijU53aJ6w0nMkmp0l6K5rXzt_Omlt4WwvzgFwNQrl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDY5/NzEtMTQyOTIzMDYx/MC0xNjA0LmpwZWc.jpeg" alt="Cover for Zanzibar III: Analog Prison" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,7 +1596,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/QFpCuC1p4k2F8VIXd5_c9OsUGAWlPTcdYFzLUGLNSCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzM4/NDUtMTQyOTMwNTE4/NC00ODU2LmpwZWc.jpeg" alt="Cover for The Cover Up (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1637,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab93fbe3a288ac9ce9e50403649f70c3.png" alt="Cover for The Source" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1656,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62138fd2313b3bee23705d109a358f75.png" alt="Cover for The Retinal Circus (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1677,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66cade184ee8e05243432d5cf40e2135.png" alt="Cover for Legend of the Light Gem" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,7 +1702,24 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e6b952930a6d99e711a929bea397694.png" alt="Cover for Go To School" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-24</td>
+      <td>The Lemon Twigs</td>
+      <td>Go To School</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/Q5s7BIKoRpzcnhCYDyVLeAjT_fekqWAOXF2A9gfdBGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ2/OTEyLTE1NzY3OTA3/NDctNTYyNC5qcGVn.jpeg" alt="Cover for Hedwig And The Angry Inch: Original Cast Recording" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,12 +1737,12 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 57</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/bLbPDArj-q-P_BU3PinHRn8aUmlJwCdajKahwakrgNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzA3/NS0xMzU3ODE0ODUy/LTU4NTYuanBlZw.jpeg" alt="Cover for Electric Castle Live And Other Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1762,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/psf6Rpi07y1XMopwogvhfdXdVgz0lgXcopGqWF2t_8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU0/MTk0LTE1OTkwMTgw/NjktMjE5OS5qcGVn.jpeg" alt="Cover for ATUM" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1779,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2023</td>
@@ -1797,7 +1796,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ddc0bc84175413c9d2fb58fed4f8b18.png" alt="Cover for Bat Out of Hell II: Back Into Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1814,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
@@ -1835,7 +1834,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
@@ -1853,7 +1852,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
       </td>
       <td></td>
@@ -1871,7 +1870,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1887,7 +1886,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1903,7 +1902,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>
@@ -1919,7 +1918,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e06f235d701ef090e8a76e81780c1965.png" alt="Cover for Bat Out of Hell" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T13:06:47.723Z
+date: 2025-11-23T11:27:12.116Z
 permalink: tags/motown
 title: motown
 ---
 
 ## motown
 
-Last updated: <time datetime="2025-11-17T13:06:47.723Z">Mon Nov 17 2025 15:06:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:27:12.116Z">Sun Nov 23 2025 13:27:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/aa4skzKCMUmMGN1gqWTPcCf9sOzbUTwyV-og_OfccR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg1/NjYtMTUyODY1ODYx/Mi05NTg0LmpwZWc.jpeg" alt="Cover for Shout" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f229614d9d620b042adec02f09045db.png" alt="Cover for The Miracles Live" style="max-width:120px; height:auto;" />
       </td>
@@ -240,6 +240,23 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a508891a28554d88f97ef5db9d0df40.png" alt="Cover for The Dock of the Bay" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-02-23</td>
+      <td>Otis Redding</td>
+      <td>The Dock of the Bay</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>43</td>
       <td>
       </td>
@@ -276,7 +293,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>1969</td>
@@ -293,7 +310,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ab6a3f0da1712887a58834fd462a9a9.png" alt="Cover for Aretha&#39;s Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +329,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b295a6d466a5aa762b519bdfb263f83d.png" alt="Cover for Cloud Nine" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +365,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 24</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +403,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 44</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -443,13 +460,13 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 75</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 94</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 81</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d0318ac76fe986f6f8df58a8e070e07.png" alt="Cover for The Singles Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +535,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 82</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -540,13 +557,13 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 46</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 50</li>
             <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/OP7VLaePKjOzGKiEJTTOrsq_ClCfHyI8QJ4U4_ps_-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mzcw/MjMtMTQ0NzczNzE0/Mi03NDE0LmpwZWc.jpeg" alt="Cover for Ultimate Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +599,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27a8380398269f7507ad46e6e9062bf8.png" alt="Cover for Back Stabbers" style="max-width:120px; height:auto;" />
       </td>
@@ -596,13 +613,13 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 27</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 26</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecbdc8d79568fd1332c04256f5328161.png" alt="Cover for Syreeta" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +788,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acada13b04a1ecb3585895a8484f5abc.png" alt="Cover for Foxy Brown" style="max-width:120px; height:auto;" />
       </td>
@@ -808,7 +825,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae01114a36304a01ae317252d76d199f.png" alt="Cover for Forever, Michael" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +861,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/RP_bEEV8lbyxDqTCsTRBpJKz8fOpo5g2Cp9wAxOH-oE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTM3/NTYtMTM0NjI3NjUy/OS04NzM5LmpwZWc.jpeg" alt="Cover for City Of Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +923,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/OClmW8Aj6W-yG0-EPVMXt7UqTlGW98LHEMM7mcu2rj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQ2/MTQtMTM5MTYxMTAx/NC00MjUxLmpwZWc.jpeg" alt="Cover for Motown 50" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +960,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ce4de3f3409694d6819c15df27313d.png" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -957,26 +974,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 10</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5f9d781fa6a6eda1ab386a895a8d935.png" alt="Cover for The Best Of Spinners" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1978</td>
-      <td>The Spinners</td>
-      <td>The Best Of Spinners</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/motown" | relative_url }}">motown</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1032,7 +1030,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 46</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1111,12 +1109,12 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 5</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/676ec3bdd6b64d1fbe4881df826494b1.png" alt="Cover for Greatest Motown Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1132,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>1987</td>
@@ -1151,7 +1149,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/u79V1OOPH4QJqEdRNSoL4uM-bUEUiTVqh0X62UcW8dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTMx/MzItMTQyNDc1NzI1/Ni04NzE5LmpwZWc.jpeg" alt="Cover for Back to Front" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1186,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4390d2a62209b6b4ed2360431b8b1ab8.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,12 +1199,12 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/KBX7KVUAovnciZU_dHc_KSIU4_z0WYyiYs1NxRiXzkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/Njc5LTE1NjgyODY1/OTQtNzY2OC5qcGVn.jpeg" alt="Cover for Motown&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,7 +1222,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f6b6a2c991246bcbeed6dc56927ff37.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,6 +1261,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7b3c234f9a74f41b97926b5320cf3bf.png" alt="Cover for The Best of Marvin Gaye" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Marvin Gaye</td>
@@ -1370,7 +1369,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/bAN38Fz8UcWJy4FyXdjmEYB8_eYeM5s4SaF2kPsopcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzg5/MC0xMzY2NDc5MTM4/LTMxNjAuanBlZw.jpeg" alt="Cover for Daft Punk" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,14 +1519,14 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 52</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 66</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 70</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 53</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 70</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c0362f7d3dd42849cd0ddb39b7caddd.png" alt="Cover for The Very Best Of Aaron Neville" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1744,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 51</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1883,8 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 68</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 10</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
         </ul>
       </td>
     </tr>

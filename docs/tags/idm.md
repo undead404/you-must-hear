@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:37:40.716Z
+date: 2025-11-23T11:24:03.618Z
 permalink: tags/idm
 title: idm
 ---
 
 ## idm
 
-Last updated: <time datetime="2025-11-19T20:37:40.716Z">Wed Nov 19 2025 22:37:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:24:03.618Z">Sun Nov 23 2025 13:24:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/CRKgTH5LCYFyjYOlkrZ_V2_3YfiAtaz7kOkOMNZidJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA1/NjktMTQyMzI1MDk3/MS0xNjEyLmpwZWc.jpeg" alt="Cover for Analogue Bubblebath" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19c6b91658b8465ac6093eb840cc7b1f.png" alt="Cover for Quoth" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d509b1a9eed899c492c9f99b5032232f.png" alt="Cover for Amber" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeec7283158bb224548d635a8ee8737a.png" alt="Cover for Donkey Rhubarb" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62c1051bbfa76d491944a8b6a73db0ba.png" alt="Cover for Tri Repetae" style="max-width:120px; height:auto;" />
       </td>
@@ -277,7 +277,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5624707bac3c217549fb1583a101908b.png" alt="Cover for Boc Maxima" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f5dcf6f899faab5723aa25feb177f0.png" alt="Cover for Hi Scores" style="max-width:120px; height:auto;" />
       </td>
@@ -333,7 +333,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59b2527ecfe74ff2cfebc1aa54d721ce.png" alt="Cover for Chiastic Slide" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +351,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0fa6274d724b6993752e98c20a05d3.png" alt="Cover for Big Loada" style="max-width:120px; height:auto;" />
       </td>
@@ -409,13 +409,13 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 66</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 67</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9c0dd8c14268459816ff50015a59f1e.png" alt="Cover for LP5" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +452,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/961d45d7350942959a3c8b926f8fccb1.png" alt="Cover for Rest Proof Clockwork" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +472,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaf3fa985cfd4b43a3189ebc8bd7c75d.png" alt="Cover for Tides" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +490,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d330797c2daadf57d80fbdc287803a27.png" alt="Cover for In a Beautiful Place Out in the Country" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +507,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02f3dda4fe9195bc5d31c638afbd0471.png" alt="Cover for Confield" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +525,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10933fe3506687359d501d569d0c125b.png" alt="Cover for Tiny Foldable Cities" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +584,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bd098ca3cb9731b92213c3b9c4cb2df.png" alt="Cover for Fahrenheit Fair Enough" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +602,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/umqT4wfzU5LdiUHfrV-ZxsVcvbPhUHFQd0uCOCnqzxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjIx/LTEzMjk1MjEzMTMu/anBlZw.jpeg" alt="Cover for Fairenheit Fair Enough" style="max-width:120px; height:auto;" />
       </td>
@@ -620,28 +620,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9781bfa7a04b6ea769dc573f691d77.png" alt="Cover for Life Is Full of Possibilities" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-10-30</td>
-      <td>Dntel</td>
-      <td>Life Is Full of Possibilities</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 25</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0c1511b79b6a4a86d55fdd36ea9b3b5.png" alt="Cover for Geogaddi" style="max-width:120px; height:auto;" />
       </td>
@@ -659,7 +638,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b28e77d9552a9b70313372e46f29100c.png" alt="Cover for Whole Numbers Play the Basics" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +659,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88bc4e47d4ffc0eab18f8759e96be5ac.png" alt="Cover for Immediate Action #8" style="max-width:120px; height:auto;" />
       </td>
@@ -716,10 +695,10 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 5</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 20</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 23</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 57</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 73</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 81</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
@@ -727,7 +706,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bb7e3245220bd03a2034a5a9b70f2ef.png" alt="Cover for Rounds" style="max-width:120px; height:auto;" />
       </td>
@@ -746,7 +725,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6641b895bbb54554b642d404bf6e2f0b.png" alt="Cover for Duplex" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +744,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a1c958c2f8c45ee8e421a44700cd7ea.png" alt="Cover for Socially Inept" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +762,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/741c5f4224e54218c27b0fcee6a85fe2.png" alt="Cover for Map of What Is Effortless" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +781,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/def12a069b24441ac49520ab6e771630.png" alt="Cover for Crying Over Pros for No Reason" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +801,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ba2e394e5916fa54d3a40d8701d208f.png" alt="Cover for Sorry I Make You Lush" style="max-width:120px; height:auto;" />
       </td>
@@ -837,6 +816,26 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6f7de3405b842f2c2bc76ac474a788c.png" alt="Cover for Analord 01" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-01-24</td>
+      <td>AFX</td>
+      <td>Analord 01</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +855,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 31</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 32</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 66</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 98</li>
         </ul>
@@ -883,7 +882,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5623cb01461c95b41f5c8dff5be4492f.png" alt="Cover for Chosen Lords" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +901,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/610957709f05fd667bf4ff5012e8418f.png" alt="Cover for Body Riddle" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +940,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43625c927a14e579746d7487aa9a0bd5.png" alt="Cover for Foley Room" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +959,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a6d84c8608124497ee6e3ac7bebfaa2.png" alt="Cover for Walls" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +977,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td>2007-06-22</td>
@@ -991,12 +990,12 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 29</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21454d12002243c399eeb8954fa28a60.png" alt="Cover for Happy Birthday!" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,7 +1033,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/697e68a6d5a94b2c8a0b080b37482bf5.png" alt="Cover for Still Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1051,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b2beb08d64e3aa7d4367dd9854a277c.png" alt="Cover for Hazyville" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1087,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/227c97fc80f3325dd7e6348c1f8bb31b.png" alt="Cover for Immolate Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1173,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c8cfbb16cde4430b43b5d5a1b3369b1.png" alt="Cover for Totems Flare" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,13 +1225,13 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 1</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 3</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab525946fc124dd9b33de74e6df78827.png" alt="Cover for Righteous Fists of Harmony" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1250,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59f42af89bebd4a0db4ef0453e8d10e0.png" alt="Cover for Black Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1290,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09dac7b50f845d491c5b5b3fd5b9cc4.png" alt="Cover for Nothing Else" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,7 +1310,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13b027387a8d473f94d42ea5357ee8db.png" alt="Cover for Arboreal" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,7 +1346,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a5cc229bdb44195c13b8b1041edc0b0.png" alt="Cover for Monsters (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,8 +1363,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 19</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 52</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1390,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f439c332a12b40ecbfdbf831603f3437.png" alt="Cover for We Can Make The World Stop" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1474,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe3f2bd2eb7f19d68ee0d9abae0605d8.png" alt="Cover for Iradelphic" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,12 +1488,12 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 7</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0daa4feaa5ac45cda5e9bed08ffe0ece.png" alt="Cover for R.I.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1511,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e9da8fe116c45e680be9bdc7b6ddeda.png" alt="Cover for Yore" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1528,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 73</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1553,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb443115954f4feb9f5ef22f11138b15.png" alt="Cover for Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,38 +1574,14 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 12</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 57</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 13</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 58</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6051263a36ad604cbe0542205aa701ce.png" alt="Cover for ZABA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-06-05</td>
-      <td>Glass Animals</td>
-      <td>ZABA</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 24</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 59</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 64</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 70</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 74</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
       </td>
       <td>2014-06-14</td>
@@ -1623,7 +1598,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/XdhLFPNOr1Y4K6zWt-YWMXm_Uv3af-_yzw01QYqsg9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTIz/ODQtMTQwMzM2MTYz/OC03MjA1LmpwZWc.jpeg" alt="Cover for All Under One Roof Raving" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,7 +1658,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bc8159c3e8109b73bbe255c9ede60fe.png" alt="Cover for Xen" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,12 +1673,12 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 39</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c47a75f46b4ed4196d4496cd9fba4b04.png" alt="Cover for Hangable Auto Bulb" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1697,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b7e7e8270078cd1918497c0f74a7a3.png" alt="Cover for Computer Controlled Acoustic Instruments pt2 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1715,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/_i1p-KZtxH2h87DkVZXimEYJmdNfHmsmat3DJMZkU2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDI3/ODQtMTQ1MzI3OTQy/MS0yODQ3LmpwZWc.jpeg" alt="Cover for Older Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1739,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6034caebe375c59d1e211249ae81b6.png" alt="Cover for Interview 2016" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,14 +1756,14 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 29</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 31</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/OXhYc3IYGj4HA-TP_nRYlFowEPa5-5Gm-nYGq1zsdbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDU2/MTAtMTQ1NTU2MDcy/Ny01NTk0LmpwZWc.jpeg" alt="Cover for Ultimate Care II" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1784,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/0h41GtfM3a9FiywDpEiqnXBUiIQANA7bORLX3P1_bPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzIw/NTktMTQ2NjI3NDM1/OS03ODAzLmpwZWc.jpeg" alt="Cover for Levitate" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,7 +1808,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d924ec87fb74e1e2cc003c785bf3a710.png" alt="Cover for Cheetah EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,12 +1824,12 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 34</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/658d3f2aee9fbf5f02e6cf6a6a4266c3.png" alt="Cover for Persona" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1849,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/489553a300d47e084a371d457a24cb25.png" alt="Cover for A View of U" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1868,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       <td>
         <ul>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 35</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 52</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 53</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 81</li>
         </ul>
       </td>
@@ -1914,14 +1889,14 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 54</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 53</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 55</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d10a47f627e48bbb46ca72f0de6dc3f.png" alt="Cover for This" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,7 +1936,37 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c673083164dcc3e5531dff854980bd55.png" alt="Cover for XYZ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-19</td>
+      <td>Iglooghost</td>
+      <td>XYZ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 39</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 45</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37ee29aae5af43079536e0c7ad3abf8b.png" alt="Cover for Shipwreck" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1985,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eedfa9ab75f69afdcf931f8dca9eac06.png" alt="Cover for Tread" style="max-width:120px; height:auto;" />
       </td>
