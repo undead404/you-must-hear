@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-22T17:00:17.245Z
+date: 2025-11-22T17:04:35.237Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-22T17:00:17.245Z">Sat Nov 22 2025 19:00:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T17:04:35.237Z">Sat Nov 22 2025 19:04:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [southern rap]({{ "tags/southern-rap" | relative_url }}) | <time datetime="2025-11-22T17:04:35.237Z">Sat Nov 22 2025 19:04:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-11-22T17:00:17.245Z">Sat Nov 22 2025 19:00:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-11-22T16:54:01.182Z">Sat Nov 22 2025 18:54:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian metalcore]({{ "tags/christian-metalcore" | relative_url }}) | <time datetime="2025-11-22T16:52:34.204Z">Sat Nov 22 2025 18:52:34 GMT+0200 (Eastern European Standard Time)</time> |
@@ -552,7 +553,6 @@ Last updated: <time datetime="2025-11-22T17:00:17.245Z">Sat Nov 22 2025 19:00:17
 | [atlanta]({{ "tags/atlanta" | relative_url }}) | <time datetime="2025-11-14T23:28:25.793Z">Sat Nov 15 2025 01:28:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [alt pop]({{ "tags/alt-pop" | relative_url }}) | <time datetime="2025-11-14T23:27:38.376Z">Sat Nov 15 2025 01:27:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [crunk]({{ "tags/crunk" | relative_url }}) | <time datetime="2025-11-14T23:24:25.827Z">Sat Nov 15 2025 01:24:25 GMT+0200 (Eastern European Standard Time)</time> |
-| [southern rap]({{ "tags/southern-rap" | relative_url }}) | <time datetime="2025-11-14T22:51:37.311Z">Sat Nov 15 2025 00:51:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [synth rock]({{ "tags/synth-rock" | relative_url }}) | <time datetime="2025-11-14T22:42:55.657Z">Sat Nov 15 2025 00:42:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [uk hardcore]({{ "tags/uk-hardcore" | relative_url }}) | <time datetime="2025-11-14T21:51:58.704Z">Fri Nov 14 2025 23:51:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [hyperpop]({{ "tags/hyperpop" | relative_url }}) | <time datetime="2025-11-14T21:17:38.255Z">Fri Nov 14 2025 23:17:38 GMT+0200 (Eastern European Standard Time)</time> |
