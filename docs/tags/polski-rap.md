@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T01:39:25.967Z
+date: 2025-11-23T12:08:38.393Z
 permalink: tags/polski-rap
 title: polski rap
 ---
 
 ## polski rap
 
-Last updated: <time datetime="2025-11-11T01:39:25.967Z">Tue Nov 11 2025 03:39:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T12:08:38.393Z">Sun Nov 23 2025 14:08:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/8vh34zDqZqpcgVeF2ViaeNxE0vdR_ofJNxugyueBGlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDkw/My0xNjU2Nzg5NjQw/LTQyMTAucG5n.jpeg" alt="Cover for Nieopatentowane patenty" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/feb9a9ae845c42bd9f74fce6ed1c5b3e.png" alt="Cover for Księga Tajemnicza. Prolog" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0268bfd0ccf166c3f8b45aedf73c9f41.png" alt="Cover for W 63 Minuty Dookoła Świata" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2df35ab82215d660007239d79ca36050.png" alt="Cover for Szelma" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Q-EL8twOF_B6eJi_Gm6CHMu30NxPQIHFt_XbyluoUWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/MjYtMTYwNDY4NzA5/Ny0yNzU5LmpwZWc.jpeg" alt="Cover for Świntuch" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 3</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 28</li>
         </ul>
       </td>
@@ -217,7 +217,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/24hX32T0wg4xwdjAc2roIrUlmmxaWqkJbql2r9ECHAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg1/NDMtMTMxODM2OTg4/Ni5qcGVn.jpeg" alt="Cover for W Siną Dal" style="max-width:120px; height:auto;" />
       </td>
@@ -274,7 +274,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fb7ba65edf41ef5dbd5b687d0551797.png" alt="Cover for Złe Piosenki" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +310,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 21</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 22</li>
             <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 30</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 37</li>
             <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 98</li>
@@ -453,7 +453,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b089c1c2f247c8bd3307ca1ad1ceb6.png" alt="Cover for Brudny Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +469,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -517,7 +517,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/hhTs8vkR-O_1h1CXw5Auls9VqQCNX0XYpuvr4LXEVsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTM5/OTItMTI2NjkzMjk3/MC5qcGVn.jpeg" alt="Cover for Lot Na Całe Życie (Reedycja)" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +587,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/PWCF3X4WWLXwz1ZIVmRrYBTPKewK9oCEMWC_8nnRSX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTAy/MzAtMTIxNTUzNTI2/NC5qcGVn.jpeg" alt="Cover for Ścieżka  Dźwiękowa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cbef72703324094a9351b5b8f0784a8.png" alt="Cover for Ścieżka  Dźwiękowa" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-19</td>
       <td>Tede</td>
@@ -676,7 +676,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c93045f461cf455eab9c4293e2aed7e7.png" alt="Cover for Game Over" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +719,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/XPTSSxZmMrK_olVdXxTvWQHpgzkOerl8UowDxhmE_Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMy/NzExLTE1ODIxOTIx/ODItOTkzNS5qcGVn.jpeg" alt="Cover for Poruchafszy..." style="max-width:120px; height:auto;" />
       </td>
@@ -738,7 +738,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/OUtku0bv5oeYXDn8VRhL7ERQd4Lw1tO4ul6v1Aekxwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzIx/NDgtMTM3MDUxNTky/Ni00NDg5LmpwZWc.jpeg" alt="Cover for Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -758,7 +758,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 30</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 56</li>
         </ul>
@@ -867,7 +867,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/YrA1AfmaeBFO9Xjlt5z-FrDlgHw2HQCu_6CFoz3LfJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzM3/MTYtMTU2NzUyMjM0/OC0xNTYyLmpwZWc.jpeg" alt="Cover for The Blend Sick Project" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +929,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/_r1lwAC662kEOqbGf9YgFzz1Mqi2Se11rUCGO6V0tnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUz/NDQyLTE2MDYwNDE5/MDUtODA1MC5qcGVn.jpeg" alt="Cover for Musze Oddychac" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +996,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b6202db448b4af1960626b88a8fa6ae.png" alt="Cover for Z Podwórka Dla Podwórek" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1014,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 18</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 35</li>
         </ul>
       </td>
@@ -1108,7 +1108,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/V5RFJ0PhwQ708I-XokKbWpV5MV5xjdbnF0m_zHiBX_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjQx/MTktMTQ3Njk2NTYx/OC0yNDU4LmpwZWc.jpeg" alt="Cover for Dziwki, Dragi, Lasery" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,9 +1126,9 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/y_Tx6isPuZWgTTYh_BFNw2I4Q573DqgyEtvBcCt7RDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzg3/MTUtMTQzMjI4MTg0/Ny03MzM0LmpwZWc.jpeg" alt="Cover for POLПОП EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e924c752bfa53b328b5dba0c4d117331.png" alt="Cover for POLПОП EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-08</td>
       <td>Alien Jack</td>
@@ -1146,7 +1146,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/7lbdaf-ZcktBAhb6c5bLDJdQLGi-wMVDS_PQI9G6sls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTYx/ODItMTQ4NTg3Mjkw/MS0yNzA2LmpwZWc.jpeg" alt="Cover for Plant" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1209,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/yznbO_O2zfCrCUuIdjvOo1evR7gRornwOZDiiOQPN8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcw/NjE1LTE1MTY5MDQw/NzUtMTUxNi5qcGVn.jpeg" alt="Cover for Krew za krew" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1232,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/jTarEVREeMeS2Vfqed_RCSSU7QVlG6scQnMQentO8mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTkw/OTMtMTQ4MDk0NTU1/My04OTQwLmpwZWc.jpeg" alt="Cover for OZNZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1333,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/WxNKRJiex0sCk2rCPUPUn6l7Dk63liNfbJIEpJ5I5UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDQz/NTAtMTQ3NTUzNDk3/NS03NTExLmpwZWc.jpeg" alt="Cover for Ostatni Bastion" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1356,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3fe85ae57916652e4c044c9a0078d5a.png" alt="Cover for 2038: WARSZAWA" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1420,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f301bf75c98da3aabaa4bb4e503600f.png" alt="Cover for Basement Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1531,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/c5F3elwc0Qzlo7p6ytbnG9m7I5DbuGi03zY8amTPIVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/ODQwLTE1NDI3NDA4/MzgtNzU1Ni5qcGVn.jpeg" alt="Cover for TRAPanacja czaszki" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,12 +1546,12 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/MzeS1LSxJ9k7q-1dkRaOuwF9MI1T5agjITfFvuBA1Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgx/NTE3LTE1MjgxMjY3/NDctMTU5MS5qcGVn.jpeg" alt="Cover for Mixtape 6" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1574,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/mbL3uGsAMIpdVSnjujBezaxXVbfaSUYb_pRGE1eB1ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDky/NjM0LTE1MjgxODQ1/MzYtMjQ5My5qcGVn.jpeg" alt="Cover for Bajka" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1647,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/zgqCpGlhbGoR5L3FmZxWxLvF5wmq6LcWIazwcESr1wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgw/MjY3LTE1OTM3NzQ2/NDktNzkyMS5qcGVn.jpeg" alt="Cover for Atypowy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c7068940276a52ddd9f862528ae217a.png" alt="Cover for Atypowy" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-19</td>
       <td>Szpaku</td>
@@ -1662,7 +1662,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1752,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/atQNGbeBgEeUOfJ0twcT_nWpp0EINDrRBPbN3C-KEPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ4/Mjk5LTE1OTE2OTU1/MTgtNjQwOS5qcGVn.jpeg" alt="Cover for INCEPCJA" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,31 +1784,6 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/2An_8ze8zQCDbK_cO57DHXmRbK-hbmoo6sEAxjrjtlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/NTQtMTU2NzUyNDA0/Mi01MTE1LmpwZWc.jpeg" alt="Cover for Na zawsze będzie płonął…" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-05-15</td>
-      <td>Płomień 81</td>
-      <td>Na zawsze będzie płonął…</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1857,7 +1832,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/oWwcYTNMmONliynjfE2ph1u__jH8WwEuw1zGcq9h69s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/NTcyLTE1Njk3NzA5/OTAtNzc3Ny5qcGVn.jpeg" alt="Cover for Adwokat Diabla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35ad914be03357be98a028e4e8c8e2bb.png" alt="Cover for Adwokat Diabla" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-10</td>
       <td>malik montana</td>
@@ -1896,7 +1871,30 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>JimmyTheHood</td>
+      <td>Zapomnij</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polska" | relative_url }}">polska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1945,7 +1943,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1968,7 +1966,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1991,7 +1989,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2013,7 +2011,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2030,12 +2028,13 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 1</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2052,13 +2051,13 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 13</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2075,7 +2074,7 @@ Polski rap is Polish hip-hop that blends American rap influences with distinctly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 14</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 34</li>
         </ul>
       </td>

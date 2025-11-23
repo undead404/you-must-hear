@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T03:15:29.253Z
+date: 2025-11-23T11:59:49.196Z
 permalink: tags/piano-rock
 title: piano rock
 ---
 
 ## piano rock
 
-Last updated: <time datetime="2025-11-20T03:15:29.253Z">Thu Nov 20 2025 05:15:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:59:49.196Z">Sun Nov 23 2025 13:59:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b77a8a007f65193401c62345e3f37b9.png" alt="Cover for Imagine" style="max-width:120px; height:auto;" />
       </td>
@@ -66,8 +66,8 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 11</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 81</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 80</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 91</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -126,10 +126,10 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 33</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 44</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 36</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 45</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 55</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -170,7 +170,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1996-01-01</td>
@@ -200,12 +200,12 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 10</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1997</td>
@@ -332,7 +332,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 86</li>
         </ul>
       </td>
@@ -373,7 +373,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 8</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 22</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 30</li>
         </ul>
       </td>
@@ -546,7 +546,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/s25ixtSvh2cXm1ZUiEAP-1LN0kdVCIrXt5yWgL7syv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjY5/Mi0xNjAwNjgxMTE5/LTU1MDcuanBlZw.jpeg" alt="Cover for Daily News" style="max-width:120px; height:auto;" />
       </td>
@@ -639,7 +639,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2005</td>
@@ -752,6 +752,23 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>The Fray</td>
+      <td>How To Save A Life [Bonus Track]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fd7afa727fe40888711d8202a743808.png" alt="Cover for Without Feathers" style="max-width:120px; height:auto;" />
@@ -791,7 +808,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/151599b342a1795ba446343bc30e14d0.png" alt="Cover for Lost Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +976,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f861d629bcf17cde36d82b264486b34a.png" alt="Cover for Aladdin Sane (2013 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -973,7 +990,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 75</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -991,7 +1008,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 73</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1176,7 +1193,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfd7177ce1964bfc82f6a9f9d6d87fca.png" alt="Cover for Love Vs. Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1213,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07c357e0afcb4857ba0481d288eb0165.png" alt="Cover for X&amp;Y (Japanese Tour Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1275,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 23</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 94</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 100</li>
         </ul>
@@ -1295,7 +1312,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2009-01-02</td>
@@ -1328,7 +1345,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 56</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 62</li>
         </ul>
       </td>
@@ -1393,28 +1410,6 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53c727fa67648c3a6dcc3403fae499f.png" alt="Cover for Sound The Alarm" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-09-08</td>
-      <td>Howie Day</td>
-      <td>Sound The Alarm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4fa4bd436de467da65a999de34d44e2.png" alt="Cover for Birds &amp; Cages" style="max-width:120px; height:auto;" />
@@ -1437,6 +1432,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/045aaecd764e491c152b9346d6d02463.png" alt="Cover for Twenty One Pilots" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-29</td>
       <td>Twenty One Pilots</td>
@@ -1452,13 +1448,13 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 68</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 67</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/740cbc4209bc4d94f5b9114e3086d2ae.png" alt="Cover for Through Yourself &amp; Back Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,12 +1622,12 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 18</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 19</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 23</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 63</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
@@ -1656,9 +1652,9 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 68</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 70</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 77</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 93</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 96</li>
         </ul>
@@ -1684,7 +1680,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d577f01f950db6a9512ffb1c05b195.png" alt="Cover for The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,8 +1694,8 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 32</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 33</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1771,7 +1767,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 24</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 84</li>
         </ul>
       </td>
@@ -1795,7 +1791,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 83</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1893,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 44</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1921,9 +1917,9 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 6</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 98</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 7</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1945,14 +1941,14 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 36</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 97</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a7cd35626ec4fb54de1d134824193de.png" alt="Cover for Cheers" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,7 +1979,7 @@ Piano rock is a subgenre of rock music that features the piano or keyboard as a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 1</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 2</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 92</li>
         </ul>
       </td>

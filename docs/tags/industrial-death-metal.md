@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T03:10:24.423Z
+date: 2025-11-23T11:58:24.610Z
 permalink: tags/industrial-death-metal
 title: industrial death metal
 ---
 
 ## industrial death metal
 
-Last updated: <time datetime="2025-11-20T03:10:24.423Z">Thu Nov 20 2025 05:10:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:58:24.610Z">Sun Nov 23 2025 13:58:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/NbMquVWm13xlIGfYr-ggYRnBTqZ8s4cbIxuZgeiiK9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODk0/ODYtMTY2MjY0ODk3/OS0zMDY4LmpwZWc.jpeg" alt="Cover for Take Cover!" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/SnicYTDiMd1x-eC7vqEz-kUbMY-Le3jaK9-pwNP-VOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDY5/ODAtMTUyODE5MjQz/Mi02NTk3LmpwZWc.jpeg" alt="Cover for Low Frequency Addicted" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6c2c22bc1813d0308367db197d6c13.png" alt="Cover for Industrial" style="max-width:120px; height:auto;" />
       </td>
@@ -102,25 +102,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/EWuNs7bC0axHs-hUwbq88DIzfTrUmuz_vY9xxu6WIbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDg0/NS0xNDM1MjU5MzQ4/LTQwMDMuanBlZw.jpeg" alt="Cover for Prototip" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Conflict</td>
-      <td>Prototip</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/3lPt20NGSVjJb5QbkovGBWNanzqkEwr36rgnUPt6TSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU2/MTY5LTE2MDQzOTgx/MTYtNTU0NC5qcGVn.jpeg" alt="Cover for Annihilation" style="max-width:120px; height:auto;" />
       </td>
@@ -138,7 +120,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/VlSV4KN4MH86oagrdoMjQMqUEDFbeGPR6OPQ4g0Hu54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/OS0xNjE5MTEyNzc0/LTUxNTEuanBlZw.jpeg" alt="Cover for Soul of a New Machine (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +138,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1993-03</td>
@@ -174,7 +156,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/9dV-ky-_bAfGAZ6I79H4K77xCRYZAZC6C9BVnXi38ME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk0/MTMtMTI0NzY2ODQ0/Mi5qcGVn.jpeg" alt="Cover for Nihil Negativum" style="max-width:120px; height:auto;" />
       </td>
@@ -216,7 +198,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5690d7ebe78f4e3c9648a72093dc9440.png" alt="Cover for Heavy as a Really Heavy Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -248,8 +230,8 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 42</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 44</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -349,14 +331,14 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 22</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 21</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 39</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/kCRSiZdxpzZKDOU1EMB0stCyUrzvnOl7VUnc6AMZTMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTAy/LTE1Njk1MDAzOTkt/NTc5Mi5qcGVn.jpeg" alt="Cover for Broken" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +374,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22719018cbb7285a44ab9afdf8e5280a.png" alt="Cover for Concrete" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +450,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a12f522d1159422292f48a1633247c2e.png" alt="Cover for Aeon" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +469,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/O7JTTa7B3tSGozcuz44q0v8FlGXaNa88jEnBkRZ4ikc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzg1/MDAtMTMxNDY5MzA3/Mi5qcGVn.jpeg" alt="Cover for Mindtech" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +511,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a146a209da32ce67750447f0141405b5.png" alt="Cover for Archetype" style="max-width:120px; height:auto;" />
       </td>
@@ -568,7 +550,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Jd3MvAq0B1KPTlxsvT4al5SAGwW9axKo-MrPJr-sciw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI3/NTQtMTY2NTUwOTky/OC0zODUwLmpwZWc.jpeg" alt="Cover for Reclusion" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +569,27 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921545aff6834c17cca3d161a4e86047.png" alt="Cover for Alien" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-21</td>
+      <td>Strapping Young Lad</td>
+      <td>Alien</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 18</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcdbe333eacf099bacd62499938988d1.png" alt="Cover for Transgression" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +603,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 25</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +646,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/bY9542RQXfYs6nPqGh_xzu7AhoDi-H_y37_30-E2Jh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDk0/MC0xMjkzMTkxMzAy/LmpwZWc.jpeg" alt="Cover for Full Of Hate" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +679,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 21</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -700,7 +702,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/wbYU9tTTAf2V7q_8GD4vmcLOzgSvk3MK8bsv4r7DBkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg4/ODMwLTE0OTQ3MjI5/NzgtOTM3MC5qcGVn.jpeg" alt="Cover for Seclusion" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +720,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf42d497af94ec98aea17c49f845585.png" alt="Cover for The New Black" style="max-width:120px; height:auto;" />
       </td>
@@ -727,15 +729,10 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       <td>The New Black</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 19</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +785,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/8Ow06qyq70x3vzGKXFzqZyQtKDGPQrskeSVsvBcveeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ2/MjctMTU5MDMyMjY5/OC04MzQyLmpwZWc.jpeg" alt="Cover for The Hinderers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a03082e503744887ac1f271a1bf3ef67.png" alt="Cover for The Hinderers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-20</td>
       <td>Daath</td>
@@ -804,7 +801,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a305373e7944f3eb27fffebbd3f4027.png" alt="Cover for Bleed The Fifth" style="max-width:120px; height:auto;" />
       </td>
@@ -820,12 +817,12 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 30</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 33</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/vrrxLb_dew6cdhdLbO-uHahPKBvLKzmEj9hEzqHPTCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NjgtMTE5MTA2NjMx/My5wbmc.jpeg" alt="Cover for Bleed The Fifth!" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +837,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 11</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 25</li>
         </ul>
       </td>
@@ -864,7 +861,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14bdd577f9a34407bb15bd4ff936aaae.png" alt="Cover for 2012: Zwanzig Zwolf" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +985,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 15</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1009,14 +1006,14 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 31</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 33</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
             <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/uQWerO5HIQEghKNg3hwueanoolYedRjZ2lP_hsnDj9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDg3/MDMtMTQ2MTgxMTQw/NC0yNjkwLmpwZWc.jpeg" alt="Cover for Hangar 18 (Demo 2009)" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,9 +1050,9 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/dB20H51cmSqRYYR_jP_FqUjK2pSXtIIh0uoi2MKbPrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjk3/NTItMTY5ODQwNTY5/My02NjQ5LmpwZWc.jpeg" alt="Cover for Promo 2009" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c791c6a58bc7adc2971cb114c55d112.png" alt="Cover for Promo 2009" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05</td>
       <td>DESPISE &amp; CONQUER</td>
@@ -1076,7 +1073,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01b52df380ae43f08ad39f9f76838d7b.png" alt="Cover for Bringer of Plagues" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,7 +1091,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2010</td>
@@ -1114,7 +1111,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/av5vf5Hi2hQxI5np5W2fVkmEL1AywBFJDGTnoF7U4IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzI4/MDYtMTUwNDU2MTM2/MS05NTk3LmpwZWc.jpeg" alt="Cover for Sceptical Vision" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1129,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7490afbfef2514178fc69dafa223749.png" alt="Cover for Mechanize" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,12 +1143,12 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2010-09-09</td>
@@ -1185,12 +1182,12 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 34</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/SCto_Q4ohrLzF4ZWvC1FU2nBWRoTox1eHoolITqWkm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjA1/MzgtMTI5ODAyNTQ4/MS5qcGVn.jpeg" alt="Cover for Live At London Underworld, Dec 16 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1204,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/P_IyNdSkeGGy9hxNJ2mvFypeQOMB5oe3Tmu89QNA6k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgw/NzUyLTE3MTE1Mjkz/ODMtMTY5My5qcGVn.jpeg" alt="Cover for Abduction (Single 2010)" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1263,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2011-03-08</td>
@@ -1321,7 +1318,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/IoOP5N9cq8ifRI2cZFx6lDuUKt9sN_8BqVBCai1vIKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzI4/MTctMTM5NDI1MDIw/NC00NjY3LmpwZWc.jpeg" alt="Cover for Industry" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,7 +1336,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/eUHoWwtOvxOK4ycSVLmmZE6l3CWwFOUGrRkngHHUPv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk0/MjUtMTQ4MDc3OTgw/NC03ODY5LmpwZWc.jpeg" alt="Cover for Of Consciousness" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1377,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/rfQ2CAYEqzUnBbOBJej7LpFtFdZ-R03k4mzvx4ppIZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzQw/NzItMTM4MTA1OTU5/Ni01NjgwLmpwZWc.jpeg" alt="Cover for Feed The Demons" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1397,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c6ed0e4a6c72a4c5a8728f33f428974.png" alt="Cover for Super Collider" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1411,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1438,7 +1435,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/LUHQXqOBDSneUaRYPTTM_j5Qk8TgT6TarEzSyyPPjKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTE1/NjctMTQwMjc3NDYw/Mi02MzE4LmpwZWc.jpeg" alt="Cover for Filth &#x2F; Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1476,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/g-LG3YFTSHsjyFxPb15LWJVz4hQnyhNyJCVLhyWVQTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTkw/NzktMTQxMjU0MDQ5/MS0xMzI0LmpwZWc.jpeg" alt="Cover for Where Devil Will Seem Saintly" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,7 +1496,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/FDMCy9Ph1WXMk2pD1yKSImed83NDD3K98sC6o-LiqSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODA4/MTktMTY2MjU2MDE1/My05Nzc3LmpwZWc.jpeg" alt="Cover for Costumes of Technocracy" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1514,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/iGM2PqJw5wb3a-M1oqyNyBdyHqjcnXmmiQ_HwEyuHI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc2/Nzg2LTE2NjM1MDE1/MTgtNzA1OS5qcGVn.jpeg" alt="Cover for A Step Beyond Divinity" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1533,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/CRK7-kI2l0QTf30YJNx00TBckZ_P8IyxHH1CcYLYXgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/OTMtMTQzNTA4NDUw/OS02ODcyLmpwZWc.jpeg" alt="Cover for Transform Into a Human" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1571,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/qcDZsy6DBtXpmnKiktpmmYCV-nCNKYy6z_F5mWZUtw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTAw/MDEtMTQ1MTAyMjM4/Ny00MjMzLmpwZWc.jpeg" alt="Cover for The World We Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1592,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/4uPJwbbATCulp613UThg3nxOHhhC-GIuJTRJzFVA9b8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTU5/MjktMTQ0MTgzMjE5/My0xNzk2LmpwZWc.jpeg" alt="Cover for ...Of What Remains" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1650,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/2dpNcEn6qyOvxVhs7s_uEYkBtIyYyOtHJKPUE1IhTB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/NzAwLTE1MTA2MzU3/NjgtNjM0OC5qcGVn.jpeg" alt="Cover for Indoctrination of Sacrilege" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1671,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/AhEBepVzmEBi-6YGK_kh0d01LeRHdYnSybteU02igho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk3/NjAwLTE1NjIwOTc3/OTEtODU1OS5qcGVn.jpeg" alt="Cover for Hell Storms Over Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1693,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/yXYC7ecD8-kF2xsT0Kidf5qxsCQoOgW_W2e47DmHmUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzY0/MDY4LTE1ODExNDYx/NzAtMzUzNS5qcGVn.jpeg" alt="Cover for Decision Code" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,7 +1711,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/VG99xiqs_gIixyRECNlxqM3HkZAb2rJn4YdAc9Nc8xs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTUy/ODYwLTE2MDA4MTQ2/NTQtMjk4MS5qcGVn.jpeg" alt="Cover for Purgatory" style="max-width:120px; height:auto;" />
       </td>
@@ -1754,7 +1751,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/BsvGddJMigZKkrigqncpE4G_x-YkAypReZ-xMD8d1mQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTAz/NTg1LTE2NTA1NzEx/MTYtNjk3Ny5qcGVn.jpeg" alt="Cover for Revelator" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1770,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/t9ep2ntZjbe6c8C1VJuRJ9Ubx8HtRTtUByt1_g4B-kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjMy/MzYzLTE2NjQxNDgx/NDctNTY4My5wbmc.jpeg" alt="Cover for Greystone" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1788,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/OdjJ4vOFgBW9YTLkLOjwdHKOvqtpNEKQpR-xas3h_W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg3/MDcxLTE2NTIyNTc5/NTItMzQwNS5qcGVn.jpeg" alt="Cover for Spewing Venom into the Eyes of Deities" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,7 +1828,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/2imVdVHyreCL07V2QziLHS2UuTg1FnxvmGXGGbH6yTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTIz/MzMtMTI0MzY1ODUw/NS5qcGVn.jpeg" alt="Cover for A Vivid Shade On Misery" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1847,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/NsAO38rfS_qFASzwbJp8GNyOi_P9RKeLaTmjflIDurY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDY0/MzMxLTE3MDEzMDY2/MjYtMjc3MC5qcGVn.jpeg" alt="Cover for Tainted" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1871,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/eiUPYOTPbpv3nA5FRZL7pIKmaxcS8m-wM-ieDCxd1_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODMx/Mjc3LTE3MjczNDQ2/MzAtMzY3Ni5qcGVn.jpeg" alt="Cover for Perdition Ekstasis Meta" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,7 +1891,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a29cef5e525b4356896cf3687e71f380.png" alt="Cover for Oneirophobia" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1924,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1970,7 +1967,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>

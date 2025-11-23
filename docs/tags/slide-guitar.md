@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T15:22:37.312Z
+date: 2025-11-23T12:02:02.223Z
 permalink: tags/slide-guitar
 title: slide guitar
 ---
 
 ## slide guitar
 
-Last updated: <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T12:02:02.223Z">Sun Nov 23 2025 14:02:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c317a0e5e37f931adfdf7261be6db25.png" alt="Cover for Cochise" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Cochise</td>
@@ -69,7 +70,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/oF3jpVoN3ri6Hfrl81I0Sn6d5hQUdZ0fFAZppPDfBT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ1/NTctMTUyMzI2Mzc4/MC01Njk2LmpwZWc.jpeg" alt="Cover for Michael Stanley" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0c5a47c9c5a44fea649785c80cf9383.png" alt="Cover for Michael Stanley" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Michael Stanley</td>
@@ -161,9 +162,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/W0SSZyTmxfQHq2WzPVIbR3j1WvLtqZt7xMo4HHVC2Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDMy/OTgtMTUxNjgyNTI0/Ny03MDI4LmpwZWc.jpeg" alt="Cover for Twango Bango Deluxe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f28eb99bbd644aa1caff298398837f54.png" alt="Cover for Twango Bango Deluxe" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>David Lindley</td>
@@ -182,7 +183,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/Gi2W7JSq52A6z_9ywr9yCQy-t7_0-epRe-LkW07iM-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDMz/OTMtMTQzMjM5Mjk5/MC0yMjk3LmpwZWc.jpeg" alt="Cover for Playing Even Better" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/586db954dc1e4887d2a6abe5f51582e8.png" alt="Cover for Playing Even Better" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>David Lindley</td>
@@ -235,7 +236,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/086f83bb4d5ec162daab5a1df39e85c6.png" alt="Cover for Scarred for Life" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +291,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/FKxGXkT7lfK53wpHxdwfPkcYhh32-4-POaHSVxdO9Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUy/NjEyLTE1OTE3Njc4/ODgtMjYzMS5qcGVn.jpeg" alt="Cover for Will The Circle Be Unbroken, Volume III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39082fdead99bcdfe984fb15722fee52.png" alt="Cover for Will The Circle Be Unbroken, Volume III" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Nitty Gritty Dirt Band</td>
@@ -360,7 +361,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ZoI3oNF-uz2zaQvmmzdw0SloGCTKTrh54kFunukiL64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTA2/MjItMTM2MzQ2Mzgz/Mi0yNjc3LmpwZWc.jpeg" alt="Cover for Chris Whitley Live at Martyrs&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +533,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Fs3pcW7ffuzU-AlKp9wNtv4WTjbNRHql0vO85HVp5uM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE1/ODQtMTQ1NTgxNzIx/NS01ODAzLmpwZWc.jpeg" alt="Cover for The Derek Trucks Band" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e26f6c977d154b4acb0caca2a1e7a72e.png" alt="Cover for The Derek Trucks Band" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-07</td>
       <td>The Derek Trucks Band</td>
@@ -572,6 +573,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34c2bc3fd6d242e09e604f386b915be5.png" alt="Cover for Twango Bango Deluxe" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>David Lindley &amp; Wally Ingram</td>
@@ -606,27 +608,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
-      </td>
-      <td>1998-06-04</td>
-      <td>Blind Willie Johnson</td>
-      <td>Dark Was the Night</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 22</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/gx7nwMsW6nHk3VSkCGOY1ZU_Bfpz5gHBuls5Dh5nZLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDI2/MzEtMTM1NTMxMjc3/MS02NzczLmpwZWc.jpeg" alt="Cover for Walking Down Memphis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/994bc96b3ca37d236be5c223a559b36f.png" alt="Cover for Walking Down Memphis" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Juke Joints</td>
@@ -647,9 +631,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/VrN9K0ncGx0dWwAAbY07tN6jLhv0g2iWjE5LGdlb8Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjYz/NTctMTM0NTkzMzY4/MC0yODU4LmpwZWc.jpeg" alt="Cover for Vancouver Blue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c889f6a7edf8e3a2056ab93f9343a2a.png" alt="Cover for Vancouver Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Paul Fenton</td>
@@ -750,7 +734,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/t0ukjMKhMq-jtVZaiWI8Kek35SDjQQu0I_-iFOuMWPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODM0/MjYtMTQ1ODU5NDgx/My05MzAwLnBuZw.jpeg" alt="Cover for Un Hombre Malo" style="max-width:120px; height:auto;" />
       </td>
@@ -769,8 +753,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36c53d24877facb246602f9fd6ac1a7b.png" alt="Cover for Live In Ireland" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>The Juke Joints</td>
@@ -791,9 +776,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/HUB6GNDWijiLrxD7TFfnkyQgdL9YUDxqSrt5JA11zYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc1/NjkzLTE2MDg1Nzc2/NDItMjQ5Mi5qcGVn.jpeg" alt="Cover for Live! In Toronto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bb99a18081d4890ba4c5bb42d0e929e.png" alt="Cover for Live! In Toronto" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Paul Fenton</td>
@@ -845,6 +830,26 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd19b7fee0a4716b632f8cfa7496b51.png" alt="Cover for Always Never" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Alex Gomez</td>
+      <td>Always Never</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>18</td>
       <td>
           <img src="https://i.discogs.com/l2GEhqIDHzoTAqU20XHayQ9ehIovAQc_AqUGw6ThFH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDcz/NzgtMTI5OTIyNzI1/MS5qcGVn.jpeg" alt="Cover for Charley Patton - Complete Recordings" style="max-width:120px; height:auto;" />
@@ -866,6 +871,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c87ea2780fc39ebb60cf613e4910f71.png" alt="Cover for Live! at the Sierra Nevada Brewery Big Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Roy Rogers &amp; The Delta Rhythm Kings</td>
@@ -902,7 +908,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/R99WP_fIovl4DQ12YFZLOMgstAT2hspu5TDEf0DISrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODMy/NjctMTQ4NTEwODY5/NS0yMjM2LmpwZWc.jpeg" alt="Cover for Dislocation Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b825bd9056f94ca4a3ccbd95af30a93d.png" alt="Cover for Dislocation Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-03</td>
       <td>Chris Whitley</td>
@@ -921,7 +927,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/VZ0kxzREfivR_4VuIUpDL5iiP2m8pKp43wLQ05DsgQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njcx/MDItMTMwNDc0ODg5/OC5qcGVn.jpeg" alt="Cover for Let It Roll" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d2459607c105cdcff3e7ba12bd3e257.png" alt="Cover for Let It Roll" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>The Juke Joints</td>
@@ -938,7 +944,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 3</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -999,6 +1005,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71aa77286677b2b36d2555db12252a67.png" alt="Cover for The Best Kept Secret" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11</td>
       <td>Jerry Douglas</td>
@@ -1016,14 +1023,14 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/MkardjBJMF8tElBg7kMrgAp4sdxZnym7ISRLJEpK4a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk1/MTAwLTE3MDYxOTQ3/MTYtNjQyNC5qcGVn.jpeg" alt="Cover for In The Shade Of Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/344af4fbb5e0defebd0e70dd07bce074.png" alt="Cover for In The Shade Of Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>BlueShot</td>
@@ -1047,7 +1054,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/MkardjBJMF8tElBg7kMrgAp4sdxZnym7ISRLJEpK4a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk1/MTAwLTE3MDYxOTQ3/MTYtNjQyNC5qcGVn.jpeg" alt="Cover for Crack The Seal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69cc928abae342f9995791020224f68a.png" alt="Cover for Crack The Seal" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>BlueShot</td>
@@ -1071,6 +1078,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22532a2cc32c4eefb7088d2726820453.png" alt="Cover for Tuscarora Nation Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Pura Fé</td>
@@ -1125,7 +1133,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 52</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 80</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 82</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 90</li>
         </ul>
       </td>
@@ -1133,6 +1141,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d52928dd28e64195a7892d14ef62b066.png" alt="Cover for Rough Diamond" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-08</td>
       <td>Dave Hole</td>
@@ -1188,6 +1197,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/008af31a878f411a8f6414524750008e.png" alt="Cover for Glide" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-19</td>
       <td>Jerry Douglas</td>
@@ -1205,7 +1215,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 88</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1230,6 +1240,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44abdf17694545e29a9ebc401dfdda58.png" alt="Cover for Chimeradour" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Jeff Lang</td>
@@ -1250,7 +1261,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/tNXZ35dzv6YIRNqLfOvawyxi2dRlr1om7SCAadm5Huw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTYz/NTktMTQ4OTE5NDIy/Ni05MTM0LmpwZWc.jpeg" alt="Cover for Electric Love Soul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bec08eb11a543538908f8fa059a1f2f.png" alt="Cover for Electric Love Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Wolf Mail</td>
@@ -1274,7 +1285,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/Op7iAZek5u80l5kK2BbTlKvB1fSFz4Pm22xvCnw07S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ3/MzctMTI4Mjc3MjY3/OS5qcGVn.jpeg" alt="Cover for Walk This Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/861c4dfb30704b49b0b4e57841ccbd83.png" alt="Cover for Walk This Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Robert Randolph &amp; The Family Band</td>
@@ -1294,7 +1305,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/GQB6kvqFC8N4RgdPP6-QJwmx9wQ0ZooVW0Su3lOUnp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTYy/NDktMTYzMzc1MTM3/OS0xMDg5LmpwZWc.jpeg" alt="Cover for Djan Djan" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,6 +1325,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2a01f59f4bb433a54a7617dff16dc5e.png" alt="Cover for The Delta Saints" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Delta Saints</td>
@@ -1332,7 +1344,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/8EBheaEEGBryYe5d_g3ttsnlWx9eiknwzpEpdrkS6DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzEw/NzktMTU5MDI0NTUy/Mi05MzMwLmpwZWc.jpeg" alt="Cover for Slide Guitar: The Streamline Special" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1385,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/_gttWO4VaBMJMmYb5IxXy4FwvLiHXWEJp8j2T5NQJbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQ4/NjYtMTI5Nzc2OTUx/Ny5qcGVn.jpeg" alt="Cover for All Through The Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a859723112040d58182badd91db3f30.png" alt="Cover for All Through The Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-17</td>
       <td>The Sand Band</td>
@@ -1388,13 +1400,14 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 94</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f23288d10ae26b07c66734b626ca405.png" alt="Cover for Man In Motion" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-10</td>
       <td>Warren Haynes</td>
@@ -1413,6 +1426,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5019eb8b8da456dbd2c737271986150.png" alt="Cover for Translucent Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-24</td>
       <td>Ray Manzarek &amp; Roy Rogers</td>
@@ -1427,7 +1441,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 30</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1450,13 +1464,14 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 63</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4002c52896e75af00a533aedd2e2de2d.png" alt="Cover for Elemental Journey" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Sonny Landreth</td>
@@ -1475,6 +1490,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1201ade58de483eb35c9e7be3890811.png" alt="Cover for Songs From The Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-09</td>
       <td>Erja Lyytinen</td>
@@ -1494,13 +1510,14 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 42</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75517b0ffaa74664c60907578232d1fc.png" alt="Cover for Bad Monkey" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-07</td>
       <td>Iron Mike Norton</td>
@@ -1538,7 +1555,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 28</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 23</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 70</li>
         </ul>
       </td>
@@ -1569,7 +1586,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/70oVb7lZwCfzm8iTt4m0lOWaj5EeVaQqKMbRI9Jy7h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njgx/NDAtMTM4MDg5ODgz/Mi00Mzk5LmpwZWc.jpeg" alt="Cover for Traveler" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/844eea70f71b43619479deaf30cbb8d2.png" alt="Cover for Traveler" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-25</td>
       <td>Jerry Douglas</td>
@@ -1587,13 +1604,14 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 78</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 9</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 80</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/wQ7N6PPlQYWbL9Bk4Xep-P_6tA5KRuv0M73YKOB2qxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU0/MzAtMTU5NjcyMjM2/Ny05NTgxLmpwZWc.jpeg" alt="Cover for Blood for Kali" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,8 +1629,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/199c2d751acc40b4b06c08cac124b345.png" alt="Cover for Jacques Russell" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-06</td>
       <td>The Silver Fish</td>
@@ -1636,7 +1655,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 57</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1679,7 +1698,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/AszD3jCjb5SrSnSraUyLENFwtWsvt_hePbikPnV-DFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTI2/NDQtMTU2MzI5NDE5/OS02MjkwLmpwZWc.jpeg" alt="Cover for Forbidden Fruit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de535678768e47408bd92606373b3c10.png" alt="Cover for Forbidden Fruit" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-25</td>
       <td>Erja Lyytinen</td>
@@ -1706,6 +1725,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a0b71b5ae0e4e3ba980df8c9b29cda1.png" alt="Cover for Little Copper Still" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-11</td>
       <td>The Cedars</td>
@@ -1742,13 +1762,13 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 25</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 65</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1775,12 +1795,12 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 25</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/C9ZAETFPw8B7PgnyIEKMTYbHIiM3Dbg3eEqnvlqc2RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NTEwLTE2MTIxNzIx/NzMtOTk4NS5qcGVn.jpeg" alt="Cover for Got Slide Guitar?" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1834,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 27</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1889,6 +1909,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9441c24d4fc940c7aff4afc1709a6f9f.png" alt="Cover for Driving On Back Roads" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Francois Xavier Marciat</td>
@@ -1919,8 +1940,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5ee9de40ba649659d4323db607dc793.png" alt="Cover for Hurricane (single)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sasha Sadikov &amp; Egor Zayaev</td>
@@ -1942,7 +1964,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1965,7 +1987,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2008,6 +2030,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38dd943d1baa4ff9bdf330c6d5eb9bcd.png" alt="Cover for Lightning Strikes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Sultans of Slide</td>
@@ -2026,6 +2049,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71490df6652648379fc5d8559c00fd8e.png" alt="Cover for Exist" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sasha Sadikov &amp; Egor Zayaev</td>
@@ -2050,6 +2074,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/602a812eafa8441fc45ae8a54bbf7b1e.png" alt="Cover for A Never Ending Album" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Thomas Brunkard</td>

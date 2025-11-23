@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T03:35:57.527Z
+date: 2025-11-23T12:00:53.664Z
 permalink: tags/electric-blues
 title: electric blues
 ---
 
 ## electric blues
 
-Last updated: <time datetime="2025-10-21T03:35:57.527Z">Tue Oct 21 2025 06:35:57 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-23T12:00:53.664Z">Sun Nov 23 2025 14:00:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,28 +29,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
   </thead>
   <tbody>
     <tr>
-      <td>64</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/85-QfPrlT08ZVSw_dfcmfItTUq9ikLt_4o19jQsBmkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjEx/Mi0xNDgyNDc2OTY0/LTk4OTQuanBlZw.jpeg" alt="Cover for Moanin&#39; In The Moonlight" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1959</td>
-      <td>Howlin&#39; Wolf</td>
-      <td>Moanin&#39; In The Moonlight</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 20</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 34</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fdb0999b62b53bcf4e93944293f6543.png" alt="Cover for R&amp;B From The Marquee" style="max-width:120px; height:auto;" />
       </td>
       <td>1962-06-08</td>
       <td>Alexis Korner&#39;s Blues Incorporated</td>
@@ -68,7 +49,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>1963-08</td>
@@ -86,7 +67,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Pv12tu3ZPdg_cZ6-VZnpWrugJrB0Tgxt2d_GzNdCu3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjIx/NjI3LTE2MzE1NjA3/ODUtNjk3MC5qcGVn.jpeg" alt="Cover for Some Kind of Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -104,13 +85,13 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 19</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 18</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/ckYM9Gs2IFxmvfYQNHa7ro21-bUgaeI8mD5_Vh_Lo34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUx/NjYtMTMzNTQ4OTMw/MC5qcGVn.jpeg" alt="Cover for Blues On The South Side" style="max-width:120px; height:auto;" />
       </td>
@@ -132,8 +113,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de397662d08f6af24c51b6c1dc9f0d00.png" alt="Cover for Live At The Regal" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>B.B. King</td>
@@ -149,9 +131,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/Xj2QR73mvF7sIjV0BdazRJef-vdBmW3w8VcpU3RJwn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTQ2/My0xMTczMDQwNTEy/LmpwZWc.jpeg" alt="Cover for Moanin in The Moonlight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a23360e4138410fc15ea73c3f91d9fb.png" alt="Cover for Moanin in The Moonlight" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Howlin&#39; Wolf</td>
@@ -163,14 +145,15 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 16</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 33</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/499e6fd0cb7448d0c8f8a9b33ff19548.png" alt="Cover for West Side Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Magic Sam</td>
@@ -178,7 +161,6 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a></li>
         </ul>
       </td>
       <td>
@@ -188,9 +170,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/yv_1KLo1mGuaZFRDx0nQXCDDISOBEfZAlZ75yadHmZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE3/NzYtMTU3ODc4NTY3/OS0xMTE5LmpwZWc.jpeg" alt="Cover for Born Under A Bad Sign" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1549b3775124d04cddeeea15d0e53f5.png" alt="Cover for Born Under A Bad Sign" style="max-width:120px; height:auto;" />
       </td>
       <td>1967-08</td>
       <td>Albert King</td>
@@ -206,8 +188,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f74006d0454d997fd8052e2eaef146ff.png" alt="Cover for Electric Mud" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Muddy Waters</td>
@@ -223,8 +206,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2875a948a5fe4c16398cffadc5fbb55.png" alt="Cover for King Of The Blues Guitar" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Albert King</td>
@@ -236,22 +220,20 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 21</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/oNRzMuGEGGccarpmD46tyG5Q0jLuX_IRapWLre0T3zE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjMx/OTktMTMyOTY2MTM1/NC5qcGVn.jpeg" alt="Cover for Second Winter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36dbc41d8c442ce847f3d03f5851973.png" alt="Cover for Second Winter" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Johnny Winter</td>
       <td>Second Winter</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
         </ul>
       </td>
       <td>
@@ -260,9 +242,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/yieskdbaewcZfRo09H9bv-MTwW2zPhOQlXEKWd-i4LY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgz/MDEtMTMyMjk0Mzg4/NC5qcGVn.jpeg" alt="Cover for I Am the Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98770135065b005bf3c6bca4b322c49a.png" alt="Cover for I Am the Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Willie Dixon</td>
@@ -279,9 +261,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/nkiNy2AqLEKvxX9LcO0DdA3LcXtfdW3GzzY7DOeI4os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDcw/NzUtMTM4NzQ2ODI3/MC03MTEwLmpwZWc.jpeg" alt="Cover for Ain&#39;t That Lovin&#39; You Baby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/623da8de9895efcc53661d98f9e0b4d5.png" alt="Cover for Ain&#39;t That Lovin&#39; You Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Jimmy Reed</td>
@@ -303,9 +285,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/PQQVZv6jY8keCzS0Rx8zrTHhnCcXPUBrGci22qpxoDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDIy/MDQtMTMzNDU1NjUy/OS5qcGVn.jpeg" alt="Cover for B.B. King Live In Cook County Jail" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/127e0c7f343f44a68828742ca83b4be5.png" alt="Cover for B.B. King Live In Cook County Jail" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>B.B. King</td>
@@ -322,7 +304,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/JjmNArwBSbC1iHVPgyaMpMGObSAo8uzhvUCeqmYSL-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTgx/MDcyLTE2NTg2NDQ0/NjgtMTA5NC5qcGVn.jpeg" alt="Cover for BB King and Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -341,9 +323,8 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/Px570I36J2LQN33pKdpvfjpRPPkmR9imnv6Q0zsQpz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDIw/MTYtMTM0NjA3OTYx/My0zMzAyLmpwZWc.jpeg" alt="Cover for Big Gun" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Lucifer</td>
@@ -362,7 +343,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/dhxUP8mZTUzlMnjaG-dEgsFDGTQwk6fADPjHZoRcK-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzQ5/MTktMTQzNjc5NzQy/My04ODg5LmpwZWc.jpeg" alt="Cover for Blues Six Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +364,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/eWN-S30l-cHgLL7zqSTbAZADCO5EXOHTgIi48QQTxJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM3/MDUtMTIzMTU4MzQ2/Mi5qcGVn.jpeg" alt="Cover for Shake Your Money Maker: The Best Of The Fire Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb429fbe23d44ba0b36615ec48292356.png" alt="Cover for Shake Your Money Maker: The Best Of The Fire Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Elmore James</td>
@@ -400,8 +381,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc9b61b3a886d0de6c8882c5be7adb2b.png" alt="Cover for Live!" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-03</td>
       <td>Robin Trower</td>
@@ -419,8 +401,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76bcd021635b7f67a13332ed48b3832.png" alt="Cover for Hard Again" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-05</td>
       <td>Muddy Waters</td>
@@ -432,14 +415,14 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 8</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83cc1bea45a8314abfb7509b54e0b63d.png" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Albert King</td>
@@ -455,9 +438,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/oau9-D8DFmyL6iKXFof3-m0GgAlMuMQomSdk4xY1oJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE2/NzMtMTMwMjU2MDk0/My5qcGVn.jpeg" alt="Cover for Live Wire &#x2F; Blues Power" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efd9c7d19c834a0585b31119c80eab00.png" alt="Cover for Live Wire &#x2F; Blues Power" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Albert King</td>
@@ -474,9 +457,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/YWXnoR2HrX3IoHQTlA7MlDPJ9mYThvpNWwII8fgzzMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc0/MTYyLTE1MTUxNzI4/MDgtOTEzMy5qcGVn.jpeg" alt="Cover for Stone Crazy (The Blues Collection Vol.4)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c3e78fba5f447a8a45451834d3f4bb3.png" alt="Cover for Stone Crazy (The Blues Collection Vol.4)" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Buddy Guy</td>
@@ -493,8 +476,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb61783b62744965c9d16e365df8342a.png" alt="Cover for Walkin&#39; The Back Streets" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Little Milton</td>
@@ -510,7 +494,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/CBESpBICYXTpRephhSmpzBjiDHF3zvL3C4xd194KOQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzQz/NzAtMTQwMzE3MDg0/OC01Mjc4LmpwZWc.jpeg" alt="Cover for Live At The 7th Note" style="max-width:120px; height:auto;" />
       </td>
@@ -529,9 +513,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/4tVFNIQLPov0890ITu1mkocd7ysljwPXebj-mA24_-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MDg2LTE2Mjk0Mzgz/MTYtNjM0MS5qcGVn.jpeg" alt="Cover for Bring it on!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2324cc6ab7fcf53f751291c265a0b93a.png" alt="Cover for Bring it on!" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Blues Rush</td>
@@ -562,14 +546,14 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 29</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/37P7uR8kdO9tj2GK9jyYrZSO8d_wEP8-sxu8mC0FgEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjU1/NzQtMTQ5NjY2MDc3/Ny0xMDUzLmpwZWc.jpeg" alt="Cover for Serious" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/239b1f82bc4a4fcaba3487fc7c9dab6d.png" alt="Cover for Serious" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Luther Allison</td>
@@ -577,7 +561,6 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
         </ul>
       </td>
       <td>
@@ -586,9 +569,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/vydsyVi-q2YWQk2U4ox5wW7mpfqbXtQhyCsPx5zhjRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk2/OTAtMTI2NDA0ODcx/MC5qcGVn.jpeg" alt="Cover for Living In The 20th Century" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e121f079334949bbac08bac1b83ab386.png" alt="Cover for Living In The 20th Century" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-11</td>
       <td>Steve Miller Band</td>
@@ -606,7 +589,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
       </td>
       <td>1989</td>
@@ -623,9 +606,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/ZbsdCB2fAhKd95xwxXxSsCM-tqf_XFgQOyhEvH0DKcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc0/NDItMTQxMDYwMDU2/NC0zNTc2LmpwZWc.jpeg" alt="Cover for Live At Sugar Hill, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab970ee43da34d0589150aba5c6a66b3.png" alt="Cover for Live At Sugar Hill, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>John Lee Hooker</td>
@@ -636,14 +619,15 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 12</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 41</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 14</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd0edf428c347d7a84c952301db4733.png" alt="Cover for Damn Right, I&#39;ve Got The Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Buddy Guy</td>
@@ -654,14 +638,15 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 41</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 28</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad4b3475ed1c452dbcec94a85401284f.png" alt="Cover for Iceman" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-03-05</td>
       <td>Albert Collins</td>
@@ -677,7 +662,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/b591EbVzYgTkX2b_NdCgvmmsqbX4w05AEFeb480YqwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDcx/NTAtMTMxMzI0ODkz/Ni5qcGVn.jpeg" alt="Cover for Kant Sheck Dees Bluze" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +681,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/oOiL9enpVnDzbqzBHG52Otf9iYQTMrcxvkQ0oencAWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDMz/NDgtMTMwNjUwODA4/My5qcGVn.jpeg" alt="Cover for Hoochie Coochie Man" style="max-width:120px; height:auto;" />
       </td>
@@ -715,9 +700,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/SEtaMIRqMG2WkO7WlTmJ-xLf2tbzguZ8QxjwzMlfK5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njg5/NzAtMTM2NTc0Mzcw/OC05MTAyLmpwZWc.jpeg" alt="Cover for Folk Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd9d946614c42ddb843275ac6c879b2.png" alt="Cover for Folk Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>John Lee Hooker</td>
@@ -738,17 +723,18 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 11</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 22</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 48</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b7b5a0679c541e3b29f51a9a4c96f4b.png" alt="Cover for Too Bad Jim" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>R.L. Burnside</td>
@@ -760,13 +746,14 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 29</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6cb7737fcef442f22c29fd1b2f0f93.png" alt="Cover for Shuggie&#39;s Boogie: Shuggie Otis Plays the Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-05-10</td>
       <td>Shuggie Otis</td>
@@ -784,7 +771,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/F3cjHPBzkhjyZrtgelkQNcmAeGH11iqhfNv6KaerHBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTM4/ODgtMTM2NjM2Nzk5/MS0zOTYwLmpwZWc.jpeg" alt="Cover for Terraplane" style="max-width:120px; height:auto;" />
       </td>
@@ -802,8 +789,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/069f85958985e315883a5803c1cc464f.png" alt="Cover for Ballads &amp; Blues 1982-1994" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-11-14</td>
       <td>Gary Moore</td>
@@ -819,7 +807,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/xo97y6hTo-pQhQgy1LlJJ8nEbR-qMK49EelldTlXYI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc0/OTIyLTE2NjM2ODY0/NDEtNjc0MS5qcGVn.jpeg" alt="Cover for Senor Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -838,8 +826,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a37e71c77614b8198c4db3e80c51b4d.png" alt="Cover for Buddy&#39;s Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-22</td>
       <td>Buddy Guy</td>
@@ -858,7 +847,25 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e91daf5c8ff345729ff703fccfa41844.png" alt="Cover for His Best" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-05-20</td>
+      <td>Sonny Boy Williamson</td>
+      <td>His Best</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
       </td>
       <td>1998</td>
@@ -876,9 +883,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/B9wA1GPLlhRcfiZVVNjrpq2Z2QgvXcPGAAFqhQeCXBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODA0/MzUtMTQwMjQ0NzU4/Ny0zMTg1LmpwZWc.jpeg" alt="Cover for Memphis (Expanded Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d7db3e8a3a4486c4b079030bc28b66.png" alt="Cover for Memphis (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Boz Scaggs</td>
@@ -896,6 +903,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/322560dfe42475c1e60053c61230fb25.png" alt="Cover for Simply the Best" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Earl Hooker</td>
@@ -917,7 +925,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/jXspwgbL_BmCPcLfaN0-rRczBe54hO3jgqRpNhEWmKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk1/ODM5LTE1MjI1ODc2/NTctMzMxNy5qcGVn.jpeg" alt="Cover for One More Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -935,8 +943,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f2d40e3e8d0642cd4a54029628119bc.png" alt="Cover for Working Man&#39;s Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-12-14</td>
       <td>Johnny Copeland</td>
@@ -955,7 +964,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/LAlM5ZCAcz-9vpfgCrIZ8CAvjTPBllfqG-vxFa0u_G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjM4/ODYtMTQ0ODI4Njcz/MS01NzQ4LmpwZWc.jpeg" alt="Cover for Love and Theft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10aae37010b39c61d6d102fedfbd8722.png" alt="Cover for Love and Theft" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Bob Dylan</td>
@@ -963,21 +972,19 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 21</li>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 57</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 62</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/723a2c36a2554c279d79ae9945b4101a.png" alt="Cover for - 1958" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-19</td>
       <td>Otis Rush</td>
@@ -993,9 +1000,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/oXslHz-Io_TToQNOhiaZ8wnZw26NtVbjfoZfNB2BKZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU4/MDUtMTI4NzQ5NTcw/OS5qcGVn.jpeg" alt="Cover for The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec9c3f041184bfd92402423217b83a9.png" alt="Cover for The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Magic Sam</td>
@@ -1014,7 +1021,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2003</td>
@@ -1033,9 +1040,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/woMP4tdFobqlQG6REia6m6uiuZ9ZqZTM15seXeMYDeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mzg1/MjEtMTYyODI2MTM0/Mi00Njg1LmpwZWc.jpeg" alt="Cover for Blues Conspiracy: Live On The Legendary Rhythm &amp; Blues Cruise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/397ecd172e525914fc7320a9cf4c4d00.png" alt="Cover for Blues Conspiracy: Live On The Legendary Rhythm &amp; Blues Cruise" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Joe Louis Walker</td>
@@ -1053,7 +1060,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/sGY1NMlk_cE7sjKsncwZTsLrks8UyogcNVTweCJGbsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzc1/NzUtMTM3NzA2Mzgy/MC0zNjg1LmpwZWc.jpeg" alt="Cover for Nite Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1078,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf0ff1ef73b12d64a2580f40f612b0b.png" alt="Cover for Unclassified" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,9 +1099,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/HSwoSo2HaEVSBmTxDY2cdV6sbrZGSICQ7fop2uCxXyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcy/NjItMTQ1NjM0NTg5/OS05NTQwLmpwZWc.jpeg" alt="Cover for The Excello Singles Anthology" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae66ddbb1ddc4258c2323896d08bda66.png" alt="Cover for The Excello Singles Anthology" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-26</td>
       <td>Slim Harpo</td>
@@ -1111,7 +1118,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/rcDlSBmug9YfBU4FJ4-afRLgYyJiCygQf4O3cChJQfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQw/MzktMTMxOTk0NDYy/MS5qcGVn.jpeg" alt="Cover for Detroit Border City" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,12 +1133,12 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 22</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Dyg9__d0aa_6Cr-0wGujsGXpsazdW1xviqVhXAE02f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDgx/NjItMTQwNzg1Njc1/OC0xNjAwLmpwZWc.jpeg" alt="Cover for God&#39;s Got It: The Legendary Booker and Jackson Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,9 +1159,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/t6riQgtPeVFGBNhcyQ5hKxW1syYNpDleQ7-LXa8-Uts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODY3/NjctMTQ4MTQxNjg2/NS02MTQ3LmpwZWc.jpeg" alt="Cover for The Complete Imperial Recordings: 1950-1954" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e71e0adf74e64510894f36ac2d00bc6e.png" alt="Cover for The Complete Imperial Recordings: 1950-1954" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>T-Bone Walker</td>
@@ -1171,8 +1178,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b559b8b129428b8ae55ab017798c58.png" alt="Cover for Howlin&#39; At The Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01</td>
       <td>Buddaheads</td>
@@ -1188,7 +1196,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2004-08-01</td>
@@ -1212,9 +1220,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/VZ0kxzREfivR_4VuIUpDL5iiP2m8pKp43wLQ05DsgQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njcx/MDItMTMwNDc0ODg5/OC5qcGVn.jpeg" alt="Cover for Let It Roll" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d2459607c105cdcff3e7ba12bd3e257.png" alt="Cover for Let It Roll" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>The Juke Joints</td>
@@ -1236,7 +1244,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/D-Xjh-BoeTF-gqvN8IVo0XcBEjvIdvEI8MJ9hDcQbtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjIz/OTgtMTQzMjk3NTkz/Ni04OTgxLmpwZWc.jpeg" alt="Cover for Dedication" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1262,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/QUUvjA3cOrgM_I5nv-Z2-EPxjs2tUmJ3yX1-vY8SbIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzky/NDM5LTE0OTY1Njcx/MzgtNjIwNy5qcGVn.jpeg" alt="Cover for His Definitive Greatest Hits (CD 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,7 +1280,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/18kZOMfFmtJs22ZffrVDUT3gVq5Il2uiS0sK8ydwr1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjk1/MDEtMTM5MTY5MTYy/OC04ODgxLmpwZWc.jpeg" alt="Cover for You Don&#39;t Know What I Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1298,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
       </td>
       <td>2005-09-13</td>
@@ -1308,8 +1316,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ada00cdd16d8fb460648029116a74794.png" alt="Cover for Bring &#39;Em In" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-27</td>
       <td>Buddy Guy</td>
@@ -1325,7 +1334,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/F04F-zbCW1it2oKCCEwu6vPrBmcc5mckJOExYZyoaMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEy/MDc5LTE2NzE0NzM1/OTEtMTMzOS5qcGVn.jpeg" alt="Cover for Never Slow Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1353,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/GJNwYBuAalWf2HOlsxfvVTWwEQxPjcj71SBzSTgjxjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM4/NjMtMTQ4MTIwODA3/Ny01MjEwLmpwZWc.jpeg" alt="Cover for Ain&#39;t Just Temporary" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1372,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/d2XI3VNwLdCs2tql8zc6rfN-aPdnIM688PtsLWbJIa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjE3/ODQwLTE2MDg4NDAx/NzgtMzMxOS5qcGVn.jpeg" alt="Cover for Resonator" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,9 +1393,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/_mmVKbOHpftzbJXRfOAPnq2CNm87NUyKgQVuiUipww0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg2/MjAtMTMzMzIzNDI2/NC5qcGVn.jpeg" alt="Cover for Authorized Bootleg - Fillmore Auditorium, San Francisco Nov. 4-6 1966" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2940bc7808fe4f998a4f597f3894efe0.png" alt="Cover for Authorized Bootleg - Fillmore Auditorium, San Francisco Nov. 4-6 1966" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-24</td>
       <td>Muddy Waters</td>
@@ -1402,8 +1411,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/439949dce69347018b7a9062929a574f.png" alt="Cover for Agriculture" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-28</td>
       <td>Wentus Blues Band</td>
@@ -1422,7 +1432,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>69</td>
       <td>
       </td>
       <td>2007-07-07</td>
@@ -1443,7 +1453,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
       </td>
       <td>2008-02-19</td>
@@ -1463,8 +1473,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eada6778d53404e87936e3e614b6b15.png" alt="Cover for One Kind Favor" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-26</td>
       <td>B.B. King</td>
@@ -1480,7 +1491,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Xzo6sy3j6nJYaiAPWQLGgtgOvl9lTKD4ZUBaL7hjar8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjQ0/OTAtMTU1NjExNzY4/Ny00NDAzLmpwZWc.jpeg" alt="Cover for Stories from the Crooked Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,9 +1510,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/_WkgOJXn_VLAO5y43wN5HxkJdTJb_dlADGfAl2Xo8Qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDg3/NjUtMTQ0Nzk3MTQ5/Ni04NzQzLmpwZWc.jpeg" alt="Cover for Between A Rock And The Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e06615059ba74331ade4aa89202da779.png" alt="Cover for Between A Rock And The Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Joe Louis Walker</td>
@@ -1519,9 +1530,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Ht76XusLFXaBt72_jOvj3mnxA4M4ZvHj7fhhG436bZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTA5/ODMtMTQzODE5Nzk5/OS02MTM0LmpwZWc.jpeg" alt="Cover for Live In Africa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ce947ccf37d41b2b522024438a55a03.png" alt="Cover for Live In Africa" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>B.B. King</td>
@@ -1539,7 +1550,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf0f4453b5b14db496230928ac2cbc74.png" alt="Cover for Raised On Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1572,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ela_3Oyvrj70ODWl0f9cN3sSy6liGkP5aKPFDqHVSQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzM3/NzctMTM1OTI3NjYy/Ni02MzgyLnBuZw.jpeg" alt="Cover for Blues In The Afterburner" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,9 +1597,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/5mEwjBs3pxFrHwDe47t2S5Qj7s48yMnJs4XOYs8k3fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDcy/NDAtMTM1OTYzNzA2/OS05OTM2LmpwZWc.jpeg" alt="Cover for Rocks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a805c859679e4a59b669e7a5a3aa5e47.png" alt="Cover for Rocks" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Slim Harpo</td>
@@ -1607,9 +1618,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/Sk_0cBBRQRC2hAMZtddCL3dZb_ewSJvft1EPjyQJ7Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDQz/ODQtMTQxMzY1ODI3/My00NjgxLmpwZWc.jpeg" alt="Cover for Woodstock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/079f68ab76a34b6398b41fac05f6b5f8.png" alt="Cover for Woodstock" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Wentus Blues Band</td>
@@ -1628,8 +1639,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1201ade58de483eb35c9e7be3890811.png" alt="Cover for Songs From The Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-09</td>
       <td>Erja Lyytinen</td>
@@ -1654,7 +1666,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/lcoRSfOX63K4uOqSZaoIJDN7pdqafbst46C9HPddI98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDgw/NjAtMTQ2NTg3Mzc5/MC03MzE5LmpwZWc.jpeg" alt="Cover for Hugging Hedgehogs" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,14 +1687,14 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 22</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/AszD3jCjb5SrSnSraUyLENFwtWsvt_hePbikPnV-DFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTI2/NDQtMTU2MzI5NDE5/OS02MjkwLmpwZWc.jpeg" alt="Cover for Forbidden Fruit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de535678768e47408bd92606373b3c10.png" alt="Cover for Forbidden Fruit" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-25</td>
       <td>Erja Lyytinen</td>
@@ -1709,6 +1721,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc3547f2a38d842efa58d7ff8488e488.png" alt="Cover for No Medicine Like the Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-18</td>
       <td>BUCK69</td>
@@ -1728,9 +1741,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/cgvzGU2h36NWC4MmgJECKoTyU_Cv4DInmPjiCgbnrbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAx/ODgyLTE1OTU5NTI1/NDItNDY0Ni5qcGVn.jpeg" alt="Cover for Friend of Mine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1182528df2ae4880c89db9b46e5a640a.png" alt="Cover for Friend of Mine" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-09</td>
       <td>Little Milton</td>
@@ -1748,9 +1761,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/lyDyuilBknim2qWVC0Cf7OtFlfZ6U2Ae7bSNFj6tl5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI2/OTU0LTE1MTk3NDcx/OTMtNzQzNi5qcGVn.jpeg" alt="Cover for Blues Legends: Magic Slim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/562cc3ba7846d55d9ed1e82804e49c26.png" alt="Cover for Blues Legends: Magic Slim" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Magic Slim</td>
@@ -1768,9 +1781,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/z7opQR6Jgh5-fytKHZJz1nUy4YFcd4O4moQOrX98VYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU0/MTYzLTE1NDMyMzI5/MjYtNjE4MC5qcGVn.jpeg" alt="Cover for Sky Train Galaxy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb6516eb3ccaad4460856a01cb1e0f5.png" alt="Cover for Sky Train Galaxy" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Craig Erickson</td>
@@ -1788,9 +1801,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/uv9VbqUyt70ZROnV_UTbUo56CYLssLG4pMXBRhDZrbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQy/MzQtMTMzMzIyMzE3/MS5qcGVn.jpeg" alt="Cover for The Ultimate Collection: 1948-1990" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61440780365b663f4050a0754da3183a.png" alt="Cover for The Ultimate Collection: 1948-1990" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-08</td>
       <td>John Lee Hooker</td>
@@ -1807,7 +1820,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/xfcJEYboy3woLos18fccaunkvecvAs6PAr9Tyf04_rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODg1/Ni0xMTcwNjU0MTU1/LmpwZWc.jpeg" alt="Cover for Dust My Broom (78 RPM Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,9 +1841,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/bv3UosiFb51etZ01jRSkIEKKqv5yAy_8-0Dbae4wqdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NzcxLTE0OTM5MTc0/MDctMjI2NS5qcGVn.jpeg" alt="Cover for Esker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1facb64a9f752dba856d442add925e2.png" alt="Cover for Esker" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-05</td>
       <td>Bill MacKay</td>
@@ -1851,7 +1864,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/CPJi-6zEkxCjb9u1qv_LdblJMNtnqA8Yi6HuKg41HdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA3/NzEwLTE1MjEwMTQy/MDEtOTc4Ny5qcGVn.jpeg" alt="Cover for Burn It Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1883,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/iQtdn9o6vehrrE3URML51A6bWE_coDYtiUhTwdZXpug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU3/Mjk3LTE1NDUzMTIy/NTAtMjI0Mi5wbmc.jpeg" alt="Cover for Tattooed Smiles" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,9 +1901,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/6uwUzrhQqQ5DM-p1wI-0kjRtR3CK0rdw3cCNwGNf1Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjA3/NTEtMTQ4OTI2MTY5/My04MDMxLmpwZWc.jpeg" alt="Cover for On Air (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71884a565d7e3836e0ff326ff4942a56.png" alt="Cover for On Air (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-04</td>
       <td>The Rolling Stones</td>
@@ -1914,8 +1927,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98fdeec36981417e8b0293e6f2f84ff8.png" alt="Cover for Martin Scorsese Presents The Blues: A Musical Journey" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1935,7 +1949,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
       </td>
       <td></td>
@@ -1957,7 +1971,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>
@@ -1979,8 +1993,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e84fd9c2824049208b5f864e7c97331c.png" alt="Cover for Cool Blast" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Derek Cooper &amp; the Minis</td>
@@ -1997,8 +2012,9 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6414f2ab82af68561a98d5f1863cdeba.png" alt="Cover for Candies" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Derek Cooper &amp; the Minis</td>

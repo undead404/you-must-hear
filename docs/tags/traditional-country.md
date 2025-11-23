@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T20:29:22.017Z
+date: 2025-11-23T12:23:38.307Z
 permalink: tags/traditional-country
 title: traditional country
 ---
 
 ## traditional country
 
-Last updated: <time datetime="2025-11-15T20:29:22.017Z">Sat Nov 15 2025 22:29:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T12:23:38.307Z">Sun Nov 23 2025 14:23:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,23 +29,6 @@ Traditional country embodies the authentic sound of American rural music from th
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1912-12</td>
-      <td>Fred Van Eps</td>
-      <td>Dixie</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/170c43a0ae50c6e1080a3602fdf87644.png" alt="Cover for Folk Songs Of The Hills" style="max-width:120px; height:auto;" />
@@ -66,7 +49,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4cd542f214342199f44c32ea4d26e46.png" alt="Cover for I Was The First One" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +69,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f8673fe7b07459bb90c6423b79707bc.png" alt="Cover for Tea Party" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +90,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bbf9748dc3f4ba6b78f3fe246ad0d1e.png" alt="Cover for You&#39;re My Sweet And Sour Candy" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +110,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59255ca3bf6cf6bc0e0f5763debf4b94.png" alt="Cover for Assorted Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +132,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/050f279147774f2b89e50908f41a6b53.png" alt="Cover for Bitter Sweet" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +152,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/268b476a139f4c50a23fa6512d538667.png" alt="Cover for Guess Who Loves You Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +174,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26aea2e8ff3627c2b2f1ccf0f9f32123.png" alt="Cover for I&#39;m Still Around" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +196,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/098a87096cea469ebd3b75c3959b9412.png" alt="Cover for Santa&#39;s Gonna Bring My Baby Back To Me Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -230,9 +213,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/aiCn27Hha6sB0DPWPD3kWRT2fjqis9En12PWY6QVvLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc2/MDktMTMzOTk4ODEz/OS01MTAwLmpwZWc.jpeg" alt="Cover for Sixteen Tons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14ffbec5b63e93ed244f6528fcbe544c.png" alt="Cover for Sixteen Tons" style="max-width:120px; height:auto;" />
       </td>
       <td>1955</td>
       <td>Tennessee Ernie Ford</td>
@@ -248,8 +231,26 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42eacbed144c41a0905a93fe7039e73b.png" alt="Cover for Johnny Horton Makes History" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1960-07</td>
+      <td>Johnny Horton</td>
+      <td>Johnny Horton Makes History</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d479857bc14e7f0e1d4bdfc87a7b2ba.png" alt="Cover for Now Here&#39;s Johnny Cash" style="max-width:120px; height:auto;" />
       </td>
       <td>1961-06-26</td>
       <td>Johnny Cash</td>
@@ -266,8 +267,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01581e78707490b558e898c877893fd7.png" alt="Cover for At The Golden Nugget" style="max-width:120px; height:auto;" />
       </td>
       <td>1961-09</td>
       <td>Hank Thompson</td>
@@ -289,6 +291,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4305a2eb751e1183e2731ae04552a649.png" alt="Cover for You&#39;re for Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1962-10-01</td>
       <td>Buck Owens</td>
@@ -307,7 +310,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Qj56xBLuIox44Pmc4rzqr4aiQM9w0lPzoih9m5idlRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDYy/MzktMTYyOTc2MDcz/Ni04NDY5LmpwZWc.jpeg" alt="Cover for Trail Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +329,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1965</td>
@@ -342,12 +345,12 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 15</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td>1965</td>
@@ -366,7 +369,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/L5Sx-pmnKDCdFAirLxXR1eOBNLL7xvsb0jYbZyIGezg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU4/NDctMTI2OTE5MDU5/My5qcGVn.jpeg" alt="Cover for I&#39;ve Been Everywhere" style="max-width:120px; height:auto;" />
       </td>
@@ -388,7 +391,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/sJgh6Vw2qoBX9rb_gCArEc12wQaEN_e8UJSXKa-Shvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDEw/NzMtMTQzNzk3NTQ0/Mi02MDcxLmpwZWc.jpeg" alt="Cover for Family Tradition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4602225f0de0ace5c1e7aac31efa0db.png" alt="Cover for Family Tradition" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Hank Williams Jr.</td>
@@ -407,9 +410,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Al8NpZ2ScZHc6Js2NYNpg7HTsmnsdS9LFPQSgRDn3Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDU2/Mi0xMTYwNTA3Njc2/LmpwZWc.jpeg" alt="Cover for A Boy From Tupelo: The Complete 1953-1955 Recordings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/154e41f72c0c59716e70a6e140895d4b.png" alt="Cover for A Boy From Tupelo: The Complete 1953-1955 Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Elvis Presley</td>
@@ -447,7 +450,24 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9925e3df513308d1a0be43a794a9aeb.png" alt="Cover for Hello, I&#39;m Dolly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967-09-18</td>
+      <td>Dolly Parton</td>
+      <td>Hello, I&#39;m Dolly</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9917e65e1590ef21c124920439915e6.png" alt="Cover for Bridge Over Troubled Water" style="max-width:120px; height:auto;" />
       </td>
@@ -467,9 +487,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/TNRbFWyleVQ1INdv-30f_vgBM2RE0AhxVF0xLePD1B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM3/NTYtMTM2Mzk5NzIy/Ny0xNDAwLmpwZWc.jpeg" alt="Cover for Come Back To Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28c8794073b61fa9d009db7947642f8e.png" alt="Cover for Come Back To Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Marty Robbins</td>
@@ -487,8 +507,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d39ebbbfb2d3e33981ef5204c13cc3c.png" alt="Cover for From Sea to Shining Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-01</td>
       <td>Johnny Cash</td>
@@ -507,6 +528,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/283409721a8e5fc343beee0988160863.png" alt="Cover for She Still Comes Around (to Love What&#39;s Left of Me)" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Jerry Lee Lewis</td>
@@ -538,15 +560,15 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 29</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 47</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 32</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/ZlDE5fn1zsT3gZeNBzV4DjIxueQPmjFsrOsO5rsAbug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMz/MTI5LTE0OTA0NTg5/MjAtOTc0MC5qcGVn.jpeg" alt="Cover for At San Quentin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0055de7a07904658844d4dc3a7d673de.png" alt="Cover for At San Quentin" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-06</td>
       <td>Johnny Cash</td>
@@ -562,8 +584,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faba9ae03627125e5c371af31290065b.png" alt="Cover for Hello Darlin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Conway Twitty</td>
@@ -579,8 +602,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25d5f7ffbf821d60cd87490c854cf569.png" alt="Cover for With Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>George Jones</td>
@@ -598,8 +622,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9ff154900934f61bdd263b6e3eb2985.png" alt="Cover for Yesterday&#39;s Wine" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Willie Nelson</td>
@@ -615,7 +640,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/368ca030a32870cbb91227d2103b4135.png" alt="Cover for &#39;Frisco Mabel Joy" style="max-width:120px; height:auto;" />
       </td>
@@ -634,8 +659,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c4f11b083256f5c3d4fdc36b8f17324.png" alt="Cover for Coat of Many Colors" style="max-width:120px; height:auto;" />
       </td>
       <td>1971-10</td>
       <td>Dolly Parton</td>
@@ -669,7 +695,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/WA2KR1Bc-sEPR7P6G0th6XcRzuLftJRv8PhDoJh9ZYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzcy/NjctMTMwNTI1MDcx/MS5qcGVn.jpeg" alt="Cover for Haywire Mac" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +713,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/-VatcA49GNQZdg7IY9sPWYXEaGZDUshCObXO2Y8MA4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDc0/NTItMTM4NjExNTA2/Mi0yNjk1LmpwZWc.jpeg" alt="Cover for The Willie Way" style="max-width:120px; height:auto;" />
       </td>
@@ -705,8 +731,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/353bb43878e94f47bc4c74959c180770.png" alt="Cover for What&#39;s Your Mama&#39;s Name" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Tanya Tucker</td>
@@ -720,13 +747,33 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/TM-LYveNtaieBnCBkaiVV_9kpbYNSCSHHsb6Xam6MVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU0/NzA5LTE2NjY4MDY1/ODUtMzQ2My5qcGVn.jpeg" alt="Cover for Hank!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bdae394fc713c213312d08677149d8f.png" alt="Cover for The Grand Tour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>George Jones</td>
+      <td>The Grand Tour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8226628a093a65af5cb430b9debd86f.png" alt="Cover for Hank!" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Hank Thompson</td>
@@ -746,27 +793,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td>1974</td>
-      <td>George Jones</td>
-      <td>The Grand Tour</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ZKPLGtenOePBiRPMB6ZUGOa01kKqY1ReXPLIWslyDlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYw/ODAwLTE1ODQ3Nzc1/NzItMjYyOC5qcGVn.jpeg" alt="Cover for Dreaming My Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/016d9b5cdb1ddf8701fe1a7bee33c5ac.png" alt="Cover for Dreaming My Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-06</td>
       <td>Waylon Jennings</td>
@@ -780,14 +809,14 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 90</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/yechHoe9DoQJvtD1b4FBZx1tqrKwAcguf7G18TZrjoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjA0/NDItMTQ4MjU1OTgx/My0xMTMwLmpwZWc.jpeg" alt="Cover for Night Things" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a4562a041e64690c6696b8277843a83.png" alt="Cover for Night Things" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-10</td>
       <td>Ronnie Milsap</td>
@@ -806,7 +835,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1976</td>
@@ -824,7 +853,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/qDVipjs670kQey_2kivaY2pdstvkZTCXcoQJ_zdKiIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTQ2/MTUtMTM2ODIxNTcw/NS01OTcxLmpwZWc.jpeg" alt="Cover for 20 Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -842,7 +871,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/yRY8OT7fIW6bBKBl-4Jf2xy-N5PYST2g_H7-eone_To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODA3/MzUtMTI3ODUyMjUw/Ny5qcGVn.jpeg" alt="Cover for Wheelin&#39; And Dealin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +889,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
       </td>
       <td>1976-10-04</td>
@@ -877,7 +906,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/JEREDbeyhMEyAmLZ5sdgyTRaS5gAnkR7mHtcYZPtEjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDUz/NDUtMTQ3OTk5MzE0/Ni05MjE4LmpwZWc.jpeg" alt="Cover for Dance Ranch" style="max-width:120px; height:auto;" />
       </td>
@@ -898,8 +927,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f501713d305f19950825842d049ea51a.png" alt="Cover for Stardust" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-04</td>
       <td>Willie Nelson</td>
@@ -911,13 +941,14 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 14</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31fbe9acb9e14b4098d185406facb09b.png" alt="Cover for I&#39;ve Always Been Crazy" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-09</td>
       <td>Waylon Jennings</td>
@@ -931,14 +962,14 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 76</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/vaZmrRCD-3mPSFRFLkcvJ1GNiVwMw_DWGLN5yOyf3AQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMz/NjMtMTI4NjUzMjcw/Ny5qcGVn.jpeg" alt="Cover for She Even Woke Me Up To Say Goodbye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bdab9fe2b8b235b86088f022a4ce1f2.png" alt="Cover for She Even Woke Me Up To Say Goodbye" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-12</td>
       <td>Jerry Lee Lewis</td>
@@ -957,7 +988,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/AfMmOVpcXU_BZ6toWxXb5z20s1dhjvJZFjBaZQkTpWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI0/NzMtMTQ5MzM0NjAz/MC01NTY2LmpwZWc.jpeg" alt="Cover for The Mysterious Rhinestone Cowboy" style="max-width:120px; height:auto;" />
       </td>
@@ -972,13 +1003,14 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 61</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b6b89a09433013cadaadad6c3835314.png" alt="Cover for Back To The Barrooms" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Merle Haggard</td>
@@ -995,8 +1027,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60bfef2b39e99918bd9f96940e27bf2.png" alt="Cover for I Am What I Am" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-09</td>
       <td>George Jones</td>
@@ -1013,9 +1046,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/8ExIzVHP4Ty8MsYNasH2Elbbgk-QwvUIZ6UCnpk4R8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjgx/MjUtMTM2MjI0ODg4/OC0yODk4LmpwZWc.jpeg" alt="Cover for A Better Way Of Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d15e99c8f9c84de8cdf414e2430e1fe4.png" alt="Cover for A Better Way Of Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>VERNON OXFORD</td>
@@ -1036,9 +1069,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/1tDsUl9enmVUgq_vGDiFaDaGw4IR6iHRaSFdD_sd0JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDEz/MjEtMTI4NzQ1NjU2/NC5qcGVn.jpeg" alt="Cover for The Original Singles Collection... Plus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27119e0507fa2e67752911c6849f1055.png" alt="Cover for The Original Singles Collection... Plus" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Hank Williams</td>
@@ -1077,8 +1110,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9977763379ee4fe2cf2ad66926f26a45.png" alt="Cover for The Ballad of Sally Rose" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Emmylou Harris</td>
@@ -1118,8 +1152,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6be3957642ee6d1161d565c8d43a9899.png" alt="Cover for Storms of Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-06-06</td>
       <td>Randy Travis</td>
@@ -1138,7 +1173,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/pztd485_dNwUUY6MeC4GsSo7c9yOi05OOgPgOW3kXt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NjgtMTUyNzYwNjEz/NC00NjM0LmpwZWc.jpeg" alt="Cover for Take This Job And Shove It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0de91e9125bd488bb525b955383c0c.png" alt="Cover for Take This Job And Shove It" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Johnny Paycheck</td>
@@ -1152,7 +1187,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 81</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 82</li>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 93</li>
         </ul>
       </td>
@@ -1160,6 +1195,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d61c68eb3045f085c7fd9f8db440e4.png" alt="Cover for American Originals" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Johnny Horton</td>
@@ -1174,7 +1210,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 16</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 17</li>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 95</li>
         </ul>
       </td>
@@ -1182,7 +1218,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/heY5f9w8SqgUFMLmgbCvZWwUa2q9_-Ul3Hu8VxtR2aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY5/NjktMTUzNzEyMjQx/OS00MTQyLmpwZWc.jpeg" alt="Cover for Tiffany Transcriptions, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2a0da4a1b6d9407fcc10916c1f63beb.png" alt="Cover for Tiffany Transcriptions, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Bob Wills &amp; His Texas Playboys</td>
@@ -1200,7 +1236,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/fEFb0UT6XB2BEXv5zRTO7ylCLTBMMbfbF5j-NoBgM3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzQ4LTE1MDg1ODk0/NDQtMTAwMS5qcGVn.jpeg" alt="Cover for All-Time Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e2af56d8c44e5593865b6f4d3431f2.png" alt="Cover for All-Time Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Buck Owens</td>
@@ -1219,7 +1255,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26cb15ff28a9498081cdfbf67fc0b7c4.png" alt="Cover for &#39;07-&#39;08 demos." style="max-width:120px; height:auto;" />
       </td>
@@ -1241,8 +1277,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/747523fe3f3096964d8f4319a52486a0.png" alt="Cover for Greatest Hits Plus" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-08-11</td>
       <td>Ricky Van Shelton</td>
@@ -1259,7 +1296,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1995</td>
@@ -1277,7 +1314,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/zmvabZOODmc8MiiWuV9Kc6h1S17lM9zyy1IC46ky8ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEx/NTA0LTE1NDk5ODEw/MTAtNzA0OS5qcGVn.jpeg" alt="Cover for The Essential Highwaymen" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,12 +1327,12 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 9</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>1997</td>
@@ -1313,7 +1350,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for The Best of The Country Caravan" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,9 +1368,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/2xDZxrLNjRFcuBOcAE647iWKrN8mwpdo0M0fbl0OsIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzAz/MzItMTUwMTM2NTYy/MC00MDM3LmpwZWc.jpeg" alt="Cover for Get with It: The Essential Recordings (1954-1969)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63da82059df04c26b120dd562783e5cb.png" alt="Cover for Get with It: The Essential Recordings (1954-1969)" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Charlie Feathers</td>
@@ -1352,6 +1389,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0564342efdb08c27550be6f9513627c6.png" alt="Cover for Hungry Again" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-25</td>
       <td>Dolly Parton</td>
@@ -1371,7 +1409,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/_1VUNqRv5g99gmWyULkhq4Z9oUoLLttRiX_cAUfAbWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzU3/NjItMTYzMDc5MTY1/MC02Nzc1LmpwZWc.jpeg" alt="Cover for No Regrets" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1430,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2002</td>
@@ -1411,7 +1449,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f0e5fc450b34d30cdb7813b6873f94a.png" alt="Cover for RCA Country Legends" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1468,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/0Gw0-XMj4wHFBvdGSIZaoj9p-ZIA5HGtNu0AxhJ6-hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcx/NjA2LTE2NDc3MTgy/NDQtNjI2Mi5qcGVn.jpeg" alt="Cover for Between These Lines" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1489,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td>2004</td>
@@ -1467,7 +1505,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/937413f92436469bc6c91b7613d6af40.png" alt="Cover for The Outsider" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1526,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td>2007</td>
@@ -1527,7 +1565,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/voiiwNeAe_htxkXcKWdKyoj-_UgyuLol4jBUTRNwxDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMx/NjM4LTE1Mjg5MjQy/MTgtMjIyOC5qcGVn.jpeg" alt="Cover for Heading South" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,22 +1579,6 @@ Traditional country embodies the authentic sound of American rural music from th
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Stan Cox</td>
-      <td>Angels, Truckers, &amp; Honky&#39;Tonk Nights</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -1584,16 +1606,16 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 8</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 18</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 94</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 96</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/Xc77PlKJeOXSt8J-xoUFvSYXEVz9GVlGx-grLO1ortk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzI4/MDctMTM0NzYzMzE3/MS0zNzk4LmpwZWc.jpeg" alt="Cover for The Sun Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1634,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02c58b0d8851bcfae21a13e16bb06349.png" alt="Cover for The Harrow &amp; The Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,12 +1648,12 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 56</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td>2013</td>
@@ -1651,7 +1673,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a0b71b5ae0e4e3ba980df8c9b29cda1.png" alt="Cover for Little Copper Still" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,10 +1712,10 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
@@ -1703,7 +1725,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/s75_RvQrcGXUdjXNTKDJ-sU9Xt6XoUkvfVqRshbyrKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI0/NzMtMTI1NTk1NTMw/MC5qcGVn.jpeg" alt="Cover for With His Hot and Blue Guitar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4cb556922c2600c0978f75a4b35ce1.png" alt="Cover for With His Hot and Blue Guitar" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Johnny Cash</td>
@@ -1715,7 +1737,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 78</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1764,7 @@ Traditional country embodies the authentic sound of American rural music from th
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/rZEnNWVm_voeLM0nczWUPZiphGUcGniUC6R4d4syc34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTY0/MjktMTQ3NjgxOTI1/My04NzE4LmpwZWc.jpeg" alt="Cover for Coming to a Honky Tonk Near You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce993a369c8720b70095a91dd76e747.png" alt="Cover for Coming to a Honky Tonk Near You" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-21</td>
       <td>Kevin Fowler</td>
@@ -1759,7 +1781,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/o5nnlWqEkMT3n76BtvYsCsqfmbGEtNui33Zh2JoVpI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc2/ODMzLTE0OTI5MTA0/MTgtMzYyMy5qcGVn.jpeg" alt="Cover for Jason Eady" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1804,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/BibO1Ug0kEQ5ee37p9Q9ilSKAa5T6LBaGDhstdrGXw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY0/NTg3LTE1MjM1Mjcw/NzMtNzI4NS5qcGVn.jpeg" alt="Cover for A Drink After Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,9 +1823,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/GfWgFHZXnRcL0bc1gj8c1EHJ2fox3g-7vTCiUUM6w24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE3/MzQ4LTE2OTMzNTcz/OTAtNTg2My5qcGVn.jpeg" alt="Cover for Body Like A Back Road (15 In A 30 Tour Live)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2107224ffcc22779c88f5815ed579941.png" alt="Cover for Body Like A Back Road (15 In A 30 Tour Live)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-28</td>
       <td>Sam Hunt</td>
@@ -1823,7 +1845,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/FSBbyZG7Dz8kY1DPq1bXEjgddry1fj0zrcnj5NqZlzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEy/NjcxLTE1Mjg1NTg1/NDktMjM0NS5qcGVn.jpeg" alt="Cover for That&#39;s All There Is (And There Ain&#39;t No More)" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1861,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 10</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1906,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/oBcRBcUFnVgD4lcKP-z583sXvf3sR_j5bUOXvlrdSCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIy/MzI1LTE1NTk4NDAz/MTgtOTkyMS5qcGVn.jpeg" alt="Cover for A Story I Got To Tell" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1924,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/G160iGwIoz9_-I1hMRLVvLpn-UMl8PLWp6Wj4lF6UCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU5/MjMyLTE2NTk1MjEy/NzMtNDY5MS5qcGVn.jpeg" alt="Cover for The Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,8 +1944,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/458cc1f29734435cc345ec6e1830e62c.png" alt="Cover for Candle Light Country" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Lewis &amp; Evans</td>
@@ -1955,7 +1978,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 1</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1980,8 +2003,9 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7db0da72e72826ab7c32183d9b97bde.png" alt="Cover for One More Time" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dark Ride Brothers</td>
@@ -2000,7 +2024,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
