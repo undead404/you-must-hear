@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:06:27.785Z
+date: 2025-11-23T12:48:37.988Z
 permalink: tags/honky-tonk
 title: honky tonk
 ---
 
 ## honky tonk
 
-Last updated: <time datetime="2025-10-28T15:06:27.785Z">Tue Oct 28 2025 17:06:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T12:48:37.988Z">Sun Nov 23 2025 14:48:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b4356ae6b81934cd8ba6bcdb84f3293.png" alt="Cover for Moanin&#39; the Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1952</td>
       <td>Hank Williams</td>
@@ -48,8 +49,9 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39ff8a5a22a488eef3f9c87d9029b2ea.png" alt="Cover for Memorial Album" style="max-width:120px; height:auto;" />
       </td>
       <td>1953</td>
       <td>Hank Williams</td>
@@ -69,7 +71,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/tDRnUvZC0dQchI0vVwo--6anBR2xdlm2bQbkJ6hlWWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTQ0/ODYtMTQ2OTc0Mjky/MS05NTIyLmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab029f0863ba259008b8a1e123eebb8e.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1956-02-04</td>
       <td>Ray Price</td>
@@ -84,15 +86,15 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 52</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 56</li>
             <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/s75_RvQrcGXUdjXNTKDJ-sU9Xt6XoUkvfVqRshbyrKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI0/NzMtMTI1NTk1NTMw/MC5qcGVn.jpeg" alt="Cover for Sings Hank Williams And Other Favorite Tunes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/206657d363d18bd908f2432d9f7b8e26.png" alt="Cover for Sings Hank Williams And Other Favorite Tunes" style="max-width:120px; height:auto;" />
       </td>
       <td>1960-09-15</td>
       <td>Johnny Cash</td>
@@ -109,7 +111,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/vH9GVl6LH6RMov4MnUiOMGCjEm9RX4PbUNp2fdXdLWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTYz/MzQtMTU2MjAxNjAy/MC04MjMyLmpwZWc.jpeg" alt="Cover for Sings Harlan Howard" style="max-width:120px; height:auto;" />
       </td>
@@ -128,8 +130,9 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4305a2eb751e1183e2731ae04552a649.png" alt="Cover for You&#39;re for Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1962-10-01</td>
       <td>Buck Owens</td>
@@ -148,9 +151,9 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/-79nELmovVkRrXOARa7Nxqp8mtG-jNrwkeUOJPgFNmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjY1/NTAtMTU2MjI3Njk4/MC0xODIxLmpwZWc.jpeg" alt="Cover for Ray Price - 16 Biggest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e699fe62688845ee8e50a881b0c78f9a.png" alt="Cover for Ray Price - 16 Biggest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Ray Price</td>
@@ -184,7 +187,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 59</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -204,14 +207,14 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 61</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/pVshPkWUT8s3iWCT030VRdTbw-hh3pCIaoR2AeAiHbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDIw/NTMtMTY2NTYxOTM3/NS0xMTcwLmpwZWc.jpeg" alt="Cover for Ray Price&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/639d05db35fc4e39ce0e83d24bf81f5a.png" alt="Cover for Ray Price&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Ray Price</td>
@@ -226,7 +229,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 38</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 41</li>
             <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 85</li>
         </ul>
       </td>
@@ -234,6 +237,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/216bd96e405644b9b3009f41a324f373.png" alt="Cover for American Originals" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Ray Price</td>
@@ -248,7 +252,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 44</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 47</li>
             <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 86</li>
         </ul>
       </td>
@@ -256,7 +260,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/B1gOUv79_r2Lj7r50QmE3x5wHnjhvPb8tA-NDrrLrBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY5/NzU4LTE1ODQ4ODk0/MTYtMjk0OC5qcGVn.jpeg" alt="Cover for An Introduction To Faron Young" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70266c9921d7553660c15f88cf784d8d.png" alt="Cover for An Introduction To Faron Young" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Faron Young</td>
@@ -273,8 +277,9 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/283409721a8e5fc343beee0988160863.png" alt="Cover for She Still Comes Around (to Love What&#39;s Left of Me)" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Jerry Lee Lewis</td>
@@ -292,27 +297,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>1974</td>
-      <td>George Jones</td>
-      <td>The Grand Tour</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/0-O3s5UCt5BAnyUvWumX9BzGgAjr0sFmHmsAK0Ah7rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDI3/NjQtMTQwMzg4NTcw/NC0yMzk4LmpwZWc.jpeg" alt="Cover for Honky Tonk Amnesia -the Hard Country Sound of Moe Bandy" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Moe Bandy</td>
@@ -386,7 +372,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/oAuqThatTQ7DMSciPjg3eLV3RhEspM1xNVqcUgjWP1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDIw/OTItMTQzMzExMTQ2/Ny01NDI0LmpwZWc.jpeg" alt="Cover for Burning Memories" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/832a3a3f5c014196a5da324ef740798d.png" alt="Cover for Burning Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Ray Price</td>
@@ -402,15 +388,33 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 20</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 23</li>
             <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ab34b9d1e7c4fb1cf1f324dbe2aede8.png" alt="Cover for 40 Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>Hank Williams</td>
+      <td>40 Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/vaZmrRCD-3mPSFRFLkcvJ1GNiVwMw_DWGLN5yOyf3AQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMz/NjMtMTI4NjUzMjcw/Ny5qcGVn.jpeg" alt="Cover for She Even Woke Me Up To Say Goodbye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bdab9fe2b8b235b86088f022a4ce1f2.png" alt="Cover for She Even Woke Me Up To Say Goodbye" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-12</td>
       <td>Jerry Lee Lewis</td>
@@ -431,7 +435,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/8AsI8Ns44etv0QGFf76OrC5O8ey_9DUg-qk-Pfv8je4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTUw/MjItMTQ0NTYwODMw/OS0yMDU1LmpwZWc.jpeg" alt="Cover for A Six Pack To Go" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/711583fecd5a62f7312805159d9e9dba.png" alt="Cover for A Six Pack To Go" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Hank Thompson</td>
@@ -452,6 +456,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60bfef2b39e99918bd9f96940e27bf2.png" alt="Cover for I Am What I Am" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-09</td>
       <td>George Jones</td>
@@ -463,12 +468,12 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 54</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1986-08-19</td>
@@ -486,6 +491,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f66e4fd7cba31a753c61e75528e8b4b.png" alt="Cover for Hillbilly Deluxe" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-07-07</td>
       <td>Dwight Yoakam</td>
@@ -503,7 +509,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/pztd485_dNwUUY6MeC4GsSo7c9yOi05OOgPgOW3kXt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NjgtMTUyNzYwNjEz/NC00NjM0LmpwZWc.jpeg" alt="Cover for Take This Job And Shove It" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0de91e9125bd488bb525b955383c0c.png" alt="Cover for Take This Job And Shove It" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Johnny Paycheck</td>
@@ -517,7 +523,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 81</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 82</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 93</li>
         </ul>
       </td>
@@ -525,7 +531,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Ohue0Ti9Sa5IkEtDsebuFf33Bb6LnF_2kie_TmhLj6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM4/OTAtMTM0MDI0MDA3/OC0xNjkzLmpwZWc.jpeg" alt="Cover for Memphis Beat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/163fbaeceb9d1a7d0c4b0e2ab1400602.png" alt="Cover for Memphis Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Jerry Lee Lewis</td>
@@ -544,6 +550,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8d92fb0776c07f8c6c8bd7de5aca635.png" alt="Cover for Buenas Noches From a Lonely Room" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-08-02</td>
       <td>Dwight Yoakam</td>
@@ -561,6 +568,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d61c68eb3045f085c7fd9f8db440e4.png" alt="Cover for American Originals" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Johnny Horton</td>
@@ -575,7 +583,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 14</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 17</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 96</li>
         </ul>
       </td>
@@ -602,6 +610,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a58dc648cdb6c456857657f08f95dedf.png" alt="Cover for Just Lookin&#39; for a Hit" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-09-20</td>
       <td>Dwight Yoakam</td>
@@ -619,6 +628,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e467a565e36cffd000c419a29f89f122.png" alt="Cover for Act Naturally" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-10-04</td>
       <td>Buck Owens</td>
@@ -637,7 +647,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/xsN0uTghE96G2N3FxiChKNZ5UGqd7Dkb1Txd255wNuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjQ3/NjQtMTM5MzAyMjc0/OS01NjA2LmpwZWc.jpeg" alt="Cover for Greatest Hits Encore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/460d307549314320b9a38a8dbd03a345.png" alt="Cover for Greatest Hits Encore" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-08-07</td>
       <td>Tanya Tucker</td>
@@ -690,7 +700,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/fEFb0UT6XB2BEXv5zRTO7ylCLTBMMbfbF5j-NoBgM3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzQ4LTE1MDg1ODk0/NDQtMTAwMS5qcGVn.jpeg" alt="Cover for All-Time Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e2af56d8c44e5593865b6f4d3431f2.png" alt="Cover for All-Time Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Buck Owens</td>
@@ -711,7 +721,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/fEFb0UT6XB2BEXv5zRTO7ylCLTBMMbfbF5j-NoBgM3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzQ4LTE1MDg1ODk0/NDQtMTAwMS5qcGVn.jpeg" alt="Cover for All-Time Greatest Hits Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42eb910392bce86ca56e74fa8bf7d1e3.png" alt="Cover for All-Time Greatest Hits Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Buck Owens</td>
@@ -729,6 +739,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b379ea95f83714f2b81161b15a663ac2.png" alt="Cover for Waltz Across Texas" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Ernest Tubb</td>
@@ -747,6 +758,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a76559a8f6b041e6c1d54ffc7d530aa9.png" alt="Cover for From Hell To Paradise" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-05-12</td>
       <td>The Mavericks</td>
@@ -754,14 +766,12 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/early-90s-country" | relative_url }}">early 90s country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/early-90s-country" | relative_url }}">early 90s country</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -800,7 +810,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 51</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 52</li>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 97</li>
         </ul>
       </td>
@@ -849,6 +859,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cda9406dced1d269ea7750e8b3ef1966.png" alt="Cover for Alone and Forsaken" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-04-18</td>
       <td>Hank Williams</td>
@@ -866,6 +877,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90f44423828a0e4c71305713a805b0f1.png" alt="Cover for Dwight Live" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-23</td>
       <td>Dwight Yoakam</td>
@@ -891,13 +903,11 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mid-90s-country" | relative_url }}">mid 90s country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mid-90s-country" | relative_url }}">mid 90s country</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -924,6 +934,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61be96fe650046aba1592dc6e8efcdb6.png" alt="Cover for BR5-49" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-17</td>
       <td>BR5-49</td>
@@ -943,6 +954,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e9b70edb2246d29714ae66a23a1f2f.png" alt="Cover for Super Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Ray Price</td>
@@ -957,7 +969,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 59</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 61</li>
             <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 93</li>
         </ul>
       </td>
@@ -981,24 +993,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>1998-09-17</td>
-      <td>Hank Williams</td>
-      <td>The Complete Hank Williams</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1999</td>
@@ -1019,10 +1014,11 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>63</td>
       <td>
+          <img src="https://i.discogs.com/Wgtrfdp4ZarlKmDlO0nPAN2Pi26jgeC2Wx_ZHv9MsP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg4/MzctMTY0OTM3MDA2/OC0xNzMxLmpwZWc.jpeg" alt="Cover for Wild, Free &amp; Reckless" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Wayne Hancock</td>
-      <td>Wild, Free and Reckless</td>
+      <td>Wild, Free &amp; Reckless</td>
       <td>
         <ul>
         </ul>
@@ -1035,11 +1031,10 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Wgtrfdp4ZarlKmDlO0nPAN2Pi26jgeC2Wx_ZHv9MsP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg4/MzctMTY0OTM3MDA2/OC0xNzMxLmpwZWc.jpeg" alt="Cover for Wild, Free &amp; Reckless" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Wayne Hancock</td>
-      <td>Wild, Free &amp; Reckless</td>
+      <td>Wild, Free and Reckless</td>
       <td>
         <ul>
         </ul>
@@ -1088,6 +1083,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5525e8bbd5dc51085b26ba632327c786.png" alt="Cover for dwightyoakamacoustic.net" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-30</td>
       <td>Dwight Yoakam</td>
@@ -1103,9 +1099,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/gaIQnpbrJee4sQ1LKVO0cMFyB3CLKtmxNq0ybqTRTg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzA0/MTAtMTI4NTg1MzU2/Ni5qcGVn.jpeg" alt="Cover for A Town Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Wayne Hancock</td>
@@ -1144,7 +1139,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f0e5fc450b34d30cdb7813b6873f94a.png" alt="Cover for RCA Country Legends" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1153,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 7</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1260,6 +1255,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eea1ed50ac2c488f84053b750696fc02.png" alt="Cover for The Very Best of Dwight Yoakam" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-27</td>
       <td>Dwight Yoakam</td>
@@ -1275,7 +1271,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2005-05-11</td>
@@ -1310,7 +1306,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/59p46BIFDm-gKuv-rH2Z7qj4XCWCOYABT2G7F1IoST8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTY3/MzYtMTE5MTc3Njcy/OS5qcGVn.jpeg" alt="Cover for The Dirty Canon" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,9 +1329,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/WWXDqdDIwGLYwB6X-kz0PyIkwrJlhlr0crxqy84deUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI5/MTI4LTE1ODk4MjA1/MTQtODc3Ny5qcGVn.jpeg" alt="Cover for Connect Set" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Derailers</td>
@@ -1393,8 +1388,9 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8eaeffdec3b9dcb0c9e35a0d0ed69fd.png" alt="Cover for Dog Days" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-10</td>
       <td>BR5-49</td>
@@ -1412,7 +1408,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/rFpQOish3HQyxilofajXmsogoVl0s75-QPIk3bujUMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODQy/NDctMTQ3NzkzMzk3/MC0zMjk4LmpwZWc.jpeg" alt="Cover for The Definitive Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19f9f8709220405407b821be22440b7f.png" alt="Cover for The Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-06</td>
       <td>Ernest Tubb</td>
@@ -1451,7 +1447,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/3XaTciT1v1v9NnCwavi5OYju_E2mAOqknZVzHftcvfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE2/NzIyLTE1MjI5Mzg5/NjktNDg2OC5qcGVn.jpeg" alt="Cover for Santa Loves To Boogie" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,7 +1483,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 55</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1512,6 +1508,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9aaac47e6d4a9aa240c777de2e6ed6.png" alt="Cover for Dwight Sings Buck" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-23</td>
       <td>Dwight Yoakam</td>
@@ -1529,6 +1526,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39046f691e4c3769a2c137451887b6c1.png" alt="Cover for Viper of Melody" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Wayne Hancock</td>
@@ -1547,7 +1545,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/5GU1Ot5nXD6BSlx0dYQCzmH5Du9fOKfHn44AbrRNLpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDYx/MDItMTM4NzcwMjEy/MS01NzI1LmpwZWc.jpeg" alt="Cover for I&#39;ll Keep Calling" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4468024ddceb4fd78bdaaefabe63a8d0.png" alt="Cover for I&#39;ll Keep Calling" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-01</td>
       <td>JP Harris &amp; The Tough Choices</td>
@@ -1579,7 +1577,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 56</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1598,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 23</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1682,12 +1680,12 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       <td>
         <ul>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 30</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 62</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/FZV2XmCKfdGDji8ccWf-tQWzKmNdKouBEtfsCLh-jOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg5/NDE5LTE1MjA3MDIw/NzItNjQwNS5qcGVn.jpeg" alt="Cover for Relapse" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1700,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 17</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1721,7 +1719,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 39</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1760,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/46Z0dOyKOQ6ZAg91vRJIdh53iHxVkOBf1R2mw8KNKZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYy/MDQzLTE1OTkxNTkz/NzItMzQyOC5qcGVn.jpeg" alt="Cover for How Tall the Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,6 +1775,28 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/FSBbyZG7Dz8kY1DPq1bXEjgddry1fj0zrcnj5NqZlzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEy/NjcxLTE1Mjg1NTg1/NDktMjM0NS5qcGVn.jpeg" alt="Cover for That&#39;s All There Is (And There Ain&#39;t No More)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Pat Reedy &amp; the Longtime Goners</td>
+      <td>That&#39;s All There Is (And There Ain&#39;t No More)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 9</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1816,12 +1836,12 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 25</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/j1UkO64PRJNSJT6G6EA2lySM2qySTyY_FC6cPOBVXb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc5/MjY2LTE1ODUwMjcz/MzItNTEwOC5qcGVn.jpeg" alt="Cover for Where the Honkytonk Belongs" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,7 +1857,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 13</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1894,14 +1914,14 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 82</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/oisiO2Ak0YOL7sp8lFDZcMU0_T6tXJ5sd8wV3cEfgDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI5/MTI1LTE1OTg1NTc4/MzctMTY4MC5qcGVn.jpeg" alt="Cover for Hell of a Woman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49016740438791744d52b7db9245e0d1.png" alt="Cover for Hell of a Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-22</td>
       <td>Emily Nenni</td>
@@ -1934,13 +1954,14 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c72cc7f414b7b579283ca9e0f8f8b941.png" alt="Cover for F.O.R.D" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>James Lann</td>

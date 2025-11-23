@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T05:23:08.547Z
+date: 2025-11-23T12:24:37.969Z
 permalink: tags/power-noise
 title: power noise
 ---
 
 ## power noise
 
-Last updated: <time datetime="2025-10-21T05:23:08.547Z">Tue Oct 21 2025 08:23:08 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-23T12:24:37.969Z">Sun Nov 23 2025 14:24:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>1977</td>
@@ -49,7 +49,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/MU3guSCAA8O3B563KtYI7nslcHYwR4PKiwhJnEhtTZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njcx/NzQ4LTE2OTc5ODYw/NTctMTQ0Ni5qcGVn.jpeg" alt="Cover for Morthor Spede" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/_QdWnIp8ds5gSVtlEUn66cB9JM_4CqvlNcGaa0vZmTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjA1/MC0xMzE3ODkyMjQx/LmpwZWc.jpeg" alt="Cover for SLUG" style="max-width:120px; height:auto;" />
       </td>
@@ -100,12 +100,12 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 2</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>1997-04-22</td>
@@ -128,7 +128,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
       </td>
       <td>1999-05-10</td>
@@ -147,7 +147,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ZihHJOy7EVIzZxKmGyRZ3KS4wkj_Fz9cpXrPGyTsgNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkw/LTExODIwODU4NjIu/anBlZw.jpeg" alt="Cover for Drum &#39; N &#39; Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/ZihHJOy7EVIzZxKmGyRZ3KS4wkj_Fz9cpXrPGyTsgNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkw/LTExODIwODU4NjIu/anBlZw.jpeg" alt="Cover for drum &#39;n&#39; noise" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/4trO_iQF719YFbf52ycKexvTiqsF2etDVOh3Xmr8jDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjU2/LTEzOTg0NzU4OTkt/ODA4My5qcGVn.jpeg" alt="Cover for Blast Furnace" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +204,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/IZ5benVIyXePwcsXad9Dzz-KxxXOMEcsu0pVgpRiiyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTAt/MTIzMDYzMDEyMS5q/cGVn.jpeg" alt="Cover for discopathology" style="max-width:120px; height:auto;" />
       </td>
@@ -220,13 +220,13 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 60</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 61</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/GV1YgtWN8aOtcoZ9PzSpi9XOGiAjphn7vjs_Pfa0mc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM3/OS0xMjAzOTU4MTA0/LmpwZWc.jpeg" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +249,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/I9CVI9veunBehkoCwQo2QZApEcrzJj8l-IysxqqzeGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzMw/Ny0xNzA2NzU3OTQy/LTIwNjIucG5n.jpeg" alt="Cover for Unter Null" style="max-width:120px; height:auto;" />
       </td>
@@ -268,26 +268,25 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cfa99d1e64e4f8d903a569684a247b8.png" alt="Cover for Irony Is" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-20</td>
       <td>2nd Gen</td>
       <td>Irony Is</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2001-08</td>
@@ -309,7 +308,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2001-09-27</td>
@@ -328,7 +327,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/jLfT9FLIReIrWTWtB_WlwSgQ0BaUQvjoK454rhO56a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMw/MC0xMzM0MjY0MjYw/LmpwZWc.jpeg" alt="Cover for Lies In Your Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +351,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/iFwatXAvw54WKAg-XI7PWflWCSVFUb0iZ8AfktS4dbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjMw/My0wMDEuanBn.jpeg" alt="Cover for Death-Orgasm Connector" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +372,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/uPXSRVqc7Y0SdHmRr1nYmzOJWUJYgoGaSHUWqp6XMDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDEw/Ni0xNDQwNzc3MDE4/LTg3NjUuanBlZw.jpeg" alt="Cover for Shock Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -387,13 +386,13 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 71</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/EZRkizWdJtBUEqHu4c06XblwcYaav89P7lKuT8liz6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njcy/NS0xMzMzNTY5NDk0/LmpwZWc.jpeg" alt="Cover for Fetiche" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +412,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f68e77c1052f281ff9f50ba2d9254977.png" alt="Cover for Au Seuil Du Néant" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +431,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
       </td>
       <td>2003-09-01</td>
@@ -451,7 +450,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/258af596e8bc4a769ffc8c9e46da8708.png" alt="Cover for malleus maleficarum" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +474,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Wounds of the Earth Compilation I" style="max-width:120px; height:auto;" />
       </td>
@@ -496,9 +495,9 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/lVpOxu46SS7xY4-7DAYfiH6MA2iVFZBEUTWuZynsrJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjgw/Ny0xMTAzNzEyOTYw/LmpwZw.jpeg" alt="Cover for Cold Steel World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/984e2a1b9ab74a8cb7031455632fc3b3.png" alt="Cover for Cold Steel World" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-24</td>
       <td>Terrorfakt</td>
@@ -514,7 +513,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/hZMz4TECXAoxgpXhyLO27CRobqZvNZmDhMRsxCpCC7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjQ0/Ny0xMTUxOTE3ODAw/LmpwZWc.jpeg" alt="Cover for Blancegro Brant and His Loss" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +584,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
       </td>
       <td>2005</td>
@@ -605,7 +604,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/LYeiCUtKl9RKarXXSIV8YjK20I561g7z0rWUarVzFkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjU4/MS0xMTQ3Mjg4NzIz/LmpwZWc.jpeg" alt="Cover for Influenza" style="max-width:120px; height:auto;" />
       </td>
@@ -624,9 +623,9 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/a_B7YBO3DG3uJQn2GNQywDvy5IybM8GZuf7p3ZCCu9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjI4/OS0xMTgzNDEwNTU3/LmpwZWc.jpeg" alt="Cover for The Day After (The Hecq Destruxxion)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f6a4b661ca27c05ea1d235243e8ca50.png" alt="Cover for The Day After (The Hecq Destruxxion)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-31</td>
       <td>Pzychobitch</td>
@@ -647,7 +646,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/h_dY2hrMFZwvav9s6aCuXYg36ntpKLKrIUpjqCr6tFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEx/OC0xMTUxNjkyNjY1/LmpwZWc.jpeg" alt="Cover for Entropy" style="max-width:120px; height:auto;" />
       </td>
@@ -684,13 +683,13 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2005-09-06</td>
@@ -707,7 +706,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2005-09-30</td>
@@ -724,7 +723,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/nte5-_lSDgMVyE-LrKFZBJpZ2jWki18DSeNTT5azXdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODYw/NC0xMTUyNjM3MTI4/LmpwZWc.jpeg" alt="Cover for Pink Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -797,7 +796,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Lpn2yRj2gTvd5ZK6IwKDJE9fxfRREofLnWhqUnZoDe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTI0/OC0xMTc0MTc4NTAx/LmpwZWc.jpeg" alt="Cover for Maximum Hate" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +817,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/WmMeNVhUB2C-RSrlVcSEtRrrG-TIICCwWZbWc-cukM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzgw/OC0xMTM5ODg2MDg3/LmpwZWc.jpeg" alt="Cover for Remixes For Free?" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +837,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/AbAPwyyw986lITn1TRHSNVag3eG6ll4S_llbBA1OwaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDk0/NS0xMTUxNzMwODUx/LmpwZWc.jpeg" alt="Cover for Devotion, Discipline, And Denial" style="max-width:120px; height:auto;" />
       </td>
@@ -855,7 +854,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/ELmvuTkrB7GBKj_bYAJpoE8obYo_MYYx5hucIegbPsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTg5/NS0xMTU5NjQwMDky/LmpwZWc.jpeg" alt="Cover for This is what we seek" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +874,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/SRuj4HpfEiRdA4nF9kK5iheyHRoXDJiYtiIV9vEggCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjk4/OS0xMjk0NTQwNTcx/LmpwZWc.jpeg" alt="Cover for Transmissions" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +892,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/m-rJI0YDobNX10UByHIRAkC6EHhMhStO91VsuLCyMTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTU0/NC0xNDM5MDMxNDc3/LTk3OTIuanBlZw.jpeg" alt="Cover for Synthetic Adrenaline Music" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +910,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/m-rJI0YDobNX10UByHIRAkC6EHhMhStO91VsuLCyMTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTU0/NC0xNDM5MDMxNDc3/LTk3OTIuanBlZw.jpeg" alt="Cover for Synthetic Adrenaline Music" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +928,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2007</td>
@@ -949,7 +948,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/_fUTqh49xCuhK0Ss0XytygUL_aTTkWTS_S3lVcMMxI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ2/MjctMTIwMjYyNzc3/OS5qcGVn.jpeg" alt="Cover for Liquid Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -967,7 +966,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/fdxh4uYEgs1gQHgxzXQ0DdDej5Tlg7pLy1KPaCUduP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjUx/My0xNDk1NDc0MDA4/LTUyMTYuanBlZw.jpeg" alt="Cover for Colonialist Nature And Misanthropy" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +984,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/csAErZJxFJhUc6HhZgYrWtFF4U-yGDTFAeDGoKFgDu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjU0/NS0xMTcwNDExNTU2/LmpwZWc.jpeg" alt="Cover for Anomalies (Selected Demos &amp; Outtakes 1998 - 2004)" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1005,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_bqKq151rN24Dh2QLl-Cn1sZnexwrcfxx9nZdWZI9sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI4/NzUtMTE5Mzg1Mjg4/OS5qcGVn.jpeg" alt="Cover for Purevil" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,7 +1025,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2008-01-21</td>
@@ -1046,7 +1045,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>2008-05-13</td>
@@ -1061,13 +1060,13 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 14</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/L4xeqoSv4uFMPze0zf21T5MKFEo79rc4o2uI03XgefU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAx/MzQtMTIxMjA1MTAw/Mi5qcGVn.jpeg" alt="Cover for [ko·mor·bid]" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1088,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/7cmWmUwD0mMiSKij3di_LLDqV35d0Fsb6vIrGqPd6-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NTUtMTIxMjMzNzc3/MS5qcGVn.jpeg" alt="Cover for Morphogenesis" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1131,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/l0bzYV3YLigAZs-ig4ErRbVN79pcqmpVv3GexH0mhVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI3/NjEtMTIxMDI0MTE4/My5qcGVn.jpeg" alt="Cover for one fine day in the pyramid" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1150,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Wxs83mt-IoCa2P7yPBr62G2qMBZ7LqVHmcG-P8Frpj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcz/MDQtMTIxODgyMTk2/OC5qcGVn.jpeg" alt="Cover for Doomsday Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,8 +1170,9 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4f6f6bd8cfee568155f6936db37c628.png" alt="Cover for Detonation" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-19</td>
       <td>Modulate</td>
@@ -1185,12 +1185,12 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       <td>
         <ul>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 65</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 75</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/8VWHbVrtBKzrtEK13jH2ZxSvDIZfGvXHLCc_DzjNXGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ1/NjYtMTIyMzE3MDA2/Ny5qcGVn.jpeg" alt="Cover for Past:Present:Future" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1209,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2008-10-09</td>
@@ -1224,13 +1224,14 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc6ae42c0a1c86a0f9e6ebbb4dd0473d.png" alt="Cover for math &amp; emotion" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-16</td>
       <td>klangstabil</td>
@@ -1252,7 +1253,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/5YAo2Kmkadt-BFpe6PmvPenplQP7pXLUDZ99ywHhvUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzcw/MjA0LTE3MDc2NzQ5/NjUtMTM4NC5qcGVn.jpeg" alt="Cover for America the Beautiful (disc 2: Stun Gun)" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1279,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2009</td>
@@ -1298,7 +1299,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/0lK2KO8uhTPdTwrkLBtbPqmjIMguE4MUkxAQjP6ZajM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODI2/OTgtMTIzNjYyNDUw/MS5qcGVn.jpeg" alt="Cover for Plague Called HuMANity" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1317,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/X7i_R0WXWsKL9-viFzWHkKDeVdac-visZOcaaNwafas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE1/MDYtMTI1ODQxMDkx/NC5qcGVn.jpeg" alt="Cover for The Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1337,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/BgfdL7Sq62qkp0dkX1vdJMaU8vdz0vMiYIl61c1pkmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NDAtMTY1ODUzNjU1/My04NzkxLmpwZWc.jpeg" alt="Cover for System Shocked" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1356,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
       </td>
       <td>2010-02-16</td>
@@ -1375,7 +1376,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/UFGiKdmz363PxNXUkJpsc7xhbzNLnPNUi4p7vcFf10w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTM0/ODUtMTI3MjUxODQ2/MC5qcGVn.jpeg" alt="Cover for This Is Why We Can&#39;t Have Nice Things" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1404,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Q7BGz-80G83Cz2yMltiQQZrsEY1MQ7zowDPuwtMFKC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM3/NTMtMTI4MDg0ODk4/MC5qcGVn.jpeg" alt="Cover for The Lesser Ophidian Gate" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,7 +1425,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/bKQq3PrEG25aImG54C75gaQZ5wO3ftG0runrhpQL6nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzIz/NzktMTMwNTAwMzI3/MS5qcGVn.jpeg" alt="Cover for Stonebrain" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1448,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/9eNqfEy22lQHqSyrD94EduADnl9cBwm7f8UpTbrP-kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc2/NDAtMTYzMDc1NTUx/Mi00NDMwLmpwZWc.jpeg" alt="Cover for There&#39;s Always One More Son of a Bitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1472,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/vHgvEAQXNeBCzzd8zAUYGXMn2MrvQiMh5e46Wuu7i0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzE2/NjAtMTM1NDQ4NzI3/My0yMTEyLmpwZWc.jpeg" alt="Cover for Predatory Things of a Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -1490,9 +1491,9 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/YQFD2cBYkvIcWclLntqM9LCDoGvQgVFSyrOFeMLs1Aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTMy/MTktMTM5NDgwOTgw/NS00MTc1LmpwZWc.jpeg" alt="Cover for INCINERATOR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a48dcba4cbb0b1b274f0f7ff38376dd.png" alt="Cover for INCINERATOR" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-09</td>
       <td>Dreamcrusher</td>
@@ -1508,15 +1509,15 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 63</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 86</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 69</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 87</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
       </td>
       <td>2013-02-21</td>
@@ -1535,14 +1536,14 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 10</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 11</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 38</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/iAcfxyuE7dvdgw4adCQjpKzA_HAKcHtEjsbPy8pUz7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDM5/ODMtMTM2Mzk4MzA2/NS01NzA4LmpwZWc.jpeg" alt="Cover for Room 78" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1562,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/q43Rr_elaUuEEjnZZpbIl849xJo2YwuBwpfDiQbzTiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDYy/OTQtMTYzOTIzNTI0/NS03MzMyLmpwZWc.jpeg" alt="Cover for Psychedelic Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,8 +1598,9 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f9a5fecdf2964801f136755ce4e6255.png" alt="Cover for Gray Data" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-18</td>
       <td>Five Star Hotel</td>
@@ -1611,14 +1613,15 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 5</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 79</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 7</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e42fbc364c42db607b44c01507e7c281.png" alt="Cover for I Will Remember It All Differently" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-08</td>
       <td>Alter Der Ruine</td>
@@ -1639,7 +1642,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 33</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 34</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 46</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 85</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 92</li>
@@ -1666,16 +1669,16 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 83</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 87</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 88</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 92</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/eFMe29FIrWDHL4-VHmjF-hgCBs6Km7SqdX_oWHCuPIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/NDc4LTE3MjM4MDM1/NTEtMTIxMy5qcGVn.jpeg" alt="Cover for Crush Resist (CR_2015)" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1696,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/I9Wd48klPIw98nSKIy-K6f5tNj1c5hJAT5NZOjbHVAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjY3/NTEtMTQ3NDE5MDk5/NS05MzQyLmpwZWc.jpeg" alt="Cover for INVOK" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,7 +1717,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 53</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 80</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 84</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 89</li>
@@ -1724,7 +1727,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/AgEe-qo2ZAMEJzs1y9W8BReF9PcprDNrJs9_3DCXb5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg0/ODMtMTQ4OTk2MzA5/Ni02MDIyLmpwZWc.jpeg" alt="Cover for Wildwood" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1747,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/YWW_mOeEVIkIFonEFheQF5lHUrNCCVCZw0lLEPImFBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjUy/MzAtMTQ4NTM3OTcz/OS0yNzM5LnBuZw.jpeg" alt="Cover for Ursprung Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1771,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Mjhab_7IoGaw1r1RlE2aAI5sehtvaYdPvAw0WUd0Vxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjIz/MzEzLTE0OTM2ODUw/MzYtNjg4Mi5qcGVn.jpeg" alt="Cover for last days of s.e.x." style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1790,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/n04hWYyfvpUBuf-LAe6YXGhYjoVb41226nnTzcOMDU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM5/NDI3LTE1MDY4NjMy/MjctODI3NC5qcGVn.jpeg" alt="Cover for Kainskult" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,8 +1813,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
@@ -1819,7 +1822,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/N7cDmTAmeQl83XlozwX5k5MJzDAVOeK7bHYTRbM626U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE5/MzgxLTE1MTIxMjQ2/NDQtNTk1My5qcGVn.jpeg" alt="Cover for To The Core Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,32 +1846,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/oS13eEjSWQY_3hu_C5fp1Z2TZ4U26JR-e6ao93osE6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI0/MTkyLTE1MTQyNDE5/MzMtODE3My5wbmc.jpeg" alt="Cover for Insert Genre Here" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-12-25</td>
-      <td>GROUNDBREAKING</td>
-      <td>Insert Genre Here</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/vAWerp8oNUxyzrCtgGM8GJ_2dG8lb0U-yOi3QPWKgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/NzA2LTE1ODQ0ODc3/ODgtMTA3MC5qcGVn.jpeg" alt="Cover for Starving Slvts Always Get Their Fix" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,34 +1863,14 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       <td>
         <ul>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 80</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/aABo6V3R1GNkmxj0ZH2UHmBraLUPlSzjEbgSms4zs3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/NjI4LTE1MjgzMjEy/MzctNzQ3Ny5qcGVn.jpeg" alt="Cover for did it and got away with it" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-03-16</td>
-      <td>Blackhandpath</td>
-      <td>did it and got away with it</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Lr3uWJZouHpfnGazwiFq7Wmx8OLlVfRfCJsbfCzxDMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ3/NDc2LTE1ODg2MzM0/NDAtMjgzMy5qcGVn.jpeg" alt="Cover for THIS WORLD IS SICK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/383fed971586947781bd8726da6f8ecc.png" alt="Cover for THIS WORLD IS SICK" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-19</td>
       <td>IC3PEAK</td>
@@ -1928,14 +1886,14 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 60</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 62</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 68</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 72</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/_L8P7TPBBzzl06mbgMkReTfp7MMdE4plYYPUMZXOdaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ2/NDYyLTE1MzczNjg5/NTEtODE1Ny5qcGVn.jpeg" alt="Cover for The Jericho Records" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,7 +1916,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 47</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 78</li>
@@ -1968,7 +1926,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/VVndWSJyDJmaJalAVhK9Q-3c0-mFCQPnY6ZMUqtaavw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ1/NTIyLTE1NDExNTg0/NzktMTU1NC5qcGVn.jpeg" alt="Cover for Criminal remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,13 +1945,13 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 58</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/qy-vp4knpozhgbUx_xidzK23DQDn4adRr3z_YFdZOnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk1/MzM3LTE1NTkyMDIx/MDEtMzA1OS5qcGVn.jpeg" alt="Cover for Murder Under Establishment" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,7 +1980,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/QVtKxvgXj7BqY2uu82ZJ1upJgQCNcKguVPTthO7NxZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcw/NDQ2LTE1NjkxNzAw/OTMtNTgwOC5qcGVn.jpeg" alt="Cover for Slip B" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,12 +1996,12 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 26</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/et3-OyM4FzQPsDzmGi7zc6R6ch3xGCewz9Z8N6Od0OM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc4/NzIzLTE1NzQ0MzMx/ODktMjMxNi5qcGVn.jpeg" alt="Cover for Hounds Of The Harbour" style="max-width:120px; height:auto;" />
       </td>
@@ -2063,9 +2021,28 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/S58QIukVFg0_esLhT_UvDpCns48FuvO8P-f5LSBPz0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjIz/MTMxLTE2MjAzNzQ2/NzktMTkyNS5qcGVn.jpeg" alt="Cover for cum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dda4001c0c3048a618c502ee4e93c914.png" alt="Cover for Loss Prevention Reloaded" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-13</td>
+      <td>KFC Murder Chicks</td>
+      <td>Loss Prevention Reloaded</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 3</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ff37eb694ad3e3b50c764bd7274bf4c.png" alt="Cover for cum" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-14</td>
       <td>voiddweller</td>
@@ -2080,12 +2057,13 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/c9mRr1SeJufdvGGyV7otU87l0tmr6a3iLI2R7F8GDpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTA3/MzQ0LTE3MTk4NDE1/NjgtNTE2MS5qcGVn.jpeg" alt="Cover for CONDENSE" style="max-width:120px; height:auto;" />
       </td>
@@ -2102,45 +2080,20 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 20</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>89</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/412c19248882dd4e9ff833d4470e0626.png" alt="Cover for Rainbow Bridge 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-04-29</td>
-      <td>Sematary</td>
-      <td>Rainbow Bridge 3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 25</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 39</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 68</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 86</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-          <img src="https://i.discogs.com/wWLK6YWB2WO14-0bPuPInDvAP61y84Dje1eLt6Du1mM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM1/MjkwLTE2NDgxODUy/ODEtODAzOS5qcGVn.jpeg" alt="Cover for Their Money Is Your Money" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5abbd49f4c4682288a1b7464ad343440.png" alt="Cover for Their Money Is Your Money" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-25</td>
       <td>1 800 PAIN</td>
       <td>Their Money Is Your Money</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
         </ul>
       </td>
       <td>
@@ -2149,9 +2102,9 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/5MMVxc0eHNeoGL7kd3au2Xe-KU3u519ad5EL7wjIx2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzAy/NTIxLTE2NjQ3NDg3/MDktNTkwNS5qcGVn.jpeg" alt="Cover for Suture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3951eee522a737c393be2d0939c07548.png" alt="Cover for Suture" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-19</td>
       <td>KAVARI</td>
@@ -2163,15 +2116,15 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 19</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 62</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 21</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Iuzmv0qsCeZh6Bf2Sosglm7fQxZHMQycadOf2xrUMTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDk5/MzUxLTE2Njg2MDk0/MTAtNTUwMy5qcGVn.jpeg" alt="Cover for Desquamation (Fire, Burn. Nobody)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8d5ae94bfd5cc617f24adcec45cf413.png" alt="Cover for Desquamation (Fire, Burn. Nobody)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-03</td>
       <td>Rainy Miller</td>
@@ -2186,7 +2139,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/E2ERLoUrAcjlQs6rh1X7X7UDFmjDuBUBXUXQqyNt_yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ2/NDMzLTE1MzczNjc5/OTktOTg4NC5qcGVn.jpeg" alt="Cover for Hobby Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -2205,12 +2158,36 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>America the Beautiful (disc 1: Car Chase)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/9lxevwhcY6rshI7tAUtCa8HJK3-JJs2oT9VztvbNkhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTE2/MS0xMzk4NzQwODYw/LTY0NzUuanBlZw.jpeg" alt="Cover for Panacea Shares Needles With Tarmvred" style="max-width:120px; height:auto;" />
       </td>
@@ -2229,7 +2206,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/a-DNjDrnj0RRbTbaVfIEe8TqIlpreI1WMZhTpY-4RDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMx/NTgzLTE2OTU5NzE3/OTEtMjY3Mi5wbmc.jpeg" alt="Cover for NO EXITS" style="max-width:120px; height:auto;" />
       </td>
@@ -2279,40 +2256,63 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 100</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 100</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 100</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 100</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 100</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 100</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 100</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 100</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 100</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 100</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/SScFJKsZh8RWpX8yUAJadXEMrUhi17SopONFNsdGoA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTUtMTY1OC5qcGVn.jpeg" alt="Cover for The Collective" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1914379ce4e72c120f7a018666ccb1ec.png" alt="Cover for The Collective" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-08</td>
       <td>Kim Gordon</td>
       <td>The Collective</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4daa4f62749c47dc27cc5f0f1db665b.png" alt="Cover for I HEARD YOUR CALLS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-06-14</td>
+      <td>Blood of Aza</td>
+      <td>I HEARD YOUR CALLS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
       </td>
       <td></td>
@@ -2331,7 +2331,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td></td>
@@ -2346,7 +2346,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 54</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 55</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 98</li>
         </ul>
       </td>
@@ -2359,8 +2359,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
 - [rhythmic noise]({{ "/tags/rhythmic-noise" | relative_url }})
 - [industrial]({{ "/tags/industrial" | relative_url }})
 - [noise]({{ "/tags/noise" | relative_url }})
-- [post-industrial]({{ "/tags/post-industrial" | relative_url }})
 - [harsh noise]({{ "/tags/harsh-noise" | relative_url }})
+- [post-industrial]({{ "/tags/post-industrial" | relative_url }})
 - [power electronics]({{ "/tags/power-electronics" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [dark ambient]({{ "/tags/dark-ambient" | relative_url }})

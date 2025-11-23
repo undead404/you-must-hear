@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-06T22:55:57.492Z
+date: 2025-11-23T12:49:37.979Z
 permalink: tags/psychedelic-metal
 title: psychedelic metal
 ---
 
 ## psychedelic metal
 
-Last updated: <time datetime="2025-11-06T22:55:57.492Z">Fri Nov 07 2025 00:55:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T12:49:37.979Z">Sun Nov 23 2025 14:49:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1973</td>
@@ -52,8 +52,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5fa78fc72f2e110113f541d848ed4e0.png" alt="Cover for Spine of God" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-12-06</td>
       <td>Monster Magnet</td>
@@ -69,9 +70,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/6HVGK5Up10Eax2pJy15DdkSV_B1QtDOr3_LFL46pKMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODk4/NzgxLTE3MDg3MTA1/NjktODE3OC5qcGVn.jpeg" alt="Cover for Smell My Pipe" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Warp Spasm</td>
@@ -93,7 +93,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09432e8eb100d74894b0c491d6f83917.png" alt="Cover for Magickal Stones" style="max-width:120px; height:auto;" />
       </td>
@@ -110,8 +110,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87ea935a769bc6452c355f6790bb9aa5.png" alt="Cover for Mosquito" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Psychotic Waltz</td>
@@ -127,31 +128,26 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/itVwHAo55wEc1X1rWs5qQ9Ar07rJ8v2QDgqU_4PvKUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/Ny0xMzk4NjExMDkx/LTYyMjQuanBlZw.jpeg" alt="Cover for Mandylion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a1ab9a0dbe43ecbf768d8ce8ce5122.png" alt="Cover for Mandylion" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-08-28</td>
       <td>The Gathering</td>
       <td>Mandylion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 21</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
       </td>
       <td>1997</td>
@@ -183,7 +179,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 27</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -205,25 +201,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a71aab14fff23e11d42d0afc267a08.png" alt="Cover for The Wake" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-08-12</td>
-      <td>Voivod</td>
-      <td>The Wake</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td>1998</td>
@@ -247,7 +225,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>1999-07-20</td>
@@ -261,8 +239,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 1</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 13</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 50</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 52</li>
         </ul>
       </td>
@@ -270,6 +248,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e46a24120898c4f9c8d1a6a21c62f33.png" alt="Cover for Imaginary Sonicscape" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-18</td>
       <td>Sigh</td>
@@ -288,8 +267,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4bbcd375d884b0acb1f5c96afc4f4d2.png" alt="Cover for Austral Alien" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-17</td>
       <td>Alchemist</td>
@@ -305,7 +285,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/FMQiBjEzkGKHrBL-EikLQ9baz5F13UN9CQVZyPgsBrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE2/NDEtMTI3NDIxNTEx/OS5naWY.jpeg" alt="Cover for Aren&#39;t It Spectral" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +309,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/e1miByprJq-5oQN27-woXwFaJtVpy5evMl6DqwByVmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTgw/OTgtMTM5ODExMDIy/Mi04MDg2LmpwZWc.jpeg" alt="Cover for RELEASE FROM DUALITY CD 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -364,12 +344,12 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 18</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/OdYzqVFW6pzQrHDcxUcYko3a_5Mi6HvQ7_QEoFGzBco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU3/MDEtMTYwMzc1NDIw/My04NDMyLmpwZWc.jpeg" alt="Cover for Grand Opening And Closing!" style="max-width:120px; height:auto;" />
       </td>
@@ -383,12 +363,12 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 35</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/u7e4hoq3oMZsVhQIreDfA1ymwP03mhR8DlbqClQ1IuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA4/ODgtMTE4OTAyODM5/OS5naWY.jpeg" alt="Cover for Love Love Love" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +393,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
       </td>
       <td>2006-03-07</td>
@@ -432,7 +412,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/U-3E6-KkLkE_wRh9KK-u8hpCI8WT4Jie2U838JwYeWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjIx/OC0xMTY0NDE2ODY5/LmpwZWc.jpeg" alt="Cover for 2003-10-21: The Fillmore, Denver, CO, USA" style="max-width:120px; height:auto;" />
       </td>
@@ -466,12 +446,12 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 40</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
       </td>
       <td>2007</td>
@@ -493,7 +473,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
       </td>
       <td>2007-05</td>
@@ -517,7 +497,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/NTfOGQwu8j-E50BhAhgVW60cPMtBrpzhlsup2ZM9gT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk3/MzUtMTMzNzcwMTc2/NC02OTU2LmpwZWc.jpeg" alt="Cover for Tripsis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3de90b340cb4444bc4392caaf6706272.png" alt="Cover for Tripsis" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-08</td>
       <td>Alchemist</td>
@@ -549,12 +529,12 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 49</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/euTi0x3oqd2Q5LoxHD_ehdB3aS6m4fiXH8-8I0e_zqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk0/NjItMTIyMjc4NzQ3/OC5qcGVn.jpeg" alt="Cover for Moon Psychedelia Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +554,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/-usTbmP7BpA4jAhY4gK_AKgsa404y9XcKeaGfNwhFVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk5/ODMtMTIyMjA5Mzky/NC5naWY.jpeg" alt="Cover for The Risk of Gravitation" style="max-width:120px; height:auto;" />
       </td>
@@ -636,6 +616,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efa26897b83b3dba6ae4c85bf4727b1a.png" alt="Cover for Sequenzen einer Wanderung" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-19</td>
       <td>Nocte Obducta</td>
@@ -666,15 +647,15 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 17</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 44</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 86</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 93</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 94</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3ba5decb871f23412dbc04fa7961979.png" alt="Cover for Морж" style="max-width:120px; height:auto;" />
       </td>
@@ -699,8 +680,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/920e6b3ef6a547cbb8b26d9f1f36ec7b.png" alt="Cover for The Guessing Game" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-15</td>
       <td>Cathedral</td>
@@ -718,6 +700,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05e0589b89c44c5c8c4223f31ef68539.png" alt="Cover for Spiral Shadow" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-25</td>
       <td>Kylesa</td>
@@ -731,7 +714,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 80</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 81</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 86</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 92</li>
         </ul>
@@ -756,7 +739,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/tQdFT8WNMnkgbsFpFIT4mEzEmpv4m1hPPHpLzARdlgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc5/MDYtMTMyNjcxNTc1/NC5qcGVn.jpeg" alt="Cover for Candy Cane &#x2F; Oranssi Pazuzu" style="max-width:120px; height:auto;" />
       </td>
@@ -801,7 +784,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a01a9b92be5ae69434219aeac55ce29.png" alt="Cover for The Sleeping Gods" style="max-width:120px; height:auto;" />
       </td>
@@ -816,12 +799,32 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/758d1433068efdf22d3e884c959b6a56.png" alt="Cover for The Hunter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-26</td>
+      <td>Mastodon</td>
+      <td>The Hunter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 29</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/f24ZnYJylMFB1Q8e0n8PoJ1wIHdtj5S5-AT7HGVxap8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg4/NjMtMTMzMDQxMTEw/Ni5qcGVn.jpeg" alt="Cover for The Wait" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +863,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>2012-03-19</td>
@@ -884,7 +887,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
       </td>
       <td>2012-04-27</td>
@@ -904,7 +907,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aedc583e8fb84e34a0fd27be4189515e.png" alt="Cover for The Levitation Hex" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +925,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
       </td>
       <td>2012-09-04</td>
@@ -950,7 +953,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2e031f7cdb44619892fd30e8a0cbc8c.png" alt="Cover for The Architect" style="max-width:120px; height:auto;" />
       </td>
@@ -973,7 +976,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/DxHmTGEpw6JKoFHPPzSWH0dL_-_A1zadzhUc7gCTY4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg1/MjgyLTE0OTQ2NzA2/NjItMTU5NS5qcGVn.jpeg" alt="Cover for Black Spring Monolith - Rebirthing The Goat EP" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +1002,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2013-09-13</td>
@@ -1016,7 +1019,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/yHDiqwzNzksGHS0YIyCwPD1ZkKfGia-48ITJkkRtaBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODU1/ODktMTM4OTYwNzQ2/Mi03OTA2LmpwZWc.jpeg" alt="Cover for And the mouth of time is open" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,14 +1043,14 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 5</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 31</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/IEEZVYGKgAsiFO0Up28ljcbpdj_SJFmkWdBz5KB2AwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQw/MzItMTQzNzAwMzc0/NC0zMDI4LmpwZWc.jpeg" alt="Cover for Animal Fires" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,12 +1071,12 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 4</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
       </td>
       <td>2014</td>
@@ -1098,7 +1101,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/YdxgS2jL8dQami7Aym4ds3DhodjQLQBCP5c9RDjpHXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDYx/MjMtMTQxNzAxODQ4/Ny02OTgxLmpwZWc.jpeg" alt="Cover for Liquido Di Morte" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1143,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2014-08-31</td>
@@ -1162,7 +1165,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td>2014-12-30</td>
@@ -1204,7 +1207,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a6ea0aae33e96bf388b057a9788d70b.png" alt="Cover for M.I.V" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1233,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/pL9CQbyYnBcgTTbbUk0iwTx7rvMsYS3WoeNrxPrmxMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ4/NzYtMTQ0MDc5NTU2/My02NjM1LmpwZWc.jpeg" alt="Cover for Evoke" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1276,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/Sk8hN27CGCIIpUX28KmViyuD-lhEvst2Lsxx-WERKCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzU5/NzktMTQ1NjU3NTIx/Ni00ODUyLmpwZWc.jpeg" alt="Cover for Rooms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f89125ac5564f9506c5592c8b693b93a.png" alt="Cover for Rooms" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-26</td>
       <td>Todtgelichter</td>
@@ -1300,15 +1303,15 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 28</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 51</li>
             <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 59</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 67</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/A_Zzx_u_opyjnoQONqar0oxO2N-vVN4YPyZ5Zo25HrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTgy/ODQtMTQ4NzQ5NjMx/NC04NDM2LmpwZWc.jpeg" alt="Cover for WERE-JAGUARS III" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1332,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/FldtYldFI4hJWhg5tfJz5HOpfIxAJas_S9hYX7vjEks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAx/ODk4LTE0OTQ5NDgz/MDUtMzk1My5qcGVn.jpeg" alt="Cover for The Language Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,9 +1355,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/lf2Yv2GEJpbk8ypAugvH11Ty0RGn-ZmSP35R4MmHXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/OTI0LTE1MTEwMzc0/NTAtOTE5NC5wbmc.jpeg" alt="Cover for IAO 269" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b110f59c145fcdada04d2b31f810642.png" alt="Cover for IAO 269" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-24</td>
       <td>Corpse Garden</td>
@@ -1374,7 +1377,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2018</td>
@@ -1390,7 +1393,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/5UcGhNIH11vlGVskWXSKIEzrjSj1Q3qzbWUcK5SpLAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAy/NDg3LTE1MjgzNDg3/NTctMzE0MS5qcGVn.jpeg" alt="Cover for Sic Erat Scriptum" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,9 +1411,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/QWPp0ryJsLEoQiGprod_xIjmli-qoo3DWehsUFZ7DTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU0/MzQ3LTE1NTI2NTA5/NTUtOTU4NS5qcGVn.jpeg" alt="Cover for Chimera" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96535b38fc1375b99ae75363e4cb76ce.png" alt="Cover for Chimera" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-20</td>
       <td>Isa</td>
@@ -1431,7 +1434,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/4bNvzWZ34Es9tnkEZVDJ_gKIMGLvhWLgA74cImgC-kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcx/ODg4LTE1MjU3NjA2/OTktNTMyMC5qcGVn.jpeg" alt="Cover for Looking for a Painful Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01881839263dfc2a59fb64c7de7c95a3.png" alt="Cover for Looking for a Painful Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-05</td>
       <td>Tongue Party</td>
@@ -1457,6 +1460,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ac82e4308b3dfe757bd4785581e8b5a.png" alt="Cover for 一期一会" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>夢遊病者</td>
@@ -1478,7 +1482,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 63</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 78</li>
         </ul>
       </td>
@@ -1486,7 +1490,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/Dx80BggWQE5f2Dd076y-3s7iG7kPyjnRKZiR0RgPYIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ4/MDY4LTE1MjczMzc5/OTYtMjQ5NC5qcGVn.jpeg" alt="Cover for VOID" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4c278fbca75f30f9e20b86ae1cbae96.png" alt="Cover for VOID" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05</td>
       <td>Wolvennest</td>
@@ -1506,7 +1510,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>2018-09-25</td>
@@ -1558,9 +1562,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/9HOmi75PHVuSHAvi4Q_n9IdNxoON5gHnljaTG-Xwlx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY5/NjUxLTE2ODMxODY2/OTUtNzMxNS5qcGVn.jpeg" alt="Cover for L&#39;appel du vide" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea02e00727a6e0e448a3d9ff512afbbe.png" alt="Cover for L&#39;appel du vide" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-20</td>
       <td>Raccoon City Massacre</td>
@@ -1583,7 +1587,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/-1knVHHcI3OyOSTdurhxin4LkN1TFN0ikpTQ2CsIV_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODc0/NTQxLTE2MTAzNDEx/NzQtNzQzNi5qcGVn.jpeg" alt="Cover for Thrum" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,7 +1629,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dafc4cc9efcce3a0611d99ff6fff6af2.png" alt="Cover for God Simulacrum" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,6 +1653,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f277484eee125e9a18aa4979e01a113.png" alt="Cover for Ѫ" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-19</td>
       <td>夢遊病者</td>
@@ -1668,14 +1673,14 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 36</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/M21tDg3k7vZCZAbtUwEivdF24wQnSSx2kj2Ql5iPJdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYx/NDkzLTE1Njg5OTQ0/MjItNTc2MS5qcGVn.jpeg" alt="Cover for Hallucinogen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6d65dbfd99c613b07a3474e766eb58e.png" alt="Cover for Hallucinogen" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>Blut aus Nord</td>
@@ -1716,12 +1721,12 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2019-10-18</td>
@@ -1738,8 +1743,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5991f9f625e108d79409372383f17679.png" alt="Cover for Ballena Volcánica" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-01</td>
       <td>Moonbather</td>
@@ -1762,9 +1768,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/hDu_HmHTSFs-6Y6_8_kLR1qZK62rcv5mPE-Val2vmnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY5/NDU5LTE2ODMxODUw/ODktOTQ0My5qcGVn.jpeg" alt="Cover for Tri-Sk00l" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93f7e2628b7d4235357e4615e1af6717.png" alt="Cover for Tri-Sk00l" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-16</td>
       <td>Raccoon City Massacre</td>
@@ -1786,9 +1792,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/hDu_HmHTSFs-6Y6_8_kLR1qZK62rcv5mPE-Val2vmnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY5/NDU5LTE2ODMxODUw/ODktOTQ0My5qcGVn.jpeg" alt="Cover for Quarantine Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ad2ffbdc77a818eaa1ddb4e5a53613a.png" alt="Cover for Quarantine Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-16</td>
       <td>Raccoon City Massacre</td>
@@ -1828,7 +1834,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ke_3jR12ZjonbWt-dBpGFYXzspuVlsxdCaOVlyhmxxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM0/NzEwLTE2NDAxMDIw/NDgtMjgzOC5qcGVn.jpeg" alt="Cover for Nonsynchronous Banishment Material" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1852,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/G5sC7xGG_jzJy3VrZUdz8WtfkiHlrCrzfQm-uub3wGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY5/NDI5LTE2ODMxODQ4/MzctNzkxNC5qcGVn.jpeg" alt="Cover for Resident Evil EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,9 +1876,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/G5sC7xGG_jzJy3VrZUdz8WtfkiHlrCrzfQm-uub3wGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY5/NDI5LTE2ODMxODQ4/MzctNzkxNC5qcGVn.jpeg" alt="Cover for Resident Evil - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a68f8a060e7ca17ab278a941d287f00.png" alt="Cover for Resident Evil - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-31</td>
       <td>Raccoon City Massacre</td>
@@ -1894,7 +1900,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/CPqba2glOSyJ8luVni5Asg28cPCLYRXpTs2L6WDKzX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQy/MDI4LTE2NDgyMzAw/MDYtNDAxNi5qcGVn.jpeg" alt="Cover for Gateways To Resplendence" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1924,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/PJDN_DQbFd1AhHezgu0VfWxVXs6Hm3BirbqvEdG7IOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzQ0/NjUxLTE2NTY2MjA0/MTItMTAzOC5qcGVn.jpeg" alt="Cover for The Decline and Fall of Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,8 +1944,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c7bcdc5404d111465570d97a0fa407e.png" alt="Cover for Hypnotic Magic Space Trip" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-27</td>
       <td>liquify</td>
@@ -1957,9 +1964,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/8Yz9kBavh4-l6ljPhZs81y6BWIc6sA7YfHn4R6n1f1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY0/NzItMTM0ODAwMDI4/MS05MzU1LmpwZWc.jpeg" alt="Cover for The Waves Have Teeth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/251fdde0a736cd97cebcf6b7379f24b6.png" alt="Cover for The Waves Have Teeth" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-11</td>
       <td>Floating</td>
@@ -1978,7 +1985,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/jT0gEfqSFYj8qJ4w3wMvAmZvBNVDuvHFNcmNfi7dHng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTMz/OTM1LTE3MDkyNTg3/NjAtNTIxMi5qcGVn.jpeg" alt="Cover for Reawakening" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,9 +2008,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/17Zt1LC0K1yQ_zFRcN_N2jKELsIdvgaV6-Cy2N2sE4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI0/ODQ2LTE3MjUxNzU2/NDItNTUzNC5qcGVn.jpeg" alt="Cover for A Light Scalping" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c11bd1eec32371bb74d4686010303387.png" alt="Cover for A Light Scalping" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-31</td>
       <td>snaw</td>
@@ -2025,8 +2032,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57dc868bf9562c7ea4455c424a9b7dc4.png" alt="Cover for Devolution" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A3-5</td>
@@ -2045,7 +2053,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2063,8 +2071,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52999064af5c42ca9145ca019b905669.png" alt="Cover for The Lespien EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Yuri &amp; the Lespiens</td>
@@ -2106,7 +2115,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2125,7 +2134,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2143,7 +2152,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2163,7 +2172,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da778758cf4045c38fddb79a37b9ca67.png" alt="Cover for Wonderland Syndrome EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2181,8 +2190,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbb7e8ace56e1f6c0f1f573d4053dc2d.png" alt="Cover for The Black Abyss" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Black Magick SS</td>

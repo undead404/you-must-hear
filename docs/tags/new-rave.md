@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T18:43:39.989Z
+date: 2025-11-23T13:24:54.713Z
 permalink: tags/new-rave
 title: new rave
 ---
 
 ## new rave
 
-Last updated: <time datetime="2025-11-17T18:43:39.989Z">Mon Nov 17 2025 20:43:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T13:24:54.713Z">Sun Nov 23 2025 15:24:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/992626603b217559a14315ab5b550bd3.png" alt="Cover for 80s 100 Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/E3RsnI6opT3uP4ewTYPX_W35f-CcC6Qyjd4K5NytrO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTMz/My0xMzc1NDYyODkw/LTg3NjIuanBlZw.jpeg" alt="Cover for urban distortion" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/YO4JWJErE4-UZ2TnJ4x2cifL_9IdClMQfN025MuYBno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/NzA5LTE1NzQ4Mzk2/NjAtMjMyMy5qcGVn.jpeg" alt="Cover for The Best Of Spear Of Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/YgFaQfAhWsCdu7juLhFdun7nNZ-wjwVC5RQI7RXA3y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzI3/NS0xNjE4NjExNTIx/LTExMTMuanBlZw.jpeg" alt="Cover for Get With The Program... Before The Program Gets You!" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 25</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 26</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 46</li>
         </ul>
       </td>
@@ -153,7 +153,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/befbecd8e01747298628f93a69d72215.png" alt="Cover for Bargain Basement Entertainment (2005)" style="max-width:120px; height:auto;" />
       </td>
@@ -181,12 +181,12 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 58</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>11</td>
       <td>
       </td>
       <td>2005</td>
@@ -215,9 +215,9 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 2</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 10</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 60</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 3</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 9</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +240,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb7777b01f1c4a96fac1d7c77d624059.png" alt="Cover for Flirting Again" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +317,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 60</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -344,7 +344,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69f6ef0044e94a148c612c879ac33a9c.png" alt="Cover for Raise The Alarm" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 27</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -471,8 +471,8 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 57</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 58</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 58</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +533,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/MkyHgwjgso4ZINQ8OsDi2YbF2gR2XuY471S_15YIrWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjYx/OC0xNjAyNTM1MDE1/LTExOTIuanBlZw.jpeg" alt="Cover for Sound Of Silver" style="max-width:120px; height:auto;" />
       </td>
@@ -547,9 +547,9 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 13</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 19</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 76</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -627,7 +627,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/yPHN58ji9G2qqIKKWYgxQcKi63B1sBxY_kBQnjmd2MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgy/MTctMTE5NTEyODYx/MS5qcGVn.jpeg" alt="Cover for Krausefiktion" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +645,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a257dcf99d2abb2b9000bf77434c801.png" alt="Cover for Hook Me Up" style="max-width:120px; height:auto;" />
       </td>
@@ -697,7 +697,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>14</td>
       <td>
       </td>
       <td>2008-02-06</td>
@@ -735,7 +735,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/IfQNHcVFI05PJPIsJ-_cMLY0F1s8aUKD0v_oem4SQgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDI4/MTEtMTI2MDQxMzc3/Ni5qcGVn.jpeg" alt="Cover for Home 0207" style="max-width:120px; height:auto;" />
       </td>
@@ -757,7 +757,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff35d7f192e8ebbcc775845a5bd1883a.png" alt="Cover for You Have No Idea What You&#39;re Getting Yourself Into" style="max-width:120px; height:auto;" />
       </td>
@@ -790,7 +790,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 17</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +891,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/T91gDS5_Do5AA_6kWrNgINkhgNAxW2uioC8l6HB8ho0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njkx/MjQtMTM1MDg4Mzk5/Ny0zOTA5LmpwZWc.jpeg" alt="Cover for MiChi MadNesS" style="max-width:120px; height:auto;" />
       </td>
@@ -926,7 +926,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 64</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 96</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 98</li>
         </ul>
@@ -948,14 +948,14 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 51</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 60</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7652b8d7c6a44216a456363270b16a98.png" alt="Cover for It&#39;s Classy, Not Classic" style="max-width:120px; height:auto;" />
       </td>
@@ -968,13 +968,13 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 61</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 49</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4928784ca0ebfba30f5c3c56e0ea925.png" alt="Cover for City Grrrl (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1004,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3632505020107debb71299d17b0da679.png" alt="Cover for Shivers" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,8 +1018,8 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 22</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 32</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 23</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 34</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 68</li>
         </ul>
       </td>
@@ -1047,7 +1047,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ksGJp3zxnaG_DbWQXwozANWZfK8goMzaukhw8AnGrlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEx/NzQtMTI3OTUwMTk0/MS5qcGVn.jpeg" alt="Cover for Catch Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,12 +1064,12 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 4</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/vinBBtrZ_TSIyYqzm-bZj2ndOBCq_H646cyEuyMeT3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjcw/MzQtMTMyNzU3ODk1/NS5qcGVn.jpeg" alt="Cover for all my people [2006]" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09d59ab39880ba5f423e4368d74a7a6.png" alt="Cover for Crystal Castles - Crystal Castles" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1188,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/820b80a823f8487089e4f9564750e16e.png" alt="Cover for This Is Happening" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,14 +1202,14 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 61</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 64</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9205e5a6d7da6921e1bd9def33f25067.png" alt="Cover for Crystal Castles" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,27 +1224,9 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       <td>
         <ul>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 53</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 55</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 56</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eeaf430018dc29793e2f2939f1136c4.png" alt="Cover for Crystal Castles II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-06-09</td>
-      <td>Crystal Castles</td>
-      <td>Crystal Castles II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1268,7 +1250,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6b786a21c3a0966ca22bd64f5b8b5d.png" alt="Cover for Bag Raiders" style="max-width:120px; height:auto;" />
       </td>
@@ -1286,7 +1268,27 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a19be779361c408ab78ef3dbe1b4213f.png" alt="Cover for Star of Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-04</td>
+      <td>Crystal Fighters</td>
+      <td>Star of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 79.41176470588235 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb407c1d3b1c4a148c6aeb7605849282.png" alt="Cover for In The Wind (Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1310,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/VvEzCPnDI5ExkKFJUV8fKsN2OeoswCX8EM2ysHntu2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQx/NzItMTMxNjQzNzI5/Ny5qcGVn.jpeg" alt="Cover for Black Flags" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1332,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 7</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 8</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 68</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 81</li>
         </ul>
@@ -1382,7 +1384,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ZVDCMSvbToWXPC4G186AZXK1FiYEMBP-ZUlXAt5VbOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzMz/MjMtMTQzMDc0NTc0/NC03MDM5LmpwZWc.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1404,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/wb98I-1IH9PA36etqRlOl8_Yfg8w8XWdH0dKgsUoL0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzMx/NDYtMTY1OTcxMzU4/MS00MjM0LmpwZWc.jpeg" alt="Cover for Soundtrack für dieses Jahr" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,6 +1424,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 2</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 19</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
@@ -1472,7 +1475,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
       </td>
       <td>2011-10-25</td>
@@ -1492,12 +1495,12 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
         <ul>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 55</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 58</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 72</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a2bc9fc746148e7a383991c5d52a9dd.png" alt="Cover for Dead Moon Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1564,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>9</td>
       <td>
       </td>
       <td>2012-05-01</td>
@@ -1578,7 +1581,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d7d9c524d44659ca379abd5e4f2f0d8.png" alt="Cover for You and What Army" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1601,27 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03efe17b5025448fafda0915227d850a.png" alt="Cover for Beacon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-02</td>
+      <td>Two Door Cinema Club</td>
+      <td>Beacon</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 44</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 65</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b64202f267e4402fa7c90f2bb9ffcb0d.png" alt="Cover for (III)" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,7 +1681,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/W0Njvos7vgGt7o3PB8Sml-VobV8yxcNWkAiZTGjRsSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDg3/NDEtMTM4NzUxNzk4/OS03Nzg5LmpwZWc.jpeg" alt="Cover for Still Goin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2436527a289845ebba266b85defeafaf.png" alt="Cover for Still Goin" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-05</td>
       <td>Crim3s</td>
@@ -1672,7 +1695,25 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 58</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 22</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1ca4e4904534037a75ba38bade6e4ec.png" alt="Cover for Será" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-14</td>
+      <td>La Vida Bohème</td>
+      <td>Será</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1741,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9f6854016f84235c2ade6f233d3b16c.png" alt="Cover for Love Frequency" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,14 +1785,14 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 6</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 30</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 31</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 73</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/dhIAOkmNo76-PxVHiC4PGb44fwnh9-niFQZgnB4Ra-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjI0/MDYtMTQzNzQ2MzQ2/Mi02NDEwLmpwZWc.jpeg" alt="Cover for Superheroes" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1813,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/394edebad298d25b8cbf4ccfcb17592c.png" alt="Cover for Crystal Deth" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1834,24 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e0800b1ca892feaeda544ca40508e76.png" alt="Cover for Gameshow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-14</td>
+      <td>Two Door Cinema Club</td>
+      <td>Gameshow</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bd650a321ec7c01003bd0dffcabfb3d.png" alt="Cover for Globe, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,27 +1868,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa0a767a709b4d13a9d653c4360e5769.png" alt="Cover for Too Tired Of Long Names" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-12-12</td>
-      <td>Lenin Was A Zombie</td>
-      <td>Too Tired Of Long Names</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4965f52ff45e4139966a2f505d4cc714.png" alt="Cover for TЯUEЪ" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1888,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/bQ7IwjPhy1x2b8mk_WxFVgFhvu9QitJK26n7r51cAf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjYz/MTg1LTE2MTgyMjQz/NzItMzQwMS5qcGVn.jpeg" alt="Cover for A Clear Digital Illustration Of Darwin Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1908,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65c3243b977f47298b1c16c9bf8d09ba.png" alt="Cover for Sooner Than You And I Expected" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,7 +1928,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/bQ7IwjPhy1x2b8mk_WxFVgFhvu9QitJK26n7r51cAf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjYz/MTg1LTE2MTgyMjQz/NzItMzQwMS5qcGVn.jpeg" alt="Cover for Lenin Was A, Lenin Is A, Lenin Will Be A Zombie" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1945,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10c116d7bae44b4bb1a19dfdcdc6e0e.png" alt="Cover for The True Story, Told By A Complete Dumbass" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,7 +1962,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f9c397b4a34cb0932e7a16f918ec71.png" alt="Cover for Bill, Francis, Louis, Zoey, Lenin" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,46 +2001,7 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/op4N67_c1LFPd6BqQpsE35MqGzwgRAOiIjO2XJo_dmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk1/Mzc4LTE1MDQ1MDcz/MTEtMTcwMy5qcGVn.jpeg" alt="Cover for Muggbedürfnis" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-08-24</td>
-      <td>Les Bummms Boys</td>
-      <td>Muggbedürfnis</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 69</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 86</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a15303b9fbd3aa2e89b2ffe1605997fd.png" alt="Cover for Cheerleader" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,7 +2014,26 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 25</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d56f25520fdde817327972eff1bb583.png" alt="Cover for Silence Is Loud" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-04-12</td>
+      <td>Nia Archives</td>
+      <td>Silence Is Loud</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2036,8 +2054,8 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 37</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 38</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2058,62 +2076,6 @@ New rave is a music genre that emerged in the early to mid-2000s in the United K
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Narkotiki</td>
-      <td>Молись Андрей</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>KingBullit</td>
-      <td>Bullit Points</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
