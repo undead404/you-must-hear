@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-23T04:05:18.471Z
+date: 2025-11-23T05:30:06.693Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-23T04:05:18.471Z">Sun Nov 23 2025 06:05:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T05:30:06.693Z">Sun Nov 23 2025 07:30:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [traditional pop]({{ "tags/traditional-pop" | relative_url }}) | <time datetime="2025-11-23T05:30:06.693Z">Sun Nov 23 2025 07:30:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive deathcore]({{ "tags/progressive-deathcore" | relative_url }}) | <time datetime="2025-11-23T04:05:18.471Z">Sun Nov 23 2025 06:05:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [deutschrap]({{ "tags/deutschrap" | relative_url }}) | <time datetime="2025-11-23T04:04:33.761Z">Sun Nov 23 2025 06:04:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [lo-fi]({{ "tags/lo-fi" | relative_url }}) | <time datetime="2025-11-23T04:04:06.327Z">Sun Nov 23 2025 06:04:06 GMT+0200 (Eastern European Standard Time)</time> |
@@ -357,7 +358,6 @@ Last updated: <time datetime="2025-11-23T04:05:18.471Z">Sun Nov 23 2025 06:05:18
 | [experimental electronic]({{ "tags/experimental-electronic" | relative_url }}) | <time datetime="2025-11-19T07:39:12.543Z">Wed Nov 19 2025 09:39:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid techno]({{ "tags/acid-techno" | relative_url }}) | <time datetime="2025-11-19T07:38:33.731Z">Wed Nov 19 2025 09:38:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [harp]({{ "tags/harp" | relative_url }}) | <time datetime="2025-11-19T07:36:54.339Z">Wed Nov 19 2025 09:36:54 GMT+0200 (Eastern European Standard Time)</time> |
-| [traditional pop]({{ "tags/traditional-pop" | relative_url }}) | <time datetime="2025-11-19T07:34:20.064Z">Wed Nov 19 2025 09:34:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [retrowave]({{ "tags/retrowave" | relative_url }}) | <time datetime="2025-11-19T07:33:43.249Z">Wed Nov 19 2025 09:33:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [space ambient]({{ "tags/space-ambient" | relative_url }}) | <time datetime="2025-11-19T06:54:44.873Z">Wed Nov 19 2025 08:54:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [meditation]({{ "tags/meditation" | relative_url }}) | <time datetime="2025-11-19T03:06:46.692Z">Wed Nov 19 2025 05:06:46 GMT+0200 (Eastern European Standard Time)</time> |
