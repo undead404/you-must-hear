@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:17:11.805Z
+date: 2025-11-22T18:16:39.224Z
 permalink: tags/synthwave
 title: synthwave
 ---
 
 ## synthwave
 
-Last updated: <time datetime="2025-11-11T04:17:11.805Z">Tue Nov 11 2025 06:17:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T18:16:39.224Z">Sat Nov 22 2025 20:16:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 23</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 34</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 95</li>
         </ul>
       </td>
@@ -85,7 +85,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 57</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -107,8 +107,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 34</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 72</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 40</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 77</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 95</li>
         </ul>
       </td>
@@ -135,7 +135,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 88</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 93</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 96</li>
         </ul>
       </td>
@@ -156,7 +156,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 50</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -236,12 +236,12 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/421e805ebb594a94b097ff61bc5c1e6f.png" alt="Cover for Early Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +366,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 25</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +387,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 78</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -407,7 +407,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 83</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +427,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 69</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -505,6 +505,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70e19c946c0c4bdccb85685c0ae1ff74.png" alt="Cover for Dreamzone" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-02</td>
       <td>Jaakko Eino Kalevi</td>
@@ -518,6 +519,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +596,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 41</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -631,7 +633,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 46</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 49</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 88</li>
         </ul>
       </td>
@@ -720,7 +722,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 79</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 40</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 98</li>
         </ul>
       </td>
@@ -911,31 +913,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 88</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 89</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/JXD5yF47QEZrrGrlLTiFXjPNxm2G-Hu3a4RPN2a-F8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTE2/MjAtMTQ2NjcwNTAw/NS04NzA0LmpwZWc.jpeg" alt="Cover for Hyperion" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-04-22</td>
-      <td>ZOMBIE HYPERDRIVE</td>
-      <td>Hyperion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 87</li>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -955,7 +934,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 69</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1000,6 +979,24 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21660ff90fe35d46d9b5f0e15594a471.png" alt="Cover for Station Nova" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-13</td>
+      <td>Waveshaper</td>
+      <td>Station Nova</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>17</td>
       <td>
           <img src="https://i.discogs.com/rInLyHcZTVsfKrI4-Rn8JUawpNCWK0-TqXf6gae-dKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTY3/NDMtMTU4OTI5MjMw/NS03MjAzLmpwZWc.jpeg" alt="Cover for This Means War" style="max-width:120px; height:auto;" />
@@ -1020,7 +1017,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/lHDIFqpgd38RPKoRgcuY5eZ1r1vth64nSRC5F7h0QU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjA1/MzEtMTQ2OTQ2NTAw/OC05NjAzLmpwZWc.jpeg" alt="Cover for Lovers, Pt. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddd7b6a7e5f5d356be6e82480c564066.png" alt="Cover for Lovers, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-22</td>
       <td>Timecop1983</td>
@@ -1053,10 +1050,10 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 70</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 90</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 94</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 97</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 92</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 95</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1083,7 +1080,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/i8YQ19c6BrrF_5ACs-S_vzxVF6ANuPADoi4OWs0nVBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjA5/NzYtMTQ4NTMwODc2/MC01NTE4LmpwZWc.jpeg" alt="Cover for Enchanted Instrumentals and Whispers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f585668bb65419dd5247c7a95ef9985.png" alt="Cover for Enchanted Instrumentals and Whispers" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-13</td>
       <td>Windows 96</td>
@@ -1098,8 +1095,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 67</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 83</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 71</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1133,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 13</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1157,9 +1154,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 48</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 82</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 91</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 53</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1184,7 +1180,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f907bafcbdb99b99a175761f9566cd.png" alt="Cover for Nocturnal" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,7 +1256,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       <td>
         <ul>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 77</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 89</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1280,14 +1276,14 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 57</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/SmxqsIzyPY1XclDap65BE86ZzdpYesYRce4pwNpE_3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE1/OTM4LTE1MjQ2NzY1/NDYtMzg0Mi5qcGVn.jpeg" alt="Cover for Aztlán" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb877e4e3a6f2aab23bb1b3859130a16.png" alt="Cover for Aztlán" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-20</td>
       <td>Zoé</td>
@@ -1303,8 +1299,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 15</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 74</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 36</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1368,8 +1364,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 21</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1467,8 +1463,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 77</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 85</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 76</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1483,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 40</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 44</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 61</li>
         </ul>
       </td>
@@ -1508,14 +1504,14 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 56</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/WFYwzA5bPPElD5XBrLwSw1Q-tM0dDQVqS8LTFgpJ-RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcz/MTg0LTE1NjkxMDU3/MTYtNjMwMy5qcGVn.jpeg" alt="Cover for X 100PRE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e220bd192e63a48e6fddda59f3fc7662.png" alt="Cover for X 100PRE" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-24</td>
       <td>Bad Bunny</td>
@@ -1527,7 +1523,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 59</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 11</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 58</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 91</li>
         </ul>
       </td>
@@ -1557,7 +1554,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 90</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 5</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 91</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 97</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 100</li>
         </ul>
@@ -1584,10 +1582,10 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 51</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 91</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 56</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 60</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 64</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1688,9 +1686,9 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 49</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 77</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 61</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
@@ -1801,15 +1799,15 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 61</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 81</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 91</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 47</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 88</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd702568905cdd5fa698c2aa3ef0a73e.png" alt="Cover for Summer Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,9 +1854,9 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 34</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 34</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 96</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 41</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1876,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 96</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1971,8 +1969,8 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 56</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 91</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 60</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 92</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 96</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 97</li>
         </ul>
@@ -2013,7 +2011,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 64</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2033,7 +2031,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 99</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 100</li>
@@ -2055,7 +2053,7 @@ Synthwave is a genre of electronic music that emerged in the late 2000s and is h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 88</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 89</li>
         </ul>
       </td>
     </tr>
