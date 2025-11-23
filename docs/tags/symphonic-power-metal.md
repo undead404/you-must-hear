@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T09:42:24.712Z
+date: 2025-11-23T03:08:16.669Z
 permalink: tags/symphonic-power-metal
 title: symphonic power metal
 ---
 
 ## symphonic power metal
 
-Last updated: <time datetime="2025-10-29T09:42:24.712Z">Wed Oct 29 2025 11:42:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T03:08:16.669Z">Sun Nov 23 2025 05:08:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 26</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 55</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 86</li>
         </ul>
       </td>
@@ -68,7 +68,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1998-10-05</td>
@@ -82,8 +82,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 54</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 74</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 55</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 80</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 94</li>
         </ul>
       </td>
@@ -103,12 +103,13 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 8</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2000-04-10</td>
@@ -125,7 +126,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa97f553c4b4bf96baf2fc8a03e07b51.png" alt="Cover for Dawn of Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -140,15 +141,16 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 26</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 26</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 85</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 27</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 28</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa0fda1f8546465a8daadbbeb49addcb.png" alt="Cover for Arcana" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-29</td>
       <td>Edenbridge</td>
@@ -165,9 +167,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/pLME-Xe3m-K_yDsf6vvxpvv-QIaMji_r1BrOKfMn4Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDI4/NS0xNDQ3MTIzNDAx/LTI4OTMuanBlZw.jpeg" alt="Cover for Over the Hills and Far Away" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f251b828ebd7757a906e1a39015783b.png" alt="Cover for Over the Hills and Far Away" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06-08</td>
       <td>Nightwish</td>
@@ -179,6 +181,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 42</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
         </ul>
       </td>
@@ -199,14 +202,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 37</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 41</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2002-03-11</td>
@@ -239,16 +242,17 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 29</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 52</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 31</li>
             <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 55</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e053a57e1d228859255bba7f699b05cc.png" alt="Cover for Prophet of The Last Eclipse" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-11</td>
       <td>Luca Turilli</td>
@@ -261,14 +265,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 73</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/PGQ5rI1YLx-Jp1zPDvepJ0p1XG8rCqMVjQdnt6t3PaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzky/My0xNDg3OTQ3OTA4/LTIwNTMuanBlZw.jpeg" alt="Cover for Of Wars in Osyrhia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d69ae046239948c48c314671ecd84a61.png" alt="Cover for Of Wars in Osyrhia" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-28</td>
       <td>Fairyland</td>
@@ -286,7 +290,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2003-12-25</td>
@@ -305,8 +309,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aa47f76b9d04f52cfabebe0142c0d7d.png" alt="Cover for Tales From the Emerald Sword Saga" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-23</td>
       <td>Rhapsody</td>
@@ -320,7 +325,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 15</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -338,7 +343,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 49</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +410,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/TwLcCuU1NQQRg9Y9aPAKYaZtNd0DT9IBsNs8-CoZxvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/ODEtMTY3NjA1NjA0/OC02NDY1LmpwZWc.jpeg" alt="Cover for The Magic of the Wizard&#39;s Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +430,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 72</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 2</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 73</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 98</li>
         </ul>
       </td>
@@ -447,15 +453,16 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 31</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 40</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 30</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 42</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f86367f8af04c3b89c48ac534d90404.png" alt="Cover for Astronomy" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-13</td>
       <td>Dragonland</td>
@@ -468,7 +475,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 17</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 76</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +498,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8107c5fc80e61c55534e07d3ee1b089b.png" alt="Cover for Ghost Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -506,14 +513,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 32</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 35</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>2008-05-30</td>
@@ -532,9 +539,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/Vp0pxlV5iF0t6RrwRQSe7raZlWKQqbLQLUxU_FppMLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQy/MzAtMTI1NTM3ODk4/OS5qcGVn.jpeg" alt="Cover for NOBLE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07fde2b7f70481bf680b2a3de154efb7.png" alt="Cover for NOBLE" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-16</td>
       <td>Versailles</td>
@@ -553,7 +560,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/lE_fMTkQfxiHWtN2mlU0uHAMkn2GKZx8X-VdT6i9CUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA1/OTgtMTQ1ODQxMjMw/MS03MDk0LmpwZWc.jpeg" alt="Cover for Voice From The Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -573,7 +580,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2009-01-11</td>
@@ -591,7 +598,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009-03-18</td>
@@ -627,7 +634,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/aSWXFBqOSxDzceu37CtY4fzkTi70c5VCywei2--teP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzIz/MDEtMTUxOTQ3ODQz/NS01NjU3LmpwZWc.jpeg" alt="Cover for Children of the Dark Waters" style="max-width:120px; height:auto;" />
       </td>
@@ -666,7 +673,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/1_dhC5eTZWXg_rLnHC7_n0w4EvP5F6OMvjTySTIv8q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzE2/NzAtMTQ5MDM2NzAz/NS00MTMyLmpwZWc.jpeg" alt="Cover for The Alliance Of The Kings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d0e51b704cb402182e80cf0d4e5d9e1.png" alt="Cover for The Alliance Of The Kings" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-26</td>
       <td>Ancient Bards</td>
@@ -704,7 +711,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd4a15766ce14fcecf5cf35aed52a3ef.png" alt="Cover for The Frozen Tears Of Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -719,14 +726,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 11</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 14</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 10</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 15</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/266b97ac6fdaf73f11ae5ebff7876e59.png" alt="Cover for At the Edge of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -740,12 +747,12 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 73</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2010-08-24</td>
@@ -776,13 +783,13 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 9</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85aa7110e81d49dc830800abb13b8ac1.png" alt="Cover for End of Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -801,7 +808,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/PvxUDRFDrspWmKrGccmqOq1dWLJCWQkiePxBCZ87jN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjUx/NjYtMTY4NDAxMzgx/OS02MjQzLmpwZWc.jpeg" alt="Cover for Сквозь столетия" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +827,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2011-06-14</td>
@@ -837,27 +844,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/IwU_zNKZIg-MtLP74aGVJsgvHuBz--UpbK06loMRuZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMw/ODMtMTYyODE0MDQy/OC05NDk1LmpwZWc.jpeg" alt="Cover for Holy Grail" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-15</td>
-      <td>Versailles</td>
-      <td>Holy Grail</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/171e006dd35b4426c446f1b1c3cc5b43.png" alt="Cover for From Chaos To Eternity" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-17</td>
       <td>Rhapsody of Fire</td>
@@ -894,7 +883,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2011-11-18</td>
@@ -930,7 +919,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2012-05-23</td>
@@ -949,6 +938,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0bf01bdaf9b4aa78422db57f58a2550.png" alt="Cover for Ascending To Infinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-22</td>
       <td>Luca Turilli&#39;s Rhapsody</td>
@@ -968,13 +958,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 5</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8d3833224bb45ab849393d827dea6e5.png" alt="Cover for Silverthorn" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-26</td>
       <td>Kamelot</td>
@@ -987,6 +978,27 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2012-11-14</td>
+      <td>Obsidia</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1004,13 +1016,13 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 11</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 66</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 25</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2013-05-03</td>
@@ -1026,7 +1038,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 40</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1050,8 +1062,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f8d5964410143d2938a0c30c534d7df.png" alt="Cover for Outbound" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-31</td>
       <td>Keldian</td>
@@ -1067,13 +1080,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 74</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd4c950f38a54938b07d670d16f5aa74.png" alt="Cover for Symphonies of the Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-15</td>
       <td>Leaves&#39; Eyes</td>
@@ -1089,7 +1103,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3aaad8bc8b243eec3611d4a6c5fc7d4.png" alt="Cover for Sacrificium" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,6 +1123,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb24a1bc42e4503c51161c3aa41d998.png" alt="Cover for Magic Forest" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-18</td>
       <td>Amberian Dawn</td>
@@ -1126,7 +1141,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Ce6jplGGAuNLcSVOyn4i3XImd_AT4MfzM47F0r6pB1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzgw/NzYtMTYxOTYxNzMx/NC02NjQ1LmpwZWc.jpeg" alt="Cover for Crisis Cult" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,8 +1159,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbe9c13d45ef4886c832b10fa1529486.png" alt="Cover for Shadows of a Broken Past" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-08</td>
       <td>Pythia</td>
@@ -1161,7 +1177,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3382d1a2dfa048dec81c1b787e1674f7.png" alt="Cover for Savage Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,12 +1193,12 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 60</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/yT60kOLTPIwaX2WEx705S_AD5KLHhw715OqfflSYAh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjkx/OTItMTU3OTU1OTU4/Mi05Mzc0LmpwZWc.jpeg" alt="Cover for Stormcrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,8 +1217,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8177d7c53352b212c92bf9bfcbe8d87e.png" alt="Cover for Haven (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-08</td>
       <td>Kamelot</td>
@@ -1220,13 +1237,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ZB7HBs44SdXL_FpOZH1r5Abq8WTRMcScFkWjS3X4sL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQz/ODYtMTQ0MzIwNDEy/OS0zMzc4LmpwZWc.jpeg" alt="Cover for Space 1992: Rise of the Chaos Wizards" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8915c07f22b44d1564aca19888ec987e.png" alt="Cover for Space 1992: Rise of the Chaos Wizards" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-25</td>
       <td>Gloryhammer</td>
@@ -1262,7 +1280,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aa0d06acce14431047af0a29152572e.png" alt="Cover for Codex Atlanticus" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1300,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/G10LUR5QvLdDFFgnxhTFLKoEAShKeGMiE1_XbRK6WjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjY2/NzctMTQ1ODMxMTMx/OC05NDUyLmpwZWc.jpeg" alt="Cover for Tsar" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,9 +1358,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/C6o2yBnt-nAZk9drDwIn0sU2jgxo_B94RfaGfrNdDVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjU4/NTItMTQ4MzgyOTQ1/Ni01MDUxLmpwZWc.jpeg" alt="Cover for The Great Momentum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/780012a041c0a2b01a254b3fb1089bdb.png" alt="Cover for The Great Momentum" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-17</td>
       <td>Edenbridge</td>
@@ -1361,9 +1379,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/LgtmQPBz1pkdNpaBn7vGCrQPtqrXMkj6cCjdhJJaoQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzQ2/OTgtMTQ4ODgxNzU4/OC03NDYzLmpwZWc.jpeg" alt="Cover for The Butterfly Raiser" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/981ced532aa898eea64b818e86351321.png" alt="Cover for The Butterfly Raiser" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-03</td>
       <td>Bare Infinity</td>
@@ -1384,9 +1402,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/ozWERMR1_WnfLpLnaS2OJry6Vl8Z0BZhAEdGqTY7DKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc0/ODc2LTE0OTY2MDMw/MTUtOTM5Mi5qcGVn.jpeg" alt="Cover for The Nature of Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf0e27e51ba35994361b0adf17158435.png" alt="Cover for The Nature of Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-02</td>
       <td>Secret Sphere</td>
@@ -1408,7 +1426,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/nVF7q13m31rDsDkhRT6OMeWOx_lVtARa2MIe4YPLeNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQw/MDkwLTE2MDc2OTQx/MTgtNDk2OC5qcGVn.jpeg" alt="Cover for Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/273a0b9f7ad147a467a9eb49eb07fe35.png" alt="Cover for Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-26</td>
       <td>Adagio</td>
@@ -1425,14 +1443,14 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 87</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/ZJC5WVIU8ria8TXHlqN_txDCBVTh1L7CusOucemPFdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcx/NDI4LTE2NDUyMDkw/ODQtODk3OC5qcGVn.jpeg" alt="Cover for EPICA VS. ATTACK ON TITAN SONGS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ab2570ca22531acfcc239c3fa3a5445.png" alt="Cover for EPICA VS. ATTACK ON TITAN SONGS" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-19</td>
       <td>Epica</td>
@@ -1453,7 +1471,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/37JqpPOr3xm6gk-OvRKBEoyV9kpBzo0HM4q_TT4cCSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/NzI0LTE1MTg4MTc3/MTItMzMwMC5qcGVn.jpeg" alt="Cover for The Deep &amp; the Dark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0a3aebf8b16c6148fc7fe499bb0d02c.png" alt="Cover for The Deep &amp; the Dark" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-16</td>
       <td>Visions of Atlantis</td>
@@ -1492,7 +1510,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/CgW-Ivfv9-ItUaziT44BTtwmmAjXk4MYfuARlfQo3sA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE2/NTM4LTE1NDA2MjAw/NTktMTUwMy5qcGVn.jpeg" alt="Cover for Masters Of The Multiverse" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,7 +1546,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Fn9SryS3yBgzaH9iSSz30c_BbDfgPReqQ_DYrJNnNPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM0/MzQzLTE2MzMxMjEz/MjAtMjc4Ni5qcGVn.jpeg" alt="Cover for Origine (The Black Crystal Sword Saga, Pt. 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1563,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/W9QMYevmQORp5d6Knlr9cSWEGeIBboF02OtWh3otVW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcw/NjQ0LTE1NDkyODAz/NzYtOTE1Ni5qcGVn.jpeg" alt="Cover for Moonglow" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,7 +1578,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 50</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1603,9 +1621,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/zDxrL5_srPrnZ7v9bqGqmj0QCqyq6q2f5DCJw-QpqLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODMz/MjE3LTE1NjQ0MzMw/MjUtMzg2Ny5qcGVn.jpeg" alt="Cover for Zero Gravity (Rebirth And Evolution)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa95d630b431439b78a54a31a6668c52.png" alt="Cover for Zero Gravity (Rebirth And Evolution)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-05</td>
       <td>Turilli &#x2F; Lione Rhapsody</td>
@@ -1663,7 +1681,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/IKO-2xFJQO6iXtmW-9_KfRnErA-ycfRvZXo78eMY1xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk5/NzczLTE2NDAxOTEw/MzUtNTkyNy5qcGVn.jpeg" alt="Cover for Emerald Seas" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1702,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2020-07-31</td>
@@ -1701,7 +1719,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/_wKyf0EAK-mmCKRlMqiCBW-aAbtump70IWEuqrUZwq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI0/MjE0LTE1OTI5OTIz/MTctMjE5OS5qcGVn.jpeg" alt="Cover for The Zeramin Game" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1755,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2021-06-18</td>
@@ -1756,7 +1774,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/NvFum5nMEeSjE9ZeMALLCVAtWlaj3ch7UMSb6Y2yuuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMx/ODQzLTE2NzExMjgy/NjQtNTM2NC5qcGVn.jpeg" alt="Cover for Strong" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40c6394c01710de6708b0823607bea22.png" alt="Cover for Strong" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-10</td>
       <td>Anette Olzon</td>
@@ -1775,7 +1793,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/Gy6OLYpJmgZVfvcCz_LVMBREc871QMiFPafmaxw1n30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc1/MTY5LTE2NDE0OTYy/MTEtOTc1Ny5qcGVn.jpeg" alt="Cover for Gods of Debauchery" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1813,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/N9SE7dI9iiOKZnhnX5KmZ1xgWwOjas4mnPvGKmTL528/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg0/NDU3LTE2Mzc2MDk3/NTYtNTk0Ni5qcGVn.jpeg" alt="Cover for Diamanti" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1854,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/NNLvoVI3H9OQpnovi9NSo_jsP6R8e8DZDXv4oTWq1dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE3/NTQ4LTE2NTQ3Nzkx/MDMtOTMzNS5qcGVn.jpeg" alt="Cover for Warfront" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40938eecde4f9c9f7d346c5a338b2ddd.png" alt="Cover for Warfront" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-10</td>
       <td>Wind Rose</td>
@@ -1879,7 +1897,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/acEA3RcFCfplAu746l95h6VxCCx2xSpcE4I7i8_b-60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTU1/MTM0LTE2NzExNzY4/NTMtNDU4MS5qcGVn.jpeg" alt="Cover for Beyond the Borders" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1915,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/1ikYWIpd-zWaX1yGcAOP8u6MeS-cM7dqBpLA0VCCKGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjg1/MDMwLTE2Njk0NTc1/NTctNjI5Ni5qcGVn.jpeg" alt="Cover for Born From Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,7 +1952,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 85</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1976,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/GBoTM-h-sAKRArvSvdCvvUteOaeATJan1g14PrMbX8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMw/NzM4LTE2ODA0NjQx/NjUtNDI0Mi5qcGVn.jpeg" alt="Cover for Chapter III - Downfall" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,7 +1996,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/ih9NSn4RFaQ_gQVjS1FGfoP9QlnO7XIqu-3lAuygRKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzk3/Nzc1LTE2OTkwOTg0/MzYtNjU4OS5qcGVn.jpeg" alt="Cover for Nemesis AD" style="max-width:120px; height:auto;" />
       </td>
@@ -2006,9 +2024,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
 - [symphonic metal]({{ "/tags/symphonic-metal" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
 - [female fronted metal]({{ "/tags/female-fronted-metal" | relative_url }})
-- [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [epic metal]({{ "/tags/epic-metal" | relative_url }})
-- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
+- [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [gothic metal]({{ "/tags/gothic-metal" | relative_url }})
+- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [melodic metal]({{ "/tags/melodic-metal" | relative_url }})
 - [progressive power metal]({{ "/tags/progressive-power-metal" | relative_url }})

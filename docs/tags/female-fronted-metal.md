@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T23:20:50.958Z
+date: 2025-11-23T02:59:17.874Z
 permalink: tags/female-fronted-metal
 title: female fronted metal
 ---
 
 ## female fronted metal
 
-Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4dfeff59e44357912ebd13403c7c20.png" alt="Cover for Lacuna Coil" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-01-26</td>
       <td>Lacuna Coil</td>
@@ -42,13 +43,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/366cb824386b45e18bbce8ec23827a6a.png" alt="Cover for In a Reverie" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-16</td>
       <td>Lacuna Coil</td>
@@ -60,13 +62,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 92</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/505b1471632bdcd45e6689eabcd0ed2b.png" alt="Cover for Speak &amp; Destroy" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-08-23</td>
       <td>My Ruin</td>
@@ -106,7 +109,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td>2000</td>
@@ -124,9 +127,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/sTYv4QK3R4HtqsPZef27ONQEkMKO2UsCCulVioN6ehQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODI5/NTctMTM5NDUyMjIx/My01MjA3LmpwZWc.jpeg" alt="Cover for Wie Weit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a00a0959170d42d6874eaaa14753104f.png" alt="Cover for Wie Weit" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Apocalyptica</td>
@@ -145,8 +148,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33069982ce0f4bf8be8660cb5f8df5d3.png" alt="Cover for Mother Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-12-04</td>
       <td>Within Temptation</td>
@@ -160,12 +164,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 91</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 95</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/fpte9ns2LdjDsOUcNhHCDRuQbT9aCGPm3AmpS39vg_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDI4/OC0xMTI5MjMwNDE0/LmpwZWc.jpeg" alt="Cover for Supernature" style="max-width:120px; height:auto;" />
       </td>
@@ -180,13 +184,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 72</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee0688d1a7a403ac088affb9b9c4b4d.png" alt="Cover for Yaishi" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Moonlight</td>
@@ -204,28 +209,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f40b2ee47043877d6013a89d576a588.png" alt="Cover for Sevas Tra" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-06-18</td>
-      <td>Otep</td>
-      <td>Sevas Tra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 4</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>2002-06-24</td>
@@ -243,8 +227,28 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a128241d975b41fa9c5040aa9daf0753.png" alt="Cover for Comalies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-09-18</td>
+      <td>Lacuna Coil</td>
+      <td>Comalies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc0c7e35e1e2d0e239f9c81a24a71299.png" alt="Cover for Running Up That Hill" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Within Temptation</td>
@@ -258,14 +262,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 53</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 58</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 54</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 65</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2003-01-27</td>
@@ -279,13 +283,13 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 19</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 20</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b663b932c75340f0c06133c44fa187b8.png" alt="Cover for Bring Me to Life" style="max-width:120px; height:auto;" />
       </td>
@@ -294,21 +298,56 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       <td>Bring Me to Life</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 17</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>1</td>
       <td>
+      </td>
+      <td>2003-08-18</td>
+      <td>Elis</td>
+      <td>God&#39;s Silence, Devil&#39;s Temptation</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a47e38d6e0ffd2623db4348baf5520.png" alt="Cover for Where Lovers Mourn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-10-20</td>
+      <td>Draconian</td>
+      <td>Where Lovers Mourn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 14</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 78</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bdaacf664b47fb9d3913a3114535fc.png" alt="Cover for The Horror Of Beauty" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-20</td>
       <td>My Ruin</td>
@@ -325,9 +364,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/LO7zp4VKMgXh1N-86JPlO65KdJ_wghc8kl9nS2QIOvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/NjQtMTIwNTUzMTM5/Ni5qcGVn.jpeg" alt="Cover for Soma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82a95f3a337927868678ee4a0d5ee258.png" alt="Cover for Soma" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Eths</td>
@@ -361,7 +400,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2004-03-22</td>
@@ -379,7 +418,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/5OlhgqM9aZEyUpBKJhngVxvzqq8kWBKFj8XMoB09_mY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njky/OC0xMTQ0MTYyMjc3/LmpwZWc.jpeg" alt="Cover for Ravenheart" style="max-width:120px; height:auto;" />
       </td>
@@ -394,13 +433,13 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 43</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 51</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>2004-06-18</td>
@@ -418,8 +457,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c7a3c7e371bf0f6a2b6f07a6d4ea8cb.png" alt="Cover for House of Secrets" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-24</td>
       <td>Otep</td>
@@ -432,12 +472,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea5bd9d3a5d02f17cb0f0fb16cea314f.png" alt="Cover for Lovelorn" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-17</td>
       <td>Leaves&#39; Eyes</td>
@@ -450,7 +492,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 70</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 76</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 78</li>
         </ul>
       </td>
@@ -458,6 +500,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49871f63ed3249d68a9892cbc5b4b77b.png" alt="Cover for Dark Clouds in a Perfect Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-04</td>
       <td>Elis</td>
@@ -470,12 +513,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2005</td>
@@ -495,9 +538,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/1P3bpaymwjey-NL7VYYRrabuWi7PIGAMwlNLKYpzP-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDg0/Ni0xNTcwNTAxNjQy/LTgzMTkuanBlZw.jpeg" alt="Cover for Consign to Oblivion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb879b56b2c6e37e5f2f9b2364ba1746.png" alt="Cover for Consign to Oblivion" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-21</td>
       <td>Epica</td>
@@ -514,7 +557,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2005-04-25</td>
@@ -531,7 +574,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/RO86kgOXPvrUUfO-GImd4BfDJ5byQIfwWa8crJ7FjUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTY3/OTktMTYzOTY5MTY3/My0xMzk5LmpwZWc.jpeg" alt="Cover for Earth Magick" style="max-width:120px; height:auto;" />
       </td>
@@ -549,7 +592,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/HdTBGJEIBmoR18t_nhjFIgztRCQ5ehwvoT-VZArjQhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjU2/OS0xMzc1NDk4OTM1/LTc2MTEuanBlZw.jpeg" alt="Cover for Vinland Saga" style="max-width:120px; height:auto;" />
       </td>
@@ -564,14 +607,15 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 1</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 35</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5eec95b010b4c27a8fa324eb44a38f6.png" alt="Cover for In Medias Res" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-25</td>
       <td>Krypteria</td>
@@ -591,6 +635,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c05f2051074942d99efde9b76560d3ee.png" alt="Cover for India" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-22</td>
       <td>Xandria</td>
@@ -604,13 +649,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 59</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 62</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d0c23ffb5a44b0394de4c0a93e55aba.png" alt="Cover for Spin Moon Magic" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-06</td>
       <td>The Dreamside</td>
@@ -628,8 +674,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f546f2833f460fb591d09aa59afc30.png" alt="Cover for Remagine" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-09</td>
       <td>After Forever</td>
@@ -642,31 +689,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 6</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td>2005-10-21</td>
-      <td>Stream of Passion</td>
-      <td>Embrace The Storm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/JhNZ1IAze02qQD_M2ADaLWyAvNVOHR9EJAGU1744mr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkz/MDMtMTYwMDczNDcy/Ni04NDAyLmpwZWc.jpeg" alt="Cover for Henkäys Ikuisuudesta" style="max-width:120px; height:auto;" />
       </td>
@@ -685,9 +713,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/ZTWaOKRFpxDMaLaA_Q92Qz9u7oWEpNHkeIJD7jI5Y-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg0/NzctMTMwMjg3OTYy/Ny5qcGVn.jpeg" alt="Cover for Prisoner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/340d050b0066d48628b2ebd039f4e2e7.png" alt="Cover for Prisoner" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Novelists</td>
@@ -720,12 +748,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 21</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td>2006-07-18</td>
@@ -742,8 +770,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7d86bc0060445108d1a3def50f7299a.png" alt="Cover for The Edge of Infinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-26</td>
       <td>Lunatica</td>
@@ -760,7 +789,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2006-08-04</td>
@@ -777,13 +806,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 8</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b8c0f8e7424eb0b451b58d678f81aa.png" alt="Cover for Lucidity" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-04</td>
       <td>Delain</td>
@@ -796,13 +826,13 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 46</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 53</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/iUIGCMIldRCUWVfDnCfCLbDEXHyLZxS7KT0Nf-y961g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzM2/MDYtMTM1MTQyNTQx/My0zMDgwLmpwZWc.jpeg" alt="Cover for The Angel And The Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +850,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2007</td>
@@ -838,9 +868,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/_Mb5z8u29pSAQWGxCu4QU_M_H0F15vEYiedH89mfVmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE5/MzctMTIwNDU4Njg4/Ni5qcGVn.jpeg" alt="Cover for Tératologie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5ab321addf04bea8b950b8f550a083e.png" alt="Cover for Tératologie" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Eths</td>
@@ -879,6 +909,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed2c93cdddff4ca088939e095a53259a.png" alt="Cover for Bloodangel&#39;s Cry" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-19</td>
       <td>Krypteria</td>
@@ -892,13 +923,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 28</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b0de14e79644579bc705b2e476bfefa.png" alt="Cover for The Heart of Everything" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-08</td>
       <td>Within Temptation</td>
@@ -910,13 +942,13 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 78</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 83</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9886c372c51244bdc4a549946653e0cd.png" alt="Cover for Transparence" style="max-width:120px; height:auto;" />
       </td>
@@ -935,8 +967,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aefd5d4aee13d318184ccb5578c05553.png" alt="Cover for Faith" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-17</td>
       <td>Eyes of Eden</td>
@@ -952,28 +985,27 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a72c3be9956a44bbb71d198f9841df81.png" alt="Cover for Dark Passion Play" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-26</td>
       <td>Nightwish</td>
       <td>Dark Passion Play</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 3</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/GvmOg-xOpD0eOLzpV7xXHfblGKMNOAHii8EC646BpIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM4/MjItMTQ2MDI0MTg2/OS02Nzg5LmpwZWc.jpeg" alt="Cover for My Winter Storm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/987d6f88431d5826ffe6514da44d5b91.png" alt="Cover for My Winter Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-14</td>
       <td>Tarja</td>
@@ -991,7 +1023,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/grMZjLur_WLVWkM7aAz_3Ca5gfvft3mA3Vz_iug_nXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAz/MzMwLTE1ODM3NzQ4/MDEtODcyMy5qcGVn.jpeg" alt="Cover for Second Rose" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,7 +1041,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/E-hhvUZIBg-LEHlj_7TVl6WOXSOJa2gj2jcAlma8ReU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEz/NzAtMTI0MzU5NDkx/OS5qcGVn.jpeg" alt="Cover for Nordlys" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,9 +1061,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/l04YiwzxLofDW-_KvSPgIjmaJb_Kg9VYhF9yzl7GgiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDUx/MjUtMTM2NzA4NjE2/OS02ODA3LmpwZWc.jpeg" alt="Cover for Blood of Bacchus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa9ac438349ad89701fa9cd337eba6ce.png" alt="Cover for Blood of Bacchus" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-25</td>
       <td>Ava Inferi</td>
@@ -1052,8 +1084,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3342229e16554379c377fc61c06a5b72.png" alt="Cover for Njord" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-26</td>
       <td>Leaves&#39; Eyes</td>
@@ -1066,12 +1099,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 19</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td>2009-11-17</td>
@@ -1097,7 +1130,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 19</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
@@ -1106,14 +1139,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 93</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 94</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 95</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 95</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 96</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/x0bBX-6wpv81eDpuyaNt_WMFgXVlMSJrEg3U4xaPbL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg5/NDItMTMwNDMxNDI5/Ny5qcGVn.jpeg" alt="Cover for Catharsis" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1164,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/GXa4sh0y2YaSZnIUPzMPEyOFFckDy-3kM4f2N8MKdC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjY2/My0xNTg3ODI1NjIz/LTU5MTguanBlZw.jpeg" alt="Cover for Lacuna Coil - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,12 +1178,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 47</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d55899ac6f73e5bf009c604c63a6f14.png" alt="Cover for We Stitch These Wounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,19 +1197,20 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 16</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 34</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 47</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 63</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 75</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 78</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 91</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>2010-10-27</td>
@@ -1194,7 +1228,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2010-12-21</td>
@@ -1215,7 +1249,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/7mIQI9mVOyaWsdqE561GFozZoU9cl5DzpY5YD6pWMv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDc2/ODItMTM4ODQ4OTk5/OC0zNDc4LmpwZWc.jpeg" alt="Cover for The Reckoning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e529111ae688745e0ebf5eeae775f91.png" alt="Cover for The Reckoning" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Within Temptation</td>
@@ -1231,15 +1265,15 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 6</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 35</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 85</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 86</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36a71ddeb244610ad1e539914b6b9ec.png" alt="Cover for The Unforgiving" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1293,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2011-04-22</td>
@@ -1277,7 +1311,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c48bdbfd07e4289c2090f305f2fbfcb.png" alt="Cover for Balls Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,11 +1328,11 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 75</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 84</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 87</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
@@ -1306,7 +1340,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eb60376fa174fa687752e6870a4ab2a.png" alt="Cover for The Quiet Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1359,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21bc1be3b2f944d7b7f45054d373816c.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,6 +1382,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc1d2aaa23fb4f1fadf94bb4b64a8a9c.png" alt="Cover for Goldie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-27</td>
       <td>A$AP Rocky</td>
@@ -1376,24 +1411,25 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 99</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 100</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 100</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 100</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/990c3dca93f4407681093c7ad94d4702.png" alt="Cover for Napisten Hava" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-28</td>
       <td>Dalriada</td>
@@ -1413,7 +1449,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7307f68d4ccc44469c0e579680369df9.png" alt="Cover for Wretched And Divine: The Story Of The Wild Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,11 +1463,11 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 15</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 57</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 16</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 41</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 63</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 66</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 67</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 78</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 91</li>
@@ -1448,14 +1484,13 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       <td>About That Life</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 8</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 55</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 9</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 59</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 60</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 76</li>
@@ -1468,9 +1503,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/qE-6e_5P0udV3VTduj45ZqkGIqgaPtsenYyrCVGpT2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDcy/MTItMTQ3MTk5NTY3/OC0zODA4LmpwZWc.jpeg" alt="Cover for Starboy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a155a1d8618a78db6fd23a5e3826cc68.png" alt="Cover for Starboy" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-08</td>
       <td>The Animal In Me</td>
@@ -1488,14 +1523,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 28</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/qE-6e_5P0udV3VTduj45ZqkGIqgaPtsenYyrCVGpT2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDcy/MTItMTQ3MTk5NTY3/OC0zODA4LmpwZWc.jpeg" alt="Cover for Heathens" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b93ac0d65ad4191b28656fef98e35260.png" alt="Cover for Heathens" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-08</td>
       <td>The Animal In Me</td>
@@ -1513,14 +1548,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 35</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/qE-6e_5P0udV3VTduj45ZqkGIqgaPtsenYyrCVGpT2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDcy/MTItMTQ3MTk5NTY3/OC0zODA4LmpwZWc.jpeg" alt="Cover for Burn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf8b9588a3a1f58f2ab14bb39c1d4ac.png" alt="Cover for Burn" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-08</td>
       <td>The Animal In Me</td>
@@ -1538,14 +1573,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/qE-6e_5P0udV3VTduj45ZqkGIqgaPtsenYyrCVGpT2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDcy/MTItMTQ3MTk5NTY3/OC0zODA4LmpwZWc.jpeg" alt="Cover for Rap God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/326847aaf6f68bc8a4a0ef485290e538.png" alt="Cover for Rap God" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-08</td>
       <td>The Animal In Me</td>
@@ -1563,12 +1598,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 77</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/AKIfKqF8oWQp96KBFharZEvkL0izDqmbtJvk1GUzJbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjYz/NzUtMTM4MTE4NjY5/Mi05OTc1LmpwZWc.jpeg" alt="Cover for Black Is The Colour" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,9 +1622,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/gnOs0N91RNq9gpR_zZuAbBPPUmEP2LK_cjxiXCuAr-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTY1/NDgtMTUzNDQyNzQ0/MS02Nzg4LmpwZWc.jpeg" alt="Cover for The Human Contradiction (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17b86f6253694db0cdbca51de397ebb3.png" alt="Cover for The Human Contradiction (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-04</td>
       <td>Delain</td>
@@ -1607,12 +1642,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 78</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05175304c4ef24ac769b914696382729.png" alt="Cover for A Spark To Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,15 +1672,16 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 47</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 57</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 70</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 72</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d3432965c734322c367c51379acbcee.png" alt="Cover for The Attraction of Opposites" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-27</td>
       <td>Ravenscry</td>
@@ -1667,8 +1703,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3d9ccc8ce2a47ffc710f6dbabe30d9a.png" alt="Cover for Sick Like Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-09</td>
       <td>In This Moment</td>
@@ -1697,8 +1734,8 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       <td>Drown</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
@@ -1713,8 +1750,8 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 8</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 36</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 69</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 92</li>
@@ -1740,7 +1777,6 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
@@ -1750,11 +1786,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 63 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 13</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 14</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 62</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 62</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 77</li>
@@ -1767,9 +1804,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/xd69sRL44SzHqfqS1Vvd-PjGpUTjM53OH26wCDgR4mY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDcy/MjEtMTQ1MDA1OTcy/OS01NTA1LnBuZw.jpeg" alt="Cover for Don&#39;t Let Me Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9416d9a841583b0a91de074d85cd9da0.png" alt="Cover for Don&#39;t Let Me Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>The Animal In Me</td>
@@ -1787,14 +1824,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 47</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/mrrPrUL8YIRJWuesbeT54oj-efPjJcmkH-hvERylizE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzM1/OTYtMTQ3MzYxOTA3/MS0xMjc5LmpwZWc.jpeg" alt="Cover for F.F.F. (Fuck Fake Friends)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a7b20d67ed2346fac7aef9981ab87dc.png" alt="Cover for F.F.F. (Fuck Fake Friends)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>The Animal In Me</td>
@@ -1812,14 +1849,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 49</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/pqR8nPTSczmNu_ub0zb_QctQsFS9w9x97_492ttuwHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzcx/NTAtMTQ1NDk1NTc4/Ny00NzI4LmpwZWc.jpeg" alt="Cover for Luciferian Light Orchestra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a5b3aff5743e250a82edd59f8569ead.png" alt="Cover for Luciferian Light Orchestra" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-30</td>
       <td>Luciferian Light Orchestra</td>
@@ -1836,7 +1873,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/417e7d52a27a16c7139a7c23ccb6c3bb.png" alt="Cover for Conquer Divide" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,7 +1916,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/3FM2BnI-lcKn3cEqGI9B_vfrDXXKhW_hNm6ex5kfeaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDQ2/MTYtMTQ3MTk2OTc3/NC0xNDE0LmpwZWc.jpeg" alt="Cover for Moonbathers" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,12 +1932,12 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 37</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/5i9hnZp55ND7OdjWFynSASdaf05QPodgvecFE7iXz5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAw/MDM4LTE1NTYzNjM1/MzYtNDczNS5qcGVn.jpeg" alt="Cover for Epitaphs" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,9 +1957,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/O2Q31UQbxR2NuUn3MsfPDNAqxcxmF8DXSHeOje7p98k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAw/ODI2LTE2MjQxMjU2/MTQtODMxOC5qcGVn.jpeg" alt="Cover for The Heart Wants What It Wants" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e07d923f6cb479e66edbd82fa3b72d1c.png" alt="Cover for The Heart Wants What It Wants" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-31</td>
       <td>The Animal In Me</td>
@@ -1940,14 +1977,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 19</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/O2Q31UQbxR2NuUn3MsfPDNAqxcxmF8DXSHeOje7p98k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAw/ODI2LTE2MjQxMjU2/MTQtODMxOC5qcGVn.jpeg" alt="Cover for See You Again (feat. Richard Rogers)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc166af45a70c86fa6fc3b0766119b8e.png" alt="Cover for See You Again (feat. Richard Rogers)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-31</td>
       <td>The Animal In Me</td>
@@ -1965,14 +2002,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/O2Q31UQbxR2NuUn3MsfPDNAqxcxmF8DXSHeOje7p98k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAw/ODI2LTE2MjQxMjU2/MTQtODMxOC5qcGVn.jpeg" alt="Cover for I Knew You Were Trouble" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad1d7da43f0651019773e525d3a33258.png" alt="Cover for I Knew You Were Trouble" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-31</td>
       <td>The Animal In Me</td>
@@ -1990,14 +2027,14 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 74</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/FH-1q2xWkkM3PkWrcA7vSDwnJWnhYbiC21ggxH3-zGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM5/MTUyLTE0OTIzMDc5/MDEtMjEwMS5qcGVn.jpeg" alt="Cover for You Take Nothing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d14dc295013639011f0daf08a3c8b911.png" alt="Cover for You Take Nothing" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-14</td>
       <td>Ragana</td>
@@ -2017,9 +2054,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/1sFfVuLFHqC2Sx9X98C0TG_ULPfzdWDZeWFd1BP3ze8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc0/OTQwLTE1OTQ0NjQw/OTUtMzE5Ny5qcGVn.jpeg" alt="Cover for 365" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41a2763db8cb0ddf0c67ae695093b18.png" alt="Cover for 365" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-19</td>
       <td>Amaranthe</td>
@@ -2037,14 +2074,15 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 22</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 91</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 97</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 11</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 23</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/gxj70N9V0B4hqlheJc4_ur1jrbLmjxTdhjZjtxu9NkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU1/NDQ4LTE1NTgzNzU4/MzEtNzcwNy5qcGVn.jpeg" alt="Cover for Singles Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -2063,15 +2101,15 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 92</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 94</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 94</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/SyAidCgOytUyem3NnVOAH3JOhx-i3lGTWqDvqoWm-Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg4/MjIyLTE1Nzk2NTE5/ODItNzk5My5qcGVn.jpeg" alt="Cover for Puritan Masochism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b72df8301f643933504ef4656e6b93d8.png" alt="Cover for Puritan Masochism" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-24</td>
       <td>Konvent</td>
@@ -2090,7 +2128,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ekebjXcHQCwksY5JIM9LUtU7RQWHLYHmMvMRrgs0xJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ5/MDQ4LTE1ODYwMDU4/NjQtMzMxMC5qcGVn.jpeg" alt="Cover for Chapter I - Monarchy" style="max-width:120px; height:auto;" />
       </td>
@@ -2108,9 +2146,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/-UKULNeMfsxZMCY5C1EdVaHw0FIfZrPQtcgUcDkpa1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDUz/NjgzLTE2MTM1NTAx/NDgtMjY4Ni5qcGVn.jpeg" alt="Cover for Amber &amp; Gold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2760b63a2950a1756e0bb454c495705.png" alt="Cover for Amber &amp; Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-26</td>
       <td>Alunah</td>
@@ -2128,8 +2166,9 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a18206b88e206358edc191179430b2b.png" alt="Cover for Culling Culture" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-21</td>
       <td>Vexed</td>
@@ -2148,7 +2187,7 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/doSIXgwIp_5T6UjGCGTGQADM1Y8nKDPw-yMlRGrfmLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTUx/MjE3LTE2OTY5MzIy/MjktMjUyNy5wbmc.jpeg" alt="Cover for Feast Is Over" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e464f30c750862d59cd735013b80307d.png" alt="Cover for Feast Is Over" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-20</td>
       <td>Calva Louise</td>
@@ -2162,33 +2201,6 @@ Last updated: <time datetime="2025-11-02T23:20:50.958Z">Mon Nov 03 2025 01:20:50
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-          <img src="https://i.discogs.com/DBXFTIrEIyke0-ST8Yv8MdUjvReJnVON5ZKTYJPRPLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTYw/MzIxLTE2ODMxMDU5/NTMtMzg4Mi5qcGVn.jpeg" alt="Cover for Spit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-05-03</td>
-      <td>Poppy</td>
-      <td>Spit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 55</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 73</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 79</li>
         </ul>
       </td>
     </tr>

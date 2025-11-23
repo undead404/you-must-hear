@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T02:11:39.031Z
+date: 2025-11-23T02:43:19.287Z
 permalink: tags/straight-edge
 title: straight edge
 ---
 
 ## straight edge
 
-Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T02:43:19.287Z">Sun Nov 23 2025 04:43:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33aaa8a949096cad8a4c92815f6ccf98.png" alt="Cover for Walk Together, Rock Together" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>7Seconds</td>
@@ -45,7 +46,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/wvy605ESEJ1KSKLf2ycnLuhqSsD2H9t5B-bGikftiDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc3/ODU5LTE1OTU3NTk2/MzYtODkwNC5qcGVn.jpeg" alt="Cover for Rock &#39;n&#39; Roll Juggernaut" style="max-width:120px; height:auto;" />
       </td>
@@ -68,6 +69,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/318e54fcc1484d6abab82d24e5476537.png" alt="Cover for Break Down The Walls" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-08-08</td>
       <td>Youth of Today</td>
@@ -86,6 +88,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e008fa54be04696b48045a2cfabfc6a.png" alt="Cover for Straight Edge Revenge" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Project X</td>
@@ -115,7 +118,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 78</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -133,7 +136,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 67</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -152,13 +155,14 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 79</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 11</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 46</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/WDZKEdaBuJ9CCg-JXChJk1KvWepCV6sQOEOUF0Q75e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTQw/Ni0xNDE0MTYyNTQz/LTcyNzIuanBlZw.jpeg" alt="Cover for Live In AU" style="max-width:120px; height:auto;" />
       </td>
@@ -212,8 +216,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4d2a32c85121655a3a7076a938a85ca.png" alt="Cover for Destroy The Machines" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-25</td>
       <td>Earth Crisis</td>
@@ -272,7 +277,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1998-09-30</td>
@@ -342,8 +347,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 13</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 18</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 1</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 16</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 19</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 59</li>
         </ul>
       </td>
@@ -439,9 +445,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 12</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 17</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 26</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 13</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 21</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 27</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
         </ul>
       </td>
@@ -499,7 +505,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2000</td>
@@ -520,7 +526,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2000</td>
@@ -537,7 +543,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/gDRw7q6PLHOaQM2xR_k7ipHA9sn5-_GUWE11OxVatI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM3/NzAtMTI5MjcyNDc1/OC5qcGVn.jpeg" alt="Cover for Wispy, No Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -550,16 +556,16 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 1</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 3</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 3</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 6</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/X2wjZbfuI89Wfv3X4baxaOop0iEr62qpKVG2A-8IvWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY5/MzA4LTE0OTEwNjk1/NzQtMzUyNi5qcGVn.jpeg" alt="Cover for Sacrificio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e0b108ae4a1430a9038722f1f646e29.png" alt="Cover for Sacrificio" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Sudarshana</td>
@@ -577,9 +583,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/gKYyMRaQ_cMF-QdfU8PDYgxumjv8eDvE9ho7dGq2v3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjU3/NDktMTUzNjQ1MTcx/OS0xOTA4LmpwZWc.jpeg" alt="Cover for Gehenna Made Flesh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a084e46279aa2662e186fe65cafb5a57.png" alt="Cover for Gehenna Made Flesh" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>XCanaanX</td>
@@ -616,7 +622,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/AKL5mY0sMyUO6LNEBUyZl7f55s782UTzK4QtFPRU-II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjc5/NTUtMTU5NjExMzU1/Ny00ODA2LmpwZWc.jpeg" alt="Cover for Nothing Can Destroy Me, Nothing Can Stop Me" style="max-width:120px; height:auto;" />
       </td>
@@ -650,8 +656,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7fa2dfe3eea4215c2744a757387ce72.png" alt="Cover for Haymaker" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-15</td>
       <td>Throwdown</td>
@@ -670,7 +677,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/lnYqiIVey7Em_kxnTlBNgCGHJitkBwtC3cH9N8DgYu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM5/MjctMTUxNzk1MTA3/My0yMjA4LmpwZWc.jpeg" alt="Cover for I Pray to Watch You Bleed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab25c592c00f592e3d28cb4f7d96daf4.png" alt="Cover for I Pray to Watch You Bleed" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Children of Gaia</td>
@@ -708,7 +715,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/GOtCx4nPQ-VU9zhvTJTDaF9eFJUFIVZktxVwyC7eAk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjIz/NzYtMTMwNzcwODc2/Mi5qcGVn.jpeg" alt="Cover for Death Sentence" style="max-width:120px; height:auto;" />
       </td>
@@ -745,9 +752,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/gnfgBHE_0d1BZeKojA0TtDjDnn6w3Dvoo8gImhkdkWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTg4/Ni0xMTgzMzI0ODA4/LmpwZWc.jpeg" alt="Cover for One With The Underdogs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28ddf057d1d6492db85bd39749dad643.png" alt="Cover for One With The Underdogs" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-27</td>
       <td>Terror</td>
@@ -759,6 +766,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -781,9 +789,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/2ZsRYlQNsngZA2GIVH7__1z0f2hHsDiC9PHvma3M57k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY2/NDktMTE5MzMzNTg1/Mi5qcGVn.jpeg" alt="Cover for Design Your Fate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48833ddc6ffc65a7602021aff951a5dc.png" alt="Cover for Design Your Fate" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09</td>
       <td>Scars of Tomorrow</td>
@@ -818,7 +826,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +890,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/_tvZkYoqy4HBLb6E75yIKDwmr7aeY8MxsUMkNQWMQ6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM0/NDMtMTM1OTgzODU3/MS03Mjc0LmpwZWc.jpeg" alt="Cover for Before the Devil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdac2859e441b825c282b5b4439ea663.png" alt="Cover for Before the Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-27</td>
       <td>Black My Heart</td>
@@ -916,7 +924,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 70</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -936,14 +944,14 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 46</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/kgm9E3NKa4zMMaY54uHrfpJsqKbm0UJGzLfo-bhbhMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQy/NDg2LTE0OTU2NTYw/MzEtNzUzNS5qcGVn.jpeg" alt="Cover for No Angel Wings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7283099ec9b94524961ea11a35df3827.png" alt="Cover for No Angel Wings" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Doomsday</td>
@@ -962,7 +970,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2006</td>
@@ -1001,7 +1009,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/_WtjIHTfwdq72AWsTTpgkyZtgSm0_JJkfnGf04cYKBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI5/MDE5LTE0OTcyNTA2/ODUtMjc5MC5qcGVn.jpeg" alt="Cover for From the Past to the Grave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8460fd3fe632d17f52ee050198b28124.png" alt="Cover for From the Past to the Grave" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-16</td>
       <td>Wish For Wings</td>
@@ -1058,7 +1066,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2006-10-25</td>
@@ -1128,14 +1136,14 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 11</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 15</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 16</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/itYA7zaAfcYY-PCWLNClxrLyN9WDmKbJ8BJQMKYtgxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjMx/NDEtMTIzNTM0NTgy/My5qcGVn.jpeg" alt="Cover for Creativity" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1183,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/LuKrk_jXeneNn-pswl88rHVp5Hcnd2uP_oOa_uNJmdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzI1/NDAtMTM5MTc2NzY5/Ni0zNDE2LmpwZWc.jpeg" alt="Cover for Deceived" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1202,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/sN2vkFJgT64WVhrMqEka3ZY6QRNWHZSX3DtaPB-5fX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTM5/MDctMTQ1ODAyNzU5/OS04NjAyLmpwZWc.jpeg" alt="Cover for The Last Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1222,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2008</td>
@@ -1232,7 +1240,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/RbmKVBtg0pzb4NiMtAQ625kVaThbPqIeAfEhlqmhfIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTM3/ODEtMTYyMjc0NTc2/MC0yMjcyLnBuZw.jpeg" alt="Cover for In Like A Lion" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,9 +1296,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/3UnsdZ0jIyOaAdVw2MPM8CUwo-T-cVnPXkKtxlBhzNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjU1/MDAtMTQxOTkwMTE0/NS01MjU1LmpwZWc.jpeg" alt="Cover for El Arte De Engendrar El Miedo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/583941ce0c25e08f923cc05805381dfe.png" alt="Cover for El Arte De Engendrar El Miedo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02</td>
       <td>Nouvelle Gaia</td>
@@ -1310,6 +1318,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41e2267966bc4e6d82742dd72cd68004.png" alt="Cover for Can&#39;t Fight Robots" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-24</td>
       <td>Take It Back!</td>
@@ -1331,7 +1340,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/zQ7bGAkdcT_exkjfRbBrMHXHDm4MAEbueFUBhP7GM4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg4/MTM5LTE0OTQ3MDg0/MjQtMzYyNi5qcGVn.jpeg" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4acb25997b33d417b1aa32d8f3be665b.png" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-11</td>
       <td>Wish For Wings</td>
@@ -1369,7 +1378,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/MYuOqsFnwzj_xQY1nyjjksmC7oog5hDsyZ_8sueTPGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE4/MTM5LTE2Nzk1OTEx/MDgtMjY3Ni5qcGVn.jpeg" alt="Cover for Aspire" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1396,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/8HGiFssT89LJv2BTwrYzJCDbjIljUicAF96swYFtgWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjM4/NjYtMTMxODY3MDY4/Ni5qcGVn.jpeg" alt="Cover for Double Vision" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1415,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/jqboI_bRwP2d2da6jEjW8_k8Sd91B_YVFL_fPEFWpus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDEy/MTMtMTIzMTQyMDc5/Ny5qcGVn.jpeg" alt="Cover for Pits Are The Pits (25 Gold&#x3D;Rare&#x3D;Debris 1992-2000)" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,9 +1510,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/l1QYfaq9sB7pVqsqPFkcXCWzAurSTc_tG79XHaWlXbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzgx/NzgtMTMwMDYyMzQ0/OC5qcGVn.jpeg" alt="Cover for Survival Instinct" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67130c1a074a72cca30209f6a519c8ae.png" alt="Cover for Survival Instinct" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11</td>
       <td>Die Young</td>
@@ -1523,7 +1532,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/0oZ2oPCtPVz4JUaCz1oUzWkrhc8TXLGYkHN1xMYPEBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njkx/NjQtMTM2NTc1NDE1/My04MTYzLmpwZWc.jpeg" alt="Cover for новый мир" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1553,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/cuemfdJL6o-4UTZgpZnR12n23YwdXqEPX0v6VvPVZNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODA0/MDUtMTMwNTQwOTEy/MC5qcGVn.jpeg" alt="Cover for Only One Flag" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,8 +1595,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/311f468e9ddc471395734a849c5aa663.png" alt="Cover for The Hope Division" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-01</td>
       <td>Stick to Your Guns</td>
@@ -1599,12 +1609,13 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 28</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/qcSadbICSTebsG04mEpn7xOLe72ks1cZQYn0hb0UGq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg1/MTktMTMzMDAyNDI5/Mi5qcGVn.jpeg" alt="Cover for Silencios" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,6 +1637,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8ad6d12b9aca5d42b27d151d4743a32.png" alt="Cover for Fear" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Dead In The Dirt</td>
@@ -1663,7 +1675,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Op9Vw7htQQ67o7n3hqR2pXaONZZmLp-SdUNWpZfDaz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTUz/NzgtMTMwNjEzMjcw/My5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1694,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2011-12-03</td>
@@ -1757,7 +1769,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/7kNPM6mRMkWBH2H9HKnUhb9kJB_rAcchijD6sdqVGik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDIx/MjktMTQ3Mjg1NzE1/Mi05MjI3LmpwZWc.jpeg" alt="Cover for Change The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1789,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/CtPoxGh34GvHy4KT3TmpnDOGTXayfRsH7AC6bEg7Xj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzEz/MzMtMTMzNDYxMjI2/OC5qcGVn.jpeg" alt="Cover for The War of All Against All" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1810,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2012-02-14</td>
@@ -1868,28 +1880,8 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 2</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 5</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-      </td>
-      <td>2012-03-27</td>
-      <td>Stick to Your Guns</td>
-      <td>Diamond</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1965,16 +1957,17 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 28</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 11</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 19</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 32</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 40</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/4zpchUMY_s8oMVQkZPqNGgFUBDt8n-_mXGcBaoOszBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTE3/NDItMTM4NzAzMDg0/My0xMTc2LmpwZWc.jpeg" alt="Cover for Правосудия Нет" style="max-width:120px; height:auto;" />
       </td>
@@ -1997,7 +1990,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ooyhhykT0kysPNRq7jn8H22BPvQ5Iz2mPXqaZjn4mcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Njkw/MjktMTM5OTQ1MzYx/My0xNDE3LmpwZWc.jpeg" alt="Cover for Достучаться до сердец (2013)" style="max-width:120px; height:auto;" />
       </td>
@@ -2034,7 +2027,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/2N986NUSrz4RyRQeeWX_wwWDACt3NimdyRg07fW7D2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTM1/MzQtMTM2ODE5Mzkw/MS03MTM2LmpwZWc.jpeg" alt="Cover for Mongo Life" style="max-width:120px; height:auto;" />
       </td>
@@ -2052,9 +2045,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/r0-RFQQQR1oikqVTXkBaqGkFyaDmf5OHZqFRFZB8gzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU1/ODgtMTM3MjE4NTMx/MC02Njg3LmpwZWc.jpeg" alt="Cover for Cave Sounds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceea97526e524ce1a469b33d9d6a4efd.png" alt="Cover for Cave Sounds" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>Ghost Cat</td>
@@ -2077,7 +2070,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/_Rh6wBGu7r35qzj4VzD9esMEaOSkRyOyWCwsyUXVZ9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzMx/NjAtMTQyMTM0MTU0/NC0xMDExLmpwZWc.jpeg" alt="Cover for Diamond: Decade Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38fbb873b5d1480fc867ea797b68b169.png" alt="Cover for Diamond: Decade Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-25</td>
       <td>Stick to Your Guns</td>
@@ -2095,12 +2088,12 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 84</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/hgbNK4-y-ZM1gO4lHw3bZxbiHyi3zVjKwRpHg17QPkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTM2/ODUtMTYxNDMwNTQ1/Mi01OTA3LmpwZWc.jpeg" alt="Cover for Youth of Today EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2118,9 +2111,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/h02ez7I1e-MeT4tJGbTR2mM82aK-5-oEFs--BmjCpd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg4/NzgxLTE2MDQ5NTU1/MjctNjgxNS5qcGVn.jpeg" alt="Cover for ContraMundi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d00352046ceb50062b1bc0c155243281.png" alt="Cover for ContraMundi" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-01</td>
       <td>ContraMundi</td>
@@ -2142,9 +2135,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/WHPG0mSjFXK-mgAPpdYtbIeM1LpWLECGyNzAYG4eWuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTA5/MjgtMTQzMTE2OTUz/NC0xNDIyLmpwZWc.jpeg" alt="Cover for Homefires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44edf11494144d88cd3daf19e6c5fc87.png" alt="Cover for Homefires" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-03</td>
       <td>Light Your Anchor</td>
@@ -2167,7 +2160,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/VrDOoddS1qQmmSrxauf_1mdVgOvLBVMRE08AkhLzx5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/ODkyLTE1MDc2NDI4/OTEtNDA2MC5qcGVn.jpeg" alt="Cover for True View" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/add1cf652d6e0efa20b62b1b31e0904a.png" alt="Cover for True View" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Stick to Your Guns</td>
@@ -2186,12 +2179,32 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 13</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/QQawLxIy-xzmLESJtXLZWsdZp1uy7DJPhkUDYtzmrs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcz/NzU3LTE1NTY3NzM0/NjctOTU3OS5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Struck Nerve</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/b8GmpVOmwdcWuOBXL3Rug6Pt5D-lUOph26_XqY26SU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUw/NDY4LTE1NTM5NjE2/NjEtMTgxNS5qcGVn.jpeg" alt="Cover for Ultimate Disease" style="max-width:120px; height:auto;" />
       </td>
@@ -2253,7 +2266,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2021-12-21</td>
@@ -2271,7 +2284,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/n9HwItG7tsQ5YN4b8aMIoKbWXDCR_e4ySQAmddruZg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDk4/NjQ1LTE2NTk2MjMy/OTQtMzUyMy5qcGVn.jpeg" alt="Cover for Infirm Of Purpose" style="max-width:120px; height:auto;" />
       </td>
@@ -2308,7 +2321,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2023</td>
@@ -2326,7 +2339,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2345,7 +2358,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2419,8 +2432,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70a533f0bd4e2ea7bec119738e312bad.png" alt="Cover for Winter Promo 2024" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>XaogcX</td>

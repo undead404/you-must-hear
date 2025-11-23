@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T15:59:29.867Z
+date: 2025-11-23T02:59:48.179Z
 permalink: tags/jazz-funk
 title: jazz-funk
 ---
 
 ## jazz-funk
 
-Last updated: <time datetime="2025-11-18T15:59:29.867Z">Tue Nov 18 2025 17:59:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T02:59:48.179Z">Sun Nov 23 2025 04:59:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,12 +51,12 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
         <ul>
             <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 88</li>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 90</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 96</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/-jM2PWo52rLoiT9RLUbOyqXSGkqpKPOcr7T5l7G8GnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMw/NTYtMTM0NDQ3MjIw/OC03MzEzLmpwZWc.jpeg" alt="Cover for Everything I Play Is Funky" style="max-width:120px; height:auto;" />
       </td>
@@ -96,13 +96,13 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
         <ul>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 29</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 83</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 92</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/qPtlsb637_wyIXqNrMCsfoSmv9VauDQiBu-FXu2EEW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg2/OS0xNTYyMTkyMDYy/LTMyNzcuanBlZw.jpeg" alt="Cover for Move Your Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
       </td>
       <td>1970</td>
@@ -141,7 +141,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43118f52558c4d02cd3c188ca4a00f31.png" alt="Cover for Alive!" style="max-width:120px; height:auto;" />
       </td>
@@ -159,8 +159,9 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2674cc2220fd03650deab4e03a3ec6a.png" alt="Cover for A Tribute to Jack Johnson" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Miles Davis</td>
@@ -173,12 +174,12 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 95</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2a8580ec4e4419ec1a20ef24589ae01.png" alt="Cover for Groove Grease" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +199,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1971</td>
@@ -219,6 +220,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c24b8bdfd0461ba8b18be49a25048a.png" alt="Cover for Mwandishi" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Herbie Hancock</td>
@@ -231,7 +233,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 47</li>
             <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 77</li>
         </ul>
@@ -240,6 +242,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94b84260d28411d5df19f3f8c1e90f08.png" alt="Cover for Ethiopian Knights" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Donald Byrd</td>
@@ -256,7 +259,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e0cee9b3a994e4412fc1f071f271f86.png" alt="Cover for Butterfly" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +304,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 47</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 100</li>
@@ -310,7 +313,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/631b032369ad8bb3cdaccfedbbd91bc9.png" alt="Cover for Blow-Up (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -328,33 +331,12 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 6</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 68</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c25047d9c74c59cc7c71a4fa467ce4.png" alt="Cover for Get Up With It" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>Miles Davis</td>
-      <td>Get Up With It</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 8</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/Ghnvien1yHqiDojTcHOnMOSOLzNvMe9rKzZyiDEcCcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/ODYtMTMyMTM3NDcx/Ny5qcGVn.jpeg" alt="Cover for A Virgem de Saint Tropez (Trilha Sonora Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -370,13 +352,31 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 15</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 69</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 19</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c25047d9c74c59cc7c71a4fa467ce4.png" alt="Cover for Get Up With It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Miles Davis</td>
+      <td>Get Up With It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f92648f2186cf6b3a938080d18d46d5.png" alt="Cover for Satin Doll" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +395,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
       </td>
       <td>1974</td>
@@ -413,9 +413,9 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/BRUNRDuJ8wzLxMhfcuR2tI1dZdKXZVrg0hUwUWRJXyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUy/My0xNDcyNTUyMTU3/LTM3NDguanBlZw.jpeg" alt="Cover for Vista" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b612923d16cad11d3fd27d990fd3555.png" alt="Cover for Vista" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Marion Brown</td>
@@ -434,7 +434,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 55</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 53</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 86</li>
         </ul>
@@ -473,7 +473,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -514,7 +514,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe3b6c49307daa16fc516464306d0ce4.png" alt="Cover for Survival Of The Fittest" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +531,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/hOq2dnG4lbDu5jrRbpe_x3f6xzLCakwyRhsxJwji6bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODU5/ODMtMTQwMDI1NTE1/Mi02MzA1LmpwZWc.jpeg" alt="Cover for Supernatural Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +551,27 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08dedb0d6f1bb75f1c7eaa342d8891c1.png" alt="Cover for Elementary (Expanded Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Wah Wah Watson</td>
+      <td>Elementary (Expanded Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/h-8JNvoeMES7BWjrdNKmPw0fosBKRCOkvhRd-FjeI58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzMx/MS0xNTcwNTAzNjcx/LTkxNDguanBlZw.jpeg" alt="Cover for Heritage" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +589,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/tno139WJtDtJl-V0RdLJrUOQHJfXJi_H_2Gu36SFiOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDU0/NC0xMTk2MDQyNjMy/LmpwZWc.jpeg" alt="Cover for Dancing In Your Head" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +609,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>1977</td>
@@ -626,7 +646,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31eaf0924dcd0a9f9b96fe39c47536ff.png" alt="Cover for Action" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +664,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8675313b8d57543c1acaf245a60ad90.png" alt="Cover for What You Won&#39;t Do For Love" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +678,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 91</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 92</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 97</li>
         </ul>
       </td>
@@ -700,7 +720,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00860c6c945344f20cc9124597c9f8f0.png" alt="Cover for Rhapsody And Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -710,24 +730,6 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ef016cb564967c933a775e825ae98b7.png" alt="Cover for MR. HANDS" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1980</td>
-      <td>Herbie Hancock</td>
-      <td>MR. HANDS</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -774,7 +776,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
       </td>
       <td>1980-11-11</td>
@@ -814,7 +816,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2b8886571f7bd7f9fdaf966f40da194.png" alt="Cover for Gap Band II" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +897,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e51c02cdc6d83d66ca64129352513601.png" alt="Cover for Flying Beagle" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +956,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f970922b0964c49a53262c15430dde6.png" alt="Cover for Tribes, Vibes &amp; Scribes" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +973,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7f643b8e484be3a2fdf2e7270ef326.png" alt="Cover for Tribes, Vibes And Scribes" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +990,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46007b2573cf49c685ed79bd477bfc0c.png" alt="Cover for A Shining Symbol" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,7 +1011,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/21tf4tEkO8fFdFg8J7WsOWhAkzhpfI2YuxRM3NdOmTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTU0/NTUtMTQzNDI4NDk5/NC0yNTkxLmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1029,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b9c63f7a9a247b6bc8dbc21e5e564cc.png" alt="Cover for Urban Renewal" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1068,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>1996-06-11</td>
@@ -1088,7 +1090,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>1997-08-19</td>
@@ -1107,7 +1109,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19bfc7782a70465c939c4ac12190c073.png" alt="Cover for Universal Mother" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1184,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/at-_GUpUqd_bcSBsZvG5El8uSVs0hSlI6rQkPBQG7KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDEz/OTA2LTE2MzcxNTE2/MjAtODIyNi5qcGVn.jpeg" alt="Cover for MINT JAMS(Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1200,15 +1202,15 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 70</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 88</li>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 89</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
       </td>
       <td>2001-05-22</td>
@@ -1222,12 +1224,12 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 40</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16fa47babb205ad9705c9561c898c645.png" alt="Cover for Mr. C" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1283,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/aQF1rCaMhvPJtCmOFbbF7Qf2ieGbDRypir2y7WOe3AA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk4/OTgtMTIzMTY5MTcz/Mi5qcGVn.jpeg" alt="Cover for Tell It Like You Mean It &#x2F; Giraffe Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1303,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f74e6a02a5d74cdb97cf2c14fefeb893.png" alt="Cover for The Essential George Duke" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1364,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca3846393b9e49b8b4ed30ac4fcb10bd.png" alt="Cover for Improvisczario" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,8 +1387,9 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dc23fd90df04507c5795cc2383dcfa7.png" alt="Cover for This Meets That" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-01</td>
       <td>John Scofield</td>
@@ -1406,7 +1409,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2007-02-06</td>
@@ -1423,7 +1426,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b02cd732e1740fc8532d2aef1081d7b.png" alt="Cover for Play Deep Funk" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,7 +1465,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49107e8436930ba29bd02fb4b0d64a8.png" alt="Cover for Head Hunters" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,21 +1474,18 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>Head Hunters</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 77</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 88</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 90</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 95</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/998cfb22766fb6d18f85967de5b11d51.png" alt="Cover for Right On Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1523,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
       </td>
       <td>2011-09-05</td>
@@ -1569,7 +1569,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/7QisKZC5ID5JzwmzPq7pGWASMYIwwRpD6k6NTXiKYYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MTgtMTM2NjcxNzQ0/Mi00NTEzLmpwZWc.jpeg" alt="Cover for Sylva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a94704ed13baa54c2eb75a5408b1655.png" alt="Cover for Sylva" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-26</td>
       <td>Snarky Puppy</td>
@@ -1585,13 +1585,13 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 55</li>
             <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/vtYGa9ea79wtxxSNlmXo9Mb5-TBLWpjKSo4-x5WPVuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjc5/NjYtMTQxNDIzNzc2/NS01MTcyLmpwZWc.jpeg" alt="Cover for Ningen" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1612,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1656,7 +1656,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2016</td>
@@ -1674,15 +1674,15 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 47</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 48</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 68</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 81</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 75</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/cxUKRh_fDwbqD1Gsdyl8zUcS2oxBJ2MOHEC--IbvG5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTQw/MTItMTQ2MDA1NDM3/Ny05NjI2LmpwZWc.jpeg" alt="Cover for Selected Works 1979 to 1983" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,7 +1703,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dec2813ba01ee46e9bf2ba2b7b1989f.png" alt="Cover for Parking Lot Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,16 +1740,16 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 65</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 67</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 97</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/k4I4rMZba_8RyLemEE-MJRGoRl6gVJ9vTzSC5cl5gnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEz/NjU1LTE1MTE5ODkx/OTktMjYyMS5qcGVn.jpeg" alt="Cover for Mopocalypse" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,14 +1765,14 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 51</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/DCNWqCeJj1Dc3CGdSrU3zxVjXR0njlR8r8RXGWEhHOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM1/MDIyLTE1MzE3NDIy/NDctNzgxMS5qcGVn.jpeg" alt="Cover for Heaven and Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1cb3568e0cef3bb1ae9f406cfc94740.png" alt="Cover for Heaven and Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-22</td>
       <td>Kamasi Washington</td>
@@ -1788,7 +1788,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/fvl4-_dEbixX6QyjCPotaWGXCUzfWY3fouTkxxhSVcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYy/Mzc4LTE1OTE5MjE1/MDQtNzM1Ny5qcGVn.jpeg" alt="Cover for Delicious" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1807,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25e6db4fea66bd4150c80b5b7c19d404.png" alt="Cover for Wede Harer Guzo" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,14 +1824,14 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 25</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 41</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 69</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 95</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b2e00e542379d67ea041fa25b76a861.png" alt="Cover for Cory and the Wongnotes" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,14 +1870,14 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 47</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 52</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 74</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Na2NkmB2J-cbnko0WKb0EcKevLUhT0_suv6JkFmk7E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM1/MTgyLTE1OTkxMjg5/NjItODEwMi5qcGVn.jpeg" alt="Cover for COLOR OF NOIZE" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1899,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/EYW2JehVVFgxwJMffoZZso2xNjxkTQU5VJ-kfHRvKpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI0/MzMzLTE2MDU1NzA5/OTItMzk4Ny5qcGVn.jpeg" alt="Cover for Tailwinds" style="max-width:120px; height:auto;" />
       </td>
@@ -1974,7 +1974,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 6</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1997,12 +1997,12 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 54</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 58</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/k2Zjy3vfFR1igkcx5ql0LouLfMErLv1ggX1M8vtmUQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ1/NDIzLTE2OTc3Njk4/NjYtODcyOC5wbmc.jpeg" alt="Cover for Me Chama De Gato Que Eu Sou Sua" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,16 +2020,16 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 45</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 47</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 66</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 48</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 73</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/357674ba00e83e21f4a0d2eb2204cd1d.png" alt="Cover for Fearless Movement" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,14 +2044,14 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 35</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 39</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 84</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2072,7 +2072,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
         <ul>
             <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 26</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 67</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 67</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
         </ul>
       </td>
     </tr>

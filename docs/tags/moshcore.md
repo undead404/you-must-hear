@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:55:51.831Z
+date: 2025-11-23T02:42:57.058Z
 permalink: tags/moshcore
 title: moshcore
 ---
 
 ## moshcore
 
-Last updated: <time datetime="2025-10-28T04:55:51.831Z">Tue Oct 28 2025 06:55:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T02:42:57.058Z">Sun Nov 23 2025 04:42:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
   </thead>
   <tbody>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b7cb0f86cff6a4b93b31813c9b13b09.png" alt="Cover for Riddle Box" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-10</td>
       <td>Insane Clown Posse</td>
@@ -38,16 +39,14 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 30</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 33</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 49</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 55</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 63</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 69</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 79</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 85</li>
@@ -56,7 +55,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>1997</td>
@@ -83,7 +82,27 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Nasty</td>
+      <td>Forgiveness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/RWOqYzRmNCf72XNGbyJJvJkn48D2kjlU_X566mwd3oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM3/MjgtMTI4MTM5MzA2/Mi5qcGVn.jpeg" alt="Cover for Rock Bottom" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +123,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>1997-04-01</td>
@@ -135,7 +154,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>1998</td>
@@ -158,9 +177,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/3_AGBwd2Zn7sUvx-qcu73PohrNdVmfNvnSTOPXdNhdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjg4/MzktMTM4ODE2MzE2/MC04OTAxLmpwZWc.jpeg" alt="Cover for N.G.M.F." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c3b11fa2e583ec1c9789ab05e65ede4.png" alt="Cover for N.G.M.F." style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Stout</td>
@@ -179,6 +198,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a15dfff97694b9b1e6fae0f8b3c237e.png" alt="Cover for The Amazing Jeckel Brothers" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-25</td>
       <td>Insane Clown Posse</td>
@@ -193,12 +213,12 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 26</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 33</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 44</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2000</td>
@@ -236,8 +256,28 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08c9efcfc186b626ca86cb4c809cf2ac.png" alt="Cover for Perseverance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-03-26</td>
+      <td>Hatebreed</td>
+      <td>Perseverance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0089f6be999c430a9caef1d327f70667.png" alt="Cover for Prophet Of Hostility" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Full Blown Chaos</td>
@@ -259,7 +299,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/lnYqiIVey7Em_kxnTlBNgCGHJitkBwtC3cH9N8DgYu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM5/MjctMTUxNzk1MTA3/My0yMjA4LmpwZWc.jpeg" alt="Cover for I Pray to Watch You Bleed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab25c592c00f592e3d28cb4f7d96daf4.png" alt="Cover for I Pray to Watch You Bleed" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Children of Gaia</td>
@@ -278,9 +318,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/4vCMRInXrmfUqr4bZ6v85UX9qBhXlz-UlubeffzFMIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzYw/OTgtMTI3Nzg0NDMz/My5qcGVn.jpeg" alt="Cover for 100 Demons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89c1cfe60dae0a3d7f5226742f750817.png" alt="Cover for 100 Demons" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-09</td>
       <td>100 Demons</td>
@@ -296,7 +336,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/X2D-L10CfJjclLhcDehI3KBhZu_Yalj4DY3rersSGUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkw/ODQxLTE1MzIyNzQz/NTItMjgyOC5qcGVn.jpeg" alt="Cover for Russian Hotel Aftermath &#x2F; Torch" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +354,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/X2D-L10CfJjclLhcDehI3KBhZu_Yalj4DY3rersSGUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkw/ODQxLTE1MzIyNzQz/NTItMjgyOC5qcGVn.jpeg" alt="Cover for I Am Onslaught &#x2F; Protoman" style="max-width:120px; height:auto;" />
       </td>
@@ -332,9 +372,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/6d4_0ZPf22jh9u-SxE-91TyIi8kBFVFtFaMGmuYp7qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDUz/NS0xNjc5MjE1MDcy/LTQyMTEuanBlZw.jpeg" alt="Cover for Cover Your Tracks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e0921dd26d84bc6b39f486ce1935d30.png" alt="Cover for Cover Your Tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-19</td>
       <td>Bury Your Dead</td>
@@ -351,7 +391,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ZiTzEsGZDJbBzeEHJpuiDyzUDpGuffSP0yp4-YAUwMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODE4/My0xNjE4NjQ5NTYw/LTk0MTAuanBlZw.jpeg" alt="Cover for Brood Of Vipers" style="max-width:120px; height:auto;" />
       </td>
@@ -366,12 +406,12 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 80</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/Vic1OXBRv_DV2eLk3HZTZskA95WrWb9UTPef-5EHMh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIx/OTEtMTYyNTgyNjEy/Mi04MDc1LmpwZWc.jpeg" alt="Cover for You Had Me At Hello" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +431,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/AArUuXLogZRoGiocNL-d7u53eKt394AEfXjGh_ilAq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTE4/NzMtMTQ0MTc2MDky/MC0zNjA2LmpwZWc.jpeg" alt="Cover for This Machine Kills" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +467,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/DyTuqQhpt3fb3rseGU4tjPegB8hz7d1JPwvs4jsyQI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTgx/NjktMTMyNDU2MTg5/NS5qcGVn.jpeg" alt="Cover for Destroy The Past" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +491,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/S_Rg8mbS2m_MA8O_-r0cM3V9rQVPrTCjaShxwbaGJ9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTMz/MjEtMTMyNzg0OTAw/My5qcGVn.jpeg" alt="Cover for Inquebrantable" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +515,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/_WtjIHTfwdq72AWsTTpgkyZtgSm0_JJkfnGf04cYKBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI5/MDE5LTE0OTcyNTA2/ODUtMjc5MC5qcGVn.jpeg" alt="Cover for From the Past to the Grave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8460fd3fe632d17f52ee050198b28124.png" alt="Cover for From the Past to the Grave" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-16</td>
       <td>Wish For Wings</td>
@@ -496,8 +536,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7502813ca4374e0d80b2817970c45f12.png" alt="Cover for The Wraith: Remix Albums" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-14</td>
       <td>Insane Clown Posse</td>
@@ -522,7 +563,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/eJGmQAVGARnHluq-bi7RpuG1cElnxYms65A28N1DMK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQ3/NDY4LTE2OTM2NDA1/NDQtOTA4NC5qcGVn.jpeg" alt="Cover for Freight train falls from a skyscraper" style="max-width:120px; height:auto;" />
       </td>
@@ -542,9 +583,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/nr8keV9ijirmKrZg6mhJjIvqS1RZiHB1i0GWrt7ycsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA4/MzEtMTQ3MjYyNzE3/NC04MjkwLmpwZWc.jpeg" alt="Cover for When All Seems To Be Burned" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acf200989c254c5bcc5ef00e98661e2b.png" alt="Cover for When All Seems To Be Burned" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-12</td>
       <td>Feast For The Crows</td>
@@ -567,9 +608,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/6Bk4U7TtJsjxqtmlW5YUVaFC-ASRCN5hpdxbuhGlvqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQz/NTYtMTI4NzY3NDc2/NC5qcGVn.jpeg" alt="Cover for Going Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3007e9b068a4e6f26d597d213504c2ec.png" alt="Cover for Going Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-27</td>
       <td>On Broken Wings</td>
@@ -585,7 +626,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>2007-03-06</td>
@@ -599,13 +640,15 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 23</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61121e0c07373fd6c944968a6147020c.png" alt="Cover for The Complete Guide To Needlework" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-04</td>
       <td>Emmure</td>
@@ -623,7 +666,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Attention W***e - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -689,23 +732,23 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 8</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 11</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 17</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 18</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 27</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 17</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 28</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 40</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 45</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 52</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 60</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 61</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 61</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 63</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 68</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -770,24 +813,24 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 10</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 11</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 22</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 11</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 49</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 72</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 79</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 81</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
@@ -802,9 +845,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/DFy3lybfsDCvgM8pgCD6XKfi8ZNe7S0RyrtILqbBbDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODAz/MDUtMTM4NjcwMTQy/NC04ODU5LmpwZWc.jpeg" alt="Cover for Cold World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/015c8891b1ff92647e1d695dd7e836c9.png" alt="Cover for Cold World" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Fallbrawl</td>
@@ -822,8 +865,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e68200a73f7a49fc9ef521369f5ea5f3.png" alt="Cover for Heat" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-19</td>
       <td>American Me</td>
@@ -841,6 +885,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aad60246869c4346be87de5354c19c4b.png" alt="Cover for The Respect Issue" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-13</td>
       <td>Emmure</td>
@@ -859,7 +904,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/-zfudmWQB0nzjtcSCoiNxWSIyqRzuInKgBzibo3QEgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTA5/NDQtMTMxNjI4Mzg3/NC5qcGVn.jpeg" alt="Cover for Another Horizon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c097ad400e46ac8ea10ee557f29f73a6.png" alt="Cover for Another Horizon" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-06</td>
       <td>Six Reasons To Kill</td>
@@ -898,7 +943,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/zQ7bGAkdcT_exkjfRbBrMHXHDm4MAEbueFUBhP7GM4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg4/MTM5LTE0OTQ3MDg0/MjQtMzYyNi5qcGVn.jpeg" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4acb25997b33d417b1aa32d8f3be665b.png" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-11</td>
       <td>Wish For Wings</td>
@@ -918,7 +963,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/rX5P5IFwGip_u2LGoNJwkNHIDC-2WGpLYlwr5mDZZUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjc0/NjYtMTQxNjU3MTM0/NS0yOTE5LmpwZWc.jpeg" alt="Cover for Catharsis Act I" style="max-width:120px; height:auto;" />
       </td>
@@ -936,7 +981,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/d9Ie0OWeYCMxwVNM5YBzDYAaXCtOTu6tAVnRX2Qu7tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjc1/MDQtMTQxNjU3MjIz/OS03NzEzLmpwZWc.jpeg" alt="Cover for Catharsis Act II" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +1002,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/_ufBg9H9CAc8WetN3Bjcse_q8_5-b95b1H-K_FKsd6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTUz/NzQtMTYyMjE0ODc1/Mi0xMDgzLmpwZWc.jpeg" alt="Cover for Straight In Your Face" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +1027,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/WSFVLbLzYppnZuEmmP3p5_hlHi-7zQpaytNUVAEGCPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQ4/NDMtMTQwNzAwNTk3/MS0xNDc0LmpwZWc.jpeg" alt="Cover for You Should Have Cared" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d35a0c5318dd3eeef33f77e29b7e1f7.png" alt="Cover for You Should Have Cared" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>8CONTROL</td>
@@ -1002,6 +1047,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d8bf404dbff6e696033d034f23d03d6.png" alt="Cover for No Fear 2 Bleed" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-10</td>
       <td>DANFORTH</td>
@@ -1020,7 +1066,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/GSfTcZfg1suWKpDb4zDVFTBfShvBZLhKvwJkzEG7TI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/NjUyLTE1ODQ4MDU4/NDMtNTkzNS5qcGVn.jpeg" alt="Cover for I Set My Friends On Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1090,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/jpQ946Uq9GZuUy52QN4RZFv3SPNeDwKKt0EYT0fZea8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/NjM4LTE1ODQ4MDU2/OTktMTkxNS5qcGVn.jpeg" alt="Cover for Penguins, I&#39;m Excited!" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1109,29 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/JfLxGoPDF_GND9ETxoS8GYwHQiwPf4kRuQHmj-misI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/NjE0LTE1ODQ4MDU0/OTQtOTU0NS5qcGVn.jpeg" alt="Cover for High Five?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-30</td>
+      <td>Dropping a Popped Locket</td>
+      <td>High Five?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f53589b49baacb12f727a921e31df5b.png" alt="Cover for Feel the Steel" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,23 +1140,21 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       <td>Feel the Steel</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 5</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 96</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 63</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 87</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Xco1sJ_bcnYYZUWkgUhWlvLSx7q-LpMsXar_vFjvVAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU1/MTQ5LTE1MTQ4MzU5/NDQtMzY0MC5qcGVn.jpeg" alt="Cover for Living Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6e40b2396014bc3b4785062b65cc434.png" alt="Cover for Living Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-14</td>
       <td>We Were Gentlemen</td>
@@ -1107,7 +1173,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72b78ffd3416a2476a2acee9dfabf16b.png" alt="Cover for Felony" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1183,6 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
         </ul>
       </td>
       <td>
@@ -1126,7 +1191,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
       </td>
       <td>2009-09-01</td>
@@ -1145,27 +1210,29 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
@@ -1173,7 +1240,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b491cd94651746048cb89291099f4323.png" alt="Cover for Siberian Nightmare Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,25 +1282,26 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 38</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 50</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 30</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 51</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 51</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 86</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 99</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2009-11-17</td>
@@ -1259,25 +1327,25 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 19</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 88</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 89</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 93</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 96</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/3ZziujpK29DdDWy_mEXMueIVLtcTTveDZ5AKVFVXXac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjcy/NDktMTQ2OTYxMzMx/MS03MzkwLmpwZWc.jpeg" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e21c711ca8445ee839f86a1594ac6c8.png" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Nasty Taste</td>
@@ -1313,15 +1381,15 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 28</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 24</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 30</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 64</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/FagOwZAUhOVVlBEaKN5v6HuMKpUSb7kpKUjCeb5zNC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTk4/NzItMTMzOTI1NDYx/Ny00OTgzLmpwZWc.jpeg" alt="Cover for Adherence" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,8 +1409,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b579947cbb744cfa89436515f2f000d.png" alt="Cover for My Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-22</td>
       <td>Justin Bieber</td>
@@ -1354,35 +1423,36 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 22</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 23</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 38</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 51</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 52</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 54</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 56</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 82</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 83</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2b72b088bdc3beb0cdb7636fbe02bb.png" alt="Cover for My World 2.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-23</td>
       <td>Justin Bieber</td>
@@ -1398,8 +1468,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/311f468e9ddc471395734a849c5aa663.png" alt="Cover for The Hope Division" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-01</td>
       <td>Stick to Your Guns</td>
@@ -1411,31 +1482,13 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td>2010-07-20</td>
-      <td>The Acacia Strain</td>
-      <td>Wormwood</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/920laABZeOQKQcr_gbWrHiCxFuaita_1Ta7SvqnEsiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQx/MjUtMTI4NDM5MjMz/Ny5qcGVn.jpeg" alt="Cover for Lock and Key" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,31 +1506,30 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/OI5Ocd0GGyua8033EEfgmD0f5eTm_6z8eOpBn-b78oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ0/NjEtMTM0MjYyMDM1/Mi0xNjgyLmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbd23c95e6c3489e9ccf8b4940166deb.png" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-12</td>
       <td>Motionless in White</td>
       <td>Creatures</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 27</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 69</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 2</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 26</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/l50_qqcAxJBf_MQnQMsna2aF6evuXVMkLKKR0shPUmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAy/MjAtMTI3NDEzNjAx/MS5qcGVn.jpeg" alt="Cover for Demons With Ryu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99f5826040d643be86d903c607acfc7a.png" alt="Cover for Demons With Ryu" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12</td>
       <td>Emmure</td>
@@ -1511,13 +1563,13 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 47</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011</td>
@@ -1537,9 +1589,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/a0BPhIcykjozqHz5bDx_Ejft_jjEtkKOJew8KmONjfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYw/NDAwLTE1MjM2MzY4/MjctNzE1NC5qcGVn.jpeg" alt="Cover for Sons Of Straight Edge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d6bf9325644436abfe7631d143c423b.png" alt="Cover for Sons Of Straight Edge" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Liferuiner</td>
@@ -1557,7 +1609,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/BQ5BE36rFY-HZzSdZvGO8_ooPacsD2Ryf_CowwN0Kqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzEx/MTgtMTM5MDc0MjUz/My01NzY3LmpwZWc.jpeg" alt="Cover for First Cookie: Fick Die Bude Kaputt" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,52 +1658,36 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 16</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 19</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 34</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 47</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 49</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 71</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 80</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 83</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a74afaa56334e54b393420ef998f14a.png" alt="Cover for Speaker of the Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-15</td>
       <td>Emmure</td>
       <td>Speaker of the Dead</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 46</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td>2011-04-04</td>
-      <td>Breakdown of Sanity</td>
-      <td>MIRRORS</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -1668,7 +1704,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/a_yjnrccibN9MvivsfGh8KLzuRtOK5Zvrdgm51MAIO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjIx/OTMtMTU3Nzg5Njc5/Mi05MDUwLmpwZWc.jpeg" alt="Cover for The Pale Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1720,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 87</li>
         </ul>
       </td>
@@ -1692,7 +1728,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/hTKL6UHCMbZ3daPbBdKVFMzxROQjZnYwcum38djdpCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU3/MTUtMTM1MjA2MjY1/Ni0xODg2LmpwZWc.jpeg" alt="Cover for Dark Days" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af34663142a9616d6d8fd58d20506862.png" alt="Cover for Dark Days" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-18</td>
       <td>Annotations of an Autopsy</td>
@@ -1709,8 +1745,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e82a84e011948054936ed0e1dfa1d9.png" alt="Cover for Mosh N&#39; Roll" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-02</td>
       <td>Bury Your Dead</td>
@@ -1727,7 +1764,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c48bdbfd07e4289c2090f305f2fbfcb.png" alt="Cover for Balls Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,20 +1780,20 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 50</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 59</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 87</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/-3MCvkYmhhCqV6GG6wmv5pPoCToGNJoBuxiqLiLrHGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTA3/MzYtMTUyMzM1ODEw/NS02OTEyLmpwZWc.jpeg" alt="Cover for Declaring War (redux)" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1814,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/epq282IfFK5WHfftWYV6QVINFJYPpjVoBlqGaO-oB-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQ5/NTAtMTMzNDY3OTIw/OS5qcGVn.jpeg" alt="Cover for Flag of the Beast" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,16 +1832,15 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7d38a29a8a43b5bead238b16305af2.png" alt="Cover for Slave to the Game" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-10</td>
       <td>Emmure</td>
       <td>Slave to the Game</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
         </ul>
       </td>
       <td>
@@ -1815,6 +1851,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc1d2aaa23fb4f1fadf94bb4b64a8a9c.png" alt="Cover for Goldie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-27</td>
       <td>A$AP Rocky</td>
@@ -1845,10 +1882,10 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 99</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
@@ -1859,9 +1896,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/bTO7Si4ENF30ik8Rq4-wFKQx85DLdnM-pXSLdN0yrPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU0/Nzg4LTE1ODczOTEy/MjYtMzA4NS5wbmc.jpeg" alt="Cover for Stronger (Kanye West Cover)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6dbaad3aac74761862a5a0b7aebd568.png" alt="Cover for Stronger (Kanye West Cover)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-12</td>
       <td>Breakdown of Sanity</td>
@@ -1879,8 +1916,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046fcc2040964003a5be8fde099e309b.png" alt="Cover for Infamous" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-12</td>
       <td>Motionless in White</td>
@@ -1892,13 +1930,13 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 15</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 66</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 14</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/CYrxpQ0FOI0TOYSb1TVkj_H88-8EdaGM9SIVpYscD-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA4/MTItMTQ4ODczNzg3/Ni00OTg0LmpwZWc.jpeg" alt="Cover for Liebe" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,26 +1958,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>90</td>
       <td>
-      </td>
-      <td>2013-10-18</td>
-      <td>Breakdown of Sanity</td>
-      <td>Perception</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/Xev-cKw-FPCqSWa3raIR0h44bYxcTRNC5uun2AL2fuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDQw/ODUtMTQ0OTEyMDEx/Ni0zMjEzLnBuZw.jpeg" alt="Cover for Nemesis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e67a4dab3ed54733c7da9b9fa929112a.png" alt="Cover for Nemesis" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Emmure</td>
@@ -1957,9 +1978,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/_Rh6wBGu7r35qzj4VzD9esMEaOSkRyOyWCwsyUXVZ9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzMx/NjAtMTQyMTM0MTU0/NC0xMDExLmpwZWc.jpeg" alt="Cover for Diamond: Decade Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38fbb873b5d1480fc867ea797b68b169.png" alt="Cover for Diamond: Decade Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-25</td>
       <td>Stick to Your Guns</td>
@@ -1982,9 +2003,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/h4VFhU8p8BU5mU1AqVpCv74FrTF-BYRTZGdNOHwdWD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU0/NzY2LTE1ODczOTEw/NTEtMzMwMy5wbmc.jpeg" alt="Cover for My Heart in Your Hands (Re-Recorded)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/991413c063da4bf0cb32f65cfdaf9b6a.png" alt="Cover for My Heart in Your Hands (Re-Recorded)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-01</td>
       <td>Breakdown of Sanity</td>
@@ -2002,9 +2023,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/ydUDcKyzUTQ06EWu1nHZJ3dQNYKf7IJ7oYTCcb4N5eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjgy/NzktMTQ2NTQ2NDQ5/My02MTM0LmpwZWc.jpeg" alt="Cover for Infinite Circle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2756fbc8b7dfc37589507e472c0d9cc5.png" alt="Cover for Infinite Circle" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Betrayal</td>
@@ -2026,7 +2047,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/-IS-DD5SjCozxVu5SGtVZ1H2LRHY6ZuZMcapBO3j26Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzE1/NzItMTQ2MjI2NTU5/NS05NTI3LmpwZWc.jpeg" alt="Cover for XXIV" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/535309ad00ab2f88ab2f05c78b5ad090.png" alt="Cover for XXIV" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-23</td>
       <td>xViciousx</td>
@@ -2040,14 +2061,14 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 41</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/5L1tKS0VHSf025aEFNz1o84l0YSCiQjnrRYMBig0Naw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjY2/MDMtMTU4MDg0NzMy/Ni04NzA1LmpwZWc.jpeg" alt="Cover for Coexistence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/612f1d402b7542043197ab784a964d7d.png" alt="Cover for Coexistence" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-09</td>
       <td>Breakdown of Sanity</td>
@@ -2065,7 +2086,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/8JoiUb96wX3Xxxm_V_OGGDCRQLBnWZYe5Y2r__P7MEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA0/NDEzLTE2MTkwNzU1/MDYtNTM1NS5qcGVn.jpeg" alt="Cover for The Besides" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b9a4520a2c86ba08cb6bfd4bf9838e7.png" alt="Cover for The Besides" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-04</td>
       <td>UnityTX</td>
@@ -2082,9 +2103,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/VrDOoddS1qQmmSrxauf_1mdVgOvLBVMRE08AkhLzx5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/ODkyLTE1MDc2NDI4/OTEtNDA2MC5qcGVn.jpeg" alt="Cover for True View" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/add1cf652d6e0efa20b62b1b31e0904a.png" alt="Cover for True View" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Stick to Your Guns</td>
@@ -2103,14 +2124,15 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 13</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/iC-XRy_-jfs_H-yO3xIuefodxwPVLuHE8qgDTlHYm8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI4/MjgzLTE1MTQzMjIw/ODItNDE2MC5qcGVn.jpeg" alt="Cover for Wrong World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c822023c0cb1b35bcec1522e044cf0f.png" alt="Cover for Wrong World" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Three Knee Deep</td>
@@ -2126,7 +2148,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/kA9m4dXJ09cHvLLBsd2Cjkft98iGTEaC3H9fTFNrgLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzQ2/MTUtMTQ4NjE0NzY1/MS03OTA0LmpwZWc.jpeg" alt="Cover for Rules" style="max-width:120px; height:auto;" />
       </td>
@@ -2143,12 +2165,12 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 72</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8b1e265381fbf53671724b86922f4d9.png" alt="Cover for Look At Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -2164,16 +2186,16 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 23</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 42</li>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/FDbcPKhSRouLBl8Z7U1VFsVrwWNAuB4x3Nk7X5z0sAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU3/ODA1LTE1MjMzNTgy/OTUtODMxOC5qcGVn.jpeg" alt="Cover for Realigion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eb61853153277b394cb8028159bfa2b.png" alt="Cover for Realigion" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Nasty</td>
@@ -2189,12 +2211,12 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 71</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98a92dc7fce6c46af5573500ef84418a.png" alt="Cover for Spiral" style="max-width:120px; height:auto;" />
       </td>
@@ -2214,9 +2236,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/-qBYVXyWE2mFkLJYYnC7R0Ot8tUSW37jAsA-izSHlPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMz/ODEwLTE1NjEzMDY4/MDctNTYwMS5qcGVn.jpeg" alt="Cover for Ruthless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/620bb09b7b5e8e2fbfef70de3ef8ce24.png" alt="Cover for Ruthless" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-07</td>
       <td>In Other Climes</td>
@@ -2236,6 +2258,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6009c09a9e11ac154e3b77d1a1f36eb1.png" alt="Cover for Absolute" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-04</td>
       <td>Kublai Khan TX</td>
@@ -2251,16 +2274,16 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 62</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 62</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 76</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 69</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 74</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/wWJMworfFhHivlehVu6qT6rb06Iy-9X0tS4XnWb_lMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ3/MDU5LTE2MTUxOTk2/MjgtODE3NC5qcGVn.jpeg" alt="Cover for No Blame... Just Facts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69cd13095443e97af6e65626d1ce75f2.png" alt="Cover for No Blame... Just Facts" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Pain of Truth</td>
@@ -2277,7 +2300,7 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba5b83c64e72c9ed7e44f2572de828c.png" alt="Cover for Hindsight" style="max-width:120px; height:auto;" />
       </td>
@@ -2286,8 +2309,6 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       <td>Hindsight</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
       <td>
@@ -2296,9 +2317,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/7QsSCq6iX2AfhljvnlBTe9gW29BjvOiIJwOn-iH24rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzg0/ODYwLTE2NTY5ODU3/NjMtODI5Ni5wbmc.jpeg" alt="Cover for Self Fulfilling Prophecy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1cd75d3ccdd517b4a0613f9801c0bc9.png" alt="Cover for Self Fulfilling Prophecy" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Die Alone</td>
@@ -2317,8 +2338,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e18eedebef0df01e084b6b8a20e29d2b.png" alt="Cover for No One Conquers Who Doesn&#39;t Fight" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Blood In Blood Out</td>
@@ -2335,9 +2357,9 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/YC-ZldPDJDQwiZlu1OcUL0Uwfw4S2SY5pZQl9aRLxNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTkx/MzQwLTE2NDUwOTE4/MDktNjEyOS5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fccfbac4f766f9a722cabc17f10c233.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-11</td>
       <td>Apex Predator</td>
@@ -2354,12 +2376,12 @@ Moshcore is an aggressive subgenre of metalcore and hardcore punk designed speci
       <td>
         <ul>
             <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 11</li>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 20</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
