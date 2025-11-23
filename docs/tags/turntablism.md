@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:41:42.494Z
+date: 2025-11-23T14:35:31.203Z
 permalink: tags/turntablism
 title: turntablism
 ---
 
 ## turntablism
 
-Last updated: <time datetime="2025-11-22T13:41:42.494Z">Sat Nov 22 2025 15:41:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T14:35:31.203Z">Sun Nov 23 2025 16:35:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -76,7 +76,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 23</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 22</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 72</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 80</li>
         </ul>
@@ -277,7 +277,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
         <ul>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 46</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 81</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 89</li>
         </ul>
       </td>
@@ -356,7 +356,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 66</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -502,7 +502,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 14</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +526,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 15</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -610,7 +610,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 12</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 11</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 98</li>
         </ul>
       </td>
@@ -640,8 +640,8 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 44</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 44</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 94</li>
         </ul>
       </td>
@@ -736,8 +736,8 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 89</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 91</li>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 94</li>
         </ul>
       </td>
@@ -757,7 +757,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 19</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -889,6 +889,25 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>DJ Vadim</td>
+      <td>Stereo Pictures Vol.03</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84942b71c7c346ccc67748f69c31d4aa.png" alt="Cover for Manipulating Agent" style="max-width:120px; height:auto;" />
@@ -932,7 +951,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/vaGqwIGUwZ0An84lLiqu_a3fK0x8Uu-vE4hVOgQr5LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzY5/NC0xMTAxNjc0OTE2/LmpwZw.jpeg" alt="Cover for (VV:2) Venomous Villain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92df285c56fb6a406a71530f76836845.png" alt="Cover for (VV:2) Venomous Villain" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Viktor Vaughn</td>
@@ -949,8 +968,9 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 11</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 14</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1322,7 +1342,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1427,8 +1447,8 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1492,8 +1512,8 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 20</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 20</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1626,7 +1646,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/yotLxDeERRG4st8LYcJkZezdmdmv_kXatVThuIhD-44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njk0/MjktMTM0NzUyMjcx/NC0yOTM5LmpwZWc.jpeg" alt="Cover for On The Floor At The Boutique" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1743,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/8I3_VefZbyal-JaqrYRw6LLg4MH-2dGWtUGCNfmwp4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODk5/MjYtMTM1NTkxMjk1/NC00NDI4LmpwZWc.jpeg" alt="Cover for The Branches (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82a64b9b6daac6c2dfb7d431d1e3af9.png" alt="Cover for The Branches (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-18</td>
       <td>Long Arm</td>
@@ -1740,12 +1760,12 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 51</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/TbOR5jyuON_M01q5SqTadoitqqRtpN8hYZbbfW5xxKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MzctMTQ5NjQ1OTA4/Ni02Njg4LmpwZWc.jpeg" alt="Cover for Operation: Doomsday." style="max-width:120px; height:auto;" />
       </td>
@@ -1758,9 +1778,9 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 18</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 28</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 29</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1778,9 +1798,9 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 41</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 53</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1873,7 +1893,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 45</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1887,27 +1907,6 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
       <td>Cosmic Yard</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb2f97c48333319faaea37b1ff907b94.png" alt="Cover for Gucci Ghost" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-10-14</td>
-      <td>MICKEY DIAMOND</td>
-      <td>Gucci Ghost</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a></li>
         </ul>
       </td>
@@ -1955,7 +1954,7 @@ Turntablism is a hip-hop art form where DJs manipulate vinyl records as musical 
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/Z8IiumWZJfFXEh7w-1-8wCS_FVnAxJ7gBKIKuRCJMC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ3/MDcwLTE2NDgwMDMy/NzAtODI5Mi5qcGVn.jpeg" alt="Cover for Thank you Acid Souljah 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdc92fa98b6e0c9b2e75407c3de471c7.png" alt="Cover for Thank you Acid Souljah 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-04</td>
       <td>Acid Souljah</td>

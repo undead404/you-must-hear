@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T20:19:44.300Z
+date: 2025-11-23T14:37:36.248Z
 permalink: tags/chiptune
 title: chiptune
 ---
 
 ## chiptune
 
-Last updated: <time datetime="2025-11-17T20:19:44.300Z">Mon Nov 17 2025 22:19:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T14:37:36.248Z">Sun Nov 23 2025 16:37:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for 8-Bit Operators" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2618c7d1cb48ae9bc1538395b1839d.png" alt="Cover for Holland, 1945" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d6f8d4ea0c54f13a6078a0491e3cf20.png" alt="Cover for Hello World" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2002</td>
@@ -106,7 +106,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/9jCsNd9cRkgtsLhMISOidlpHWDXfM_EKluoSNrDfy8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/My0xMzk3Nzc1NTAz/LTIwNTkuZ2lm.jpeg" alt="Cover for Rawk Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2004</td>
@@ -190,7 +190,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7de7230aa21641d28bbe9688c3ddd1d4.png" alt="Cover for Family Music" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2005</td>
@@ -225,13 +225,13 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 21</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 20</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2005</td>
@@ -249,7 +249,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005</td>
@@ -266,7 +266,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2005-05-05</td>
@@ -286,7 +286,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/GxXTfhbR9Gr0aUJF8L7_GcGagUSqGYzJaPTyOY4iobw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDAz/NDkzLTE2MTEwNzM4/MTAtNDI5Ny5qcGVn.jpeg" alt="Cover for digital ambient designs" style="max-width:120px; height:auto;" />
       </td>
@@ -306,7 +306,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2005-11-19</td>
@@ -325,7 +325,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2006-02-07</td>
@@ -402,7 +402,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2006-12-21</td>
@@ -419,7 +419,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2006-12-21</td>
@@ -437,7 +437,27 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/pVrDDUJ_99qq2E2HXOQovVqU46nkMu_LB0o8PmhQBHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjU3/MjUtMTQ4NzYxMDcz/Ny0zODU0LmpwZWc.jpeg" alt="Cover for Verão" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sabrepulse</td>
+      <td>Verão</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7676018ec4525727757620107004c356.png" alt="Cover for Multi-Boxer" style="max-width:120px; height:auto;" />
       </td>
@@ -464,12 +484,12 @@ Chiptune music is a type of electronic music that is created using sound chips f
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 5</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 27</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 16</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 70</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
         </ul>
       </td>
@@ -511,7 +531,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f219c69713de2d8e5b357c8dc79f54b.png" alt="Cover for ATARI-SKA L&#39;ATAKK" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +568,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/txImzSVZEfi_BObGIwmnZkHlmGwwL7AyAlwsr3ZaNDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTcx/OTYtMTI0ODE5MjEw/Mi5qcGVn.jpeg" alt="Cover for Infiltrator Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +587,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007-12-31</td>
@@ -586,7 +606,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2008-03-13</td>
@@ -609,8 +629,9 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76f79b06660ce632d98cb9af47f67534.png" alt="Cover for Arcade" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-16</td>
       <td>Machinae Supremacy</td>
@@ -633,7 +654,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2008-04-18</td>
@@ -652,7 +673,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2008-04-18</td>
@@ -669,7 +690,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-06-10</td>
@@ -686,7 +707,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg" alt="Cover for Kitsuné: Inner City Angst" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +732,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ef80d12ae94b19becc590814a74553.png" alt="Cover for Making a Scene" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +772,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/281a47eaa6c1fee77cdbd89c532ed24f.png" alt="Cover for Unconditional Acceleration" style="max-width:120px; height:auto;" />
       </td>
@@ -766,25 +787,6 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046b972a021248628f60551a41ff71a0.png" alt="Cover for Kawaii" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>:(</td>
-      <td>Kawaii</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +810,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2111dcef7b5f8de3beab6f4a8251520.png" alt="Cover for Peace Love Weed 3D" style="max-width:120px; height:auto;" />
       </td>
@@ -825,12 +827,12 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 10</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc271c9c46234915a2c6f4986553ab3f.png" alt="Cover for Cool Is Just A Number" style="max-width:120px; height:auto;" />
       </td>
@@ -869,7 +871,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a013c1b07c67f590a2c49e10973fc1.png" alt="Cover for Don&#39;t Worry" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +910,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2010-01-10</td>
@@ -925,7 +927,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3664aa10e0a44b80a871f8234850d045.png" alt="Cover for R.E.T.R.O." style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +947,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9205e5a6d7da6921e1bd9def33f25067.png" alt="Cover for Crystal Castles" style="max-width:120px; height:auto;" />
       </td>
@@ -959,9 +961,9 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 31</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 28</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 53</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 100</li>
         </ul>
       </td>
@@ -1057,7 +1059,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/3RljXRmpwVatFKQDorTofftVS1O1PANp_Yt5SboBjMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM4/NzAtMTI4NjA5NjMz/MS5qcGVn.jpeg" alt="Cover for Sunburst EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,7 +1080,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46c4cff1416b490395a390bf2ec4183f.png" alt="Cover for Rise of the Obsidian Interstellar" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1100,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cdd61f7e719950824aa682b30da73e7.png" alt="Cover for FantomenK" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1118,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2011-04-12</td>
@@ -1135,7 +1137,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c066e9673b544e5d9578b0fc5865e0c4.png" alt="Cover for Elva" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,12 +1151,12 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 26</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2011-08-07</td>
@@ -1171,7 +1173,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee157a3d8f4515f724c49691316b656b.png" alt="Cover for Fastfall - Dustforce Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1193,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50209f13433647788428d12e15b808b2.png" alt="Cover for The Scenic Route" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1232,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/350b27c95d385b5149381013c462e007.png" alt="Cover for Game On (feat. Good Charlotte) [from &quot;Pixels - The Movie&quot;]" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1275,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/314f9d63661046c0bdc86c6f2484d118.png" alt="Cover for one" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,13 +1299,13 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 61</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 62</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e8a4cd03d315a9a8126038adb36f19c.png" alt="Cover for Gas Powered - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,7 +1328,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-03-08</td>
@@ -1359,14 +1361,14 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 27</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 57</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/GSFW464JhcnWJhslFQZygLDwCXMNFAApTrDg6Hao4rY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjY5/OTMtMTYwNzI3MzE2/Mi0xMDcwLmpwZWc.jpeg" alt="Cover for Endless Fantasy (Advance)" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1386,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a550407be7f89e2d1260e5182b598d3.png" alt="Cover for Pixel Passion" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1406,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/6WuSL4LTznGHA4YRR1Vw1tJRZZZSH_E_-LCXIrZt_rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjAz/MTMtMTQwNTYxNzEy/MC0xMzk5LmpwZWc.jpeg" alt="Cover for Dubmood&#39;s Chiptunes" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,26 +1424,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f43c4685ad9e4ca6ccd7062abf688270.png" alt="Cover for Get Olde &#x2F; Second Wind" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Crying</td>
-      <td>Get Olde &#x2F; Second Wind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42ea2c6f6e1c0fce83e9a01ec88446b5.png" alt="Cover for Checkpoint" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,7 +1443,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/eWCK6xvxdNp5nf2cNf5gc07RJbyGtplM3bfU1AVZJtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzg5/OTYtMTQyNzcwNjA2/Ni00NDUwLmpwZWc.jpeg" alt="Cover for My Chakras Are Fast and Hype" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1459,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 63</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 64</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 87</li>
         </ul>
       </td>
@@ -1501,7 +1484,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 14</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 17</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 86</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 89</li>
         </ul>
@@ -1527,7 +1510,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65a6514989eb23bb30e7a4c611bb710.png" alt="Cover for New Superheroes &amp; Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1544,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/pxVWycpL6YO6LwxePdPoOOk45x58CMU-b6Ae409ObEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDUx/NTUtMTQ0Nzg5ODc3/Ni0xMDQ1LnBuZw.jpeg" alt="Cover for UNDERTALE Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bef3b7367a786c6a4299894d930c7dfb.png" alt="Cover for UNDERTALE Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-15</td>
       <td>Toby Fox</td>
@@ -1574,12 +1557,12 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 54</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46a96faca45e1847945307a6bf887513.png" alt="Cover for NO SUMMER NO CRY" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1583,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c605e7745619400120dbe2fe201c3859.png" alt="Cover for Error37" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,13 +1604,38 @@ Chiptune music is a type of electronic music that is created using sound chips f
       <td>
         <ul>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 81</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 84</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 85</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ba2f869c61f9cd6677ea50e21ff94aa.png" alt="Cover for I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-01</td>
+      <td>daniwellP</td>
+      <td>I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 58</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 73</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/OT6Uccexs60ENYwFDyWhBigczByxNg3WsI7RSwhh5Vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkw/MzQtMTQ4ODE3Mjg2/OC0zNTg5LmpwZWc.jpeg" alt="Cover for Technokinesis" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,13 +1652,13 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 51</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 3</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/5MNhG1y9F4vf7lWhmFz_8isCGNmvMfxX_91wci7-Dsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/Mjg1LTE1MzYzMzgy/NjgtMjE1Mi5qcGVn.jpeg" alt="Cover for Girl I Met On The Internet" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1684,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3d45f518b645bee452d1f1bdb661d68.png" alt="Cover for Into the Night World" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,7 +1727,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6dbef6334e0de9b37a354ac4e7ef797.png" alt="Cover for Ordinary Songs 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,7 +1750,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/_tF-5jHk0PsvH1Otp1aMfWtoGM1neH23y71OvaAGCko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/NTMxLTE1MDYzNTcw/MDgtMzE1OS5qcGVn.jpeg" alt="Cover for INTERNET PROTOCOL" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1768,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/HeF7FLJXX29g073pTqVi2pe4q6YNCh13Elaz1TlwUYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcy/OTgxLTE1MjM4Nzg4/NzgtMzQzNy5wbmc.jpeg" alt="Cover for Ordinary Songs 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1813,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/68ChLHPPDlZ3i5PyeYvy2GVnUksxLtqqWpTYW30kLUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQw/MzYzLTE1Njg1NzYz/OTItMTExNC5qcGVn.jpeg" alt="Cover for Better Than Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,7 +1851,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66c7964ffee2973d69cdbd803bc5f5b0.png" alt="Cover for Celeste: Farewell (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1872,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/YoQlI8GhT30hDa4Beo1tsQw-0EQw_DMrWEBNxRqUya8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/MTg3LTE1ODUyNDI1/NDUtOTQyMC5qcGVn.jpeg" alt="Cover for Floppy Disk Overdrive" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1893,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e967f13a110f88b515e4307fcd475413.png" alt="Cover for A Thing With Feathers" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,9 +1916,9 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/8yuOcfnytyg1aGlgb1a6mLOy2A6_oI7uVd49WM5ozTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/MjgwLTE2NjI1OTkz/MzgtNzM4NC5qcGVn.jpeg" alt="Cover for Curse of the Crystal Coconut (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08e859d127133890b77169846faab2a4.png" alt="Cover for Curse of the Crystal Coconut (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-29</td>
       <td>Alestorm</td>
@@ -1931,7 +1939,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/911967536b7dcb45d859e821cac60c01.png" alt="Cover for Chip Heat" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,7 +1962,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93700b75a3e25f369c9d1ec182c99444.png" alt="Cover for P.S.S.U.S.S.P." style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1975,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 36</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1986,16 +1994,16 @@ Chiptune music is a type of electronic music that is created using sound chips f
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 21</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 38</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 66</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 67</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 52</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/wqFJb395J7aVA9JNDDUwV4WO3GQDNnuuFjevZ5XszjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ1/NDQ0LTE2NzI2OTQ1/NzUtNzE2NC5qcGVn.jpeg" alt="Cover for TUNIC (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b69ba22ca457fa144a9eb27eb2eb21a6.png" alt="Cover for TUNIC (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-16</td>
       <td>Lifeformed</td>
@@ -2032,7 +2040,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b2d3e76277bfe2fe8140fa32bc91eff.png" alt="Cover for Animal Crossing: K.K. &amp; Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -2071,7 +2079,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
@@ -2080,7 +2088,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>

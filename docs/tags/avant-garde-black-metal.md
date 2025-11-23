@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T16:24:56.031Z
+date: 2025-11-23T14:36:07.406Z
 permalink: tags/avant-garde-black-metal
 title: avant-garde black metal
 ---
 
 ## avant-garde black metal
 
-Last updated: <time datetime="2025-10-27T16:24:56.031Z">Mon Oct 27 2025 18:24:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T14:36:07.406Z">Sun Nov 23 2025 16:36:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/A0MMm51b66nyu-MQINB5vWZRfPv_97BREa8MHvaXw4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI1/MDUtMTMxNDg4MjU5/NS5qcGVn.jpeg" alt="Cover for Mastabos Dvelksmas" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/L4Bbv29EcZhmdBkWMcxWKENHHqL3JsTmCoANsq1Z5tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTU3/NS0xNTI4NzcyMDU4/LTk5NTIuanBlZw.jpeg" alt="Cover for Mirties Metafora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/384e7536b9ddf67e9164ca82498452cb.png" alt="Cover for Mirties Metafora" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Anubi</td>
@@ -85,7 +85,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/bf14c6Ofi8A8CqSZI60iuJKHrkp28Xbp-lF3zd1FQCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDcx/NS0xNDc0MDIxODc5/LTUxMTEuanBlZw.jpeg" alt="Cover for A Kiss In The Charnel Fields" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>1996</td>
@@ -164,6 +164,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bc818b559ed426495691eb821705b62.png" alt="Cover for Angeldemon" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09</td>
       <td>Hermh</td>
@@ -210,7 +211,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/hoQ0jfZs6qEh6vcdOeZkFE_60tunfJicHP0vOvao36Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/MjctMTUwNTM4NDE2/OC05NjUyLmpwZWc.jpeg" alt="Cover for Dead Like an Angel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b12c4ee6596f3ca16f37c8d92c7dec3d.png" alt="Cover for Dead Like an Angel" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-19</td>
       <td>Korova</td>
@@ -277,7 +278,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>1999</td>
@@ -298,6 +299,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6051a9dc2f91cc3b6d267b7d4807e5e9.png" alt="Cover for 666 International" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-11</td>
       <td>Dødheimsgard</td>
@@ -314,7 +316,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/iWIz6nJdZScbEymemJXayGD98FaKWp4mXODpQf0iIEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDkx/MS0xMTkzNzczNzIy/LmpwZWc.jpeg" alt="Cover for Bitter ist&#39;s dem Tod zu dienen" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +349,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -377,7 +379,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -418,7 +420,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/AZHursX45qUZwQTq0cf0JmI5brHkKDdyEVelRwkiAnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjg5/Mi0xMzcwMTg3NDkw/LTk0OTkuanBlZw.jpeg" alt="Cover for Cut Your Flesh And Worship Satan (2nd Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -442,8 +444,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e46a24120898c4f9c8d1a6a21c62f33.png" alt="Cover for Imaginary Sonicscape" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-18</td>
       <td>Sigh</td>
@@ -483,6 +486,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6adb4363c576181ff07f53cfe6c5d578.png" alt="Cover for Her von welken Nächten" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-11</td>
       <td>Dornenreich</td>
@@ -572,26 +576,6 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td>2005-09-19</td>
-      <td>Arcturus</td>
-      <td>Sideshow Symphonies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 89</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>85</td>
       <td>
           <img src="https://i.discogs.com/FGNbri3MFo5d4ttyaPd6O9S6N5GrYFJJz4EZOOQw2hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODMx/OTgtMTUzNTU1NDk1/Ny00MjY4LmpwZWc.jpeg" alt="Cover for Joulu-single 2005" style="max-width:120px; height:auto;" />
@@ -625,12 +609,12 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 40</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2006-10-23</td>
@@ -664,6 +648,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 2</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 6</li>
         </ul>
       </td>
@@ -682,7 +667,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -725,6 +710,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dc364bc5acb3bc977ac9aff975ac3ac.png" alt="Cover for Veritas Diaboli Manet in Aeternum: Chaining the Katechon" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-08</td>
       <td>Deathspell Omega</td>
@@ -794,7 +780,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2009-04-13</td>
@@ -833,9 +819,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/sn5YaKuvOSwZHa3c4kLXS68O4nVe9qi4p9lSIqMOhjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzQ3/MzctMTMzMTgzMTcz/MC5qcGVn.jpeg" alt="Cover for Algedonic Awakening" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bfd56675d2e025134d5acf22a397a9d.png" alt="Cover for Algedonic Awakening" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Chronaexus</td>
@@ -862,6 +848,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/937c42239633c3106f3299edd7c20da6.png" alt="Cover for Murmuüre" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Murmuüre</td>
@@ -881,7 +868,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>2010-04-02</td>
@@ -902,8 +889,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbfe414cf1154c29a3e8b96e49c2b5b7.png" alt="Cover for Obeisance" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-11</td>
       <td>Imperial Triumphant</td>
@@ -952,6 +940,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a586ef74bc64b65bc4c7289355ffc4e.png" alt="Cover for Psychogrotesque" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-08</td>
       <td>Aborym</td>
@@ -989,8 +978,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 49</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1015,6 +1004,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55c0b630f209388a964ae8dd07fe75a4.png" alt="Cover for L&#39;Ordure à l&#39;état Pur" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-20</td>
       <td>Peste Noire</td>
@@ -1028,13 +1018,14 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6a405bb7fa48de90adc8d072430f9b5.png" alt="Cover for Pneuma" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-27</td>
       <td>Hail Spirit Noir</td>
@@ -1050,7 +1041,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/DJACY5FBRKGofR8C9SjSzMAoWY1JnvlVaelBD66n_To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTQ1/OTctMTM0NDcwMTQ4/NC0xMzIzLmpwZWc.jpeg" alt="Cover for Spyhorelandet" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1059,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/JXkZ375yrXQOjB_epdfXLpMQn5l2clxbe523OcEG7jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTI5/NjItMTM1MzY4OTEz/Mi03MTE1LmpwZWc.jpeg" alt="Cover for Vetterkult" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,27 +1073,6 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2b1c45bc7c8816e1d2fbf9d6cf18857.png" alt="Cover for Drought" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-06-22</td>
-      <td>Deathspell Omega</td>
-      <td>Drought</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1144,6 +1114,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a0f7d8c37ba4401c467c0c5b772e659.png" alt="Cover for Peste Noire" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-20</td>
       <td>Peste Noire</td>
@@ -1160,7 +1131,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>2014-04-29</td>
@@ -1212,9 +1183,28 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eb7bc0092f744f3c492ca6d6ac02d65.png" alt="Cover for Nocel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-16</td>
+      <td>Furia</td>
+      <td>Nocel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/oJSxl08LajAvxwFuWOaY4B6fbn0jua5MtgF2m8oTXkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDE0/MDktMTQyODU1ODk0/NC04MTMwLmpwZWc.jpeg" alt="Cover for World Metal. Kosmopolis Sud" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5133c758da72489cc801f5e8f4e646ee.png" alt="Cover for World Metal. Kosmopolis Sud" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-02</td>
       <td>Solefald</td>
@@ -1228,14 +1218,14 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/aIJsaKtx4kMhpWPaE9UaxVsSP6v6Z-jW_n6c3fGTBMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODAy/MDUtMTQzMTEwNDUx/MC01Mjc0LmpwZWc.jpeg" alt="Cover for Arcturian" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b79c6b74ec5e4d5bcdec5658af255ff3.png" alt="Cover for Arcturian" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-08</td>
       <td>Arcturus</td>
@@ -1248,7 +1238,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 84</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1276,7 +1266,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/CdbSWro_pCqQmNy2fQiFYM9UQ24JBXjAUtnvHbatTbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE5/NTMtMTQ3OTU4MTE2/OS0yNzI2LmpwZWc.jpeg" alt="Cover for Księżyc Milczy Luty" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1286,25 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2016</td>
+      <td>Book of Sand</td>
+      <td>Occult Anarchist Propaganda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/A4D2vKP5JuMYnRGz8hTRaUN9ip7JECYhcBQqkw1XvNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDUw/NTEtMTQ1OTc4MzYy/My0yMjUxLmpwZWc.jpeg" alt="Cover for Bréviaire du chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,12 +1335,12 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 62</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/3okrkokAwzPerZc7tXuTvXWQ65b_o5Qv1cGoPF-gLLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTY1/MzctMTQ2NTIxODMx/OC0xMzUyLmpwZWc.jpeg" alt="Cover for IV &#x2F; Appendixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1362,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/e48epPKgGSzRkGQAv21X-VFZIfoPc6tyA2uhoeq6zRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTMz/MjItMTQ4MzAyNDg0/My04NDQ2LmpwZWc.jpeg" alt="Cover for The Synarchy of Molten Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1376,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 22</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 63</li>
         </ul>
       </td>
@@ -1394,8 +1402,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 32</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 93</li>
         </ul>
       </td>
@@ -1443,7 +1451,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/DivrxlB7TOFNXd20Wu2EAF0YnZAyU-0us3-EEKblmyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTQxLTE0OTk3MzU0/NzEtOTIwNy5qcGVn.jpeg" alt="Cover for Ter Agios Numini" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,6 +1513,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ac82e4308b3dfe757bd4785581e8b5a.png" alt="Cover for 一期一会" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>夢遊病者</td>
@@ -1525,14 +1534,14 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 63</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 78</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/blTdAkRu0G-QhpGBBcGMrp6bcnIfQ_sB9BDBQvbz8nU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ3/MTU4LTE1NDMwOTc5/NTgtNjc4NS5qcGVn.jpeg" alt="Cover for Enantiodromian Birth" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1564,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/0lKgnxq3P9zyxQGM2pZffGbEWoSAMFcTrn0IKUGCOjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcw/Mzk0LTE1NDM1MzQ3/MjYtMTcyNy5qcGVn.jpeg" alt="Cover for Outer Supernal" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1605,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/5h2B2WmsOFdpo8HyaTE5VrDrxKDbcgUS8EafpTYy9oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/OTYwLTE1NTExODY1/NTAtNzgxOC5qcGVn.jpeg" alt="Cover for Stuzha" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1628,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jDyORN9jV2Gi8bEHdYVcoQVF9GTg2TwGuY39odazxFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ3/MTE2LTE1NDcxMDUx/MDMtMTAwMi5qcGVn.jpeg" alt="Cover for Wolf" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1642,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1655,13 +1664,14 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f277484eee125e9a18aa4979e01a113.png" alt="Cover for Ѫ" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-19</td>
       <td>夢遊病者</td>
@@ -1680,7 +1690,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 40</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 76</li>
         </ul>
       </td>
@@ -1706,9 +1716,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/M21tDg3k7vZCZAbtUwEivdF24wQnSSx2kj2Ql5iPJdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYx/NDkzLTE1Njg5OTQ0/MjItNTc2MS5qcGVn.jpeg" alt="Cover for Hallucinogen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6d65dbfd99c613b07a3474e766eb58e.png" alt="Cover for Hallucinogen" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>Blut aus Nord</td>
@@ -1722,7 +1732,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 71</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1740,15 +1750,15 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 30</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 51</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 32</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/7HmwQvq3WfUppeNKaYcmUfJXhHl0FnLZI24dh6Pf8y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/MjM4LTE1ODg4OTU1/MTgtNDI2Mi5qcGVn.jpeg" alt="Cover for Transsatanizm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fccaae234ecfdfbf5574e11107114bf.png" alt="Cover for Transsatanizm" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-08</td>
       <td>Biesy</td>
@@ -1770,7 +1780,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/0tMR2bzk3JM23Scjv6QBBcVLAzdtuTDAOZQ-LB7ps-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMz/OTUyLTE1OTY4MDA3/OTAtODY4OC5qcGVn.jpeg" alt="Cover for Vad Är Inte Sju Huvud?" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1825,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/sWouV7avYhUxz0OXJPFB8eqOJ9tonw_Ws3NQfljK_Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA3/MzM2LTE2MTQ5NzI5/ODItMjQwOS5qcGVn.jpeg" alt="Cover for Demonic Wealth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf68c63f9f66c097d1dddab657b5ae2.png" alt="Cover for Demonic Wealth" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-05</td>
       <td>Krallice</td>
@@ -1831,13 +1841,14 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/466fc02fe5df0ee79afdc58c17e1798a.png" alt="Cover for Mitrealität" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Jute Gyte</td>
@@ -1865,7 +1876,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/G-FCuV-edX9woIEQ8WuPBrgvAYfblsU2oFS3wb8imiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzY1/MzAzLTE2MjgyNjQw/ODktMjk2My5qcGVn.jpeg" alt="Cover for Not Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,7 +1921,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/nikF-JT1h0QUhLyXtjVBz0d0_ytqqfavvBuGleAsGWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDYy/Mzk1LTE2Mzc0NTcz/NzItODU1My5qcGVn.jpeg" alt="Cover for Life&#39;s Grips to Laughter" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,12 +1974,12 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 29</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/DGZCIqjWJKa-56MGe_r3ADS5qOsfizkOzfya0Ras28o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDIy/MzgyLTE2NzA2NzQ5/ODktNDkyNy5qcGVn.jpeg" alt="Cover for Vacuum. The mystery of faith. We proclaim your death oh Lord, and profess your resurrection, until you come again. Förlåtelse och Levitation." style="max-width:120px; height:auto;" />
       </td>
@@ -2003,7 +2014,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/hkZrY2x9-LCyBHjGohT2gisrSDcHPhJu482tfSQtuUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA2/NjYyLTE3MDA4Mzcz/NTktMTk1My5qcGVn.jpeg" alt="Cover for A Seamless Robe" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,7 +2036,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/YsFqZCSZTyldZbkxEV5sUSJVTxJW-cPLTaGLBcgidmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTA2LTE3MzEyMzQy/MDUtODEyNS5qcGVn.jpeg" alt="Cover for Golem" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,7 +2053,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 19</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 53</li>
         </ul>
       </td>

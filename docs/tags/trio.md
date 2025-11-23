@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:05:27.463Z
+date: 2025-11-23T14:39:14.532Z
 permalink: tags/trio
 title: trio
 ---
 
 ## trio
 
-Last updated: <time datetime="2025-10-22T03:05:27.463Z">Wed Oct 22 2025 06:05:27 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-23T14:39:14.532Z">Sun Nov 23 2025 16:39:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -88,6 +88,7 @@ A trio features three musicians performing together, creating an intimate yet dy
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d03298410982cd70155999e0589026.png" alt="Cover for Guitar On The Go" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Wes Montgomery Trio</td>
@@ -103,13 +104,14 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
             <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 99</li>
             <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/-psVVeQJcA7rIcaf6-2vnFTmGr8UcjalK7n1hENxi1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEz/ODktMTMzOTczMTI5/NS04NDI3LmpwZWc.jpeg" alt="Cover for Live (2006)" style="max-width:120px; height:auto;" />
       </td>
@@ -137,7 +139,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>1973</td>
@@ -155,7 +157,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/3yurV_wFXdF1EF-U9iqTZpAv8iOVY4hEGemFehGpLSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODkz/ODkyLTE2OTQzNTgx/ODAtNTE1Ni5qcGVn.jpeg" alt="Cover for Debussy, Ravel &amp; Faure: Piano Trios" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +175,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/NAr0n4J0SEUjEpwwe8nFElo3WxucmArfNrfyvYo1kYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYx/ODQtMTE5NjI5MDc5/MS5qcGVn.jpeg" alt="Cover for Tokyo Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +194,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/UHrrESqlU6FxWGHv1-neVM8aqvQlVzg3ZEswjKrFuw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjM1/ODA5LTE2MjQzNzc2/NTctMzIyNC5qcGVn.jpeg" alt="Cover for On A Monday Evening (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -209,12 +211,12 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 68</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/lWYUS9Frs69uSP0O9DwejzUYWsB2ggma8bZfDX75_fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU1/MjUtMTI5MjI4MzM5/My5qcGVn.jpeg" alt="Cover for Jazz Straight Up" style="max-width:120px; height:auto;" />
       </td>
@@ -232,9 +234,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/5pd0caA67bdylRRagdmbkOIOUny_miACs3DzKvdCYbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE0/MTUtMTU4MTczMTgz/OC01NjA5LmpwZWc.jpeg" alt="Cover for The Summer Of Fourteen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc66a45be5b8a3067a70a6f8fa8e7b4.png" alt="Cover for The Summer Of Fourteen" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Silverlode</td>
@@ -253,7 +255,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/zDcLiohOVVuSWXix0jSgu8AIfP0zgYelJpmZPzARJY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/NzA4LTE2NjI3ODIx/NTItOTY1Mi5qcGVn.jpeg" alt="Cover for DVORAK: Piano Trio in F Minor &#x2F; Piano Trio in E Minor, &#39;Dumky&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +272,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/M7xMi_JOUJdOTQSMN58rWKzu4Y2mgdt-rLJIPU0xQX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODI3/MDYtMTQ2Mjg3MTQw/Mi02OTMwLmpwZWc.jpeg" alt="Cover for SCHUBERT: Piano Trios in B Flat Major, D. 898 and D. 28" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +306,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/S8bLmbAL6BSf3pqXSmgRsPe1R1fsaaabJLFitm2aNZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzUz/NTYtMTM3MDMzOTUx/MS0xNTE3LmpwZWc.jpeg" alt="Cover for Spring Song" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +324,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/_HUDCKOafb8aqsl5QMOSZhQbYSf9yP_x7TgI5PgEodg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ5/NzgxLTE1MTI3MzQ4/MjgtNDU2Mi5qcGVn.jpeg" alt="Cover for Light Years" style="max-width:120px; height:auto;" />
       </td>
@@ -350,14 +352,14 @@ A trio features three musicians performing together, creating an intimate yet dy
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 38</li>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 55</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/YJaLV2WGlTfIDHFNCOVNYW14Sx3TRQmwkPOhniVA0Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIz/ODItMTM2MzgyMjk3/My0zMjY5LmpwZWc.jpeg" alt="Cover for 49 Acts of Unspeakable Depravity in the Abominable Life and Times of Gilles de Rais" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4dc19b8586e420ad6a93e7590fe7545.png" alt="Cover for 49 Acts of Unspeakable Depravity in the Abominable Life and Times of Gilles de Rais" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>John Zorn</td>
@@ -413,7 +415,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Cvs4EnrbNhv8YnioC_m9R54qmLaRkJe1EjK1X6cI6Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODg4/MzQtMTI5NjY0OTQ2/Ni5qcGVn.jpeg" alt="Cover for Touching" style="max-width:120px; height:auto;" />
       </td>
@@ -431,7 +433,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/Iau_bMPlNoVwT_pkdWb6Y7rR777_70RbyP8b5L1jhmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY1/ODItMTU0OTQ2ODg1/Ni00Mzg5LmpwZWc.jpeg" alt="Cover for Falling Off The Roof" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +452,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/vkOAjmKyOVooMjJvxo7vm7_MPzUsbNXD4snGW94awNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE2/OTQzLTE2MjAzMzg2/MDQtMzA2NS5qcGVn.jpeg" alt="Cover for Piano Trios of Brahms and Dvorák" style="max-width:120px; height:auto;" />
       </td>
@@ -468,12 +470,12 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 35</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/5y-naQ_0HAcIGQxbBvKwBOSzYLuxaffW-3nltfoPLOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTcw/NTUtMTQ4OTg3NTE4/Ni0zNjM1LmpwZWc.jpeg" alt="Cover for куда-то фотоаппараты" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +495,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/iiCNdXB7i1HknsyGOx9n--ON0atDn2JuxRdTaGUzDyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE1/ODEtMTMzMzQ0MTY3/OS5qcGVn.jpeg" alt="Cover for Acoustic Trio in Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -533,9 +535,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/dm6lKH1hvLNepDbSi50JqfZHeUYWxQzhvOgEwOQpMx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM0/MTAtMTMxMjg0MDE4/MS5qcGVn.jpeg" alt="Cover for The Tells Of Parallels EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86eeff8278553031e131f5cb39c3c096.png" alt="Cover for The Tells Of Parallels EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05</td>
       <td>Mutts</td>
@@ -558,7 +560,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/pTY_VEPNXsLWCVTKXfXjZMizcPSPADzIAPyIwhzu06M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ5/MDkyLTE1NDUxNDY3/OTgtMzMxMy5qcGVn.jpeg" alt="Cover for SCHUBERT: Piano Trio No. 2 &#x2F; Notturno" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +580,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/-Y8PXgkChKaXau-f8IUtuYG_vXPP9SxWo2fckKLFbtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzYx/MTItMTYzNjUxNTIy/MC04NTQyLmpwZWc.jpeg" alt="Cover for Beethoven: Piano Trios Opus 1, Nos. 2 &amp; 3" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +614,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2000</td>
@@ -652,7 +654,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/brnupkEPOTQlxLs9Z9tPicEKm2qRlqdYUgAb-USVpq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjY5/LTE0NzYwNjI3MDYt/NTQ1OS5qcGVn.jpeg" alt="Cover for Fuddy-duddy" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +713,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2003</td>
@@ -791,7 +793,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2004-05-04</td>
@@ -809,7 +811,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/OEWzJEfjNQKCHWSOGt5kWxDELHtWVCJxlewrTC_ZUt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU4/ODEwLTE2NTUxMTYy/NzAtODQ4MS5qcGVn.jpeg" alt="Cover for Factory" style="max-width:120px; height:auto;" />
       </td>
@@ -834,7 +836,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/roZwyDnpBM0u9ll7kHtFkpBgihac-iTp213v6qpasGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDU3/MzQ4LTE3MzMxOTEz/NzQtNDA0MS5wbmc.jpeg" alt="Cover for Mozart, Molitor &amp; Molino: Three Guys Named Mo - Trios for Flute, Viola and Guitar" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +853,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2005-01-24</td>
@@ -885,7 +887,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/s7x5XS7rSEyliqyjR_CvTiSxb1hTxuQX5e2gpWWjfBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzkz/NzU3LTE1MDQ0Mjkw/OTAtODA5Ny5qcGVn.jpeg" alt="Cover for Schubert : Piano Trio No.1 &amp; Piano Trio, &#39;Notturno&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -946,7 +948,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/HBLER6MYoYfV9LB4AwLfgBHp82wwVy0FfTOnVGQSxiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI4/ODc4LTE2ODI0MjI2/MTctMTU2Ny5qcGVn.jpeg" alt="Cover for I&amp;I&#x3D;3" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +966,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/IQFjf3EzKULJMLVkUcdE05yitwASIn2zXLlsB_8AqhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/NDEzLTE1MTMxODc4/MTYtODc2OC5qcGVn.jpeg" alt="Cover for Schubert: Complete piano trios" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1003,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/WbsoroWxlIKUjMl7LfKNkVi3_qz2wGWToOoN-HlpAuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/NzEwLTE1NDI5MzQx/ODktODYzOS5wbmc.jpeg" alt="Cover for Paradoxical Fundamentals" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,7 +1028,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/qefWQTauoYKgtGMTMnAvoPRdryRCfq0geXfdZzbaM2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI5/MDgtMTI3MDc1NzI1/NC5qcGVn.jpeg" alt="Cover for Sick City &#x2F; Walk On Water (7&quot;Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,7 +1048,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/Jlgv4DijMDvzBYcGxbUeji5PgVpFz2Wq3bzGm3ZTyLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzg1/NTAtMTQ3MzA5NjQ2/My05OTQwLmpwZWc.jpeg" alt="Cover for Lullaby For My Favorite Insomniac [Digital Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,6 +1069,7 @@ A trio features three musicians performing together, creating an intimate yet dy
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10e755634c84bdfcba8927a71db782b.png" alt="Cover for Miss Understood" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-05</td>
       <td>Carolyn Wonderland</td>
@@ -1085,7 +1088,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 58</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 63</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 65</li>
             <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 94</li>
         </ul>
       </td>
@@ -1112,9 +1115,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/ulIloer1RtOrAAD6zSc6WFfYIMg8pKejDZKAppFLLEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg3/MDAtMTQ3MzQxNTI4/NS00NjYwLmpwZWc.jpeg" alt="Cover for Melody Makers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd465100f5049139597199962b4fc81.png" alt="Cover for Melody Makers" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Pierrejean Gaucher</td>
@@ -1155,9 +1158,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/4sRbmCs5lCEQR4wUY2LlaTPYFA2AXerq4zxNsxIH3ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTI5/My0xMzAwMDQ1NTg0/LmpwZWc.jpeg" alt="Cover for A Minor Shunt With Common Sense" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a34d6edeb6563e1ac54d56f1845b3a.png" alt="Cover for A Minor Shunt With Common Sense" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-29</td>
       <td>Taiga Blues</td>
@@ -1190,6 +1193,7 @@ A trio features three musicians performing together, creating an intimate yet dy
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e57cedf7edfd4c5fcc00891261b8d837.png" alt="Cover for Where Time Stands Still" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-18</td>
       <td>Triosence feat. Sara Gazarek</td>
@@ -1207,9 +1211,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/bNpfkyS1iL-UzUUG__ulw_R6Bgiq6VQN2cuf_FGbKeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ4/NjUzLTE2NDY4NDk0/NjctMjk2My5qcGVn.jpeg" alt="Cover for We got hot &amp; died." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8784aeb4f4954a91ad230c572d77bdae.png" alt="Cover for We got hot &amp; died." style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Pretty Swans</td>
@@ -1238,9 +1242,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/QhNkIsoBASHmaInP17yqKwcSff6eCcyC7kOm8sbT2ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzY5/MTAtMTMxNDYyMzQ0/OS5qcGVn.jpeg" alt="Cover for Music From The Middle Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d7b494372b44b3797df0c39a8b6fe9b.png" alt="Cover for Music From The Middle Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Bleak House</td>
@@ -1264,7 +1268,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2011-05-13</td>
@@ -1284,7 +1288,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 56</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1312,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 46</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1338,16 +1342,16 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 41</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 59</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 78</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 90</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/fI2ggcuTeV2FZqkfUE37ywN5BoJzeNHxZYRT9zryff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDE4/OTQtMTMyNDc0ODE3/NC5qcGVn.jpeg" alt="Cover for beko_92" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,12 +1383,12 @@ A trio features three musicians performing together, creating an intimate yet dy
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 36</li>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 69</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/gMNu69KEmHSkesr2KZhssnZiRD5D3kxIf7xgop5Lgc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjk4/NzctMTM1NDIxMzAw/My03NjE5LmpwZWc.jpeg" alt="Cover for No Fiction Now!" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1410,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1444,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/jMzHljH_iBf1oQUCPfyRavV-Wal9Dab9aCvjNQXVjR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTg3/MTY4LTE2NTg2OTI5/OTYtNjk2OC5qcGVn.jpeg" alt="Cover for BACH, J.S.: Trio Sonatas, BWV 525-530 (trans. R. Gwilt)" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1461,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2012-01-23</td>
@@ -1476,9 +1480,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/hPrMAMhLHBcN2476RQh6_mSZH90M6k49E-d3M8jqLx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODc4/NjQtMTMyODQ0NjQ5/MS5qcGVn.jpeg" alt="Cover for Retina (Sutemos031)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30a4aefdda5245aa88b7d19dbc018c1f.png" alt="Cover for Retina (Sutemos031)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-01</td>
       <td>Mmpsuf</td>
@@ -1514,7 +1518,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/gW2ij9HIKybORnfOE-XeNqf2kggo5ejO4JcP7izUJjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgy/MjYwLTE1ODc3NjUz/NDEtNzAzOC5qcGVn.jpeg" alt="Cover for The Zombie Survival Society" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1541,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ub0Dm4uZB_k3pYr6716zoP7b6bhpR9keRKZWPxVwMf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjY5/NDctMTQ3NDE5NDA1/OC05NjI1LmpwZWc.jpeg" alt="Cover for The Human Arm" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,9 +1563,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/d_u-HJ5an8F8jLfhRVYDcHJsR6LnwtVHgmzxNtfyq9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzE5/NzQtMTM1NjM1NDU5/MS00NDc0LmpwZWc.jpeg" alt="Cover for Young" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54f7c33d12c041789941c9478ee82b22.png" alt="Cover for Young" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-20</td>
       <td>DELAYKLINIKEN</td>
@@ -1580,12 +1584,12 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/eLH4QmZhwjcxYkuSlgMgRJhQtTuUFYcp_YkV3b5jVjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjQ2/MDUtMTM4MjQ0NjEw/OS04MzAwLmpwZWc.jpeg" alt="Cover for Foggy Notion" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,24 +1629,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td>2013-05-07</td>
-      <td>Pistol Annies</td>
-      <td>Annie Up</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/QWO5EiVPcg5CdsFiEQZF5ibBdJjPoWvFK1o64Kbwb1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQx/MzEwLTE1ODU5MDA5/NzYtMTA1Ni5qcGVn.jpeg" alt="Cover for Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,7 +1647,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/yHDiqwzNzksGHS0YIyCwPD1ZkKfGia-48ITJkkRtaBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODU1/ODktMTM4OTYwNzQ2/Mi03OTA2LmpwZWc.jpeg" alt="Cover for And the mouth of time is open" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,16 +1671,16 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 5</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 31</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 63</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/c0A69eMRxBAzCduIZtRnCXe-NaO8wneSpMSS1c4JUPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY1/OTY4LTE1MTEwODQ0/MDItOTk1MS5qcGVn.jpeg" alt="Cover for No New Friends" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7d4896894e288628211a245507be936.png" alt="Cover for No New Friends" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Sia</td>
@@ -1736,7 +1723,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/qPf7mAbdATEkjwPtsrDBZDMh2HJ1BtlA_vR95wRG75s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzUz/MzYyLTE2MTg3NTk5/MTAtNTg5NS5qcGVn.jpeg" alt="Cover for DVORAK: Piano Trio No. 1, Op. 21 &#x2F; Piano Trio No. 2, Op. 26" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1740,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2014-10-21</td>
@@ -1801,13 +1788,13 @@ A trio features three musicians performing together, creating an intimate yet dy
       <td>
         <ul>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 45</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 69</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 70</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/YJp-l_Qy4jOy1M82CwdI3a1BMinW3S61gXQRlI5qLUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjE1/MTQtMTQ1ODE2ODQ2/My00MjAzLmpwZWc.jpeg" alt="Cover for String Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,9 +1817,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/BrzCpJil4wqof29mvC2RM8CDZBegCRKrdWAfZec4Xds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDA2/MjItMTQ1OTY5NzIw/NC01NjQ4LmpwZWc.jpeg" alt="Cover for The Early Years" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1916afdf3ced887f58ca13eda0cb9dc1.png" alt="Cover for The Early Years" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Garçons Coiffeurs</td>
@@ -1853,9 +1840,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/20Bwnwd64GSRkvrKyf__yXJ3UDi-K7ojVlhajTzysBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/MDUzLTE1MDE5NDI4/OTctMzg5NC5qcGVn.jpeg" alt="Cover for Konnekted" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a604ad5f1be5bc7b0c35a710f8763da.png" alt="Cover for Konnekted" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Stick Men</td>
@@ -1873,7 +1860,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/5HDoMQZVVKbciokDJRbSBj5WD3a0EPy6OAFPoxpGSBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/MjU5LTE1NTI3NjA1/NTYtOTI2NC5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,7 +1881,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/Qcjzi2zwTK_G-2DspjW7e5W7eZ2qa9W_BsplOs9R1R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTY4/MDgtMTM2MTU2Mzg0/My02MjE5LmpwZWc.jpeg" alt="Cover for Quit Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,12 +1903,12 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 29</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1942,7 +1929,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1963,13 +1950,13 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 3</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 2</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
@@ -1989,6 +1976,7 @@ A trio features three musicians performing together, creating an intimate yet dy
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c153fa07a4500003ca0dbc333b68c0d.png" alt="Cover for The Delta Rasa" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Delta Rasa</td>
@@ -2017,8 +2005,28 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>1</td>
       <td>
+      </td>
+      <td></td>
+      <td>THOMAS WALBUM TRIO</td>
+      <td>Tales From The Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trio" | relative_url }}">trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eab849246df6c6267ce224c435ed75a.png" alt="Cover for Shaul Eshet Trio: Love and Fear" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shaul Eshet</td>
@@ -2038,7 +2046,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2062,7 +2070,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2085,7 +2093,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2106,7 +2114,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2129,7 +2137,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -2164,7 +2172,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2180,7 +2188,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
@@ -2208,5 +2216,5 @@ A trio features three musicians performing together, creating an intimate yet dy
 - [pop]({{ "/tags/pop" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
-- [alternative pop]({{ "/tags/alternative-pop" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
+- [alternative pop]({{ "/tags/alternative-pop" | relative_url }})
