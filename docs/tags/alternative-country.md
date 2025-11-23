@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T08:39:25.017Z
+date: 2025-11-22T17:05:32.937Z
 permalink: tags/alternative-country
 title: alternative country
 ---
 
 ## alternative country
 
-Last updated: <time datetime="2025-11-18T08:39:25.017Z">Tue Nov 18 2025 10:39:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T17:05:32.937Z">Sat Nov 22 2025 19:05:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Alternative country blends traditional country instrumentation with indie rock s
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc1a8cf068148e580645ffa24b12286.png" alt="Cover for Loose Salute" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>
       </td>
       <td>1995</td>
@@ -125,12 +125,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 64</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 88</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/p3GP5GL7l6hPwAGsNGhaZYnnNfx3oT_UmCdlHduOtJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY0/Ny0xNDk3OTk4NTM4/LTkwMTEuanBlZw.jpeg" alt="Cover for Range Life" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +152,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/M-zK6imt1Oyni4XF9e-o89Lk3A6uj4DtSBZaBbkCSfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODgz/NC0xMTg1MTY0OTc2/LmpwZWc.jpeg" alt="Cover for Good Dog Bad Dog (Virgin Records re-release)" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
       </td>
       <td>1996-05-06</td>
@@ -206,12 +206,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 18</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 36</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg" alt="Cover for Sackcloth -N- Ashes" style="max-width:120px; height:auto;" />
       </td>
@@ -227,12 +227,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 65</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 89</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
       </td>
       <td>1997</td>
@@ -324,10 +324,10 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 8</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 58</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 13</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 62</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 68</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 97</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
         </ul>
@@ -371,7 +371,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td>
       </td>
       <td>1999-06-15</td>
@@ -488,26 +488,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bc7a57282805454747bc528320bfb9f.png" alt="Cover for Biggest Bluest Hi-Fi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-10-20</td>
-      <td>Camera Obscura</td>
-      <td>Biggest Bluest Hi-Fi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 19</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
       </td>
       <td>2002</td>
@@ -580,7 +561,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdc37b7afe75419c8c090440c372d61a.png" alt="Cover for The Tussler" style="max-width:120px; height:auto;" />
       </td>
@@ -643,12 +624,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 66</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4b0ff8971f04844c8f226ffee33c1ba.png" alt="Cover for Our Endless Numbered Days" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +666,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/7YMOFnhB4DWin-twxl-B8xPzhExFbwJJ8aQzzBa9m5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA4/NzgtMTMxMzQ5Mzgy/OS5qcGVn.jpeg" alt="Cover for Ten Mile Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -738,8 +719,8 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 41</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 53</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 43</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 67</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 92</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 93</li>
@@ -780,16 +761,16 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 19</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 22</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 69</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/q0XwzbqazOm1AJ0n2VqLte4WKNsAizH1JGQjYonlar0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU5/MjgtMTUwMTcwNDg3/NC0xODkzLmpwZWc.jpeg" alt="Cover for Bam Bam Bam" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +830,7 @@ Alternative country blends traditional country instrumentation with indie rock s
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/OsLRGPTzamuW_mXBUUFMiKL4YVkKNSvX8KYBUomla-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU2/NS0xNDk3NDU0MTc3/LTQ1NzAuanBlZw.jpeg" alt="Cover for Town Feeling" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9adbe3a763844f3db0e85cd8f13fb894.png" alt="Cover for Town Feeling" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-10</td>
       <td>James William Hindle</td>
@@ -871,7 +852,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/7S6Q9VdZvmAG75PYdxysXJsYChQ5HH9llodKvlF0xcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDIz/MjgtMTQ4OTMyNDcz/Ni01NDY0LmpwZWc.jpeg" alt="Cover for Songs of the Wild West Island" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +870,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34418aae0cded13e31db28c6b7aec356.png" alt="Cover for Georgia Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +929,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/XJz8hO3mxXAlNRma7vvBPM8jG81cZ282cW4_klGdFTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzI4/MTItMTMyMTU3NTA0/MS5qcGVn.jpeg" alt="Cover for Routines" style="max-width:120px; height:auto;" />
       </td>
@@ -983,9 +964,10 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 6</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 57</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 58</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 61</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 63</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 97</li>
         </ul>
@@ -1023,16 +1005,16 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 46</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 49</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 55</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 57</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 95</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef4081e35cdb357334f1dbae22c6af7.png" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,9 +1046,9 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 20</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 37</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 23</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 34</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 74</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 80</li>
         </ul>
@@ -1088,11 +1070,11 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 24</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 26</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 28</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 55</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 47</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 58</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 75</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
         </ul>
@@ -1118,7 +1100,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg" alt="Cover for The Winged Life (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,7 +1135,7 @@ Alternative country blends traditional country instrumentation with indie rock s
         <ul>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 9</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 17</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 28</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 46</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 49</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 70</li>
@@ -1176,7 +1158,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 11</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 35</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 46</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
@@ -1216,12 +1198,31 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 3</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 31</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 64</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 71</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 71</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 75</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bac7f9dd2215432ac37ea86f9f96a0d2.png" alt="Cover for Red Of Tooth And Claw" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-04</td>
+      <td>Murder By Death</td>
+      <td>Red Of Tooth And Claw</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1242,8 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 5</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 1</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1263,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 71</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1285,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/3KBslqCHSzQCT8WD0RaL3YPisBHeSr377gmIz4trGOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjc0/MDQtMTQxNjU2OTk4/Ni0xNTc4LmpwZWc.jpeg" alt="Cover for We Are All Alone in This Together" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,12 +1339,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 90</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/858583b8e8fdf60ee1a545def7b941d0.png" alt="Cover for Tall Tall Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,31 +1482,32 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 1</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 29</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 38</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
@@ -1535,7 +1538,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>2010-02-16</td>
@@ -1652,7 +1655,26 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e2daeb1370c6d69d94a8d1d7a12ca2e.png" alt="Cover for Little Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-07</td>
+      <td>City and Colour</td>
+      <td>Little Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/nESx3s0iunPVf-fSfQSSgeWiXoo55PjPTXtP83lrvHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTA2/NTctMTMyMDYyNjgz/My5qcGVn.jpeg" alt="Cover for True Blood: Music From The HBO Original Series" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,7 +1736,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,24 +1832,24 @@ Alternative country blends traditional country instrumentation with indie rock s
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 21</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 28</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 31</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 49</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 56</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
@@ -1849,9 +1871,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 46</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 54</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 84</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1873,7 +1893,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c91a43bd99a4fd5b603351abb5a8fc8.png" alt="Cover for Do You Love the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,7 +1910,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 31</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1916,10 +1936,10 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 37</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 38</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 83</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 91</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 57</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 84</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1961,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5cecc1520b64566c5c30480c0e06dad.png" alt="Cover for Tunnel" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1983,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/5X-nuz49OOFoE-HDtakK7bZqNvRTymUDedo1JLStIMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDkz/MDItMTU1NTIyNTg3/OS0zNjkxLmpwZWc.jpeg" alt="Cover for Back to the Camper" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,12 +2036,12 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c30bdbe3d0903c32c8d808cefb9366f8.png" alt="Cover for White Water" style="max-width:120px; height:auto;" />
       </td>
@@ -2036,16 +2056,15 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 73</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 74</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 94</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 96</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 98</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/oWBgCAtCkP-ZctSANZA5PdIyxU0su8-c5ALrNG_86h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjIy/OTctMTQ4MjgxMzkz/MS02MjUxLmpwZWc.jpeg" alt="Cover for Shit in the Apple Pie" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,7 +2083,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg" alt="Cover for Sackcloth N Ashes" style="max-width:120px; height:auto;" />
       </td>
@@ -2079,14 +2098,14 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 3</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 6</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 74</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 91</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/vTKG9oa6f-NzfZ0BdFiCYljKihXwdxd13ffujtocIMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njkw/MTktMTYyNTc1Nzgx/MS0xODAwLmpwZWc.jpeg" alt="Cover for Meridian" style="max-width:120px; height:auto;" />
       </td>
@@ -2136,14 +2155,15 @@ Alternative country blends traditional country instrumentation with indie rock s
         <ul>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 33</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 64</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 74</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 78</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/228d82d461ebf0c2fdc78e64a7e28100.png" alt="Cover for Navegantes" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Capo</td>
@@ -2174,13 +2194,13 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 91</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 50</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/sQ1srDq528Hs_kKYVp-nlR_TjCVI4BnanBl8rYoy8_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE5/MTAyLTE2MzA4MTg0/MDgtNjA0My5qcGVn.jpeg" alt="Cover for I Love San Antone" style="max-width:120px; height:auto;" />
       </td>
@@ -2201,7 +2221,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1c9719ad522f1c7004618086f7f64c8.png" alt="Cover for Tethers" style="max-width:120px; height:auto;" />
       </td>
@@ -2219,7 +2239,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/024739868d1444077974a1b605236dbb.png" alt="Cover for The Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -2242,7 +2262,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 55</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 56</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 63</li>
         </ul>
       </td>
@@ -2293,8 +2313,8 @@ Alternative country blends traditional country instrumentation with indie rock s
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 12</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 79</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 80</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 84</li>
         </ul>
@@ -2346,11 +2366,11 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 64</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 79</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 88</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 66</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 80</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 89</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 90</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 97</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2398,27 +2418,8 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 43</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 44</li>
             <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cebb8a73e6f4d9bb82135db296c787b.png" alt="Cover for Munly &amp; The Lee Lewis Harlots" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-10-19</td>
-      <td>Jay Munly</td>
-      <td>Munly &amp; The Lee Lewis Harlots</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2443,7 +2444,7 @@ Alternative country blends traditional country instrumentation with indie rock s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
