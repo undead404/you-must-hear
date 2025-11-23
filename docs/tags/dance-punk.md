@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:25:57.796Z
+date: 2025-11-23T10:20:14.030Z
 permalink: tags/dance-punk
 title: dance-punk
 ---
 
 ## dance-punk
 
-Last updated: <time datetime="2025-11-19T20:25:57.796Z">Wed Nov 19 2025 22:25:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:20:14.030Z">Sun Nov 23 2025 12:20:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db381b8173924aec829f426a96a7e9b5.png" alt="Cover for Solid Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d67dc2b9cc4120caaaddeba360a8cdc.png" alt="Cover for Speaking In Tongues (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -62,7 +62,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 13</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 71</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 87</li>
         </ul>
@@ -88,7 +88,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab5371485e0956ad5fa22c763b464ada.png" alt="Cover for Optimo" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1daf583f62d9bdfa6b13eab3614d0ad9.png" alt="Cover for Pigeonhole" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/AmApp3lZtdHvSUUrilgxNM_2Gwih2XQqg2LTdoqAfa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTky/My0xMTc4NjE2ODYx/LmpwZWc.jpeg" alt="Cover for Undergrowth" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 25</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 26</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 44</li>
         </ul>
       </td>
@@ -174,7 +174,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 63</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 65</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 90</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 95</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 96</li>
@@ -209,7 +209,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1560301c0587e1be077ecf184c2346b.png" alt="Cover for !!!" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +242,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 38</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 40</li>
             <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 42</li>
         </ul>
       </td>
@@ -284,7 +284,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/a3Klz5tEBIWAvTYdeP60rjK5ZgUNRKKVxVhIvOuIXkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAz/NS0xMTg0OTg0NTk3/LmpwZWc.jpeg" alt="Cover for Ceux Qui Inventent N&#39;ont Jamais Vecu" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +304,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84dcd046207626d7a57fc19061242652.png" alt="Cover for Fever To Tell (Deluxe Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -318,7 +318,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 14</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 15</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 98</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 100</li>
         </ul>
@@ -344,7 +344,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/159a217a8bd70a9e607c0b6abc31ea6f.png" alt="Cover for When I Explode" style="max-width:120px; height:auto;" />
       </td>
@@ -363,7 +363,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 28</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -388,7 +388,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 23</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 25</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 67</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 92</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 98</li>
@@ -428,12 +428,12 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       <td>
         <ul>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 16</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 47</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22efe4b5bafa5e715fad8c48fa9bad95.png" alt="Cover for Power" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +451,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20a6c88b44c44a968edd6180468c1caa.png" alt="Cover for Dangerous Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -504,13 +504,13 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 8</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb7777b01f1c4a96fac1d7c77d624059.png" alt="Cover for Flirting Again" style="max-width:120px; height:auto;" />
       </td>
@@ -528,13 +528,13 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 12</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 11</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7be2bae092ff43639fa880e9bea95f44.png" alt="Cover for Nite Versions" style="max-width:120px; height:auto;" />
       </td>
@@ -556,7 +556,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ac81ea9b5b49a2eaa517f17943a804.png" alt="Cover for For Screening Purposes Only" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +576,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da72d76e4cb9efacf5b4fa5a02eb124.png" alt="Cover for Digital Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +615,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 70</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -639,27 +639,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/A1XbzN9Zy2NSZCl-CypRBtARXgQk82dNtvcWL0plSsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTcy/OC0xMTY4NTM4NjQz/LmpwZWc.jpeg" alt="Cover for Telescope Mind" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-11-21</td>
-      <td>Tussle</td>
-      <td>Telescope Mind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/aUvYG7bFvfq0rNjDYiOH6x_MGmIhpcGx1g0stePGhvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/Ni0xMzUxMDAyNDY5/LTUyNDMuanBlZw.jpeg" alt="Cover for Myth of The Near Future" style="max-width:120px; height:auto;" />
       </td>
@@ -678,7 +658,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/1ShPZ7Xc1EwEyWc7dlFxGMYEYdMAga7DuHwecHIJHQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjEz/MTEtMTI2MTY1MjE5/MS5qcGVn.jpeg" alt="Cover for Music 4 Losers" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +676,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007</td>
@@ -713,7 +693,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24c6422d35641b3c15567ebffda42db.png" alt="Cover for Myth Takes" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +711,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/aUvYG7bFvfq0rNjDYiOH6x_MGmIhpcGx1g0stePGhvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/Ni0xMzUxMDAyNDY5/LTUyNDMuanBlZw.jpeg" alt="Cover for Myth of the Near Future" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +730,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/aUvYG7bFvfq0rNjDYiOH6x_MGmIhpcGx1g0stePGhvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/Ni0xMzUxMDAyNDY5/LTUyNDMuanBlZw.jpeg" alt="Cover for Myth Of The Near Future" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +763,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 15</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 24</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 77</li>
         </ul>
@@ -813,7 +793,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f724f9c247a4107a37b4db3ec631518.png" alt="Cover for Grass Geysers...Carbon Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +812,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 27</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 26</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 73</li>
         </ul>
       </td>
@@ -856,7 +836,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef9096ce6579c405345180ac9e6e71f4.png" alt="Cover for Dr Manhattan" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +857,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3194c7a10f42de7de6e5cf2e93b7690.png" alt="Cover for Dr. Manhattan" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +878,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee9ac9ab975741b1bb405f77c43200f7.png" alt="Cover for You Have No Idea What You&#39;re Getting Yourself Into..." style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +896,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1043a6f7fac4313b1fceac973a637f4.png" alt="Cover for Lasse redn" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +935,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/753cd0c010fe4ad6b8fbb4c3327803f0.png" alt="Cover for Fasciinatiion" style="max-width:120px; height:auto;" />
       </td>
@@ -988,36 +968,14 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 51</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 22</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 57</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/OQmV8uaen0cByP3Yc7l-_pUX0jdha_q1-OgcsvuJLwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ3/NTgtMTIyODgwMjcx/OC5qcGVn.jpeg" alt="Cover for Cream Cuts" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-08-26</td>
-      <td>Tussle</td>
-      <td>Cream Cuts</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a013c1b07c67f590a2c49e10973fc1.png" alt="Cover for Don&#39;t Worry" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,14 +1011,14 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 57</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 56</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 66</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74310acd471f70bd95d8266fbd5df4ac.png" alt="Cover for Awesome Moves" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1060,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a3819596ef45ec809051b4eb2455f1.png" alt="Cover for Love &amp; Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1081,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c07bffc889b4726a7c7c2b84e96ec3f.png" alt="Cover for Planetary (Go!)" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,13 +1099,13 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea2e7c7ee8b940ea853826456050d1f2.png" alt="Cover for Soul Punk" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,9 +1122,9 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/z2p0_i_frcKdRFLt0JYMm_W-seJmqO4sxqQk-_F9FM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ1/NTE3LTE2MDk1OTMx/MDItNjE5NC5wbmc.jpeg" alt="Cover for Turbo Town" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/457c664d21e24e27867c5b61fb0a8ac5.png" alt="Cover for Turbo Town" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>80KIDZ</td>
@@ -1187,7 +1145,42 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9b7695b04d94b11937dcb786557b871.png" alt="Cover for Here We Are" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-28</td>
+      <td>Citizens!</td>
+      <td>Here We Are</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03efe17b5025448fafda0915227d850a.png" alt="Cover for Beacon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-02</td>
+      <td>Two Door Cinema Club</td>
+      <td>Beacon</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/410999b7a8698b96af29bf51c6f60c9e.png" alt="Cover for Get Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1206,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2013-01-20</td>
@@ -1264,7 +1257,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1295,7 +1288,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96378aea90614c4bcc870f9e5b7096fa.png" alt="Cover for Primal Swag" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,7 +1308,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ac55d6ad4ef4ea4ceb10dd5174a460e.png" alt="Cover for The Physical World" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1326,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b4a92f2debbc4e8992dbe5d9605e869.png" alt="Cover for No" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1362,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1385,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/mFHr87JpW-9yD6mYiCwYPPdnFPdTNTRHsGtKzBUJ6AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc4/MDcxLTE1NTEyMzcw/NTctNTY4MS5qcGVn.jpeg" alt="Cover for PUNK" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,13 +1400,13 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 55</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 56</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87e26384e3bf13388343a38f0217610b.png" alt="Cover for В доме престарелых" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1426,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/205f9dc1ddec27d3b756f604af96a782.png" alt="Cover for Town Centre" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1446,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f21505f638a570ea9022139df835ab.png" alt="Cover for NOVEL" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1463,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/xEO0oS7ouKfjbRln-ncFd7oNfal53N5YwlM6vO9XAxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEw/NDgxLTE1MTAwMzI0/NTQtMTkyMi5qcGVn.jpeg" alt="Cover for PINK" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1481,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/zqhx9WWuqe8SicAxBNSAdmBhjANahJl05KtYd6ZtmyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI4/ODAyLTE1NzY0MjMz/MDUtMTY3OS5qcGVn.jpeg" alt="Cover for No. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,7 +1523,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/iVTJ6vd8a7CiSK4pTqq2yK9U3VjS_3vwkRAZ98DckL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzAz/MzI5LTE1ODk0NTM1/NjUtOTQ2My53ZWJw.jpeg" alt="Cover for Neon Fever Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1541,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22c8f80d2f6857d965f8d673ad0cc9fe.png" alt="Cover for Welcome to Bobby&#39;s Motel" style="max-width:120px; height:auto;" />
       </td>
@@ -1567,12 +1560,12 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       <td>
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 4</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 57</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcfad6b2b04e15791dbf2351791bf368.png" alt="Cover for Drunk Tank Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1585,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfd990f4c2745d4d569fd500baa8c49e.png" alt="Cover for Doorman" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,13 +1606,13 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
         <ul>
             <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 47</li>
             <li> <a href="{{ "/tags/english-hip-hop" | relative_url }}">english hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 72</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 76</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45a854ab843d36b01d700859bd6795c1.png" alt="Cover for Life In Your Glass World (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1628,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 41</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1654,12 +1647,12 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 53</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/u3ZCUtZ1wXr4RP6CdBFCXZbIopN_1ltvEzEYZiC6bmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc4/NzMxLTE2MjM5NzE0/MDEtMTI2Ni5qcGVn.jpeg" alt="Cover for Silk For The Starving" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1675,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/750b92ffc6522bda761987fad719fb31.png" alt="Cover for Я вб&#39;ю всіх богів" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1697,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/wTZynWfpVfxvHepnZb9LmKI4vGjLHGdMWV2fVp02FaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/NjA0LTE2NTcxMTM0/ODAtMzI0Ni5qcGVn.jpeg" alt="Cover for The Real Work" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,12 +1718,12 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 27</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 59</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/200a9c16025ea953cd378aeb44b8d6f8.png" alt="Cover for Cave World" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1742,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a5dbd1b63a3606b347c00c5c422692.png" alt="Cover for BLUSH" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,10 +1781,10 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 33</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 34</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 47</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 87</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 90</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1814,7 +1807,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/wXdOS04RTEiP9besM3dtskrp6-K5TuHfy19JQQApugU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjMw/NjY5LTE2NzI1NzUy/NjAtMzc5NS5qcGVn.jpeg" alt="Cover for Nosedive" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,7 +1830,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/057f7c63fea9ddb00a56ef9e953588b8.png" alt="Cover for Perfect Saviors" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,15 +1855,15 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 38</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 39</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 69</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 88</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/xF0f0Y0hiTt3jGhvyxrhMEwhB7yTmD0-ZPoWi3WP0LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk0/NjMwLTE2ODAxOTE5/ODUtNzM5My5qcGVn.jpeg" alt="Cover for Heat!" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,9 +1919,9 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 18</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 20</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 48</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 55</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 81</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
@@ -1936,7 +1929,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02b6d43ee760aeb05d489aec2afa11df.png" alt="Cover for Everyone&#39;s Crushed" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,7 +1948,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39b315f112dd0f5ebfcf21e3e80d5d7.png" alt="Cover for Intercepted Message" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,14 +1968,14 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 25</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 26</li>
             <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 59</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 75</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf61bff30681d0b9b8ffb5a495bba55c.png" alt="Cover for Push" style="max-width:120px; height:auto;" />
       </td>
@@ -2031,7 +2024,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/puajrPiBM_454E-V02tbC-L2iaNGQO8bz_nFHblcaGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODUx/Mjc5LTE3MDgzNDky/NjItMTc0OS5qcGVn.jpeg" alt="Cover for Effigy" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2063,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/6ro8l8GwYOXE1AErfmXPSI1PW46TVXbqthfeYC62z1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjY2/MDY0LTE3MjU3MTY2/ODctNTQ0Ni5qcGVn.jpeg" alt="Cover for WOOF." style="max-width:120px; height:auto;" />
       </td>
@@ -2086,13 +2079,13 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 37</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 41</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71bb8c4c02febd13f8f4470ef74f749a.png" alt="Cover for You&#39;re a Woman, I&#39;m a Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -2105,7 +2098,7 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 27</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2134,8 +2127,8 @@ Dance-punk fuses the raw energy of punk rock with electronic dance beats and fun
 
 ### Related genres
 
-- [electronic]({{ "/tags/electronic" | relative_url }})
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
 - [indietronica]({{ "/tags/indietronica" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})

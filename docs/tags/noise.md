@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:23:41.606Z
+date: 2025-11-23T10:18:19.376Z
 permalink: tags/noise
 title: noise
 ---
 
 ## noise
 
-Last updated: <time datetime="2025-11-19T20:23:41.606Z">Wed Nov 19 2025 22:23:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:18:19.376Z">Sun Nov 23 2025 12:18:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
   </thead>
   <tbody>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbc63715b1fd4718c7f7a34e41a74c22.png" alt="Cover for Metal Machine Music" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/lG22gU2GGI16X7MLm5v-7PTlkKu-KPqYOuzqlcOsr4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA3/NDUtMTY3NzI1MzAy/NC01NjgxLmpwZWc.jpeg" alt="Cover for Confusion Is Sex &#x2F; Kill Yr. Idols" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2aeef2fb87f07bbb2c01789387df7c8.png" alt="Cover for Hole in the Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/833d406faa1d6abdee4bfad05e74e3eb.png" alt="Cover for MSG, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e991751bba275f97c14596b18fa831ab.png" alt="Cover for The Whitey Album" style="max-width:120px; height:auto;" />
       </td>
@@ -138,13 +138,13 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 40</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>1992-09-25</td>
@@ -162,7 +162,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cecce3d6cfd17df8124485eb0f73d53.png" alt="Cover for O Nation, You Bleed From Many Wounds, 1896" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +180,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d495e4c0fd8c418e8a1e60e1a1f3aa71.png" alt="Cover for Super Ae" style="max-width:120px; height:auto;" />
       </td>
@@ -197,13 +197,13 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 25</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 41</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac87adcd2dee41488a51770487ea37d0.png" alt="Cover for Catartica" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eae80f5cea3c75da8aa7140d33732065.png" alt="Cover for Down" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +242,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td>1994-09</td>
@@ -256,7 +256,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 82</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -280,7 +280,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/127ddde6568d952aeb69b1db1a621bdf.png" alt="Cover for Scattered, Smothered &amp; Covered" style="max-width:120px; height:auto;" />
       </td>
@@ -297,7 +297,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/st7DwuUwbOHKvX_S-ZCq7Jy1tR2je37amc4dLHK0v7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzkz/Ny0xMjM3NDk3MjE4/LmpwZWc.jpeg" alt="Cover for Scattered, Smothered and Covered" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +314,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ac2cd4fd3a3a14c6b93ae41c5ff4b66.png" alt="Cover for 2R0I2P0" style="max-width:120px; height:auto;" />
       </td>
@@ -330,7 +330,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 84</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -348,13 +348,13 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 63</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 64</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f18096436140a1acfc030ac03e6db0.png" alt="Cover for Sentimental Education" style="max-width:120px; height:auto;" />
       </td>
@@ -374,7 +374,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>1998-05-19</td>
@@ -392,7 +392,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77e8a59744e44915996a34cc537dfdbc.png" alt="Cover for 60 Second Wipe Out" style="max-width:120px; height:auto;" />
       </td>
@@ -409,12 +409,12 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
         <ul>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 51</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 84</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81feaf844018458fc55b31217cfc5580.png" alt="Cover for Confusion is Sex + Kill Yr. Idols" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd06ac9dfa60157c1e82ef583daf0245.png" alt="Cover for confusion is sex + kill yr. id" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +452,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b285da584474d113e3978b53fa34e08.png" alt="Cover for Ride the Skies" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +567,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>2003-03-04</td>
@@ -585,7 +585,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b89d5c11fc445479ab6f2f3ab4400f3.png" alt="Cover for Black Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +607,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b71d28db27fc455fc503251ac5532754.png" alt="Cover for Chain Gang of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +645,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 33</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 100</li>
         </ul>
       </td>
@@ -664,16 +664,16 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 39</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 63</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 79</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 64</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 82</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 83</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f28f5a4bfd7a114857b95a1ad82c9259.png" alt="Cover for Frozen Niagara Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -707,12 +707,12 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 15</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2004-02-24</td>
@@ -728,7 +728,28 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/oZ7PcRaxe6xzzDd-9KUCHZs4gRNWx1g7XyYuxQ6KRR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc4/Ni0xNTQxMTIzODcz/LTg2MTkuanBlZw.jpeg" alt="Cover for Staple Tape Worms On My Penis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-05-00</td>
+      <td>Passenger of Shit</td>
+      <td>Staple Tape Worms On My Penis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56ba99d349784763b5260611eb5d130c.png" alt="Cover for Creature Comforts" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +768,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td>2004-09-28</td>
@@ -765,7 +786,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ffb959a5af98cbf1c72ce58556c1204.png" alt="Cover for The Soul Of The Rainbow And The Harmony Of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +805,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef532f9efdfbacadc69a2340eb299af4.png" alt="Cover for Broken Ear Record" style="max-width:120px; height:auto;" />
       </td>
@@ -803,7 +824,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>2005-10-18</td>
@@ -816,14 +837,14 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 19</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 20</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 71</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/t-opXp0Goo41dVLQ7kueBNSuORy5K5dYRx_twS8cLsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzI2/ODMtMTQxMDUwOTcy/Ni03MjQxLmpwZWc.jpeg" alt="Cover for Whitey Album" style="max-width:120px; height:auto;" />
       </td>
@@ -842,8 +863,9 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/354a50b2adf93c6cbfcaac9736944725.png" alt="Cover for Kamehameha" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-31</td>
       <td>Ponytail</td>
@@ -862,7 +884,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2007-04-20</td>
@@ -880,7 +902,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ZnI3yONZZbOUj4Z36iVb1dosiLofAscJz797bwo3sBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NjYtMTI2NzkyMDUz/MS5qcGVn.jpeg" alt="Cover for A Place To Bury Strangers" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +916,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 41</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -919,7 +941,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d34379790895f329b4b6dc783aa7335.png" alt="Cover for At All Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +961,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>2007-10</td>
@@ -957,7 +979,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/A_LvwNT2qhGPuHT72PgjJ3xWYsFckNUldD8fXr1Tek8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc4/NzUtMTIyNjM3MTMw/OC5qcGVn.jpeg" alt="Cover for Modern Jester" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +1014,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 78</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1031,13 +1053,13 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 71</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9e1b8f65d054b3fcb2908f666822fd5.png" alt="Cover for Carboniferous" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,14 +1074,14 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 28</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 66</li>
             <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86d68664fccfa3b16c435d6abd98c2b5.png" alt="Cover for Tarot Sport" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,7 +1099,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a20113428cc21fc7b87c06dcd6e22b.png" alt="Cover for By The Throat" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,12 +1114,12 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 50</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/856c83766a844de49accce83c688d09c.png" alt="Cover for Going Places" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,12 +1133,11 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4748bd09760c4dbd8dcdcab9a4387a87.png" alt="Cover for Doe Deer" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1155,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07d76583afb34d89898621e53280b819.png" alt="Cover for SEVEN IDIOTS" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1173,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ede905e4c5464d5bcd05ae2bb167bdb2.png" alt="Cover for Recreio" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,12 +1188,12 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 74</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec6e3bb95b14c71a9461e675ea71e7f.png" alt="Cover for Bermuda Drain" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,13 +1207,13 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 73</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 74</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8efaaa4f053c443db016dd56bfc67256.png" alt="Cover for THEE PHYSICAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1234,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/524d3ccd7124488a8a813b0fd1eacb71.png" alt="Cover for RULES" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,7 +1252,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ec9ca1f60cb42439a586ca3eb154f90.png" alt="Cover for Stuff&amp;Such" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,7 +1293,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16bc6838b2cd4743925ee05ca1170d89.png" alt="Cover for Year Of The Tiger" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1317,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19c0e2d8ca92959f133f2c020399dc77.png" alt="Cover for CRU" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,25 +1341,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f84f0b93702270cbf7f47d866dcd07a.png" alt="Cover for Midcity" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-02-05</td>
-      <td>clipping.</td>
-      <td>Midcity</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50f5ce2fece3492cbc9744edeb2f70d6.png" alt="Cover for Abandon" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1361,27 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/my2TXYtfUsGhmYVzjn1DfY01MlWv1ef7CbnUwGTOQPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTA5/ODEtMTM5MTIxMDUw/MC04MjM3LmpwZWc.jpeg" alt="Cover for Deep Trip" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-19</td>
+      <td>Destruction Unit</td>
+      <td>Deep Trip</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,16 +1452,16 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 22</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
@@ -1447,13 +1470,13 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f38003c25624a21ca02934a974d44c4.png" alt="Cover for Eighteen Hours of Static" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1495,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>2014-02-25</td>
@@ -1487,12 +1510,12 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 90</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a79787a578140e1618471ce20ef3efb9.png" alt="Cover for CLPPNG" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,6 +1529,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1523,12 +1547,12 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 67</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1551,7 +1575,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90e9dbf04a3efdc0f837b5a801f04c9f.png" alt="Cover for Pomegranates" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1594,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d45b28a3c1ad104ce44ff569f4bf4cc2.png" alt="Cover for World Eater" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1636,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/151eaf9d3455577fc8c33ebb88233acb.png" alt="Cover for Okovi" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1657,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/kh_yCCq6bLSwYYK3g74OatLj-ZGzq7vHJvDcLItN-Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MTA5LTE1MDc4Mjkz/MzUtNDE0Ny5qcGVn.jpeg" alt="Cover for Caustic" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1676,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c1243206f9b95bb08bcd1bd9c05811a.png" alt="Cover for exílio" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1695,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/zkqeL3MgabazC5zWaD2rAMsSB52cmUWGkNoyek8IJFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQz/NjQ5LTE2NDA5NjU2/NjEtODA1Ni5qcGVn.jpeg" alt="Cover for Sewer&#x2F;&#x2F;Slvt - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,12 +1711,12 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 3</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/-mb_FStnR1E2MZhzh1FtFPg9LV2AxpxeqgO6348Qvlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM2/MDg5LTE1NDA5NzU3/OTYtNzYwOC5qcGVn.jpeg" alt="Cover for The Drought" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1735,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c389d1c3d64e5a4365ea4e16270af6b.png" alt="Cover for If You Think I&#39;m a Bitch, You Should Meet Gfoty" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1753,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48e27d29f9493a67f54e99c5941ac2fe.png" alt="Cover for Raw Steak Black Coffee" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1772,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/867dfcf425a9cbc5bcb121c7c7d85b56.png" alt="Cover for My First Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1770,7 +1794,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb8ec48b993c4b034673bf422ba50ba9.png" alt="Cover for Animated Violence Mild" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1837,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/kKcLUjCR3L7xkdAJn_5XrZYxkBoipMDCKmUFDRZwwbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkw/Mjc0LTE2MDMyNTUx/NDctOTk3Mi5qcGVn.jpeg" alt="Cover for Music To Scream To" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,31 +1851,6 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/TOsWLJAT0lel0X1lDxrE2bcTUbucJq7sFHVjgGggODA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg4/NTc5LTE2MDU0OTUz/NzEtNjAyMC5qcGVn.jpeg" alt="Cover for Visions of Bodies Being Burned" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-23</td>
-      <td>clipping.</td>
-      <td>Visions of Bodies Being Burned</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 68</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 85</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1879,10 +1878,10 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 25</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 55</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
@@ -1891,7 +1890,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/bmMuc1J4axU6UDQHKcnVJw_Um4-Spb1emw7hAJee1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDk1/MDExLTE2MTM3Njky/ODEtMzE1Mi5qcGVn.jpeg" alt="Cover for In Ferneaux" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1917,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/amnti5c_7R5lN9-BLyRAk5K-dAz2zekA0KIRiIiYtv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA1/MzgyLTE0OTE2OTU2/NjAtODYxNi5qcGVn.jpeg" alt="Cover for Distância" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,9 +1962,10 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 64</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
@@ -2036,18 +2036,20 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
@@ -2078,7 +2080,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 55</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 79</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 80</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 97</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 97</li>
@@ -2104,7 +2106,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2124,7 +2126,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -2139,13 +2141,13 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 66</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 61</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8a6a355121f704b28320a2eb42f3f5e.png" alt="Cover for IN MY HEAD" style="max-width:120px; height:auto;" />
       </td>
@@ -2164,7 +2166,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23ad19b3d3d44dafcd3c3a2881fefc4f.png" alt="Cover for La Isla Bonita" style="max-width:120px; height:auto;" />
       </td>

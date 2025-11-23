@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:27:15.440Z
+date: 2025-11-23T10:32:12.448Z
 permalink: tags/post-metal
 title: post-metal
 ---
 
 ## post-metal
 
-Last updated: <time datetime="2025-11-19T20:27:15.440Z">Wed Nov 19 2025 22:27:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:32:12.448Z">Sun Nov 23 2025 12:32:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,12 +69,12 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
         <ul>
             <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 43</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 68</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 86</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1999</td>
@@ -117,6 +117,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff28e601f798b4dc7e68b47c7e2ad36.png" alt="Cover for Celestial" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-19</td>
       <td>Isis</td>
@@ -135,7 +136,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2001</td>
@@ -275,8 +276,8 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 49</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 50</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 51</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 99</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 100</li>
         </ul>
@@ -285,6 +286,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a81911eb95540170f99b4c52d0c5e54.png" alt="Cover for The Eye of Every Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-29</td>
       <td>Neurosis</td>
@@ -323,7 +325,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/gJbPNL0ZEaurYRoawFgTJ9-AFSNN0xf-nPMPMvI0fVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODcz/Mi0xNDI4MDY1ODU1/LTQzNTUuanBlZw.jpeg" alt="Cover for Salvation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee634f3a2b7a4653aea09688ba2757e1.png" alt="Cover for Salvation" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-04</td>
       <td>Cult of Luna</td>
@@ -345,6 +347,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/873b160afb6e58ac03f56a70f677230f.png" alt="Cover for Panopticon" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-19</td>
       <td>Isis</td>
@@ -356,6 +359,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 5</li>
             <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 31</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 42</li>
         </ul>
@@ -399,7 +403,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 4</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 52</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -446,6 +450,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c731259c3db683a547d2141615f36990.png" alt="Cover for Dowsing Anemone With Copper Tongue" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-10</td>
       <td>Kayo Dot</td>
@@ -461,7 +466,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 34</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 57</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +523,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 67</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 73</li>
         </ul>
       </td>
@@ -526,6 +531,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec600d74bd75d0b42f5782b58df37f99.png" alt="Cover for Ashes Against the Grain" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-08</td>
       <td>Agalloch</td>
@@ -539,15 +545,15 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 65</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 76</li>
             <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 98</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 98</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88750a89ee2d42ff9326ca39a39ca847.png" alt="Cover for Nord" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +614,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf16ffc40e34ed7984eb3e72081bec8.png" alt="Cover for The Ritual Fires of Abandonment" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +755,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2008</td>
@@ -783,7 +789,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 9</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 70</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 78</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +836,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/960774a7eefe448eaa2221beab977b23.png" alt="Cover for Providence" style="max-width:120px; height:auto;" />
       </td>
@@ -873,6 +879,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fcfc01a3642a0e6a968c69e73a7a278.png" alt="Cover for Wavering Radiant" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-05</td>
       <td>Isis</td>
@@ -887,13 +894,13 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 3</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 72</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8150f5b7b7a4eabf29b0456a51dd9561.png" alt="Cover for With Echoes In The Movement of Stone" style="max-width:120px; height:auto;" />
       </td>
@@ -946,7 +953,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 43</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1027,7 +1034,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2da6a185e3418239bc844b931f0ac87d.png" alt="Cover for An Age Among Them" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,24 +1045,6 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cb45d4e87f62260dde02b23186a17d5.png" alt="Cover for Heliocentric" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-04-12</td>
-      <td>The Ocean</td>
-      <td>Heliocentric</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -1192,7 +1181,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 9</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 14</li>
             <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 48</li>
         </ul>
       </td>
@@ -1292,6 +1281,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b393fea840249cb8379ac87fe330275.png" alt="Cover for Honor Found in Decay" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-30</td>
       <td>Neurosis</td>
@@ -1308,7 +1298,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b50c4a0285750fe1159849f2bbccc08d.png" alt="Cover for Koi No Yokan" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1312,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 44</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 45</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 95</li>
         </ul>
       </td>
@@ -1349,6 +1339,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2b62d622fad7746d547a331602bcd81.png" alt="Cover for Habitual Levitations (Instilling Words With Tones)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-18</td>
       <td>Intronaut</td>
@@ -1367,7 +1358,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/rpJcE9d4YLIvNmd3tOlwpxVT6yABrI-3B5I1yXOaQSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjkw/NjEtMTM2NzQ2Mzgy/MS04ODkxLmpwZWc.jpeg" alt="Cover for Pelagial" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec3e89c8dcb3450eaa34214ad9a2565f.png" alt="Cover for Pelagial" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-26</td>
       <td>The Ocean</td>
@@ -1455,7 +1446,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 2</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 3</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 81</li>
         </ul>
       </td>
@@ -1539,16 +1530,15 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 39</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 40</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 59</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 76</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
@@ -1559,18 +1549,18 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 93</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
@@ -1579,19 +1569,20 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1607,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/-Urbk9jO3ZoEhTaxY070C2gwuvZce7lPJeQtuQQg79k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTY4/NjctMTQ2Mzk5NTQz/NC03MjMyLmpwZWc.jpeg" alt="Cover for What One Becomes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3dcb6da0a1b083b4f946c361124af6c.png" alt="Cover for What One Becomes" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-10</td>
       <td>Sumac</td>
@@ -1654,7 +1645,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2016-10-21</td>
@@ -1673,7 +1664,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Iu1P5Mp4QGH9VHb8k7rJF-QVKqb2ipL4QcNa5SVOzXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzEx/NDItMTQ3NzQyOTEy/OC04MzE2LmpwZWc.jpeg" alt="Cover for Shrines of Paralysis" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,7 +1717,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 18</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 40</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 41</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 91</li>
         </ul>
       </td>
@@ -1868,7 +1859,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 27</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 28</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 100</li>
         </ul>
       </td>
@@ -1971,69 +1962,70 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 29</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 14</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 72</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2052,7 +2044,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 15</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 16</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 80</li>
         </ul>
       </td>
@@ -2078,7 +2070,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/y9XH2GHvGKZSmaRDVXA8yYcG_Hfm4HpQ_YNAY4Z7bO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcw/NzE5LTE1NDE3MDgw/NzItNDY0Ni5wbmc.jpeg" alt="Cover for Phanerozoic I: Palaeozoic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/842c5b483784f0e01f65bb3f0d003c9d.png" alt="Cover for Phanerozoic I: Palaeozoic" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-02</td>
       <td>The Ocean</td>
@@ -2091,13 +2083,14 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/LXmB-B8Yx_hN3QoxixrDROrbiDNAkXJ6EuE8jlE6CbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY5/MzAzLTE2MDExMzkx/ODQtNDc2OC5qcGVn.jpeg" alt="Cover for Phanerozoic II: Mesozoic | Cenozoic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08e489c18d36b6df3000b54768a89e7c.png" alt="Cover for Phanerozoic II: Mesozoic | Cenozoic" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11</td>
       <td>The Ocean</td>
@@ -2129,7 +2122,27 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 32</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e312d78a38c4c9480e43a93bc1d4c12.png" alt="Cover for our time is here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-02</td>
+      <td>Sadness</td>
+      <td>our time is here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2211,20 +2224,23 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 8</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 46</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 69</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
@@ -2236,39 +2252,40 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2314,7 +2331,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/TqyUOg_ZwDTN1-q1gX6WK2o3yvu4lkrSJrc6Np4Za48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NDQ0LTE1OTAyMTI4/MzQtOTA3Mi5qcGVn.jpeg" alt="Cover for Sour Breath" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad73e54c4bc89896f60a03441ace3d01.png" alt="Cover for Sour Breath" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-16</td>
       <td>The Devil Wears Prada</td>
@@ -2330,6 +2347,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 1</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 3</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 100</li>
         </ul>
       </td>
@@ -2414,72 +2432,72 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 40</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 49</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 47</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 59</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 71</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2501,7 +2519,7 @@ Post-metal is a subgenre of heavy metal music that emphasizes atmospheric and in
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 61</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 94</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 99</li>
         </ul>
       </td>

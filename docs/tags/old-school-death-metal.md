@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:25:19.273Z
+date: 2025-11-23T10:19:57.073Z
 permalink: tags/old-school-death-metal
 title: old school death metal
 ---
 
 ## old school death metal
 
-Last updated: <time datetime="2025-11-19T20:25:19.273Z">Wed Nov 19 2025 22:25:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:19:57.073Z">Sun Nov 23 2025 12:19:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -28,6 +28,23 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f01a3bafd832c36ed58f0e714ae26835.png" alt="Cover for Seven Churches" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-12</td>
+      <td>Possessed</td>
+      <td>Seven Churches</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>47</td>
       <td>
@@ -125,6 +142,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36f0cbd259584bc6cbe438c4936b95f7.png" alt="Cover for Necrolust" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-03</td>
       <td>Vader</td>
@@ -154,7 +172,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -198,6 +216,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b14ed1a2b39fa6d68767962fc3abbe8b.png" alt="Cover for The Awakening" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Merciless</td>
@@ -233,7 +252,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e2d9a16d912041b59fdd844059b5b79.png" alt="Cover for To the Gory End" style="max-width:120px; height:auto;" />
       </td>
@@ -271,9 +290,9 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/6ghHBLxG9-oRJk1lxlfMdjCHuSZsbPm0_JD0-NfqBCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTg5/Ny0xNTU2NDY1ODQ5/LTIwOTAuanBlZw.jpeg" alt="Cover for Eaten Back To Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b936d790425b0cb7a112de639404ac8d.png" alt="Cover for Eaten Back To Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-08-16</td>
       <td>Cannibal Corpse</td>
@@ -285,7 +304,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 48</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +351,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3cdcf9f199b479d957266fd6f26dd91.png" alt="Cover for The Rack" style="max-width:120px; height:auto;" />
       </td>
@@ -439,12 +458,12 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 7</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 47</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/n6RUrRt6sJns876OATKHEuKPIdoIOE8TSAHzDWHOZBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzA3/NS0xMzIzNDQ4OTMx/LmpwZWc.jpeg" alt="Cover for Fuckin&#39; Death" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +559,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td>1992-05-05</td>
@@ -593,7 +612,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52155191204d2aff21307551f7c8cae7.png" alt="Cover for Musta Seremonia" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +671,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecfa4ceecaca45f088ae7a98e8715a3b.png" alt="Cover for Into Eternity" style="max-width:120px; height:auto;" />
       </td>
@@ -667,25 +686,6 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/EGfd43Ey_rrq6KG6u7ZO_rg1N8XlVAm-4mmHW3hj1-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTE3/MS0xMTkzMTU3Njgx/LmpwZWc.jpeg" alt="Cover for When the sky turns black" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Brutality</td>
-      <td>When the sky turns black</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -731,7 +731,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>1994-03-11</td>
@@ -766,7 +766,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>1994-07-12</td>
@@ -804,7 +804,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/b6n6r4HOqIDNqbHEb3slRJaZxrmsWEtXggNbDW9m1Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTE3/My0xNDYyMjE4Mzkz/LTg5MjMuanBlZw.jpeg" alt="Cover for Hate" style="max-width:120px; height:auto;" />
       </td>
@@ -843,9 +843,9 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/JZFG-JcVDvhstZDjV1b_rYxPzl8Tf4I_bGgcg2nvjK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTE3/NS0xNjIyMjI2MDE1/LTM2MTUuanBlZw.jpeg" alt="Cover for Serpent Temptation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ec748959fe80aa997d056e1db4b7aa2.png" alt="Cover for Serpent Temptation" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Incubus</td>
@@ -902,9 +902,9 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/IegSdh6qQ2SYBrWF_uq_OVw7gN4xEfiwx_1mxTg3OwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzEx/NTEtMTI5NDEyMTM4/MS5qcGVn.jpeg" alt="Cover for Bad Reputation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db2d147c10359c2392cd007471609d1.png" alt="Cover for Bad Reputation" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Kid Rock</td>
@@ -978,14 +978,14 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 35</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 36</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 37</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 39</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 39</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 43</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 50</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 57</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 61</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 62</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 81</li>
@@ -1080,7 +1080,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/MwcMr2JbtUSXXwjh7DuJy6Hr8CY8EZ7TAWGpb3rBTFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDQw/OS0xMTY1Njg1MjQy/LmpwZWc.jpeg" alt="Cover for Nihilist (1987-1989)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60f2d211c1574b90cb7058b9d025a630.png" alt="Cover for Nihilist (1987-1989)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Nihilist</td>
@@ -1096,8 +1096,9 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14764328e9984d33a3f0710e568b872e.png" alt="Cover for Epitome of Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Repugnant</td>
@@ -1114,7 +1115,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a72661e94b74f1d90494a372529ab3ea.png" alt="Cover for Ancient Black Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1133,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2007-02-01</td>
@@ -1151,7 +1152,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/89xLwjJGjIgwVZlf2WQzvBgk3kXyiPSBeaycxdHF4SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzcz/My0xNjEwMDA5MDI3/LTMwNTAubXBv.jpeg" alt="Cover for Season of the Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6784d5d669bf31bbdc2c47345ebc5933.png" alt="Cover for Season of the Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10</td>
       <td>Necrophagia</td>
@@ -1168,7 +1169,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>2009-05-31</td>
@@ -1186,8 +1187,9 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11656c8636e34b78cb7dda3d1bdd351f.png" alt="Cover for Recordings 89-91" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10</td>
       <td>Nirvana 2002</td>
@@ -1225,7 +1227,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/GPJhvfjSXvDG_kAQWaXrp-afDO_KfE0y5Kj4azrrgm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU1/MDEtMTQ3NjcwNzI1/NC0yNzQzLmpwZWc.jpeg" alt="Cover for Death Metal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b25f89c86458464ebe31f13a071c5132.png" alt="Cover for Death Metal" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Possessed</td>
@@ -1265,7 +1267,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/Jq3FIENFXe5lHsLCodboAWBUTIgFYXSazoDPPRB2b1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTQz/MzYtMTI5NTE0MTg4/Ny5qcGVn.jpeg" alt="Cover for Counting Our Scars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2becfdde3114fe9ba3314b85a8bcd68.png" alt="Cover for Counting Our Scars" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11</td>
       <td>Desultory</td>
@@ -1282,7 +1284,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2010-12-13</td>
@@ -1302,7 +1304,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51ecbe18b44f4deccdae094f7b6061f8.png" alt="Cover for Ghouls of the Endless Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1362,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b614c9d611de76fa86216f4b7f6d1109.png" alt="Cover for Cosmic Crypt" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,9 +1380,9 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/o264gKR7b7-4kKJy7q_brr1RtORBABbH498B1Okk1tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTMy/NjctMTQzNTgzNTE4/My00NTE1LmpwZWc.jpeg" alt="Cover for Cemitério" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3bef2ca3c1799234db11e256f1d955.png" alt="Cover for Cemitério" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Cemitério</td>
@@ -1496,17 +1498,16 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 39</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 40</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 66</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 59</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 76</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
@@ -1516,44 +1517,45 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 93</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2014-11-14</td>
@@ -1609,7 +1611,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/064951bf46203fbf714b1090e5ab0bd4.png" alt="Cover for For The Fallen" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1649,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfde375b17bbb2503cb1236874c354d5.png" alt="Cover for Come Ethereal Somberness" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,7 +1781,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 77</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 79</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 79</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 97</li>
@@ -1910,76 +1912,77 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 29</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 14</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 72</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/tYRCe-DcbH7jyKfhXxhKbiGmmV_ND92YE_RSb2RH3sI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzEw/MDMtMTY3MTE4OTk1/MS01MjgyLmpwZWc.jpeg" alt="Cover for Starspawn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29b1be18ca7331c1d795129e4def3d85.png" alt="Cover for Starspawn" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11</td>
       <td>Blood Incantation</td>
@@ -1993,8 +1996,8 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 27</li>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2080,9 +2083,6 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       <td>Fearless (Taylor&#39;s Version)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -2170,21 +2170,24 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 8</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 46</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 69</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
@@ -2195,46 +2198,47 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/9ARQ3Z69-ZjomiWE-iZTpBJGeazmerv708sKRIa7wjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDUx/NzQ2LTE2NzkwNjky/OTYtNzc5OS5qcGVn.jpeg" alt="Cover for Eyes Open (Taylor&#39;s Version) - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76365179773a62cfd2ac7bcf172722e1.png" alt="Cover for Eyes Open (Taylor&#39;s Version) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11</td>
       <td>Taylor Swift</td>
@@ -2270,7 +2274,7 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/pqVaVZaeCOYBnB--rWvuHVhGXdrgWMw_6gyNDQMR4D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk3/MjEwLTE2ODkzMTc3/NzEtNjMwNi5qcGVn.jpeg" alt="Cover for Eyes Open (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd668dbf69a7adaa77764c763c500d5b.png" alt="Cover for Eyes Open (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11</td>
       <td>Taylor Swift</td>
@@ -2401,77 +2405,77 @@ Old school death metal emerged in the late 1980s as an extreme subgenre characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 40</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 49</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 47</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 59</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 71</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e60604a93efd480ecb6a2c4d0f42944.png" alt="Cover for The Scars of a Lost Reflective Shadow" style="max-width:120px; height:auto;" />
       </td>

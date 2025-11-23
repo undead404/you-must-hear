@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T11:26:22.431Z
+date: 2025-11-23T10:27:02.354Z
 permalink: tags/dub
 title: dub
 ---
 
 ## dub
 
-Last updated: <time datetime="2025-11-15T11:26:22.431Z">Sat Nov 15 2025 13:26:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:27:02.354Z">Sun Nov 23 2025 12:27:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1976</td>
@@ -47,7 +47,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/rrCdPXAnzVTDB13QNqs7n6IjANX3h8bhmliUqznsSPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk1/NjUtMTI0MzQzOTE4/OC5qcGVn.jpeg" alt="Cover for King Tubbys Meets Rockers Uptown" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1976</td>
@@ -83,7 +83,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1979</td>
@@ -103,7 +103,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbb142239a9edf3469b7d55d0e63043b.png" alt="Cover for London Calling (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -117,7 +117,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 77</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 79</li>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 89</li>
         </ul>
       </td>
@@ -141,7 +141,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7bc9aa85c89152a54bffb564995f890.png" alt="Cover for Sandinista!" style="max-width:120px; height:auto;" />
       </td>
@@ -159,7 +159,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1981</td>
@@ -176,7 +176,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
       </td>
       <td>1981</td>
@@ -193,7 +193,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/712ed1088330704d7a6f8afe0aa98fbc.png" alt="Cover for Scientist Rids the World of the Evil Curse of the Vampires" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>1984</td>
@@ -230,7 +230,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>1986</td>
@@ -247,7 +247,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ld_-nf5tPhLF1fhj15K704RY6VjCWDB2dxHK4ay1ch0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTM3/MS0xNDIxODUxODYz/LTg2NjguanBlZw.jpeg" alt="Cover for Africa Must Be Free By 1983" style="max-width:120px; height:auto;" />
       </td>
@@ -267,7 +267,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/87Fq1R1mjKtGE95Xu7wxUDk1mJE8zlRPfHf0lQuWWTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk2/MjItMTIwNzYxMDE5/MS5qcGVn.jpeg" alt="Cover for Rids The World of The Evil Curse of The Vampires" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/fwez2VnF-GBBw732GU4M7h1DO3rTkm2xHgGtCZo6OME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI4/MC0xMTg3Mjk2Nzkw/LmpwZWc.jpeg" alt="Cover for Stoned Immaculate" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +304,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/534891a8e26aa44f17936987a82f597b.png" alt="Cover for 空中キャンプ" style="max-width:120px; height:auto;" />
       </td>
@@ -318,12 +318,12 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 22</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/qMQXtwVWomk-6i-SV34VLJvmCvqvBm-osKQ9SdF9zeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDAz/LTAwMS5qcGc.jpeg" alt="Cover for King Tubby Meets Rockers Uptown" style="max-width:120px; height:auto;" />
       </td>
@@ -342,7 +342,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/qMQXtwVWomk-6i-SV34VLJvmCvqvBm-osKQ9SdF9zeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDAz/LTAwMS5qcGc.jpeg" alt="Cover for King Tubby Meets Rockers Uptow" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +361,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>1994-02-08</td>
@@ -380,7 +380,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c895cf17383d9b815f7f941336abb6f0.png" alt="Cover for No Protection" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +398,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b82a4bb69ed428eb7a77f55e2c002b4.png" alt="Cover for No Protection" style="max-width:120px; height:auto;" />
       </td>
@@ -416,9 +416,9 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/EUjGOVw1rs_l-ByDbPK7YTp2aibaajEWFDLEsDM8aKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTMy/LTE2Mzg0ODM4NTUt/NjM3Ni5qcGVn.jpeg" alt="Cover for Second Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46a3250bfb94cbbdd12d0c2d56e4091b.png" alt="Cover for Second Light" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-29</td>
       <td>Dreadzone</td>
@@ -434,7 +434,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/NVW63tVMgop9cJG-w0Ir8OjmWDalBcxeiMZNUM9TgTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzU1/Mi0xNTgwMDQ2MDAw/LTI5MzYuanBlZw.jpeg" alt="Cover for Orginal Rockers" style="max-width:120px; height:auto;" />
       </td>
@@ -455,7 +455,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07903b3245d949208d7a0338764da3de.png" alt="Cover for Mish Mash" style="max-width:120px; height:auto;" />
       </td>
@@ -473,9 +473,9 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/faPoVGzwS5PUajT0YSFX0NY4hrr1kwZ-mHv4KYn48wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzA1/LTEzNzc4Njg5NTMt/NzU0MS5qcGVn.jpeg" alt="Cover for Remember Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e9eb0d88a5787c1bbbc373fe039692c.png" alt="Cover for Remember Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-20</td>
       <td>Blue Boy</td>
@@ -491,7 +491,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>1997-09-05</td>
@@ -508,7 +508,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28d4f53416c449a7a7a3a95a5ac68060.png" alt="Cover for Echo Dek" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +543,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1998-10-05</td>
@@ -556,12 +556,12 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 21</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13e2703308fd228f43cc0194517c9da9.png" alt="Cover for Cargo" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +582,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/217f88944989a0678530cf1554b2ae80.png" alt="Cover for Triplezéro" style="max-width:120px; height:auto;" />
       </td>
@@ -598,12 +598,12 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17481e8bcdb0d04a11ad1a2067548005.png" alt="Cover for Triple Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -619,7 +619,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 68</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -641,7 +641,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 50</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 87</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 88</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 100</li>
         </ul>
       </td>
@@ -666,7 +666,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2000</td>
@@ -719,7 +719,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e63967d87406436d8d72e01e9a227ee8.png" alt="Cover for Suzuki In Dub" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +739,26 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a5b0f44ebca4f43b661006c7c2dd711.png" alt="Cover for Megaton Shotblast" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>De Facto</td>
+      <td>Megaton Shotblast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
       </td>
       <td>2001</td>
@@ -756,7 +775,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92e65e49da854b1b9176c724b4be3e6c.png" alt="Cover for Satta" style="max-width:120px; height:auto;" />
       </td>
@@ -772,14 +791,14 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 35</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 76</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 92</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 53</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 81</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2001-10-01</td>
@@ -796,7 +815,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>2001-10-15</td>
@@ -813,7 +832,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2002-04-22</td>
@@ -830,7 +849,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b8f881567d4b696c012c9421c555df2.png" alt="Cover for Dub Come Save Me" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +867,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2002-10-29</td>
@@ -867,8 +886,9 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f9a71f7ad08a10d6248dc5482f8b01d.png" alt="Cover for I &amp; I survived (dub)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-26</td>
       <td>Bad Brains</td>
@@ -884,7 +904,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0a958672d2bc7ed059117cf60cfe885.png" alt="Cover for Barb4ry" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +923,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec0e5ff8ef697b631f7dbaa13f879333.png" alt="Cover for Enemy Of The Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +938,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 22</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +961,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4498f51eff654fc8cfec9a70b18ac42c.png" alt="Cover for Blumenkraft" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +980,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76feadac7f84edfc2421c212f857cc18.png" alt="Cover for w&#x2F; the Artists" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +998,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/YTGW12hv3_W84pqTZmspfC8vfquSVEomtkExqm1R6sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDYz/MjUtMTUzNzI5ODg3/OS04NDY0LnBuZw.jpeg" alt="Cover for Flying Ship of Fantasy" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +1016,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb2341e8ade34fe0a1b3b659b34ec5e8.png" alt="Cover for Sounding A Mosaic" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,7 +1036,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/l2iZTe4XZzBhJzqwj2MStOrOMMKwqdc6h7kNZevwkOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDMz/My0xMTQ0MDgyMjQ3/LmpwZWc.jpeg" alt="Cover for Ep Volume" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,6 +1056,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02719726377a2953bba40211e7bdc12a.png" alt="Cover for See Mi Yah" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-17</td>
       <td>Rhythm &amp; Sound</td>
@@ -1051,7 +1072,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
       </td>
       <td>2005-01</td>
@@ -1069,7 +1090,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/940dad1e9db149da8968706c7ec950d8.png" alt="Cover for Tank" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,12 +1106,12 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 11</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07619e0aeee04ea8b29d467094673f72.png" alt="Cover for The Dead 60s" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1170,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
       </td>
       <td>2005-10-09</td>
@@ -1165,13 +1186,13 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 25</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 28</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/oPqpjcIV2mPqZjH35S3F8pVuKq8dld0Vc-S1lGVST3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDg1/MDEtMTQ0NTg5NDE3/Ni02MDEwLmpwZWc.jpeg" alt="Cover for Rebelution" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,7 +1211,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2006-07-13</td>
@@ -1210,7 +1231,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e017ce35882143b0aaf26d09f45f1e55.png" alt="Cover for Juke Joint II" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1268,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ddbb996147d45af8cbe294b239a5e94.png" alt="Cover for Speakers and Tweeters" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1286,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2007-03-16</td>
@@ -1282,7 +1303,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2007-09-21</td>
@@ -1302,7 +1323,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d544ecd8ad64dbdcdbc45fa57592fc5.png" alt="Cover for Skylon" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,18 +1332,17 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       <td>Skylon</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 80</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 96</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 4</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/0KAXeHRlvBqLbghzWTJN_LBO-MrEO91teiMnU9e285E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjMx/NjItMTMwMjY3NDg4/NS5qcGVn.jpeg" alt="Cover for Please &#x2F; Simulacrum" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,22 +1382,21 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6955c08676164f59b8c35664ec83ba7e.png" alt="Cover for Beach Head" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-21</td>
       <td>Sun Araw</td>
       <td>Beach Head</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 37</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 100</li>
         </ul>
       </td>
@@ -1409,19 +1428,19 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 19</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 39</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 40</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 41</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 58</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 62</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 64</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
       </td>
       <td>2008-11-15</td>
@@ -1438,7 +1457,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2009</td>
@@ -1453,7 +1472,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 3</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1476,7 +1495,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
       </td>
       <td>2009-05-26</td>
@@ -1497,7 +1516,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb11137b85134e859823c77253cc4afd.png" alt="Cover for On Patrol" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,14 +1550,14 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 68</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/JLKQL6OFQSbfs8C_sHIAPM9Kbb2hbouhojXmDrk8wBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTk1/NDctMTI5MjUwODAy/Ny5qcGVn.jpeg" alt="Cover for Dagger Paths" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fff894f513f426eb7eaaee9104d26b5.png" alt="Cover for Dagger Paths" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-00</td>
       <td>Forest Swords</td>
@@ -1555,7 +1574,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f7fa9111d9b122a2954fb428353a8a.png" alt="Cover for 936" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,8 +1592,9 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84d8d1fdef7b4db7cd1c22b47802917e.png" alt="Cover for Mir" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-15</td>
       <td>Ott</td>
@@ -1591,7 +1611,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82e1cde63b1e4ca0b33e1c1df2566f6c.png" alt="Cover for Alegria Compartilhada" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1632,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c73e9faa154b41468e65192e38c4efda.png" alt="Cover for Passed Me By" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,13 +1648,13 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 13</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 21</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/846d6cc6c84441dfc1c9a509ad3d710a.png" alt="Cover for We Stay Together" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,7 +1669,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1692,13 +1712,13 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 31</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 53</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df817caf86c8f8ad7218565efae2c9f1.png" alt="Cover for 98.12.28 男達の別れ (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,8 +1736,9 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/504ea0ecb0174f39b4a30f9e5b2f80a6.png" alt="Cover for After Hours" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-28</td>
       <td>OVERWERK</td>
@@ -1736,7 +1757,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b6cadb016149a7808f97f443821a64.png" alt="Cover for Batuk Freak" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,12 +1774,12 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 69</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1300798f89045e6aaaa4056b368b631.png" alt="Cover for Blackbird" style="max-width:120px; height:auto;" />
       </td>
@@ -1776,7 +1797,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8975d1b1a9b1a8043971c004b505ae4a.png" alt="Cover for Nunca Tem Fim (Standard)" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,12 +1815,12 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 6</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 77</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2014-05-12</td>
@@ -1817,7 +1838,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2014-06-10</td>
@@ -1835,7 +1856,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/zfnjtaP5PLOdfe23liWwRnBxQsGt3Twcf2kfbCQN04A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTc2/MDItMTQ2NTIzNTM2/OS05OTkxLmpwZWc.jpeg" alt="Cover for Falling Into Place" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1875,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edee592b524202c55d031b5d99c04e41.png" alt="Cover for Mantra" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,14 +1895,14 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 15</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 17</li>
             <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 94</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b50050095e728862d9660cc4c8d131f.png" alt="Cover for Laika Come Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,28 +1916,6 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a79e9f1e44ac00b0760d73b80be69bde.png" alt="Cover for Jardineiros" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-10-21</td>
-      <td>Planet Hemp</td>
-      <td>Jardineiros</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1940,7 +1939,7 @@ Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31df107c8b1a46489ea3ac57442c2ea4.png" alt="Cover for Laika Come Home" style="max-width:120px; height:auto;" />
       </td>
