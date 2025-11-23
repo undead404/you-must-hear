@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-23T08:51:40.380Z
+date: 2025-11-23T08:53:09.913Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-23T08:51:40.380Z">Sun Nov 23 2025 10:51:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:53:09.913Z">Sun Nov 23 2025 10:53:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [folk rock]({{ "tags/folk-rock" | relative_url }}) | <time datetime="2025-11-23T08:53:09.913Z">Sun Nov 23 2025 10:53:09 GMT+0200 (Eastern European Standard Time)</time> |
+| [digicore]({{ "tags/digicore" | relative_url }}) | <time datetime="2025-11-23T08:52:43.726Z">Sun Nov 23 2025 10:52:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid jazz]({{ "tags/acid-jazz" | relative_url }}) | <time datetime="2025-11-23T08:51:40.380Z">Sun Nov 23 2025 10:51:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop soul]({{ "tags/pop-soul" | relative_url }}) | <time datetime="2025-11-23T08:51:15.851Z">Sun Nov 23 2025 10:51:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [psychedelic folk]({{ "tags/psychedelic-folk" | relative_url }}) | <time datetime="2025-11-23T08:51:05.288Z">Sun Nov 23 2025 10:51:05 GMT+0200 (Eastern European Standard Time)</time> |
@@ -361,7 +363,6 @@ Last updated: <time datetime="2025-11-23T08:51:40.380Z">Sun Nov 23 2025 10:51:40
 | [alternative]({{ "tags/alternative" | relative_url }}) | <time datetime="2025-11-19T19:51:48.156Z">Wed Nov 19 2025 21:51:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [slowcore]({{ "tags/slowcore" | relative_url }}) | <time datetime="2025-11-19T19:36:00.155Z">Wed Nov 19 2025 21:36:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [hardcore punk]({{ "tags/hardcore-punk" | relative_url }}) | <time datetime="2025-11-19T19:35:54.477Z">Wed Nov 19 2025 21:35:54 GMT+0200 (Eastern European Standard Time)</time> |
-| [folk rock]({{ "tags/folk-rock" | relative_url }}) | <time datetime="2025-11-19T14:28:31.035Z">Wed Nov 19 2025 16:28:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [chamber folk]({{ "tags/chamber-folk" | relative_url }}) | <time datetime="2025-11-19T13:54:33.778Z">Wed Nov 19 2025 15:54:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [space rock revival]({{ "tags/space-rock-revival" | relative_url }}) | <time datetime="2025-11-19T13:54:25.222Z">Wed Nov 19 2025 15:54:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [chill house]({{ "tags/chill-house" | relative_url }}) | <time datetime="2025-11-19T13:43:02.695Z">Wed Nov 19 2025 15:43:02 GMT+0200 (Eastern European Standard Time)</time> |
@@ -587,7 +588,6 @@ Last updated: <time datetime="2025-11-23T08:51:40.380Z">Sun Nov 23 2025 10:51:40
 | [neo-soul]({{ "tags/neo-soul" | relative_url }}) | <time datetime="2025-11-15T09:45:21.978Z">Sat Nov 15 2025 11:45:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [rnb]({{ "tags/rnb" | relative_url }}) | <time datetime="2025-11-15T09:44:22.014Z">Sat Nov 15 2025 11:44:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [delta blues]({{ "tags/delta-blues" | relative_url }}) | <time datetime="2025-11-15T07:09:21.989Z">Sat Nov 15 2025 09:09:21 GMT+0200 (Eastern European Standard Time)</time> |
-| [digicore]({{ "tags/digicore" | relative_url }}) | <time datetime="2025-11-15T06:34:13.840Z">Sat Nov 15 2025 08:34:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [country blues]({{ "tags/country-blues" | relative_url }}) | <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [choir]({{ "tags/choir" | relative_url }}) | <time datetime="2025-11-15T02:48:21.965Z">Sat Nov 15 2025 04:48:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [neoclassical darkwave]({{ "tags/neoclassical-darkwave" | relative_url }}) | <time datetime="2025-11-15T02:30:22.397Z">Sat Nov 15 2025 04:30:22 GMT+0200 (Eastern European Standard Time)</time> |
