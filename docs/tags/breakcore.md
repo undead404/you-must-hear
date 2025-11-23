@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T11:54:58.076Z
+date: 2025-11-22T23:23:32.517Z
 permalink: tags/breakcore
 title: breakcore
 ---
 
 ## breakcore
 
-Last updated: <time datetime="2025-11-18T11:54:58.076Z">Tue Nov 18 2025 13:54:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T23:23:32.517Z">Sun Nov 23 2025 01:23:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Vf-_vEQ0Oh5Xa15IdwKqqdhDwqAN27_p_mZ8FbDddUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTEyNDI3MjM1Mjcu/anBlZw.jpeg" alt="Cover for If You&#39;re Into It I&#39;m Out of It" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46badfdc70154e83b165d299dd7597e5.png" alt="Cover for Greg Hates Car Culture" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34fdc7606704185a95f53d3c7cb2e2f0.png" alt="Cover for Samurai Math Beats" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43050192a7c3460e80360728b99e9829.png" alt="Cover for Doll Doll Doll" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/465ade67d2f6d82a9cc36c4b572d7463.png" alt="Cover for TKO From Tokyo" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/SULRqo3pWcSV1tNeWVnokrghOJOjhQvMeeY796VPMgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIy/NS0xMTYzMDgyNTIy/LmpwZWc.jpeg" alt="Cover for Bikini Bandits Kill Kill Kill" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92df078b34682ffc441273995b1cd9c4.png" alt="Cover for The Chocolate Wheelchair Album" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +314,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -355,12 +355,12 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 30</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2005</td>
@@ -434,7 +434,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/qIxn05WdlPIHE2e76TXsfNitgd6OhRtcdF5aR2tPuvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODAy/NC0xMzE1MzE0Mzc3/LmpwZWc.jpeg" alt="Cover for Rossz Csillag Allat Szuletett" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +490,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42b957b1e3fb4ceca75c53efc82ba4cd.png" alt="Cover for Chipbreak Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -511,7 +511,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/Npq8ozbcFpVUSZ2frzcYkEygXpGV_k_5Hn9Q7e-33Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzc1/OS0xMTYyNzc0ODM5/LmpwZWc.jpeg" alt="Cover for Cavalcade Of Glee And Dadaist Happy Hardcore" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +529,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a947f9a34870cf002a2c4fcda8c9adf.png" alt="Cover for Cavalcade Of Glee &amp; Dadaist Happy Hardcore Pom Poms" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +547,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecde2f2558e15ef34e57f83a37a2cf60.png" alt="Cover for Cavalcade of Glee and Dadaist Happy Hardcore Pom Poms" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +565,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22f0ff82ee167eb39f53e138943467fe.png" alt="Cover for Hospitality" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +583,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0384198ee02e421f95ee765028d5b7e4.png" alt="Cover for Grist" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +602,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81c48bb1731749642dcdddc926668ce0.png" alt="Cover for Pink + Green" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +637,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/865aec5a2323798c96e836ff17ffada5.png" alt="Cover for Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +656,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee9c759891ec93606f79b6a8056e8f1b.png" alt="Cover for My Downfall (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +694,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd9133b320528acdfa575c2c8b36369a.png" alt="Cover for Detrimentalist" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +712,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00ff59ae39c0042cb877a79ead045797.png" alt="Cover for From Rotting Fantasylands" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +732,26 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5707a95a827c434baca0f4b6b18bed67.png" alt="Cover for Listening Tree" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-26</td>
+      <td>Tim Exile</td>
+      <td>Listening Tree</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
       </td>
       <td>2009-04-20</td>
@@ -749,7 +768,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c9f2883439ac873dd69b28dc6640ecc.png" alt="Cover for Arkhaiomelisidonophunikheratos" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +787,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83c9eb48d33646c577bf0f27161c9ef5.png" alt="Cover for My So-Called Life" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +805,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dca2a5ccaa3e05a262862ae62faf464d.png" alt="Cover for Nostril" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +840,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12ebdc05216f411883c70c655277ad88.png" alt="Cover for gnb" style="max-width:120px; height:auto;" />
       </td>
@@ -834,7 +853,8 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 59</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -858,7 +878,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 56</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 94</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 98</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 99</li>
@@ -867,7 +887,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbeb197a3d0548f09b8ec3a97cb9fde3.png" alt="Cover for Rossz Csillag Alatt Szueletett" style="max-width:120px; height:auto;" />
       </td>
@@ -885,8 +905,9 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac1bd99e641648819d9a6eb43049a670.png" alt="Cover for Hallelujah" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-21</td>
       <td>Igorrr</td>
@@ -925,7 +946,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81f5c8e708974b51cb4a09ef0d219cb8.png" alt="Cover for My Love Is a Bulldozer" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +964,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6f26a164479fcf237c028f6ed5dad9.png" alt="Cover for 200" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +1006,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/akgb6dJUw_k-yaoVsFxwnXlQmG5PWYKhmb8UQhZRuEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE2/MTEtMTQyMzY3ODM4/NS04NjYyLmpwZWc.jpeg" alt="Cover for semantics: the benzo chronicles" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,7 +1024,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f1cfbe73c491f3b0b669a70679d042a.png" alt="Cover for my love feels all wrong. digipak" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,7 +1042,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/3ib83sxHYHrU-xPqv281rgbtSeZ85M1SIBMT5vm2AuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzM3/MjktMTQzNDQ2Nzgw/My03ODQ5LmpwZWc.jpeg" alt="Cover for Tomboyish Love for Soda Pop and Apple Sweets (Digipak)" style="max-width:120px; height:auto;" />
       </td>
@@ -1039,18 +1060,15 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/JGMs_xVfP4wdPSHm7FJBcuA8zYXIvnqvdcHnxBclAgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDMx/NjQyLTE0OTcyOTc1/MDQtNTM4My5qcGVn.jpeg" alt="Cover for Savage Sinusoid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/012fb21d8d3bff6bc611cee6919dcd88.png" alt="Cover for Savage Sinusoid" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-16</td>
       <td>Igorrr</td>
       <td>Savage Sinusoid</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
         </ul>
       </td>
       <td>
@@ -1081,7 +1099,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf030246843584ef56d2c104836c2fe1.png" alt="Cover for MRK90 MIX VOL 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1119,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/zkqeL3MgabazC5zWaD2rAMsSB52cmUWGkNoyek8IJFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQz/NjQ5LTE2NDA5NjU2/NjEtODA1Ni5qcGVn.jpeg" alt="Cover for Sewer&#x2F;&#x2F;Slvt - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,12 +1135,12 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 1</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/KA2kFtalmNYvqBMUczst9m_-D_7X-4pxGySRwtRPCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE3/MDk1LTE2NzQxNDMy/NzQtMjc2OS5qcGVn.jpeg" alt="Cover for Cyberia lyr3" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1234,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/952c15054914baa429c00bfd17fed657.png" alt="Cover for Tomo Me Nyado" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1252,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/EOzDY4OK1fY_GB6W7ytESF_jZUq7rwNEIpDdhUCQveg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI4/NDA2LTE1ODQ0ODg5/MjUtNTA4MC5qcGVn.jpeg" alt="Cover for Prince of the Cyber Rave" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1271,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 27</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 79</li>
@@ -1262,7 +1280,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/s5v3BACmLrsML7OV_MITllS4qw9uhgI2oyqt94lZsxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODk3/NzgtMTQ1NjgyMDI2/OS02NTU3LmpwZWc.jpeg" alt="Cover for Do U Dirty" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1318,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 44</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
@@ -1317,7 +1335,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/O44-XrHNYeaLjWTfwXYt04Z3FercZeKlrqRNm0xQTzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/MTEzLTE1ODQ4MDE1/MjAtNzA0Mi5qcGVn.jpeg" alt="Cover for Spirituality and Distortion" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,12 +1349,12 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 65</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/uj77hamcF-EM--qvAGZbWr8ZfllB_T1WxwnPnVCa7-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYy/MTQ4LTE1ODExMDA5/MzYtNjA0Mi5qcGVn.jpeg" alt="Cover for Draining Love Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1369,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 16</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 18</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 90</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 97</li>
         </ul>
@@ -1382,7 +1400,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e4542a213c33a446bceb6f0d5dad7a.png" alt="Cover for (GHOST_WORM)" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1423,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/psU82ffhWvs4jL5FIU3xg_kElRZvB9q_73YjeF1yiU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEy/MDc0LTE2MTc5MTY5/ODQtMzkzNy5qcGVn.jpeg" alt="Cover for Loss Prevention Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1459,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 22</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1514,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/OCGw9Jjv3Ez1UGXn2l_AAcqAplP9RTfljyNliT6bZ0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTkw/Mzc0LTE2MjAxNTIz/MzktMTAxMC5wbmc.jpeg" alt="Cover for nekonomicon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35047b2967a7ffa022a48233144c90fb.png" alt="Cover for nekonomicon" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-04</td>
       <td>Nekonomicon</td>
@@ -1512,7 +1530,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/RDSiJNJZQO4m7ICcJk9hjv0vsANKiNqmaPxFvB1y71c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjU5/NjQ3LTE2MjA1ODg1/NDItNTA0MS5qcGVn.jpeg" alt="Cover for The Escape from Blue Marble" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,7 +1571,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/421805cae1f3febd9cf5caa59cbedd37.png" alt="Cover for Teeth Restoration" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,7 +1591,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/vCI7OHVUXf8DqjHrrUjWmjRv_tYqi55Jo0GVFRZBmMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA1/NjY5LTE2MzQzNTAw/OTktNDk0Mi5qcGVn.jpeg" alt="Cover for if you’re out there i miss you 。゚・ (&gt;_&lt;) ・゚。 - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,12 +1607,12 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg" alt="Cover for The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,15 +1670,15 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
@@ -1693,7 +1711,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/Kzo72yDMzNuW09GnrXo8CG4LdF-ib7AT5n2xtj0dRbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM4/NDM5LTE2Nzg3ODIz/ODktMTQ1My5qcGVn.jpeg" alt="Cover for Abandon the Flesh!" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,7 +1775,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/i1o4QLPXRdipvANagJ_R9CPe2DogZid3oZThQqVR9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NjgyLTE2MzIyMjQx/MTctMzM0Ny5qcGVn.jpeg" alt="Cover for AS HARD AS YOU CAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1801,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b167765321128713d31937e985449120.png" alt="Cover for starina" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1815,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 48</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1832,7 +1850,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/hr7rIq9hGZ6QfFORJ0Mc1-cHvzNvPDp5RYrr9hVe1tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM1/MTQ1LTE2NTU3MTk4/OTktNDUwMi5wbmc.jpeg" alt="Cover for Neon White Soundtrack Part 1 &quot;The Wicked Heart&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,14 +1864,14 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 32</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 33</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 63</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/uzFf7lGUGexHy3DVWBdP5QULhpJejhzRyXX1m5jijPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjIy/MDUwLTE2NjA2NzUw/MjMtNTA4OC5qcGVn.jpeg" alt="Cover for away" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1911,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/010eb6a4287c39b026b6f638095a7338.png" alt="Cover for i want to eat ur heart couse i love u" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,7 +1948,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 49</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 50</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 82</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 93</li>
         </ul>
@@ -1955,14 +1973,14 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 71</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 91</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72069f57dd604ad9abf49557efab829c.png" alt="Cover for Bikini Bandits, Kill! Kill! Kill!" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +2038,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 67</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 96</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 99</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 100</li>
@@ -2043,29 +2061,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76629ef7f0fcfb61f96adb7d0a193aa.png" alt="Cover for the death and birth of an angel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-06-24</td>
-      <td>fallingwithscissors</td>
-      <td>the death and birth of an angel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 36</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 74</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2088,7 +2084,7 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
@@ -2103,8 +2099,8 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 64</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 71</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 66</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2124,12 +2120,12 @@ Breakcore is an extreme electronic music genre characterized by aggressive, heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 48</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b2110e70bdf3abead8ef925e001116.png" alt="Cover for Witness of Another World" style="max-width:120px; height:auto;" />
       </td>
