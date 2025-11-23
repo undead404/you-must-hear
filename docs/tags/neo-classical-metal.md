@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T02:44:16.531Z
+date: 2025-11-23T11:55:48.216Z
 permalink: tags/neo-classical-metal
 title: neo-classical metal
 ---
 
 ## neo-classical metal
 
-Last updated: <time datetime="2025-11-20T02:44:16.531Z">Thu Nov 20 2025 04:44:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:55:48.216Z">Sun Nov 23 2025 13:55:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,25 +47,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d836ce26bce63a0a3efbdd32bb89985.png" alt="Cover for Shakin&#39; Brains" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983-03</td>
-      <td>Silver Mountain</td>
-      <td>Shakin&#39; Brains</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f55dea8e8ea3fc54ac3b697f6f4ee39.png" alt="Cover for Edge of Insanity" style="max-width:120px; height:auto;" />
       </td>
@@ -107,8 +89,8 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 42</li>
             <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 44</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 45</li>
             <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 81</li>
         </ul>
       </td>
@@ -128,7 +110,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 61</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -146,7 +128,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 67</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +147,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 69</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +208,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       <td>
         <ul>
             <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 14</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 72</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +233,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/S5avlVjeIw2ww2wxn8_dSxcg33jrt9KoTNlvwhjvLEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzYw/MjYtMTQyNzQwMDQ2/OS00ODU3LmpwZWc.jpeg" alt="Cover for Land of Broken Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6be966be9286455b7d2e852f9d5b8410.png" alt="Cover for Land of Broken Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-11-21</td>
       <td>Royal Hunt</td>
@@ -271,7 +253,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4773328c4524b929f9d162fb5735baf.png" alt="Cover for The Seventh Sign" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +267,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 42</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +315,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5c117ac7dbfb6161b873a825e42bf69.png" alt="Cover for Inspiration" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +334,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/iTbsKPeptLUHDmiRnCYjlDoCaJQKG9hm2kKMutcgbgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk3/NTUzLTE1NDQwODc3/OTctOTA2Ni5qcGVn.jpeg" alt="Cover for Behold a Pale Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +389,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
       </td>
       <td>1997</td>
@@ -425,7 +407,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/zujz_U9BENiG5jCaMnsoaLMDx3z8cE0rK0Qat41buRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njgw/MjYtMTUwODUxMjUw/MC05NjU3LmpwZWc.jpeg" alt="Cover for G3 Live: Rockin&#39; in the Free World" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +519,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/hdxp9rgCs5GDrYm31STQxULQGKRvFTKimbgsmHOLzd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjI3/NzQtMTQ0MDg0NTA3/Mi00NDc3LmpwZWc.jpeg" alt="Cover for Fatal Mistake" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +599,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/CJENRN6n2ZAuCfTqYwNx24RLvbLTxs69yKJIQM7pTVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDEx/NzEtMTI5NzE2MTQw/Mi5qcGVn.jpeg" alt="Cover for Ring of Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af482dd95894e0aceb5055c67d78b68.png" alt="Cover for Ring of Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-22</td>
       <td>Mark Boals</td>
@@ -656,7 +638,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Yw8dt8eqiMGoeU9k6RG41IBS1v4wYCEwz8-1yXEeTfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM2/MDExLTE2NDk3MTEz/NDgtMzA2NC5qcGVn.jpeg" alt="Cover for Next world will be yours" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +657,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8edfacaff377452fb9f5d5e163d3f751.png" alt="Cover for Air On 6 Strings" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +680,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/5dr5JnhnZZdLvutgTOrwA8hTOjWRy43lGgf-5J00yj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzEz/NTQtMTUwOTgyMDI3/Ny04ODI2LmpwZWc.jpeg" alt="Cover for Sacred Pathways" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/811648bc169faafd919bb2be0402a696.png" alt="Cover for Sacred Pathways" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Artension</td>
@@ -770,7 +752,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/TEjQeWlOgf-IS_wNw6cfvt0WUDA1zpUonDkrbAjtQUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU4/NjYtMTYwMTQxODY3/Ni0xNDU4LmpwZWc.jpeg" alt="Cover for The Beast" style="max-width:120px; height:auto;" />
       </td>
@@ -906,12 +888,12 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 26</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 56</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2003-01-27</td>
@@ -925,7 +907,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 15</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 17</li>
             <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 20</li>
         </ul>
       </td>
@@ -949,7 +931,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/0niC1ieHEt4spRzJKqbVeaMgpex53p7u_SXfebfxYUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDU1/MjktMTQzODUxMTAx/NC0xNjM4LmpwZWc.jpeg" alt="Cover for Beginning Of The New Legend [2003-192Kbit&#x2F;s]" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,6 +1048,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a7894e469cf2eba5d8c03b2c2047b7c.png" alt="Cover for Future World" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-21</td>
       <td>Artension</td>
@@ -1095,12 +1078,12 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 4</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/006ff5a936414998c96fc0b6df6f421f.png" alt="Cover for Glory Thy Name" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1104,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/xFqweCVCocWjB2X3QLnFFYslaQx8Uc3jfvn1SN2wapo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODA4/NTItMTQyNDUxMjI1/Mi0zNTI3LmpwZWc.jpeg" alt="Cover for War" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c8041d62127f95f376eec62df1b1766.png" alt="Cover for War" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Mattsson</td>
@@ -1140,7 +1123,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/OshZys_Tnhn-Sp6-Ou-aA5PAaD0DwsejZ_9eeI4uabU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgw/NDktMTMyOTY0Nzgz/NS5qcGVn.jpeg" alt="Cover for Jumyr-Kylysh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ae366231d21414d98ca1bc0e4eeb2b1.png" alt="Cover for Jumyr-Kylysh" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ulytau</td>
@@ -1203,6 +1186,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/906aaf2006f24f699799bfccc599a65e.png" alt="Cover for Tears Of The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-22</td>
       <td>Space Odyssey</td>
@@ -1219,7 +1203,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/vO2rCPrerXgw3K9dr3aQjXrs5dtZXyHtb59shbTwzNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY0/OTgyLTE1NjMwMzAx/NzctNDg4MS5qcGVn.jpeg" alt="Cover for Parallel Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1241,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/THSoayJ7ayrAFtsaj8b9AHop3i_JBNI6dg6KwgCrf9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NzgwLTE2MDgwNzg5/MDItNjI0NS5wbmc.jpeg" alt="Cover for Fist in Fetus EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,6 +1279,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d383fc8384f145dec5d07dc37501f943.png" alt="Cover for Prominence And Demise" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-04</td>
       <td>Winds</td>
@@ -1330,7 +1315,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>2008-08-29</td>
@@ -1364,12 +1349,12 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 87</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/XHl0gpaS-32O1GiIxcTtacrX30FpX2Ia7NwL4Rj-Sbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTk1/MjItMTQ1MDMzMzcx/MS0zMDMxLmpwZWc.jpeg" alt="Cover for Eternal And External" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,14 +1387,14 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 48</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/lgD9oOvcTVX9WGObekAvMMM7nbDCWSlgRg5Vjm4H-dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTM4/NDYtMTU1MjQ1NjUz/Mi05MDc3LmpwZWc.jpeg" alt="Cover for Dragon Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbb723bc42f28a44dd013a5c0034c855.png" alt="Cover for Dragon Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Mistheria</td>
@@ -1427,7 +1412,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd4a15766ce14fcecf5cf35aed52a3ef.png" alt="Cover for The Frozen Tears Of Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,12 +1429,12 @@ Neo-classical metal fuses the technical precision and compositional complexity o
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 15</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 32</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 61</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85aa7110e81d49dc830800abb13b8ac1.png" alt="Cover for End of Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,7 +1448,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 7</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1484,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 77</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1503,25 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 70</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04b5447acd894db7b6f580641f2d4233.png" alt="Cover for Digital Veil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-08</td>
+      <td>The Human Abstract</td>
+      <td>Digital Veil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1564,7 +1567,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dd7c0a2433740c1a02dc46776d342c6.png" alt="Cover for Holy Grail" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1580,24 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d924ede8da676b40df033bb00ad34e.png" alt="Cover for Iconoclast" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-17</td>
+      <td>Symphony X</td>
+      <td>Iconoclast</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1642,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/Z-J2LmxdQGQnqvzpAArpoJCTb56vFYTqbTF_-5TEm_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzc0/NjUtMTQ3NTQyMDYz/My05Mjk1LmpwZWc.jpeg" alt="Cover for Rest in Keys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/756b0b31dcff4d8db58a288d7c1ecbc8.png" alt="Cover for Rest in Keys" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-01</td>
       <td>Bob Katsionis</td>
@@ -1658,7 +1678,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013-01</td>
@@ -1691,7 +1711,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 70</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1755,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/GOU-hmaqRi_mYS8AFpjb5dcAKIy-J28-xQsBB3PjMp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDE5/NzctMTM5MTMwNzk2/My0zMTg4LmpwZWc.jpeg" alt="Cover for Battle Of Leningrad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4250a4b5d25f42b8c253f4e82fa8ec9a.png" alt="Cover for Battle Of Leningrad" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-24</td>
       <td>Ring of Fire</td>
@@ -1788,12 +1808,12 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 6</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4cf8dadd5258d7d0b51456f530352a.png" alt="Cover for Dasein" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1834,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/nVF7q13m31rDsDkhRT6OMeWOx_lVtARa2MIe4YPLeNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQw/MDkwLTE2MDc2OTQx/MTgtNDk2OC5qcGVn.jpeg" alt="Cover for Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/273a0b9f7ad147a467a9eb49eb07fe35.png" alt="Cover for Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-26</td>
       <td>Adagio</td>
@@ -1836,7 +1856,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1666170d9ace41f4e02fbd04559c934.png" alt="Cover for Le Recueuil Des Âges (Instrumental)" style="max-width:120px; height:auto;" />
       </td>
@@ -1858,7 +1878,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/Lo7BjMz0Z1UUF9cVO4xObxEzdTTg4Z13zAxbscEfkOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQ0/NDU1LTE1MTgyMzEw/MTMtMTcxNC5qcGVn.jpeg" alt="Cover for Cast in Stone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6f43ee7134f9408ac4f54faa7d3a186.png" alt="Cover for Cast in Stone" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02</td>
       <td>Royal Hunt</td>
@@ -1889,14 +1909,14 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/WjoPDgGzjhv1z7ClhgRPlDMeJhHFnFeMq7IIVZ_2FW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg1/ODkxLTE1MzIxNzg2/NDctNDY5NS5qcGVn.jpeg" alt="Cover for War of the Worlds, Pt. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e11c899e555e2180041abb126466653.png" alt="Cover for War of the Worlds, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-27</td>
       <td>Michael Romeo</td>
@@ -1907,7 +1927,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 24</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 26</li>
             <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 94</li>
         </ul>
       </td>
@@ -1932,29 +1952,9 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>11</td>
       <td>
-      </td>
-      <td></td>
-      <td>Izzy Batio</td>
-      <td>She Drives Hard</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06a3968d91e84a8e9b7cbd255ea0665d.png" alt="Cover for 東方幻有夢境 ～ depth psychology of unconsciousness ～" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>高瀬</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T12:30:53.627Z
+date: 2025-11-23T11:53:41.864Z
 permalink: tags/progressive-power-metal
 title: progressive power metal
 ---
 
 ## progressive power metal
 
-Last updated: <time datetime="2025-10-28T12:30:53.627Z">Tue Oct 28 2025 14:30:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T11:53:41.864Z">Sun Nov 23 2025 13:53:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f66e53bfec7d16c0b1baf723bdfc502.png" alt="Cover for Shipwrecked with the Wicked" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Mystic Force</td>
@@ -66,7 +67,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>1994</td>
@@ -75,6 +76,24 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea52cbc0b40af1404b882cd4958719f7.png" alt="Cover for Symphony X" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-12-06</td>
+      <td>Symphony X</td>
+      <td>Symphony X</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -101,8 +120,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04a73a29a60460d9cb9a5d1002cc016.png" alt="Cover for Dominion" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Kamelot</td>
@@ -184,7 +204,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/t31K_nNo52svMqJ3WtyrmYiWeu3QULE5pOONmeRbsKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYz/NDktMTMzNDU4MDgy/MS5qcGVn.jpeg" alt="Cover for Roll the Fire 2.0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/873d214588b7289b849f1e24bdafd886.png" alt="Cover for Roll the Fire 2.0" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Conception</td>
@@ -203,7 +223,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/2FZ33M38iKAXTs7AVyBC9yAVGoMv-q8xJWrk8ivwR5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzQw/MC0xMzUyMTQ3NTQw/LTg0NjAuanBlZw.jpeg" alt="Cover for Paradox" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d1c1cb3a403f082d7b52c03ca0d0444.png" alt="Cover for Paradox" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-21</td>
       <td>Royal Hunt</td>
@@ -221,7 +241,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/JUJ5GMoVfSWsie2-E5vKj40A9oHmoTszir1Y-t_tMPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjU1/OTktMTU1MjY3MDA1/OC0xMzA5LmpwZWc.jpeg" alt="Cover for Free The Beast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afe2d6850cf27acacfa6c19b55a61b5e.png" alt="Cover for Free The Beast" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Slauter Xstroyes</td>
@@ -246,7 +266,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/Zs2JYlbQTs2IXqKb941z10MyV6UkLnvW973Hpe5UY0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjA4/NjEtMTQzNTA3OTI1/OC02MDU0LmpwZWc.jpeg" alt="Cover for Prelude To The Millennium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bff82a3b1547afcaa2c8627a24888711.png" alt="Cover for Prelude To The Millennium" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Symphony X</td>
@@ -266,7 +286,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/-JnKzZqKw-3ABKCy8_SJywg39Ia26Jf53uisfwTVptk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTY2/NS0xMzQ3MzU4ODcz/LTYyMTQuanBlZw.jpeg" alt="Cover for Fireworks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54bce4f30f5b671b2d9b85777b2afe69.png" alt="Cover for Fireworks" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-09</td>
       <td>Angra</td>
@@ -317,7 +337,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/D7VKozgZtvAAPcmZ1-8w-cVvPjdjRsMH6Z7j-x-qlx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDc3/MDItMTUwMDk3OTUx/OS00MDQ5LmpwZWc.jpeg" alt="Cover for Ivory Tower" style="max-width:120px; height:auto;" />
       </td>
@@ -370,14 +390,14 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 28</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/icjxHs792UC3LzmM5tseHT3LN1HO76TxH9iJjjJyEkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTE1/My0xNTU0NzY3MTY1/LTE3NzguanBlZw.jpeg" alt="Cover for The Fourth Legacy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76a5429debefe99c70e8f97dfb2c8a3a.png" alt="Cover for The Fourth Legacy" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-12-22</td>
       <td>Kamelot</td>
@@ -389,13 +409,31 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 16</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 26</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2917d2fcf742bbb107af9af35dd107f3.png" alt="Cover for V: The New Mythology Suite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-07-26</td>
+      <td>Symphony X</td>
+      <td>V: The New Mythology Suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b1919e979287e5a25f3b967eb291cf2.png" alt="Cover for In Search of Truth" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +451,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/CEyBuFq14EN14_rEq0_eGO343SQPdmWJgDn78sYd3TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzQ4/MzQtMTY4NjUxNjI1/MC04MTEwLmpwZWc.jpeg" alt="Cover for Mirror Out Of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -431,28 +469,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td>2001-07-10</td>
-      <td>Kamelot</td>
-      <td>Karma</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 32</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/MezoN8YKdfiqo5fMuVqBP0Z2wjny9AOzVMDSSOkeTK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTgy/MzEtMTMxNTY1NzI0/MS5qcGVn.jpeg" alt="Cover for Live On The Edge Of Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e4c4e26c805eaa807567d4b326bd1e7.png" alt="Cover for Live On The Edge Of Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-22</td>
       <td>Symphony X</td>
@@ -470,7 +489,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/GLqLY1ItDmC7DFo6Stu_hzTw4JkaGxHl88qgkEl7xEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mzc4/NjgtMTM5MzM0ODg4/OC0xMzI2LmpwZWc.jpeg" alt="Cover for Dawning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecc4ad27e42e40178a7e05e7236855e7.png" alt="Cover for Dawning" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Archetype</td>
@@ -490,7 +509,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/2b5vMJD1zYd0tFrDV-qnepVJzhiE8Ix_PURCl8kmXNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODA4/OTgtMTM4MzA1NjI4/My0zNzg1LmpwZWc.jpeg" alt="Cover for Rebirth World Tour: Live in São Paulo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8282dc963002385d1ba88f59fc543072.png" alt="Cover for Rebirth World Tour: Live in São Paulo" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Angra</td>
@@ -508,8 +527,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a7d513bcef082bdc143b6bbaabcb1b.png" alt="Cover for The Odyssey" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-04</td>
       <td>Symphony X</td>
@@ -521,7 +541,24 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>The Armada</td>
+      <td>Rage Of The Armada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -546,6 +583,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/553159af566ecc2bbe6252141a52e7b3.png" alt="Cover for Live on Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-28</td>
       <td>Star One</td>
@@ -565,7 +603,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/9Lt1zVz4yHSjwKOFAkcIxc57hs-0JrRt0_z53Z8dkkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjM1/MDktMTM2NTAyMTM5/Ni0yNjU0LmpwZWc.jpeg" alt="Cover for Embrace the Galaxy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9edecb7327984e78045bc8fe7796eb4.png" alt="Cover for Embrace the Galaxy" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-27</td>
       <td>Space Odyssey</td>
@@ -601,7 +639,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>2004-09-27</td>
@@ -743,13 +781,13 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       <td>
         <ul>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 55</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/yI_-Y4O3XrRNXBNei4ZTUU58OG0MEDfBdEqhTsPFdfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzMw/NzktMTQ1MjUzNzk0/Mi05NTU2LmpwZWc.jpeg" alt="Cover for Storm Warning" style="max-width:120px; height:auto;" />
       </td>
@@ -767,9 +805,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/UNef--R4btrGK4Q0et8CPlhfQjzdcSvxQbDKwJn9aZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODYx/MDAtMTM2MzUzNTE4/Ni02MzE1LmpwZWc.jpeg" alt="Cover for New Era Pt. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88e362f7664f2830a2beb1e2d9248d93.png" alt="Cover for New Era Pt. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Derdian</td>
@@ -826,7 +864,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62327b44a0795cc44b7abf980403210b.png" alt="Cover for Aurora Consurgens" style="max-width:120px; height:auto;" />
       </td>
@@ -840,13 +878,14 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 8</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f86367f8af04c3b89c48ac534d90404.png" alt="Cover for Astronomy" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-13</td>
       <td>Dragonland</td>
@@ -858,13 +897,13 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 18</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 76</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 19</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/7zybBtj5o4mAUF8uSOVINr7-nzrblbtOjzH7ovsEhN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc4/ODUtMTYyMzU4OTg3/Ny0yNjU1LmpwZWc.jpeg" alt="Cover for Reflections of the Obscure" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +921,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/t3Wfon00tqcJQo8_qryMTgst5GU0z_4JFRHM7dfcB0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA3/MDUtMTQzNTc2NzEx/MS03MzM2LmpwZWc.jpeg" alt="Cover for Empire of madness" style="max-width:120px; height:auto;" />
       </td>
@@ -900,21 +939,19 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/6CBsETDFpKCdpRlzptgDN45YHwFl0FIJbclVMAR4wiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/NjAtMTM3MzcyNjU3/Ni0zMzQ1LmpwZWc.jpeg" alt="Cover for Paradise Lost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24ec316ccff54fc51889fdf8e8f29ce3.png" alt="Cover for Paradise Lost" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-22</td>
       <td>Symphony X</td>
       <td>Paradise Lost</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -997,9 +1034,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/iUbPkrFjXbp-UhuvJj1yCwkp9kx5Udg4dpNLIPqxuEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTA1/NDAtMTYzNDEwNjk3/NS05MjgwLmpwZWc.jpeg" alt="Cover for Unreal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc516ae25b094c6fa8e2253138fad602.png" alt="Cover for Unreal" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-19</td>
       <td>Spheric Universe Experience</td>
@@ -1036,7 +1073,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/dV08hQwaovyAxZJsf8RAChtVFlSDyfA-p4fck4Mn458/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTgw/NTItMTU1ODY0Nzk0/MC01ODI2LmpwZWc.jpeg" alt="Cover for Homeland" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,7 +1165,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eef5bcebc79de0a5528ef27af720e53.png" alt="Cover for Aqua" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1219,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/NUloILDsIhhtuGsZ58_3Ii8sP0BhVYm39WxmSPUVIVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzk0/ODMtMTQxOTI1NzIy/OS05ODc5LmpwZWc.jpeg" alt="Cover for Worlds In Collision" style="max-width:120px; height:auto;" />
       </td>
@@ -1200,9 +1237,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/MraLRckCFGvFzDpAiTp77TKH4TkDKArCQG-XJQuoWyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTIz/MjUtMTQ1NjE4MjE1/MC00MzYwLmpwZWc.jpeg" alt="Cover for Elysium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f2926c52adf4b3796c9d6e85b562633.png" alt="Cover for Elysium" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-12</td>
       <td>Stratovarius</td>
@@ -1236,7 +1273,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011-02-28</td>
@@ -1252,7 +1289,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d924ede8da676b40df033bb00ad34e.png" alt="Cover for Iconoclast" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,7 +1298,6 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       <td>Iconoclast</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -1270,7 +1306,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/T-BbJC2E68Pr77RDnKDV86CXXvjGpSOV2zbsELfIfFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDc4/ODgtMTY0MTQ1NTI0/OS0xOTc4LmpwZWc.jpeg" alt="Cover for The Mortal Flesh Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,6 +1328,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bef137ad4ff3fd2b401dcc4f5837914a.png" alt="Cover for As The World Bleeds" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-21</td>
       <td>Theocracy</td>
@@ -1303,14 +1340,14 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 78</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/6yZ7s0oye8Sfea_d-Mmb_YNV_xvkLEcJJTANUnKKu9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU2/MDcwLTE1NjA0NDI2/NzUtMTYwOS5qcGVn.jpeg" alt="Cover for Euphory Amplified" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35e8594802bc4db5a2288f66cfb90555.png" alt="Cover for Euphory Amplified" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-06</td>
       <td>Seraphiel</td>
@@ -1330,6 +1367,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8d3833224bb45ab849393d827dea6e5.png" alt="Cover for Silverthorn" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-26</td>
       <td>Kamelot</td>
@@ -1341,14 +1379,14 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 14</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/Tbso_QUaDmG9woSkkJ4zhiVsKTvi-i-ogyiKtc0PXM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM3/ODk2LTE0OTc0MzUz/NDgtNDgxOC5qcGVn.jpeg" alt="Cover for Invictus (The 11th Hour)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f206e4f9ec364addbe4e2f7c275be731.png" alt="Cover for Invictus (The 11th Hour)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-22</td>
       <td>Tellus Requiem</td>
@@ -1401,7 +1439,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2014-06-03</td>
@@ -1453,7 +1491,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/sxFTv7PvfwJ9FgIf35Mh-8Ibpa4dWgm5Y8b44bU46FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTY3/OTctMTQzMjY4NDI2/NC03MzAwLmpwZWc.jpeg" alt="Cover for The Chosen Few" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,43 +1509,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/UWKv7JAwnB92WNLGNRitjIIpzi6sdHhUdTjvoRF4uAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjgx/ODAtMTQzOTM3NDQ3/Ny0yNDQ1LmpwZWc.jpeg" alt="Cover for Underworld" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-07-24</td>
-      <td>Symphony X</td>
-      <td>Underworld</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/YFsvHcyPCwoHE54rmnXJQGHhdzR_0ZsaVeEyE15doXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTYw/NjctMTQ1NTQ0NjI2/Ny0yNDM2LmpwZWc.jpeg" alt="Cover for Legacy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-02-12</td>
-      <td>Myrath</td>
-      <td>Legacy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/xbMj9VvgOAT1AGw5o6CV9KpPz2K1XGPCI9knNLCp4w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAy/MTY1LTE1NDQxODI1/MTgtNjE1Ni5qcGVn.jpeg" alt="Cover for The Fire Within" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1549,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6f2a867435d85fc0f1cd631945b94d3.png" alt="Cover for Ghost Ship" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1571,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2017-04-25</td>
@@ -1606,9 +1608,9 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/ozWERMR1_WnfLpLnaS2OJry6Vl8Z0BZhAEdGqTY7DKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc0/ODc2LTE0OTY2MDMw/MTUtOTM5Mi5qcGVn.jpeg" alt="Cover for The Nature of Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf0e27e51ba35994361b0adf17158435.png" alt="Cover for The Nature of Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-02</td>
       <td>Secret Sphere</td>
@@ -1623,14 +1625,14 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 21</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/9JL3hoLrxiqD3GEayofXUdOPKxBY4GJK55UDuMHSX-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/NDU2LTE1MDI0Mjc4/MTYtNTYzMC5qcGVn.jpeg" alt="Cover for Transcendence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0aeaf0e3090b4cfa33e075b2e4c0f2d5.png" alt="Cover for Transcendence" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-15</td>
       <td>Anthriel</td>
@@ -1669,7 +1671,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/jIO9HAqvJsN-pw7cgv6PgD726DituP76azEbugKwLPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/MDc4LTE1MzgyOTgw/MDItMjYwNS5qcGVn.jpeg" alt="Cover for Espresso Della Vita: Solare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73ff44420b55e14887e33e5305fc7037.png" alt="Cover for Espresso Della Vita: Solare" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-23</td>
       <td>Maestrick</td>
@@ -1688,7 +1690,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/WjoPDgGzjhv1z7ClhgRPlDMeJhHFnFeMq7IIVZ_2FW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg1/ODkxLTE1MzIxNzg2/NDctNDY5NS5qcGVn.jpeg" alt="Cover for War Of The Worlds, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,14 +1703,14 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 37</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/WjoPDgGzjhv1z7ClhgRPlDMeJhHFnFeMq7IIVZ_2FW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg1/ODkxLTE1MzIxNzg2/NDctNDY5NS5qcGVn.jpeg" alt="Cover for War of the Worlds, Pt. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e11c899e555e2180041abb126466653.png" alt="Cover for War of the Worlds, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-27</td>
       <td>Michael Romeo</td>
@@ -1719,7 +1721,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 23</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 26</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 95</li>
         </ul>
       </td>
@@ -1727,7 +1729,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/9AiTWmOLLkg1o5K92N6Tjq9DN2BmUJeVjLzQOXXkdn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE1/MzU4LTE1NDAxNDgx/ODktOTcyNC5qcGVn.jpeg" alt="Cover for Tiara" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a02cce6fb05d70afc7b76cd6da33f605.png" alt="Cover for Tiara" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-03</td>
       <td>Seventh Wonder</td>
@@ -1747,7 +1749,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/qvBlhdsIVAkjQOPvM4mce_wZu9LM33aZSKkeQljZCkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/OTA3LTE1NDE3NDcy/MzctNzQwMS5wbmc.jpeg" alt="Cover for re:conception" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b4d3bf7ea5d053fc2b3ddfb5995f3e.png" alt="Cover for re:conception" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-02</td>
       <td>Conception</td>
@@ -1767,7 +1769,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/X5rm5nWlAiRLlnoQgIg0BviO1n-Qg8R3Wzcw_U9R1pY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYx/MDI4LTE1NDkxMTg1/MjMtNzI1OC5qcGVn.jpeg" alt="Cover for Monument in Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a516914ad8cb153aac3db0d8418d507.png" alt="Cover for Monument in Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-12</td>
       <td>Conception</td>
@@ -1806,7 +1808,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/MyYniRuZDDX03PLleOCkR-ZKH9r_dTZuNiFLnVnI2-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc0/NzE0LTE1ODAzOTYw/MDMtNTQ4My5qcGVn.jpeg" alt="Cover for Shehili" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcdc9ea31943dbe8410b45ead7763a39.png" alt="Cover for Shehili" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-03</td>
       <td>Myrath</td>
@@ -1842,7 +1844,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/99fEn1-OlgU4Z5ZyPh2hxNama76OkdAJVSTuIAmcnsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM1/OTQ2LTE2MTM0MTEy/MTktNTQ4NC5qcGVn.jpeg" alt="Cover for State Of Deception" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,7 +1862,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/8KEwC4YJUl98M6VH52cttK6Y_6GK2AmbWdyyuVuRQKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU2/NTkxLTE2Mzg4MzQ1/MjktNTUyNy5qcGVn.jpeg" alt="Cover for Gethsemane (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1901,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
