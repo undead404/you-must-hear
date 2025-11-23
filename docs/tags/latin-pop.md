@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T00:39:10.190Z
+date: 2025-11-23T02:36:43.582Z
 permalink: tags/latin-pop
 title: latin pop
 ---
 
 ## latin pop
 
-Last updated: <time datetime="2025-11-08T00:39:10.190Z">Sat Nov 08 2025 02:39:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T02:36:43.582Z">Sun Nov 23 2025 04:36:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/zI9L1tENfXG6PVfuJzoeyBA7EMgZKSdJckxdZrc38Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzU1/Mi0xNTAyMTk4MDY2/LTk1ODQuanBlZw.jpeg" alt="Cover for Que Sera Mi Vida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bb8faa8c8d4ef41557a8c6b8029c2ec.png" alt="Cover for Que Sera Mi Vida" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Gibson Brothers</td>
@@ -70,7 +70,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/289a4b1915e48bb7259330a842378a13.png" alt="Cover for Spit it Out" style="max-width:120px; height:auto;" />
       </td>
@@ -90,14 +90,15 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 22</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 80</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 95</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 13</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 33</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c613376a45644a67ac6153285189b6d5.png" alt="Cover for Jon Secada" style="max-width:120px; height:auto;" />
       </td>
@@ -130,13 +131,13 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 23</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 79</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 24</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1993-06-22</td>
@@ -153,7 +154,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad19d05177d1ec58acd56c259d29a1e0.png" alt="Cover for Pies Descalzos" style="max-width:120px; height:auto;" />
       </td>
@@ -166,12 +167,11 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/VqfuzEhoCNE8XBQt1k3yIBPs0fLC2zXE-S1SzEvpQXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI4/NzctMTI4MDIyNjcx/NC5qcGVn.jpeg" alt="Cover for Subeme La Radio" style="max-width:120px; height:auto;" />
       </td>
@@ -188,13 +188,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 1</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 60</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/udvIuQ8kat8be6olc6OUb3CbJ9T6XBnL0t9JOaQdfcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcz/ODQyLTE1MDIxNDQ2/NTYtMjkyNC5qcGVn.jpeg" alt="Cover for Vanessa Rangel" style="max-width:120px; height:auto;" />
       </td>
@@ -218,8 +219,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4d99c9b619c435ebc5e0d81194fbef2.png" alt="Cover for Tierna La Noche" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Fey</td>
@@ -235,8 +237,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb4fe70eb329d1169659a66c32d248b9.png" alt="Cover for Amor a la Mexicana" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-01</td>
       <td>Thalía</td>
@@ -298,7 +301,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/vhFVqtqjztBM0epSgW9c575HCKPWSxg7DxoPe5qEsWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY5/NzE4LTE1Mzk4Njg1/MjEtNjMxMi5qcGVn.jpeg" alt="Cover for DUELE EL CORAZON" style="max-width:120px; height:auto;" />
       </td>
@@ -317,7 +320,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1999-01-01</td>
@@ -336,7 +339,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/qoGYeRmBvl13s2iUh8HTl0ARnJLnwS8oYHccDnsBTUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQx/NzE1LTE1OTY5Mzg1/NTEtNDE5OS5qcGVn.jpeg" alt="Cover for Contigo" style="max-width:120px; height:auto;" />
       </td>
@@ -372,13 +375,13 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       <td>
         <ul>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 4</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 19</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 20</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/NvmPD7UDJJgp9zWF6nEqtApxGwm7fWAS-MKb52FZPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcy/NzMtMTIzMDQzOTI3/Ny5qcGVn.jpeg" alt="Cover for Sin Bandera" style="max-width:120px; height:auto;" />
       </td>
@@ -391,7 +394,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 78</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +416,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2001-09-04</td>
@@ -432,15 +435,15 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 53</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 54</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 84</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 87</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 88</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/KY6Fs8kFK38GGac19SsYU0DyG1heonR5SU7yT9V4dWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTgw/OTctMTQ1MzU3Nzg3/NC0xOTEzLmpwZWc.jpeg" alt="Cover for Duele El Corazon (feat. Wisin)" style="max-width:120px; height:auto;" />
       </td>
@@ -456,13 +459,13 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 10</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 95</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 11</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/eLv1MhJmDFPw0wrnJFGBFGVDYYW023RqeTSg8QMduR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAx/NDAzLTE2NjM3MzI0/MzctMTAyMC5qcGVn.jpeg" alt="Cover for Lu" style="max-width:120px; height:auto;" />
       </td>
@@ -480,7 +483,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88755da85bc743e39b8d449e0c63e32f.png" alt="Cover for Belinda" style="max-width:120px; height:auto;" />
       </td>
@@ -498,14 +501,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 59</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 62</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 76</li>
             <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/060a0d9d9bb6321e37e61f96efcfec7c.png" alt="Cover for Djavan &quot;Ao Vivo&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -528,9 +531,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 47</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 64</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 69</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 48</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 67</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 71</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 81</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 82</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 96</li>
@@ -538,7 +541,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2004</td>
@@ -555,7 +558,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b283d1aefc82f1ef3b75902cb90d48.png" alt="Cover for Mi Sangre" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +580,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/LAte46meYe9ef78N4Zdt-5K-zkUxNG37XvcrEufOFGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjcx/NDctMTY0OTgyNTM4/Mi02NTc0LmpwZWc.jpeg" alt="Cover for Sexto Sentido" style="max-width:120px; height:auto;" />
       </td>
@@ -596,7 +599,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96da7a19fbd5bfb7b1eb0c95e20c11ad.png" alt="Cover for Nuestro Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -638,8 +641,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03a11eb87109ea1966b836fcf4512e46.png" alt="Cover for Limón y Sal" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-06</td>
       <td>Julieta Venegas</td>
@@ -655,7 +659,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/q1VF7qDTXNe-Lrrl4fV8R46_egCc6Xc0A6AR3xzvtHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk1/MTQxLTE1NDQwMzA5/MjQtOTQ5Ni5qcGVn.jpeg" alt="Cover for La Vida Es Un Ratico" style="max-width:120px; height:auto;" />
       </td>
@@ -670,14 +674,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 1</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 8</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 51</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 17</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -696,7 +700,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2007-09-21</td>
@@ -714,7 +718,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aa3f2290e2497a7f006ab908a449243.png" alt="Cover for Una Rosa Blu" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +737,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c5248a8df824c61b8179f54a7e6ef97.png" alt="Cover for Arde el cielo" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +757,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2008-08-26</td>
@@ -770,7 +774,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/tfBkFlQlPLIwobC5A7yflCJnGwtKmyS3RhR3PfmPPwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY1/MjItMTIxNTc1ODQw/MC5qcGVn.jpeg" alt="Cover for Me enamoré" style="max-width:120px; height:auto;" />
       </td>
@@ -808,8 +812,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce918929446a4598c5fe938ab8b67818.png" alt="Cover for Loba" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-09</td>
       <td>Shakira</td>
@@ -828,7 +833,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/bxxU7v5hmrsa60SjjePw5v9ny3au_nhcEwI0-OvAckY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzYz/MDgtMTQxNzcxNzU4/NS0yNzA5LmpwZWc.jpeg" alt="Cover for Top Secrets" style="max-width:120px; height:auto;" />
       </td>
@@ -854,7 +859,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2010-03-02</td>
@@ -872,9 +877,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/CvYKJucva5dMdHbXMO-qzJNp2t8ni1b1eskXkQizaEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/MjUtMTMxOTMwODk0/Ny5qcGVn.jpeg" alt="Cover for Otra Cosa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eff4b06952f3ea692c7153a3c2d2249.png" alt="Cover for Otra Cosa" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-16</td>
       <td>Julieta Venegas</td>
@@ -890,14 +895,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 51</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 52</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 98</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9672f9478c2642a4a83f68713691f3a4.png" alt="Cover for Sale el Sol" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +944,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec01fe9c5be8df58e4b1a6b46a1a0271.png" alt="Cover for Acordando o Prédio" style="max-width:120px; height:auto;" />
       </td>
@@ -957,14 +962,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 37</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 41</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 38</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 47</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f971dfd14b1342f1c230afee62c931c9.png" alt="Cover for ¿Con Quién Se Queda el Perro?" style="max-width:120px; height:auto;" />
       </td>
@@ -973,17 +978,16 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       <td>¿Con Quién Se Queda el Perro?</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ac1032552264cbccc470031cb6ddd1d.png" alt="Cover for Cola Song (feat. J Balvin)" style="max-width:120px; height:auto;" />
       </td>
@@ -999,12 +1003,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 50</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
       </td>
       <td>2013-10-08</td>
@@ -1023,28 +1027,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2013-11-05</td>
-      <td>Yandel</td>
-      <td>De Líder a Leyenda</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/BhTKJrjCTHmdxIjftMvzaZcOjJT5JmvJU-58P1QSNpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU1/NDY1LTE2ODIyNTYy/NjAtNTc0MC5wbmc.jpeg" alt="Cover for N5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84609afdbac4ee138a2a38f770f60aae.png" alt="Cover for N5" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Lali</td>
@@ -1063,9 +1048,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/FOerATE3CFeeSCGEW2v5lmsDIwYtl41L0auEQZ0N3Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzYw/OTktMTYzMzc0MDM3/Ni02NjY4LmpwZWc.jpeg" alt="Cover for Double Team" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad06223c38b2e4a40026e0cb6703eada.png" alt="Cover for Double Team" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Anitta</td>
@@ -1082,14 +1067,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 47</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 52</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 46</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 53</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/Qu2qEbbdwLn2OodItCYjmsLIUz79pMiATVfHhMmKvog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTcw/MTgtMTM5NTQyMTUy/NS0zNjMwLmpwZWc.jpeg" alt="Cover for Chantaje" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,12 +1089,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 70</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/840530a7e450300f17a656ef1e9e4524.png" alt="Cover for El Dorado" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1115,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c1df68ba32b0e143506faafd3c79f10.png" alt="Cover for Sex and Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,6 +1136,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a67de834a56455dc583354d110b43c8.png" alt="Cover for Vengo" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-18</td>
       <td>Ana Tijoux</td>
@@ -1165,12 +1151,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 87</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/xcqsFxr8KIgLXtdVONa5YUQydXYH2AClJ7dBptynvNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzY2/MzEtMTQxNDQzMDgz/Mi02MzUwLmpwZWc.jpeg" alt="Cover for Você Partiu Meu Coração" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,12 +1176,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       <td>
         <ul>
             <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 73</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 82</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/PnBaCEFh5l3HcojeSFeaUBUNGydn6ni_6yp7G1N75yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/NzkwLTE2NDM5ODE4/NDctNDI0My5qcGVn.jpeg" alt="Cover for Felices Los 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1202,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5bba2458200db2a9bca01be3d125c4c.png" alt="Cover for Hasta la Raíz" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,13 +1225,13 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 18</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 58</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 34</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e45ad674640ca21a7fa0d357078af27.png" alt="Cover for Eterno Agosto" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,9 +1250,9 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/XcUy0sHmbvn_-CVT6kc2G1WdoVe5_wDFVQzemrvxkGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTM4/NDctMTQzNTg0NTQ5/Ny01MTU2LmpwZWc.jpeg" alt="Cover for Caja de Música" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc938ae629737ad9f143fdf761e541c.png" alt="Cover for Caja de Música" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-03</td>
       <td>Monsieur Periné</td>
@@ -1282,14 +1268,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 17</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 29</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 83</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/435c1d395464ae764a4971e2dc602719.png" alt="Cover for Loka" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,14 +1293,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 2</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 8</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 10</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 10</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/N1dqQzhwPaHETfyflw5G2CXNmqDx-fU4X9b8zj1jC-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA0/MTEzLTE1MTU3MjU2/MzYtMjE3OS5qcGVn.jpeg" alt="Cover for Primera Cita" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,12 +1316,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 57</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/hbFJyb0lqE07yNK6vJq55UtO0u6pAoNQkwrNnDjhPvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzg4/MTAtMTQwNjgzNDU2/MC02NzYxLmpwZWc.jpeg" alt="Cover for ESQUEMAS" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,12 +1336,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 55</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/dPA3No5KWJD_XcCdLoiRkisTk1gLP4b6YeUQabItTT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTU3/MzktMTI1Njk0MjA3/OS5qcGVn.jpeg" alt="Cover for Mis Planes Son Amarte" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,12 +1357,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 92</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c32eec6c756a0cf790c22a5948e9c84.png" alt="Cover for Me Rehúso" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,7 +1385,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff4799ef4ac97487f2d09c3592cae6ea.png" alt="Cover for Fénix" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1405,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc8d5d03f550207a190b679f1b003f3d.png" alt="Cover for O Proceder" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1453,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b089715d200b45baf7f2b2544b1ab5a8.png" alt="Cover for Manu" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,13 +1472,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 1</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 3</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 5</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5316f26025d55be38fa1bf0dd5852df0.png" alt="Cover for Paradinha" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,14 +1499,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 82</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 92</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 93</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 99</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/XW8J_T72CDBNi985-GSRU-IMRciUW5DXzG4YV4vrbRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/MDMxLTE1MTIxNTI1/NzQtNjY1MC5qcGVn.jpeg" alt="Cover for Escápate Conmigo" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,13 +1524,13 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 12</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 13</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/Ln-_X6V__51jluJE5BLoCButO6SFwWmcsMXhfwizsQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg1/NjA2LTE1Nzg1Mjk4/NjktNDEwNC5qcGVn.jpeg" alt="Cover for Quiero Volver" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1550,28 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf7ef5245ed3a19598eac508ba0690d.png" alt="Cover for Camila" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-12</td>
+      <td>Camila Cabello</td>
+      <td>Camila</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 77</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f03a6731be53aff933dca3bf75059170.png" alt="Cover for Medicina" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,16 +1589,16 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 67</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 66</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 75</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 95</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/fpja0Dfenm8j__j3emNjBHnW2d0RTlFKEQP8YJG8hAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcx/NzM4LTE1MzM5MTgx/NDAtMTE4OS5qcGVn.jpeg" alt="Cover for Brava" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3270e42f4f66015aaf19be5022e193bc.png" alt="Cover for Brava" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-10</td>
       <td>Lali</td>
@@ -1606,7 +1614,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bbe6f0fcccddbcb53525ecfe6e098dc.png" alt="Cover for Solo" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,18 +1634,18 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 28</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 79</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 94</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 46</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 82</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 96</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/L4mEIwxriSLWiWTHNulP3l8ATdBP8dmth7TviEJUPAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEy/NDk2LTE1NjA5ODk5/NjgtODI5NS5qcGVn.jpeg" alt="Cover for ¿Dónde Bailarán las Niñas?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea37fc3305e94e27a64ee4db2f8fb905.png" alt="Cover for ¿Dónde Bailarán las Niñas?" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-01</td>
       <td>Ximena Sariñana</td>
@@ -1655,7 +1663,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80452521cdc50670ddc353bb5d07115c.png" alt="Cover for Mayores" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,7 +1686,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/_HfA8ttZPusL-VCWMMXYhqZ2vE2lkr41EkrfriKuiSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/MTU0LTE1NzA3ODIz/MTMtNjI4OS5qcGVn.jpeg" alt="Cover for Mala Santa" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1704,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/cTnZWaZQ2amPi7ZyiO5Zs0qSAEpvSrYoNHjFh7ZYBA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg4/Mjc3LTE2MzEwMTA5/MTItODYzNy5qcGVn.jpeg" alt="Cover for Familiar" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1723,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/83HecHa3v7q3TmAv7RPUEmPauh0nd20-uMsaVYT7MHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM3/NzcxLTE1OTAwNzQ2/MzQtOTUwNy5qcGVn.jpeg" alt="Cover for REVELACIÓN - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,7 +1743,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/A1HQDyz_xiBTgOFxViu-qyq5nXRqWb4FeykpAAOWNBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkz/NjYzLTE2MDUwMzky/NTctOTczNi5qcGVn.jpeg" alt="Cover for Hey DJ" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1763,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/2HR_WLxeMhHD69BYLDmUi-o5EjUdwi9ZxSVXe3PELNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQw/NDU1LTE1ODcyMTA2/NjAtMTY1NS5qcGVn.jpeg" alt="Cover for Por Primera Vez" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,12 +1780,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 36</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 43</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/ChIcs7MsEP3aQooPF7yPzA7qtdGs6EKaFy2v69xSHNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDA1/MjkwLTE2MDE3Mzk5/MDUtMzc0Ny5qcGVn.jpeg" alt="Cover for Calambre" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1805,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2aa0354e06545fb4736694ee8639b89.png" alt="Cover for Sin Miedo (del Amor y Otros Demonios) ∞" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,20 +1814,19 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       <td>Sin Miedo (del Amor y Otros Demonios) ∞</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 80</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 98</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 1</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 37</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 74</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/gKuclq6W1bzmXEAowZhhLd9e9bV4Xo5CrrwVlN58N-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzc0/NzMtMTMxOTIzMDA0/Ny5qcGVn.jpeg" alt="Cover for TINI TINI TINI" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,12 +1841,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 23</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04354c20f107c1c52c0e7bc6746b10a6.png" alt="Cover for ENTROPÍA" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,7 +1866,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/dJJP5ptMCg5aVteowUndMnW7VCptpMoq-N3RBOVWor4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAy/MTExLTE2MTc4OTcx/NTgtNjY5NC5qcGVn.jpeg" alt="Cover for Mis Manos" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,15 +1882,15 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 29</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 30</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/cDvML5Kj5QeeVCPJL0LLeSGi_cSpUj-qb2KjVyoSzaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg1/NDA1LTE2MjY5Njk2/NjYtNTAyOS5qcGVn.jpeg" alt="Cover for VICE VERSA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e30e9fd7d216ab6f829c3819e3814c85.png" alt="Cover for VICE VERSA" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-25</td>
       <td>Rauw Alejandro</td>
@@ -1900,7 +1907,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ab6253a21ed288a488d59f6285d4365.png" alt="Cover for Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,12 +1925,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/8OM8R2Uxk61mO4KpFCpa0wrRqylTNDQT13rVpCh0uZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjU1/Mi0xMTY1OTU5MDQx/LmpwZWc.jpeg" alt="Cover for Aguilera" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1948,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/a2iZXF6KAH5VmJOLtjhLZ6R_tz9hdI2T1W1-ZNXdJIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE0/NzcxLTE2NTE4MDgx/NDctMjExMy5qcGVn.jpeg" alt="Cover for UN VERANO SIN TI" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,13 +1964,13 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 97</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 98</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/eCVSLS5JsD0KgA4n2WGuASiWA5eJYjO4KnY3lDU5p1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM2/MzktMTY1NjcwMTEx/NC02NjI0LmpwZWc.jpeg" alt="Cover for Tú Crees En Mí?" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,12 +1987,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 58</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/cXalsVkwkox0fJJNPyY60NlMHOYgtNKwYAmt_x7mBII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkx/NDc0LTE2NjcxMDY5/ODYtOTIxMC5qcGVn.jpeg" alt="Cover for K23" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,12 +2009,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 56</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/6LSCFX3SxXTqD0Ors30_PLOuYLZV8Ut317CCSf3Okt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg4/NzEzLTE2Nzg4MjA3/NTktNDQ5My5qcGVn.jpeg" alt="Cover for @dannocean" style="max-width:120px; height:auto;" />
       </td>
@@ -2028,7 +2035,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e73723f480e88719ea0293a86d499fd.png" alt="Cover for Silva Canta Marisa" style="max-width:120px; height:auto;" />
       </td>
@@ -2051,18 +2058,18 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 32</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 38</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 58</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 34</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 37</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 45</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 47</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/-L0VlG_Ysu8Y35flWJhn51U9wMznFM-YcZbHWefxUts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ3/NTE3LTE2NzUyMjM3/NDEtNzIwNC5qcGVn.jpeg" alt="Cover for La Nena de Argentina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e1cf7dc2c4c2bd12ba4aa642c767c4d.png" alt="Cover for La Nena de Argentina" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-08</td>
       <td>Maria Becerra</td>
@@ -2075,12 +2082,12 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 44</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/J63PXPi5PWr5NtO84KjFby03iny8Vq8fVn0gAMbFai8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgw/OTg0LTE2NzcwMTA1/MjgtOTA4My5qcGVn.jpeg" alt="Cover for Cupido" style="max-width:120px; height:auto;" />
       </td>
@@ -2097,14 +2104,14 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 61</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 60</li>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 95</li>
             <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/WoAdhPv_zY-ZTAC1b-7Vom4Kdf5tmy0DCP9jYLhIAtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg5/MzY0LTE2MzQyMzEw/NjAtODQ2NC5qcGVn.jpeg" alt="Cover for Criminal" style="max-width:120px; height:auto;" />
       </td>
@@ -2126,7 +2133,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg" alt="Cover for orquídeas" style="max-width:120px; height:auto;" />
       </td>
@@ -2143,15 +2150,16 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 35</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 67</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 2</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 48</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 76</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/536765e4d5f5cc916a57aff61132a25c.png" alt="Cover for GRASA" style="max-width:120px; height:auto;" />
       </td>
@@ -2167,7 +2175,7 @@ Latin pop music, also known as Pop Latino or Latino pop, is a popular music genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 83</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 84</li>
         </ul>
       </td>
     </tr>
