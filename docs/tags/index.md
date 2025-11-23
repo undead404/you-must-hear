@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-22T16:52:34.204Z
+date: 2025-11-22T17:00:17.245Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-22T16:52:34.204Z">Sat Nov 22 2025 18:52:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T17:00:17.245Z">Sat Nov 22 2025 19:00:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-11-22T17:00:17.245Z">Sat Nov 22 2025 19:00:17 GMT+0200 (Eastern European Standard Time)</time> |
+| [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-11-22T16:54:01.182Z">Sat Nov 22 2025 18:54:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian metalcore]({{ "tags/christian-metalcore" | relative_url }}) | <time datetime="2025-11-22T16:52:34.204Z">Sat Nov 22 2025 18:52:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-rock]({{ "tags/j-rock" | relative_url }}) | <time datetime="2025-11-22T16:51:58.010Z">Sat Nov 22 2025 18:51:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [chicago house]({{ "tags/chicago-house" | relative_url }}) | <time datetime="2025-11-22T16:51:51.074Z">Sat Nov 22 2025 18:51:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -351,8 +353,6 @@ Last updated: <time datetime="2025-11-22T16:52:34.204Z">Sat Nov 22 2025 18:52:34
 | [post-dubstep]({{ "tags/post-dubstep" | relative_url }}) | <time datetime="2025-11-18T09:20:51.884Z">Tue Nov 18 2025 11:20:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative country]({{ "tags/alternative-country" | relative_url }}) | <time datetime="2025-11-18T08:39:25.017Z">Tue Nov 18 2025 10:39:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [brostep]({{ "tags/brostep" | relative_url }}) | <time datetime="2025-11-18T08:14:08.312Z">Tue Nov 18 2025 10:14:08 GMT+0200 (Eastern European Standard Time)</time> |
-| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-11-18T08:06:43.608Z">Tue Nov 18 2025 10:06:43 GMT+0200 (Eastern European Standard Time)</time> |
-| [westcoast]({{ "tags/westcoast" | relative_url }}) | <time datetime="2025-11-18T08:06:07.398Z">Tue Nov 18 2025 10:06:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [drone metal]({{ "tags/drone-metal" | relative_url }}) | <time datetime="2025-11-18T08:06:00.920Z">Tue Nov 18 2025 10:06:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental pop]({{ "tags/experimental-pop" | relative_url }}) | <time datetime="2025-11-18T08:05:31.734Z">Tue Nov 18 2025 10:05:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [twee pop]({{ "tags/twee-pop" | relative_url }}) | <time datetime="2025-11-18T08:04:14.931Z">Tue Nov 18 2025 10:04:14 GMT+0200 (Eastern European Standard Time)</time> |
