@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:25:49.243Z
+date: 2025-11-23T03:56:32.013Z
 permalink: tags/girlgroup
 title: girlgroup
 ---
 
 ## girlgroup
 
-Last updated: <time datetime="2025-11-15T01:25:49.243Z">Sat Nov 15 2025 03:25:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T03:56:32.013Z">Sun Nov 23 2025 05:56:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -71,8 +71,8 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 29</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 30</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +164,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 40</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 44</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 50</li>
         </ul>
       </td>
@@ -189,7 +189,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c261cf868b9863cf64b98f487cb4dca7.png" alt="Cover for Dramatic" style="max-width:120px; height:auto;" />
       </td>
@@ -302,8 +302,8 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 62</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 69</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 63</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 70</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 83</li>
         </ul>
       </td>
@@ -327,7 +327,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/203067580703fd7dd336f721ff840f47.png" alt="Cover for Ladies Night" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +441,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d5eb626a72730296f7231630d9d9e2d.png" alt="Cover for Taller in More Ways" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +473,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 42</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 40</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 95</li>
         </ul>
       </td>
@@ -515,7 +515,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 94</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -713,13 +713,13 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 67</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 68</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/uJcTBQae7ouQcgFB8AsqRRNGShGuCmFU-2nJvmbcm0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDE5/MzktMTQwNjkyNTc2/Mi0zMzY2LmpwZWc.jpeg" alt="Cover for Like A Star" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +739,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ELKGvVUaRzA8_IZzJ_sPwCytKOf9t_vu5vBaHRrZWZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjI1/NjU4LTE2NjQxMDI4/MDUtMzU2NC5qcGVn.jpeg" alt="Cover for HOT &amp; COLD - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,7 +1074,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f36130308d68372ff20eb9bf5f99d0b9.png" alt="Cover for Woman Like Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1214,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 71</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 72</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 74</li>
         </ul>
       </td>
@@ -1289,31 +1289,6 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/623fda49a59aeefeef9ff3fac2bc2dcd.png" alt="Cover for Up&amp;Down" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-22</td>
-      <td>EXID</td>
-      <td>Up&amp;Down</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
@@ -1502,8 +1477,8 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 15</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 17</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 18</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1526,7 +1501,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 75</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 76</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 78</li>
         </ul>
       </td>
@@ -1574,8 +1549,8 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 18</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 73</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 22</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 76</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 100</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 100</li>
         </ul>
@@ -1668,6 +1643,25 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c88d0128057e81bb62543da3f9d15b5.png" alt="Cover for Dear OHMYGIRL" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-10</td>
+      <td>OH MY GIRL</td>
+      <td>Dear OHMYGIRL</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1734,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 78</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 79</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 80</li>
         </ul>
       </td>
@@ -1763,7 +1757,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 2</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 97</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 98</li>
         </ul>
@@ -1854,7 +1848,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/503165ee859b319c31a8ff5ebc561e8a.png" alt="Cover for MACARONI CHEESE EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,8 +1883,8 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 36</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 37</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1914,13 +1908,13 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 74</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 75</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f7a9b0071ad8299f16f41d7ec7944aa.png" alt="Cover for 하트뿅" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,7 +1937,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/499f21464b0d54216616a2576c72eebb.png" alt="Cover for DO BETTER" style="max-width:120px; height:auto;" />
       </td>
