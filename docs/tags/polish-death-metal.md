@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T15:57:03.515Z
+date: 2025-11-23T02:41:19.506Z
 permalink: tags/polish-death-metal
 title: polish death metal
 ---
 
 ## polish death metal
 
-Last updated: <time datetime="2025-11-18T15:57:03.515Z">Tue Nov 18 2025 17:57:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T02:41:19.506Z">Sun Nov 23 2025 04:41:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/DrDQxcHAQXTA8Mzj56MM1SvIUUNO_prYphL5PBPODFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzYy/NzMtMTUxNDAzNDc2/Mi05NTA1LmpwZWc.jpeg" alt="Cover for Dead Bodies Massacre" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/DAHQvsF-Vz0FJ5Z8BwK-HAGYK3kvDB8EJ4WFTR6OKQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE0/NjQtMTIyMjE5ODk4/OC5qcGVn.jpeg" alt="Cover for ERODE" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/LhPboju_RC97-BZJnDN4LWWwCabIhSJOtpK5vE26UA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQw/ODc2LTE2NTc0NTA4/NjktODQ4Ni5qcGVn.jpeg" alt="Cover for Crawling Chaos (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/LYIAS6UE1yUy6BNY5_3opPGI6Rr6SvJciiv1P-vm4hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTg2/MTctMTMxNjY0MDM2/OS5naWY.jpeg" alt="Cover for Bad Obsession" style="max-width:120px; height:auto;" />
       </td>
@@ -228,8 +228,9 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4907b3a0fd25138fd087807a133ae59a.png" alt="Cover for De Profundis" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-09-05</td>
       <td>Vader</td>
@@ -284,7 +285,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/jNQzAAceoL_pN0-It4LkYsHiMKB2AtAF4b7CUC80FUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjk1/NjQtMTM2NzQ5MDUy/My0yODk4LmpwZWc.jpeg" alt="Cover for Desire (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +303,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/mTanz2LyNymjwWdXPSiOAh9IqF6exU31QWw6sqfNhLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzcy/Ni0xMTYzOTI3MTE1/LmpwZWc.jpeg" alt="Cover for to yours god" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +361,25 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd27a370ee5e453fb7a465c7e390f659.png" alt="Cover for Litany" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-15</td>
+      <td>Vader</td>
+      <td>Litany</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/qz5GLG7yx6Zpiwv6Q_t199Y97OzPUoiLQqqunvU0wuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI5/NDE2LTE1ODU3MzM2/MjUtMzY5Ny5qcGVn.jpeg" alt="Cover for Respawning The Gods - 2000" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +398,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/0s9Gfz6l8eiGbZz0DC9xFkWdoFvP8s6qbHccCxHg1fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTM3/NDEtMTMxNTQxNzQ2/Ni5qcGVn.jpeg" alt="Cover for Crash-Test: Live" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +416,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/RYI9ejbfRLUlcs9UGrGnJGtabRtzGTBICY1b8KkzpEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEy/MzU2LTE2MjU2ODIw/NzYtOTYzNC5qcGVn.jpeg" alt="Cover for An erotic" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +436,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/QtznnuOPKsmA9oXCW-Kr2SBVj7N4HctdFnSWx3gZliY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU2/NDUxLTE2MjUyNTQ1/NTUtNTQ3Mi5wbmc.jpeg" alt="Cover for The Hallowed Mass of the Black Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -437,7 +456,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/CCmN-fRSLY5KWzf1i51DVE9bu3KwYWM0UtyxAJ416nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTIw/MzctMTM0Mjk0NTk5/MS03MzI2LmpwZWc.jpeg" alt="Cover for &quot;God is Not&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +654,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/yWzciCcyiHMMOc9vSjWP44fBI3PEpXp6CaAH5frdCk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODk5/NS0xNjcxNjQ5OTk2/LTIyNTcuanBlZw.jpeg" alt="Cover for Mind - the greatest enemy of humanity" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +673,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/4CTmVz8ZMpOm5N4dxZwRH7saUsOrOwUSuza5xsuvREs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDQ4/NjItMTM5NjEzMjU5/NS01NDM2LmpwZWc.jpeg" alt="Cover for 999 EVA &#x2F; Vanitas" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +731,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/fCAb-o_fgVCiMAQ1HvhalzKjLbuq0E2s3cRZMmRI7xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTI4/NS0xMTQ3MDcwNTAy/LmpwZWc.jpeg" alt="Cover for Coflict Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +769,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td>2005</td>
@@ -789,25 +808,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2005-02-25</td>
-      <td>BloodthirstPL</td>
-      <td>Hell Bestial Desecration (split w&#x2F;Ebola)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td>2005-06</td>
@@ -825,7 +826,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/by1CD9cjKsV6X1n1MHvxN-tvlPP29Ek9ne0R0fzckII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjgw/Mi0xMjI4MjczMTA3/LmdpZg.jpeg" alt="Cover for GENESIS" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +845,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2006</td>
@@ -901,7 +902,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/eWXQ9H1h1Y7_dk4SQd1g5eZfK41CRIccXwqpUFG3Ebg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc0/MzUtMTU3MjAyOTMz/Ni0xOTcwLmpwZWc.jpeg" alt="Cover for Overthrown Divinity - out now in REDRUM666" style="max-width:120px; height:auto;" />
       </td>
@@ -920,8 +921,9 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3191bff10dd4db376919d5d00b44907b.png" alt="Cover for Impressions in Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-23</td>
       <td>Vader</td>
@@ -937,7 +939,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2007</td>
@@ -955,7 +957,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2007</td>
@@ -973,7 +975,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2007</td>
@@ -1067,7 +1069,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/VPesDc8IYU5nVM1hql9SGq-oCsq4-zp8tvPWBxYBMwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjU0/MDgtMTM2NDU0Njg4/Mi0zMzUyLmpwZWc.jpeg" alt="Cover for Human Sacrifice EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1088,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/DqlSd7YXDtvlnBekIaed-_puksJl4EglInxhEEMzIQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE3/MzgtMTI4NDgxNDQ2/MS5qcGVn.jpeg" alt="Cover for Promo 02.2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1185,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/RLe6VQqHz46amnf4hGU45aE1J55MJjgAtNWdHO3esOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzM0/MzQtMTQ2MjU2ODc3/NC0xNTk0LmpwZWc.jpeg" alt="Cover for Future Of The Past II - Hell In The East" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c91ef155705b3671d482a042f8c2e381.png" alt="Cover for Future Of The Past II - Hell In The East" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-08</td>
       <td>Vader</td>
@@ -1202,7 +1204,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Annihilation promo" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1225,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/xZa85FlZHRoiXVu--wLNL7TfE4kJ-HAoD12ULMo5KPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc0/MjktMTYxNjg1Mjc0/OC01MDMxLmpwZWc.jpeg" alt="Cover for Infernal Revelation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57955f95522c4c43811e8f4e3b73fb83.png" alt="Cover for Infernal Revelation" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-17</td>
       <td>Ebola</td>
@@ -1359,7 +1361,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ETpAW9TQwMR0Scpvb4IyJ2pyS32u17PDIdEsxPTwZRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjky/NDQtMTQ1OTQ2Njg3/NC03MDA2LmpwZWc.jpeg" alt="Cover for Octopussy - Raw Mixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1399,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/fvsjVXqS5aHDjnovRBy51HxFtW5sh8GtuSjxhFIzH2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTgx/NjUtMTMxNTY1NDY0/OS5qcGVn.jpeg" alt="Cover for Let&#39;s Bow Abaddon Before The Battle Against God" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1418,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/MDLTTTRZBUMQmT2--AjkEkzcWygIKnHXYhOrHwaChBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDA2/MjA3LTE1NzM4ODQ4/NjItNDc1NC5qcGVn.jpeg" alt="Cover for Refreshing Old Skull [DEMO 2008]" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1437,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/9k9BzcrbWTbmgr6pBb-AHpyuHr7KFbcY7pn9ZDP7hL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUy/NjMzLTE1ODI4MzQw/OTYtMjI2Mi5qcGVn.jpeg" alt="Cover for Ruins" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1477,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/bdCuLkL_RbUnUlfLnMS06BuwOXnA66trvQRrfPn_oVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI0/NzMtMTMwMzU0NzU3/Mi5qcGVn.jpeg" alt="Cover for Mr Psycho" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1496,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/t59LaWPN0bWQM0MzsGo6NbHjcwuLWvvbs8fm3qTQEBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDk2/NDAtMTM5NjI3MzQy/OC05NDIwLmpwZWc.jpeg" alt="Cover for Perigrination" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,7 +1537,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/VOMedsF7EvW8ukhRwqyuhpIFnf_of6uOkQw3kWaIt6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzk0/NjAtMTQ0NTcwODA0/NS01NDc5LmpwZWc.jpeg" alt="Cover for Alter" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1556,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/MuaPIWEJXCvTIzcwdMwHeFiGy6TFu1i4BWyXpGvog0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTU5/OTctMTM1Mzc3MTMy/My0yNDc1LmpwZWc.jpeg" alt="Cover for Absolutely Anti-Human Behaviours" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,6 +1602,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/256affcbb2432aa7d7608da8f8a6ce7b.png" alt="Cover for It Rains, It Pours" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-17</td>
       <td>Dormant Ordeal</td>
@@ -1615,7 +1618,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/c26bPIBjknmgNQGGzcKNJJlqEQoh3xjpoUVd3XWhnOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg3/NzMzLTE1ODY1Mjkz/MzktOTUyMi5qcGVn.jpeg" alt="Cover for Stages of Necrosis" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1677,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/FCD3bZ7KkqoQQYAzXaIyhNSTErCQCzqxyuA7JcZj8co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTk0/NTktMTUwNTM3Mzcz/OC02MjYwLmpwZWc.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,7 +1797,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/ootK4Cdg3c0PHpK7vJgIe8bF1vouhn8-TmYwSlTWHsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc1/NzUyLTE2OTIzNTc0/NTgtMjIxOC5qcGVn.jpeg" alt="Cover for Praeposterum" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1854,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/OQGDw3IMBr3gUlRW6jvHCgXfYMYF6AJbZ-WOkcvqtH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY5/NjUzLTE2MDExMTYw/MzctMjk1MS5qcGVn.jpeg" alt="Cover for Reverse Engineering" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1877,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/CyIW0Ksq76pTGTVunuQUFWXfq_zcHOblA1Rs3GKy3tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk3/MjItMTM3MDM3MzY0/OS0zNzE1LmpwZWc.jpeg" alt="Cover for Antithesis of Creation" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,7 +1919,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/PYv1eIu2Q-Y44xSIKlPkIID5gKIYSC5nIhhazMUUO8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MTczLTE2ODU3MTQ3/NTUtNjc5NS5qcGVn.jpeg" alt="Cover for Procreation Of God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/967c67b93d1d7646cff2ef0af8f2016a.png" alt="Cover for Procreation Of God" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-05</td>
       <td>Godslut</td>
@@ -1936,7 +1939,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/8xFHsXQcjF7W2tWEwVF5xeJKdU3pA-Tl9_hsYsijhKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzM0/MDYtMTYxOTg5NDYw/Ni00MzYzLmpwZWc.jpeg" alt="Cover for Testimonio de Bautismo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa02aeb8f94ea83bdcf927750972d67e.png" alt="Cover for Testimonio de Bautismo" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Stillborn</td>
