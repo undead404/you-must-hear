@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T18:23:14.123Z
+date: 2025-11-23T08:02:34.581Z
 permalink: tags/broken-beat
 title: broken beat
 ---
 
 ## broken beat
 
-Last updated: <time datetime="2025-10-18T18:23:14.123Z">Sat Oct 18 2025 21:23:14 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-23T08:02:34.581Z">Sun Nov 23 2025 10:02:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for FabricLive 12: Bugz in the Attic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7757085563542cbb46e6cd6fdf00d22.png" alt="Cover for FabricLive 12: Bugz in the Attic" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Various Artists</td>
@@ -49,7 +49,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>1977</td>
@@ -80,7 +80,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       <td>
         <ul>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 6</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 71</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 72</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 80</li>
         </ul>
       </td>
@@ -88,6 +88,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/877f21b8ccb64e66b1fd1974da272908.png" alt="Cover for In Rough Territory" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>4hero</td>
@@ -129,6 +130,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68a8b275d5d54e4fb6fd4634baeb65ee.png" alt="Cover for two" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Silhouette Brown</td>
@@ -147,6 +149,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ddb7373f4b0c796000ba1b913ec2b8.png" alt="Cover for Slowly" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05</td>
       <td>Amon Tobin</td>
@@ -188,8 +191,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77479e61c304261c2938f30ba8e5dc8.png" alt="Cover for Download This" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>New Sector Movements</td>
@@ -226,8 +230,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8543a73da534ff880e14a2b20b71d3d.png" alt="Cover for Creating Patterns" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-29</td>
       <td>4hero</td>
@@ -248,23 +253,23 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 17</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 17</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 19</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 21</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 21</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 23</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 32</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 33</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 40</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 52</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 58</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 63</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 70</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 81</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 84</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/0KdxSRDvtuevw1t6tGvaL52bHIDFILTWnHH2RBRbAm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLXJfMjUz/MjE1LTEwODQ0MzMw/MDcuanBn.jpeg" alt="Cover for Chocolates and Cheese" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +308,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/sxCDJrFGTQbraA1MmoqfA_RTBXP3P1DkY6Qa_xfjrO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzU5/LTExNjQzODExOTYu/anBlZw.jpeg" alt="Cover for Impending Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +345,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/HMYBcXSvb4Sqw1kpcHb2squSGls7PeD8LKowRkBeeSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA5/LTEyNDEzNjYzNzEu/anBlZw.jpeg" alt="Cover for Primate Boogaloo EP" style="max-width:120px; height:auto;" />
       </td>
@@ -358,9 +363,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/FkMN5GIlSriRKYPonEROs52ktcPklhTU-yTg7P2HoiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjUw/LTExNDA4NjQyMjQu/anBlZw.jpeg" alt="Cover for Roni Size Reprazent - New Forms2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f931dc3dcd664f42ba7943bbfd387078.png" alt="Cover for Roni Size Reprazent - New Forms2" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-28</td>
       <td>Roni Size</td>
@@ -402,7 +407,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2003</td>
@@ -421,7 +426,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/d23IWpeIRfO-m5m48rUUx3t-tmEV2zvtfvPhaxjYhrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ4/OTEtMTI1MTUyMzEz/NS5qcGVn.jpeg" alt="Cover for Pieces From The Puzzle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8d6f154ce774c7b911017181b394994.png" alt="Cover for Pieces From The Puzzle" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Take</td>
@@ -438,9 +443,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/Oyx-6x1WElP6i2mM9VixGeZSum7T5J6__rBQzB_AzW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQy/My0xMTAxNjQ1MTEy/LmpwZw.jpeg" alt="Cover for Got the Bug" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f6c9dbb138dcf615775a757e7269626.png" alt="Cover for Got the Bug" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11</td>
       <td>Bugz in the Attic</td>
@@ -475,7 +480,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/aQF1rCaMhvPJtCmOFbbF7Qf2ieGbDRypir2y7WOe3AA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk4/OTgtMTIzMTY5MTcz/Mi5qcGVn.jpeg" alt="Cover for Tell It Like You Mean It &#x2F; Giraffe Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -490,6 +495,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -514,6 +520,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5daf2764784643351a1aaedae984eddc.png" alt="Cover for Theme for a Broken Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-24</td>
       <td>DJ Rels</td>
@@ -543,14 +550,14 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/qCD30IfHFGGBjde4JRe1ux2yYF7xX6GmraO3fynv_9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDY4/MDEtMTI0MDcyNTY3/Ny5qcGVn.jpeg" alt="Cover for New Forms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c54bd2cbc300ecaf8ab2d2bc469755.png" alt="Cover for New Forms" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-14</td>
       <td>Roni Size</td>
@@ -583,7 +590,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2005</td>
@@ -603,7 +610,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2005-03-28</td>
@@ -620,9 +627,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/bZiPNhedNGXugxJuRm9vSCGBfS_-J3tBXIEU_bV7CHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTAw/MjAtMTMzNzI2NjY5/OS0xMDU4LmpwZWc.jpeg" alt="Cover for The Syberspace Social" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3a4008096f79884aa0a0d76a1d72d84.png" alt="Cover for The Syberspace Social" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-02</td>
       <td>Sy Smith</td>
@@ -641,7 +648,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/q2gcUOlJsVdiEEwgo0_9CImXpcqMXJxY8KmYC3D2Vzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzgy/Ny0xMTQxNTE2MjA5/LmpwZWc.jpeg" alt="Cover for Impending Doom &#x2F; Just Briefly" style="max-width:120px; height:auto;" />
       </td>
@@ -677,15 +684,16 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 66</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 71</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 87</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 67</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 75</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/690f231b5f4547148e0f5720d80d57d6.png" alt="Cover for Fabric 26: Global Communication" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-16</td>
       <td>Global Communication</td>
@@ -703,7 +711,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/PV5G_NeKzlPiiuYY5y3ShFGz6Gi3gKqWJTfaOiNglGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAy/OTktMTE4NzEwNzIw/MC5qcGVn.jpeg" alt="Cover for Fun Like Passion" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +731,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>2006-08-23</td>
@@ -741,7 +749,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/NFfoT8iDPwc4T6DfAj6LkB91FNVsh_PPdSFnaYwMcOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQ2/NC0xMjA1NjAwMDcx/LmpwZWc.jpeg" alt="Cover for Come Away" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +768,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2006-12-16</td>
@@ -778,7 +786,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/Qg-PHYIJRA1PwwEow3UR-iBD9ywrIE9_TpDSq8_Hupg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk0/MTgtMTE4OTc3NjU0/OC5qcGVn.jpeg" alt="Cover for One Sweet Life" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +804,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Br7rrJcb0W2_TQNf37kTYvbFlhDfewFf4dHSpV8Q7XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjcx/MS0xMTkzNTE4OTM1/LmpwZWc.jpeg" alt="Cover for Sabor" style="max-width:120px; height:auto;" />
       </td>
@@ -813,12 +821,12 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       <td>
         <ul>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 12</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Alu1Q-KMvJhm1SFKCmcu4XPSmrS6_9LRhQHgVWKk1_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA4/MTQtMTUzMzQ4NjUw/MS0xODQ4LmpwZWc.jpeg" alt="Cover for Detroit Underground 07" style="max-width:120px; height:auto;" />
       </td>
@@ -837,8 +845,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b97c2ef0e91147728222c77f96ec0225.png" alt="Cover for OuMuPo 6" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-05</td>
       <td>DJ Krush</td>
@@ -901,8 +910,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fe66bab45b246a38877fb9832a54d97.png" alt="Cover for Elements Beyond" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-07</td>
       <td>Osunlade</td>
@@ -939,7 +949,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/zHUv7tlA4wOuKxllQmvl10FXwF6ZOHintFzKf2kQ5Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTIyLTE0OTQwMTc2/MzQtNDk5My5qcGVn.jpeg" alt="Cover for Instrumental Social" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +987,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       <td>
         <ul>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 5</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 34</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 32</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 96</li>
         </ul>
       </td>
@@ -1001,7 +1011,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/jbKFxrXKzc2AOjqcNat_ZvzNeBBEU17nzkDOMT_h1Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI5/NDEtMTIxMjA5ODU2/MC5qcGVn.jpeg" alt="Cover for Electric Chair EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,6 +1056,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aceb6b1c1f8e4ce29d1f638db57bb042.png" alt="Cover for The Flame of Fame" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04</td>
       <td>Parov Stelar</td>
@@ -1061,15 +1072,16 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 11</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 83</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 24</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 86</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3674e1fe8a248e8c858ca56de6bb176.png" alt="Cover for In The Myth Of Your First April" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-21</td>
       <td>Throwing Snow</td>
@@ -1106,7 +1118,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Bjncn5yF_meUv-PChJ7p6XTueWOj5iJb_OwVBzGTWrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDE4/MzItMTM4MDExNjY1/OC02NDAzLmpwZWc.jpeg" alt="Cover for A Next Set A Rockers" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1136,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2008-07-28</td>
@@ -1143,8 +1155,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d56dfbfd403a41c888e003bf24763370.png" alt="Cover for Gnanmankoudji" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03</td>
       <td>Laurent Garnier</td>
@@ -1163,7 +1176,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/LOqvtpY3bhB7w5PydzizFeUwZ0IucrJrEb3Og4oF7pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY1/Nzg0LTE0OTgxNTI4/MzAtNjQyMC5qcGVn.jpeg" alt="Cover for Dub Organiser Vol 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/247fad63985d4c7c8d36a6a99f89cda9.png" alt="Cover for Dub Organiser Vol 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-10</td>
       <td>Cooly G</td>
@@ -1183,7 +1196,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/IVVmTdQ7pbabBwF3gGdWgPThNEX0wMn4IRtXa2ozxpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQy/NTctMTI1MzQ1NDUy/My5qcGVn.jpeg" alt="Cover for Coco Part 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9ae7eac699c4b0d9e294a6c41d4006d.png" alt="Cover for Coco Part 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-28</td>
       <td>Parov Stelar</td>
@@ -1211,24 +1224,25 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 5</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 6</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 8</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 17</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 21</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 25</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 28</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 28</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 29</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 29</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 31</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 52</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 72</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 75</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 76</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 82</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdc073c03f7d44d5b8bbbc15ef47974c.png" alt="Cover for Gold + Green" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-09</td>
       <td>Architeq</td>
@@ -1251,6 +1265,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea1112fc903a4001a50942f36ab64ef2.png" alt="Cover for The Secret Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-06</td>
       <td>DJ Spooky</td>
@@ -1273,12 +1288,12 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 57</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ksGJp3zxnaG_DbWQXwozANWZfK8goMzaukhw8AnGrlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEx/NzQtMTI3OTUwMTk0/MS5qcGVn.jpeg" alt="Cover for Catch Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,13 +1310,14 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 15</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc74a4b6f4514fabbd238eef50435fbc.png" alt="Cover for My Heart Beats Like A Drum" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-19</td>
       <td>Natural Self</td>
@@ -1320,6 +1336,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/225a5bd8aa75c4a3af50adb21ef2731b.png" alt="Cover for Shlo-Fi EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10</td>
       <td>Shlohmo</td>
@@ -1335,12 +1352,13 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 1</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Ebq-Yqnajws3PtE_4IuO0oOTG08-Vc5TW57r7t0aSQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTA4/MzMtMTQ4ODA0MDI0/Mi05ODM4LmpwZWc.jpeg" alt="Cover for IIOIO" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,9 +1419,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/jxXa4ciAiClV0em_WhVp1e7ZLZ4wJtuTVRqoRLRqh2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY2/NDItMTQyMzU3MjA5/MC02ODU1LmpwZWc.jpeg" alt="Cover for The Barb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12bc96dbcdfd428486cfb27e0b7d8485.png" alt="Cover for The Barb" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-23</td>
       <td>Full Crate</td>
@@ -1420,7 +1438,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/ATfipzXBdTtdTdLhWgtSIUgzNNcVrFDAbD0Aplz6WPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzAx/NzMtMTMyMTQ2NTIw/MC5qcGVn.jpeg" alt="Cover for Renegades" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,9 +1467,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/uFt7wqahtud4gDWc7mLJYMXLm4WlqXiHLrD2gEBs4j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjcx/NTItMTQwNjUzNTYz/Mi02NDE2LmpwZWc.jpeg" alt="Cover for Earth Pioneers E.P." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25c2c0eb1b79cfdab27d61515b2b112d.png" alt="Cover for Earth Pioneers E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-25</td>
       <td>4hero</td>
@@ -1477,7 +1495,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/uFt7wqahtud4gDWc7mLJYMXLm4WlqXiHLrD2gEBs4j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjcx/NTItMTQwNjUzNTYz/Mi02NDE2LmpwZWc.jpeg" alt="Cover for Look Inside" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae53a17a7301da6b50fab882805441e8.png" alt="Cover for Look Inside" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-25</td>
       <td>4hero</td>
@@ -1513,7 +1531,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2011-10-25</td>
@@ -1531,8 +1549,8 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 48</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 54</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 49</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 55</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 58</li>
         </ul>
       </td>
@@ -1540,7 +1558,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/I8CBtTU-aQt0gz2VDCjGTDn3rKe0C_sUGgrONODR81k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTc1/MDAtMTQ1MTYzNjgw/Mi05MTgwLmpwZWc.jpeg" alt="Cover for SB1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afb10f9c6f0b4f47cf541af3b1ecca9d.png" alt="Cover for SB1" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Gramatik</td>
@@ -1558,7 +1576,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/pmzp3Knf4FjepsVqglmRPe0PtnNd32SX-QRkmEWMREc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjI3/NzYtMTMzNTM5NzQ2/Ni5qcGVn.jpeg" alt="Cover for LOOT" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,14 +1595,15 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 83</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 1</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/0KwEDid07hxQmsGfXCQ3BHUzjkHPSKW8sJVxln0Z7Ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjgw/NDItMTMzNjUwMDQ4/NC5qcGVn.jpeg" alt="Cover for I Felt Fuzzy EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6be35e2c74f2482c8f5da8f7170aeafc.png" alt="Cover for I Felt Fuzzy EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-16</td>
       <td>Kelpe</td>
@@ -1603,7 +1622,24 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a1ba8b0cd80491c9273953264ca7d42.png" alt="Cover for Stretch 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-19</td>
+      <td>Arca</td>
+      <td>Stretch 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/XutYDubzLu7K6AQ02nwTvhCzM_gkoUiJUQw0QMFQlDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjAx/NDYtMTQwODUzMTA3/My00NjU0LmpwZWc.jpeg" alt="Cover for Clapper" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,6 +1659,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb7124c516a2c3c6cf5d76cb44a2ca6.png" alt="Cover for Mountain &#x2F; Financial District" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-14</td>
       <td>Gold Panda</td>
@@ -1659,6 +1696,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3454764a3f374499c47a42c1cfc3fdbc.png" alt="Cover for Dance the Spiral Never Ending" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-23</td>
       <td>Kalya Scintilla</td>
@@ -1682,6 +1720,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c39acf89cdec4250a7fbb9147a9ae499.png" alt="Cover for There Were Seven" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-05</td>
       <td>The Herbaliser</td>
@@ -1702,7 +1741,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/bf15jBIRC8gCBbNM6hZ9kBfubLEcKcQqsRE7A4fzUfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTM2/MjktMTM1MjE3NjU3/My02NTIwLmpwZWc.jpeg" alt="Cover for Bake Haus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c593c392e72647cc92bbc129ccf16d96.png" alt="Cover for Bake Haus" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-05</td>
       <td>Offshore</td>
@@ -1721,6 +1760,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf4a3be74ee64540805c5be99bcd1769.png" alt="Cover for Manj" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-22</td>
       <td>Joomanji</td>
@@ -1734,7 +1774,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1759,8 +1799,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83a4623b4fd54111b20bcdfe53189fd9.png" alt="Cover for Whispers from an Angel" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-11</td>
       <td>Yosi Horikawa</td>
@@ -1777,9 +1818,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/bb7qdCDj2C7DNSs5ON2VzS-ug4ud8wjwLbA1_Cu3_qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjYw/NzgtMTQ3NTkzNjMx/OS02MDU3LmpwZWc.jpeg" alt="Cover for Skeewiff vs. Shawn Lee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8893814a3d44204c210a3c3079e8165.png" alt="Cover for Skeewiff vs. Shawn Lee" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-01</td>
       <td>Skeewiff</td>
@@ -1799,7 +1840,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/qzsET6pMWPllQ4PVAAP2sNssK6xn5Q2LjmMqTNzAdts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc4/ODk2LTE1ODE0Mjc2/NjYtNDU0OC5qcGVn.jpeg" alt="Cover for SB#2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5f81913b9934fcbcf5aef0c7513ba48.png" alt="Cover for SB#2" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Gramatik</td>
@@ -1839,7 +1880,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/ZX5UofZqCfFCiXJH1i9bw0f8VWbVoIrcOcyIxCzLEw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Njgx/MzEtMTQxOTk2Mjgw/MS0yOTI1LmpwZWc.jpeg" alt="Cover for SB3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b17e3384c5cc717e88d2a4a6251a60b.png" alt="Cover for SB3" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-01</td>
       <td>Gramatik</td>
@@ -1857,7 +1898,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/62u3LjSjiYhvGVoIfUu5dErxJE0ojQMqs7YpLNV0hgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjQy/OTItMTQxNjQ5MTM0/MS02NzMyLmpwZWc.jpeg" alt="Cover for Sabor 12" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1918,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/jqyi_XyAW7QoR8jVl-houHg5FQ-9dAZXMWpTi6j46B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzY5/NzktMTQwODAxNDM0/NC01OTcwLmpwZWc.jpeg" alt="Cover for Hullabaloo&#x2F;Calypso Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1955,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2014-11-24</td>
@@ -1933,9 +1974,9 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/en2UJCYf7vX2OWYvD4YBh2nh2l37dHVrMGA4flApIOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzI4/OTgtMTUxMTY1NDQz/OS05ODI0LmpwZWc.jpeg" alt="Cover for Black Focus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2c1fdcda3dccd2db7fb9958a7cbf181.png" alt="Cover for Black Focus" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-04</td>
       <td>Yussef Kamaal</td>
@@ -1953,7 +1994,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/m8k_plAQJLM9fFYJ5nzqsDiX9ARO5NFjQwPfF1YAYQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTI0/MjItMTY3NTc4Mjg2/My0xOTQ4LmpwZWc.jpeg" alt="Cover for Young Death &#x2F; Nightmarket" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4b562da88adf284f77e7cde76cf1b5e.png" alt="Cover for Young Death &#x2F; Nightmarket" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-28</td>
       <td>Burial</td>
@@ -1968,14 +2009,14 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 87</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/eFyH40TAuCX6U-J1omCUNR2fU62Lbea9dFvsbpmkeNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM1/ODQxLTE1NDg2ODg0/NjgtNjM3NC5qcGVn.jpeg" alt="Cover for 47019" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/606c2bc3fa3a216ff2232e9abb414de6.png" alt="Cover for 47019" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-01</td>
       <td>Oake</td>
@@ -2000,7 +2041,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/gtAABQyywBMrUMtFWbiiY2L0OVT_hCYxbYkuG9dA9EI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODY2/MjgyLTE2MTAyOTYy/NTMtMTM5My5qcGVn.jpeg" alt="Cover for Slow Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d90bed9ad168ec7e18e2f089ab87ada5.png" alt="Cover for Slow Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-13</td>
       <td>Khromi</td>
@@ -2019,7 +2060,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/1mELtylxJ1mtZOrM_qN-_dRjFIKmF3lKuaoWqQ311kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODkz/ODgzLTE1OTk3Mzc1/OTMtMzgxNi5wbmc.jpeg" alt="Cover for Kwiatostan" style="max-width:120px; height:auto;" />
       </td>
@@ -2037,7 +2078,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/_oZ_P2BmA__NPlvkw_SuyhWpDMoF7HVOHhFGoPFPkbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYw/ODE1LTE2NTIwNDk5/MjktNDk3OS5qcGVn.jpeg" alt="Cover for Opal" style="max-width:120px; height:auto;" />
       </td>
@@ -2054,26 +2095,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/2xhuttJV7uRNmTi8NsaahFhhdScShaVc8MKhFcqjoLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzcy/MjI1LTE2Nzg0NjU1/ODctMTc5Ni5qcGVn.jpeg" alt="Cover for Take It Slow" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-02-03</td>
-      <td>Boozoo Bajou</td>
-      <td>Take It Slow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2097,7 +2119,7 @@ Broken beat is an electronic music genre that emerged from London&#39;s West End
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
