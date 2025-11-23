@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:33:18.812Z
+date: 2025-11-22T18:19:36.170Z
 permalink: tags/blue-eyed-soul
 title: blue-eyed soul
 ---
 
 ## blue-eyed soul
 
-Last updated: <time datetime="2025-11-18T09:33:18.812Z">Tue Nov 18 2025 11:33:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T18:19:36.170Z">Sat Nov 22 2025 20:19:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/957c1c7a66364f90955977e43fc824db.png" alt="Cover for Jaye P.Morgan" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb613e0ab55c4ca4a324fe923779cc14.png" alt="Cover for Blowin&#39; Your Mind!" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 68</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -110,7 +110,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47d94149a0844730d00eafb9b5d50d3a.png" alt="Cover for Astral Weeks" style="max-width:120px; height:auto;" />
       </td>
@@ -124,12 +124,12 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 12</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0696899b87f70e93b2f31ffefa7168f0.png" alt="Cover for Dusty In Memphis" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>1969-06-17</td>
@@ -161,7 +161,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 49</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 51</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 95</li>
         </ul>
       </td>
@@ -188,7 +188,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>1970-01-15</td>
@@ -222,12 +222,12 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 66</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a971212c79562e7dbef493d03ea19d0.png" alt="Cover for Saint Dominic&#39;s Preview" style="max-width:120px; height:auto;" />
       </td>
@@ -236,8 +236,6 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       <td>Saint Dominic&#39;s Preview</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
@@ -279,7 +277,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 6</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 8</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 18</li>
         </ul>
       </td>
@@ -318,12 +316,12 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 72</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9577c49c8a96c41dbc682be9fc04c829.png" alt="Cover for Jerry Corbetta" style="max-width:120px; height:auto;" />
       </td>
@@ -341,13 +339,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 30</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 29</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/227f3a3fc2654e10a3681c3e5bf71aea.png" alt="Cover for Mannequin" style="max-width:120px; height:auto;" />
       </td>
@@ -367,13 +365,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 57</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 56</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7ef9ae7f9620226576c2fb6a3eab839.png" alt="Cover for Bobby Caldwell" style="max-width:120px; height:auto;" />
       </td>
@@ -431,7 +429,6 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +447,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 67</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -475,13 +472,14 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 90</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 16</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1980-07</td>
@@ -515,12 +513,12 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 77</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a680c2d8fa4029a711c33a5d26f5b7.png" alt="Cover for Too-Rye-Ay" style="max-width:120px; height:auto;" />
       </td>
@@ -575,13 +573,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 74</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 77</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e856e6fe008f6b55b32144cb48e0d4f.png" alt="Cover for Extra Texture (Read All About It)" style="max-width:120px; height:auto;" />
       </td>
@@ -614,8 +612,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 4</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 3</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -638,13 +636,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 78</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 80</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b66eeb1aac1aca04734b0d9d4c09b0d.png" alt="Cover for His Band and the Street Choir (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +661,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1983</td>
@@ -681,13 +679,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 31</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a12d150c799c416daef11949670485c8.png" alt="Cover for An Innocent Man" style="max-width:120px; height:auto;" />
       </td>
@@ -702,10 +700,10 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 32</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 47</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 48</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 33</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 49</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 55</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +742,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 47</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -785,7 +783,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/xz54P9AS1Fu9jygd9hiZ7hju3OtPf-lCKUPmsHAi1VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTU3/MS0xNTMzNjcyNzU1/LTY3MzYuanBlZw.jpeg" alt="Cover for Men and Women" style="max-width:120px; height:auto;" />
       </td>
@@ -804,33 +802,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4ea3ff684c4770a9b7803ab998c4b34.png" alt="Cover for Older (Expanded Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>George Michael</td>
-      <td>Older (Expanded Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c11689dff9b512285ec7627b390fb60.png" alt="Cover for Men and Women (Expanded Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -888,7 +860,29 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 2</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79dfbab85b92291c2ca3cf57a5e7e942.png" alt="Cover for The Authorized Bang Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Van Morrison</td>
+      <td>The Authorized Bang Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1008,7 +1002,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0999b930f8246c591d7817cda8b5151.png" alt="Cover for Lisa Stansfield" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,7 +1042,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/Uqs2cjRHmADUXQl-u2UXBjlf4C2Vv99fuhIKA8Cs0H8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEw/NTM4LTE1ODM5MjE5/ODgtNjU0Ni5qcGVn.jpeg" alt="Cover for Music From The Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cca6af4322bb44d19feff794bcc84baa.png" alt="Cover for Music From The Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Blues Brothers</td>
@@ -1067,7 +1061,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/yZ33IZ-yJ33BKlDcsMv0qNQvBGXEU6AOy02APg64IE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA4/NC0xMzAxNjM3MzY5/LmpwZWc.jpeg" alt="Cover for Searching For The Young Soul Rebels" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1099,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/km4aV2K_O8EhJSsP9xzzKrZn4iAANX2i3sdNghkF8J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzI1/NS0xNjYwMTMzODUz/LTE2MTcuanBlZw.jpeg" alt="Cover for Searching For The Young Soul R" style="max-width:120px; height:auto;" />
       </td>
@@ -1123,7 +1117,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bcf1faa9321f336f23167f5406077ed.png" alt="Cover for Hello, I Must Be Going (2016 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1200,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a16a28e986d3cfb26d69155391f9e3bb.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1220,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/V-skov50CQ0Ze8fyNLqOc8iqDxCLSZKexLonm8Xl_Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzE3/ODgtMTQyOTkzMDM2/Mi0yOTE4LmpwZWc.jpeg" alt="Cover for Timi Yuro - The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1242,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c946ef3258f440efc09df9a7a1786f68.png" alt="Cover for Feel Your Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1264,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc48f8a4278547d2962fb81c4f8ea764.png" alt="Cover for These Are The Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1291,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9f61e2b100d47d7a47a549319619422.png" alt="Cover for The River In Reverse" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,7 +1308,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 65</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1341,13 +1335,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 19</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 17</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24536532c5c85b558ad71754d33ad42.png" alt="Cover for Young Americans (2016 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,13 +1355,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 10</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 29</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 9</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4898bcfb4e24086a35fc6e0b7be7912.png" alt="Cover for Keep Coming Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1433,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2846d2b0f74529838e27570aa87387.png" alt="Cover for Musically Adrift" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1451,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 34</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 33</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 63</li>
         </ul>
       </td>
@@ -1482,13 +1476,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 44</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 42</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/_5T6ltZLZfakefGpiHl6keftLEpBnqTJyCopg_nviiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY2/MDQtMTU3MTQ4Mzc5/OS03MTA3LmpwZWc.jpeg" alt="Cover for Keep Movin" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1500,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 73</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 76</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 89</li>
         </ul>
       </td>
@@ -1551,7 +1545,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2012-05-21</td>
@@ -1569,7 +1563,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c76bf9192f74f1fcfb44daceab54ad6.png" alt="Cover for Sunken Condos" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1584,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5586d6d55124493a8e5167ffc178515e.png" alt="Cover for Rhino Hi-Five: Robbie Dupree" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,13 +1603,13 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 37</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f0b584dbf84221b1748744392c5904.png" alt="Cover for Where Does This Door Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1627,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2013-07-29</td>
@@ -1649,7 +1643,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 73</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1667,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/NjQ6AP-FkS2s4it-L9oAHr5OJHq0v5duG5GWrEX3cZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTE4/NjQtMTUxNTE4OTk0/My05MDgxLmpwZWc.jpeg" alt="Cover for Rock &amp; Roll Is Cold" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1762,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 80</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 84</li>
             <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 95</li>
         </ul>
       </td>
@@ -1813,7 +1807,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee696020eaf084d66ff8e2848fa8f1b.png" alt="Cover for Picture Book (Expanded Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1824,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb435a4deb6e3cb5016b9283e9401ec.png" alt="Cover for Station To Station (2016 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,8 +1837,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 6</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 73</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 12</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1867,7 +1861,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/cdNNJVMgDY7_Q5tMc_t5aVHtr9uukTcjz2keB6rwZlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc5/OTU1LTE1MjA1NDEw/MjAtODE4OC5qcGVn.jpeg" alt="Cover for One More Try" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,12 +1876,12 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 20</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/KRp6wjtMPWytCDJTl-o_zqG8aVd1A-vWhhxR7RUL1jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTM3/MTE2LTE1MjUwODA1/OTYtOTQ0Ny5qcGVn.jpeg" alt="Cover for Favourite Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,7 +1955,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 96</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2035,12 +2029,12 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2057,7 +2051,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2088,4 +2082,4 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
-- [pop soul]({{ "/tags/pop-soul" | relative_url }})
+- [british]({{ "/tags/british" | relative_url }})

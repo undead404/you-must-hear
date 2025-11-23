@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:35:12.169Z
+date: 2025-11-22T18:21:06.266Z
 permalink: tags/quartet
 title: quartet
 ---
 
 ## quartet
 
-Last updated: <time datetime="2025-11-18T09:35:12.169Z">Tue Nov 18 2025 11:35:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-22T18:21:06.266Z">Sat Nov 22 2025 20:21:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/OpACj_DEZCkJu4XBJe6x5odR8BjcopJo3ZSQctsz4fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/OTM4LTE1MTkyNjA0/MDgtOTczMS5qcGVn.jpeg" alt="Cover for Bibletone: Best of Rangers Quartet, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/uQD9wXNmw1bwMQeceaYpCO-Av4ZjAnSlnmRPTm6p4zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/NDI4LTE1MTIyMjY4/NTYtNDU1Mi5qcGVn.jpeg" alt="Cover for Bibletone: In My Father&#39;s House" style="max-width:120px; height:auto;" />
       </td>
@@ -78,6 +78,24 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ab43f34bce22e130568ba6dc47dd661.png" alt="Cover for Work Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1960</td>
+      <td>Nat Adderley</td>
+      <td>Work Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -103,7 +121,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 67</li>
             <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 74</li>
         </ul>
       </td>
@@ -128,7 +146,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/BiZrNMGonN5Ia3mDETg__s9xNt4fXcNeZpDs-P3Uvcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDc2/MDctMTQ3MDAxNDQ2/NS03MTk5LmpwZWc.jpeg" alt="Cover for Bartók - String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +205,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/IcOxjrshRbyoYI700_RLKSDYci_sG_ue3BETMJoi8lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY4/MDUtMTQ3NDQ3MjQw/Ny05MjY0LmdpZg.jpeg" alt="Cover for Quatuor pour la fin du temps [정, et al.]" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +222,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/b5HhdgUkgZ9ImOgxseoCUrYyqf5kQSJxovId2eUItlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTk1/MDctMTYxNzc2OTYz/NC05NDM3LmpwZWc.jpeg" alt="Cover for J. Jongen: String Quartets Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +257,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>1987</td>
@@ -255,7 +273,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>1989</td>
@@ -271,7 +289,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/YAl8SQv45aFSnG7A3Q4nNVrfTmeQhM8aJ7h7-58b3B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI4/MzY5LTE1MDMyMTM3/NzktNDQwMC5qcGVn.jpeg" alt="Cover for Haydn: String Quartets Op. 76, Nos. 4 - 6" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +339,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/iW9oYoYympfJpKm4Y2A6BazUvJeZSet5lfBvJYMWZ5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU2/NzIzLTE2NTkyNzkw/NjctNDc5Ny5qcGVn.jpeg" alt="Cover for String Quartets vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +359,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>1992</td>
@@ -373,7 +391,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a018de241f70319fb077af89274a61f.png" alt="Cover for Aunt Ann" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +416,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/mL5ftm6_1Bd_cvP3LtyAVQASmkZY_4Q_jQX1S0p1OqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/ODk1LTE1NzM0MDg0/NjYtOTkxMy5qcGVn.jpeg" alt="Cover for Magnard, Faure: String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +565,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/ARybt63Ht6DI2HOeQT1j9s4YUbZODvHiKM3VTQrrBf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE2/NDk2LTE1NzI5MDc0/ODYtODY1Ny5wbmc.jpeg" alt="Cover for Mozart â€“ Music for the Oboe" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +599,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/lyqoAXwgj2-cuRZ2I8WpsLToE7DqAGWK_ESBRRACIo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTA3/MjctMTUyMzk1NzEx/OC00MzkxLmpwZWc.jpeg" alt="Cover for String Quartets Nos. 4 and 5" style="max-width:120px; height:auto;" />
       </td>
@@ -617,25 +635,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/qkAdOKaxHBIZiV_drPA3Jb64EXr4L8ElN3wDBz52_Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTgz/OS0xMzk3NzY4NDA0/LTI3NTcuanBlZw.jpeg" alt="Cover for シューベルト:「死と乙女」「ロザムンデ」　85" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Alban Berg Quartet</td>
-      <td>シューベルト:「死と乙女」「ロザムンデ」　85</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/w_tnYZ5qDa4pRF-YIPBgK5qZGJbE_EBMBeTA5KprJ9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQ5/OTYtMTQzOTgyNzky/NS03NjY2LmpwZWc.jpeg" alt="Cover for Björk And The Brodsky Quartet at Union Chapel" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +672,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/UilGfNHV35VXl933d_EGiQGneSJG8l1MiPmRZPAFTqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTg5/NjQtMTUzMDU2NDEx/Ny05MzE5LmpwZWc.jpeg" alt="Cover for Nostalgia" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +725,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/YQp2l1S2QAnJRmmZDY3XaJBAeQPTxj2LKbtpnAgQ5zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgy/Mjg4LTE1MDk1Mjky/NjktMzIzMy5qcGVn.jpeg" alt="Cover for hesitations" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +745,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Rlf1OOnB8zQw0KRH5knn7JQoJlY7EuLN6S7JTviP9g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjU3/OTE1LTE2Mjc0OTUz/NDktNzI2MS5qcGVn.jpeg" alt="Cover for Cherubini: String Quartets Nos. 1 in E Flat Major and 2 in C Major" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +782,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/I-jeai3o4QcCO-ugDJCKWgZajoeRO_NsL3ESiDAwaM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDYy/MjIwLTE2MjMxNTE1/MTctMjU1MS5qcGVn.jpeg" alt="Cover for PIZZETTI: String Quartets in A Major and D Major" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +883,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/yGjyK9CvahvJMVYDdE4D0BwUPbzWjbyQKshoW8bVu3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/MTcxLTE2MTAyMzI0/NDEtMTE2Ny5qcGVn.jpeg" alt="Cover for Herzogenberg: Piano Quintet op 17, String Quartet op 63" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1087,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 39</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1110,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/PZ-mgtmc65PpfPHD95vUtuSAwsbggRC0IAMnFfC6oZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDE2/MjEtMTM1MTk0Nzc2/MS0xMzQxLmpwZWc.jpeg" alt="Cover for Shifted (feat. Pascal Mohy, Jeroen Van Herzeele &amp; Lieven Venken)" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1157,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/KQc2_85g-euIvNnGKOMVqVZBC6pTF4uiiNE61bUsLT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/Njc2LTE1NTE0MDU4/MTAtNDk3OS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1206,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2013-12-16</td>
@@ -1230,7 +1230,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/mdFagPCA58Lv6xr27spZaqIkMFZUc0qLlbk7UriQW9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTI0/OTEzLTE2Nzk2NTgz/NzktMTg2NS5qcGVn.jpeg" alt="Cover for Bottesini: String Quartets in B Flat Major &#x2F; F Sharp Minor &#x2F; D Major" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1300,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>2016-01-22</td>
@@ -1319,9 +1319,8 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/465QFpa1Lu5zC5Dt3tMaB4ggvcQjJMxc23MhuIu2XD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg3/NzEwLTE2NDM5MDE1/NzEtMzc3NC5qcGVn.jpeg" alt="Cover for refutation of time" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>volcano radar</td>
@@ -1400,7 +1399,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/txZoGN4PP1_qiyWIDy9wBoJIdf7js1d9zG4hyxg450s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEw/ODI4LTE1ODY4MDcx/NzctMzU1OS5qcGVn.jpeg" alt="Cover for Toch: String Quartets 7 &amp; 10, Dedication - Buchberger Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,7 +1416,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/f78-nvwqN7aSazSq-wY93SzEMNtCLM406N4kOado0HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc1/NjAzLTE2MzQ0NzY1/ODMtNTAzOC5qcGVn.jpeg" alt="Cover for Salvatore Sciarrino (La Bocca, I Piedi, Il Suono)" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1433,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1575,44 +1574,6 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
       </td>
       <td></td>
-      <td>Patricio da Silva</td>
-      <td>Piano Quartet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lute" | relative_url }}">lute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
       <td>Giulio Genovese</td>
       <td>Presages</td>
       <td>
@@ -1627,7 +1588,26 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Eujineus</td>
+      <td>Eujineus Quartets 2012</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1645,7 +1625,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1664,7 +1644,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1689,7 +1669,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1707,7 +1687,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1728,7 +1708,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1749,7 +1729,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb260d8b7cf2418f806fdb475abff46a.png" alt="Cover for I&#39;m On My Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1748,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1788,7 +1768,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -1807,7 +1787,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1825,7 +1805,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2114,7 +2094,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
