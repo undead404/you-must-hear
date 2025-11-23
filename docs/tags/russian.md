@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T06:03:37.709Z
+date: 2025-11-23T10:13:45.796Z
 permalink: tags/russian
 title: russian
 ---
 
 ## russian
 
-Last updated: <time datetime="2025-11-17T06:03:37.709Z">Mon Nov 17 2025 08:03:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:13:45.796Z">Sun Nov 23 2025 12:13:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/75rtQyLxC05RlravecmpQ0mXnQQLp8jx_OXQ-nDHjUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODc5/NzgtMTY1MzA4NzU4/MS0yNDEyLmpwZWc.jpeg" alt="Cover for Десять стрел" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1989</td>
@@ -161,24 +161,6 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63b57a1baa3e4ae7a97e8c1a8d0099fe.png" alt="Cover for Ворона" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-12-04</td>
-      <td>Линда</td>
-      <td>Ворона</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f56c69c5b5468daf9548eb1085912f.png" alt="Cover for Морская" style="max-width:120px; height:auto;" />
@@ -218,7 +200,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1997-06-15</td>
@@ -237,7 +219,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/296aa7128f44c662851f8c68a98ce975.png" alt="Cover for Май &#39;68" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +239,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1999</td>
@@ -330,7 +312,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2000-03-08</td>
@@ -397,12 +379,12 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 21</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd0b701b6914141cf22a24252bccfdc0.png" alt="Cover for Течение" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +402,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ab096806c14359c3b6a1d616bfab31.png" alt="Cover for Мяу кисс ми" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +420,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2001-12-10</td>
@@ -492,7 +474,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f3d3053ba7f3a5b04ab93283d435b21.png" alt="Cover for 200 KM&#x2F;H In The Wrong Lane (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +528,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2004-02-24</td>
@@ -625,7 +607,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f7f2e2344a46538ed6a30084714d4e.png" alt="Cover for Обратная сторона реальности" style="max-width:120px; height:auto;" />
       </td>
@@ -664,7 +646,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2005-06-06</td>
@@ -681,7 +663,27 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Ленинград</td>
+      <td>Бабье лето</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d79e224d30cf419e80dd4a5e33491fa9.png" alt="Cover for Магнит" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +701,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd375d8e3c52ffb4daf020fba81fbac.png" alt="Cover for Когда мы вместе, никто не круче" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +739,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c0f91e92d9f4f79916a58d58b425a4d.png" alt="Cover for Neversmile" style="max-width:120px; height:auto;" />
       </td>
@@ -798,7 +800,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2007-06-22</td>
@@ -811,12 +813,12 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 6</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/455998a1e9ac9dcbc088fba6d201ec39.png" alt="Cover for Амба" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +858,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/yfhqdGtvxlF_QLplL__JBua9YfKqh4RGfBF2uBOrnhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ4/MC0xMTMzMTkyNDQ1/LmpwZWc.jpeg" alt="Cover for Vozrozhdenie" style="max-width:120px; height:auto;" />
       </td>
@@ -872,12 +874,12 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 24</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fda8cdee93eab75b3df3d014d78d0c40.png" alt="Cover for The Greatest Hits Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -892,7 +894,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 62</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +918,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2008-11-01</td>
@@ -1008,7 +1010,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/997531244efc42f69d2a942d3741e69a.png" alt="Cover for Tricky" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1030,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/E8fGV8N58-qprFKvqxGxglvh1LkGnId_3Rgwt3G0K5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjU1/MzItMTI2NzU0Nzk5/Ny5qcGVn.jpeg" alt="Cover for Родилась Сегодня" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,7 +1050,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2010-03-19</td>
@@ -1100,7 +1102,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tnyNH9hr8-UhpdckKvESL84cCW326YnJBtzraTBPpi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQ3/NTEtMTMwNzU0NDM4/Ny5qcGVn.jpeg" alt="Cover for Burning Up, Lullaby" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1119,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011-06-04</td>
@@ -1134,7 +1136,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/S0b9zhuhkxMwaBJYBdyscPGisDh7HaK-v_iGCQxUJYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDQ1/NTgtMTQwOTY0Mzkx/Ny02OTE0LmpwZWc.jpeg" alt="Cover for Давай Забудем о Морали" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,6 +1158,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/230b487c4a1f4a179d882ada0977acfa.png" alt="Cover for Energia!" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-31</td>
       <td>Russkaja</td>
@@ -1248,26 +1251,26 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 22</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1289,13 +1292,13 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 64</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 66</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2014</td>
@@ -1334,7 +1337,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 55</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 96</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
@@ -1342,7 +1345,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48031fd7714a4da5cd8dfbce0b9000bf.png" alt="Cover for Ellipse" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,15 +1364,15 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 25</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 81</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 82</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 91</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2014-08-31</td>
@@ -1387,7 +1390,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba949c5854ff423fc2c12f4d26486823.png" alt="Cover for Vacuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1409,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 31</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 37</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 87</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
@@ -1414,7 +1417,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5c727813050c1c3b283dc6e8ddf1a83.png" alt="Cover for Алхимия" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1436,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1320c782ebb4c92cc6c3e45585a4317.png" alt="Cover for В душе драм, в сердце светлая русь!" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1454,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/4ui92dn3lLZ2J3UN6_SfPdrT7k7_T3H37JOhzxmhBQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTQ2/MTAtMTQyOTQwMjI2/Mi0xNjc5LmpwZWc.jpeg" alt="Cover for Vetvi" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1593,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a41da6cedc96b21a10c4a88f635a203.png" alt="Cover for Тает лёд" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1674,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0d665a2b1721b0f1dc30b11a2542371.png" alt="Cover for ЧБ" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1693,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/819a034782384bd8abb4f9bb3ffe3372.png" alt="Cover for Дорогие москвичи" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,13 +1748,13 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 31</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 37</li>
             <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0cf870309eaf99d3e2138ca9dd4957b.png" alt="Cover for Нам остается лишь ждать" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1796,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9489f6a7e25316329040af14c16cc9e5.png" alt="Cover for Кривой эфир" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,15 +1869,15 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 61</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 44</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 62</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
@@ -1942,7 +1945,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2021-03-03</td>
@@ -1978,7 +1981,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/0JzFRZ74Ifyl7o9_k7Y2INsC_Czp5ruWYGNrZCW3ARE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQ0/Mjc5LTE2MzAyNzY5/MjQtOTY0MS5qcGVn.jpeg" alt="Cover for The Best of the Red Army Choir" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,7 +2004,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00c2d12417d36aebf34924b897e9bc72.png" alt="Cover for Miss" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +2024,7 @@ Russian rock and alternative music emerged from Soviet underground culture, blen
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb85417b5f3310b64cfc88eda771fc02.png" alt="Cover for Imago" style="max-width:120px; height:auto;" />
       </td>

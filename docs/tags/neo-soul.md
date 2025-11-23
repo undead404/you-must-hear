@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T09:45:21.978Z
+date: 2025-11-23T10:11:26.794Z
 permalink: tags/neo-soul
 title: neo-soul
 ---
 
 ## neo-soul
 
-Last updated: <time datetime="2025-11-15T09:45:21.978Z">Sat Nov 15 2025 11:45:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:11:26.794Z">Sun Nov 23 2025 12:11:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
   </thead>
   <tbody>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/BwhiR3LY5CcKMZtszGXBxI15AT-NZROFNMtvMcwGIVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/OTkzLTE1ODE2NzMy/MjgtMzIxOS5qcGVn.jpeg" alt="Cover for I Can See The Change" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/CgNj3JwkcV6u5fTEnh9012T-W0bIQ5Vc3EknJk16ZbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njkw/MzExLTE2MTQ4ODUy/MDktMzk2MS5qcGVn.jpeg" alt="Cover for La vie en rose" style="max-width:120px; height:auto;" />
       </td>
@@ -89,12 +89,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98de1f5cf9594bc35bdbead4d8fc2dd2.png" alt="Cover for Black Messiah" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e908f8c5e95b511a394bae27279e8960.png" alt="Cover for Baduizm" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d525b9724ca5ccbb3aebf48918bd632b.png" alt="Cover for Aquemini" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ee95dec29a248f79286e0e6d78035bc.png" alt="Cover for Infinite Possibilities" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2abd5ffdfb15f156135e2b53f343fc0f.png" alt="Cover for Voodoo" style="max-width:120px; height:auto;" />
       </td>
@@ -181,7 +181,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ef6da34afff11bbe4bf08c58070cd6a.png" alt="Cover for Mama&#39;s Gun" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +198,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de252275b68a38b212f046a39adf58c5.png" alt="Cover for How I Do" style="max-width:120px; height:auto;" />
       </td>
@@ -216,7 +216,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e16ba10485d243088ea7d888005dfb42.png" alt="Cover for Luvanmusiq" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +235,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/169120d70b95745f80ea7475d4d012cf.png" alt="Cover for Floetic" style="max-width:120px; height:auto;" />
       </td>
@@ -253,7 +253,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f74ad8110ce9aff69178a6561e6adfb.png" alt="Cover for The New Breed" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +272,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b3308a458f4e30ab2d500791cdf6db.png" alt="Cover for Presents: The Vault - Vol. 1.5" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +290,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b070f31153f4ed2996e3e09be2192fd.png" alt="Cover for Worldwide Underground" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/790689e28a7d48259769427e01cb241f.png" alt="Cover for Comin&#39; From Where I&#39;m From" style="max-width:120px; height:auto;" />
       </td>
@@ -325,7 +325,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76047e2419bc47338335aba263a49c54.png" alt="Cover for Get Lifted" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04175a9d24914f29cfa83b2b602598c9.png" alt="Cover for Flo&#39;Ology" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +361,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5f06630a8d24db747201aff4ca86908.png" alt="Cover for Corinne Bailey Rae" style="max-width:120px; height:auto;" />
       </td>
@@ -374,13 +374,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 6</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 11</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e037e23fb14d8cacea9b5ddfb18456.png" alt="Cover for Atlantis - Hymns for Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -398,12 +398,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d385da5595d403f9430d5a9adec7f5e.png" alt="Cover for Once Again" style="max-width:120px; height:auto;" />
       </td>
@@ -418,12 +418,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 33</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
       </td>
       <td>2007-03</td>
@@ -436,12 +436,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 51</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdec242db9d74394a9cc248a006a2d13.png" alt="Cover for So Much Better" style="max-width:120px; height:auto;" />
       </td>
@@ -461,7 +461,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/054d88071fd2b719f4f1aacca7b0c408.png" alt="Cover for Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -476,14 +476,14 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 32</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 59</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 35</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47587bfd8ad164f54636e674837fe856.png" alt="Cover for BLACKsummers&#39;night" style="max-width:120px; height:auto;" />
       </td>
@@ -500,7 +500,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/oNEybonZoCF11oaxhvCHpZOyFxSPNFZw2VmHgYGmIuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDUx/MzctMTMyOTUyMjcy/MS5qcGVn.jpeg" alt="Cover for New Amerykah Part Two: Return Of The Ankh" style="max-width:120px; height:auto;" />
       </td>
@@ -519,28 +519,6 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3e82366ec6110b341016a894f662862.png" alt="Cover for The Lady Killer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-11-05</td>
-      <td>CeeLo Green</td>
-      <td>The Lady Killer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 70</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>97</td>
       <td>
           <img src="https://i.discogs.com/YY0AaAg6_5Eo262xxA3_bP7xJaCYxcFxiHcONO54XoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM5/NjMyLTE2NDc4MjA4/MjUtNDM2MC5qcGVn.jpeg" alt="Cover for Igor" style="max-width:120px; height:auto;" />
@@ -554,10 +532,10 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 33</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 44</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 32</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 47</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -604,7 +582,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553678d27570452839aec0fd0cdadd63.png" alt="Cover for channel ORANGE" style="max-width:120px; height:auto;" />
       </td>
@@ -618,15 +596,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       <td>
         <ul>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 5</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 15</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 58</li>
             <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/KELPpb3d3VQ_cGTN6Xi2O9h0SXUBgK5e4HJ9u0QNV8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjM0/NzktMTQ5NjExMjU1/Ny03Nzg5LmpwZWc.jpeg" alt="Cover for ASHA’S AWAKENING" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +626,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>58</td>
       <td>
       </td>
       <td>2013-04-01</td>
@@ -660,38 +638,16 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 55</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 57</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd80b8f9d5ee09c16f1063e27f00699.png" alt="Cover for The Electric Lady" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-09-09</td>
-      <td>Janelle Monáe</td>
-      <td>The Electric Lady</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 16</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 51</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f636525495f1458c7c55f238eb8e27d.png" alt="Cover for Because the Internet" style="max-width:120px; height:auto;" />
       </td>
@@ -704,15 +660,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 17</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 36</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 41</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 46</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d168c57714450bc515f35d6b1d78ff.png" alt="Cover for Z" style="max-width:120px; height:auto;" />
       </td>
@@ -728,12 +684,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 75</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 89</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/BpMRfF1eRJW1lvtVGwKomLlRgyanv1CPkyqzMKCufws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzg1/NDAtMTY4MTY2MzI2/MS04ODAzLmpwZWc.jpeg" alt="Cover for CTRL" style="max-width:120px; height:auto;" />
       </td>
@@ -772,7 +728,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
       </td>
@@ -787,15 +743,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 62</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 89</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace5146e5e30d48dc5ebea52531b42aa.png" alt="Cover for Venice" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +769,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86b35c4eb3c479da49c915d8771bbd1a.png" alt="Cover for To Pimp a Butterfly" style="max-width:120px; height:auto;" />
       </td>
@@ -822,23 +778,23 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       <td>To Pimp a Butterfly</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 10</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 58</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 73</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 69</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 70</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/xPcd24YGbP4N0h8HalqUAYYB-kdMsQllRxMnYgrJ9BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTA3/MTgtMTQ2OTYzMjIy/OS04NTQ5LmpwZWc.jpeg" alt="Cover for Warm On a Cold Night (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -863,15 +819,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 12</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 72</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 11</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 54</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 75</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c92f044b27db86328ed6be3f8a735a.png" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -884,15 +840,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 66</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 69</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 77</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fa380ceb25e7f6cf2453b5d9999c2b.png" alt="Cover for Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +871,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ec5ee7537c17ba893d07309bd09ef99.png" alt="Cover for Durand Jones &amp; The Indications (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -933,7 +889,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edee592b524202c55d031b5d99c04e41.png" alt="Cover for Mantra" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +916,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4875922ae794adc5f857fc6c44ca6e6a.png" alt="Cover for A Seat at the Table" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +933,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4f6f6f537a28b6b15f793515b95452b.png" alt="Cover for &quot;Awaken, My Love!&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -990,13 +946,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 52</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 87</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 53</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e249393bc7e6f683ddcfdd77449a3c5.png" alt="Cover for Standing On The Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,13 +966,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 51</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 54</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06933f2e9e911ae0336838ca578cd357.png" alt="Cover for Into" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +998,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee339d3fff04eb1c17f1a37d6283c893.png" alt="Cover for Drunk" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,13 +1011,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 39</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 67</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 50</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/625d8735f4f0bf1cbf3c779fd4746bdc.png" alt="Cover for American Teen" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,14 +1032,14 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 16</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 37</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 39</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcc1f99ede88299b3674522c6b2923eb.png" alt="Cover for Freudian" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,12 +1052,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ced2478bff9e39fd2ef5e0489aa901cf.png" alt="Cover for Aromanticism" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,11 +1087,11 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 7</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 15</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 93</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 98</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1153,15 +1109,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 9</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 20</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 37</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 16</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 38</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 41</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1184,7 +1140,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6478a83131ab90c1017f8fa1a8f4ec27.png" alt="Cover for Cocoa Sugar" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,7 +1158,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5819847ff26ff9c8f90beb657b9ad49e.png" alt="Cover for Feng Suave" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,13 +1171,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 40</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 42</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/lr9Eq4mNUzeaC7dWtliP9FDjQKNXDJwjAepT8V8JcF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/MTIwLTE2ODg3NDkw/NjgtMzgzOC5qcGVn.jpeg" alt="Cover for care for me" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,14 +1194,14 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 13</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 90</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 23</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf56b9acc7cdf77704bd0a9dbb602c65.png" alt="Cover for Isolation" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,7 +1219,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd328d9700d4161c65f2f92ea2ec6245.png" alt="Cover for This Is America" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,12 +1234,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       <td>
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 85</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 90</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/9A0vBwhCzd-32aLZfo_vhjF4U-y6_5Kd-JpOwqAF53s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk5/MTczLTE1NDIxNjg1/OTQtOTkwMy5qcGVn.jpeg" alt="Cover for Stereo" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,16 +1258,16 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 54</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 53</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 84</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 97</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/0hmdRrouyGHqquH21Lp27m-4o3odsCP_x3FFSLfHseI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc4/MjQwLTE2NTk2OTk5/NDQtOTM1Ni5qcGVn.jpeg" alt="Cover for Ye" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,15 +1282,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 51</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 93</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 98</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 94</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a626370bcbb7ea337e7a9f927e493344.png" alt="Cover for K.T.S.E." style="max-width:120px; height:auto;" />
       </td>
@@ -1348,12 +1304,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/GmrKIEhJLX0VclJfKI5TVYRw-eoqDgefMMcDk4UiTGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI0/ODYzLTE2ODYzOTMy/ODItNTQ5NC5qcGVn.jpeg" alt="Cover for Lady Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,12 +1325,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/9n0pVvweIQ_2Js0x_pNcb_NYuGl3FIBE4lMY-PgCyr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI5/ODA3LTE2NDY1ODA2/NzAtMTQ3Ni5qcGVn.jpeg" alt="Cover for Last Day Of Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,14 +1347,14 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 84</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 84</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 86</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/9EBO0iX4m8FK202ZfJgqb95iqfgj1AsKR50wI9QWDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/OTc2LTE1OTczNTIw/MDEtOTM1OC5qcGVn.jpeg" alt="Cover for 1998 TRUMAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,18 +1375,18 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 96</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 99</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/IvK-y2QuP50ZtazL9r9rTjg-qo3c42dFfwL-xlPnyig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY0/NzU3LTE2MDY3NDcy/NDgtMzA0NC5qcGVn.jpeg" alt="Cover for LUCID" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1405,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e813ce75d488a42c937f605a5c984881.png" alt="Cover for The Lost Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,12 +1418,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 25</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92d109875aeb5db918d45964612a5bad.png" alt="Cover for Pony" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,13 +1436,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83b5283fa61d8df6e2e0466946027c16.png" alt="Cover for Apollo XXI" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,11 +1456,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fd5bc5de116097cb008d0b09576d216.png" alt="Cover for Circles" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1479,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40dbc8250bb1aad0266040b31b3634f0.png" alt="Cover for 3.15.20" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1496,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d87e522dbbf142a9ab3478cd601e46b.png" alt="Cover for græ" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1513,25 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6820b92477ea180d2007640a56e8f7.png" alt="Cover for Free Nationals" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-29</td>
+      <td>Free Nationals</td>
+      <td>Free Nationals</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/837364b9e40053257ebc3f53be5ba964.png" alt="Cover for Lianne La Havas" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1549,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/-I7p_pbGi_aNvJdbLio2DJ8vn-hClzzXk0uv2FU0V7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTUx/NzUzLTE2MDA3OTgz/MzItOTIyOS5qcGVn.jpeg" alt="Cover for Vergangenheitsbewältigung (Crater Speak)" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,18 +1570,18 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 81</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 94</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2aa0354e06545fb4736694ee8639b89.png" alt="Cover for Sin Miedo (del Amor y Otros Demonios) ∞" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,33 +1594,15 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 31</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 37</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 68</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 74</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f5fdb6f5f483a1bc30e667c2ce0c04f.png" alt="Cover for Heaux Tales" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-01-08</td>
-      <td>Jazmine Sullivan</td>
-      <td>Heaux Tales</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65deebffb9372e1dce5c60927d861a87.png" alt="Cover for Smiling with No Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,12 +1616,12 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 13</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b366b2bc01cdaf0d6f57fb971377a93f.png" alt="Cover for Be Right Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,30 +1639,30 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b9f23be9006d5e60b6ebee7a28c711d.png" alt="Cover for Roteiro Pra Aïnouz (Vol. 2)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1B-waeZbkNTIi3bB9xA154GIPmc7nTWIw8HTHtbukZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQw/MjM5LTE2MzE3MDcw/OTQtMzA5Mi5qcGVn.jpeg" alt="Cover for GUMBO&#39;!" style="max-width:120px; height:auto;" />
       </td>
-      <td>2022</td>
-      <td>Don L</td>
-      <td>Roteiro Pra Aïnouz (Vol. 2)</td>
+      <td>2021-09-03</td>
+      <td>pink siifu</td>
+      <td>GUMBO&#39;!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 83</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/soRLdN83rYIFlyRijhmqdNK5QWuTzvesjLs8hKQIWi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIy/NTc4LTE3MDY1NTYx/NDctODE0Mi5qcGVn.jpeg" alt="Cover for Get Used To It" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1682,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/QygW8EBGLGR5exwZHL-yNzsQZiYTv8UQzCkrq6EMeBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ4/OTIxLTE2NTEyMDY1/MzMtMjg0Mi5qcGVn.jpeg" alt="Cover for BLUE WATER ROAD" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1702,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b92b71c08c39a0aa90f0b43df510dc0b.png" alt="Cover for Hypnos" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1720,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/hKYlvYTEw0zAA4h6A6I37F90S42vb57V29P5VCf067k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzIw/MjM3LTE2NjE2NDE2/NTMtODg2OC5qcGVn.jpeg" alt="Cover for The Forever Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1740,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/1m83QEGsZhAVhSS-EurA_IqQAxG81HD-XV-3E5UMG64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU1/MzgxLTE1MjM4NzE2/NzktNzM1MS5qcGVn.jpeg" alt="Cover for Sun And Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,34 +1759,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45b2250447f604bcbf7d3417b7d387fb.png" alt="Cover for Melt My Eyez See Your Future" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-30</td>
-      <td>Denzel Curry</td>
-      <td>Melt My Eyez See Your Future</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 91</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6044a8163acfc5cb5f7fd68501e54e11.png" alt="Cover for Red Moon in Venus" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,35 +1773,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 30</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8846161e83464200d4271dd46493e698.png" alt="Cover for Sunrise Bang Ur Head Against Tha Wall" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-03-10</td>
-      <td>Nia Archives</td>
-      <td>Sunrise Bang Ur Head Against Tha Wall</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/aDYIMuhAvG0jYsp9SSIGrfaZHYD4AzVVA5gsn9FD8BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjEy/Nzc1LTE2OTQyNTky/ODktOTkxNS5qcGVn.jpeg" alt="Cover for exodus the north star" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,14 +1797,14 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 57</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 71</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44ea435ee3d95f5142a6fbdde6fe6939.png" alt="Cover for Lahai" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,13 +1820,13 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 41</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg" alt="Cover for orquídeas" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,15 +1843,37 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 45</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 2</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 22</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 48</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 82</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 94</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0b389bb4cbf522bc5a2b58e15b6620.png" alt="Cover for Chromakopia" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>Chromakopia</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 26</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79bd8328433569cf37009701dd677f49.png" alt="Cover for CARE FOR ME" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,12 +1887,73 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874304f6869f3db52ad965650ed5b85d.png" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>Cherry Bomb</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bed6cc4a2f68d3bb2228fbe6654b887.png" alt="Cover for CALL ME IF YOU GET LOST" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>CALL ME IF YOU GET LOST</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 86</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52a7f32bdc99238080b0f17e859b3b4d.png" alt="Cover for Flower Boy" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>Flower Boy</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1979,7 +1970,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bd547cbff6a3fe04745883e2b71cd17.png" alt="Cover for And Then Life Was Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -1997,7 +1988,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2014,7 +2005,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a501ff8a45dad345fff01696bb34fedb.png" alt="Cover for Lost And Found" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,7 +2023,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6a4d47385060baa02eea0339f074967.png" alt="Cover for Covers" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,7 +2041,7 @@ Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f922302652266472c5b8bced5123bb.png" alt="Cover for SOS Deluxe: LANA" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:21:11.137Z
+date: 2025-11-23T10:15:15.600Z
 permalink: tags/britpop
 title: britpop
 ---
 
 ## britpop
 
-Last updated: <time datetime="2025-11-19T20:21:11.137Z">Wed Nov 19 2025 22:21:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:15:15.600Z">Sun Nov 23 2025 12:15:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,13 +43,13 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 42</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 44</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a281e60486b0ba6eb110c5e0be2d0709.png" alt="Cover for The La&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -63,7 +63,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 63</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -101,7 +101,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +124,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a7484bee0df0d75af4eb58bdc181a30.png" alt="Cover for Laid" style="max-width:120px; height:auto;" />
       </td>
@@ -138,30 +138,6 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5ce51d704c949beb9f9a4f6251fca28.png" alt="Cover for Be a Girl" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>The Wannadies</td>
-      <td>Be a Girl</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 53</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +196,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/791b64e0459c1c5043ab5659ea9c649d.png" alt="Cover for High &amp; Dry &#x2F; Planet Telex" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +215,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cc9980532574806a8e2d8e70a6fb021.png" alt="Cover for Elastica" style="max-width:120px; height:auto;" />
       </td>
@@ -382,7 +358,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 64</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +403,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/674bb37b2e4b4732c7138f489d873cc8.png" alt="Cover for Expecting To Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +439,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/823ac734d866d318411fe6dd78630523.png" alt="Cover for Everything Must Go" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +458,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c69e13b9f19c4ab8988ab51736309aa9.png" alt="Cover for Coming Up" style="max-width:120px; height:auto;" />
       </td>
@@ -500,7 +476,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c46c2bd769d677ed0a9e2cb0b4f1b7c2.png" alt="Cover for Urban Hymns (Deluxe &#x2F; Remastered 2016)" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +491,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 73</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 94</li>
         </ul>
       </td>
@@ -538,7 +514,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/516eba3bb361ebd988a4654ae841405f.png" alt="Cover for Attack Of The Grey Lantern" style="max-width:120px; height:auto;" />
       </td>
@@ -563,6 +539,24 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       <td>1997-04-21</td>
       <td>Supergrass</td>
       <td>In It for the Money</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d1d008a010848e3c88b6a30e15b63c7.png" alt="Cover for Do It Yourself" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-04-28</td>
+      <td>The Seahorses</td>
+      <td>Do It Yourself</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
@@ -647,7 +641,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb465430c8141b9982944bd9e916e2b.png" alt="Cover for This Is Hardcore" style="max-width:120px; height:auto;" />
       </td>
@@ -738,12 +732,12 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 56</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70e4326b125e5269b36f0b5b8142cc39.png" alt="Cover for The Man Who" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +846,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       <td>
         <ul>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 38</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 63</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -930,7 +924,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a07528021bfb1b2cf373c70bfaf02b53.png" alt="Cover for We Love Life" style="max-width:120px; height:auto;" />
       </td>
@@ -998,7 +992,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 19</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1052,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cc6d8a1ed75af0f7c5c26a0e1a82f33.png" alt="Cover for I Am Kloot" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1139,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 27</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1170,7 +1164,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58a5f67e8c0340d4941209ae0bc3ea05.png" alt="Cover for This Is Music: The Singles 92-98" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1200,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/245b232cde684c23b6531acf5086a0db.png" alt="Cover for Employment" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1293,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1907f2913dbbad0629c3809eda18fb31.png" alt="Cover for Road to Rouen" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1332,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/oscmaY6iTTTRpJKb9V9iQ9WK-RojdHxIZ_c8hP1GR9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzUz/MDUtMTQxNzY5OTY4/MS02OTcxLmpwZWc.jpeg" alt="Cover for Ringleader Of The Tormentors (Deluxe Edition CD &amp; DVD)" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1350,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b106d5daac954f1fcf8be67bc683d85e.png" alt="Cover for Love Travels At Illegal Speeds" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1369,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2006-04-03</td>
@@ -1407,12 +1401,12 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd40acee0ca00da92c797580dce792bd.png" alt="Cover for The Good, the Bad &amp; the Queen" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1494,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       <td>
         <ul>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 75</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 98</li>
         </ul>
       </td>
@@ -1544,7 +1538,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d77fbb254d546adb59777bd025e4648.png" alt="Cover for Prospekt&#39;s March" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1592,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c92339423646e6b69812ed97c6e57f.png" alt="Cover for Stone Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1630,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2010-04-12</td>
@@ -1668,7 +1662,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 11</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1682,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 40</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 86</li>
         </ul>
       </td>
@@ -1712,7 +1706,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8b76f44449c117422964e24be2628ff.png" alt="Cover for Strangeland" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1724,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95efa11366be46cf9af9439ef44874ce.png" alt="Cover for Candy" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,7 +1765,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2092c968117941f8ac5e79fc151387b2.png" alt="Cover for Too Many Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1785,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18e20638faf14097a6f6d630ddcbb2b1.png" alt="Cover for Dog Man Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,13 +1838,14 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 2</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ce47cb608864cf2cc087749ab92866d.png" alt="Cover for Unity" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,9 +1915,9 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 46</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 48</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 95</li>
         </ul>
       </td>

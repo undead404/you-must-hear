@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:19:18.065Z
+date: 2025-11-23T10:13:13.998Z
 permalink: tags/drum-and-bass
 title: drum and bass
 ---
 
 ## drum and bass
 
-Last updated: <time datetime="2025-11-19T20:19:18.065Z">Wed Nov 19 2025 22:19:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:13:13.998Z">Sun Nov 23 2025 12:13:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
   </thead>
   <tbody>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/321ff2ffad4e402dc034dabf604165d2.png" alt="Cover for Timeless" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f712a749b665323b23deed46d5b84f11.png" alt="Cover for The Reworks" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ae223e3687a304d552319806c02edcd.png" alt="Cover for Earthling" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/538f2bde3d3babf448cad19b2c63f7cf.png" alt="Cover for Modus Operandi" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +120,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/wvq8SxfMSYc06szxUnJZ_Gl4eySBLMTgGOOK6uV8gbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjAt/MTQwODk4NDIyNy05/NTEwLmpwZWc.jpeg" alt="Cover for Weekend World" style="max-width:120px; height:auto;" />
       </td>
@@ -187,6 +187,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 5</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 57</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 64</li>
@@ -225,7 +226,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 57</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 78</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
@@ -262,7 +263,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 21</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 35</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 41</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 78</li>
@@ -275,7 +276,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06a0349c019744b0abe1146ba054e1d1.png" alt="Cover for Producer 01" style="max-width:120px; height:auto;" />
       </td>
@@ -293,7 +294,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2000-02-21</td>
@@ -357,21 +358,21 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d6bd3921021452b8892dd626fb303ca.png" alt="Cover for Resist" style="max-width:120px; height:auto;" />
       </td>
@@ -424,8 +425,8 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
@@ -466,6 +467,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 1</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 63</li>
@@ -473,10 +475,10 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 74</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 78</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
@@ -515,7 +517,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 72</li>
@@ -523,8 +525,8 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
@@ -559,7 +561,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 16</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 33</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 75</li>
@@ -598,7 +600,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 37</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 49</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 52</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
@@ -610,7 +612,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2002-06-24</td>
@@ -664,7 +666,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/FMQPcEkZif5L7H5z7IXYQw8dBYM8j33jcjRbzN_RVMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTU5/MDgtMTQ0MTgzMjAx/NS02NjgyLmpwZWc.jpeg" alt="Cover for Between II Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +686,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2004-02</td>
@@ -704,7 +706,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce250ba3678d4ffcb98129d0e3f6abef.png" alt="Cover for High Society" style="max-width:120px; height:auto;" />
       </td>
@@ -740,7 +742,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40e3b18bee6427182dbdb606dd4d86f.png" alt="Cover for Warlords Rising" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +779,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f418303ffb48618946c3972bc3005d.png" alt="Cover for Take Control" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +798,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e51f5efa1c51170bab81da9ada7f705.png" alt="Cover for Blood Sugar" style="max-width:120px; height:auto;" />
       </td>
@@ -815,7 +817,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2007-04-09</td>
@@ -832,7 +834,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2007-10-01</td>
@@ -849,7 +851,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/f0iX4ZkW4lqjNANQwYGBXGq5KBNeQ9q-Eq1Vkt5Mx0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/NTctMTE5NTkwMjYx/MS5qcGVn.jpeg" alt="Cover for Granite" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +869,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c576cd87481940cabe1b2a92f87e5d34.png" alt="Cover for Drop Audio" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +887,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2008-03-04</td>
@@ -922,7 +924,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df4290d71c161184d36e0eea7ffd2e82.png" alt="Cover for Timewarp &#x2F; Join the Dots" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +980,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/000e99b8eef842488f5f5a70266b17be.png" alt="Cover for Join The Q" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +998,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15af4193285b491e8c889bd8f217fdf6.png" alt="Cover for Drop" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1034,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66cf569fea794e3998bdd92ec311b274.png" alt="Cover for Live At Brixton Academy" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1052,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009-07-02</td>
@@ -1067,7 +1069,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eee8c0517a7a89a2228dfd59da25e931.png" alt="Cover for Sub Focus" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1128,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/FTRgovEDd9pVjPygMeY1APx2-t7gPhqbnrIoZD7O6Eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTcz/NzQtMTI2NDc3NTcx/MS5qcGVn.jpeg" alt="Cover for I Refuse &#x2F; Midnight Express" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,7 +1201,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87aba48763b94dc6b5763e9f1750ac02.png" alt="Cover for Split the Atom" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1221,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0afec2fa17724c85b786d1e7d1041cd2.png" alt="Cover for Spirit In The System" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1276,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e08b273b4658dd4351ad412d9e9536.png" alt="Cover for Cross the Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1300,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2012-05-14</td>
@@ -1315,7 +1317,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f2380402074d4cb58f9f3cdb8f8094.png" alt="Cover for 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1354,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2012-11-05</td>
@@ -1387,7 +1389,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-09-30</td>
@@ -1404,7 +1406,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa82f0d350c64d8bbe0e3bd61f949da1.png" alt="Cover for Brand New Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,13 +1424,13 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 80</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 81</li>
             <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/sLWecyG_AGX9RMe3rUbhHvnHiE2lrArIEMSGFTUA_9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODIy/MjktMTQxMzExNDQ3/Mi04OTQ4LmpwZWc.jpeg" alt="Cover for Pale Blue Dot" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1448,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/luO6P7acPObhyUHAyn8I0VjlLic-MHPXM_r8owlCQB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjQ2/NDYtMTUyMDEwMjAz/Mi04MzU0LmpwZWc.jpeg" alt="Cover for Bruises (Destinations)" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1529,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 36</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
@@ -1546,7 +1548,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/FQ_uSR_ZqLQkSwZAJXQXO6EFo0dt51S6e9lZV7x5dOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODMx/MDMtMTQ1Mjg5ODQ1/OS0yNzU4LmpwZWc.jpeg" alt="Cover for Open Page" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,7 +1568,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/EMS35uE-ZLVLkgJwtivN_jJXXiM8Jv2LJ5gzhoe7HSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODE2/NjAtMTQ1ODU2OTk1/NS01NTIxLmpwZWc.jpeg" alt="Cover for Warrior Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1589,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/0lDdVG31rw11pB93jzeMa7uxdDFVDydrzjgFefynKWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDMy/MjEtMTQ2NDkzMTE4/OC0yNzYwLmpwZWc.jpeg" alt="Cover for 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1607,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/yiq2mJh5m30vS8IIiLT2wPnhff-yewNEdPKh82A1f4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjE2/OTgtMTQ2NjEyNTQ5/NS05NzQwLmpwZWc.jpeg" alt="Cover for Better Perspective" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1625,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a8da54e19d7a5506b1c8a6942983c9.png" alt="Cover for cloud9" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,13 +1645,13 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 77</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 78</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/hEg5WB9bE5QTbz8tuK-96R7NbFWiSlOh73raFYLC-Do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMx/NjMzLTE1ODcwOTAw/MzctMTY0NC5qcGVn.jpeg" alt="Cover for Tramontane EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1670,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/rnNiyxOHOdsap7zWz9ADszXqECb3cKIHqnd2pRqnSdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI4/MTE3LTE1NDg1NDIy/MDgtNjgxMi5qcGVn.jpeg" alt="Cover for Take You Down &#x2F; Melange" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,7 +1688,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/489553a300d47e084a371d457a24cb25.png" alt="Cover for A View of U" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,13 +1707,13 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 35</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 43</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 44</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/zkqeL3MgabazC5zWaD2rAMsSB52cmUWGkNoyek8IJFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQz/NjQ5LTE2NDA5NjU2/NjEtODA1Ni5qcGVn.jpeg" alt="Cover for Sewer&#x2F;&#x2F;Slvt" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,15 +1764,15 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 90</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
@@ -1817,8 +1819,8 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
@@ -1854,7 +1856,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 26</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
@@ -1867,7 +1869,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/EOzDY4OK1fY_GB6W7ytESF_jZUq7rwNEIpDdhUCQveg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI4/NDA2LTE1ODQ0ODg5/MjUtNTA4MC5qcGVn.jpeg" alt="Cover for Prince of the Cyber Rave" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,45 +1889,15 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 68</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 69</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 71</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 79</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/1SVDhYQhq6AJz2kBLWYU6aphk3WqWKt4OndkKUkDM20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAy/OTkyLTE1OTYyMTI3/ODYtNzM0Mi5qcGVn.jpeg" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-04-10</td>
-      <td>nascar aloe</td>
-      <td>AMERICAN WASTELAND</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/yy0esUkxW1y33RTHhZkB3L9cHI1_maM9n0GoMob5niw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE0/ODY0LTE1OTI4Mjc0/NDEtMTQ1MS5wbmc.jpeg" alt="Cover for Ex Machina" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,14 +1931,14 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 7</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 18</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 8</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 19</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/LrCYV8WSqUHcRO6Ae3Cv-9hiLKcuRSh6nDnyHZ7bomw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ5/NzgzLTE2MDc4MTA5/MzQtNzA4Mi5qcGVn.jpeg" alt="Cover for Won&#39;t U &#x2F; LA" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,7 +1958,30 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/WuIOWbXUT7ZMfvgJ-8LUhVEGFboDCsVW4kY9tF60Q0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg4/MzI3LTE2MjI2NjEz/MzItMzU0My5wbmc.jpeg" alt="Cover for Butterfly Tetrad" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-02</td>
+      <td>DOWNHILL2k01</td>
+      <td>Butterfly Tetrad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 98</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/vCI7OHVUXf8DqjHrrUjWmjRv_tYqi55Jo0GVFRZBmMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA1/NjY5LTE2MzQzNTAw/OTktNDk0Mi5qcGVn.jpeg" alt="Cover for if you’re out there i miss you 。゚・ (&gt;_&lt;) ・゚。 - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,7 +1997,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 66</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2023,7 +2018,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 85</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 90</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 97</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 100</li>
@@ -2032,7 +2027,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/hr7rIq9hGZ6QfFORJ0Mc1-cHvzNvPDp5RYrr9hVe1tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM1/MTQ1LTE2NTU3MTk4/OTktNDUwMi5wbmc.jpeg" alt="Cover for Neon White Soundtrack Part 1 &quot;The Wicked Heart&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,16 +2041,16 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 13</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 14</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 63</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c52d1a497a680d2af5112487f96c5a6.png" alt="Cover for Las Ruinas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a99c633f41061900be4dd5a08b0633e.png" alt="Cover for Las Ruinas" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-22</td>
       <td>Rico Nasty</td>
@@ -2075,7 +2070,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71dd95889877b6d497fb5e50f1974ca6.png" alt="Cover for Slow Motion &#x2F; Hit The Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -2091,12 +2086,12 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 33</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb227b595800b045ad69c5402200bd0.png" alt="Cover for Icebreaker" style="max-width:120px; height:auto;" />
       </td>
@@ -2113,12 +2108,12 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 39</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/taqay2QEX-0u6p5nGnYr_u-4az8E8Q00MB9Ujd_x4eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/MTM3LTE2NjI2MzQ0/NjYtMjc4My5qcGVn.jpeg" alt="Cover for Horseshit on route 66" style="max-width:120px; height:auto;" />
       </td>
@@ -2133,13 +2128,13 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 41</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 69</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd070470ae4a0976bc1679b7df1581a.png" alt="Cover for sorry mom, i&#39;m making breakcore xd" style="max-width:120px; height:auto;" />
       </td>
@@ -2203,8 +2198,8 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       <td>
         <ul>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 98</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 98</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 99</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 99</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 100</li>
         </ul>
       </td>
@@ -2228,7 +2223,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/Ofpoa6A4I5T5bhJHjwC5HiHMBf8KAQMHSpJuU5ptvA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTY0/MzIzLTE2OTE5NDk1/MTktNTM2My5qcGVn.jpeg" alt="Cover for ultraviolet" style="max-width:120px; height:auto;" />
       </td>
@@ -2264,7 +2259,7 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tcWVkNT3jXCLdpTHDZA1y8I3YzesmU9letrCR08qoYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ3/Mjc1LTE2OTk1NDEx/MzgtMTU0Ni5qcGVn.jpeg" alt="Cover for Heaven knows" style="max-width:120px; height:auto;" />
       </td>
@@ -2278,13 +2273,13 @@ Drum and bass (commonly abbreviated as D&amp;B) is a genre of electronic dance m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 81</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 82</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:21:20.793Z
+date: 2025-11-23T10:15:30.658Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-11-19T20:21:20.793Z">Wed Nov 19 2025 22:21:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:15:30.658Z">Sun Nov 23 2025 12:15:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/EoMEjhdIMuLYUjFP261wZEsPFOMWz40Qpi7ciiYaJ_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDkw/MjQzLTE2MjMzMzcx/NTctMzE2MC5qcGVn.jpeg" alt="Cover for Waldteufel: Famous Waltzes" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/8Y0KAv9GVbL01-xYJbAB4tlTaSKzkYzYLFK4JYHdae0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzM4/NzgtMTU1MTU1ODI1/MC0xNTE5LmpwZWc.jpeg" alt="Cover for A Tribute To Chopin" style="max-width:120px; height:auto;" />
       </td>
@@ -130,23 +130,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Antonín Dvořák</td>
-      <td>String Quartet No.13, Waltz No.1 (Pavel Haas Quartet in Adelaide)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/6wLf50rLSILr-45byjqOiUzAkwsDZ0fFvWtvshCNLIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTQ0/MDEtMTQxOTY1NDE5/OC0zODU1LmpwZWc.jpeg" alt="Cover for Dance The Viennese Waltz" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +168,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/c5L3lk3YkYn0Tu8F8naSY8BUiXp5zoxDdTJ8YL2wbqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE3/OTg2LTE1NDgzNjYz/NjEtOTA3MC5qcGVn.jpeg" alt="Cover for May I Have The Next Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +299,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Z44zykr-kFUgf0ZLsIx328vfLvwxMbltRpvvop03Ahk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjIw/Ny0xMTYwNjg0Njkw/LmpwZWc.jpeg" alt="Cover for Misty Village : Rare &amp; Unreleased 1987 - 1989" style="max-width:120px; height:auto;" />
       </td>
@@ -353,7 +337,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>1991</td>
@@ -433,7 +417,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/Vf5Ur72m4VqXu1w6ctZXQuGh5yxqfXhvYCx2LgtuUzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODE0/MTktMTQ4OTYxNzMw/OC02MTM1LmpwZWc.jpeg" alt="Cover for Let&#39;s Dance the Waltz" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +453,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/BcDcBvOZZ9O7lO4jW0AMchCJ60_M0Soj2UUfc6gtwsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjAz/MDAtMTU3MjM1NDM3/OS01NDY2LmpwZWc.jpeg" alt="Cover for The Best Of The New Year&#39;s Concerts" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +470,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/VIamwHn0du6FoL5b6SXsIxYJKpbrXlhlCdyXoOYvKRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIy/NTcwLTE0OTEyOTA5/MjEtOTE4NS5qcGVn.jpeg" alt="Cover for An der schönen, blauen Donau" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +525,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/jNyXOtYuFKzxRuaXyVy-ssIUv1ahuhbpkajGoNUnvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTAz/NjEtMTYyOTkzNjQ5/Ny04OTUzLmpwZWc.jpeg" alt="Cover for Klaus Hallen Studio Tanz Orchester 4" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +546,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/jNyXOtYuFKzxRuaXyVy-ssIUv1ahuhbpkajGoNUnvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTAz/NjEtMTYyOTkzNjQ5/Ny04OTUzLmpwZWc.jpeg" alt="Cover for Klaus Hallen Studio Tanz Orchester 3" style="max-width:120px; height:auto;" />
       </td>
@@ -691,13 +675,13 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 7</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 10</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 8</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/pDEfsjKoJHdgwjabAHD55IEBuAPCLgGRszKE50He3K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY5/NzYzLTE2MTg2NDM5/MDAtNTY3My5qcGVn.jpeg" alt="Cover for Viva Strauss" style="max-width:120px; height:auto;" />
       </td>
@@ -841,7 +825,25 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5103f30ec2d9493fa214c53d7f02ae9d.png" alt="Cover for War Without End" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-05</td>
+      <td>Warbringer</td>
+      <td>War Without End</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for With Swingin&#39; Dragon &amp; Tiger Boogie" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +908,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2009-04-27</td>
@@ -951,9 +953,9 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/hWLLJ5DdEiNss-u1HvLWyYtSX8PLVW5bOjARoI9MY0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc5/MDQ1LTE2Mzk3MTQ5/OTktODgyNC5qcGVn.jpeg" alt="Cover for Taking the &quot;O&quot; out of Country" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9ea42404058d2e4a92831de55a7c661.png" alt="Cover for Taking the &quot;O&quot; out of Country" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Nellie Wilson and the Hellbound Honeys</td>
@@ -975,7 +977,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/CMQqu0vfxS4bG9lpN9s-hJCt9Q8Fyp_PdQfC2WzEW1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU2/MDYtMTMxNDU1MTIy/OC5qcGVn.jpeg" alt="Cover for Gold Fury" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35572a1840fd443cb889ddabccbe6b81.png" alt="Cover for Gold Fury" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-31</td>
       <td>Howlin&#39; Lord</td>
@@ -998,7 +1000,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 7</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 6</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 17</li>
         </ul>
       </td>
@@ -1106,7 +1108,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/0kKcmn3RbXCdO5zyz4korsfuqAihs_OOjFC150wR8oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzk2/NTYtMTQ4MDYxNjU5/Ni02MzE0LmpwZWc.jpeg" alt="Cover for The Pussycat Waltz" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,7 +1127,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/qaajtRKoorbkQNiCUZUo8D45PtgaDOdqbJlg27Do9Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE1/MTgxLTE1MjY1ODk2/MTctNDUyMS5qcGVn.jpeg" alt="Cover for Mirrors of the Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,13 +1182,13 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 33</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 34</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/jNyXOtYuFKzxRuaXyVy-ssIUv1ahuhbpkajGoNUnvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTAz/NjEtMTYyOTkzNjQ5/Ny04OTUzLmpwZWc.jpeg" alt="Cover for Klaus Hallen Studio Tanz Orchester 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,12 +1224,12 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 30</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/sPVveA3C4isf2-bc266GZWwfeyjSghCf9w-ijbpOPEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/ODQ1LTE1NDc5MjY5/NTgtNjYzOS5wbmc.jpeg" alt="Cover for Gabriela" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1249,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/TsWr6e3UgxjPWPSKc5VsAYtKheCG6Qe_7HS-8LVjCu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njg2/OTg0LTE2MDkyNTkx/OTctMzIwNi5qcGVn.jpeg" alt="Cover for Expressions" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,7 +1321,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/63q0DPiK1xorrkDwXdsqmN4Sfdt_8vOUzpHlifVRiZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDcx/NjAyLTE2MDI5MzI3/MjQtOTYyMS5qcGVn.jpeg" alt="Cover for Bone Collector" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1363,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -1484,14 +1486,20 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
-      <td>Larrysmusic</td>
-      <td>Electric Accordion</td>
+      <td>Florian Behnsen</td>
+      <td>At the end of the world</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>
@@ -1522,7 +1530,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1542,7 +1550,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1561,7 +1569,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1579,7 +1587,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1597,7 +1605,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1617,7 +1625,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1638,7 +1646,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1657,7 +1665,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1677,7 +1685,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1697,7 +1705,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1719,7 +1727,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -1736,7 +1744,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fea21c03e8504bcea4d4514ad32d9aff.png" alt="Cover for trash bags and paper plates" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1817,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a20f36d690d3bde457bb840ab9feaeb8.png" alt="Cover for The Complete Serenades" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1846,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1856,7 +1864,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -1876,7 +1884,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
@@ -1991,7 +1999,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2007,7 +2015,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2023,7 +2031,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2039,7 +2047,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2098,6 +2106,6 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
 - [soundtrack]({{ "/tags/soundtrack" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
 - [tango]({{ "/tags/tango" | relative_url }})
-- [contemporary classical]({{ "/tags/contemporary-classical" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
+- [contemporary classical]({{ "/tags/contemporary-classical" | relative_url }})
