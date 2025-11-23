@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:45:46.192Z
+date: 2025-11-23T10:08:58.207Z
 permalink: tags/blackened-thrash-metal
 title: blackened thrash metal
 ---
 
 ## blackened thrash metal
 
-Last updated: <time datetime="2025-10-28T06:45:46.192Z">Tue Oct 28 2025 08:45:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T10:08:58.207Z">Sun Nov 23 2025 12:08:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
   </thead>
   <tbody>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/qzJ5_RHqwjt4U9GcHwvYNqYp0AcQZ_K_i-xTVxO1F6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMx/Mzc2LTE1MTQzODcx/MjItNTc1OS5qcGVn.jpeg" alt="Cover for 100 Miles To Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97498dc52acffc039f88e145fb878241.png" alt="Cover for 100 Miles To Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Venom</td>
@@ -50,8 +50,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b349541f0fcaa0526c113ee5d9f03c2.png" alt="Cover for To Mega Therion" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Celtic Frost</td>
@@ -64,13 +65,13 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 14</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 56</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbe268423cba9ceb6b4309da076c610e.png" alt="Cover for The Day of Wrath" style="max-width:120px; height:auto;" />
       </td>
@@ -88,8 +89,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8459eea4fb4541bfafa6533b9ac31973.png" alt="Cover for Unholy Death" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-01-28</td>
       <td>NME</td>
@@ -108,7 +110,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe90224ba98a4a45b71a5434b67b576f.png" alt="Cover for IX" style="max-width:120px; height:auto;" />
       </td>
@@ -148,28 +150,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>97</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25b63fefc6696ab375d8773c143b8154.png" alt="Cover for Under the Sign of the Black Mark" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987-05-11</td>
-      <td>Bathory</td>
-      <td>Under the Sign of the Black Mark</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e69fe411e805d3bb36327c62140d7fa9.png" alt="Cover for Rotting" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-08</td>
       <td>Sarcófago</td>
@@ -187,8 +170,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/228d20eecad8b9b07ffad12d236a26fa.png" alt="Cover for Disembody" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Sabbat</td>
@@ -207,9 +191,27 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/tycHnEvE0j_CWz7VclAY260Q-5g0AOg8cmTun9wI-Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzI0/MS0xMzk0NDc0NjA4/LTI0NjUuanBlZw.jpeg" alt="Cover for Dreams Like Deserts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eee692e6ebbb439cc49bebbbda034acf.png" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-11-14</td>
+      <td>Bathory</td>
+      <td>Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48890bec3419648cda8241bd12d88d1a.png" alt="Cover for Dreams Like Deserts" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Aura Noir</td>
@@ -228,8 +230,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de5ce4686ce9490cf2f70460cfec4e68.png" alt="Cover for Nifelheim" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Nifelheim</td>
@@ -246,9 +249,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/_fJgDzVg38vmpjITrE_Nh3BkG4ye5QvIYamgtSrSC7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTAz/Mi0xNDMzOTcwMzM3/LTg1NjEuanBlZw.jpeg" alt="Cover for Violence Is the Prince of This World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e06838d265235172a1dc7fd5ec1c8915.png" alt="Cover for Violence Is the Prince of This World" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-11-11</td>
       <td>Deströyer 666</td>
@@ -266,9 +269,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/n_0MbAyL_8aKaj9vu11a5aQzywJUKs-lHWBGnWc9G4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTgx/OTItMTIyMTIzMzUx/Ny5qcGVn.jpeg" alt="Cover for Black Thrash Attack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fedf4469fac9731ffce550bf184267c.png" alt="Cover for Black Thrash Attack" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Aura Noir</td>
@@ -286,18 +289,15 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/j2ARsC_sfRcunxkWs_dvPZ85WL7BXEBKld0Urd6DNDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODk0/Ny0xMTgyNDI2MTAw/LmpwZWc.jpeg" alt="Cover for Unchain the Wolves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50710d0d66c94f68cff6713ea1be736c.png" alt="Cover for Unchain the Wolves" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-03</td>
       <td>Deströyer 666</td>
       <td>Unchain the Wolves</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -306,9 +306,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/hdK5KvN_I7GULKQ5TgThRRRWwn6k3HXlpsBP6qJPIiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTUz/MTgtMTI1NTYyMzIz/NS5qcGVn.jpeg" alt="Cover for Aggressor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dbaed006449a887f1fbc5aceec3621f.png" alt="Cover for Aggressor" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10</td>
       <td>Nocturnal Breed</td>
@@ -327,6 +327,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f7dfce95989836a2a390c24d3acd70d.png" alt="Cover for Hellfire&#39;s Dominion" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Desaster</td>
@@ -342,7 +343,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2000</td>
@@ -359,7 +360,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3df459439c0abc0607dff40141adf4ee.png" alt="Cover for Phoenix Rising" style="max-width:120px; height:auto;" />
       </td>
@@ -369,17 +370,15 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f082b17f504ef375a945b8777ed0c00f.png" alt="Cover for Tara" style="max-width:120px; height:auto;" />
       </td>
@@ -414,9 +413,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/zUHutSYUEIa6TuBC2XvjbIuxLRtYPMMf00yIgBWskuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQz/NDUtMTI1OTE5MTA4/MC5qcGVn.jpeg" alt="Cover for Bleeding the Priest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f26514fb14fa498aa937e2242b8f1288.png" alt="Cover for Bleeding the Priest" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Vomitor</td>
@@ -434,6 +433,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eccb5e8d24fc6a116dbb06be638f3a9e.png" alt="Cover for Rise of the Antichrist" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-28</td>
       <td>Bewitched</td>
@@ -449,8 +449,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4e64a9ff9947999fc19dbaf254c5f3.png" alt="Cover for A Call to Arms" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-10</td>
       <td>Gospel of the Horns</td>
@@ -466,9 +467,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/-MZKsuVfKS0xeqy45eCNkDzkY4xvMgggxHScufr9HXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzQy/NS0xMDkzOTQ5OTQw/LmpwZw.jpeg" alt="Cover for Index Case" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/985d5d66e11b1d41db6e10f6be1b47f2.png" alt="Cover for Index Case" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Wraith</td>
@@ -490,7 +491,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/mr6YdpZSYe1fPgv76qarFLT5W2Yys-JOzAITBK6T6r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODA3/ODUtMTM0NDE2MDM2/OC04MDMwLmpwZWc.jpeg" alt="Cover for The True Metal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8601dfc88a53039bb71bac571582c43b.png" alt="Cover for The True Metal" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Power From Hell</td>
@@ -507,9 +508,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/7S659xOLjb1Q5PJNarufjFCd9LCGkj9eCivcvXwNr4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTkw/MDAtMTMwMjQ1MTM2/NS5qcGVn.jpeg" alt="Cover for Arrival of the Carnivore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ddd04c23bc2d566769ecd4f14e82443.png" alt="Cover for Arrival of the Carnivore" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12-13</td>
       <td>Nocturnal</td>
@@ -525,8 +526,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dddc13b0870f57d2e9a205101fc9ae0.png" alt="Cover for Angelwhore" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-22</td>
       <td>Desaster</td>
@@ -542,8 +544,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6653959d0b802cf238325c589434fa6b.png" alt="Cover for Ultimate Unholy Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-13</td>
       <td>Abigail</td>
@@ -568,7 +571,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>85</td>
       <td>
       </td>
       <td>2005-09-26</td>
@@ -585,17 +588,15 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/cCwjKJG_sAkcLeSlURtirvzv5DRVuZ-YQoAo8ddxxUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEz/OTQtMTE5NzE1NDE2/NC5qcGVn.jpeg" alt="Cover for Hell on Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16b7034e3971af56d4a3559b8d442172.png" alt="Cover for Hell on Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-31</td>
       <td>Toxic Holocaust</td>
       <td>Hell on Earth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -604,8 +605,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e0a4edb1120413f94e8371599c52b94.png" alt="Cover for Worship the Witch" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Skeletonwitch</td>
@@ -626,6 +628,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01b32187a1afbaacd20c966c77485b03.png" alt="Cover for No Anesthesia" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05</td>
       <td>Witchtrap</td>
@@ -641,7 +644,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/80Ivu2HVUih3X6raCjvuFbmz5NanDgKle8THgdVZS2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzk5/OS0xMzczOTY2MDkx/LTc0NDUuanBlZw.jpeg" alt="Cover for Viides vuodenaika" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +664,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/jCZX_RHTVTbzqb6Q0-8E4TTZSN03hOfHkcKhG5GhDxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ0/MjUtMTQxMTgxNDIw/NC05MTczLmpwZWc.jpeg" alt="Cover for Let Him Die" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e374cc73793b45749c4809647ff7876c.png" alt="Cover for Let Him Die" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Bloodthirst</td>
@@ -697,7 +700,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/Ew-POyPbi8alGlNK_7rE_WnapwxjfSDhSv-ODLFYuIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM4/MDYtMTIwMjU2NTAw/Mi5qcGVn.jpeg" alt="Cover for Satan&#39;s Soldiers Syndicate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56c8fb5982644b9baaf626a7bc5845bf.png" alt="Cover for Satan&#39;s Soldiers Syndicate" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-07</td>
       <td>Desaster</td>
@@ -713,7 +716,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3e5e21c854435a9164b534d23cc6d2.png" alt="Cover for Beyond the Permafrost" style="max-width:120px; height:auto;" />
       </td>
@@ -722,8 +725,6 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       <td>Beyond the Permafrost</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -732,9 +733,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/sv7ISJ-L9fCfcE7XHg9K5sgLfxLfL-JfdFfj596PHa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjUw/NDUtMTI4OTQyNTMz/Mi5qcGVn.jpeg" alt="Cover for Envoy Of Lucifer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27402aef4d04515a68f91995d9c2b05.png" alt="Cover for Envoy Of Lucifer" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-19</td>
       <td>Nifelheim</td>
@@ -751,8 +752,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24fe898d3f00458294ec6926da25139e.png" alt="Cover for Satan&#39;s Cross" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-05</td>
       <td>Nocturnal Graves</td>
@@ -770,7 +772,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2007-12-22</td>
@@ -787,8 +789,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/007eca8f7bd4a6216c966a0d54b1f4bd.png" alt="Cover for An Overdose of Death..." style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-27</td>
       <td>Toxic Holocaust</td>
@@ -796,7 +799,6 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -805,9 +807,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/mMdOVJCil3hDwr9sx4LrkIKJ6Qm-5vSuXhBGM_KFQ6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA1/MDktMTIzODg1ODIz/Ni5qcGVn.jpeg" alt="Cover for Atiduokit Mirusius" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7050446d30a32183d18a7d14078bd7bf.png" alt="Cover for Atiduokit Mirusius" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-06</td>
       <td>Dissimulation</td>
@@ -823,9 +825,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/hmthD0y4AF4NGSfQDts-IuiLBgKkH9rPPDqGi2usbg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTM2/ODEtMTM1OTgxODYx/Mi03MDE2LmpwZWc.jpeg" alt="Cover for Out of the Bunker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f72ae2037b944f62a877a967f33a2bab.png" alt="Cover for Out of the Bunker" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Bunker 66</td>
@@ -843,7 +845,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15acb209e33e406285f0653050f9aaf4.png" alt="Cover for Homage To Martyrs" style="max-width:120px; height:auto;" />
       </td>
@@ -861,8 +863,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37879d7fddcf4c57b53b3ec7da6de1e4.png" alt="Cover for Violent Revenge" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-15</td>
       <td>Nocturnal</td>
@@ -879,8 +882,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68e3af9ae66b9d937e1d027adb0229bd.png" alt="Cover for Defiance" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-22</td>
       <td>Deströyer 666</td>
@@ -898,8 +902,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ab633b002144b9cb1a14dc9846ca6df.png" alt="Cover for Sweet Baby Metal Slut" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-18</td>
       <td>Abigail</td>
@@ -917,8 +922,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/520bde137e51cc57efab99d73e790ee5.png" alt="Cover for Satan&#39;s Boundaries Unchained" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-15</td>
       <td>Ketzer</td>
@@ -936,8 +942,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d61b04a4c8355a431fe99c83fa00173.png" alt="Cover for Breathing the Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-13</td>
       <td>Skeletonwitch</td>
@@ -954,7 +961,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/eAQMFYChmWZkW8yED6E9vAb9uq4QNb221Rm0qiY0bzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzAy/MTUtMTI4Mzc0OTc1/Ni5qcGVn.jpeg" alt="Cover for Biochemterrorism" style="max-width:120px; height:auto;" />
       </td>
@@ -972,8 +979,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16c0e234cbd5610c638637752a1e0d7b.png" alt="Cover for The Rise of Satanic Might" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Cruel Force</td>
@@ -989,9 +997,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/FIUREzbwMNItLQUdFeUHih74gD2xhXs6-pdUCvTxBlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzYx/MDktMTI4Mzk0NDc1/MS5qcGVn.jpeg" alt="Cover for Bloodrust Scythe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f4d0a3bbcb483cbc7f88b7a2d4a3e9f.png" alt="Cover for Bloodrust Scythe" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-11</td>
       <td>Hellish Crossfire</td>
@@ -1008,9 +1016,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/MwX0rUN6pY8QW4o1_iLG11iat0JSDxSUMdeq-IRWBNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjM1/NjAtMTYzMzM4NDMz/Mi05MzE2LmpwZWc.jpeg" alt="Cover for Terrorstorm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d46c8f0e944c49138b777d712310fad2.png" alt="Cover for Terrorstorm" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-06</td>
       <td>Witchaven</td>
@@ -1026,7 +1034,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2010-11-16</td>
@@ -1048,7 +1056,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/OXP3aGXSCGNjT0HDnaEAbgl1-z4XmSGmRLgMHROWDm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTUx/NTAtMTMxNjQ3MTQy/MC5qcGVn.jpeg" alt="Cover for Helvitismyrkr" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,9 +1076,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/Ej08xKh1_2iJ4nfEIOJJ2muwmIwA8yt8AAzT8IL_s6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTgy/OTAtMTYwNDY4NjA3/OS0xMTM2LmpwZWc.jpeg" alt="Cover for Wrathprayers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffc5a40ea367444f9fb34c59b01f6c32.png" alt="Cover for Wrathprayers" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-01</td>
       <td>Voidhanger</td>
@@ -1090,9 +1098,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Q5YqXgavKCEgPzvM-nlsCiR-us1-ETuiybJ2oD1uQAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDA5/MzUtMTMxMTEzNDc3/MC5qcGVn.jpeg" alt="Cover for Conjure and Command" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f66a4fc57921567f5dff4225eff1f8a.png" alt="Cover for Conjure and Command" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-19</td>
       <td>Toxic Holocaust</td>
@@ -1100,7 +1108,6 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -1109,9 +1116,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/YpgUEs_ZqcRt9HeeEgAArazzDlV1mu6w9Sp3gS4IQCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjM1/MjctMTU0MjI0MDQy/MS0yMTExLmpwZWc.jpeg" alt="Cover for Abzu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/634c5b099b944a688f59fe37e2ef5c18.png" alt="Cover for Abzu" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-04</td>
       <td>Absu</td>
@@ -1128,9 +1135,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ldW2gBDlVjMn4swDrwgd-qIrgX9EXb0_Hre9FDkzMPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg1/ODgtMTMxODQzNzg3/Ni5qcGVn.jpeg" alt="Cover for Forever Abomination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77330d8196e0c20b184058c7667e8ca2.png" alt="Cover for Forever Abomination" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-11</td>
       <td>Skeletonwitch</td>
@@ -1147,9 +1154,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/gltWBADn9kb_a0qXmM0MVpoVTiU2nIidQvjfldEU8Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzEx/MzItMTYzMjM4NDE2/OC0zODA1LmpwZWc.jpeg" alt="Cover for Under the Sign of the Moon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b685f2f8b1818b7957bd83efee9de913.png" alt="Cover for Under the Sign of the Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11</td>
       <td>Cruel Force</td>
@@ -1165,8 +1172,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7a5109ca712439c81ca04bf7cee59db.png" alt="Cover for Rise, Vulcan Spectre" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-13</td>
       <td>Nekromantheon</td>
@@ -1181,9 +1189,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/PxtvBFDjAUbAkKj0yR3HKOF4g0B9tCSnGKHTxrLfKyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTkx/MjQtMTM1NTkxOTgw/Ni0yOTk5LmpwZWc.jpeg" alt="Cover for Dominion of Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f458e00904ec4d2380be396bcfb378c5.png" alt="Cover for Dominion of Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-28</td>
       <td>Hellbringer</td>
@@ -1200,9 +1208,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/bNtOZsUpolrNBKX5xywqYW-equD12nFxQFZsIKtRNOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE0/MjktMTM2NDA0MDY3/Ni0xNDc5LmpwZWc.jpeg" alt="Cover for The Yellowgoat Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd55ed3ffd274347aa54e38a12f19277.png" alt="Cover for The Yellowgoat Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-15</td>
       <td>Joel Grind</td>
@@ -1218,9 +1226,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/OgU5K7Mks37qsyrdncpjPoF2VLv8SLz0psC4Kmx80M0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzc5/NjEtMTM4MjgwODk1/MC02OTE4LmpwZWc.jpeg" alt="Cover for Serpents Unleashed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28efa7ef26704a579fe1bf907590d135.png" alt="Cover for Serpents Unleashed" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-29</td>
       <td>Skeletonwitch</td>
@@ -1237,9 +1245,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/bJhwFC3AcwOGMN7V2xgQalnzgQ2yYRyfgvZGcbxT9Dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTQ3/NDktMTY3NjQwMjAz/Ni0xMjcyLmpwZWc.jpeg" alt="Cover for Chemistry of Consciousness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd327b9727530e4a2ea887de3bd565b.png" alt="Cover for Chemistry of Consciousness" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-29</td>
       <td>Toxic Holocaust</td>
@@ -1256,7 +1264,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/rumjkKZamLQo30bx_H2N2Cvu8MV0xyfHbuEyilgPw2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mzk3/OTUtMTQwNDg0MjQy/My02MDYyLmpwZWc.jpeg" alt="Cover for Working Class Misanthropy" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,8 +1300,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3127622d4d364470c4d0609dfbff7138.png" alt="Cover for Constricting Rage of the Merciless" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-08</td>
       <td>Goatwhore</td>
@@ -1314,9 +1323,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/5lfsbuOT-C5_ikD-bZ0CvtOCHryqxzV8GuNOOa8VBfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTAx/MTYtMTQ0OTI1MDM1/OS04ODc1LmpwZWc.jpeg" alt="Cover for Trap The Witch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a3139e0d72419f84cf4c7d5b449a31e.png" alt="Cover for Trap The Witch" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Witchtrap</td>
@@ -1333,9 +1342,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/b_Dc7cti3Fv546bN69fKKTIFvgwUfU2jULl5AAvZChc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzc4/ODgtMTY3MzIzNTIw/MC0xMDc5LmpwZWc.jpeg" alt="Cover for Evil Triumphs Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f3355bb87577bc20f80881fb6a65d66.png" alt="Cover for Evil Triumphs Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Bonehunter</td>
@@ -1351,9 +1360,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/yBAmDCqNv-MMfiP5jRyuB_9XjanV35CluJI9SRXpO5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTQ1/ODAtMTQzMTg4NjMw/My02NzQ3LmpwZWc.jpeg" alt="Cover for Evil Power" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df50164e754d8e2d4f0f3d1aeca01446.png" alt="Cover for Evil Power" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-13</td>
       <td>Deathhammer</td>
@@ -1372,7 +1381,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/Pxkm_oK93aArKf6f-SSTDfN1UmpYe3-nw58KiZ4SYrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzkw/NDAtMTYwMTcxNzI2/NS0xOTM3LmpwZWc.jpeg" alt="Cover for Terms of Surrender" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a87385c2e08894a33ec05ca7579ce77c.png" alt="Cover for Terms of Surrender" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-07</td>
       <td>Black Fast</td>
@@ -1388,9 +1397,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/jgcwoHXQ7pX3AgtErKlSkRqzU0jtTG_iyc-RPpvAD_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzc5/NjQtMTQ1NzExMDg1/MC03MzEzLmpwZWc.jpeg" alt="Cover for Wildfire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c1551bda2db232a78881b9466e82976.png" alt="Cover for Wildfire" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Deströyer 666</td>
@@ -1407,7 +1416,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/bRs17CaOAf7WqfuPILUtS9YzOEqW8Dyaj8gctqBmJuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTEy/NTktMTQ1NDk2MjM3/MS02MTc2LmpwZWc.jpeg" alt="Cover for Too Loud To Live, Too Drunk To Die" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,7 +1435,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/C8n8UjmTPT_6ggfug9N7li51qrXvwsCeq_664_cwl6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDYw/MjktMTQ3MTE5NjQ3/NC01NzA4LmpwZWc.jpeg" alt="Cover for Bewitcher" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc1ad152cf3a82b855b9feb771f6d83b.png" alt="Cover for Bewitcher" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-10</td>
       <td>Bewitcher</td>
@@ -1447,9 +1456,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/W5r0BpwT9FjvbkPBsdyMEFnBz0VsudL_WtnK7fY3tkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDM1/MDUtMTQ3MTk1MTEw/Ni04NjEzLmpwZWc.jpeg" alt="Cover for Awakened From The Abyss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f07333ff5c763ea096e1e2f2654747c.png" alt="Cover for Awakened From The Abyss" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-18</td>
       <td>Hellbringer</td>
@@ -1465,9 +1474,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/THlukBXQxU1UmZNpYPfweu2zS-I5DyA7PvgaELit82Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTk5/MzgtMTQ3MjI4Njg4/My02MjY5LmpwZWc.jpeg" alt="Cover for Berserker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44647f0f6f085e9a3482e3738bd3a52d.png" alt="Cover for Berserker" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-19</td>
       <td>Asenblut</td>
@@ -1526,9 +1535,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/NIgHDQkrpPsAa65IDDrzc9AqaATOop6fhNFPFiexb7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzA4/MDYtMTQ3OTQwMjMx/MS04NDMxLmpwZWc.jpeg" alt="Cover for Complete and Total Fucking Mayhem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98af4f0b475297d65053f45352264558.png" alt="Cover for Complete and Total Fucking Mayhem" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-17</td>
       <td>Hellripper</td>
@@ -1545,9 +1554,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/i8BJcBgExMgnaYyg_5Se-fG_F2udkqgb-qsR4kR6OGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQx/NTI2LTE1MzI2MDY3/MTQtMzUxMC5wbmc.jpeg" alt="Cover for Coagulating Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87f1d6167281b0c23ede4cb1c57c3cee.png" alt="Cover for Coagulating Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-24</td>
       <td>Hellripper</td>
@@ -1560,15 +1569,15 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 81</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 80</li>
             <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/gJ2ZM0gS9nEKg9SMRFg4xr98KpmoNHyzcMlsxb3iwlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA3/NjkyLTE0OTM0MDg1/NTktODMwMy5qcGVn.jpeg" alt="Cover for Unstoppable Power" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43462f84947385160b47bd17fb8f57de.png" alt="Cover for Unstoppable Power" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-28</td>
       <td>Condor</td>
@@ -1584,9 +1593,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/SSU0x-oexyXdpvKWzqRbllBRymt9Dw7F0hmaq3rUW7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjky/ODc5LTE0OTQ3ODM3/MDYtOTA1OC5qcGVn.jpeg" alt="Cover for Sexual Panic Human Machine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb4dd93e4e6906e9ac2c2f74a769dea7.png" alt="Cover for Sexual Panic Human Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-04</td>
       <td>Bonehunter</td>
@@ -1602,7 +1611,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/uzgLI1ChGDkJeISH5WOzLgbl8iJXk3ZS26QGGAy8Oag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg5/OTMwLTE2MDUyNjk0/MjEtODExNC5qcGVn.jpeg" alt="Cover for Dark Days Of The Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1631,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/Xz87vaz2Jb0RYFDHvAbC11hvAjv1lpAL_GLCQoVavDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI3/MzQwLTE2MTM5MzM3/OTYtOTQ2MS5qcGVn.jpeg" alt="Cover for Chained To Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/700bee5a2742c51c5f188460dd037963.png" alt="Cover for Chained To Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-05</td>
       <td>Deathhammer</td>
@@ -1660,9 +1669,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/9B5hpE_pJxhjr_BSB5sB4xC8rKBaZqIs71CULIVK7S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM0/MDE5LTE1ODA1NzQw/NzEtODc1OS5qcGVn.jpeg" alt="Cover for 666 Goats Carry My Chariot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21f5a6884aac7ae2ca2170aa9a18952b.png" alt="Cover for 666 Goats Carry My Chariot" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-31</td>
       <td>Bütcher</td>
@@ -1678,7 +1687,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 48</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 49</li>
             <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 98</li>
         </ul>
       </td>
@@ -1686,7 +1695,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/kvT6npnIIKI7eRZ-B-GjfKkjATXCzEHENO0HK0llWuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/ODI4LTE1OTc5NDg5/NDEtMjM4MC5qcGVn.jpeg" alt="Cover for Baptised In Blasphemy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9f871a4363e3dc4c6c1b4171215bd8d.png" alt="Cover for Baptised In Blasphemy" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-10</td>
       <td>Devastator</td>
@@ -1702,7 +1711,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/BkeA1SPJimejfXgYEDfVqNUrt_WkPD0e2mvCjj0UUU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk1/MTcxLTE1OTgzNjcw/OTktNDIxMC5qcGVn.jpeg" alt="Cover for Sepulchral Demons" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,9 +1729,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/-L3E2yRAwTk2Jc3noRBiWIBgOEKEYuyBEKYXfvp5q3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQy/MDgxLTE2Mjg5OTY3/NzktMjM4Ny5qcGVn.jpeg" alt="Cover for So It Goes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14760270292bcaff2de6bbb336aa533d.png" alt="Cover for So It Goes" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-10</td>
       <td>Demoniac</td>
@@ -1740,9 +1749,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/DhY6ip5KNfY9qQFs0cnMPsqJQ-EONdPTa6NOiCOnejY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE1/NzY3LTE2NDk0ODE1/MTYtNjE5Ny5qcGVn.jpeg" alt="Cover for Chained Down in Dirt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e2e17825e8c2735d7621438e0b6a191.png" alt="Cover for Chained Down in Dirt" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Bunker 66</td>
@@ -1777,9 +1786,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/xp7DKKQJ1GrYvKWYnudwwjJpbq0aSftpygTqVn2lTfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTIx/MDI3LTE2Mjk0MDAw/NzctMTk1OC5qcGVn.jpeg" alt="Cover for Dark Blood Reincarnation System" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/445b2548bf6db78e015351662f785fe0.png" alt="Cover for Dark Blood Reincarnation System" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-20</td>
       <td>Bonehunter</td>
@@ -1795,9 +1804,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/eP_ZmL0L0qjgynQDZqMeTxY8nh9XeUoQ5YRSj2C3sTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzIx/ODQ1LTE2ODI3Njg4/NTktNTM5MS5qcGVn.jpeg" alt="Cover for Undo the Chains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/717a071e85c219fff41c7823162c575e.png" alt="Cover for Undo the Chains" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-24</td>
       <td>Wraith</td>
@@ -1813,7 +1822,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/mZUbVPQdPRqli1qapBtS5hcwXmUrxsunDN0ls6jNpaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg4/NzUzLTE2MjI2NjIx/NDUtNTE2OS5qcGVn.jpeg" alt="Cover for Churches Without Saints" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,9 +1840,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/r9bf_EJYdcu1nuzBF65jbNYfWOKNuqZWEEMm9zu3qRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM2/NjgzLTE2NDY3NjIx/NzAtOTIzNi5naWY.jpeg" alt="Cover for Electric Warfare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01ded957d66872b3bbd6f6f1a6fd32b9.png" alt="Cover for Electric Warfare" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05</td>
       <td>Deathhammer</td>
@@ -1849,9 +1858,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/63klZmPutOF0MAOGxbjGYfzr5NfW5xZXPqHvo44P67k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUy/Njk5LTE2NjY3OTYz/MjctMzIyMC5qcGVn.jpeg" alt="Cover for Through Sheer Will and Black Magic…" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c0a1979e1be22a6a443cdb42c685d77.png" alt="Cover for Through Sheer Will and Black Magic…" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-14</td>
       <td>Daeva</td>
@@ -1885,8 +1894,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a07ab1f0541a393d9fd379fd264cc259.png" alt="Cover for TOBA" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-07-26</td>
       <td>Mayhemic</td>
