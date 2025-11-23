@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:53:41.975Z
+date: 2025-11-23T08:57:00.511Z
 permalink: tags/ambient-dub
 title: ambient dub
 ---
 
 ## ambient dub
 
-Last updated: <time datetime="2025-11-17T05:53:41.975Z">Mon Nov 17 2025 07:53:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:57:00.511Z">Sun Nov 23 2025 10:57:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,7 +52,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1977</td>
@@ -152,6 +152,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/053399987f3f8580f28a38e7f7ef719d.png" alt="Cover for Re-Entry" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Techno Animal</td>
@@ -163,7 +164,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 18</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -235,7 +236,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/txRost4T89TH8mRbY1rdaOGzIFWk8TlqGicW0s9i-RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTct/MTIyODgzNDE3Ni5q/cGVn.jpeg" alt="Cover for Succor" style="max-width:120px; height:auto;" />
       </td>
@@ -256,6 +257,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa66cb4b5dbdca60faf3db49a09146ce.png" alt="Cover for woob² 4495" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-09-21</td>
       <td>Woob</td>
@@ -324,7 +326,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 43</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 70</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 75</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 91</li>
         </ul>
       </td>
@@ -352,7 +354,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/Pvh-kl5LepxHTxbMQA6xqhRjWOS6aJmeeyFhl1KsjXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjE0/LTEyNDgxOTkzNDMu/anBlZw.jpeg" alt="Cover for Pan•American" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4bda66c939f7c8433be1df62770e0a1.png" alt="Cover for Pan•American" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Pan•American</td>
@@ -369,7 +371,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 29</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 31</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 80</li>
         </ul>
       </td>
@@ -396,7 +398,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ff219490b6885d89e1c93e5ca5b100b.png" alt="Cover for White Bird" style="max-width:120px; height:auto;" />
       </td>
@@ -563,13 +565,13 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 20</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 39</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 44</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/627441340a034f5c8792a92a9182eada.png" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +614,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
         <ul>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 11</li>
             <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 43</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -700,27 +702,6 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/tv9S9CxUL6-Uy5LF7mAtvhPXQDxiEQTMfdBuVqEWq4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDgz/OS0xMjYyMjI0NzMz/LmpwZWc.jpeg" alt="Cover for Sean Nos Nua" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Sinéad O&#39;Connor</td>
-      <td>Sean Nos Nua</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 5</li>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>12</td>
       <td>
       </td>
@@ -742,6 +723,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/370932721dc1485c9a49f7a6647fc2b0.png" alt="Cover for Kavel EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-08</td>
       <td>Blamstrain</td>
@@ -830,7 +812,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
         <ul>
             <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 30</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 49</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 52</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 53</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 56</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
         </ul>
@@ -855,7 +837,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 12</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 15</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 85</li>
         </ul>
       </td>
@@ -881,7 +863,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9547a3bd5df42dfa5015d930546fbe5.png" alt="Cover for Dialogue of the Speakers" style="max-width:120px; height:auto;" />
       </td>
@@ -896,8 +878,8 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
         <ul>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 41</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 57</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 83</li>
             <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 83</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -973,7 +955,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 83</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 85</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 88</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 89</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 94</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 95</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 95</li>
@@ -1005,7 +987,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 1</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 11</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 12</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 25</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 58</li>
         </ul>
@@ -1148,6 +1130,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b0cd72cdc443799dcb5e2a35b089a1.png" alt="Cover for Rude Mechanicals" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08</td>
       <td>Pitch Black</td>
@@ -1200,7 +1183,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2008-07-15</td>
@@ -1238,13 +1221,13 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
             <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 85</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1313,8 +1296,8 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 93</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 93</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 92</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1358,7 +1341,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
         <ul>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 36</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 54</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 63</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1460,7 +1443,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/iFscI4eqZEMxpv60PM8735pwbuYwehTTk8lgyHyjLn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc2/NzgtMTI5NDg0ODg1/Ni5qcGVn.jpeg" alt="Cover for The Invisible Insurrection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00d5d04815d8493183d2183b9390aa29.png" alt="Cover for The Invisible Insurrection" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-17</td>
       <td>Desolate</td>
@@ -1489,10 +1472,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 12</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 75</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 83</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 88</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1557,6 +1539,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2644b467147a4287990fa78517459e9d.png" alt="Cover for At Night This City Becomes The Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01</td>
       <td>Bvdub</td>
@@ -1588,7 +1571,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 90</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1628,6 +1611,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1669,9 +1653,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/xx3jJX0I9Z8tsE_x8SEmd5J0A0IXvoPCsIwXUHBSr08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDgz/OTA3LTE2MjMyODY4/ODUtMTY2Mi5qcGVn.jpeg" alt="Cover for BLACK METAL 2 (Kwake Dubs)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db496ccc605b79740bf84ee3a2dd8f65.png" alt="Cover for BLACK METAL 2 (Kwake Dubs)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-30</td>
       <td>Dean Blunt</td>
@@ -1726,7 +1710,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 55</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1747,7 +1731,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 70</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1782,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/QZmWl4VgYUrJca4yDal6ysIS3aHZU_AqNv7enOpmYU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDI0/NTQtMTQ2MjkwMDg2/MC0yMzQ1LmpwZWc.jpeg" alt="Cover for Shrine (Original Dance Score)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0f05c7d06207bbf571a805094955862.png" alt="Cover for Shrine (Original Dance Score)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-10</td>
       <td>Forest Swords</td>
@@ -1859,8 +1843,8 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 32</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1878,6 +1862,32 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0de2808352acbe8cdfa2da9314f6b19d.png" alt="Cover for Copal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-25</td>
+      <td>Coil</td>
+      <td>Copal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
         </ul>
       </td>
       <td>
@@ -1907,7 +1917,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/ZapBJwFRFOkj2TRPd_AlK0GxRCsnwGwlHTkfpm31ixw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY5/OTA0LTE1ODg5NjQy/NTUtNzkwNi5qcGVn.jpeg" alt="Cover for Beatrice" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,7 +1997,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/qX9vO9pnmo_acO3z9OqJ689DXixXv1T3r9JpEC9UiVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjIz/ODcyLTE2MjAzNzc4/MDgtODc0My5qcGVn.jpeg" alt="Cover for Pool" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d85cbe54e065240aeeb53c19714e0f.png" alt="Cover for Pool" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Skee Mask</td>
@@ -2007,7 +2017,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/hbO4ZNH5odlMG906gTYlkcGSDeNhZbd-rWJDCS1Nb6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcz/NzM4LTE2NjAyNTgz/NDgtNTQzMi5wbmc.jpeg" alt="Cover for it is what it is" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/892bc557d673d83b03d70e9c7b17cb89.png" alt="Cover for it is what it is" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-15</td>
       <td>Naked Flames</td>
@@ -2025,14 +2035,14 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 63</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 72</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/PAMHSPdOXWb3QruPKMyXNCRE2J239_djFAOx1bZnl7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDU1/MjE2LTE2MzM4MTU1/NDktNTIzMy5qcGVn.jpeg" alt="Cover for Residuum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd90d1ea882c9e680b181f2c09e97439.png" alt="Cover for Residuum" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-23</td>
       <td>Significant Other</td>
@@ -2094,13 +2104,13 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 63</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 63</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/gKuKYbRKBLJqhiLk9KFG24Q840NnVm4hck3CKY0Xqnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE2/NTA5LTE2ODYxNjUw/NTAtNzA2NS5qcGVn.jpeg" alt="Cover for Aurora" style="max-width:120px; height:auto;" />
       </td>
@@ -2153,14 +2163,14 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 34</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/4U2LtY9AivY749am_y1RGQ0cXfduF6RhGDCXQt0q7mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzY4/NDA4LTE3MTI4NDUz/OTktOTQwMy5qcGVn.jpeg" alt="Cover for Bong Boat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb06881d1d0fcd2ba3d83ca55a0f35b.png" alt="Cover for Bong Boat" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-04-05</td>
       <td>nug</td>
@@ -2203,6 +2213,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6727b758707965d1a703df77dc478b8.png" alt="Cover for To Fire Clay" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Panda Rosa</td>
@@ -2220,6 +2231,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 4</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 67</li>
         </ul>
       </td>

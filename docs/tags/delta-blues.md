@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T07:09:21.989Z
+date: 2025-11-23T08:54:52.965Z
 permalink: tags/delta-blues
 title: delta blues
 ---
 
 ## delta blues
 
-Last updated: <time datetime="2025-11-15T07:09:21.989Z">Sat Nov 15 2025 09:09:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T08:54:52.965Z">Sun Nov 23 2025 10:54:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
   </thead>
   <tbody>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/4FspFGCh-RYxkzMIpQdmCF-s694Fdow0oGlztfOxUQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgw/Njg5LTE1OTA2MDI0/NjYtNjc0NC5qcGVn.jpeg" alt="Cover for Complete Rec. Works(1928-1929)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9290988dc334365931f2485d08ce216.png" alt="Cover for Complete Rec. Works(1928-1929)" style="max-width:120px; height:auto;" />
       </td>
       <td>1929</td>
       <td>Tommy Johnson</td>
@@ -47,7 +47,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/rJdVrYSIUqgAaVSPWy1GFgIrNqUS_mHuBQfNCXZKXlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIw/MDEtMTY0MTkxMTEz/NC01NjUzLmpwZWc.jpeg" alt="Cover for Blind Lemon Jefferson Vol. 2 (1927)" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/xj8ls_5h0OyD3atl3WUNjgCd8ExSUchc5i6R-2t5EaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUz/MjUtMTM1MDY4NTQw/Ni0yNDEzLmpwZWc.jpeg" alt="Cover for Travelin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/_iSypcWkqeu_NtsZaeuuYPFBkqg8uzuGiFAl7amzs0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTc0/MDYtMTM3NDU1MTM0/OS0zNTE3LmpwZWc.jpeg" alt="Cover for The Best Of John Lee Hooker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b716b43ec9d6fefb4899295a6ea847a.png" alt="Cover for The Best Of John Lee Hooker" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>John Lee Hooker</td>
@@ -126,8 +126,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/524691c73b87b5d0ffe13271b44ee18e.png" alt="Cover for Mississippi Delta Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Mississippi Fred McDowell</td>
@@ -144,9 +145,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/YveH8Y77FHkUVH-l5sWx1KmipruIaZ64Ok8jSEtqDyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDE1/NzMtMTQyNDMyODAy/Ni04NTkzLmpwZWc.jpeg" alt="Cover for The Original Delta Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/373e30af5e3d458fb841bf004b8b9f53.png" alt="Cover for The Original Delta Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Son House</td>
@@ -163,9 +164,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/IOkBdbbQD6OiBNgghCPobFkDnGlzyytqNIWtHSzJAdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzE3/MTMtMTMxODkzNTQ4/OC5qcGVn.jpeg" alt="Cover for Muddy Waters 1941 - 1946" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/873fe1861bc2ac76cd07a713bb7a0c99.png" alt="Cover for Muddy Waters 1941 - 1946" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Muddy Waters</td>
@@ -182,7 +183,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/IR4oQ27m9crDyFKfg9bRjlHNvKxxSb5MpnPXAygwLQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ2/NDMtMTYxMzQyODUx/NC0xNzczLmpwZWc.jpeg" alt="Cover for Fixin&#39; to Die" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +235,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>99</td>
       <td>
       </td>
       <td>1969</td>
@@ -252,9 +253,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/SuG2YSQ_5FZIoiIxnSeUAKKIs6SKjU91-WNICnw5I6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTY3/OTUtMTYxODE4MjI0/NC05NTMzLmpwZWc.jpeg" alt="Cover for Delta Blues and Spirituals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869b35d2f1a0c97464eaf6ccd33935b9.png" alt="Cover for Delta Blues and Spirituals" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Son House</td>
@@ -266,13 +267,13 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 24</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e945bc7c20ce85858d47d110fb717b3.png" alt="Cover for King Of The Delta Blues Singers" style="max-width:120px; height:auto;" />
       </td>
@@ -281,12 +282,10 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       <td>King Of The Delta Blues Singers</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -308,25 +307,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5909494d59fd436aa4cb1511a0e86dc3.png" alt="Cover for Last Sessions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Mississippi John Hurt</td>
-      <td>Last Sessions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e9c5bdee521318948cc0b4058f56b16.png" alt="Cover for Mississippi Fred McDowell" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +364,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/fcZ2jL_FLJ7ID9EVqb8iRo7o2p1MgGkwg1XS34ja9ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg2/MjUtMTQyNDYwMzcz/NS03OTUwLmpwZWc.jpeg" alt="Cover for King of the Delta Blues Singers, Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -400,26 +381,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td>1977-05</td>
-      <td>Muddy Waters</td>
-      <td>Hard Again</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 22</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Xy-mbF9akqgRI9_ufu3jknuPkgV_VcX4eTrnKm6BblU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc5/NTQtMTM2MjI2ODIx/NC05MzA3LmpwZWc.jpeg" alt="Cover for Blues Routes Leadbelly" style="max-width:120px; height:auto;" />
       </td>
@@ -459,6 +421,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b0933f4f53b45e7b0e8276d38516b8b.png" alt="Cover for Black Snake Moan Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Various Artists</td>
@@ -493,7 +456,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/rS0M9Be-5qNcFVvaDmJ1tGDKbSceSxewBb_beJuA9DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzYw/OTQtMTM3NzAxNTQ3/Mi01NDIyLmpwZWc.jpeg" alt="Cover for Mama Says I&#39;m Crazy" style="max-width:120px; height:auto;" />
       </td>
@@ -511,8 +474,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/143cc6a0fe71401fa8ceed654a6bdd3d.png" alt="Cover for Smokestack Lightening" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Howlin&#39; Wolf</td>
@@ -531,6 +495,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db516aa14406e9e28d859737cb609d81.png" alt="Cover for The Complete Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-08-20</td>
       <td>Robert Johnson</td>
@@ -547,9 +512,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/VkI23QUhAyqJ5BQjLLMWCdZAm-sVNBEBYu_c9E34vCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTQ4/Ni0xMTczOTgzOTAx/LmpwZWc.jpeg" alt="Cover for Father Of The Delta Blues: The Complete 1965 Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ece03f3c32c074347e7c864703c6c6a.png" alt="Cover for Father Of The Delta Blues: The Complete 1965 Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Son House</td>
@@ -565,7 +530,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
       </td>
       <td>1992</td>
@@ -607,8 +572,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 22</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 22</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
@@ -618,6 +583,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b7b5a0679c541e3b29f51a9a4c96f4b.png" alt="Cover for Too Bad Jim" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>R.L. Burnside</td>
@@ -634,7 +600,25 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f565674ab593615a5432cd9051d387e.png" alt="Cover for You Gotta Move" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Mississippi Fred McDowell</td>
+      <td>You Gotta Move</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/VPhU43Nx4n7aUPcDKtPNqlBhTABsuhpIFWGWok0Wloc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc1/MjQxLTE2NjY5NzIx/MDUtMjYyNC5qcGVn.jpeg" alt="Cover for The Complete Early Recordings of Skip James - 1930" style="max-width:120px; height:auto;" />
       </td>
@@ -652,9 +636,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/eoUQh8nLVgdBwko73aOwNrp9GbAQKEQffAgmsvMk96k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDEw/NzQtMTQxMzU3OTUy/NC00NzY2LmpwZWc.jpeg" alt="Cover for Sout To Soul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e1bfcff7063199366b99d23d4da5d61.png" alt="Cover for Sout To Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Stevie Ray Vaughan</td>
@@ -671,26 +655,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>48</td>
       <td>
-      </td>
-      <td>1994</td>
-      <td>Mississippi Fred McDowell</td>
-      <td>You Gotta Move</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/KyauYJwftY7BEVpDUtIg8bYlyZgnU_0NrdVGW11CkJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU0/MzUtMTQ5ODU4NjM3/NS05NzU3LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/507f9e235a234c2d826a7be941e887a2.png" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>John Lee Hooker</td>
@@ -707,7 +674,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b5b76d4402e8731a88b5a15409ef732.png" alt="Cover for Founder Of The Delta Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +684,6 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
         </ul>
       </td>
       <td>
@@ -726,8 +692,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/934fced4fa18a29e447d127dd306b8af.png" alt="Cover for Dust My Broom" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Elmore James</td>
@@ -744,7 +711,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ZzJYhw7F4s9rnu2Fbq2UqRrjVBgwWFtGN7zxwj-9d6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIy/NTQtMTI5NTA1NTQ2/Mi5qcGVn.jpeg" alt="Cover for The Devil&#39;s Son-In-Law (The Blues Collection Vol.82)" style="max-width:120px; height:auto;" />
       </td>
@@ -762,9 +729,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/ASPOLfBdQHK6YqK-4nidBB0GPmak9S8AO3hu8A6KKnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTUy/ODYtMTUzMTcxNzcw/My0xMTM0LmpwZWc.jpeg" alt="Cover for Chicago Blues (The Blues Collection Vol.11)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08582bc096ec4f2cb66d5b910aa54fef.png" alt="Cover for Chicago Blues (The Blues Collection Vol.11)" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Muddy Waters</td>
@@ -784,7 +751,25 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/269d54a526757c79448260b31ea20c04.png" alt="Cover for King Of The Delta Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Robert Johnson</td>
+      <td>King Of The Delta Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b160efe97952e491ffecfedcb275379b.png" alt="Cover for Most Things Haven&#39;t Worked Out" style="max-width:120px; height:auto;" />
       </td>
@@ -802,8 +787,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54a879de5d80f40d618c416134074a23.png" alt="Cover for His Best" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-08</td>
       <td>Howlin&#39; Wolf</td>
@@ -820,7 +806,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/WeffyE700i5ysHWrAzjI-BybAs2XnlSocjRskcPgU84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTM0/MjEtMTMwODA3NDA4/Ny5qcGVn.jpeg" alt="Cover for Acoustic Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +825,24 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f5a9c52c3c04f7eba872b5ef001b29d.png" alt="Cover for King Of The Electric Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-10-07</td>
+      <td>Muddy Waters</td>
+      <td>King Of The Electric Blues</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81282f69b3574255c2f726cc183b398a.png" alt="Cover for Death Chants, Breakdowns &amp; Military Waltzes" style="max-width:120px; height:auto;" />
       </td>
@@ -857,8 +860,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/535b232c59ea4456b6007caf79676fdb.png" alt="Cover for St. Louis Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Big Bill Broonzy</td>
@@ -877,7 +881,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f480d0629520464db706a5b09d398d5d.png" alt="Cover for Come On In" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +899,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
       </td>
       <td>1998-08-11</td>
@@ -912,7 +916,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfc1a7ac42ae49b7c9491cc43217385e.png" alt="Cover for God Knows I Tried" style="max-width:120px; height:auto;" />
       </td>
@@ -930,8 +934,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/322560dfe42475c1e60053c61230fb25.png" alt="Cover for Simply the Best" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Earl Hooker</td>
@@ -953,7 +958,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>1999</td>
@@ -993,7 +998,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/DFVGbpw9NUCoQio184m4e33pk3zfOdw2TGeJvNZ_-II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc2/NjY2LTE0OTI5NjM0/MzEtODI1OC5qcGVn.jpeg" alt="Cover for Ramblin&#39; On My Mind (Blues Reference) [recorded in France 1982]" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,14 +1011,14 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 20</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/a9PGa2LyG0wTGXLjLB10jG5y7IhMLmcsHQbcZpbl-AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzQ4/MS0xNDcxNDk5MTI5/LTIzOTYuanBlZw.jpeg" alt="Cover for The Complete Studio Recordings (1 of 3)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28be815cb3734155b9b373335c0f814e.png" alt="Cover for The Complete Studio Recordings (1 of 3)" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Mississippi John Hurt</td>
@@ -1030,9 +1035,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/CGA2q_13HRucHVMmWOt39xYKMU_dmq4HDolz3GsEA5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODI5/MjItMTMzNjcyODQy/NC0zMDI2LmpwZWc.jpeg" alt="Cover for Devil On My Trail" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70f84a85e3c24c3c9286c19ee79c08f8.png" alt="Cover for Devil On My Trail" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Robert Johnson</td>
@@ -1048,7 +1053,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
       </td>
       <td>2001</td>
@@ -1067,7 +1072,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/r0j1ErUMt8uCUJBUsJ0XmrAxVUqYD11OVB-6mJy6_Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzg5/MjktMTQ5NjkwMTgw/Ny03MTI0LmpwZWc.jpeg" alt="Cover for Contracted To The Devil" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1119,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/c58onRP9ZtLECNItM4-KyWiU_SZZFCjazdQaXV0D5Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDUz/MTktMTM2MjEzNzk1/Mi01NjA3LmpwZWc.jpeg" alt="Cover for Black Pearls" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,8 +1137,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/035099ad98004776c73cadbc03b63869.png" alt="Cover for Martin Scorsese Presents The Blues: Son House" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-09</td>
       <td>Son House</td>
@@ -1174,7 +1180,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/XORDffgwTeVqgTDTKESF2oSjJiYMcPw9YOMVz_jjJuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzY3/NjgtMTQxNDQzMjcz/NS00MjM1LmpwZWc.jpeg" alt="Cover for Black Snake Moan" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,7 +1199,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/qcj3_5MljK9stId4nuI8Hw4W0vavKy55y0MHkFXSgUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzMy/MzQtMTUxNjAzNzA0/OC0yMzAxLmpwZWc.jpeg" alt="Cover for Hill Country Revue" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1219,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006</td>
@@ -1251,8 +1257,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc62f10f214947e29ec9ced6169c5fe4.png" alt="Cover for Drew, Mississippi" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Boo Boo Davis</td>
@@ -1267,7 +1274,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/312e797249f1bc689425f37faca522d1.png" alt="Cover for Down-Home &amp; Home-Made" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1302,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79117ff75bb7c670b6e53e360899f445.png" alt="Cover for Real Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,9 +1330,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/en-2wRPKVeEnFL-de4yAObCDWRz5yK4G-PNTJQG0GuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjI4/MzQtMTUzOTI5NDY3/NC0xMDEwLmpwZWc.jpeg" alt="Cover for Forever Gold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b9399891355186eb1e0633972ac5652.png" alt="Cover for Forever Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Lightnin&#39; Hopkins</td>
@@ -1341,9 +1348,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/ho_HnEs8ujSWTe5iQJ7urlPNuadlRoanMGMKmpw5OG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE1/ODQtMTQ4MDE0ODM5/MS0xOTg1LmpwZWc.jpeg" alt="Cover for Complete Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/139ec89bcdd40a0a173637a39f3116bf.png" alt="Cover for Complete Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Robert Johnson</td>
@@ -1362,7 +1369,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
       </td>
       <td>2008</td>
@@ -1379,9 +1386,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/6Kg5Wk6nPERSXgxaFA5JC0mKitRGDOZltAwQaHAq0l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTQ5/NTctMTQ2ODkyMDM4/NC04MzE4LmpwZWc.jpeg" alt="Cover for Hoodoo Lady" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c19c9b80d56e6415ee460874c0f0298.png" alt="Cover for Hoodoo Lady" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Memphis Minnie</td>
@@ -1397,9 +1404,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/3icLXachpLEqnGdB2qeFueLk69qCI0WI_yIIXCkT9Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzgy/NjUtMTQ0MjI5MjQ5/Ni05MjYwLmpwZWc.jpeg" alt="Cover for Red Hot Blues (The Blues Collection Vol.6)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bd5f634026f41f7a4d5137756a56550.png" alt="Cover for Red Hot Blues (The Blues Collection Vol.6)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Robert Johnson</td>
@@ -1416,7 +1423,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cd9679a01bcf123324d7548c9c456c6.png" alt="Cover for Ballads and Mental Breakdowns" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,7 +1450,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
         <ul>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 50</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
@@ -1451,7 +1458,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c3545fa829740c1899c6c187175f341.png" alt="Cover for Where Did You Sleep Last Night? - Lead Belly Legacy (Volume 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1476,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/937535ff8483b5cefa12cd89d2c5fe1b.png" alt="Cover for Delta Kream" style="max-width:120px; height:auto;" />
       </td>
@@ -1483,14 +1490,14 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 9</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/SkYm5pKYPYvAAjv21VFsjKuMqyLgy2wWV6QmtMPT2-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzI3/MzgtMTQwMTA0Mzg3/Mi04OTM2LmpwZWc.jpeg" alt="Cover for Undercover Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/910c3195e1504bf281cfa77b42095bd9.png" alt="Cover for Undercover Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Boo Boo Davis</td>
@@ -1510,7 +1517,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/8A5jfe4wx0yndd_5x1soP1AN7s8iImIfLa6J54G-2uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY3/NjMtMTI4Nzc3MjUx/Ny5qcGVn.jpeg" alt="Cover for Necessary Illusion" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,12 +1535,12 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 38</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/732dce0e5c8e49db967cee32151cc820.png" alt="Cover for The Reflection" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1584,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2c7557f165013e8c00d2003a9847614.png" alt="Cover for One Crow Murder" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,8 +1612,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbeb29848f80478f8621db5229bd1a59.png" alt="Cover for Smokestack Lightning &#x2F;The Complete Chess Masters 1951-1960" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-24</td>
       <td>Howlin&#39; Wolf</td>
@@ -1622,7 +1630,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/LBLy4W08XJhtdfopx2npA3lv-5eCnJvstr3IwXYmEDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/MjgzLTE1MjMwMDIz/MzgtNDkzMi5qcGVn.jpeg" alt="Cover for The Essential" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1650,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0710e904734a4cd3b29e394babc5fb16.png" alt="Cover for Brother Sinner and the Whale" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1675,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/h53uVH59xfL_st7pKlqqlBSwS1QLjXSP9tZmgna98g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjI5/MzMtMTM0NzI4NDgx/Ni03MzA4LmpwZWc.jpeg" alt="Cover for Brother Sinner &amp; The Whale" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,8 +1719,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 2</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 17</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 16</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 41</li>
         </ul>
       </td>
@@ -1737,7 +1745,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/NfOqcB-msL6oannbRiFgRQ6S-SIgWOu1Nj86gu_30Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDI4/NjctMTI5OTAwMzEy/OC5qcGVn.jpeg" alt="Cover for The Vintage Recordings 1930 - 1940 &quot;Aberdeeen Mississippi Blues&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,10 +1802,10 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
@@ -1805,7 +1813,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48e523ba9bd118b78083fdaebd1d1f38.png" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1840,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
         <ul>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 46</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
@@ -1840,9 +1848,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/i3wqLWK2YLyKpTNbmvnx3SDpHAJlrbqtDE69KUlo0Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjYy/ODItMTYxMjA4NjE1/NS04NDMxLmpwZWc.jpeg" alt="Cover for All the Classics 1946-1951" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b77f7bd406d7396a3a77e465f403c213.png" alt="Cover for All the Classics 1946-1951" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-11</td>
       <td>Lightnin&#39; Hopkins</td>
@@ -1876,7 +1884,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for Roots Of The Blues - Delta &amp; Country Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1903,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/fG-PJi4EAFSwmjyUlRwvAPd7qlud1X4I7Q6fEnyEgm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEw/MzctMTM3MDgwODA1/MS02OTg5LmpwZWc.jpeg" alt="Cover for Mississippi Blues &quot;Delta Guitar Pioneers&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,6 +1924,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e38927e8f077c0ec85a5fe3c0df3c29e.png" alt="Cover for Ain&#39;t a Gonna Lie to You" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mississippi Joe Callicott</td>
@@ -1957,8 +1966,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46e56224b72f4d1121729dace01dabb8.png" alt="Cover for Klassiker" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Aben D Blues</td>
@@ -1994,7 +2004,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2011,8 +2021,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26a189a87d42995417d94c17d2f3a1b6.png" alt="Cover for Masters Of The Delta Blues: The Friends Of Charlie Patton" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Various Artists - Shanachie Records</td>
@@ -2029,7 +2040,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td></td>
@@ -2059,4 +2070,4 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
 - [roots]({{ "/tags/roots" | relative_url }})
 - [americana]({{ "/tags/americana" | relative_url }})
 - [electric blues]({{ "/tags/electric-blues" | relative_url }})
-- [chicago blues]({{ "/tags/chicago-blues" | relative_url }})
+- [blues rock]({{ "/tags/blues-rock" | relative_url }})
