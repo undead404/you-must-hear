@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T23:44:11.477Z
+date: 2025-11-23T15:05:38.020Z
 permalink: tags/sludge
 title: sludge
 ---
 
 ## sludge
 
-Last updated: <time datetime="2025-11-17T23:44:11.477Z">Tue Nov 18 2025 01:44:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T15:05:38.020Z">Sun Nov 23 2025 17:05:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,8 +49,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/142d5fc701b74952a7539f1c86e7561b.png" alt="Cover for In The Name Of Suffering" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Eyehategod</td>
@@ -67,7 +68,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7beaf890c081a50778d0e00898bd36d3.png" alt="Cover for Eggnog" style="max-width:120px; height:auto;" />
       </td>
@@ -85,8 +86,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e065e829dc9d4794a8f2abcd2b487ca0.png" alt="Cover for Obedience Thru Suffering" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-09-26</td>
       <td>Crowbar</td>
@@ -99,11 +101,12 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f60fc0d8a6a6409899ecc0b0babeded8.png" alt="Cover for Lysol" style="max-width:120px; height:auto;" />
       </td>
@@ -119,7 +122,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 20</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +142,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 18</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 19</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 67</li>
         </ul>
       </td>
@@ -147,6 +150,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d37a462e8b9c482b59f68bb83062793.png" alt="Cover for Enemy Of The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-08-17</td>
       <td>Neurosis</td>
@@ -201,13 +205,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 81</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9853c436cd1e19874a026911a04e9c90.png" alt="Cover for When the Kite String Pops" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-08-08</td>
       <td>Acid Bath</td>
@@ -222,13 +227,13 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 39</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 84</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 87</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d17eb13035645218bf873a16d978c95.png" alt="Cover for Stoner Witch" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +254,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1995-05-23</td>
@@ -268,6 +273,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad90c3aba920f1481be22e6b7600f5c.png" alt="Cover for Dopesick" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Eyehategod</td>
@@ -280,7 +286,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 83</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 84</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 89</li>
         </ul>
       </td>
@@ -288,7 +294,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/FRzqO41I5m3QopkMFDIOpo8MpUqWWirkuZdA9Yy1iKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc0/NzktMTMzNTU5Mzg1/My5qcGVn.jpeg" alt="Cover for Jerusalem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b97337b214445cc44cdf81e7fcde89.png" alt="Cover for Jerusalem" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Sleep</td>
@@ -302,11 +308,11 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 72</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 31</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 83</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 87</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 88</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 98</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -326,9 +332,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 43</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 44</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 84</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 86</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -348,15 +354,15 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 11</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 92</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 12</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/fSzxoq_orzHpJXIScBgrnpWCOtvq4MyZ2BzpJ1aaAN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/NTQtMTQxMDQ2MTY3/NC03NTYyLmpwZWc.jpeg" alt="Cover for Mosquito Control" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c6dc1dc2e9686841b43d2b4ef5db757.png" alt="Cover for Mosquito Control" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-28</td>
       <td>Isis</td>
@@ -372,8 +378,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1134048313ffd8a83f1807d15ab5085.png" alt="Cover for Amplifier Worship" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-25</td>
       <td>Boris</td>
@@ -387,14 +394,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 42</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 57</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 80</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 60</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1999</td>
@@ -408,13 +415,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 2</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47118798abe7e43f61bf9cfd22981782.png" alt="Cover for The Red Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-16</td>
       <td>Isis</td>
@@ -432,6 +440,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a26ba7cdf7a20ba2cdac52f76fb07ef3.png" alt="Cover for Times of Grace" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-04</td>
       <td>Neurosis</td>
@@ -451,7 +460,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/qIFdi-5guUbglnEKwML8Qy_foGxitCVbKX5JMy2QTqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDE3/OS0xMTA2MjUxNDY5/LmpwZw.jpeg" alt="Cover for Southern Discomfort" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +481,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/5u5PHHLHQwPj0ZXYX_ALXiYQcCDkqh7aKGYoijj59GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAw/NzEtMTM0NDMyNDQ0/Ni03MjA4LmpwZWc.jpeg" alt="Cover for Equilibrium" style="max-width:120px; height:auto;" />
       </td>
@@ -493,6 +502,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff28e601f798b4dc7e68b47c7e2ad36.png" alt="Cover for Celestial" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-19</td>
       <td>Isis</td>
@@ -505,13 +515,13 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 9</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 63</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 10</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2000-09-19</td>
@@ -528,7 +538,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2000-10-31</td>
@@ -541,12 +551,12 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 55</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2001</td>
@@ -562,7 +572,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 1</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -586,8 +596,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33ac2ad72ecf3b017656152ff1c49967.png" alt="Cover for ...And Justice For Y&#39;all" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-03</td>
       <td>Weedeater</td>
@@ -604,8 +615,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7728c44b0ad08a294d7910061978643b.png" alt="Cover for A Sun That Never Sets" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-08-07</td>
       <td>Neurosis</td>
@@ -618,7 +630,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 49</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 50</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 82</li>
         </ul>
       </td>
@@ -638,13 +650,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 85</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99a88fd487b6c3c819f32439e2eb388b.png" alt="Cover for Cult of Luna" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-14</td>
       <td>Cult of Luna</td>
@@ -656,13 +669,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 41</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a96643689b7d63664fcf0733d6c3290.png" alt="Cover for Oceanic" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-17</td>
       <td>Isis</td>
@@ -681,6 +695,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b323d12573968083e2da8cc2d9143746.png" alt="Cover for The Beyond" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-10</td>
       <td>Cult of Luna</td>
@@ -697,7 +712,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2003-11-04</td>
@@ -713,7 +728,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 17</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 19</li>
             <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 93</li>
         </ul>
       </td>
@@ -734,14 +749,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 4</li>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 37</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 9</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 38</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/9jz3ic10KmYzOw67sINYn5kMo1_u2rtXg8KnDgesrH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTY2/OTQtMTM3NDUyNTIx/OS0yMTg2LmpwZWc.jpeg" alt="Cover for In The Name Of The Suffering" style="max-width:120px; height:auto;" />
       </td>
@@ -760,9 +775,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/zcgNqZKiJHxGap02wxsN9jZqkLVAH8uY-FJDAd4crXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjI5/OS0xMTU0ODYzOTcx/LmpwZWc.jpeg" alt="Cover for True Nature Unfolds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1feacf8e6e6a490382076a04c17a5789.png" alt="Cover for True Nature Unfolds" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-16</td>
       <td>Callisto</td>
@@ -774,13 +789,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 47</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a81911eb95540170f99b4c52d0c5e54.png" alt="Cover for The Eye of Every Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-29</td>
       <td>Neurosis</td>
@@ -792,13 +808,13 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 52</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 53</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd64d5147611e7385996934d46e191c6.png" alt="Cover for Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +834,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/gJbPNL0ZEaurYRoawFgTJ9-AFSNN0xf-nPMPMvI0fVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODcz/Mi0xNDI4MDY1ODU1/LTQzNTUuanBlZw.jpeg" alt="Cover for Salvation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee634f3a2b7a4653aea09688ba2757e1.png" alt="Cover for Salvation" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-04</td>
       <td>Cult of Luna</td>
@@ -832,14 +848,15 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 22</li>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 26</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 27</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/873b160afb6e58ac03f56a70f677230f.png" alt="Cover for Panopticon" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-19</td>
       <td>Isis</td>
@@ -851,13 +868,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 5</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 32</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2004-11-01</td>
@@ -871,12 +889,12 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 51</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2004-11-29</td>
@@ -910,14 +928,16 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 1</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 51</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/529d5ae512e14ec1ce8e25c7fe9e76fb.png" alt="Cover for Lifesblood for the Downtrodden" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-08</td>
       <td>Crowbar</td>
@@ -934,7 +954,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b67d68bed1fcd1e4405f9e2e95825587.png" alt="Cover for Mass III" style="max-width:120px; height:auto;" />
       </td>
@@ -948,14 +968,15 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 24</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 25</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a24a1788ae4814b2a1605734531f2d.png" alt="Cover for The Galilean Satellites" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-18</td>
       <td>Rosetta</td>
@@ -968,13 +989,13 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 51</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 52</li>
             <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a0de04ea33424828900a18c0febe119.png" alt="Cover for Aeolian" style="max-width:120px; height:auto;" />
       </td>
@@ -994,8 +1015,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eecd6685e6c042fd9061b10e29a3e494.png" alt="Cover for Documents of Grief" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Graves at Sea</td>
@@ -1025,13 +1047,13 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 12</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 13</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2006-04-25</td>
@@ -1049,8 +1071,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce6f26128dc5348d4b9a50668c72ca96.png" alt="Cover for Void" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-22</td>
       <td>Intronaut</td>
@@ -1067,7 +1090,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88750a89ee2d42ff9326ca39a39ca847.png" alt="Cover for Nord" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,13 +1105,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 6</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c57d27f198dc874c10f7ea5959a0063b.png" alt="Cover for In the Absence of Truth" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-31</td>
       <td>Isis</td>
@@ -1107,8 +1131,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac06234cd4512fa14d137c26680bf579.png" alt="Cover for Harmonic Tremors" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-30</td>
       <td>Zozobra</td>
@@ -1125,8 +1150,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd1e15b1e3ab6a6c324f9bb9ac17226.png" alt="Cover for Voices of Omens" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-20</td>
       <td>Rwake</td>
@@ -1144,8 +1170,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf16ffc40e34ed7984eb3e72081bec8.png" alt="Cover for The Ritual Fires of Abandonment" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-26</td>
       <td>Minsk</td>
@@ -1159,14 +1186,15 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 8</li>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 56</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 11</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff96d46e8aa4567a1a8817ad7113533.png" alt="Cover for Here Come the Waterworks" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-06</td>
       <td>Big Business</td>
@@ -1179,13 +1207,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 38</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eed48870c5fe0778a8ef76666617174.png" alt="Cover for Given to the Rising" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-08</td>
       <td>Neurosis</td>
@@ -1199,8 +1228,8 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 13</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 52</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 14</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1222,8 +1251,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7beece39dd82d7745b4bfb4140a720b4.png" alt="Cover for God Luck and Good Speed" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-31</td>
       <td>Weedeater</td>
@@ -1277,14 +1307,15 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 4</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 44</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1175e652271b4a12eb03aec089fcd264.png" alt="Cover for Wake&#x2F;Lift" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-02</td>
       <td>Rosetta</td>
@@ -1297,14 +1328,15 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 14</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 54</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 15</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb80ac02163c340e3afaac1dad3c22c0.png" alt="Cover for Sigillum Luciferi" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-24</td>
       <td>Cough</td>
@@ -1321,14 +1353,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 21</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 22</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 42</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/ERm1ZLrYxeJ2eXfaAj10KoAG2iK-q4esf2KP8syzeGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTA5/MDUtMTQ0MDQ4ODMx/OC0zMzI2LmpwZWc.jpeg" alt="Cover for 7″" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,7 +1375,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 9</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1417,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 69</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1440,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff8442f22729dfe8733050ec4ff3a0b2.png" alt="Cover for Winter Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,8 +1458,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a82db965e54725ad74bbe3fc37bf10.png" alt="Cover for Köld" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-21</td>
       <td>Sólstafir</td>
@@ -1442,7 +1475,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 61</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 85</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1462,12 +1495,12 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 95</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14300fc0880c86fc7e6227de5785b637.png" alt="Cover for Misanthrope(s)" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,6 +1520,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fcfc01a3642a0e6a968c69e73a7a278.png" alt="Cover for Wavering Radiant" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-05</td>
       <td>Isis</td>
@@ -1500,15 +1534,16 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 3</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 50</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 72</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09eb220d58501dfa32bd0485a310d9d.png" alt="Cover for Spirited Migration" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-26</td>
       <td>Dark Castle</td>
@@ -1526,7 +1561,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/476f4a527dc44ad7ca3996644ad249fe.png" alt="Cover for Inlé" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,32 +1594,12 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 53</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c12ef13812c1595145434e6446ab112.png" alt="Cover for Blue Record" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-10-13</td>
-      <td>Baroness</td>
-      <td>Blue Record</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 41</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2010-04-25</td>
@@ -1601,9 +1616,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/ESYx8GmaEGm42D6Lqn8oelivg6dcqhc389pEVapslmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDcx/MTktMTQ5MTA4ODMz/OS02NzQzLmpwZWc.jpeg" alt="Cover for Behind the Blackest Tears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed12196bde2c42129078aa74d0d0e8d7.png" alt="Cover for Behind the Blackest Tears" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-08</td>
       <td>Kingdom of Sorrow</td>
@@ -1643,6 +1658,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05e0589b89c44c5c8c4223f31ef68539.png" alt="Cover for Spiral Shadow" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-25</td>
       <td>Kylesa</td>
@@ -1656,14 +1672,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 80</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 81</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 86</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2010-11-26</td>
@@ -1680,7 +1696,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56bb770ae77e4fb99d630d674f3165b2.png" alt="Cover for Sever The Wicked Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1714,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5902ffcca27f0083f495c192595ba8a6.png" alt="Cover for Lapsus" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,14 +1731,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 13</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/4_gABzatk41M5ODeLp-RP40R518UPPCLM2CBJx-6pLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQz/NzMtMTQ2NDE3Nzk5/MC05NTU1LmpwZWc.jpeg" alt="Cover for Anaesthetic Inhalation Ritual" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adaca32ac63c399b500a52cafee06657.png" alt="Cover for Anaesthetic Inhalation Ritual" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-15</td>
       <td>Obscure Sphinx</td>
@@ -1758,7 +1774,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c6629f3035f42b6c2e2609fb3ef96bc.png" alt="Cover for The Anaesthete" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,8 +1793,9 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff0caacf9224821aa778167576e020b.png" alt="Cover for Vertikal II" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-17</td>
       <td>Cult of Luna</td>
@@ -1796,7 +1813,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2014-01-21</td>
@@ -1811,13 +1828,13 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 18</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 45</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2014-07-07</td>
@@ -1830,13 +1847,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 59</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d94b0cc3d027761db5b80b7db707d26f.png" alt="Cover for I Am King" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-02</td>
       <td>Code Orange</td>
@@ -1853,14 +1871,14 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 45</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 47</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 98</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/PsS_Cf5qZ9Ebzp32xe5cm8p-doQ-KHwCGLcBLFI7Jjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTgy/MjMtMTU3ODE3MjEx/Ni00NTAyLmpwZWc.jpeg" alt="Cover for Lightless Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,15 +1894,32 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 23</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 27</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2015-12-15</td>
+      <td>Cult of Luna</td>
+      <td>Råångest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/i2nzjqcttHod-I5gRkHjgnmz9L8OZGaZFc0PnA3gGhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzY0/MDMtMTQ1Mjc4MjIy/Ny0zNTcxLmpwZWc.jpeg" alt="Cover for Arc" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed323090ee491afda8e9937412c6aa2e.png" alt="Cover for Arc" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-22</td>
       <td>Agoraphobic Nosebleed</td>
@@ -1897,7 +1932,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 77</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1957,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/694e4e879244a3bb4208aeb7fad62568.png" alt="Cover for Green Fuzz" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,7 +1995,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 18</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 28</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 94</li>
         </ul>
       </td>
@@ -1986,7 +2021,7 @@ Sludge music is a heavy and aggressive style of music that originated in the lat
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Dyxp1t1Uy6xH58W4WFVQoNQDs-SMi5k-MsYSgNF6jOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUx/ODQwLTE2NjgxMTg2/NDgtMzEzMy5qcGVn.jpeg" alt="Cover for Remnants of the Vessel" style="max-width:120px; height:auto;" />
       </td>
