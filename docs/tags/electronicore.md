@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T03:26:58.520Z
+date: 2025-11-23T04:02:57.841Z
 permalink: tags/electronicore
 title: electronicore
 ---
 
 ## electronicore
 
-Last updated: <time datetime="2025-11-19T03:26:58.520Z">Wed Nov 19 2025 05:26:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T04:02:57.841Z">Sun Nov 23 2025 06:02:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -101,7 +101,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21a3f4a1f10b1c1f8dca91aa2fe4e7b0.png" alt="Cover for It&#39;s All a Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -162,7 +162,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb73722815174e7cb30e5934645d14ae.png" alt="Cover for As The World Fades" style="max-width:120px; height:auto;" />
       </td>
@@ -186,9 +186,9 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/3I47lwGK4pQA-9yNzxxm2kgD9pY4YUinTkoAHheAJ5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQw/MDEtMTUxODAzODM0/My03OTQzLmpwZWc.jpeg" alt="Cover for Natural Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/983fd558f7a64de29190cf9016656a22.png" alt="Cover for Natural Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>HORSE the band</td>
@@ -251,7 +251,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/pvNw1qqZRKVAAnkxSzFqD1cGZ1FfkBW6ROBO5x9iius/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzc5/ODItMTM3MzkxNjE4/NS04NTIwLmpwZWc.jpeg" alt="Cover for Everybody&#39;s Talking" style="max-width:120px; height:auto;" />
       </td>
@@ -271,7 +271,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63477a273b4de75b8525fd3b21406155.png" alt="Cover for The Aquador" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +292,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69f9c148ca2d42feae642fcc87adabe7.png" alt="Cover for Aquador" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/aA4N548f8-IsVlKG0NAJ6WcxtTFfrEteA9StDmOYmAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDk4/MzYyLTE2MDgxMTk0/MjQtNzY1NC5qcGVn.jpeg" alt="Cover for See You On the Dance Floor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34545bdeac05432f80269812c71f66f0.png" alt="Cover for See You On the Dance Floor" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Greta Knights</td>
@@ -332,7 +332,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/8TfayAUED6_JOgUKYT5oeqgnaFbS5I74eRbkZumLZi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODQx/Ni0xNDMyODAyNjUy/LTkzNzkuanBlZw.jpeg" alt="Cover for Sorry, You&#39;re Not A Winner" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38d326632cc14f5e22e9d5712706f418.png" alt="Cover for Unreleased Fagsongs" style="max-width:120px; height:auto;" />
       </td>
@@ -454,7 +454,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b60a8f3ee1948d99602f4c20a3bf397.png" alt="Cover for E A R T H S H A P E R" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +555,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 14</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 16</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 17</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 58</li>
         </ul>
@@ -576,7 +576,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 35</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 82</li>
         </ul>
       </td>
@@ -601,7 +601,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/XeCCxBsJq7AZU_8Rem0ei5LtgzS4iFYhISrYqTr12XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM2/NDEwLTE1NzI0NzA5/NDAtNTU2Ny5qcGVn.jpeg" alt="Cover for Das Monster aus dem Schrank" style="max-width:120px; height:auto;" />
       </td>
@@ -615,12 +615,12 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 72</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e02297fed58fb50ee99d0fd666540fa.png" alt="Cover for Sex Ed Rocks" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +643,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5af6fc13f85143e0bb8049b31f5d8df9.png" alt="Cover for Demo &#39;08" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +718,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/a1Q3a9OQPQZw-CG641YiKqmkLpi-WMmKhruc_qo2j4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDE0/NTQtMTQ3Mzc1MjY4/Mi02NjU2LmpwZWc.jpeg" alt="Cover for Music 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +759,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/IF4DeZHGeFPuJ297_4Jq5uxVvb7JkRbdT_mYPq1Zt-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzk3/NDcyLTE2NTcwODcz/NTYtNTc2My5qcGVn.jpeg" alt="Cover for on the verge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73c5f13dd1412df17009ec78d59aae6a.png" alt="Cover for on the verge" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Thrown</td>
@@ -796,7 +796,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 24</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 26</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 72</li>
         </ul>
       </td>
@@ -820,7 +820,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/9cm6IperYLIYCPBx97bejnptlM2RtXOyNpUcrDzlNeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgw/NzktMTI0NDAyMzc0/Ni5qcGVn.jpeg" alt="Cover for Shapeshift" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +868,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb51c03bdf4cf016cff0a7663dc5163.png" alt="Cover for There Will Be Bears" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +914,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b01b72dbeba74db99aca19400f775051.png" alt="Cover for Soundtrack to the Apocalypse" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +934,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 5</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -954,8 +954,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 13</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 18</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 19</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 19</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 74</li>
         </ul>
       </td>
@@ -981,7 +981,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3044bab1ae84721b1a7d9acfab7140e.png" alt="Cover for They Said a Storm Was Coming" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +999,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ac66eea0f4724c14963755d9d0d0e2.png" alt="Cover for Four Years Foreplay" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +1022,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7dac4354c5749e8891aba55704f1bef.png" alt="Cover for End Of The World Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,7 +1054,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1217,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/UrkXKnZGEFE5Jux_zWqfBlI_UqN_p0Q0DAxaVTRv6xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mjc0/ODAtMTM3MDM2OTY2/Mi0xNTg1LmpwZWc.jpeg" alt="Cover for Follow The Clouds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e68530a29da45ec2f53122a334e43d.png" alt="Cover for Follow The Clouds" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-04</td>
       <td>Shoot the Girl First</td>
@@ -1235,7 +1235,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/697f501cbc3a4d5e88b1bb8f12533f42.png" alt="Cover for Rearranging Patterns" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1304,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/vvD05hxNYeyoXyZz-K1g_DHL-SG0GKIwzhVJR44kfhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTM4/NzYtMTUxNTM5NTM1/OC03OTk5LmpwZWc.jpeg" alt="Cover for Fit For A King [EP]" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1325,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c56cb5fc0c913957a167218d0ff0038.png" alt="Cover for Avalanche" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,12 +1361,12 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 3</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7474d22fea634822a074049ce1c4adc7.png" alt="Cover for Beating A Dead Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,7 +1460,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90079b8c3fe2be1e0ce606e0d2a07fcd.png" alt="Cover for Liberté, Egalité, Friendvillé (Easycore Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,9 +1507,9 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/0aXEX5CDHXVW8FQoyN6gkASG8JWtZfnmDf4F8kjaQpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU2/NjY0LTE1MDE4MDgx/OTYtOTg5OS5qcGVn.jpeg" alt="Cover for Kawaii" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a94ca4bb86182c7874f31088ce1578.png" alt="Cover for Kawaii" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08</td>
       <td>Weekly Words and Grammar</td>
@@ -1531,7 +1531,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31f0c5171d8535dacca62e0a0aa169ba.png" alt="Cover for Gina Goes Wild" style="max-width:120px; height:auto;" />
       </td>
@@ -1571,7 +1571,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f572dde120bbcd8babd483122d2b614.png" alt="Cover for From One Castle To The Next (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,7 +1620,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9623958f5d86187498031ca76943f87.png" alt="Cover for Phoenix Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1646,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/WJF8KJBzd1ZoxFT95c1fbCannPnRJumJmkMzh5lcW8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzAy/NjQ5LTE2NTMxMzAx/MzAtNDk2Ny5qcGVn.jpeg" alt="Cover for Four Years Foreplay - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,7 +1694,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/iEHC2eJadrvKBtrYI-84fmIvxL69eNoosgDlQk3dHFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkx/NTc4LTE1Njk1ODky/MTctMTA0OS5qcGVn.jpeg" alt="Cover for BLACK ICE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5acc006c0dd4ba42d6e382ca45af145.png" alt="Cover for BLACK ICE" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-14</td>
       <td>Paledusk</td>
@@ -1711,7 +1711,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1737,7 +1737,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/qfsVKIve5vX6p0Z2tub6WubQX4CWaHp4Ddasih5NoOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/MTQzLTE1NDk5ODYy/ODYtNjY0MC5qcGVn.jpeg" alt="Cover for Geist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/835fe58269af1e7123be2bbf28a9f1fc.png" alt="Cover for Geist" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>The Browning</td>
@@ -1774,7 +1774,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/350df455b2d16d304109f6312591ae33.png" alt="Cover for Continuous" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,6 +1814,30 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/gXzuqhilJWquHKBZtDmIC13u3b8iCAGtgHigiecDE7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/NjI5LTE2MTY1NDI1/ODctNTc1MS5qcGVn.jpeg" alt="Cover for Grave Chimera - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-01-26</td>
+      <td>Strawberry Hospital</td>
+      <td>Grave Chimera - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>43</td>
       <td>
           <img src="https://i.discogs.com/23pCqwo6LMdpl7y_l45YOxKXOvKZ2GpEJMzRULim7oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjcy/MzcyLTE2MTY3ODIy/ODEtMTgxOC5qcGVn.jpeg" alt="Cover for Those Creatures from Ganon are Pretty Bad" style="max-width:120px; height:auto;" />
@@ -1838,7 +1862,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/kjJBCPIaQJMfWdlF9GSoz7Xe4B8iDs1n8T8B23ZDEg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDY1/NDYxLTE2MDc4OTc0/NDQtNzk2MS5qcGVn.jpeg" alt="Cover for PHANTOMa" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1904,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/IR7gNbeE7Sv1sFvtMnWL6XWZGqGWG7WoAUGVweoX_-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc0/OTUwLTE2MTIwMDU5/NzgtMzQ1Ni5qcGVn.jpeg" alt="Cover for Aurora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2aa1edb069532f8cfe814410d01e5122.png" alt="Cover for Aurora" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-29</td>
       <td>Annisokay</td>
@@ -1896,7 +1920,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/260b8dbc47ea49ad1ce342883c6cc5a2.png" alt="Cover for Those Creatures from Ganon are Pretty Bad" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1974,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5ea00b2bd324ea5b528437efcb69f7d.png" alt="Cover for Punk Goes Pop Volume 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1974,7 +1998,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/c28SmisCK-boqk9o3VB6Hn1Nz41rtrSPXs0tTdH5Jnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDkz/ODUzLTE2NjMwMDU0/NjItMjU3OC5qcGVn.jpeg" alt="Cover for Bury Me in Vegas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49a17f59078ffb3dc5e9c09d3f88e39c.png" alt="Cover for Bury Me in Vegas" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-16</td>
       <td>Electric Callboy</td>
@@ -1992,7 +2016,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/nhila5RctF6gH5VQdmas6TEZLwZiOaRO8A_ve8i99sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTEx/Njk4LTE2ODc5MDE1/NDMtNjY3NC5qcGVn.jpeg" alt="Cover for Everytime We Touch (TEKKNO Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e761fda588ceabf21b97e6b238bfa8c.png" alt="Cover for Everytime We Touch (TEKKNO Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-21</td>
       <td>Electric Callboy</td>
@@ -2009,29 +2033,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76629ef7f0fcfb61f96adb7d0a193aa.png" alt="Cover for the death and birth of an angel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-06-24</td>
-      <td>fallingwithscissors</td>
-      <td>the death and birth of an angel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 15</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26dd79894082b08bd431ab56996dc3c1.png" alt="Cover for Origins" style="max-width:120px; height:auto;" />
       </td>
@@ -2056,7 +2058,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2090,13 +2092,13 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 57</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 67</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2114,7 +2116,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48d0640ba34c4439a8846f1ae90c60e2.png" alt="Cover for Motion Sickness" style="max-width:120px; height:auto;" />
       </td>
