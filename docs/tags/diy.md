@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T12:18:26.054Z
+date: 2025-11-24T14:48:14.262Z
 permalink: tags/diy
 title: diy
 ---
 
 ## diy
 
-Last updated: <time datetime="2025-11-04T12:18:26.054Z">Tue Nov 04 2025 14:18:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T14:48:14.262Z">Mon Nov 24 2025 16:48:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,9 +47,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/e8GVczuB9wwyKavcWEm0cKMD2SaH_J5FIhy8oJ5OLDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDMz/MjQ2LTE1NTMzMzQ4/MDItMzQ1OS5qcGVn.jpeg" alt="Cover for Forming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d199905c6ec439bb46ffbd5e1b1ebb1.png" alt="Cover for Forming" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-09</td>
       <td>The Germs</td>
@@ -70,7 +70,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for MSG, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/833d406faa1d6abdee4bfad05e74e3eb.png" alt="Cover for MSG, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -81,7 +81,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 43</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 50</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 83</li>
         </ul>
       </td>
@@ -111,7 +111,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/uvjfinXT3l0NkQnWtETHPcMEeig3qUuVtWFRFRBmi40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTk4/My0xMTQ1NDE3Mzky/LmpwZWc.jpeg" alt="Cover for New Beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -130,29 +130,6 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       <td>
         <ul>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a2a2f947cd84e668163b674af53c8c1.png" alt="Cover for A Spiraling World of Pop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>The Sunshine Fix</td>
-      <td>A Spiraling World of Pop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -199,7 +176,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/3JmH-Vl2ynIkJOUnyjjFBMRr2pzqXePt36IU_N_dTsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYz/ODM0LTE1NjUwMjk5/MjgtNjY0My5qcGVn.jpeg" alt="Cover for Calling It (Peaking Lights Disco Rerub)" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +220,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/249575b027e344b6be8d4593ac8781e9.png" alt="Cover for Fourteen Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +245,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 33</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 34</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 64</li>
         </ul>
       </td>
@@ -312,7 +289,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 5</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -332,13 +309,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 3</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3029a63a8afb4596b12f6a565b0192b6.png" alt="Cover for Love Letters From Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-01</td>
       <td>John Maus</td>
@@ -358,7 +336,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/2jO0Dp_bZRtSpgO_idAyfZFWdA50D5g-QYgME6RO0dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDgx/LTE1MzMwNzY2Nzct/Nzk4OS5qcGVn.jpeg" alt="Cover for Mind Your Own Business" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +397,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2004</td>
@@ -462,7 +440,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/B2nRcm1gVkQ7LKFOIAZycaLm_4b0humtpM5sgnqPk9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDg0/NzAtMTMzNDUyNzE3/MC5qcGVn.jpeg" alt="Cover for Now we are dead and other stories" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +471,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1360a3369f9547069c3a20fc182cc7af.png" alt="Cover for Girlysound - Demo Tapes - 1992" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +491,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -527,14 +505,15 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 50</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 60</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 54</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-23</td>
       <td>新居昭乃</td>
@@ -577,16 +556,16 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 16</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
         </ul>
@@ -608,12 +587,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 7</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006</td>
@@ -647,7 +626,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/fSZZhuwfAeTKl5XBueav8ZCHfOpfMkuohFM3Iv_IsD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEx/MjQtMTIwMjM4MzMz/Ny5qcGVn.jpeg" alt="Cover for Melencolia III" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +652,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/7lW4RHri1Bq4rG7HY_onrPQIAexejYKGkenVDMioNbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzkw/NjItMTMzMjM3ODQ5/NC5qcGVn.jpeg" alt="Cover for Crabapples For Change" style="max-width:120px; height:auto;" />
       </td>
@@ -691,7 +670,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006-11-30</td>
@@ -705,9 +684,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 20</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 42</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 47</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 22</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 43</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 49</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 78</li>
         </ul>
       </td>
@@ -715,7 +694,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/hMWFu8xY1wdN3AbOVleIBbV_L1nqeIX0D-K2hSL8GNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY5/ODItMTI5MzQ3MDEy/OS5qcGVn.jpeg" alt="Cover for Bill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a59adc2f2fabe195be0ae5e0480fb909.png" alt="Cover for Bill" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Tinyfolk</td>
@@ -731,14 +710,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 12</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/1Ao8k-m_BrdJ21l16PMxuXIhfg-G1mK_TExdzuXGXYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzEz/NjYtMTMzMDEzNjcy/MS5qcGVn.jpeg" alt="Cover for Puzzlewood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0c443383077a8846fbc0ef262bd85ca.png" alt="Cover for Puzzlewood" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-18</td>
       <td>Bark Cat Bark</td>
@@ -763,7 +742,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/2hn1yawjmqmiRWhK4s0HEwRjZlVtfDQBWRA4jS4VQSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTg3/MDEtMTM2NDY1MjM3/My04ODk1LmpwZWc.jpeg" alt="Cover for Chemical Trains EP" style="max-width:120px; height:auto;" />
       </td>
@@ -780,12 +759,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 57</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/mClyA7Y6hnHSU0HKDDZqr4YzGZp5SMGrBsjAWHjlNTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NzAtMTI5NDU4NjEw/My5qcGVn.jpeg" alt="Cover for But It&#39;s Home &#x2F; This Room Spins" style="max-width:120px; height:auto;" />
       </td>
@@ -803,7 +782,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/iYdDZNVk_pUtNomcaLxUAExXzT3mTO7VvI0RGgR_Ftw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODIy/OTYtMTQwMjUwNjI3/OC0xNjQ0LmpwZWc.jpeg" alt="Cover for This Bunny Bites" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +806,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/WIVqV-EYLu5B3j8FdEpeFr1XNfqaS4lDsdkk8lHDiL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjc0/NDctMTM2MjUxODkx/OC02NTY1LmpwZWc.jpeg" alt="Cover for Dead Skin &#x2F; Dried Blood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca04300ac7b449e1832a84240f10e59d.png" alt="Cover for Dead Skin &#x2F; Dried Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-11</td>
       <td>Attica! Attica!</td>
@@ -846,8 +825,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c8142d49e764baeb46a83f17d2185ce.png" alt="Cover for What the Crow Brings" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-21</td>
       <td>The Low Anthem</td>
@@ -861,7 +841,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 51</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -890,7 +870,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/PkZS8AW_6FKkl5h5hfRvR2H1nFYM0JvBTmCXzEr6p9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc4/MzItMTI5NDQxNjQw/Mi5qcGVn.jpeg" alt="Cover for Rupert The Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +894,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/WBE_EUunA0LDbgU6qPkGf3w_y6gkHsDcX-AcjodQ0Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEw/MTQtMTMxNjc2NzYx/Ny5qcGVn.jpeg" alt="Cover for genetic endeavors" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb3a928b23d246628555c9bdf99b8d62.png" alt="Cover for genetic endeavors" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Fujiko</td>
@@ -955,7 +935,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2008-07-01</td>
@@ -969,14 +949,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 1</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 29</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 51</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 5</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 30</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2008-08-29</td>
@@ -1015,7 +995,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 11</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 1</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 30</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
@@ -1026,7 +1007,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/Iivf0TcyWpGaosxBMxUpt41Rgnf57eDItDOpje4y71Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ1/NjYxLTE2MjA0OTg2/ODAtMTMxMy5qcGVn.jpeg" alt="Cover for Boat Boat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a948b7eab3f0b4c77d01b2a8e75c8c1f.png" alt="Cover for Boat Boat" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Totally Nebular</td>
@@ -1050,19 +1031,19 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 66</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 55</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 65</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 83</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/V2Ip6RzL_2vYfZ50HnbZ4oyBzCWRHx1LhXYpPc1ssUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODMy/NDUtMTMxMDM0NzUz/MC5qcGVn.jpeg" alt="Cover for Fire Island" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77d487bb13032b0cb8cf46a60160f640.png" alt="Cover for Fire Island" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-02</td>
       <td>Philip Seymour Hoffman</td>
@@ -1091,7 +1072,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/v-MmxPyWOoMvSJRIcDEiW9Kfw0qG4Hya4vn2wE0cAv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjEw/ODktMTMxMzg4NjM0/Ni5qcGVn.jpeg" alt="Cover for n i c h e g o" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/453aa2a81f8547ada7fea9effb18c982.png" alt="Cover for n i c h e g o" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-06</td>
       <td>Padla Bear Outfit</td>
@@ -1108,7 +1089,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2010-01-27</td>
@@ -1128,9 +1109,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/xjDRHq-i-y0DqfOsSZNZAa-GbckTT9y7J-u79jfijL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTIw/MzItMTQ1OTkyNDE0/Ni00NjExLmpwZWc.jpeg" alt="Cover for beko_29" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92aba1e2a5e99271f59c0ef41a3764e5.png" alt="Cover for beko_29" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-29</td>
       <td>Raw Thrills</td>
@@ -1152,9 +1133,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/H_HBBK16PNY7Q8UeuLyjk5XYENWtj9aNin8NYQSi3FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM3/ODAtMTMyNDg1NDQ1/NS5qcGVn.jpeg" alt="Cover for Keep On Living" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de1829ebf0544e64bc9d9272f430243d.png" alt="Cover for Keep On Living" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>LE DEAD PROJET</td>
@@ -1179,8 +1160,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53547bef95db4f0acf999af55210a984.png" alt="Cover for No Becoming" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-01</td>
       <td>Lee Noble</td>
@@ -1207,9 +1189,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 35</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 92</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
@@ -1219,7 +1201,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/0tPhFuf0unQp7BNs9DBcGVvG7EsoK08QovRdZQcstD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTgy/NjQtMTQyMTk1OTUx/My0zNzYzLmpwZWc.jpeg" alt="Cover for Reactions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43af661cb0424a0581b457c099645457.png" alt="Cover for Reactions" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-01</td>
       <td>Telepathic Teddy Bear</td>
@@ -1246,31 +1228,27 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 21</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 48</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 53</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/suKKE33iD2MG_9egTztLT7wfcv8fgRj4EFIsOEDsbmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTI4/MzItMTQwOTg0OTQ1/NC0xNTMxLmpwZWc.jpeg" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/416a445c60f14539995aeb37809ae85c.png" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-23</td>
       <td>Valotihkuu</td>
       <td>Flutter EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
@@ -1278,22 +1256,20 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 7</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 41</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/FbY-oqnNquRm1IJTHnUuuV_6u2UemLDzzdsDYbowoFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTMw/NzktMTM1OTgwNTQw/MS02MTI3LmpwZWc.jpeg" alt="Cover for Life So Changing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11ffe7f909b84ac7cadb57f3cf00a541.png" alt="Cover for Life So Changing" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-01</td>
       <td>Come To Get Her</td>
@@ -1313,7 +1289,41 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b6de9b2c53b70ec341b1f3a6807105.png" alt="Cover for Low Cool" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Mark Lesseraux</td>
+      <td>Low Cool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
       </td>
       <td>2012</td>
@@ -1357,8 +1367,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 41</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 60</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 42</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 59</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 74</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 95</li>
         </ul>
@@ -1367,7 +1377,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/_D5riCpmfObWgS7Xl3pfLKvzNbDwdNrWS_kRoBy_CpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODQ1/ODQtMTM4MDExNzc1/NC03ODQyLmpwZWc.jpeg" alt="Cover for Vision Of Estonia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/230b666230a2d640b32e51fd75052bc2.png" alt="Cover for Vision Of Estonia" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-13</td>
       <td>Uku Kuut</td>
@@ -1384,12 +1394,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 80</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Ll2QEgoC4Pfy7gctBbVs_VG2aETCS84igEuJIE0Fztc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODk1/NzItMTM3NTYxNjI1/MS03NDczLmpwZWc.jpeg" alt="Cover for Dan Webb and the Spiders" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,6 +1450,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37b619af04974e62ce31defbf8fed47c.png" alt="Cover for Reflecting the Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-16</td>
       <td>Black Bug</td>
@@ -1461,7 +1472,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/r0-RFQQQR1oikqVTXkBaqGkFyaDmf5OHZqFRFZB8gzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU1/ODgtMTM3MjE4NTMx/MC02Njg3LmpwZWc.jpeg" alt="Cover for Cave Sounds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceea97526e524ce1a469b33d9d6a4efd.png" alt="Cover for Cave Sounds" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>Ghost Cat</td>
@@ -1477,7 +1488,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 47</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1536,7 +1547,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/6g7IOJupDlNOD9-t8Fyt9JwAuQxsh181A4eZQPI-000/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIx/OTMtMTQzMDcxODIz/Ni01Nzk1LmpwZWc.jpeg" alt="Cover for best of acapella" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,10 +1568,10 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 14</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 15</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 59</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1586,9 +1597,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/GV40yKChExTiDiV-CDN2uSKCVCkqOHOLKLo4GVpGk7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc0/ODA4LTE2NDcwMzA0/NjAtOTM2My5qcGVn.jpeg" alt="Cover for Lovetime Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79f9666e1a4a114bbdbe1be34ac108d7.png" alt="Cover for Lovetime Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-29</td>
       <td>Sintipon</td>
@@ -1608,13 +1619,13 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 27</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/HgNGFlLggGw0hPWSWR4vc_ad1fEHBaKJaL2u41c7AHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA4/MjkxLTE1Mzg1MDcy/MjEtODcxNi5qcGVn.jpeg" alt="Cover for Império Auto-Mano" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,7 +1642,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 8</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 7</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 29</li>
         </ul>
       </td>
@@ -1639,7 +1650,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/8aTp5GHdbKHmrXfRYSw9GbDxue4Kp3Y3pk8UhbTFRi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMx/NTMzLTE1MTk3MzMy/MjYtODgwOC5qcGVn.jpeg" alt="Cover for The World Is a Terrible Garage &#x2F; Death of a Lobster" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce539253f280285b2506e4d155a2646.png" alt="Cover for The World Is a Terrible Garage &#x2F; Death of a Lobster" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Blasteroid</td>
@@ -1657,14 +1668,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 24</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/35Li5H_QQkHvKE1hFNVlQJ9pFmgx4uc-pWomB4DCt-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU5/NDc2LTE0OTI2NTA5/OTYtNDU5NS5qcGVn.jpeg" alt="Cover for Unsummering" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8583abdb8790a5d795d1ff0576d35824.png" alt="Cover for Unsummering" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-03</td>
       <td>R. Missing</td>
@@ -1682,11 +1693,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/688a3f07c6addd7c41b209738404cfeb.png" alt="Cover for Morningside" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1707,6 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       <td>Morningside</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
         </ul>
       </td>
       <td>
@@ -1704,9 +1715,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/uUAxBozth9sDfsQvehdXnPRa3DfCkXkSaVtBABskJIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY1/MDUzLTE0OTYwNTc5/MjEtMzQyMC5qcGVn.jpeg" alt="Cover for CHEAT DEATH, LIVE DEAD!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/831b22d615e0726980116af6e109f560.png" alt="Cover for CHEAT DEATH, LIVE DEAD!" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-17</td>
       <td>Shizune</td>
@@ -1717,14 +1728,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 76</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/wHa4VzJb2ucryFQ4Rv1jdEDcvW_f-Mm9a2o8YiGcLwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM5/MTI0LTE2MTcyMDY3/OTYtNTU0MS5qcGVn.jpeg" alt="Cover for Shipwrecks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75760ff5ae8597b88835c84709179115.png" alt="Cover for Shipwrecks" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-10</td>
       <td>Shipwrecks</td>
@@ -1763,7 +1774,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/w6ZUY9dBbznpI9iOsFM1BtPE1PImU7Q3luvzLSo7SK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQy/NDc5LTE1NDEwOTU0/MDItNjg0NS5qcGVn.jpeg" alt="Cover for Learning How To Unlearn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e594274344f90d01a98623b2b3490ac.png" alt="Cover for Learning How To Unlearn" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>Dogtooth &amp; Nail</td>
@@ -1778,14 +1789,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 81</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/u72_NnEr2HjgWIqTuA_YFh6irxXA3ohrybHeXaIXJ44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA2/MDAyLTE1NDYzMDgx/OTgtMjY0Ni5qcGVn.jpeg" alt="Cover for MSG, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bdb0eaae5b7b826a6e5427d9afbbbb4.png" alt="Cover for MSG, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-31</td>
       <td>NEGATIVE XP</td>
@@ -1800,9 +1811,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/Cbu5EGipZs5Fo-s2CUrTjuncU6IjZPc2CWXOGePNAp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYz/NzE2LTE2MTk5ODQ3/OTMtNzE5MC5qcGVn.jpeg" alt="Cover for Story of My Life EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-25</td>
       <td>James Hutton</td>
@@ -1853,7 +1863,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/ZRlNPeJ05fODgxunMuNpL-N-Wdi_DrBWQ8ODTI_gGRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTc0/NzI3LTE2MTc3MDA2/MjctNTUxMS5qcGVn.jpeg" alt="Cover for Spectronic Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,10 +1890,10 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 6</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 16</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 94</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
@@ -1911,9 +1921,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/nQRro25m9Wv8cIQhYOA7W9M1jFUiyB05ax3ob90f3N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/NjgwLTE2MTI4MDUy/MzctNjIwNy5qcGVn.jpeg" alt="Cover for Signal Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36fe8e711d13323cc37e3c49dc78cc5a.png" alt="Cover for Signal Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02</td>
       <td>Automatic</td>
@@ -1934,9 +1944,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/nXawwrcg3kub11XZlLW0VbTs8ZCXvH11ZfwUeMnX-XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjcz/NzA3LTE2NTYwMjQ1/MzMtMTg1My5qcGVn.jpeg" alt="Cover for Untying The Giant Knot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eee50ce5ebc1908fc3770132ddb1e28e.png" alt="Cover for Untying The Giant Knot" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-11</td>
       <td>Trustfall</td>
@@ -1952,12 +1962,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       <td>
         <ul>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 74</li>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 85</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/3A9skk28s4qXk0xh99hmcO0IPIbBq6JrwUKEq0CTlYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg4/NDY3LTE2Njc4NDQ1/NzEtNDk5NS5qcGVn.jpeg" alt="Cover for Fingers Crossed" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,7 +1988,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/wg-HNtxnfi5lwSLrHj6IAZC40pUqslZO5tcs79uwu2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjky/Nzg1LTE3MTU4NjAx/MzEtMzQwNS5qcGVn.jpeg" alt="Cover for Herzenergie" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,14 +2021,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 50</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/GCBt5UBlhP4TUvf-oJD1sKZFybh8FNyIYXKGtW0jdHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTUw/OTQtMTQ2OTM2MTE4/NC05NjI0LmpwZWc.jpeg" alt="Cover for Hi, How Are You? (The Unfinished Album)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c37852804f64db3cdc5eb892da9568e.png" alt="Cover for Hi, How Are You? (The Unfinished Album)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Daniel Johnston</td>
@@ -2029,14 +2039,14 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/9v7LWjT1ZYiN6hVNCShg6rbuMoKhzhA4kyvx-m7-BfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDgx/MDI5LTE2OTYzMDc4/MjItNDM3My5wbmc.jpeg" alt="Cover for ...i do my part by not killing spiders" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/439436bc3433bd0efceb257deb7cf270.png" alt="Cover for ...i do my part by not killing spiders" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Freezer</td>
@@ -2074,8 +2084,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10b44f9507a875ffd9d5dc327905ab0d.png" alt="Cover for Space, Time &amp; Plexiglass" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>One Inch Man</td>
@@ -2089,12 +2100,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 30</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 32</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 38</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 76</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2120,13 +2131,13 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 6</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 64</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 4</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2148,12 +2159,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 69</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
@@ -2175,12 +2186,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 73</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2214,7 +2225,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2279,12 +2290,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 63</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2305,7 +2316,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a152febcf77a6eada381778ffa34d9a.png" alt="Cover for (antes era) terapia na terça" style="max-width:120px; height:auto;" />
       </td>
@@ -2402,7 +2413,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>

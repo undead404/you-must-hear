@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:44:12.065Z
+date: 2025-11-24T14:40:51.917Z
 permalink: tags/gothic-country
 title: gothic country
 ---
 
 ## gothic country
 
-Last updated: <time datetime="2025-11-23T08:44:12.065Z">Sun Nov 23 2025 10:44:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T14:40:51.917Z">Mon Nov 24 2025 16:40:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2d5cb186b3a51b84f14639d9b1c3381.png" alt="Cover for Miami" style="max-width:120px; height:auto;" />
       </td>
@@ -84,12 +84,12 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 17</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 64</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>1995-11-07</td>
@@ -121,12 +121,12 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 18</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 65</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6c8c6eb0c2c55ac8ed343808dae32eb.png" alt="Cover for De Dar He" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e53993e0f71a43d99e1f3b96c6f63cb6.png" alt="Cover for Munly de Dar He" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2000-04-01</td>
@@ -202,7 +202,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce31331d688f41f0a8498ab1ce43678f.png" alt="Cover for Secret South" style="max-width:120px; height:auto;" />
       </td>
@@ -217,12 +217,12 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 51</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c924b516f000a0206afe1407efdac9f1.png" alt="Cover for The Nightly Disease" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +231,6 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       <td>The Nightly Disease</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
       <td>
@@ -240,7 +239,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbae3e423af8d2ee56a9ee89f94c5eb6.png" alt="Cover for How I Loved You" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +258,24 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f21710feca9a4ab5992d024f856318db.png" alt="Cover for Woven Hand" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-03-25</td>
+      <td>Woven Hand</td>
+      <td>Woven Hand</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/806ce57b39af408288db76facc1e34e7.png" alt="Cover for Folklore" style="max-width:120px; height:auto;" />
       </td>
@@ -273,12 +289,12 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 9</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2003</td>
@@ -316,7 +332,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acea76bff16f4ba99556c0156b2dc2a5.png" alt="Cover for Country Bullshit" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +355,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/KQ9Bs_m9rCIl5P1ucP_f1Ed0nSEsU93VUBEi0m-UgRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg1/NDgtMTM4MzQ1MTg1/OS01ODk3LmpwZWc.jpeg" alt="Cover for The Bloudy Tenent Truth Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -357,7 +373,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
       </td>
       <td>2004-02-03</td>
@@ -376,7 +392,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a253b500e02b46778c0b10fdc97fb514.png" alt="Cover for Consider the Birds" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +406,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 23</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +428,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3be085f567dd47ebac19a0a09a1889ec.png" alt="Cover for A Romance of Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -430,7 +446,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
       </td>
       <td>2007</td>
@@ -447,7 +463,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a356d696e0c4f6fbec85657b2e2b65b.png" alt="Cover for Hellfire Hymns" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +480,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5233efe1321a62bb48ce6058e111d23.png" alt="Cover for Bitter River" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +501,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bac7f9dd2215432ac37ea86f9f96a0d2.png" alt="Cover for Red Of Tooth And Claw" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +538,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cd9679a01bcf123324d7548c9c456c6.png" alt="Cover for Ballads and Mental Breakdowns" style="max-width:120px; height:auto;" />
       </td>
@@ -549,15 +565,15 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
         <ul>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 61</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a4abfd80b2d4f2aa5eefd86c5795bbb.png" alt="Cover for Cerberus" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +614,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +638,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/GfD7L0X62M2Q9QTDyrj--KvlB87uWCJ43ikV4Rirufo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ0/NjktMTI2MzExMDE1/Mi5qcGVn.jpeg" alt="Cover for The Red Coats" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +656,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b1dbfdf2e0f26f9635ce4c61ef7806f.png" alt="Cover for A Bitter Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -700,12 +716,13 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 5</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 1</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc70c6939ed6428997f559e50ff4f09d.png" alt="Cover for Saints and Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +747,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
       </td>
       <td>2010-07-06</td>
@@ -747,7 +764,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
       </td>
       <td>2010-10-05</td>
@@ -766,7 +783,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2010-10-25</td>
@@ -786,7 +803,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a702925dd348cbaeaf2167500cd241.png" alt="Cover for Seven Devils" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +823,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/-Z0pOduDdhcVVRK7Eyo3kS-sUioq0ubLZZ21n9iNQDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/NDktMTQ3ODAyODMw/Mi0zNTUxLmpwZWc.jpeg" alt="Cover for King Dude" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +842,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
       </td>
       <td>2011-11-08</td>
@@ -839,12 +856,12 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 34</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2012-06</td>
@@ -863,7 +880,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f9c05573e7742f2894e70a3a199f677.png" alt="Cover for Weak As Water" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +902,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d62513cfd24678a63474b32d99c6f5.png" alt="Cover for I Ain&#39;t Ever Gonna See the Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +920,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/TAMFvpMYnBywcRsiJ0cZrD8MzU-ekEtzD2r3nAt0hqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc3/OTAtMTUyNTMwNjky/OS03MTg2LmpwZWc.jpeg" alt="Cover for &#39;Mystagogue&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +937,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/779676c6e0ed4ac49eadaab38dfbe7b5.png" alt="Cover for Against The Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +958,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2013-05-11</td>
@@ -958,7 +975,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/7Lj6nccIlug3QNThbJsOR92wCiCWU_Qw2ZWie7RkcCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzI5/NDEtMTM3Mzc1MTYy/NS03MzAwLmpwZWc.jpeg" alt="Cover for Love&#39;s the Only Engine of Survival" style="max-width:120px; height:auto;" />
       </td>
@@ -992,12 +1009,12 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 70</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/VXVsNKTqQ1sv5dzn8MZjLa7sEPDmrWTvlHyFwJvql7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/MzU5LTE0OTk0NDA4/NjYtOTczNS5qcGVn.jpeg" alt="Cover for A Pocketful of Glass Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1042,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xJ95bjLzd9xClbQQDBnyby2TxJShRphNwelBTsQhSAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjU5/NTgtMTQxMDE4MTEz/NC02NTY4LmpwZWc.jpeg" alt="Cover for The Demonstration Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1060,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f76e38762054db3cddf0c414b88ad94.png" alt="Cover for Memoirs of a Murderer" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1078,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>2014-10-07</td>
@@ -1104,7 +1121,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/6ynQjL07y5KWXdmTNtzJoNMi-4nB8AtEgtc1BbQctFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTkz/ODAyLTE2MTIxMDA2/MjItMjk2Mi5qcGVn.jpeg" alt="Cover for Cautionary Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1158,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48e523ba9bd118b78083fdaebd1d1f38.png" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,15 +1185,15 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
         <ul>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/WnyFS9gK6cRBzkF7dTU2enr4v2Qv5rz-IL-jZQh-afo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzU3/NDktMTQyODUxMzYx/MS05NTg1LmpwZWc.jpeg" alt="Cover for Bad Omen" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1211,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/AHfbPboEWaXA9mrY_USKidp6-XXPXJlSU5xFcir9MWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjQy/OTAtMTQ3MDM1NTA4/MS02MDk4LmpwZWc.jpeg" alt="Cover for Shaky" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,14 +1244,14 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 6</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 10</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 24</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 74</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4ab3b5b5c1e6a707e487c2e3e9329d.png" alt="Cover for THE GREAT SUN" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1275,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/JInUTkY9pwbr5wXoNR4PqrQD58CG1K-qyXEp5kLTjbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzY5/MTMtMTQ1NTgzMTgz/My0yNDk0LmpwZWc.jpeg" alt="Cover for Sing it Ugly" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1294,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/bBdA0V2m0b6jvnF9Xpozi6-Y5obXkGwY5feyj4Z6WOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NzU4LTE1MDU4MDkw/NTMtMTcwMS5qcGVn.jpeg" alt="Cover for Госпел" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1312,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/bBdA0V2m0b6jvnF9Xpozi6-Y5obXkGwY5feyj4Z6WOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NzU4LTE1MDU4MDkw/NTMtMTcwMS5qcGVn.jpeg" alt="Cover for Гріх" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1330,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ywTWcwvOx3gtOncbnGBYfkDjIio0l1PSXSR0KK1d5l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/OTA0LTE1NDg4Mzcy/ODgtNDAzMy5qcGVn.jpeg" alt="Cover for For Gathering Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1349,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43a436094a8d56b7094bbc97bf9a3be8.png" alt="Cover for Songs of Love and Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1369,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/NL7508sMSUdWKk7fCo_Qq3gNBShCrhB6BNgrowbU0fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY4/NTU4LTE1MDkyNzM4/MzUtNDI0OS5qcGVn.jpeg" alt="Cover for Doubt Is My Rope Back To You" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1388,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a569b1589daa628150b90caaa8a00656.png" alt="Cover for Liberty" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,7 +1408,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c122689111215e1376a466305482dc9f.png" alt="Cover for Amour braque" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1471,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/tOFHFfOGJ-gw4CKOoPkjjDQs4YrUnBdQCaVwqwdUcEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTMyLTE1NDAzMDk0/ODMtODI2OC5qcGVn.jpeg" alt="Cover for Inhuman Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1489,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee92a465ddfe6bc401aa3e5066305f12.png" alt="Cover for Мертві голоси" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1510,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/yoo1FkI7i3V2vqrtbIJ0ry6ZFZevOaFqN-ZQQAVS1ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE3/NjA0LTE1NTc2MDcz/NjYtMzQ2NS5qcGVn.jpeg" alt="Cover for Wings Alleluia" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1529,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86dd1a58128dcd06ec14ad78517f6ffd.png" alt="Cover for Pony" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,15 +1543,12 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 53</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 71</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 91</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 96</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/hZvFewntze4_b86m3h15NEip8owW_9ZXpQA_eZ3Dpbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MDA1LTE1Njk0MjQ0/MzQtNjY2NC5qcGVn.jpeg" alt="Cover for Old Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1566,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b728d5856c67ad41c9738ef0e45f8b54.png" alt="Cover for Trouble of this World" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,7 +1597,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/POu5Kypv-VE_7BcSceX5i-K27Q-kZspwh6cWkzW8dIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY3/NDc4LTE1ODc1NjY2/NjAtNzIwMy5qcGVn.jpeg" alt="Cover for The Jeffrey Lee Pierce Sessions Project: The Journey Is Long" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1615,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1701ddaaa8f2b90603b474731edc5abc.png" alt="Cover for Tell Me Your Mind And I&#39;ll Tell You Mine" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,7 +1636,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6f1c4aa9050cacf28a166884ed8680d.png" alt="Cover for The Anatomy Of Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,7 +1655,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/024739868d1444077974a1b605236dbb.png" alt="Cover for The Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,8 +1678,8 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 63</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1702,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/jBOgw6rVM3wJuP3jaX5t-E75ylFpKOoGzO4fw1a_Rcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU3/NTc1LTE2MzI1MjUy/OTktNzA1Mi5qcGVn.jpeg" alt="Cover for A Fistful of Desert Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1721,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/mtFfJQoPXPQxNKxaWdSWPTtSR2ryKlSRvRdht3AzOeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTcy/NzQxLTE2MzgyMzUw/MTEtMjY4Ni5qcGVn.jpeg" alt="Cover for Old Time Suffering" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,40 +1739,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>82</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40bc2e7902120ba5f4f089895edcffe3.png" alt="Cover for The Wrath of the Clouds" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-02-04</td>
-      <td>Marissa Nadler</td>
-      <td>The Wrath of the Clouds</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 70</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8b28bf14bca3a47218bbed418ca3115.png" alt="Cover for Guilty" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1759,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ce3238a6b8cd4db1e356f9d2b30347.png" alt="Cover for Don&#39;t Let Your Love Life Get You Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1779,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/cRApV8IucNZGWoU86P_1N3oUX1qo4CDNmLsFlHgDDsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjY1/NTg0LTE2OTQ3NDEx/MzItNTY4OS5qcGVn.jpeg" alt="Cover for Longing For Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -1818,7 +1799,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbc1273f7034f34a127cb77aacf89d4d.png" alt="Cover for Тисяча Очей" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1819,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cebb8a73e6f4d9bb82135db296c787b.png" alt="Cover for Munly &amp; The Lee Lewis Harlots" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,7 +1837,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc566c665bb1f77035bbb70f36142a2b.png" alt="Cover for Please Leave Quietly" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1858,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/PNoR_qwDG2uppLKhXHYC0_9upRGGzHlFasE5zti7vg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/NjI1LTE3MTcwODY4/NjMtNzMxNS5qcGVn.jpeg" alt="Cover for Kinnery of Lupercalia: Buell Legion" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1876,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1916,7 +1897,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1936,7 +1917,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1953,7 +1934,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td></td>
@@ -1970,7 +1951,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1987,7 +1968,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -2005,7 +1986,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -2024,7 +2005,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
@@ -2056,4 +2037,4 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
 - [contemporary folk]({{ "/tags/contemporary-folk" | relative_url }})
 - [blues]({{ "/tags/blues" | relative_url }})
 - [neofolk]({{ "/tags/neofolk" | relative_url }})
-- [indie folk]({{ "/tags/indie-folk" | relative_url }})
+- [gothic rock]({{ "/tags/gothic-rock" | relative_url }})

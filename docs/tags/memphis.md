@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:36:52.770Z
+date: 2025-11-24T14:47:26.868Z
 permalink: tags/memphis
 title: memphis
 ---
 
 ## memphis
 
-Last updated: <time datetime="2025-10-28T06:36:52.770Z">Tue Oct 28 2025 08:36:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T14:47:26.868Z">Mon Nov 24 2025 16:47:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/f-n8AQ6pBfqx4aCAfj-qpTMcK-0d17Mio6PrvbLFdrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzcy/ODMtMTM5MTQ2NDc3/NS0yMTU5LmpwZWc.jpeg" alt="Cover for Uptight" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78259b3dd75faaabf6f56ee97e559374.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -66,8 +66,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fd125c730e7ed27e0a153b48cbfdbdd.png" alt="Cover for All About Comin&#39; Up" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Gangsta Pat</td>
@@ -84,7 +85,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/s0s-JAJ5RxstNv2wI68uptKwJW4I8jTzghRVr4v_Oc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ0/MTYtMTM5MjIzOTc1/MC0xOTEzLmpwZWc.jpeg" alt="Cover for The Good, The Bab &amp; The Ugly" style="max-width:120px; height:auto;" />
       </td>
@@ -102,27 +103,26 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3080a61d2dbd875ad373e5f758d8dce.png" alt="Cover for Mystic Stylez" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-30</td>
       <td>Three 6 Mafia</td>
       <td>Mystic Stylez</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 75</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 67</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/IVDPqMbREy-J6DjQt_MMHvP3-eTjXaDFQHrXhjuPI3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDM5/Ny0xMzk2NDE2NzY5/LTM2MjIuanBlZw.jpeg" alt="Cover for Fly Shit" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +142,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/68rfNqPkfmmWypQlMtaK1OpIoH1xg3-LG5NKSD4K9gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk4/ODAtMTY1OTQzNTMz/MS03NDg4LmpwZWc.jpeg" alt="Cover for Aint Nuttin Shakin" style="max-width:120px; height:auto;" />
       </td>
@@ -161,16 +161,15 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7d1ae7df87a44c2c40d76992f0ca577.png" alt="Cover for Can It Be" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-10-29</td>
       <td>Gangsta Blac</td>
       <td>Can It Be</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
         </ul>
       </td>
       <td>
@@ -179,7 +178,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/TjYlK9iPNIQRLau7fg95RZbEkyej0Z-AOxvSeQ4h1eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTkx/MTktMTY2OTk5MzQ5/MC01Njg5LmpwZWc.jpeg" alt="Cover for It Gets Greater Later" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +197,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/IOpggRSZRuSUfP4-F4LDat5Dfv-nJgLETdjJU8cSnmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYy/MC0xMzYyNzIyNzY3/LTM1ODMuanBlZw.jpeg" alt="Cover for Homicidal Lifestyle" style="max-width:120px; height:auto;" />
       </td>
@@ -215,13 +214,13 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 45</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 45</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/gzIoqa3EzaDY3ZezG3ScA-RquVgsDuFXlJmx935wwVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg1/NzUyLTE0OTQ2Nzc2/MTMtNzAyOS5qcGVn.jpeg" alt="Cover for To Kill Again...The Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +238,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Yn-t6UYq2vyLi7WspDm3yAvjF0VyQ2-TtI38egj_5kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzY0/ODUtMTM4ODQ5NjY2/Mi0xMzAxLmpwZWc.jpeg" alt="Cover for I Am Da Gangsta" style="max-width:120px; height:auto;" />
       </td>
@@ -258,9 +257,8 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/ByuJquQMxSh6UgeJZtJCrSRXdaov-p5d_3q8dKYpZSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg4/NDctMTQ0OTI4Mzg5/Ni01NTA1LmpwZWc.jpeg" alt="Cover for 74 Minutes of Boom" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Gangsta Blac</td>
@@ -277,7 +275,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/uHHn6q2HREwFQ7IJd5_JcSoJVyZjjvLqJX8YfbSMeEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc0/NjQtMTQ2ODQ3NTY4/OS00Njc0LmpwZWc.jpeg" alt="Cover for Most Known Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +294,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>66</td>
       <td>
       </td>
       <td>1999-11-16</td>
@@ -313,34 +311,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>13</td>
       <td>
-      </td>
-      <td>2000</td>
-      <td>Big Boogie</td>
-      <td>Definition of Big Dude</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 2</li>
-            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/9HNYpTTpl1Hh3BX8wkm5BUO1IyNgLZatviudN3l6AjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTM3/NTItMTM3NTcyMjgx/Ny00NTYzLmpwZWc.jpeg" alt="Cover for Show Ya Grill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70a6dc18942ec7c4cfb632bdf0e299db.png" alt="Cover for Show Ya Grill" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Gangsta Pat</td>
@@ -357,7 +330,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/2QVOCYrl-D0xH6TU0Phem8DW_9FkffUlf46EK1kPTqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/NjEtMTY0OTc4NTY3/NC0yMjA3LmpwZWc.jpeg" alt="Cover for Genesis: Greatest Underground Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -376,7 +349,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/dmjEL4V6MfOIuw-wRblHthIldRAXuyXSBlcVZOK7zq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTk1/Ni0xNTI3OTY3MTY4/LTU2ODAuanBlZw.jpeg" alt="Cover for Heltah Skeltah" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +368,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/oxsLuRqN410kh3pCT_qL5XCAmPmg1pQ4pn3CynJMCdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzkw/MDUtMTM3ODY5OTAz/NS0zMzQ5LmpwZWc.jpeg" alt="Cover for The Attic Tapes" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +386,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/hdryat0zMS3HQoD6_qJZGEPXAqXUzua4-8kuToksczc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/MjI2LTE2MTE5ODQ4/MzQtODY0OC5qcGVn.jpeg" alt="Cover for Dead Horse Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +405,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/uMxb6iSn5knpV_HmqG1YqdwTb83hSKUPyDq5xYWv0EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYx/NzMtMTIxNDI0MDk4/NS5qcGVn.jpeg" alt="Cover for Prophet&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +424,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
       </td>
       <td>2002</td>
@@ -465,12 +438,12 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 17</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/sCRi3QpZkydf3eABCWFGiMS3_uCL2xYVt8zItEkQHXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzM0/MjUtMTM2NDc1MTAx/OS0xMTE1LmpwZWc.jpeg" alt="Cover for Our Land Brains" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +461,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/83W2SMKeSm87eKWIWOLL5EKNtOCzFAQdO3xroP3qiNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIz/My0xNTA3NDk4NjY3/LTMzMjQuanBlZw.jpeg" alt="Cover for Mista Don&#39;t Play" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +480,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Qj2_ufO-WI7vXNMSKM2o152vySxSbhfVp4vksuhHaKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEz/ODgtMTY2NDM2NzQ4/NS04NTQ0LmpwZWc.jpeg" alt="Cover for Da K Project" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +498,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>99</td>
       <td>
       </td>
       <td>2002-09-24</td>
@@ -543,8 +516,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aa9af2217b736fc9f165b4134a8013c.png" alt="Cover for The Hell You Say" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-08</td>
       <td>Cory Branan</td>
@@ -563,9 +537,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/DJXZiOOCBn7e5kwkaNZ9-5Q0TgDU8fWh4z9GpQDWIP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM2/OTE0LTE1MDg2ODMw/ODItOTc1My5qcGVn.jpeg" alt="Cover for beale street" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d97df7eee4ddb40e0301c829652252bb.png" alt="Cover for beale street" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>ben prestage</td>
@@ -584,14 +558,14 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 28</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 40</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 27</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 41</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/gqDEnqUk_6CZXAUQrJa8v8cFxmePw_kWq90eiEUy-H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjcx/MDktMTY2NTQ4MDEz/NS0yNjI2LmpwZWc.jpeg" alt="Cover for Macknificent" style="max-width:120px; height:auto;" />
       </td>
@@ -610,7 +584,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/X1VdxrBl4ihrxHVoU31uA1l9VuirHZ3X92CdmobjWN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTYx/ODYtMTMyNzE0OTcy/MS5qcGVn.jpeg" alt="Cover for Rock City" style="max-width:120px; height:auto;" />
       </td>
@@ -628,7 +602,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c594d2171d2207f606aec7e30b739aca.png" alt="Cover for Gone On That Bay" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +620,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/saoLZE_VB5pFP0c861C4Dj3Tcv4gAHfNRNq6Jrrw9fQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODcz/My0xNjUxOTg2Mzk1/LTQyNjIucG5n.jpeg" alt="Cover for That Much Further West" style="max-width:120px; height:auto;" />
       </td>
@@ -666,9 +640,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/YjgDdEKb-qZXenzfPGOHTdtS8YVuJEtgJeRdwSHY09A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY3/OTU5LTE2MzE4OTQ3/MjgtMzgzNi5qcGVn.jpeg" alt="Cover for Fuck Elvis Here&#39;s the Reatards" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae85052e9afd2f400e43ecb72d832d61.png" alt="Cover for Fuck Elvis Here&#39;s the Reatards" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Reatards</td>
@@ -687,15 +661,15 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 16</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 51</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/A2pyNMGQDg4IgnLX5V5RIO3CRDi0hqbuTURVVkyVW0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjkx/NjQtMTM2NDM4ODg0/Mi01NjMyLmpwZWc.jpeg" alt="Cover for Kreepin Out tha Kut" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/572b7f25aea2696b690806c480057e9c.png" alt="Cover for Kreepin Out tha Kut" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Evil Pimp &amp; Creep Lo</td>
@@ -714,17 +688,15 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/Kr68VtcpqwFzXm4fVgY8QcdryHyWrd0u5ndVjzEh_NM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjQx/ODMtMTY2NTgxOTk3/MC0zMTM4LmpwZWc.jpeg" alt="Cover for Da Dro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8591f212c45911b02f6b149714c790d6.png" alt="Cover for Da Dro" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Gangsta Pat</td>
       <td>Da Dro</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
         </ul>
       </td>
       <td>
@@ -733,7 +705,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/gS45gLKAF3XpJruEjZNeLczXXJHiZdktzW_xWAdCJrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUy/OTMyLTE1MDM2ODU1/MjctNDc3OS5qcGVn.jpeg" alt="Cover for A Real Band demo" style="max-width:120px; height:auto;" />
       </td>
@@ -753,8 +725,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fb4ed65780d4190c14ebc8b651ffa5f.png" alt="Cover for Most Known Unknown" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-27</td>
       <td>Three 6 Mafia</td>
@@ -766,13 +739,13 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 69</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 73</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/dI94iF556Z5WDQvUazHVRpc30ZKWADpT_LyRRXgN2t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTk0/NTgtMTU1NzgyMjkx/OC03Mzc2LmpwZWc.jpeg" alt="Cover for Da Last Krucifixin (Book of Revelations Chapt.1)" style="max-width:120px; height:auto;" />
       </td>
@@ -790,7 +763,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
       </td>
       <td>2006</td>
@@ -807,8 +780,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/312e797249f1bc689425f37faca522d1.png" alt="Cover for Down-Home &amp; Home-Made" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-01</td>
       <td>ben prestage</td>
@@ -827,14 +801,14 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 40</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 49</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 41</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 50</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Cus6ppV0fTO31s_q1XMwtuR34DV--0thx5p2ifA3aig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjYz/MzktMTM2MDE2NTYx/NS04MzE0LmpwZWc.jpeg" alt="Cover for Serapis" style="max-width:120px; height:auto;" />
       </td>
@@ -852,8 +826,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12465a9e148a2b5f82fb71d51a935df2.png" alt="Cover for 12 Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-21</td>
       <td>Cory Branan</td>
@@ -866,12 +841,12 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/zoTEEtPsaE829pn89xjboIGNw-Tpc8i9L6BtMTldXmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjI1/MTQtMTYwMTE0Njcz/MS00NjI5LmpwZWc.jpeg" alt="Cover for The Faithless" style="max-width:120px; height:auto;" />
       </td>
@@ -891,8 +866,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79117ff75bb7c670b6e53e360899f445.png" alt="Cover for Real Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>ben prestage</td>
@@ -911,16 +887,16 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 41</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 51</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 42</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 52</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/P8Qgq3ul6GHj_pXYMHOO0_NNBLJMpq1wsZHbK5twSbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQw/OTctMTU0NDE1NDEx/MC05NTAzLmpwZWc.jpeg" alt="Cover for Da Bad Guy Returns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c6ecb1cabec349d43bd95c86993890.png" alt="Cover for Da Bad Guy Returns" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Evil Pimp</td>
@@ -934,12 +910,12 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 21</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/5WGKamWJEubVJb2Eqxr-kfgC8ofJC_G7k95vu-Lz_IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/MjQtMTY2Mzk5NzM4/MS0yNjY5LmpwZWc.jpeg" alt="Cover for The Return: Part 1" style="max-width:120px; height:auto;" />
       </td>
@@ -955,14 +931,14 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 2</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/faHx2oVTj4S5BxduwaLCGkqfUCn78PHSrcCs4FUdTK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTA5/NDktMTQ0MTc0Mjk5/NS03NzIwLmpwZWc.jpeg" alt="Cover for Live At Pineapple Willy&#39;s" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe5116e5e384166a052f327f865d10c.png" alt="Cover for Live At Pineapple Willy&#39;s" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>ben prestage</td>
@@ -981,13 +957,13 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 5</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 34</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 7</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/OKDR9bXAOgmk2KlknbWMhcls9oL0AoCkiW6f2uyr3zE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODI3/ODAtMTI4MDc4NDY3/OS5qcGVn.jpeg" alt="Cover for pure ghetto anger" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +982,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/I3iTImnIjDkoSkwjhljB6UkvDmeUaePqcyCj0Nh69H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODUy/NDYtMTQ3OTYzOTc2/Ni03ODUwLmpwZWc.jpeg" alt="Cover for Genesis" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1001,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg" alt="Cover for Pulled Up (feat. 2 Chainz &amp; Juicy J)" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,9 +1023,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/6JINNv5eYmS_WGGFBU6gmumQyQ9I4YYViihkw6wjT0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDY1/MjktMTM2NDM4ODU5/NC0zNjA4LmpwZWc.jpeg" alt="Cover for Face The Terror" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57d6fe6e7b5c4647a5adf822718c39c2.png" alt="Cover for Face The Terror" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Evil Pimp</td>
@@ -1066,7 +1042,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/ipCBuvuX4cTDX3LQZMlNDfSd65M5zcVJD74u6i7rdx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTU0/NjAtMTM2MjY2MTEz/My05MTQyLmpwZWc.jpeg" alt="Cover for By Mistake (Remix) [feat. Juicy J &amp; Project Pat)" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1064,26 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/cKxQBeOU5jg321eZcJO3t95-yHBmsXmubtKjwGyiXlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODA1/NDctMTQ2NDQ1ODY2/Mi0xODUwLmpwZWc.jpeg" alt="Cover for Tommy Wright III Presents Behind Closed Doors" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Tommy Wright III</td>
+      <td>Tommy Wright III Presents Behind Closed Doors</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/bmR4cer5igmPUqR6gMfbGjFMX_a9LKRAxsVPDZ1SFBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAx/ODUtMTQyNDg5NTUx/MS00MDExLmpwZWc.jpeg" alt="Cover for High Class Street Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,9 +1105,9 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/px76zAY9oAV90EChv1-Da8ocASte6NgAlbjMv1vgSg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzE0/OTctMTQzNTMxNzcx/Ny03MTMyLmpwZWc.jpeg" alt="Cover for One Crow Murder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2c7557f165013e8c00d2003a9847614.png" alt="Cover for One Crow Murder" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-05</td>
       <td>ben prestage</td>
@@ -1131,15 +1126,16 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 39</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 48</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 40</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 49</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce8b0f81f4d5434fb0a5e603b7ab95e9.png" alt="Cover for Got To Get Back!" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-21</td>
       <td>The Bo-Keys</td>
@@ -1158,7 +1154,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/kPopI1E-2ESEKHwPfTFxT_cxTba170xvm_LLzJnunBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/NzgtMTM2MjQ4ODU1/OS04ODY4LmpwZWc.jpeg" alt="Cover for A Time 2 Kill (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,7 +1176,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/kPopI1E-2ESEKHwPfTFxT_cxTba170xvm_LLzJnunBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/NzgtMTM2MjQ4ODU1/OS04ODY4LmpwZWc.jpeg" alt="Cover for A Time 2 Kill" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,7 +1198,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/0woFtvSvNc5baEm2-yHZWF8fG-OMKFVbv7xiGJyfbJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzAx/MzYtMTM2MDI2NzI4/OS02MzYzLmpwZWc.jpeg" alt="Cover for Blue Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,7 +1220,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/kPopI1E-2ESEKHwPfTFxT_cxTba170xvm_LLzJnunBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/NzgtMTM2MjQ4ODU1/OS04ODY4LmpwZWc.jpeg" alt="Cover for Welcome 2 Dolph World" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1242,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/YATDAfsuS4jvDFDk6qZV3CxPRXs8DaPU9B99zpnnOmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Njg4/NTEtMTM2ODYzOTg4/MC04MTk2LmpwZWc.jpeg" alt="Cover for High Class Street Music 3 (Trappin Out A Mansion)" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,7 +1264,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/MOKj-PnSbrFTvmXTmXclCCzeShmEsdvEFhoWVT4m4ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjQ3/ODktMTM4MjQ0ODk1/MS00MDEwLmpwZWc.jpeg" alt="Cover for South Memphis Kingpin" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1286,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Hc-cqQ5XK7a3mPGlfq6s6FnKkQ6m8mFjg_08wOqe_-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjMx/MDktMTQwMTk4MDIy/Mi0yMzc0LmpwZWc.jpeg" alt="Cover for 6ix Commandments" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,12 +1301,12 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 47</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/2Ype_IqYIOiUcxknJffiGqWY0M1OYc19Si0gdhB-s58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjYx/NTItMTQwNDg1ODU5/MC01MzIyLmpwZWc.jpeg" alt="Cover for High Class Street Music 4: American Gangster" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1328,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/p5dpZLGVCmwybho5SVgbBkEgtRwj8vwXtnhnVa-JBww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTky/NTAtMTM5NzY0MTU3/NS0yMzYxLmpwZWc.jpeg" alt="Cover for Preach" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1350,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/jOtkvpL82LH75i27DoF8Zvsbg45IcUhZ-iRzlqaoi8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODY3/MjgtMTQyODc3NDc4/OS01ODY2LmpwZWc.jpeg" alt="Cover for High Class Street Music 5: The Plug Best Friend" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,7 +1372,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/VQEufdcIRSqimrMu79X84nLkNRlNpVLOQveLNvcbk9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDMw/MDUtMTQzODQxMzg2/Ni0zOTkwLmpwZWc.jpeg" alt="Cover for 16 Zips" style="max-width:120px; height:auto;" />
       </td>
@@ -1398,7 +1394,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/22MbkGKqbadUXwfR8AbZ-kk3ymQv4OuBxAO1UUKL2hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTA2/NTItMTY2NjU1NzI3/OC05ODU4LmpwZWc.jpeg" alt="Cover for Shittin On The Industry" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1416,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/_f9YLH4DR5u3szmtRuFocu9wHD5mmvUmnj5U17xpcCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzU4/MTgtMTQ1NjU3MTYw/MC03MDQ3LnBuZw.jpeg" alt="Cover for King of Memphis" style="max-width:120px; height:auto;" />
       </td>
@@ -1442,7 +1438,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/pYF7LFoGIbIgoZ0omEWM1arBRSc0ofPiH8sjiMJaeuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA0/MjQwLTE2MzcwODQ0/NjYtNjkyMS5qcGVn.jpeg" alt="Cover for Ice Cream Demon" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,7 +1456,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/-vJdD0bBfXa9-NAAa7FNJqWKdiTRRVwv6dfIMdqlAcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU1/NDAtMTQ3Njk4NDE4/Ni05NzU4LnBuZw.jpeg" alt="Cover for Rich Crack Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,7 +1478,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/pEIEYCxw_ApCUcn7rVfJcis6kKyvhoPRcbQb4p834Do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/MzEzLTE1MjMzNDA4/MDQtNTEwNS5qcGVn.jpeg" alt="Cover for Underground Vol. 16: For da Summa" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,13 +1495,13 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 20</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 25</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/lKmasllhDBa-7rW4QjcRIQTxxpWVpChwjE3riLR2c5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcz/NDcwLTE2NjY1NTU4/MDEtNjYyNy5qcGVn.jpeg" alt="Cover for Bagg" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,7 +1523,30 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg" alt="Cover for Gelato" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-03</td>
+      <td>Young Dolph</td>
+      <td>Gelato</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg" alt="Cover for Death Row" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,42 +1568,15 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg" alt="Cover for Gelato" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-03-03</td>
-      <td>Young Dolph</td>
-      <td>Gelato</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/vniDjiAoXT1J2lErBVlh_Bx70z34aXogxckb5FBwXC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAz/MDE2LTE0OTE2NjIw/NjctNjc0MC5qcGVn.jpeg" alt="Cover for Bulletproof" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3486741bbe8447bc8fc2885c81093479.png" alt="Cover for Bulletproof" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-01</td>
       <td>Young Dolph</td>
       <td>Bulletproof</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
         </ul>
       </td>
       <td>
@@ -1593,20 +1585,15 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg" alt="Cover for Role Model" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96a72c6145707532f74854768a38ec55.png" alt="Cover for Role Model" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-28</td>
       <td>Young Dolph</td>
       <td>Role Model</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
@@ -1615,7 +1602,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg" alt="Cover for Nothing To Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1624,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/ps_7A95HWW04xOCDYKKVuh0eRexCIRmObAXA2tFiyQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/Njc3LTE2NjY1NTU2/NzgtOTEyMS5qcGVn.jpeg" alt="Cover for Crashin&#39; Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1646,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/ps_7A95HWW04xOCDYKKVuh0eRexCIRmObAXA2tFiyQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/Njc3LTE2NjY1NTU2/NzgtOTEyMS5qcGVn.jpeg" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1668,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/KbKBvTJGynrn-A2KpwOsa7r4FFLXkwOSoBG-dU9gMgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NjY4LTE2NjY1NTU3/MTktMTU1Ny5qcGVn.jpeg" alt="Cover for 16" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,7 +1690,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/lKmasllhDBa-7rW4QjcRIQTxxpWVpChwjE3riLR2c5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcz/NDcwLTE2NjY1NTU4/MDEtNjYyNy5qcGVn.jpeg" alt="Cover for Aspen" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1712,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg" alt="Cover for Bosses &amp; Shooters" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,7 +1734,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/-t-jyBSWrDH_eEM_hIrqf4K-ierNAy2oSkxdC4hkKLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NjYzLTE2NjY1NTU2/MzctNTYxMC5qcGVn.jpeg" alt="Cover for Blue Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,32 +1756,26 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/MMc_2TZPUej3UL0o5fL4jhR_Kl7ok8JZrC8LUQBqoc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NjQ0LTE2NDgzODE3/NDAtNTc5NS5qcGVn.jpeg" alt="Cover for Rich Slave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bf7eca51bbb3c84b9eea8b1af640ef8.png" alt="Cover for Rich Slave" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-14</td>
       <td>Young Dolph</td>
       <td>Rich Slave</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Q_--SJag97HLg42i-xOPXRbJaacxZQO-10oiD0kK3oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/MDA2LTE2NTgxNDI2/ODYtNTQ2MS5qcGVn.jpeg" alt="Cover for Pimp Slap" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d152d0ef068b7ead43684c199e7174a.png" alt="Cover for Pimp Slap" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-21</td>
       <td>KSLV Noh</td>
@@ -1809,12 +1790,12 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 28</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg" alt="Cover for Yeeh Yeeh" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1817,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg" alt="Cover for That&#39;s How I Feel" style="max-width:120px; height:auto;" />
       </td>
@@ -1858,7 +1839,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg" alt="Cover for Preach (feat. Lil Wayne &amp; 2 Chainz)" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1861,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg" alt="Cover for Cross Country Trappin" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1883,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg" alt="Cover for Major (feat. Key Glock)" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,7 +1905,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/g7vJNbqZ3m-MNoWxv0_hr8yflJ5KoUuhU1GBWFKmGbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTI3/MjI2LTE2NzE2MjM5/NDctOTMzNC5qcGVn.jpeg" alt="Cover for Juxtapose Occult" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,7 +1923,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1963,7 +1944,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1989,7 +1970,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -2024,19 +2005,20 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 9</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 12</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 24</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 46</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 58</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 58</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dae0e039f59aea49fc506fb76601bcd.png" alt="Cover for Looken for Tha Chewin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dj. Zirk &amp; Tha 2thick Family</td>
@@ -2050,12 +2032,12 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 23</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2073,7 +2055,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2091,7 +2073,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2113,7 +2095,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
