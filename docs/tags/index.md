@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-24T12:54:02.615Z
+date: 2025-11-24T12:58:09.034Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-24T12:54:02.615Z">Mon Nov 24 2025 14:54:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T12:58:09.034Z">Mon Nov 24 2025 14:58:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [bay area]({{ "tags/bay-area" | relative_url }}) | <time datetime="2025-11-24T12:58:09.034Z">Mon Nov 24 2025 14:58:09 GMT+0200 (Eastern European Standard Time)</time> |
+| [cyberpunk]({{ "tags/cyberpunk" | relative_url }}) | <time datetime="2025-11-24T12:57:35.320Z">Mon Nov 24 2025 14:57:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronic pop]({{ "tags/electronic-pop" | relative_url }}) | <time datetime="2025-11-24T12:54:02.615Z">Mon Nov 24 2025 14:54:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [deutschrap]({{ "tags/deutschrap" | relative_url }}) | <time datetime="2025-11-24T12:52:11.252Z">Mon Nov 24 2025 14:52:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [lo-fi]({{ "tags/lo-fi" | relative_url }}) | <time datetime="2025-11-24T12:51:56.922Z">Mon Nov 24 2025 14:51:56 GMT+0200 (Eastern European Standard Time)</time> |
@@ -721,7 +723,6 @@ Last updated: <time datetime="2025-11-24T12:54:02.615Z">Mon Nov 24 2025 14:54:02
 | [female rapper]({{ "tags/female-rapper" | relative_url }}) | <time datetime="2025-11-14T01:41:30.654Z">Fri Nov 14 2025 03:41:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu-bluz]({{ "tags/nu-bluz" | relative_url }}) | <time datetime="2025-11-14T01:41:07.357Z">Fri Nov 14 2025 03:41:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid folk]({{ "tags/acid-folk" | relative_url }}) | <time datetime="2025-11-14T01:37:16.259Z">Fri Nov 14 2025 03:37:16 GMT+0200 (Eastern European Standard Time)</time> |
-| [cyberpunk]({{ "tags/cyberpunk" | relative_url }}) | <time datetime="2025-11-14T01:34:55.842Z">Fri Nov 14 2025 03:34:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [choral]({{ "tags/choral" | relative_url }}) | <time datetime="2025-11-14T01:34:25.341Z">Fri Nov 14 2025 03:34:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [anarcho-punk]({{ "tags/anarcho-punk" | relative_url }}) | <time datetime="2025-11-14T01:33:42.572Z">Fri Nov 14 2025 03:33:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [mexican]({{ "tags/mexican" | relative_url }}) | <time datetime="2025-11-14T01:32:36.034Z">Fri Nov 14 2025 03:32:36 GMT+0200 (Eastern European Standard Time)</time> |
@@ -768,7 +769,6 @@ Last updated: <time datetime="2025-11-24T12:54:02.615Z">Mon Nov 24 2025 14:54:02
 | [experimental techno]({{ "tags/experimental-techno" | relative_url }}) | <time datetime="2025-11-11T19:29:24.918Z">Tue Nov 11 2025 21:29:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [montreal]({{ "tags/montreal" | relative_url }}) | <time datetime="2025-11-11T14:54:33.264Z">Tue Nov 11 2025 16:54:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternativo]({{ "tags/alternativo" | relative_url }}) | <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29 GMT+0200 (Eastern European Standard Time)</time> |
-| [bay area]({{ "tags/bay-area" | relative_url }}) | <time datetime="2025-11-11T13:49:18.073Z">Tue Nov 11 2025 15:49:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [gothic pop]({{ "tags/gothic-pop" | relative_url }}) | <time datetime="2025-11-11T13:48:55.159Z">Tue Nov 11 2025 15:48:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [2-step]({{ "tags/2-step" | relative_url }}) | <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [minimal synth]({{ "tags/minimal-synth" | relative_url }}) | <time datetime="2025-11-11T13:46:53.786Z">Tue Nov 11 2025 15:46:53 GMT+0200 (Eastern European Standard Time)</time> |
