@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-24T05:08:38.057Z
+date: 2025-11-24T06:16:38.091Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-24T05:08:38.057Z">Mon Nov 24 2025 07:08:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T06:16:38.091Z">Mon Nov 24 2025 08:16:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [detroit]({{ "tags/detroit" | relative_url }}) | <time datetime="2025-11-24T06:16:38.091Z">Mon Nov 24 2025 08:16:38 GMT+0200 (Eastern European Standard Time)</time> |
+| [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-11-24T06:13:24.005Z">Mon Nov 24 2025 08:13:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [art pop]({{ "tags/art-pop" | relative_url }}) | <time datetime="2025-11-24T05:08:38.057Z">Mon Nov 24 2025 07:08:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [neofolk]({{ "tags/neofolk" | relative_url }}) | <time datetime="2025-11-24T04:58:38.203Z">Mon Nov 24 2025 06:58:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie dance]({{ "tags/indie-dance" | relative_url }}) | <time datetime="2025-11-24T04:57:38.011Z">Mon Nov 24 2025 06:57:38 GMT+0200 (Eastern European Standard Time)</time> |
@@ -372,7 +374,6 @@ Last updated: <time datetime="2025-11-24T05:08:38.057Z">Mon Nov 24 2025 07:08:38
 | [djent]({{ "tags/djent" | relative_url }}) | <time datetime="2025-11-23T02:34:57.285Z">Sun Nov 23 2025 04:34:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [nwothm]({{ "tags/nwothm" | relative_url }}) | <time datetime="2025-11-23T02:34:41.720Z">Sun Nov 23 2025 04:34:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [nwobhm]({{ "tags/nwobhm" | relative_url }}) | <time datetime="2025-11-23T02:34:36.280Z">Sun Nov 23 2025 04:34:36 GMT+0200 (Eastern European Standard Time)</time> |
-| [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-11-23T02:34:09.715Z">Sun Nov 23 2025 04:34:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [british rock]({{ "tags/british-rock" | relative_url }}) | <time datetime="2025-11-23T02:17:05.150Z">Sun Nov 23 2025 04:17:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive folk]({{ "tags/progressive-folk" | relative_url }}) | <time datetime="2025-11-23T02:16:29.389Z">Sun Nov 23 2025 04:16:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [poetry]({{ "tags/poetry" | relative_url }}) | <time datetime="2025-11-23T01:37:08.002Z">Sun Nov 23 2025 03:37:08 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1084,7 +1085,6 @@ Last updated: <time datetime="2025-11-24T05:08:38.057Z">Mon Nov 24 2025 07:08:38
 | [mincecore]({{ "tags/mincecore" | relative_url }}) | <time datetime="2025-10-23T00:16:16.546Z">Thu Oct 23 2025 03:16:16 GMT+0300 (Eastern European Summer Time)</time> |
 | [78 revival]({{ "tags/78-revival" | relative_url }}) | <time datetime="2025-10-23T00:15:21.714Z">Thu Oct 23 2025 03:15:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [ambient folk noir]({{ "tags/ambient-folk-noir" | relative_url }}) | <time datetime="2025-10-23T00:13:26.751Z">Thu Oct 23 2025 03:13:26 GMT+0300 (Eastern European Summer Time)</time> |
-| [detroit]({{ "tags/detroit" | relative_url }}) | <time datetime="2025-10-23T00:09:58.884Z">Thu Oct 23 2025 03:09:58 GMT+0300 (Eastern European Summer Time)</time> |
 | [true black metal]({{ "tags/true-black-metal" | relative_url }}) | <time datetime="2025-10-23T00:07:40.528Z">Thu Oct 23 2025 03:07:40 GMT+0300 (Eastern European Summer Time)</time> |
 | [national socialist]({{ "tags/national-socialist" | relative_url }}) | <time datetime="2025-10-23T00:06:25.792Z">Thu Oct 23 2025 03:06:25 GMT+0300 (Eastern European Summer Time)</time> |
 | [darksynth]({{ "tags/darksynth" | relative_url }}) | <time datetime="2025-10-23T00:04:15.880Z">Thu Oct 23 2025 03:04:15 GMT+0300 (Eastern European Summer Time)</time> |
